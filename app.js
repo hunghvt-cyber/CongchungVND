@@ -17,23 +17,28 @@ const correctIds = q => new Set(q.answers.filter(a => a.correct).map(a => a.id))
 const sameSet = (a,b) => a.size === b.size && [...a].every(x => b.has(x));
 
 async function loadQuestions() {
-  const response = await fetch('./data/questions.json');
-  if (!response.ok) throw new Error('Không thể tải ngân hàng câu hỏi.');
-  return response.json();
+  const [base, round2] = await Promise.all([
+    fetch('./data/questions.json').then(r => { if(!r.ok) throw new Error('Không thể tải ngân hàng câu hỏi.'); return r.json(); }),
+    fetch('./data/derived-questions.json').then(r => { if(!r.ok) throw new Error('Không thể tải ngân hàng câu hỏi vòng 2.'); return r.json(); })
+  ]);
+  const all = [...base, ...round2];
+  return all.filter((q, i, arr) => arr.findIndex(x => x.id === q.id) === i);
 }
 
 function showSetup(mode) {
   state.mode = mode;
   els.quiz.classList.add('hidden'); els.result.classList.add('hidden');
   els.setup.classList.remove('hidden');
+  const available = state.bank.length;
   els.setup.innerHTML = mode === 'practice' ? `
     <p class="eyebrow">Ôn tập</p><h2>Chọn nội dung</h2>
+    <p class="lead">Ngân hàng hiện có <strong>${available}</strong> câu; câu vòng 2 đang ở trạng thái rà soát.</p>
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="all">Tất cả</option><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
-    <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option></select></label></div>
+    <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option value="100">100</option></select></label></div>
     <button id="startSetup" class="primary-button">Bắt đầu ôn</button>` : `
     <p class="eyebrow">Thi thử</p><h2>Cấu hình bài thi</h2>
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
-    <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option></select></label>
+    <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option>100</option></select></label>
     <label>Thời gian<select id="setupDuration"><option value="15">15 phút</option><option value="30">30 phút</option><option value="60">60 phút</option><option value="90">90 phút</option></select></label></div>
     <button id="startSetup" class="primary-button">Sinh mã đề & bắt đầu</button>`;
   document.querySelector('#startSetup').addEventListener('click', () => {
