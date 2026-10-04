@@ -1,0 +1,97 @@
+const {test} = require('node:test');
+const assert = require('node:assert/strict');
+const fs = require('node:fs');
+const vm = require('node:vm');
+
+// Minimal DOM surface for logic/HTML regression tests. No browser dependency.
+class Element {
+  constructor() {
+    this.innerHTML=''; this.value=''; this.textContent=''; this.disabled=false; this.style={}; this.dataset={}; this.listeners={}; this.classes=new Set();
+    this.classList={add: (...xs)=>xs.forEach(x=>this.classes.add(x)),remove: (...xs)=>xs.forEach(x=>this.classes.delete(x)),toggle:(x,on)=>on?this.classes.add(x):this.classes.delete(x),contains:x=>this.classes.has(x)};
+    this.children=new Map();
+  }
+  addEventListener(type, fn) { this.listeners[type]=fn; }
+  querySelector(selector) { if(!this.children.has(selector))this.children.set(selector,new Element()); return this.children.get(selector); }
+  querySelectorAll() { return []; }
+  scrollIntoView() {}
+  insertAdjacentHTML(position, html) { this.innerHTML+=html; }
+}
+function harness() {
+  const document=new Element();
+  const memory=new Map();
+  let now=1000000;
+  const context=vm.createContext({document, window:new Element(), location:{reload(){}},
+    localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
+    fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
+    Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,answerSummary};',context);
+  return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
+}
+function question(id, status='active', type='single') {
+  return {id,status,part:1,topic:'Kiểm tra <an toàn>',type,question:{variants:['Cách hỏi 1 '+id,'Cách hỏi 2 '+id]},answers:[{id:'A',text:'Đúng <A>',correct:true},{id:'B',text:'Sai B',correct:false},{id:'C',text:'Đúng C',correct:type==='multiple'}],explanation:'Giải thích <nội dung>',legalBasis:[{document:'Luật Công chứng số 46/2024/QH15',article:'Điều 2',url:'https://chinhphu.vn/?docid=212474&pageid=27160'}]};
+}
+function start(h, mode, questions, count=questions.length) {h.state.bank=questions;h.state.mode=mode;h.startSession(1,count,15);}
+
+test('only active/verified questions enter either mode, unavailable part stays in setup',()=>{
+  for(const mode of ['practice','mock']) {
+    const h=harness();start(h,mode,['active','verified','review','needs_review','draft','archived'].map((s,i)=>question(String(i),s)));
+    assert.equal(h.state.questions.length,2);assert.ok(h.state.questions.every(q=>['active','verified'].includes(q.status)));
+    h.startSession(2,5,15);assert.match(h.context.alertMessage,/Chưa có câu hỏi/);assert.equal(h.state.timerId,null);
+  }
+});
+test('question variants and displayed answer order stay fixed on revisit',()=>{
+  const h=harness();start(h,'mock',[question('one'),question('two')]);
+  const original=h.els.questionArea.innerHTML;
+  const snapshot=JSON.stringify(h.state.questions);
+  for(let i=0;i<20;i++){h.state.current=1;h.renderQuestion();h.state.current=0;h.renderQuestion();assert.equal(h.els.questionArea.innerHTML,original);}
+  assert.equal(JSON.stringify(h.state.questions),snapshot);
+  assert.match(h.document.querySelector('#explanation').innerHTML,/^$/);
+});
+test('incorrect practice answers stay locked on revisit and cannot change score',()=>{
+  const h=harness();start(h,'practice',[question('one'),question('two')]);const q=h.state.questions[0];
+  h.toggleAnswer('B');h.next();assert.equal(h.state.current,0);assert.equal(h.state.results[q.id],false);assert.equal(h.state.score,0);
+  assert.match(h.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);
+  h.next();h.state.current=0;h.renderQuestion();assert.equal(h.state.answered,true);
+  h.toggleAnswer('A');h.submitPractice();assert.equal(h.state.results[q.id],false);assert.equal(h.state.score,0);
+});
+test('multiple choice scoring requires the entire correct set with no extras',()=>{
+  const h=harness();start(h,'mock',[question('complete','active','multiple'),question('partial','active','multiple'),question('extra','active','multiple'),question('blank')]);
+  h.state.answers={complete:['A','C'],partial:['A'],extra:['A','B','C']};h.submitMock();
+  assert.equal(h.state.score,1);assert.equal(h.state.results.complete,true);assert.equal(h.state.results.partial,false);assert.equal(h.state.results.extra,false);assert.equal(h.state.results.blank,false);
+});
+test('results include correct, wrong and unanswered questions with explanations/basis/feedback',()=>{
+  const h=harness();start(h,'mock',[question('right'),question('wrong'),question('blank')]);
+  h.state.answers={right:['A'],wrong:['B']};h.submitMock();const html=h.els.result.innerHTML;
+  assert.equal((html.match(/<details /g)||[]).length,3);assert.equal((html.match(/Đáp án đúng:/g)||[]).length,3);assert.equal((html.match(/Giải thích:/g)||[]).length,3);assert.equal((html.match(/Góp ý câu hỏi \/ đáp án/g)||[]).length,3);
+  assert.match(html,/✓ Đúng/);assert.match(html,/✗ Sai/);assert.match(html,/Chưa trả lời/);assert.match(html,/Luật Công chứng số 46\/2024\/QH15/);assert.match(html,/Giải thích &lt;nội dung&gt;/);
+  const before=h.state.score;h.reviewQuestion('right');assert.match(h.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);h.toggleAnswer('B');h.next();h.next();h.next();assert.equal(h.state.score,before);assert.ok(!h.els.result.classList.contains('hidden'));
+});
+test('answer labels in review follow shuffled positions instead of original IDs',()=>{
+  const h=harness();const q=question('one');q.answers=[q.answers[1],q.answers[2],q.answers[0]];
+  assert.equal(h.answerSummary(q,['A']),'C. Đúng &lt;A&gt;');
+});
+test('deadline uses elapsed time, auto-submits once and rejects late selections',()=>{
+  const h=harness();start(h,'mock',[question('one')]);h.advance(15*60*1000+10000);h.toggleAnswer('A');
+  assert.equal(h.state.submitted,true);assert.equal(h.state.remaining,0);assert.equal(h.state.score,0);assert.equal(h.state.timerId,null);assert.match(h.els.result.innerHTML,/Hết giờ/);
+  h.submitMock();assert.equal(h.state.score,0);
+});
+test('deselecting all multiple answers removes answered count, switching mode stops timer',()=>{
+  const h=harness();start(h,'mock',[question('one','active','multiple')]);h.toggleAnswer('A');assert.match(h.els.scoreText.textContent,/1$/);h.toggleAnswer('A');assert.equal(Object.keys(h.state.answers).length,0);assert.match(h.els.scoreText.textContent,/0$/);
+  h.showSetup('practice');assert.equal(h.state.timerId,null);
+});
+test('feedback on separate answer cards stores correct context, validates text and handles storage failure',()=>{
+  const h=harness();start(h,'mock',[question('one'),question('two')]);h.submitMock();
+  for(const q of h.state.questions) {
+    const root=new Element();h.showFeedback(q,root);const box=root.querySelector('.feedback-box');
+    box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/Vui lòng/);
+    box.querySelector('.feedback-text').value=' Cần kiểm tra '+q.id;box.querySelector('.feedback-type').value='answer_wrong';box.querySelector('.send-feedback').listeners.click();
+  }
+  const stored=JSON.parse(h.memory.get('questionFeedback'));assert.equal(stored.length,2);assert.notEqual(stored[0].questionId,stored[1].questionId);assert.ok(stored.every(x=>x.examCode===h.state.examCode && x.variant && x.answerOrder.length===3));
+  h.context.localStorage.setItem=()=>{throw Error('blocked');};const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Không mất nội dung';box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/Không thể lưu/);
+});
+test('real bank has 120 unique questions, 100 eligible, and no bare numbered law titles',()=>{
+  const all=['questions','derived-questions'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  assert.equal(all.length,120);assert.equal(new Set(all.map(q=>q.id)).size,120);assert.equal(all.filter(q=>['active','verified'].includes(q.status)).length,100);
+  assert.doesNotMatch(JSON.stringify(all),/Luật [0-9]/);assert.ok(all.every(q=>q.explanation&&q.legalBasis.length));
+  const h=harness();start(h,'mock',all,100);assert.ok(h.state.questions.every(q=>!q.id.startsWith('SRC26-')));
+});
