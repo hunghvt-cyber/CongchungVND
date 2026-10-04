@@ -8,65 +8,25 @@
   <link rel="stylesheet" href="./styles.css" />
 </head>
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a class="brand" href="./">Ôn thi Công chứng 2027</a>
-      <span class="badge">MVP</span>
-    </div>
-  </header>
-
+  <header class="site-header"><div class="container header-inner"><a class="brand" href="./">Ôn thi Công chứng 2027</a><span class="badge">MVP</span></div></header>
   <main class="container">
-    <section class="hero">
-      <p class="eyebrow">Nhóm ôn tập</p>
-      <h1>Ôn tập trắc nghiệm tập sự hành nghề công chứng</h1>
-      <p class="lead">Ngân hàng câu hỏi độc lập, mã đề đa dạng, đáp án và giải thích rõ ràng.</p>
+    <section class="hero"><p class="eyebrow">Ôn thi công chứng</p><h1>Học và thi trắc nghiệm</h1><p class="lead">Hai chế độ đơn giản: Ôn tập để học từng câu và Thi thử để mô phỏng bài thi.</p></section>
+
+    <section class="mode-grid" aria-label="Chọn chế độ">
+      <button id="practiceMode" class="mode-card"><span class="mode-icon">📖</span><span class="card-number">CHẾ ĐỘ 1</span><h2>Ôn tập</h2><p>Xem đúng/sai, đáp án, giải thích và căn cứ pháp lý ngay sau mỗi câu.</p><span class="card-action">Bắt đầu ôn →</span></button>
+      <button id="mockMode" class="mode-card"><span class="mode-icon">📝</span><span class="card-number">CHẾ ĐỘ 2</span><h2>Thi thử</h2><p>Sinh mã đề, giới hạn thời gian và chỉ xem đáp án sau khi nộp bài.</p><span class="card-action">Bắt đầu thi →</span></button>
     </section>
 
-    <section class="exam-grid" aria-label="Chọn bài ôn tập">
-      <button class="exam-card" data-part="1">
-        <span class="card-number">Bài 1</span>
-        <h2>Pháp luật</h2>
-        <p>Công chứng, chứng thực và Quy tắc đạo đức hành nghề công chứng.</p>
-        <span class="card-action">Bắt đầu ôn →</span>
-      </button>
-      <button class="exam-card" data-part="2">
-        <span class="card-number">Bài 2</span>
-        <h2>Kỹ năng</h2>
-        <p>Kỹ năng hành nghề công chứng và xử lý tình huống.</p>
-        <span class="card-action">Bắt đầu ôn →</span>
-      </button>
-    </section>
-
-    <section class="quick-actions">
-      <button id="practiceAll" class="secondary-button">Ôn thử 5 câu mẫu</button>
-    </section>
-
+    <section id="setup" class="setup-panel hidden"></section>
     <section id="quiz" class="quiz-panel hidden" aria-live="polite">
-      <div class="quiz-topbar">
-        <div>
-          <span id="quizPart" class="eyebrow"></span>
-          <h2 id="quizTitle">Bài ôn tập</h2>
-        </div>
-        <button id="exitQuiz" class="icon-button" aria-label="Thoát">×</button>
-      </div>
-      <div class="progress-wrap">
-        <div class="progress-label"><span id="progressText"></span><span id="scoreText"></span></div>
-        <div class="progress"><div id="progressBar"></div></div>
-      </div>
+      <div class="quiz-topbar"><div><span id="quizMode" class="eyebrow"></span><h2 id="quizTitle">Bài kiểm tra</h2></div><div class="quiz-meta"><span id="examCode"></span><span id="timer"></span><button id="exitQuiz" class="icon-button" aria-label="Thoát">×</button></div></div>
+      <div class="progress-wrap"><div class="progress-label"><span id="progressText"></span><span id="scoreText"></span></div><div class="progress"><div id="progressBar"></div></div></div>
       <div id="questionArea"></div>
-      <div class="quiz-actions">
-        <button id="prevQuestion" class="secondary-button">← Câu trước</button>
-        <button id="nextQuestion" class="primary-button">Trả lời & tiếp →</button>
-      </div>
+      <div class="quiz-actions"><button id="prevQuestion" class="secondary-button">← Câu trước</button><button id="nextQuestion" class="primary-button">Trả lời & tiếp →</button></div>
     </section>
-
     <section id="result" class="result-panel hidden"></section>
   </main>
-
-  <footer class="site-footer">
-    <div class="container">Dự án nhóm nhỏ · Dữ liệu câu hỏi sẽ được bổ sung và kiểm chứng dần.</div>
-  </footer>
-
+  <footer class="site-footer"><div class="container">Ngân hàng câu hỏi sẽ được bổ sung và kiểm chứng dần.</div></footer>
   <script type="module" src="./app.js"></script>
 </body>
 </html>
