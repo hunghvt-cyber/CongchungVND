@@ -1,0 +1,54 @@
+{
+  "policy": "Các đề thi/đề luyện công khai được dùng để xác định chủ đề, dạng tình huống và kỹ năng cần luyện; không sao chép nguyên văn. Câu hỏi đưa vào ngân hàng phải được viết lại, có đáp án và căn cứ pháp lý được kiểm tra riêng.",
+  "sources": [
+    {
+      "id": "OFFICIAL-TT06-2025",
+      "type": "official",
+      "title": "Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng",
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+      "use": "Khung nội dung tập sự, hình thức kiểm tra, xây dựng bộ câu hỏi."
+    },
+    {
+      "id": "OFFICIAL-PLAN-2024",
+      "type": "official",
+      "title": "Kế hoạch Kỳ kiểm tra kết quả tập sự hành nghề công chứng lần thứ năm",
+      "url": "https://www.moj.gov.vn/qt/thongbao/Lists/ThongBao/Attachments/2825/Q%C4%90%202317.pdf",
+      "use": "Tham chiếu cấu trúc và nội dung kỳ kiểm tra thực tế."
+    },
+    {
+      "id": "SAMPLE-2026-01",
+      "type": "secondary-public",
+      "title": "Đề số 1: Đề thi viết và đáp án công chứng viên 2026",
+      "url": "https://docluat.net/de-so-1-de-thi-viet-va-dap-an-cong-chung-vien-2026",
+      "use": "Nguồn tham khảo tình huống và cách đặt vấn đề năm 2026; không coi là đề chính thức."
+    },
+    {
+      "id": "SAMPLE-2024-05",
+      "type": "secondary-public",
+      "title": "Đề thi viết và đáp án công chứng viên lần thứ 5 năm 2024",
+      "url": "https://docluat.net/de-thi-va-dap-an-cong-chung-vien-lan-thu-5-nam-2024",
+      "use": "Nguồn tham khảo tình huống đạo đức, pháp luật và nghiệp vụ."
+    },
+    {
+      "id": "SAMPLE-2022-01",
+      "type": "secondary-public",
+      "title": "Bộ đề 1 kiểm tra kết quả tập sự hành nghề công chứng",
+      "url": "https://docluat.net/bo-de-1-kiem-tra-ket-qua-tap-su-hanh-nghe-cong-chung",
+      "use": "Nguồn tham khảo các chủ đề pháp luật và tình huống."
+    },
+    {
+      "id": "SAMPLE-2022-02",
+      "type": "secondary-public",
+      "title": "Bộ đề 2 kiểm tra kết quả tập sự hành nghề công chứng",
+      "url": "https://docluat.net/bo-de-2-kiem-tra-ket-qua-tap-su-hanh-nghe-cong-chung",
+      "use": "Nguồn tham khảo cạnh tranh không lành mạnh, bảo mật và đạo đức."
+    },
+    {
+      "id": "SAMPLE-2022-04",
+      "type": "secondary-public",
+      "title": "Bộ đề 4 kiểm tra kết quả tập sự hành nghề công chứng",
+      "url": "https://docluat.net/bo-de-4-kiem-tra-ket-qua-tap-su-hanh-nghe-cong-chung",
+      "use": "Nguồn tham khảo tình huống đạo đức và hướng giải quyết."
+    }
+  ]
+}
