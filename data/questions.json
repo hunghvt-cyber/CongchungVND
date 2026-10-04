@@ -3,18 +3,16 @@
     "id": "Q-DEMO-001",
     "part": 1,
     "topic": "Demo",
+    "type": "single",
     "status": "draft",
-    "variants": [
-      "1 + 1 bằng mấy?",
-      "Kết quả của 1 + 1 là bao nhiêu?",
-      "Thực hiện phép tính 1 + 1 được kết quả nào?"
-    ],
+    "question": {"variants": ["1 + 1 bằng mấy?", "Kết quả của 1 + 1 là bao nhiêu?", "Thực hiện phép tính 1 + 1 được kết quả nào?"]},
     "answers": [
-      { "id": "A", "text": "1", "correct": false, "explanation": "1 + 1 không bằng 1." },
-      { "id": "B", "text": "2", "correct": true, "explanation": "Theo phép cộng thông thường, 1 + 1 = 2." },
-      { "id": "C", "text": "3", "correct": false, "explanation": "1 + 1 không bằng 3." },
-      { "id": "D", "text": "4", "correct": false, "explanation": "1 + 1 không bằng 4." }
+      {"id": "A", "text": "1", "correct": false},
+      {"id": "B", "text": "2", "correct": true},
+      {"id": "C", "text": "3", "correct": false},
+      {"id": "D", "text": "4", "correct": false}
     ],
+    "explanation": "Theo phép cộng thông thường, 1 + 1 = 2.",
     "legalBasis": [],
     "lastVerified": null
   },
@@ -22,17 +20,16 @@
     "id": "Q-DEMO-002",
     "part": 1,
     "topic": "Demo",
+    "type": "single",
     "status": "draft",
-    "variants": [
-      "Số đáp án đúng của câu hỏi này là bao nhiêu?",
-      "Một câu hỏi trắc nghiệm có 4 phương án và chỉ một phương án đúng. Có bao nhiêu đáp án đúng?"
-    ],
+    "question": {"variants": ["Số đáp án đúng của câu hỏi này là bao nhiêu?", "Một câu hỏi trắc nghiệm có 4 phương án và chỉ một phương án đúng. Có bao nhiêu đáp án đúng?"]},
     "answers": [
-      { "id": "A", "text": "1", "correct": true, "explanation": "Đề bài quy định chỉ có một phương án đúng." },
-      { "id": "B", "text": "2", "correct": false, "explanation": "Không phù hợp với giả thiết chỉ có một phương án đúng." },
-      { "id": "C", "text": "3", "correct": false, "explanation": "Không phù hợp với giả thiết." },
-      { "id": "D", "text": "4", "correct": false, "explanation": "Không phải cả bốn phương án đều đúng." }
+      {"id": "A", "text": "1", "correct": true},
+      {"id": "B", "text": "2", "correct": false},
+      {"id": "C", "text": "3", "correct": false},
+      {"id": "D", "text": "4", "correct": false}
     ],
+    "explanation": "Đề bài quy định chỉ có một phương án đúng.",
     "legalBasis": [],
     "lastVerified": null
   }
