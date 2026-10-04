@@ -72,3 +72,13 @@ Người dùng chọn loại, nhập nội dung rồi bấm **Gửi góp ý** ng
 LocalStorage giữ bản dự phòng có delivery=pending/sent. Gửi lỗi thì giữ nội dung và cho thử lại; mở nút góp ý để gửi lại các bản mới đang chờ. Mỗi góp ý có UUID được giữ nguyên khi thử lại nhằm tránh trùng sau khi mất phản hồi mạng. Góp ý cũ chỉ lưu local (chưa có UUID/snapshot) không được tự tải lên. Bản dự phòng không phải bằng chứng máy chủ đã nhận; việc xóa dữ liệu trình duyệt sẽ mất bản chưa gửi. Nếu không lưu local được, web vẫn thử gửi trung tâm và báo rõ nếu cả hai thất bại.
 
 Cơ chế gửi không yêu cầu đăng nhập; đây là dữ liệu góp ý chưa được xác minh danh tính. Các ràng buộc kiểm tra loại, độ dài và định dạng; chưa triển khai CAPTCHA hay chống spam theo người dùng.
+
+### Lưu kết quả thi và theo dõi tiến bộ
+
+- Thi thử yêu cầu tên người thi, không cần tài khoản. Mỗi tên được chuẩn hóa khoảng trắng/chữ hoa-thường trên thiết bị và gắn với mã lịch sử UUID ngẫu nhiên; tên trùng ở hai thiết bị không tự gộp.
+- Sau nộp bài hoặc hết giờ, Supabase lưu mã đề, thời điểm, thời gian làm, điểm và bản chụp câu hỏi/đáp án đã chọn/đáp án đúng/lời giải/căn cứ. Thay đổi ngân hàng sau này không làm mất lời giải lúc thi.
+- Mục “Tiến bộ của người thi” có điểm trung bình, gần nhất, cao nhất, biểu đồ 20 lần gần nhất, so sánh điểm theo bài và chủ đề cần củng cố từ 5 lần gần nhất; có thể xem lại từng bài và ôn các câu sai. Điểm giữa các đề khác nhau chỉ mang tính tham khảo.
+- Muốn tiếp tục trên thiết bị khác, nhập cùng tên và mã lịch sử trong mục thống kê trước khi thi. Mã được hiển thị ở kết quả và mục thống kê. Giữ riêng mã: ai có mã có thể đọc và bổ sung lịch sử. Không thể khôi phục chỉ bằng tên sau khi mất mã và xóa dữ liệu trình duyệt.
+- Khi mất kết nối, bài thi chờ trong localStorage; nút “Gửi kết quả chưa lưu” gửi lại cùng UUID để tránh trùng bài. Chỉ thông báo đã lưu khi server xác nhận.
+- Schema: `supabase/exam-results.sql`. RLS chỉ cho đọc/ghi khi header `x-client-info` khớp mã lịch sử, không cho sửa/xóa; không có danh sách công khai theo tên. Đây là dữ liệu tự luyện do trình duyệt gửi, không xác minh danh tính hoặc dùng làm chứng nhận điểm thi.
+- Chạy kiểm tra: `node --test tests/*.test.cjs`.

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Ôn thi tập sự hành nghề công chứng 2027" />
   <title>Ôn thi Công chứng 2027</title>
-  <link rel="stylesheet" href="./styles.css?v=feedback1" />
+  <link rel="stylesheet" href="./styles.css?v=progress1" />
 </head>
 <body>
   <header class="site-header"><div class="container header-inner"><a class="brand" href="./">Ôn thi Công chứng 2027</a><span class="badge">MVP</span></div></header>
@@ -17,6 +17,7 @@
       <button id="mockMode" class="mode-card"><span class="mode-icon">📝</span><span class="card-number">CHẾ ĐỘ 2</span><h2>Thi thử</h2><p>Sinh mã đề, giới hạn thời gian và chỉ xem đáp án sau khi nộp bài.</p><span class="card-action">Bắt đầu thi →</span></button>
     </section>
 
+    <section id="learningProgress" class="setup-panel"></section>
     <section id="setup" class="setup-panel hidden"></section>
     <section id="quiz" class="quiz-panel hidden" aria-live="polite">
       <div class="quiz-topbar"><div><span id="quizMode" class="eyebrow"></span><h2 id="quizTitle">Bài kiểm tra</h2></div><div class="quiz-meta"><span id="examCode"></span><span id="timer"></span><button id="exitQuiz" class="icon-button" aria-label="Thoát">×</button></div></div>
@@ -28,6 +29,7 @@
     <section id="result" class="result-panel hidden"></section>
   </main>
   <footer class="site-footer"><div class="container">Ngân hàng câu hỏi sẽ được bổ sung và kiểm chứng dần.</div></footer>
-  <script type="module" src="./app.js?v=feedback1"></script>
+  <script src="./progress.js?v=progress1"></script>
+  <script type="module" src="./app.js?v=progress1"></script>
 </body>
 </html>

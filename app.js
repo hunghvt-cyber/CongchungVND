@@ -1,7 +1,7 @@
 const state = {
   bank: [], feedbackConfig: null, mode: null, part: null, questions: [], current: 0,
   selected: new Set(), answers: {}, results: {}, score: 0, answered: false,
-  examCode: '', duration: 0, remaining: 0, timerId: null, submitted: false, reviewing: false, deadline: 0, startedAt: '', submittedAt: ''
+  examCode: '', duration: 0, remaining: 0, timerId: null, submitted: false, reviewing: false, deadline: 0, startedAt: '', submittedAt: '', learnerName: '', learnerKey: '', attemptId: ''
 };
 
 const els = {
@@ -85,6 +85,7 @@ async function loadQuestions() {
 }
 
 function showSetup(mode) {
+  document.querySelector('#learningProgress')?.classList.remove('hidden');
   stopTimer();
   state.mode = mode;
   els.quiz.classList.add('hidden'); els.result.classList.add('hidden');
@@ -97,7 +98,7 @@ function showSetup(mode) {
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="all">Tất cả</option><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option value="100">100</option></select></label></div>
     <button id="startSetup" class="primary-button">Bắt đầu ôn</button>` : `
-    <p class="eyebrow">Thi thử</p><h2>Cấu hình bài thi</h2>
+    <p class="eyebrow">Thi thử</p><h2>Cấu hình bài thi</h2>${window.ExamProgress?.nameMarkup() || ''}
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option>100</option></select></label>
     <label>Thời gian<select id="setupDuration"><option value="15">15 phút</option><option value="30">30 phút</option><option value="60">60 phút</option><option value="90">90 phút</option></select></label></div>
@@ -106,13 +107,14 @@ function showSetup(mode) {
     <p>Mã quyết định bài, số câu và thời lượng. Mỗi người tự bắt đầu, rồi đối chiếu cùng số câu và đáp án để thảo luận.</p>
     <button id="joinExam" class="secondary-button">Nhập mã & bắt đầu thi</button><p id="joinStatus" role="alert"></p></div>`;
   document.querySelector('#startSetup').addEventListener('click', () => {
+    if (mode==='mock' && window.ExamProgress && !window.ExamProgress.captureName(state)) return;
     const part = document.querySelector('#setupPart').value;
     const count = Number(document.querySelector('#setupCount').value);
     const duration = mode === 'mock' ? Number(document.querySelector('#setupDuration').value) : 0;
     startSession(part === 'all' ? null : Number(part), count, duration);
   });
   if (mode==='mock') document.querySelector('#joinExam').addEventListener('click',()=>{
-    try { startSharedExam(document.querySelector('#joinExamCode').value); }
+    try { if(window.ExamProgress && !window.ExamProgress.captureName(state))return; startSharedExam(document.querySelector('#joinExamCode').value); }
     catch(error) { document.querySelector('#joinStatus').textContent=error.message; }
   });
 }
@@ -121,6 +123,7 @@ function startSession(part, count, duration, seed = null) {
   stopTimer();
   const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part));
   if (!pool.length) { alert('Chưa có câu hỏi đủ điều kiện cho bài này.'); return; }
+  state.attemptId = crypto.randomUUID();
   state.reviewing = false; state.startedAt = new Date().toISOString(); state.submittedAt = '';
   state.part = part; state.current = 0; state.selected = new Set(); state.answers = {}; state.results = {}; state.score = 0; state.submitted = false;
   if (state.mode==='mock') {
@@ -131,6 +134,7 @@ function startSession(part, count, duration, seed = null) {
     state.examCode='';
   }
   state.duration = duration; state.remaining = duration * 60; state.deadline = Date.now() + state.remaining * 1000;
+  document.querySelector('#learningProgress')?.classList.add('hidden');
   els.setup.classList.add('hidden'); els.result.classList.add('hidden'); els.quiz.classList.remove('hidden');
   if (state.mode === 'mock') startTimer(); else stopTimer();
   els.examShare.classList.toggle('hidden',state.mode!=='mock');
@@ -243,6 +247,7 @@ function bindResultFeedback() {
   document.querySelector('#homeResult').addEventListener('click',()=>location.reload());
 }
 function showPracticeResult() {
+  document.querySelector('#learningProgress')?.classList.remove('hidden');
   els.quiz.classList.add('hidden'); els.result.classList.remove('hidden');
   const wrong=state.questions.filter(q=>!state.results[q.id]);
   els.result.innerHTML=`<p class="eyebrow">Hoàn thành</p><h2>Kết quả ôn tập</h2><div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng.</p><p>Đúng: ${state.score} · Sai: ${wrong.length}</p>
@@ -254,11 +259,13 @@ function showPracticeResult() {
   bindResultFeedback();
 }
 function showMockResult(auto) {
+  document.querySelector('#learningProgress')?.classList.remove('hidden');
   els.quiz.classList.add('hidden'); els.result.classList.remove('hidden');
   const unanswered=state.questions.filter(q=>!state.answers[q.id]?.length).length;
   els.result.innerHTML=`<p class="eyebrow">${auto?'Hết giờ':'Đã nộp bài'}</p><h2>Kết quả thi thử</h2>${shareMarkup()}<div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng · Điểm: ${(state.score/state.questions.length*10).toFixed(2)}/10.</p><p>Đúng: ${state.score} · Sai: ${state.questions.length-state.score-unanswered} · Chưa trả lời: ${unanswered}</p>
-    ${resultQuestionsMarkup()}<button id="homeResult" class="primary-button">Về trang chính</button>`;
+    ${window.ExamProgress?.resultMarkup(state) || ''}${resultQuestionsMarkup()}<button id="homeResult" class="primary-button">Về trang chính</button>`;
   bindResultFeedback(); bindShare(els.result);
+  window.ExamProgress?.saveResult(state);
 }
 function reviewQuestion(id) {
   const idx=state.questions.findIndex(q=>q.id===id); if(idx<0)return;
@@ -345,6 +352,6 @@ document.addEventListener('visibilitychange',checkDeadline);
 window.addEventListener('focus',checkDeadline);
 const modeButtons = [document.querySelector('#practiceMode'), document.querySelector('#mockMode')];
 modeButtons.forEach(b=>{b.disabled=true;});
-loadQuestions().then(q=>{state.bank=q;modeButtons.forEach(b=>{b.disabled=false;});}).catch(e=>document.querySelector('main').insertAdjacentHTML('beforeend',`<p class="result-panel" role="alert">${escapeHtml(e.message)} Vui lòng tải lại trang.</p>`));
+loadQuestions().then(q=>{state.bank=q;window.ExamProgress?.init(ids=>{const bank=state.bank;state.bank=bank.filter(q=>ids.includes(q.id));state.mode='practice';startSession(null,20,0);state.bank=bank;});modeButtons.forEach(b=>{b.disabled=false;});}).catch(e=>document.querySelector('main').insertAdjacentHTML('beforeend',`<p class="result-panel" role="alert">${escapeHtml(e.message)} Vui lòng tải lại trang.</p>`));
 
 loadFeedbackConfig().catch(()=>{});
