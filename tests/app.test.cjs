@@ -23,8 +23,8 @@ function harness() {
   const context=vm.createContext({document, window:new Element(), location:{reload(){}},
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
-    Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,createSharedExam,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,answerSummary};',context);
+    crypto:require('node:crypto').webcrypto,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,createSharedExam,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -79,15 +79,16 @@ test('deselecting all multiple answers removes answered count, switching mode st
   const h=harness();start(h,'mock',[question('one','active','multiple')]);h.toggleAnswer('A');assert.match(h.els.scoreText.textContent,/1$/);h.toggleAnswer('A');assert.equal(Object.keys(h.state.answers).length,0);assert.match(h.els.scoreText.textContent,/0$/);
   h.showSetup('practice');assert.equal(h.state.timerId,null);
 });
-test('feedback on separate answer cards stores correct context, validates text and handles storage failure',()=>{
+test('feedback on separate answer cards sends central receipt, validates text and handles offline/local failure',async()=>{
   const h=harness();start(h,'mock',[question('one'),question('two')]);h.submitMock();
+  h.state.feedbackConfig={url:'https://test.supabase.co',publishableKey:'sb_publishable_test'};
   for(const q of h.state.questions) {
     const root=new Element();h.showFeedback(q,root);const box=root.querySelector('.feedback-box');
-    box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/Vui lòng/);
-    box.querySelector('.feedback-text').value=' Cần kiểm tra '+q.id;box.querySelector('.feedback-type').value='answer_wrong';box.querySelector('.send-feedback').listeners.click();
+    await box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/Vui lòng/);
+    box.querySelector('.feedback-text').value=' Cần kiểm tra '+q.id;box.querySelector('.feedback-type').value='answer_wrong';await box.querySelector('.send-feedback').listeners.click();
   }
   const stored=JSON.parse(h.memory.get('questionFeedback'));assert.equal(stored.length,2);assert.notEqual(stored[0].questionId,stored[1].questionId);assert.ok(stored.every(x=>x.examCode===h.state.examCode && x.variant && x.answerOrder.length===3));
-  h.context.localStorage.setItem=()=>{throw Error('blocked');};const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Không mất nội dung';box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/Không thể lưu/);
+  h.context.localStorage.setItem=()=>{throw Error('blocked');};h.context.fetch=async()=>{throw Error('offline');};const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Không mất nội dung';box.querySelector('.feedback-type').value='other';await box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/không lưu được/);
 });
 test('real bank has 120 unique questions, 100 eligible, and no bare numbered law titles',()=>{
   const all=['questions','derived-questions'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
@@ -127,4 +128,25 @@ test('changes to pending questions cannot change a shared eligible exam',()=>{
   const h=harness(),bank=[question('one'),question('pending','review')];const exam=h.createSharedExam(bank,1,5,15,123);
   bank[1].explanation='Đang rà soát';assert.doesNotThrow(()=>h.parseExamCode(exam.code,bank));
   bank[1].status='verified';assert.throws(()=>h.parseExamCode(exam.code,bank),/khác phiên bản/);
+});
+
+
+test('offline feedback stays pending; retry uses same UUID and duplicate acknowledgement is accepted',async()=>{
+  const h=harness();start(h,'mock',[question('one')]);h.state.feedbackConfig={url:'https://test.supabase.co',publishableKey:'sb_publishable_test'};
+  const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');
+  box.querySelector('.feedback-text').value='Kiểm tra đáp án';box.querySelector('.feedback-type').value='answer_wrong';
+  let payloads=[];h.context.fetch=async(url,options)=>{payloads.push(JSON.parse(options.body));throw Error('offline');};
+  await box.querySelector('.send-feedback').listeners.click();
+  assert.equal(h.localFeedback()[0].delivery,'pending');assert.match(box.querySelector('.feedback-status').textContent,/Chưa gửi được/);
+  h.context.fetch=async(url,options)=>{payloads.push(JSON.parse(options.body));return {ok:false,status:409,json:async()=>({code:'23505'})};};
+  await box.querySelector('.send-feedback').listeners.click();
+  assert.equal(payloads[0].id,payloads[1].id);assert.equal(h.localFeedback()[0].delivery,'sent');assert.match(box.innerHTML,/Đã gửi góp ý về nơi rà soát chung/);
+  assert.equal(payloads[1].question_snapshot.question,h.state.questions[0].variant);assert.ok(!('review_status' in payloads[1]));
+});
+test('server error does not falsely acknowledge feedback, local storage failure still permits central send',async()=>{
+  const h=harness();start(h,'mock',[question('one')]);h.state.feedbackConfig={url:'https://test.supabase.co',publishableKey:'sb_publishable_test'};
+  h.context.localStorage.setItem=()=>{throw Error('quota');};h.context.fetch=async()=>({ok:false,status:500,json:async()=>({})});
+  const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Góp ý';box.querySelector('.feedback-type').value='other';
+  await box.querySelector('.send-feedback').listeners.click();assert.doesNotMatch(box.innerHTML,/✓ Đã gửi/);assert.equal(box.querySelector('.send-feedback').disabled,false);
+  h.context.fetch=async()=>({ok:true,status:201});await box.querySelector('.send-feedback').listeners.click();assert.match(box.innerHTML,/✓ Đã gửi/);
 });

@@ -1,5 +1,5 @@
 const state = {
-  bank: [], mode: null, part: null, questions: [], current: 0,
+  bank: [], feedbackConfig: null, mode: null, part: null, questions: [], current: 0,
   selected: new Set(), answers: {}, results: {}, score: 0, answered: false,
   examCode: '', duration: 0, remaining: 0, timerId: null, submitted: false, reviewing: false, deadline: 0, startedAt: '', submittedAt: ''
 };
@@ -266,19 +266,73 @@ function reviewQuestion(id) {
 }
 function feedbackMarkup() { return '<button class="feedback-button">⚠ Góp ý câu hỏi / đáp án</button><div class="feedback-box hidden"></div>'; }
 function bindFeedback(root, q) { root.querySelector('.feedback-button').addEventListener('click',()=>showFeedback(q, root)); }
+const feedbackCategories=['law_expired','law_changed','answer_wrong','explanation_wrong','unclear','missing_basis','suggest_new_law','other'];
+async function loadFeedbackConfig() {
+  const response=await fetch('./data/feedback-config.json',{cache:'no-cache'});
+  if (!response.ok) throw new Error('Chưa tải được cấu hình góp ý.');
+  const config=await response.json();
+  if (!/^https:\/\/[a-z0-9]+\.supabase\.co$/.test(config.url) || !config.publishableKey?.startsWith('sb_publishable_')) throw new Error('Cấu hình góp ý không hợp lệ.');
+  state.feedbackConfig=config;
+}
+function localFeedback() {
+  try { const rows=JSON.parse(localStorage.getItem('questionFeedback')||'[]'); return Array.isArray(rows)?rows:[]; }
+  catch { return []; }
+}
+function saveLocalFeedback(item) {
+  try {
+    const rows=localFeedback(),index=rows.findIndex(x=>x.id===item.id);
+    if(index<0)rows.push(item);else rows[index]=item;
+    localStorage.setItem('questionFeedback',JSON.stringify(rows)); return true;
+  } catch { return false; }
+}
+function feedbackPayload(item) {
+  return {id:item.id,question_id:item.questionId,category:item.category,content:item.content,exam_code:item.examCode,mode:item.mode,variant:item.variant,answer_order:item.answerOrder,question_snapshot:item.questionSnapshot,client_created_at:item.createdAt};
+}
+async function postFeedback(item) {
+  if(!state.feedbackConfig) await loadFeedbackConfig();
+  const controller=new AbortController(),timeout=setTimeout(()=>controller.abort(),10000);
+  try {
+    const response=await fetch(`${state.feedbackConfig.url}/rest/v1/question_feedback`,{
+      method:'POST',headers:{apikey:state.feedbackConfig.publishableKey,'Content-Type':'application/json',Prefer:'return=minimal'},
+      body:JSON.stringify(feedbackPayload(item)),signal:controller.signal
+    });
+    if(!response.ok) {
+      // A retry of the same receipt after a lost response must not create another row.
+      const error=await response.json().catch(()=>({}));
+      if (!(response.status===409 && error.code==='23505')) throw new Error('Không gửi được góp ý.');
+    }
+  } finally { clearTimeout(timeout); }
+}
 function showFeedback(q, root) {
-  const box=root.querySelector('.feedback-box'); box.classList.remove('hidden');
-  box.innerHTML=`<label>Loại góp ý<select class="feedback-type"><option value="law_expired">Văn bản hết hiệu lực</option><option value="law_changed">Điều khoản thay đổi</option><option value="answer_wrong">Đáp án sai</option><option value="explanation_wrong">Giải thích sai</option><option value="unclear">Câu hỏi chưa rõ</option><option value="missing_basis">Thiếu căn cứ</option><option value="suggest_new_law">Đề xuất văn bản mới</option><option value="other">Khác</option></select></label><label>Nội dung góp ý<textarea class="feedback-text" rows="3" placeholder="Nội dung góp ý..."></textarea></label><button class="send-feedback secondary-button">Lưu góp ý trên thiết bị</button><p class="feedback-status" role="status"></p>`;
-  box.querySelector('.send-feedback').addEventListener('click',()=>{
-    const content=box.querySelector('.feedback-text').value.trim();
-    if(!content) { box.querySelector('.feedback-status').textContent='Vui lòng nhập nội dung góp ý.'; return; }
-    const item={questionId:q.id,category:box.querySelector('.feedback-type').value,content,createdAt:new Date().toISOString(),examCode:state.examCode,variant:q.variant,answerOrder:q.answers.map(a=>a.id)};
+  const box=root.querySelector('.feedback-box');box.classList.remove('hidden');
+  const pending=localFeedback().filter(x=>x.id && x.delivery==='pending' && x.questionSnapshot);
+  box.innerHTML=`<label>Loại góp ý<select class="feedback-type"><option value="law_expired">Văn bản hết hiệu lực</option><option value="law_changed">Điều khoản thay đổi</option><option value="answer_wrong">Đáp án sai</option><option value="explanation_wrong">Giải thích sai</option><option value="unclear">Câu hỏi chưa rõ</option><option value="missing_basis">Thiếu căn cứ</option><option value="suggest_new_law">Đề xuất văn bản mới</option><option value="other">Khác</option></select></label><label>Nội dung góp ý<textarea class="feedback-text" rows="3" maxlength="3000" placeholder="Nội dung cần kiểm tra hoặc đề xuất sửa..."></textarea></label><p>Góp ý được gửi về nơi rà soát chung, không tự thay đổi câu hỏi. Không nhập thông tin cá nhân nhạy cảm.</p><button class="send-feedback secondary-button">Gửi góp ý</button>${pending.length?`<button class="retry-feedback secondary-button">Gửi lại ${pending.length} góp ý đang chờ trên thiết bị</button>`:''}<p class="feedback-status" role="status"></p>`;
+  let draft=null;
+  const button=box.querySelector('.send-feedback'),status=box.querySelector('.feedback-status');
+  button.addEventListener('click',async()=>{
+    if(button.disabled)return;
+    const content=box.querySelector('.feedback-text').value.trim(),category=box.querySelector('.feedback-type').value;
+    if(!content || content.length>3000 || !feedbackCategories.includes(category)) {status.textContent='Vui lòng nhập nội dung góp ý từ 1 đến 3.000 ký tự và chọn loại góp ý.';return;}
+    if(!draft || draft.content!==content || draft.category!==category) draft={
+      id:crypto.randomUUID(),questionId:q.id,category,content,createdAt:new Date().toISOString(),examCode:state.examCode,mode:state.mode,
+      variant:q.variant,answerOrder:q.answers.map(a=>a.id),questionSnapshot:{question:q.variant,topic:q.topic,answers:q.answers,explanation:q.explanation,legalBasis:q.legalBasis},delivery:'pending'
+    };
+    const saved=saveLocalFeedback(draft);button.disabled=true;status.textContent='Đang gửi góp ý...';
     try {
-      const list=JSON.parse(localStorage.getItem('questionFeedback')||'[]');
-      if (!Array.isArray(list)) throw new Error('Invalid feedback');
-      list.push(item); localStorage.setItem('questionFeedback',JSON.stringify(list));
-      box.innerHTML='<strong>✓ Đã lưu góp ý trên thiết bị này.</strong><p>Góp ý không tự động thay đổi câu hỏi.</p>';
-    } catch { box.querySelector('.feedback-status').textContent='Không thể lưu góp ý. Hãy sao chép nội dung trước khi rời trang.'; }
+      await postFeedback(draft);draft.delivery='sent';saveLocalFeedback(draft);
+      box.innerHTML=`<strong>✓ Đã gửi góp ý về nơi rà soát chung.</strong><p>Mã ghi nhận: ${escapeHtml(draft.id)}</p><p>Góp ý không tự động thay đổi câu hỏi.</p>`;
+    } catch {
+      button.disabled=false;status.textContent=saved?'Chưa gửi được. Đã giữ góp ý trên thiết bị; bấm Gửi góp ý để thử lại hoặc mở lại nút góp ý để gửi các góp ý đang chờ.':'Chưa gửi được và không lưu được trên thiết bị. Hãy sao chép nội dung trước khi rời trang rồi thử lại.';
+    }
+  });
+  const retry=box.querySelector('.retry-feedback');
+  if(retry)retry.addEventListener('click',async()=>{
+    retry.disabled=true;button.disabled=true;let sent=0;
+    for(const item of pending) {
+      try {await postFeedback(item);item.delivery='sent';saveLocalFeedback(item);sent++;}catch {break;}
+    }
+    status.textContent=`Đã gửi ${sent}/${pending.length} góp ý đang chờ.`;
+    button.disabled=false;if(sent===pending.length)retry.classList.add('hidden');else retry.disabled=false;
   });
 }
 
@@ -292,3 +346,5 @@ window.addEventListener('focus',checkDeadline);
 const modeButtons = [document.querySelector('#practiceMode'), document.querySelector('#mockMode')];
 modeButtons.forEach(b=>{b.disabled=true;});
 loadQuestions().then(q=>{state.bank=q;modeButtons.forEach(b=>{b.disabled=false;});}).catch(e=>document.querySelector('main').insertAdjacentHTML('beforeend',`<p class="result-panel" role="alert">${escapeHtml(e.message)} Vui lòng tải lại trang.</p>`));
+
+loadFeedbackConfig().catch(()=>{});
