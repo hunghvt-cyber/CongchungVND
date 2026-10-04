@@ -5,12 +5,50 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Ôn thi tập sự hành nghề công chứng 2027" />
   <title>Ôn thi Công chứng 2027</title>
-  <link rel="stylesheet" href="./styles.css?v=progress1" />
+  <link rel="stylesheet" href="./styles.css?v=guide1" />
 </head>
 <body>
   <header class="site-header"><div class="container header-inner"><a class="brand" href="./">Ôn thi Công chứng 2027</a><span class="badge">MVP</span></div></header>
   <main class="container">
     <section class="hero"><p class="eyebrow">Ôn thi công chứng</p><h1>Học và thi trắc nghiệm</h1><p class="lead">Hai chế độ đơn giản: Ôn tập để học từng câu và Thi thử để mô phỏng bài thi.</p></section>
+
+    <details id="generalGuide" class="general-guide">
+      <summary><span class="guide-title">Hướng dẫn chung</span><span class="guide-subtitle">dù tôi biết mấy anh mấy chị chẳng bao giờ đọc như đi làm mà không đọc luật rồi làm luôn vậy</span><span class="guide-toggle" aria-hidden="true">Bấm để mở / đóng hướng dẫn ▾</span></summary>
+      <div class="guide-content">
+        <p class="guide-intro">Lần đầu dùng? Chọn <strong>Ôn tập</strong> để học từng câu hoặc <strong>Thi thử</strong> để làm bài có thời gian và lưu điểm. Không cần đăng ký tài khoản.</p>
+        <nav class="guide-nav" aria-label="Các mục hướng dẫn"><a href="#guide-practice">Ôn tập</a><a href="#guide-exam">Thi thử</a><a href="#guide-share">Cùng làm một đề</a><a href="#guide-progress">Xem tiến bộ</a><a href="#guide-history-code">Đổi thiết bị</a><a href="#guide-feedback">Góp ý</a><a href="#guide-help">Khi gặp lỗi</a></nav>
+        <section id="guide-practice"><h2>1. Ôn tập — học và hiểu từng câu</h2>
+          <ol><li>Bấm <strong>Ôn tập</strong>, chọn bài hoặc tất cả nội dung, chọn số câu rồi bấm <strong>Bắt đầu ôn</strong>.</li><li>Đọc câu hỏi và chọn đáp án. Câu có nhiều đáp án đúng cần chọn đủ các đáp án đúng, không chọn thêm đáp án sai.</li><li>Bấm <strong>Trả lời &amp; tiếp</strong> để chấm câu đang làm. Xem đúng/sai, đáp án đúng, giải thích và căn cứ pháp lý; sau đó bấm <strong>Câu tiếp</strong>.</li><li>Cuối buổi, xem lại từng câu hoặc bấm <strong>Ôn lại câu sai</strong>.</li></ol>
+          <p>Cách hỏi và thứ tự đáp án có thể thay đổi giữa các buổi. Hãy hiểu nội dung, đừng chỉ nhớ chữ A, B, C, D. Kết quả ôn tập không được cộng vào lịch sử điểm thi thử.</p>
+        </section>
+        <section id="guide-exam"><h2>2. Thi thử — làm bài và lưu kết quả</h2>
+          <ol><li>Bấm <strong>Thi thử</strong> và nhập <strong>Tên người thi</strong>. Dùng lại cùng một tên mỗi lần để theo dõi tiến bộ trên thiết bị này.</li><li>Chọn bài, số câu và thời gian; bấm <strong>Tạo đề mới &amp; bắt đầu</strong>. Nếu số câu yêu cầu vượt ngân hàng hiện có, đề dùng số câu có sẵn.</li><li>Chọn đáp án, dùng <strong>Câu trước</strong> và <strong>Câu tiếp</strong> để di chuyển. Có thể đổi đáp án trước khi nộp.</li><li>Ở câu cuối, bấm <strong>Nộp bài</strong>. Khi hết giờ, bài tự nộp và những câu chưa trả lời được tính là chưa đúng.</li><li>Xem điểm thang 10, số câu đúng/sai/chưa trả lời. Mở từng câu để xem đáp án đã chọn, đáp án đúng và giải thích, kể cả câu đã làm đúng.</li><li>Chờ thông báo <strong>Đã lưu điểm và đáp án lên hệ thống</strong> để chắc chắn kết quả đã được ghi nhận.</li></ol>
+          <p>Không tải lại hoặc đóng trang khi chưa nộp bài: bài đang làm chưa được lưu. Đồng hồ vẫn chạy khi chuyển sang ứng dụng hoặc tab khác. Lịch sử chỉ có các bài thi được lưu từ khi tính năng này được bổ sung.</p>
+        </section>
+        <section id="guide-share"><h2>3. Cùng làm một đề để đối chiếu, thảo luận</h2>
+          <ol><li>Một người tạo đề thi thử, bấm <strong>Sao chép mã đề</strong> và gửi mã cho nhóm.</li><li>Những người còn lại bấm <strong>Thi thử</strong>, nhập tên, dán mã vào <strong>Mã đề người khác chia sẻ</strong>, rồi bấm <strong>Nhập mã &amp; bắt đầu thi</strong>.</li><li>Cả nhóm nhận cùng câu hỏi, cách hỏi và thứ tự đáp án. Sau khi nộp, đối chiếu cùng số câu để thảo luận.</li></ol>
+          <p>Mỗi người có đồng hồ và kết quả riêng, tính từ lúc bắt đầu. Nếu mã bị báo không hợp lệ hoặc khác phiên bản ngân hàng, sao chép lại đầy đủ mã, tải lại trang; nếu vẫn lỗi, người tạo hãy tạo mã đề mới cho cả nhóm.</p>
+        </section>
+        <section id="guide-progress"><h2>4. Xem thống kê và phần kiến thức cần củng cố</h2>
+          <ol><li>Trên trang chính, tìm <strong>Tiến bộ của người thi</strong>.</li><li>Nhập tên đã dùng khi thi rồi bấm <strong>Xem thống kê</strong>. Sau khi nộp bài, cũng có thể bấm <strong>Xem tiến bộ của tôi</strong>.</li><li>Xem số lần thi, điểm trung bình, gần nhất, cao nhất và biểu đồ tối đa 20 lần thi gần nhất. Phần so sánh điểm theo bài cần đủ lần thi để có hai giai đoạn so sánh.</li><li>Ở <strong>Kiến thức cần củng cố</strong>, xem các chủ đề hay sai hoặc bỏ trống trong 5 lần thi gần nhất; bấm <strong>Ôn các câu cần củng cố</strong> để luyện các câu còn trong ngân hàng.</li><li>Mở từng bài trong <strong>Lịch sử thi và đáp án</strong> để xem lại câu hỏi, lựa chọn, đáp án đúng, giải thích và căn cứ tại lúc thi.</li></ol>
+          <p>Đề khác nhau có phạm vi và độ khó khác nhau. Điểm tăng là tín hiệu tham khảo; hãy kết hợp với số câu sai theo chủ đề để đánh giá tiến bộ.</p>
+        </section>
+        <section id="guide-history-code"><h2>5. Mã lịch sử — xem lại trên điện thoại, máy tính khác</h2>
+          <p><strong>Mã đề</strong> dùng để cùng làm một đề; <strong>mã lịch sử</strong> dùng để mở lịch sử cá nhân. Hai mã có chức năng khác nhau.</p>
+          <ol><li>Trên thiết bị cũ, nhập tên và bấm <strong>Xem thống kê</strong>. Mở <strong>Mã lịch sử / xem trên thiết bị khác</strong>, sao chép mã trong ô <strong>Mã lịch sử riêng</strong>. Mã cũng có ở trang kết quả thi, trong mục <strong>Mã lịch sử để xem trên thiết bị khác</strong>.</li><li>Trên thiết bị mới, nhập cùng tên tại <strong>Tiến bộ của người thi</strong>, mở mục mã lịch sử, dán mã đã sao chép rồi bấm <strong>Xem thống kê</strong>.</li><li>Sau đó, khi thi trên thiết bị mới, dùng lại tên đó để tiếp tục ghi nhận vào cùng lịch sử.</li></ol>
+          <p>Trên cùng thiết bị, mã được nhớ tự động nên thường chỉ cần nhập tên. Chỉ nhập tên trên thiết bị mới sẽ tạo lịch sử riêng, không tự gộp với thiết bị cũ; người trùng tên cũng không tự chung lịch sử.</p>
+          <p>Giữ một bản mã riêng. Ai có mã đều có thể xem và bổ sung lịch sử. Nếu mất mã và xóa dữ liệu trình duyệt, không thể khôi phục lịch sử chỉ bằng tên. Chế độ duyệt riêng tư hoặc ứng dụng mở liên kết khác có thể không dùng chung dữ liệu đã nhớ.</p>
+        </section>
+        <section id="guide-feedback"><h2>6. Góp ý câu hỏi, đáp án hoặc căn cứ pháp lý</h2>
+          <ol><li>Sau khi chấm câu ôn tập hoặc ở kết quả thi, bấm <strong>⚠ Góp ý câu hỏi / đáp án</strong> dưới câu cần góp ý.</li><li>Chọn loại góp ý, viết rõ điểm cần kiểm tra. Nếu có thể, ghi tên văn bản, điều/khoản, nguồn và nội dung đề xuất sửa.</li><li>Bấm <strong>Gửi góp ý</strong>; chờ thông báo <strong>Đã gửi góp ý về nơi rà soát chung</strong> cùng mã ghi nhận.</li></ol>
+          <p>Góp ý được gửi để rà soát, không tự thay đổi đáp án hoặc điểm. Không đưa thông tin cá nhân nhạy cảm vào nội dung góp ý.</p>
+        </section>
+        <section id="guide-help"><h2>7. Chưa thấy kết quả hoặc gửi không được?</h2>
+          <ul><li><strong>Chưa có lịch sử:</strong> kiểm tra tên, thiết bị và mã lịch sử. Hoàn thành một bài thi thử và chờ xác nhận đã lưu; bài ôn tập và bài chưa nộp không xuất hiện ở đây.</li><li><strong>Kết quả chưa lưu:</strong> ở trang kết quả, bấm <strong>Gửi lại kết quả</strong>; hoặc trên trang chính bấm <strong>Gửi kết quả chưa lưu</strong>. Thực hiện trên thiết bị đã làm bài, khi có kết nối. Đừng xóa dữ liệu trình duyệt trước khi gửi thành công.</li><li><strong>Góp ý chưa gửi:</strong> bấm lại <strong>Gửi góp ý</strong>, hoặc mở nút góp ý để thấy <strong>Gửi lại … góp ý đang chờ trên thiết bị</strong>. Nếu web báo không giữ được nội dung, hãy tự sao chép nội dung trước khi rời trang.</li><li><strong>Thống kê chưa tải:</strong> kiểm tra kết nối rồi bấm <strong>Xem thống kê</strong> lại. Nếu vẫn lỗi, báo người quản lý web và kèm thông báo lỗi để kiểm tra.</li><li><strong>Không tải được câu hỏi:</strong> kiểm tra mạng rồi tải lại trang trước khi bắt đầu bài mới.</li></ul>
+        </section>
+        <p class="guide-ending">Chúc cả nhà ôn chắc kiến thức, hiểu căn cứ và thấy mình tiến bộ qua từng lần thi.</p>
+      </div>
+    </details>
 
     <section class="mode-grid" aria-label="Chọn chế độ">
       <button id="practiceMode" class="mode-card"><span class="mode-icon">📖</span><span class="card-number">CHẾ ĐỘ 1</span><h2>Ôn tập</h2><p>Xem đúng/sai, đáp án, giải thích và căn cứ pháp lý ngay sau mỗi câu.</p><span class="card-action">Bắt đầu ôn →</span></button>
