@@ -8,16 +8,72 @@ const els = {
   setup: document.querySelector('#setup'), quiz: document.querySelector('#quiz'), result: document.querySelector('#result'),
   questionArea: document.querySelector('#questionArea'), quizMode: document.querySelector('#quizMode'), quizTitle: document.querySelector('#quizTitle'),
   examCode: document.querySelector('#examCode'), timer: document.querySelector('#timer'), progressText: document.querySelector('#progressText'),
-  scoreText: document.querySelector('#scoreText'), progressBar: document.querySelector('#progressBar'), prev: document.querySelector('#prevQuestion'), next: document.querySelector('#nextQuestion')
+  scoreText: document.querySelector('#scoreText'), progressBar: document.querySelector('#progressBar'), examShare: document.querySelector('#examShare'), prev: document.querySelector('#prevQuestion'), next: document.querySelector('#nextQuestion')
 };
 
-const shuffle = items => { const a = [...items]; for (let i=a.length-1;i>0;i--) { const j=Math.floor(Math.random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; };
+const shuffle = (items, random = Math.random) => { const a = [...items]; for (let i=a.length-1;i>0;i--) { const j=Math.floor(random()*(i+1)); [a[i],a[j]]=[a[j],a[i]]; } return a; };
 const escapeHtml = value => String(value).replace(/[&<>'"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 const eligibleQuestion = q => ['active', 'verified'].includes(q.status);
 const hasResult = q => Object.hasOwn(state.results, q.id);
 const isReviewing = () => state.submitted || state.reviewing;
 const correctIds = q => new Set(q.answers.filter(a => a.correct).map(a => a.id));
 const sameSet = (a,b) => a.size === b.size && [...a].every(x => b.has(x));
+
+// CC1 fixes both the PRNG and draw order. Change the code version if either changes.
+function seededRandom(seed) {
+  let value = seed >>> 0;
+  return () => {
+    value = (value + 0x6D2B79F5) >>> 0;
+    let t = Math.imul(value ^ (value >>> 15), 1 | value);
+    t ^= t + Math.imul(t ^ (t >>> 7), 61 | t);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+function fingerprint(text) {
+  let hash = 0xcbf29ce484222325n;
+  for (let i=0;i<text.length;i++) hash = BigInt.asUintN(64, (hash ^ BigInt(text.charCodeAt(i))) * 0x100000001b3n);
+  return hash.toString(16).padStart(16,'0').toUpperCase();
+}
+function examPool(bank, part) {
+  return bank.filter(q=>eligibleQuestion(q) && q.part===part).sort((a,b)=>a.id<b.id?-1:a.id>b.id?1:0);
+}
+function bankVersion(pool) { return fingerprint(JSON.stringify(pool)); }
+function createSharedExam(bank, part, count, duration, seed) {
+  const pool=examPool(bank, part);
+  if (!pool.length) throw new Error('Chưa có câu hỏi đủ điều kiện cho bài này.');
+  const actualCount=Math.min(count,pool.length), random=seededRandom(seed);
+  const questions=shuffle(pool,random).slice(0,actualCount).map(q=>({
+    ...q, variant:q.question.variants[Math.floor(random()*q.question.variants.length)], answers:shuffle(q.answers,random)
+  }));
+  const body=`CC1-${part}-${actualCount}-${duration}-${(seed>>>0).toString(16).padStart(8,'0').toUpperCase()}-${bankVersion(pool)}`;
+  return {questions,code:`${body}-${fingerprint(body).slice(0,8)}`};
+}
+function parseExamCode(raw, bank) {
+  const code=raw.trim().toUpperCase();
+  const match=/^CC1-([12])-([1-9]\d{0,3})-(15|30|60|90)-([0-9A-F]{8})-([0-9A-F]{16})-([0-9A-F]{8})$/.exec(code);
+  if (!match) throw new Error('Mã đề không hợp lệ. Hãy sao chép đầy đủ mã CC1 mới từ người tạo đề.');
+  const body=code.slice(0,code.lastIndexOf('-'));
+  if (fingerprint(body).slice(0,8)!==match[6]) throw new Error('Mã đề bị sai hoặc thiếu ký tự. Hãy sao chép lại mã.');
+  const part=Number(match[1]),count=Number(match[2]),duration=Number(match[3]),seed=parseInt(match[4],16),pool=examPool(bank,part);
+  if (bankVersion(pool)!==match[5]) throw new Error('Ngân hàng câu hỏi khác phiên bản của mã đề. Hãy tải lại trang; nếu vẫn lỗi, người tạo cần tạo mã mới để cả nhóm dùng cùng phiên bản.');
+  if (count>pool.length) throw new Error('Mã đề yêu cầu nhiều câu hơn ngân hàng hiện có.');
+  return {part,count,duration,seed,code};
+}
+function startSharedExam(raw) {
+  const params=parseExamCode(raw,state.bank);
+  state.mode='mock'; startSession(params.part,params.count,params.duration,params.seed);
+}
+function shareMarkup() {
+  return `<div class="share-exam"><label>Mã đề để cùng làm<textarea class="share-code" rows="2" readonly aria-label="Mã đề để chia sẻ">${escapeHtml(state.examCode)}</textarea></label><button class="copy-code secondary-button">Sao chép mã đề</button><p class="copy-status" role="status">Gửi mã này cho nhóm. Mỗi người có thời gian riêng từ lúc bắt đầu.</p></div>`;
+}
+function bindShare(root) {
+  const button=root.querySelector('.copy-code'); if(!button)return;
+  const field=root.querySelector('.share-code'),status=root.querySelector('.copy-status');
+  button.addEventListener('click',async()=>{
+    try { await navigator.clipboard.writeText(field.value); status.textContent='Đã sao chép mã đề. Dán mã để gửi cho nhóm.'; }
+    catch { field.focus(); field.select(); status.textContent='Hãy nhấn giữ hoặc chọn và sao chép mã trong ô phía trên.'; }
+  });
+}
 
 async function loadQuestions() {
   const [base, round2] = await Promise.all([
@@ -45,30 +101,44 @@ function showSetup(mode) {
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option>100</option></select></label>
     <label>Thời gian<select id="setupDuration"><option value="15">15 phút</option><option value="30">30 phút</option><option value="60">60 phút</option><option value="90">90 phút</option></select></label></div>
-    <button id="startSetup" class="primary-button">Sinh mã đề & bắt đầu</button>`;
+    <button id="startSetup" class="primary-button">Tạo đề mới & bắt đầu</button>
+    <div class="join-exam"><h3>Cùng làm một đề</h3><label for="joinExamCode">Mã đề người khác chia sẻ</label><input id="joinExamCode" type="text" maxlength="120" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="Dán mã CC1-... vào đây" />
+    <p>Mã quyết định bài, số câu và thời lượng. Mỗi người tự bắt đầu, rồi đối chiếu cùng số câu và đáp án để thảo luận.</p>
+    <button id="joinExam" class="secondary-button">Nhập mã & bắt đầu thi</button><p id="joinStatus" role="alert"></p></div>`;
   document.querySelector('#startSetup').addEventListener('click', () => {
     const part = document.querySelector('#setupPart').value;
     const count = Number(document.querySelector('#setupCount').value);
     const duration = mode === 'mock' ? Number(document.querySelector('#setupDuration').value) : 0;
     startSession(part === 'all' ? null : Number(part), count, duration);
   });
+  if (mode==='mock') document.querySelector('#joinExam').addEventListener('click',()=>{
+    try { startSharedExam(document.querySelector('#joinExamCode').value); }
+    catch(error) { document.querySelector('#joinStatus').textContent=error.message; }
+  });
 }
 
-function startSession(part, count, duration) {
+function startSession(part, count, duration, seed = null) {
   stopTimer();
   const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part));
   if (!pool.length) { alert('Chưa có câu hỏi đủ điều kiện cho bài này.'); return; }
   state.reviewing = false; state.startedAt = new Date().toISOString(); state.submittedAt = '';
   state.part = part; state.current = 0; state.selected = new Set(); state.answers = {}; state.results = {}; state.score = 0; state.submitted = false;
-  state.questions = shuffle(pool).slice(0, Math.min(count, pool.length)).map(q => ({...q, answers: shuffle(q.answers), variant: q.question.variants[Math.floor(Math.random()*q.question.variants.length)]}));
-  state.examCode = state.mode === 'mock' ? makeExamCode() : '';
+  if (state.mode==='mock') {
+    const shared=createSharedExam(state.bank,part,count,duration,seed===null?Math.floor(Math.random()*4294967296):seed);
+    state.questions=shared.questions; state.examCode=shared.code;
+  } else {
+    state.questions=shuffle(pool).slice(0,Math.min(count,pool.length)).map(q=>({...q,answers:shuffle(q.answers),variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)]}));
+    state.examCode='';
+  }
   state.duration = duration; state.remaining = duration * 60; state.deadline = Date.now() + state.remaining * 1000;
   els.setup.classList.add('hidden'); els.result.classList.add('hidden'); els.quiz.classList.remove('hidden');
   if (state.mode === 'mock') startTimer(); else stopTimer();
+  els.examShare.classList.toggle('hidden',state.mode!=='mock');
+  els.examShare.innerHTML=state.mode==='mock'?shareMarkup():'';
+  if (state.mode==='mock') bindShare(els.examShare);
   renderQuestion(); els.quiz.scrollIntoView({behavior:'smooth', block:'start'});
 }
 
-function makeExamCode() { return `CC-${Date.now().toString(36).slice(-5).toUpperCase()}-${Math.floor(100+Math.random()*900)}`; }
 function checkDeadline() {
   if (state.mode !== 'mock' || state.submitted || !state.timerId) return false;
   state.remaining = Math.max(0, Math.ceil((state.deadline - Date.now()) / 1000));
@@ -186,9 +256,9 @@ function showPracticeResult() {
 function showMockResult(auto) {
   els.quiz.classList.add('hidden'); els.result.classList.remove('hidden');
   const unanswered=state.questions.filter(q=>!state.answers[q.id]?.length).length;
-  els.result.innerHTML=`<p class="eyebrow">${auto?'Hết giờ':'Đã nộp bài'}</p><h2>Kết quả thi thử</h2><p>Mã đề <strong>${escapeHtml(state.examCode)}</strong></p><div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng · Điểm: ${(state.score/state.questions.length*10).toFixed(2)}/10.</p><p>Đúng: ${state.score} · Sai: ${state.questions.length-state.score-unanswered} · Chưa trả lời: ${unanswered}</p>
+  els.result.innerHTML=`<p class="eyebrow">${auto?'Hết giờ':'Đã nộp bài'}</p><h2>Kết quả thi thử</h2>${shareMarkup()}<div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng · Điểm: ${(state.score/state.questions.length*10).toFixed(2)}/10.</p><p>Đúng: ${state.score} · Sai: ${state.questions.length-state.score-unanswered} · Chưa trả lời: ${unanswered}</p>
     ${resultQuestionsMarkup()}<button id="homeResult" class="primary-button">Về trang chính</button>`;
-  bindResultFeedback();
+  bindResultFeedback(); bindShare(els.result);
 }
 function reviewQuestion(id) {
   const idx=state.questions.findIndex(q=>q.id===id); if(idx<0)return;

@@ -24,7 +24,7 @@ function harness() {
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
     Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,answerSummary};',context);
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,createSharedExam,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -94,4 +94,37 @@ test('real bank has 120 unique questions, 100 eligible, and no bare numbered law
   assert.equal(all.length,120);assert.equal(new Set(all.map(q=>q.id)).size,120);assert.equal(all.filter(q=>['active','verified'].includes(q.status)).length,100);
   assert.doesNotMatch(JSON.stringify(all),/Luật [0-9]/);assert.ok(all.every(q=>q.explanation&&q.legalBasis.length));
   const h=harness();start(h,'mock',all,100);assert.ok(h.state.questions.every(q=>!q.id.startsWith('SRC26-')));
+});
+
+
+test('one shared code reproduces full exam in independent sessions with separate answers/deadlines',()=>{
+  const bank=['questions','derived-questions'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  const creator=harness(),participant=harness();start(creator,'mock',bank,20);
+  participant.state.bank=[...bank].reverse();participant.advance(5000);participant.startSharedExam('  '+creator.state.examCode.toLowerCase()+'  ');
+  assert.equal(creator.state.examCode,participant.state.examCode);
+  assert.equal(JSON.stringify(creator.state.questions),JSON.stringify(participant.state.questions));
+  assert.equal(creator.state.duration,participant.state.duration);assert.equal(participant.state.deadline-creator.state.deadline,5000);
+  creator.toggleAnswer(creator.state.questions[0].answers[0].id);assert.equal(Object.keys(participant.state.answers).length,0);
+  assert.equal(participant.state.mode,'mock');assert.equal(participant.state.questions.length,20);
+});
+test('sharing records actual capped count and supports both parts and all durations',()=>{
+  const h=harness();const bank=[question('one'),{...question('two'),part:2}];
+  for(const part of [1,2])for(const duration of [15,30,60,90])for(const seed of [0,1,4294967295]){
+    const exam=h.createSharedExam(bank,part,100,duration,seed),params=h.parseExamCode(exam.code,bank);
+    assert.equal(params.count,1);assert.equal(params.part,part);assert.equal(params.duration,duration);assert.equal(params.seed,seed);
+    assert.equal(h.createSharedExam(bank,params.part,params.count,params.duration,params.seed).code,exam.code);
+  }
+});
+test('bad codes, old codes and changed bank are rejected without starting/resetting an attempt',()=>{
+  const h=harness();start(h,'mock',[question('one'),question('two')]);const code=h.state.examCode;
+  h.toggleAnswer('B');const saved=JSON.stringify(h.state.answers),deadline=h.state.deadline;
+  for(const bad of ['', 'CC-OLD-123',code+'A',code.replace('-15-','-30-')]) assert.throws(()=>h.startSharedExam(bad),/Mã đề/);
+  assert.equal(JSON.stringify(h.state.answers),saved);assert.equal(h.state.deadline,deadline);
+  h.state.bank[0].explanation='Pháp luật đã cập nhật';assert.throws(()=>h.startSharedExam(code),/khác phiên bản/);
+  assert.equal(JSON.stringify(h.state.answers),saved);assert.equal(h.state.deadline,deadline);
+});
+test('changes to pending questions cannot change a shared eligible exam',()=>{
+  const h=harness(),bank=[question('one'),question('pending','review')];const exam=h.createSharedExam(bank,1,5,15,123);
+  bank[1].explanation='Đang rà soát';assert.doesNotThrow(()=>h.parseExamCode(exam.code,bank));
+  bank[1].status='verified';assert.throws(()=>h.parseExamCode(exam.code,bank),/khác phiên bản/);
 });

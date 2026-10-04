@@ -52,3 +52,12 @@ node --test tests/app.test.cjs
 ```
 
 Các kiểm tra hồi quy chạy logic và HTML sinh ra với DOM tối giản; không thay thế kiểm tra bố cục/tương tác bằng trình duyệt thật.
+
+
+## Cùng làm bằng mã đề
+
+Trong **Thi thử**, người tạo chọn bài/số câu/thời gian, bấm **Tạo đề mới & bắt đầu**, sau đó **Sao chép mã đề** và gửi mã cho nhóm. Thành viên mở **Thi thử**, dán mã vào ô **Mã đề người khác chia sẻ**, bấm **Nhập mã & bắt đầu thi**. Cấu hình từ mã được dùng thay cho các lựa chọn tạo đề mới.
+
+Mã CC1 cố định seed, bài, số câu thực tế, thời lượng và dấu vân tay của ngân hàng đủ điều kiện trong bài đã chọn. Cùng mã/cùng phiên bản ngân hàng tạo cùng thứ tự câu, biến thể và thứ tự đáp án. Mã có phần kiểm tra lỗi nhập; không phải cơ chế bảo mật hay mã phòng thi. Mã CC cũ chỉ là nhãn nên không nhập được. Nếu ngân hàng thay đổi, mã cũ bị từ chối; tải lại trang hoặc tạo mã mới cho cả nhóm.
+
+Mỗi người có đáp án, điểm và đồng hồ riêng, tính từ lúc bắt đầu. Sau nộp, mở cùng số câu trong kết quả để đối chiếu đáp án và giải thích. Không đồng bộ giờ bắt đầu, không có chat/bảng điểm chung hay phòng thi trực tiếp. Góp ý vẫn chỉ lưu trên thiết bị.
