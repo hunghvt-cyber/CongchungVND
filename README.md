@@ -45,6 +45,8 @@ Có thể dùng GitHub Pages để xuất bản trực tiếp repository này th
 
 ## Kiểm tra
 
+Đã bổ sung 18 câu biên soạn từ nguồn đặt cọc do Madam An cung cấp, ID DEP26-001–DEP26-018. Xem [đề luyện 18 câu và bài giải](reports/deposit-exam-2026-10-05.md), [rà soát nguồn](reports/deposit-source-review.json) và [kiểm kê ngân hàng sau bổ sung](reports/bank-audit-deposit-after.json). App tải `imported-deposit-2026.json` vào Bài 2; tổng ngân hàng đủ điều kiện hiện là 322 câu. Đây chưa phải mốc 400 câu chuẩn.
+
 Chạy bằng Node.js 20+:
 
 ```sh

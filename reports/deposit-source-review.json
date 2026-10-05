@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-05",
+  "sourceId": "USER-EXAM-DEPOSIT",
+  "sourceSha256": "dbbb427916c66c2cbf46dc17973f0db39f1fe971531f2220246c7758241f9313",
+  "sourceQuestionCount": 25,
+  "questions": [
+    {
+      "id": "DEP-SRC-1.1",
+      "topic": "Ký cược thuê xe",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-001",
+        "DEP26-002",
+        "DEP26-003",
+        "DEP26-004"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-1.2",
+      "topic": "Thẩm quyền đặt cọc",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-1.3",
+      "topic": "Hồ sơ công chứng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-1.4",
+      "topic": "Soạn hợp đồng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-1.5",
+      "topic": "Giá, đổi nhà, phạt cọc",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-005",
+        "DEP26-006",
+        "DEP26-017"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-1.6",
+      "topic": "Vợ vắng mặt và cam kết bán nhà",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-014"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.1",
+      "topic": "Đặt cọc và ký cược",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-001"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.2",
+      "topic": "Thẩm quyền đặt cọc",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.3",
+      "topic": "Hồ sơ công chứng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.4",
+      "topic": "Soạn hợp đồng",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-012"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.5",
+      "topic": "Nhà đang thế chấp",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-013"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-2.6",
+      "topic": "Không cho thuê, chế tài và giá",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-007",
+        "DEP26-015",
+        "DEP26-016"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.1",
+      "topic": "Quyền sử dụng đất làm cọc",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-010"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.2",
+      "topic": "Thẩm quyền đặt cọc",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.3",
+      "topic": "Hồ sơ công chứng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.4",
+      "topic": "Soạn hợp đồng",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-009",
+        "DEP26-018"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.5",
+      "topic": "Sử dụng cọc, vi phạm và chuyển nhà",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-011",
+        "DEP26-018"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-3.6",
+      "topic": "Thời hạn cọc ngắn hơn thuê",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "DEP26-008"
+      ],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất."
+    },
+    {
+      "id": "DEP-SRC-APP-0",
+      "topic": "Đạo đức và lợi ích người thân",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-1",
+      "topic": "Thế chấp bảo đảm doanh nghiệp và đại diện",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-2",
+      "topic": "Quyền hộ gia đình, trẻ em và hồ sơ",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-3",
+      "topic": "Đổi ngân hàng, ủy quyền và cọc",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-4",
+      "topic": "Thừa kế, tài khoản Hàn Quốc và tư vấn",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-5",
+      "topic": "Xử lý thế chấp khi đã có cọc",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    },
+    {
+      "id": "DEP-SRC-APP-6",
+      "topic": "Soạn thảo tổng hợp",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "lastVerified": null,
+      "note": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này."
+    }
+  ],
+  "activeAdded": 18
+}

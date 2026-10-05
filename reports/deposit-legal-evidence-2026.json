@@ -1,0 +1,438 @@
+{
+  "date": "2026-10-05",
+  "scope": "18 câu đã biên tập độc lập theo pháp luật tháng 10/2026; không xác nhận nguyên bài giải nguồn",
+  "documents": [
+    {
+      "sourceId": "OFFICIAL-BLDS15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "pdfSha256": [
+        {
+          "file": "BLDS-0.pdf",
+          "sha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205"
+        },
+        {
+          "file": "BLDS-1.pdf",
+          "sha256": "dd2c45f8dee4e0d7b0416786b236e9588092863edcef64db07ef2b74954bba50"
+        }
+      ],
+      "extraction": "OCR tiếng Việt BLDS đối chiếu bản chính; pdftotext các PDF có lớp chữ. Trích điều đầy đủ để truy vết, không coi OCR là nguồn độc lập."
+    },
+    {
+      "sourceId": "OFFICIAL-ND21-2021",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+      "pdfSha256": [
+        {
+          "file": "ND21-0.pdf",
+          "sha256": "83c5805f1fa4e048fdc12ceac9fd96217a79680ab1514bb9afa49b3cb2fb73f6"
+        }
+      ],
+      "extraction": "OCR tiếng Việt BLDS đối chiếu bản chính; pdftotext các PDF có lớp chữ. Trích điều đầy đủ để truy vết, không coi OCR là nguồn độc lập."
+    },
+    {
+      "sourceId": "OFFICIAL-CC24",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "pdfSha256": [
+        {
+          "file": "CC-0.pdf",
+          "sha256": "04ab735f08c2de548db0ff994002d3ad128a707ec8338b67886b42a77f7070b8"
+        }
+      ],
+      "extraction": "OCR tiếng Việt BLDS đối chiếu bản chính; pdftotext các PDF có lớp chữ. Trích điều đầy đủ để truy vết, không coi OCR là nguồn độc lập."
+    },
+    {
+      "sourceId": "OFFICIAL-HNGD-HN25",
+      "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+      "pdfSha256": [
+        {
+          "file": "HNGD-HN-0.pdf",
+          "sha256": "e10798da4118e72e3daf13bfb128f5972cc15a7ca16d4baf09fdbf3106b93955"
+        }
+      ],
+      "extraction": "OCR tiếng Việt BLDS đối chiếu bản chính; pdftotext các PDF có lớp chữ. Trích điều đầy đủ để truy vết, không coi OCR là nguồn độc lập."
+    },
+    {
+      "sourceId": "OFFICIAL-KD-HN25",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-06-vbhn-vpqh-44399.htm",
+      "pdfSha256": [
+        {
+          "file": "KD-0.pdf",
+          "sha256": "bd64ed0b976598f88204513418850f5825fa8afce3397d3ce044b1dc0e48b3c4"
+        }
+      ],
+      "extraction": "OCR tiếng Việt BLDS đối chiếu bản chính; pdftotext các PDF có lớp chữ. Trích điều đầy đủ để truy vết, không coi OCR là nguồn độc lập."
+    }
+  ],
+  "questions": [
+    {
+      "id": "DEP26-001",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 329",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 329. Ký cược\n1. Ký cược là việc bên thuê tải sản là động sản giao cho bên cho thuê một\n\nkhoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung\nlà tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.\n\n2. Trường hợp tài sản thuê được trả lại thì bên thuê được nhận lại tài sản\nký cược SAU khi trả tiền thuê; nếu bên thuê không trả lại tài sản thuê thì bên cho\nthuê có quyền đòi lại tài sản thuê; nếu tài sản thuê không còn để trả lại thì tài sản\nký cược thuộc về bên cho thuê."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-002",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 329",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 329. Ký cược\n1. Ký cược là việc bên thuê tải sản là động sản giao cho bên cho thuê một\n\nkhoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung\nlà tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.\n\n2. Trường hợp tài sản thuê được trả lại thì bên thuê được nhận lại tài sản\nký cược SAU khi trả tiền thuê; nếu bên thuê không trả lại tài sản thuê thì bên cho\nthuê có quyền đòi lại tài sản thuê; nếu tài sản thuê không còn để trả lại thì tài sản\nký cược thuộc về bên cho thuê."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-003",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 329",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 329. Ký cược\n1. Ký cược là việc bên thuê tải sản là động sản giao cho bên cho thuê một\n\nkhoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung\nlà tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.\n\n2. Trường hợp tài sản thuê được trả lại thì bên thuê được nhận lại tài sản\nký cược SAU khi trả tiền thuê; nếu bên thuê không trả lại tài sản thuê thì bên cho\nthuê có quyền đòi lại tài sản thuê; nếu tài sản thuê không còn để trả lại thì tài sản\nký cược thuộc về bên cho thuê."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-004",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 329",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 329. Ký cược\n1. Ký cược là việc bên thuê tải sản là động sản giao cho bên cho thuê một\n\nkhoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung\nlà tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.\n\n2. Trường hợp tài sản thuê được trả lại thì bên thuê được nhận lại tài sản\nký cược SAU khi trả tiền thuê; nếu bên thuê không trả lại tài sản thuê thì bên cho\nthuê có quyền đòi lại tài sản thuê; nếu tài sản thuê không còn để trả lại thì tài sản\nký cược thuộc về bên cho thuê."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-005",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-006",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-007",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 21/2021/NĐ-CP",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm"
+          },
+          "sourceId": "OFFICIAL-ND21-2021",
+          "evidenceExcerpt": "Điều 37. Trường hợp không xác định rõ là tiền đặt cọc hoặc tiền trả trước\n     Trường hợp một bên trong hợp đồng giao cho bên kia một khoản tiền mà các\nbên không xác định rõ là tiền đặt cọc hoặc tiền trả trước thì số tiền này được coi là\ntiền trả trước."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-008",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 293",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 293. Phạm vi nghĩa vụ được bảo đảm\n\ng mạ min he\n\n1, Nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận\nhoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không\nquy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả\nnghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại.\n\n2. Nghĩa vụ được bảo, đảm có thể là nghĩa vụ hiện tại, nghĩa vụ trong\ntương lai hoặc nghĩa vụ có điều kiện.\n\n3. Trường hợp bảo đảm nghĩa vụ trong tương lai thì nghĩa vụ được hình\nthành trong thời hạn bảo đảm là nghĩa vụ được bảo đảm, trừ trường hợp có thỏa\nthuận khác."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-009",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-010",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 105",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 105, Tài sản\n1. Tài sản là vật, tiền, giấy tờ có giá và quyền tài sản.\n\n2. Tài sản bao gồm bắt động sản và động sản. Bất động sản và động sản\ncó thể là tài sản hiện có và tài sản hình thành trong tương lai."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 115",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 115. Quyền tài sẵn\n\nQuyền tài sản là quyền trị giá được bằng tiên, bao gồm quyền tài sản đối\nvới đối tượng quyền sở hữu trí tuệ, quyền sử dụng đất và các quyền tài sản khác.\n\nCHƯƠNG VHI\nGIAO DỊCH DÂN SỰ"
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-011",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 21/2021/NĐ-CP",
+            "article": "Điều 38",
+            "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+            "clause": "Khoản 2",
+            "point": "Điểm d"
+          },
+          "sourceId": "OFFICIAL-ND21-2021",
+          "evidenceExcerpt": "Điều 38. Quyền, nghĩa vụ của các bên trong đặt cọc, ký cược\n     1. Bên đặt cọc, bên ký cược có quyền, nghĩa vụ:\n     a) Yêu cầu bên nhận đặt cọc, bên nhận ký cược ngừng việc khai thác, sử dụng\nhoặc xác lập giao dịch dân sự đối với tài sản đặt cọc, tài sản ký cược; thực hiện\nviệc bảo quản, giữ gìn để tài sản đặt cọc, tài sản ký cược không bị mất giá trị hoặc\ngiảm sút giá trị;\n     b) Trao đổi, thay thế tài sản đặt cọc, tài sản ký cược hoặc đưa tài sản đặt cọc,\ntài sản ký cược tham gia giao dịch dân sự khác trong trường hợp được bên nhận\nđặt cọc, bên nhận ký cược đồng ý;\n\f                      CÔNG BÁO/Số 487 + 488/Ngày 31-3-2021                     23\n\n    c) Thanh toán cho bên nhận đặt cọc, bên nhận ký cược chi phí hợp lý để bảo\nquản, giữ gìn tài sản đặt cọc, tài sản ký cược.\n    Chi phí hợp lý quy định tại điểm này là khoản chi thực tế cần thiết, hợp pháp\ntại thời điểm chi mà trong điều kiện bình thường bên nhận đặt cọc, bên nhận ký\ncược phải thanh toán để đảm bảo tài sản đặt cọc, tài sản ký cược không bị mất, bị\nhủy hoại hoặc bị hư hỏng;\n    d) Thực hiện việc đăng ký quyền sở hữu tài sản hoặc thực hiện các nghĩa vụ\nkhác theo quy định của pháp luật để bên nhận đặt cọc, bên nhận ký cược được sở\nhữu tài sản đặt cọc, tài sản ký cược quy định tại điểm b khoản 2 Điều này;\n    đ) Quyền, nghĩa vụ khác theo thỏa thuận hoặc do Bộ luật Dân sự, luật khác\nliên quan quy định.\n    2. Bên nhận đặt cọc, bên nhận ký cược có quyền, nghĩa vụ:\n    a) Yêu cầu bên đặt cọc, bên ký cược chấm dứt việc trao đổi, thay thế hoặc xác\nlập giao dịch dân sự khác đối với tài sản đặt cọc, tài sản ký cược khi chưa có sự\nđồng ý của bên nhận đặt cọc, bên nhận ký cược;\n    b) Sở hữu tài sản đặt cọc trong trường hợp bên đặt cọc vi phạm cam kết về\ngiao kết, thực hiện hợp đồng; sở hữu tài sản ký cược trong trường hợp tài sản thuê\nkhông còn để trả lại cho bên nhận ký cược;\n    c) Bảo quản, giữ gìn tài sản đặt cọc, tài sản ký cược;\n\n    d) Không xác lập giao dịch dân sự, khai thác, sử dụng tài sản đặt cọc, tài sản\nký cược khi chưa có sự đồng ý của bên đặt cọc, bên ký cược;\n    đ) Quyền, nghĩa vụ khác theo thỏa thuận hoặc do Bộ luật Dân sự, luật khác\nliên quan quy định.\n\n\n                                     Tiểu mục 5\n                                      KÝ QUỸ"
+        }
+      ]
+    },
+    {
+      "id": "DEP26-012",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 21/2021/NĐ-CP",
+            "article": "Điều 38",
+            "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "sourceId": "OFFICIAL-ND21-2021",
+          "evidenceExcerpt": "Điều 38. Quyền, nghĩa vụ của các bên trong đặt cọc, ký cược\n     1. Bên đặt cọc, bên ký cược có quyền, nghĩa vụ:\n     a) Yêu cầu bên nhận đặt cọc, bên nhận ký cược ngừng việc khai thác, sử dụng\nhoặc xác lập giao dịch dân sự đối với tài sản đặt cọc, tài sản ký cược; thực hiện\nviệc bảo quản, giữ gìn để tài sản đặt cọc, tài sản ký cược không bị mất giá trị hoặc\ngiảm sút giá trị;\n     b) Trao đổi, thay thế tài sản đặt cọc, tài sản ký cược hoặc đưa tài sản đặt cọc,\ntài sản ký cược tham gia giao dịch dân sự khác trong trường hợp được bên nhận\nđặt cọc, bên nhận ký cược đồng ý;\n\f                      CÔNG BÁO/Số 487 + 488/Ngày 31-3-2021                     23\n\n    c) Thanh toán cho bên nhận đặt cọc, bên nhận ký cược chi phí hợp lý để bảo\nquản, giữ gìn tài sản đặt cọc, tài sản ký cược.\n    Chi phí hợp lý quy định tại điểm này là khoản chi thực tế cần thiết, hợp pháp\ntại thời điểm chi mà trong điều kiện bình thường bên nhận đặt cọc, bên nhận ký\ncược phải thanh toán để đảm bảo tài sản đặt cọc, tài sản ký cược không bị mất, bị\nhủy hoại hoặc bị hư hỏng;\n    d) Thực hiện việc đăng ký quyền sở hữu tài sản hoặc thực hiện các nghĩa vụ\nkhác theo quy định của pháp luật để bên nhận đặt cọc, bên nhận ký cược được sở\nhữu tài sản đặt cọc, tài sản ký cược quy định tại điểm b khoản 2 Điều này;\n    đ) Quyền, nghĩa vụ khác theo thỏa thuận hoặc do Bộ luật Dân sự, luật khác\nliên quan quy định.\n    2. Bên nhận đặt cọc, bên nhận ký cược có quyền, nghĩa vụ:\n    a) Yêu cầu bên đặt cọc, bên ký cược chấm dứt việc trao đổi, thay thế hoặc xác\nlập giao dịch dân sự khác đối với tài sản đặt cọc, tài sản ký cược khi chưa có sự\nđồng ý của bên nhận đặt cọc, bên nhận ký cược;\n    b) Sở hữu tài sản đặt cọc trong trường hợp bên đặt cọc vi phạm cam kết về\ngiao kết, thực hiện hợp đồng; sở hữu tài sản ký cược trong trường hợp tài sản thuê\nkhông còn để trả lại cho bên nhận ký cược;\n    c) Bảo quản, giữ gìn tài sản đặt cọc, tài sản ký cược;\n\n    d) Không xác lập giao dịch dân sự, khai thác, sử dụng tài sản đặt cọc, tài sản\nký cược khi chưa có sự đồng ý của bên đặt cọc, bên ký cược;\n    đ) Quyền, nghĩa vụ khác theo thỏa thuận hoặc do Bộ luật Dân sự, luật khác\nliên quan quy định.\n\n\n                                     Tiểu mục 5\n                                      KÝ QUỸ"
+        }
+      ]
+    },
+    {
+      "id": "DEP26-013",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 321",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 5"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điền 321. Quyền của bên thế chấp\n\n1. Khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản thế chấp, trừ\ntrường hợp hoa lợi, lợi tức cũng là tài sản thê châp theo thoả thuận.\n\n2. Đầu tư để làm tăng giá trị của tài sản thế chấp.\n\n3. Nhận lại tài sản thế chấp do người thứ ba giữ và giấy tờ liên quan đến\n\ntài sản thế chấp do bên nhận thế chấp giữ khi nghĩa vụ được bảo đảm bằng thế\nchấp chấm đứt hoặc được thay thế bằng biện pháp bảo đảm khác.\n\n4. Được bán, thay thế, trao đổi tài sản thể chấp, nếu tài sản đó là hàng hoá\nluân chuyển trong quá trình sản xuất, kinh doanh. Trong, trường hợp này, uyền\nyêu câu bên mua thanh toán tiền, số tiền thu được, tài sản hình thành từ sô tiền\nthu được, tài sản được thay thế hoặc được trao đổi trở thành tài sản thế chấp.\n\nTrường hợp tài sản thế chấp là kho hàng thì bên thế chấp được quyền thay\nthế hàng hóa trong kho, nhưng phải bảo đảm giá trị của hàng hóa trong kho đúng\nnhư thỏa thuận.\n\nqé\n\n85\n\n5. Được bán, trao đổi, tặng cho tài sản thế chấp không phải là hàng hóa\nluân chuyển trong quá trình sản xuất, kinh doanh, nếu được bên nhận thế chấp\nđồng ý hoặc theo quy định của luật.\n\n6. Được cho thuê, cho mượn tài sản thế chấp nhưng phải thông báo cho\nbên thuê, bên mượn biết về việc tài sản cho thuê, cho mượn đang được dùng để\nthế chấp và phải thông báo cho bên nhận thế chấp biết."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-014",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 42",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n    1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực tuyến,\ntrực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng. Hồ sơ\nyêu cầu công chứng bao gồm các giấy tờ sau đây:\n    a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn cước\nhoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu công\nchứng theo quy định của pháp luật;\n    c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án,\nquyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền\nvề việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản\nmà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường\nhợp giao dịch liên quan đến tài sản đó;\n    d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n    Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy định\ncủa pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n    2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng, nếu\nhồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường hợp\ntừ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ\nlý do cho người yêu cầu công chứng.\n\f56               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng hiểu\nrõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc\ntham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối tượng\ncủa giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người yêu cầu\ncông chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu giám định\ntheo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu công chứng\nkhông làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc đã xác minh,\ngiám định nhưng vẫn không làm rõ được thì công chứng viên từ chối công chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch có\nđiều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch không\nphù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho người yêu\ncầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng không sửa\nchữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao dịch\nthì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng dấu của\ntổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì thực hiện\ntheo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người yêu cầu\ncông chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b, c và d\nkhoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang của giao\ndịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người yêu cầu\ncông chứng không có bản chính tại thời điểm công chứng viên ký vào lời chứng thì\ncó thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng và\nlưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định khác\ncủa pháp luật có liên quan."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 35",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 35. Chiếm hữu, sử dụng, định đoạt tài sản chung\n    1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.\n   2. Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ\nchồng trong những trường hợp sau đây:\n    a) Bất động sản;\n    b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu;\n    c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 35",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm a"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 35. Chiếm hữu, sử dụng, định đoạt tài sản chung\n    1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.\n   2. Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ\nchồng trong những trường hợp sau đây:\n    a) Bất động sản;\n    b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu;\n    c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-015",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 357",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 357. Trách nhiệm đo chậm thực hiện nghĩa vụ trả tiền\n\n1. Trường hợp bên có nghĩa vụ chậm trả tiền thì bên đó phải trả lãi đối với\nsố tiền chậm trả tương ứng với thời gian chậm trả.\n\n2. Lãi suất phát sinh do chậm trả tiền được „ xác định theo thỏa thuận của\ncác bên nhưng không được vượt quá mức lãi suất được quy định tại khoản I\nĐiều 468 của Bộ luật này; nếu không có thỏa thuận thì thực hiện theo quy định\ntại khoản 2 Điều 468 của Bộ luật này."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 357",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 357. Trách nhiệm đo chậm thực hiện nghĩa vụ trả tiền\n\n1. Trường hợp bên có nghĩa vụ chậm trả tiền thì bên đó phải trả lãi đối với\nsố tiền chậm trả tương ứng với thời gian chậm trả.\n\n2. Lãi suất phát sinh do chậm trả tiền được „ xác định theo thỏa thuận của\ncác bên nhưng không được vượt quá mức lãi suất được quy định tại khoản I\nĐiều 468 của Bộ luật này; nếu không có thỏa thuận thì thực hiện theo quy định\ntại khoản 2 Điều 468 của Bộ luật này."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-016",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Kinh doanh bất động sản số 29/2023/QH15 (đối chiếu VBHN 06/VBHN-VPQH năm 2025)",
+            "article": "Điều 23",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-06-vbhn-vpqh-44399.htm",
+            "clause": "Khoản 5"
+          },
+          "sourceId": "OFFICIAL-KD-HN25",
+          "evidenceExcerpt": "Điều 23. Nguyên tắc kinh doanh nhà ở, công trình xây dựng hình thành\ntrong tương lai\n    1. Chủ đầu tư dự án bất động sản có quyền bán, cho thuê mua nhà ở, công trình\nxây dựng, phần diện tích sàn xây dựng trong công trình xây dựng hình thành trong\ntương lai trong dự án bất động sản theo quy định của Luật này.\n    2. Việc mua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây\ndựng trong công trình xây dựng hình thành trong tương lai thực hiện theo các quy\nđịnh sau đây:\n    a) Tuân thủ các nguyên tắc quy định tại Điều 13 của Luật này;\n    b) Đối tượng được mua, thuê mua nhà ở, công trình xây dựng, phần diện tích\nsàn xây dựng trong công trình xây dựng hình thành trong tương lai thực hiện theo\nquy định tại Điều 15 của Luật này;\n     c) Giao dịch kinh doanh nhà ở, công trình xây dựng, phần diện tích sàn xây\ndựng trong công trình xây dựng hình thành trong tương lai thực hiện theo quy định\ntại Điều 16 của Luật này;\n    d) Quyền của bên bán, cho thuê mua nhà ở, công trình xây dựng, phần diện\ntích sàn xây dựng trong công trình xây dựng hình thành trong tương lai thực hiện\ntheo quy định tại khoản 1 Điều 18 của Luật này;\n    đ) Nghĩa vụ của bên bán, cho thuê mua nhà ở, công trình xây dựng, phần diện\ntích sàn xây dựng trong công trình xây dựng hình thành trong tương lai thực hiện\ntheo quy định tại các điểm a, b, c, d, đ, h, i, k, l, m, n, o, p, q khoản 1 và khoản 2\nĐiều 19 của Luật này;\n\f52                 CÔNG BÁO/Số 493 + 494/Ngày 16-03-2025\n\n    e) Quyền của bên mua, thuê mua nhà ở, công trình xây dựng, phần diện tích\nsàn xây dựng trong công trình xây dựng hình thành trong tương lai thực hiện theo\nquy định tại khoản 1 và khoản 2 Điều 20 của Luật này;\n    g) Nghĩa vụ của bên mua, thuê mua nhà ở, công trình xây dựng, phần diện tích\nsàn xây dựng trong công trình xây dựng hình thành trong tương lai thực hiện theo\nquy định tại các khoản 1, 2, 3 và 5 Điều 21 của Luật này;\n    h) Tuân thủ quy định khác có liên quan của Luật này.\n    3. Bảo đảm công khai, minh bạch; bảo vệ quyền và lợi ích hợp pháp của tổ\nchức, cá nhân đã ký kết hợp đồng mua bán, thuê mua nhà ở, công trình xây dựng, phần\ndiện tích sàn xây dựng trong công trình xây dựng.\n     4. Chủ đầu tư dự án bất động sản có trách nhiệm sau đây:\n     a) Trách nhiệm quy định tại Điều 17 của Luật này;\n    b) Sử dụng tiền đã thu từ bên mua, thuê mua để đầu tư xây dựng dự án, nhà ở,\ncông trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng đã\nđược bán, cho thuê mua đúng mục đích sử dụng theo thỏa thuận trong hợp đồng đã\nký kết; tuân thủ quy định của pháp luật về phòng, chống rửa tiền;\n    c) Cung cấp công khai thông tin về tiến độ thực hiện đầu tư xây dựng nhà ở,\ncông trình xây dựng, phần diện tích sàn xây dựng trong công trình xây dựng cho\nbên mua, thuê mua theo hợp đồng mua bán, thuê mua đã ký kết hoặc cơ quan nhà\nnước có thẩm quyền khi có yêu cầu. Cung cấp đầy đủ, trung thực hồ sơ, thông tin\nvề bất động sản đủ điều kiện đưa vào kinh doanh theo quy định của Luật này cho\nsàn giao dịch bất động sản trong trường hợp lựa chọn phân phối sản phẩm thông\nqua sàn giao dịch bất động sản;\n   d) Không ủy quyền cho tổ chức, cá nhân khác ký hợp đồng đặt cọc, hợp đồng\nmua bán, thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong\ncông trình xây dựng hình thành trong tương lai.\n    5. Chủ đầu tư dự án bất động sản chỉ được thu tiền đặt cọc không quá 5% giá\nbán, cho thuê mua nhà ở, công trình xây dựng, phần diện tích sàn xây dựng trong\ncông trình xây dựng từ bên đặt cọc để mua, thuê mua khi nhà ở, công trình xây\ndựng đã có đủ các điều kiện đưa vào kinh doanh theo quy định của Luật này. Thỏa\nthuận đặt cọc phải ghi rõ giá bán, cho thuê mua nhà ở, công trình xây dựng, phần\ndiện tích sàn xây dựng trong công trình xây dựng.\n\f                   CÔNG BÁO/Số 493 + 494/Ngày 16-03-2025                       53"
+        }
+      ]
+    },
+    {
+      "id": "DEP26-017",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 3",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 3. Các nguyên tắc cơ bắn của pháp luật dân sự\n\n1. Mọi cá nhân, pháp nhân đều bình đẳng, không được lấy bất kỳ lý do\nnào để phân biệt đối xử; được pháp luật bảo hộ như nhau vê các quyên nhân\nthân và tài sản.\n\n2. Cá nhân, pháp nhân xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân\nsự của mình trên cơ sở tự do, tự nguyện cam kết, thỏa thuận. Mọi cam kết, thỏa\n\nthuận không vi phạm điều cắm của luật, không trái đạo đức xã hội có hiệu lực\nthực hiện đôi với các bên và phải được chủ thể khác tôn trọng,\n\n3. Cá nhân, pháp nhân phải xác lập, thực hiện, chấm dứt quyền, nghĩa vụ\nđân sự của mình một cách thiện chí, trung thực.\n4. Việc xác lập, thực hiện, chấm dứt quyền, nghĩa vụ dân sự không được\n\nxâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp\npháp của người khác.\n\n5. Cá nhân, pháp nhân phải tự chịu trách nhiệm về việc không thực hiện\nhoặc thực hiện không đúng nghĩa vụ dân sự."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 421",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 421. Sửa đổi hợp đồng\n1. Các bên có thể thoả thuận sửa đổi hợp đồng.\n2. Hợp đồng có thể được sửa đối theo quy định tại Điều 420 của Bộ luật này.\n3. Hợp đồng sửa đổi phải tuân theo hình thức của hợp đồng ban đầu."
+        }
+      ]
+    },
+    {
+      "id": "DEP26-018",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 328",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác."
+        }
+      ]
+    }
+  ]
+}

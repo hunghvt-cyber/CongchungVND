@@ -148,6 +148,13 @@
       "title": "Bộ đề thi và bài giải mua bán, chuyển nhượng do Madam An cung cấp",
       "sha256": "66726e726a42c76e893c9cf33bcd3aadeb7fef15221185f607cbc034b9558646",
       "use": "7 đề/43 câu lớn, nguồn tình huống review. Bài giải không phải đáp án đã kiểm định. Xem reports/sales-source-review-2026-10-05.md; chưa tạo câu active."
+    },
+    {
+      "id": "USER-EXAM-DEPOSIT",
+      "type": "user-provided",
+      "title": "Đề thi và bài giải đặt cọc do Madam An cung cấp",
+      "sha256": "dbbb427916c66c2cbf46dc17973f0db39f1fe971531f2220246c7758241f9313",
+      "use": "Nguồn tình huống: 3 đề/18 câu lớn và phụ lục ảnh 7 câu lớn. Biên tập đáp án độc lập, không coi bài giải là đáp án chính thức."
     }
   ]
 }
