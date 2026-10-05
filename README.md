@@ -85,3 +85,8 @@ Cơ chế gửi không yêu cầu đăng nhập; đây là dữ liệu góp ý c
 - Khi mất kết nối, bài thi chờ trong localStorage; nút “Gửi kết quả chưa lưu” gửi lại cùng UUID để tránh trùng bài. Chỉ thông báo đã lưu khi server xác nhận.
 - Schema: `supabase/exam-results.sql`. RLS chỉ cho đọc/ghi khi header `x-client-info` khớp mã lịch sử, không cho sửa/xóa; không có danh sách công khai theo tên. Đây là dữ liệu tự luyện do trình duyệt gửi, không xác minh danh tính hoặc dùng làm chứng nhận điểm thi.
 - Chạy kiểm tra: `node --test tests/*.test.cjs`.
+### Bổ sung nguồn ủy quyền ngày 05/10/2026
+
+20 câu tình huống mới đã được đối chiếu BLDS 2015, Luật Công chứng 2024 và Luật Hôn nhân và gia đình (VBHN 121/2025). Tổng active tăng từ 322 lên 342. App tải `data/imported-authorization-2026.json` cùng các file ngân hàng hiện có, giữ nguyên dữ liệu kết quả/progress.
+
+Đề luyện 35 phút và bài giải: [reports/authorization-exam-2026-10-05.md](reports/authorization-exam-2026-10-05.md). Nguồn gồm 24 câu lớn và 7 mục phụ lục trùng tài liệu đặt cọc; chỉ chứng nhận câu đã biên soạn, các nhánh chưa xác minh giữ review. Hồ sơ điều khoản: [reports/authorization-legal-evidence-2026.json](reports/authorization-legal-evidence-2026.json).

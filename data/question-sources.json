@@ -155,6 +155,13 @@
       "title": "Đề thi và bài giải đặt cọc do Madam An cung cấp",
       "sha256": "dbbb427916c66c2cbf46dc17973f0db39f1fe971531f2220246c7758241f9313",
       "use": "Nguồn tình huống: 3 đề/18 câu lớn và phụ lục ảnh 7 câu lớn. Biên tập đáp án độc lập, không coi bài giải là đáp án chính thức."
+    },
+    {
+      "id": "USER-EXAM-AUTHORIZATION",
+      "type": "user-provided",
+      "title": "Đề thi và bài giải ủy quyền do Madam An cung cấp",
+      "sha256": "e2d491f65e9089b08c71418777279e8ed6d6703591c741545a974077646d7811",
+      "use": "Nguồn tình huống 24 câu chính và phụ lục 7 mục lặp nguồn đặt cọc; biên soạn 20 câu độc lập và xác minh căn cứ, không mặc nhiên chấp nhận lời giải."
     }
   ]
 }

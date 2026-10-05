@@ -1,0 +1,298 @@
+{
+  "date": "2026-10-05",
+  "sourceId": "USER-EXAM-AUTHORIZATION",
+  "sourceSha256": "e2d491f65e9089b08c71418777279e8ed6d6703591c741545a974077646d7811",
+  "sourceQuestionCount": 31,
+  "sourceLayout": "Đề 1,2 mỗi đề 6 câu bằng chữ; đề 3 có 2 ảnh và bài giải; đề 4 có 3 ảnh phụ lục 7 mục; đề 5 có 6 câu và bài giải. Tổng 24 câu chính, 7 mục phụ lục lặp nguồn đặt cọc.",
+  "questions": [
+    {
+      "id": "AUTH-SRC-1.1",
+      "topic": "Cấp dưỡng, thăm nom",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-001"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-1.2",
+      "topic": "Điều kiện người nhận",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-002"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-1.3",
+      "topic": "Thẩm quyền xe",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-1.4",
+      "topic": "Hồ sơ xe",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-1.5",
+      "topic": "Soạn ủy quyền xe",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-014",
+        "AUTH26-017",
+        "AUTH26-018"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-1.6",
+      "topic": "Chấm dứt, báo cáo, gia hạn",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-003",
+        "AUTH26-005",
+        "AUTH26-006",
+        "AUTH26-007"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.1",
+      "topic": "Người bán cũ làm thủ tục",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-011"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.2",
+      "topic": "Thẩm quyền nhà đất",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.3",
+      "topic": "Hồ sơ đăng ký",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.4",
+      "topic": "Soạn ủy quyền đăng ký",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-013"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.5",
+      "topic": "Chi phí, khiếu nại, sử dụng nhà",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-012"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-2.6",
+      "topic": "Ủy quyền lại cho chồng",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-008",
+        "AUTH26-009"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.1",
+      "topic": "Đại diện tố tụng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.2",
+      "topic": "Thẩm quyền công chứng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.3",
+      "topic": "Hồ sơ khởi kiện",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.4",
+      "topic": "Soạn ủy quyền tố tụng",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-004"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.5",
+      "topic": "Phạm vi khởi kiện và tố tụng",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-3.6",
+      "topic": "Ủy quyền lại, thêm người, gia hạn",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-007",
+        "AUTH26-010",
+        "AUTH26-015",
+        "AUTH26-016"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.1",
+      "topic": "Hồ sơ bán nhà chung",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.2",
+      "topic": "Soạn bán nhà qua đại diện",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-019"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.3",
+      "topic": "Nhà 5 tầng chưa cập nhật",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.4",
+      "topic": "Thanh toán, phạt, chuộc lại",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.5",
+      "topic": "Gãy tay và ký thay",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "AUTH26-020"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-5.6",
+      "topic": "Hủy giao dịch giả tạo",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active."
+    },
+    {
+      "id": "AUTH-SRC-4.0",
+      "topic": "Đạo đức và lợi ích người thân",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-0",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.1",
+      "topic": "Thế chấp doanh nghiệp và đại diện",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-1",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.2",
+      "topic": "Hộ gia đình và trẻ em",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-2",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.3",
+      "topic": "Đổi ngân hàng, ủy quyền và cọc",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-3",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.4",
+      "topic": "Thừa kế và tài khoản Hàn Quốc",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-4",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.5",
+      "topic": "Xử lý thế chấp có cọc",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-5",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    },
+    {
+      "id": "AUTH-SRC-4.6",
+      "topic": "Soạn tổng hợp",
+      "decision": "duplicate_source_review",
+      "adaptedQuestionIds": [],
+      "duplicateOf": "DEP-SRC-APP-6",
+      "originalAnswerCertified": false,
+      "note": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi."
+    }
+  ],
+  "activeAdded": 20
+}
