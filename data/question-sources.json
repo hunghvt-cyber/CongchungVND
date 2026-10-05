@@ -92,6 +92,55 @@
       "title": "Luật Thi hành án dân sự 106/2025/QH15",
       "url": "https://congbao.chinhphu.vn/van-ban/luat-so-106-2025-qh15-468668.htm",
       "use": "Điều 114 khoản 2 đổi thuật ngữ tại Luật Công chứng từ 01/07/2026."
+    },
+    {
+      "id": "OFFICIAL-ND21-2021",
+      "type": "official",
+      "title": "Nghị định số 21/2021/NĐ-CP về bảo đảm thực hiện nghĩa vụ",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+      "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
+    },
+    {
+      "id": "OFFICIAL-DN-HN25",
+      "type": "official",
+      "title": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+      "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
+    },
+    {
+      "id": "OFFICIAL-NHA-HN26",
+      "type": "official",
+      "title": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+      "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
+    },
+    {
+      "id": "OFFICIAL-LD-HN26",
+      "type": "official",
+      "title": "Bộ luật Lao động số 45/2019/QH14 (đối chiếu VBHN 18/VBHN-VPQH năm 2026)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-18-vbhn-vpqh-468971/62878.htm",
+      "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
+    },
+    {
+      "id": "USER-EXAM-SEP24",
+      "type": "user-provided",
+      "title": "Đề tháng 9/2024 do Madam An cung cấp",
+      "sha256": "396d8d59d288179b456d54e29cc3913b164bb4e07d50e88e55c82d5015309030",
+      "use": "Nguồn chủ đề và câu gốc; không xác nhận là đề chính thức, không mặc nhiên sử dụng đáp án có sẵn."
+    },
+    {
+      "id": "USER-EXAM-T60",
+      "type": "user-provided",
+      "title": "Đề trắc nghiệm 60 phút do Madam An cung cấp",
+      "sha256": "7d4ed7d63484af896729c151c3c03a9463fafba868e607697dfa1b577c01c40b",
+      "use": "Nguồn chủ đề và câu gốc; không xác nhận là đề chính thức, không mặc nhiên sử dụng đáp án có sẵn."
+    },
+    {
+      "id": "OFFICIAL-KD-HN25",
+      "type": "official",
+      "title": "Luật Kinh doanh bất động sản số 29/2023/QH15 (đối chiếu VBHN 06/VBHN-VPQH năm 2025)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-06-vbhn-vpqh-44399.htm",
+      "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
     }
   ]
 }

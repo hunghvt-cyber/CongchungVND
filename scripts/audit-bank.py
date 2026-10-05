@@ -4,6 +4,7 @@ import collections, difflib, hashlib, json, pathlib, re, sys
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 FILES = ['questions.json', 'derived-questions.json'] + [f'expansion-2026-batch-{i:02}.json' for i in range(1, 6)]
 FILES += [p.name for p in sorted((ROOT/'data').glob('validated-*.json'))]
+FILES += [p.name for p in sorted((ROOT/'data').glob('imported-*.json'))]
 PREFIXES = [
  'Chọn phương án đúng theo quy định pháp luật: ',
  'Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: ',
