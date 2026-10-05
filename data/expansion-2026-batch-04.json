@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "EXP26-301",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-302",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-303",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-304",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-305",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-306",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và giao dịch đã được công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thông tin về phí",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thông tin cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thông tin thuế",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nhóm dữ liệu đầu tiên được liệt kê tại Điều 66 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-307",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và giao dịch đã được công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thông tin về phí",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thông tin cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thông tin thuế",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nhóm dữ liệu đầu tiên được liệt kê tại Điều 66 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-308",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và giao dịch đã được công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thông tin về phí",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thông tin cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thông tin thuế",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nhóm dữ liệu đầu tiên được liệt kê tại Điều 66 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-309",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và giao dịch đã được công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thông tin về phí",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thông tin cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thông tin thuế",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nhóm dữ liệu đầu tiên được liệt kê tại Điều 66 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-310",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thông tin về công chứng viên, tổ chức hành nghề công chứng và giao dịch đã được công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thông tin về phí",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thông tin cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thông tin thuế",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nhóm dữ liệu đầu tiên được liệt kê tại Điều 66 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-311",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ động sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng giao dịch của tài sản là một thành phần dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-312",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ động sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng giao dịch của tài sản là một thành phần dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-313",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ động sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng giao dịch của tài sản là một thành phần dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-314",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ động sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng giao dịch của tài sản là một thành phần dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-315",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ động sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng giao dịch của tài sản là một thành phần dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-316",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cảnh báo thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cảnh báo hình sự",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 sửa đổi ghi nhận dữ liệu về biện pháp ngăn chặn và cảnh báo rủi ro.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-317",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cảnh báo thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cảnh báo hình sự",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 sửa đổi ghi nhận dữ liệu về biện pháp ngăn chặn và cảnh báo rủi ro.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-318",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cảnh báo thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cảnh báo hình sự",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 sửa đổi ghi nhận dữ liệu về biện pháp ngăn chặn và cảnh báo rủi ro.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-319",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cảnh báo thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cảnh báo hình sự",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 sửa đổi ghi nhận dữ liệu về biện pháp ngăn chặn và cảnh báo rủi ro.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-320",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cảnh báo thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cảnh báo hình sự",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 sửa đổi ghi nhận dữ liệu về biện pháp ngăn chặn và cảnh báo rủi ro.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-321",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần cập nhật hàng năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần chính xác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là yêu cầu trực tiếp của Điều 66.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-322",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần cập nhật hàng năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần chính xác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là yêu cầu trực tiếp của Điều 66.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-323",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần cập nhật hàng năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần chính xác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là yêu cầu trực tiếp của Điều 66.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-324",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần cập nhật hàng năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần chính xác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là yêu cầu trực tiếp của Điều 66.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-325",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đầy đủ, chính xác, kịp thời và bảo đảm an ninh, an toàn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần cập nhật hàng năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần chính xác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là yêu cầu trực tiếp của Điều 66.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-326",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quản lý tập trung và phân cấp quản lý theo trách nhiệm quản lý nhà nước",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ phân tán ở địa phương",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ do tổ chức hành nghề quản lý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ do Bộ Tư pháp quản lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 quy định quản lý tập trung và phân cấp.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-327",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quản lý tập trung và phân cấp quản lý theo trách nhiệm quản lý nhà nước",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ phân tán ở địa phương",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ do tổ chức hành nghề quản lý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ do Bộ Tư pháp quản lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 quy định quản lý tập trung và phân cấp.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-328",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quản lý tập trung và phân cấp quản lý theo trách nhiệm quản lý nhà nước",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ phân tán ở địa phương",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ do tổ chức hành nghề quản lý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ do Bộ Tư pháp quản lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 quy định quản lý tập trung và phân cấp.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-329",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quản lý tập trung và phân cấp quản lý theo trách nhiệm quản lý nhà nước",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ phân tán ở địa phương",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ do tổ chức hành nghề quản lý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ do Bộ Tư pháp quản lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 quy định quản lý tập trung và phân cấp.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-330",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quản lý tập trung và phân cấp quản lý theo trách nhiệm quản lý nhà nước",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ phân tán ở địa phương",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ do tổ chức hành nghề quản lý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ do Bộ Tư pháp quản lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 quy định quản lý tập trung và phân cấp.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-331",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội Công chứng viên Việt Nam",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 giao Bộ Tư pháp xây dựng cơ sở dữ liệu đồng bộ, thống nhất.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-332",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội Công chứng viên Việt Nam",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 giao Bộ Tư pháp xây dựng cơ sở dữ liệu đồng bộ, thống nhất.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-333",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội Công chứng viên Việt Nam",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 giao Bộ Tư pháp xây dựng cơ sở dữ liệu đồng bộ, thống nhất.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-334",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội Công chứng viên Việt Nam",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 giao Bộ Tư pháp xây dựng cơ sở dữ liệu đồng bộ, thống nhất.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-335",
+    "part": 2,
+    "topic": "Cơ sở dữ liệu công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hiệp hội Công chứng viên Việt Nam",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 66 giao Bộ Tư pháp xây dựng cơ sở dữ liệu đồng bộ, thống nhất.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-336",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao văn bản công chứng và giấy tờ khác có liên quan",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản gốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản sao căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cung cấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 68 sửa đổi quy định cung cấp bản sao là nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-337",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao văn bản công chứng và giấy tờ khác có liên quan",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản gốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản sao căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cung cấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 68 sửa đổi quy định cung cấp bản sao là nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-338",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao văn bản công chứng và giấy tờ khác có liên quan",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản gốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản sao căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cung cấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 68 sửa đổi quy định cung cấp bản sao là nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-339",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao văn bản công chứng và giấy tờ khác có liên quan",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản gốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản sao căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cung cấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 68 sửa đổi quy định cung cấp bản sao là nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-340",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao văn bản công chứng và giấy tờ khác có liên quan",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản gốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản sao căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cung cấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 68 sửa đổi quy định cung cấp bản sao là nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-341",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu bản gốc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nơi nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tại Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là quy tắc tại Điều 68 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-342",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu bản gốc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nơi nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tại Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là quy tắc tại Điều 68 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-343",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu bản gốc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nơi nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tại Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là quy tắc tại Điều 68 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-344",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu bản gốc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nơi nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tại Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là quy tắc tại Điều 68 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-345",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu bản gốc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nơi nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tại Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là quy tắc tại Điều 68 sửa đổi.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-346",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 68 quy định tối đa 10 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-347",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 68 quy định tối đa 10 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-348",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 68 quy định tối đa 10 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-349",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 68 quy định tối đa 10 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-350",
+    "part": 2,
+    "topic": "Lưu trữ và cung cấp hồ sơ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 68 quy định tối đa 10 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-351",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở tổ chức hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại nhà công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ở bất kỳ nơi nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Nguyên tắc là tại trụ sở, trừ các trường hợp được thực hiện ngoài trụ sở.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-352",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở tổ chức hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại nhà công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ở bất kỳ nơi nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Nguyên tắc là tại trụ sở, trừ các trường hợp được thực hiện ngoài trụ sở.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-353",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở tổ chức hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại nhà công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ở bất kỳ nơi nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Nguyên tắc là tại trụ sở, trừ các trường hợp được thực hiện ngoài trụ sở.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-354",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở tổ chức hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại nhà công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ở bất kỳ nơi nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Nguyên tắc là tại trụ sở, trừ các trường hợp được thực hiện ngoài trụ sở.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-355",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở tổ chức hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại nhà công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ở bất kỳ nơi nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Nguyên tắc là tại trụ sở, trừ các trường hợp được thực hiện ngoài trụ sở.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-356",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Một trường hợp được công chứng ngoài trụ sở là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi yêu cầu của khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch có giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khách hàng ở tỉnh khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 cho phép ngoài trụ sở khi không thể đi lại vì sức khỏe và các trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-357",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Một trường hợp được công chứng ngoài trụ sở là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi yêu cầu của khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch có giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khách hàng ở tỉnh khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 cho phép ngoài trụ sở khi không thể đi lại vì sức khỏe và các trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-358",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Một trường hợp được công chứng ngoài trụ sở là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi yêu cầu của khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch có giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khách hàng ở tỉnh khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 cho phép ngoài trụ sở khi không thể đi lại vì sức khỏe và các trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-359",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Một trường hợp được công chứng ngoài trụ sở là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi yêu cầu của khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch có giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khách hàng ở tỉnh khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 cho phép ngoài trụ sở khi không thể đi lại vì sức khỏe và các trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-360",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Một trường hợp được công chứng ngoài trụ sở là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi yêu cầu của khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch có giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khách hàng ở tỉnh khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 cho phép ngoài trụ sở khi không thể đi lại vì sức khỏe và các trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-361",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Chữ viết trong văn bản công chứng có được viết tắt không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu công chứng viên hiểu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu các bên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 yêu cầu chữ viết rõ ràng, dễ đọc và không viết tắt, trừ trường hợp pháp luật có quy định khác.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-362",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Chữ viết trong văn bản công chứng có được viết tắt không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu công chứng viên hiểu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu các bên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 yêu cầu chữ viết rõ ràng, dễ đọc và không viết tắt, trừ trường hợp pháp luật có quy định khác.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-363",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Chữ viết trong văn bản công chứng có được viết tắt không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu công chứng viên hiểu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu các bên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 yêu cầu chữ viết rõ ràng, dễ đọc và không viết tắt, trừ trường hợp pháp luật có quy định khác.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-364",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Chữ viết trong văn bản công chứng có được viết tắt không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu công chứng viên hiểu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu các bên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 yêu cầu chữ viết rõ ràng, dễ đọc và không viết tắt, trừ trường hợp pháp luật có quy định khác.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-365",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Chữ viết trong văn bản công chứng có được viết tắt không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu công chứng viên hiểu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu các bên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 yêu cầu chữ viết rõ ràng, dễ đọc và không viết tắt, trừ trường hợp pháp luật có quy định khác.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-366",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời điểm công chứng phải được ghi như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu luật định hoặc được đề nghị/cần thiết",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ghi ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ghi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 quy định cách ghi thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-367",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời điểm công chứng phải được ghi như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu luật định hoặc được đề nghị/cần thiết",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ghi ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ghi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 quy định cách ghi thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-368",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời điểm công chứng phải được ghi như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu luật định hoặc được đề nghị/cần thiết",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ghi ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ghi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 quy định cách ghi thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-369",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời điểm công chứng phải được ghi như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu luật định hoặc được đề nghị/cần thiết",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ghi ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ghi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 quy định cách ghi thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-370",
+    "part": 2,
+    "topic": "Văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời điểm công chứng phải được ghi như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cụ thể ngày, tháng, năm; có thể ghi giờ, phút nếu luật định hoặc được đề nghị/cần thiết",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ghi ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ghi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 47 quy định cách ghi thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 47"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-371",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Lời chứng của công chứng viên phải ghi nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thời điểm, địa điểm công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ số hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ mức phí",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời điểm và địa điểm là nội dung bắt buộc của lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-372",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Lời chứng của công chứng viên phải ghi nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thời điểm, địa điểm công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ số hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ mức phí",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời điểm và địa điểm là nội dung bắt buộc của lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-373",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Lời chứng của công chứng viên phải ghi nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thời điểm, địa điểm công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ số hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ mức phí",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời điểm và địa điểm là nội dung bắt buộc của lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-374",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Lời chứng của công chứng viên phải ghi nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thời điểm, địa điểm công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ số hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ mức phí",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời điểm và địa điểm là nội dung bắt buộc của lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-375",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Lời chứng của công chứng viên phải ghi nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thời điểm, địa điểm công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ số hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ mức phí",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời điểm và địa điểm là nội dung bắt buộc của lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-376",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Lời chứng của công chứng viên phải có chữ ký của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu công chứng בלבד",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người phiên dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Trưởng tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Lời chứng phải có chữ ký công chứng viên và đóng dấu tổ chức.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-377",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Lời chứng của công chứng viên phải có chữ ký của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu công chứng בלבד",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người phiên dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Trưởng tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Lời chứng phải có chữ ký công chứng viên và đóng dấu tổ chức.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-378",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Lời chứng của công chứng viên phải có chữ ký của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu công chứng בלבד",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người phiên dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Trưởng tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Lời chứng phải có chữ ký công chứng viên và đóng dấu tổ chức.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-379",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Lời chứng của công chứng viên phải có chữ ký của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu công chứng בלבד",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người phiên dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Trưởng tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Lời chứng phải có chữ ký công chứng viên và đóng dấu tổ chức.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-380",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Lời chứng của công chứng viên phải có chữ ký của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu công chứng בלבד",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người phiên dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Trưởng tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Lời chứng phải có chữ ký công chứng viên và đóng dấu tổ chức.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-381",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 48 cấm đưa nội dung nhằm trốn tránh, loại trừ trách nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-382",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 48 cấm đưa nội dung nhằm trốn tránh, loại trừ trách nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-383",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 48 cấm đưa nội dung nhằm trốn tránh, loại trừ trách nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-384",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 48 cấm đưa nội dung nhằm trốn tránh, loại trừ trách nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-385",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 48 cấm đưa nội dung nhằm trốn tránh, loại trừ trách nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-386",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người được ủy quyền là thân nhân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu công chứng viên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Người lập di chúc phải tự mình ký hoặc ký và điểm chỉ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-387",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người được ủy quyền là thân nhân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu công chứng viên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Người lập di chúc phải tự mình ký hoặc ký và điểm chỉ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-388",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người được ủy quyền là thân nhân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu công chứng viên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Người lập di chúc phải tự mình ký hoặc ký và điểm chỉ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-389",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người được ủy quyền là thân nhân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu công chứng viên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Người lập di chúc phải tự mình ký hoặc ký và điểm chỉ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-390",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người được ủy quyền là thân nhân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu công chứng viên đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Người lập di chúc phải tự mình ký hoặc ký và điểm chỉ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-391",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Việc lập di chúc phải có người làm chứng theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hủy việc lập di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho người khác ký thay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần công chứng viên ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 dẫn chiếu trường hợp có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-392",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Việc lập di chúc phải có người làm chứng theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hủy việc lập di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho người khác ký thay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần công chứng viên ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 dẫn chiếu trường hợp có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-393",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Việc lập di chúc phải có người làm chứng theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hủy việc lập di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho người khác ký thay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần công chứng viên ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 dẫn chiếu trường hợp có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-394",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Việc lập di chúc phải có người làm chứng theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hủy việc lập di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho người khác ký thay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần công chứng viên ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 dẫn chiếu trường hợp có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-395",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Việc lập di chúc phải có người làm chứng theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hủy việc lập di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho người khác ký thay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần công chứng viên ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 dẫn chiếu trường hợp có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-396",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Từ chối công chứng di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển cho UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người thân ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 yêu cầu từ chối nếu không làm rõ được.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-397",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Từ chối công chứng di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển cho UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người thân ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 yêu cầu từ chối nếu không làm rõ được.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-398",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Từ chối công chứng di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển cho UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người thân ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 yêu cầu từ chối nếu không làm rõ được.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-399",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Từ chối công chứng di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển cho UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người thân ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 yêu cầu từ chối nếu không làm rõ được.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-400",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Từ chối công chứng di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển cho UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu người thân ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 yêu cầu từ chối nếu không làm rõ được.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  }
+]
