@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "EXP26-401",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, nhưng phải ghi rõ trong văn bản công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần sổ hộ khẩu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 có ngoại lệ trong tình huống khẩn cấp này.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-402",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, nhưng phải ghi rõ trong văn bản công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần sổ hộ khẩu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 có ngoại lệ trong tình huống khẩn cấp này.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-403",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, nhưng phải ghi rõ trong văn bản công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần sổ hộ khẩu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 có ngoại lệ trong tình huống khẩn cấp này.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-404",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, nhưng phải ghi rõ trong văn bản công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần sổ hộ khẩu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 có ngoại lệ trong tình huống khẩn cấp này.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-405",
+    "part": 2,
+    "topic": "Di chúc",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, nhưng phải ghi rõ trong văn bản công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần sổ hộ khẩu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 58 có ngoại lệ trong tình huống khẩn cấp này.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-406",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo Điều 70",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo Điều 8",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo Điều 15",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 dẫn chiếu thẩm quyền công chứng hợp đồng thế chấp bất động sản về Điều 44.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-407",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo Điều 70",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo Điều 8",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo Điều 15",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 dẫn chiếu thẩm quyền công chứng hợp đồng thế chấp bất động sản về Điều 44.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-408",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo Điều 70",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo Điều 8",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo Điều 15",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 dẫn chiếu thẩm quyền công chứng hợp đồng thế chấp bất động sản về Điều 44.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-409",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo Điều 70",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo Điều 8",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo Điều 15",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 dẫn chiếu thẩm quyền công chứng hợp đồng thế chấp bất động sản về Điều 44.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-410",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo Điều 70",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo Điều 8",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo Điều 15",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 dẫn chiếu thẩm quyền công chứng hợp đồng thế chấp bất động sản về Điều 44.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-411",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 quy định nguyên tắc tiếp tục tại tổ chức đã công chứng lần đầu.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-412",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 quy định nguyên tắc tiếp tục tại tổ chức đã công chứng lần đầu.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-413",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 quy định nguyên tắc tiếp tục tại tổ chức đã công chứng lần đầu.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-414",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 quy định nguyên tắc tiếp tục tại tổ chức đã công chứng lần đầu.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-415",
+    "part": 2,
+    "topic": "Thế chấp bất động sản",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức đã công chứng hợp đồng thế chấp lần đầu, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 quy định nguyên tắc tiếp tục tại tổ chức đã công chứng lần đầu.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-416",
+    "part": 2,
+    "topic": "Văn bản công chứng vô hiệu",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên đã công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Viện kiểm sát",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 54 liệt kê các chủ thể có quyền đề nghị.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 54"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-417",
+    "part": 2,
+    "topic": "Văn bản công chứng vô hiệu",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên đã công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Viện kiểm sát",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 54 liệt kê các chủ thể có quyền đề nghị.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 54"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-418",
+    "part": 2,
+    "topic": "Văn bản công chứng vô hiệu",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên đã công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Viện kiểm sát",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 54 liệt kê các chủ thể có quyền đề nghị.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 54"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-419",
+    "part": 2,
+    "topic": "Văn bản công chứng vô hiệu",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên đã công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Viện kiểm sát",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 54 liệt kê các chủ thể có quyền đề nghị.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 54"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-420",
+    "part": 2,
+    "topic": "Văn bản công chứng vô hiệu",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên đã công chứng, người yêu cầu, người làm chứng, người phiên dịch, người có quyền lợi nghĩa vụ liên quan và cơ quan nhà nước có thẩm quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ Viện kiểm sát",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 54 liệt kê các chủ thể có quyền đề nghị.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 54"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-421",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sự thỏa thuận hoặc cam kết bằng văn bản của tất cả người đã ký hợp đồng, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ý kiến công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ý kiến người trả phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ai đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc tại khoản 1 Điều 53.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-422",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sự thỏa thuận hoặc cam kết bằng văn bản của tất cả người đã ký hợp đồng, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ý kiến công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ý kiến người trả phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ai đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc tại khoản 1 Điều 53.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-423",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sự thỏa thuận hoặc cam kết bằng văn bản của tất cả người đã ký hợp đồng, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ý kiến công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ý kiến người trả phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ai đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc tại khoản 1 Điều 53.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-424",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sự thỏa thuận hoặc cam kết bằng văn bản của tất cả người đã ký hợp đồng, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ý kiến công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ý kiến người trả phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ai đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc tại khoản 1 Điều 53.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-425",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Sự thỏa thuận hoặc cam kết bằng văn bản của tất cả người đã ký hợp đồng, trừ trường hợp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ý kiến công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ý kiến người trả phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ai đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc tại khoản 1 Điều 53.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-426",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức nơi đã công chứng giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ công chứng viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tòa án",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định thẩm quyền tại tổ chức đã thực hiện công chứng, có ngoại lệ khi tổ chức chấm dứt, chuyển đổi, giải thể.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-427",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức nơi đã công chứng giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ công chứng viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tòa án",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định thẩm quyền tại tổ chức đã thực hiện công chứng, có ngoại lệ khi tổ chức chấm dứt, chuyển đổi, giải thể.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-428",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức nơi đã công chứng giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ công chứng viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tòa án",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định thẩm quyền tại tổ chức đã thực hiện công chứng, có ngoại lệ khi tổ chức chấm dứt, chuyển đổi, giải thể.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-429",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức nơi đã công chứng giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ công chứng viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tòa án",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định thẩm quyền tại tổ chức đã thực hiện công chứng, có ngoại lệ khi tổ chức chấm dứt, chuyển đổi, giải thể.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-430",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức nơi đã công chứng giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ công chứng viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tòa án",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định thẩm quyền tại tổ chức đã thực hiện công chứng, có ngoại lệ khi tổ chức chấm dứt, chuyển đổi, giải thể.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-431",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức đang lưu trữ hồ sơ công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định công chứng viên của tổ chức đang lưu trữ hồ sơ thực hiện.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-432",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức đang lưu trữ hồ sơ công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định công chứng viên của tổ chức đang lưu trữ hồ sơ thực hiện.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-433",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức đang lưu trữ hồ sơ công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định công chứng viên của tổ chức đang lưu trữ hồ sơ thực hiện.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-434",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức đang lưu trữ hồ sơ công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định công chứng viên của tổ chức đang lưu trữ hồ sơ thực hiện.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-435",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng viên của tổ chức đang lưu trữ hồ sơ công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 53 quy định công chứng viên của tổ chức đang lưu trữ hồ sơ thực hiện.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-436",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo thủ tục hành chính của UBND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo thủ tục tố tụng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 53 quy định như vậy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-437",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo thủ tục hành chính của UBND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo thủ tục tố tụng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 53 quy định như vậy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-438",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo thủ tục hành chính của UBND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo thủ tục tố tụng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 53 quy định như vậy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-439",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo thủ tục hành chính của UBND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo thủ tục tố tụng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 53 quy định như vậy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-440",
+    "part": 2,
+    "topic": "Sửa đổi giao dịch",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Theo thủ tục hành chính của UBND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Theo thủ tục tố tụng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 53 quy định như vậy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-441",
+    "part": 2,
+    "topic": "Nguyên tắc thủ tục",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo quy định chung và quy định riêng cho từng loại giao dịch",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ theo Bộ luật Dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ theo nội quy tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ theo thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định kết hợp quy định chung và quy định riêng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 55"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-442",
+    "part": 2,
+    "topic": "Nguyên tắc thủ tục",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo quy định chung và quy định riêng cho từng loại giao dịch",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ theo Bộ luật Dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ theo nội quy tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ theo thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định kết hợp quy định chung và quy định riêng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 55"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-443",
+    "part": 2,
+    "topic": "Nguyên tắc thủ tục",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo quy định chung và quy định riêng cho từng loại giao dịch",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ theo Bộ luật Dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ theo nội quy tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ theo thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định kết hợp quy định chung và quy định riêng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 55"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-444",
+    "part": 2,
+    "topic": "Nguyên tắc thủ tục",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo quy định chung và quy định riêng cho từng loại giao dịch",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ theo Bộ luật Dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ theo nội quy tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ theo thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định kết hợp quy định chung và quy định riêng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 55"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-445",
+    "part": 2,
+    "topic": "Nguyên tắc thủ tục",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo quy định chung và quy định riêng cho từng loại giao dịch",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ theo Bộ luật Dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ theo nội quy tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ theo thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định kết hợp quy định chung và quy định riêng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 55"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-446",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/01/2027",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/07/2026",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "01/01/2026",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "23/04/2026",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-447",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/01/2027",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/07/2026",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "01/01/2026",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "23/04/2026",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-448",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/01/2027",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/07/2026",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "01/01/2026",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "23/04/2026",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-449",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/01/2027",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/07/2026",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "01/01/2026",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "23/04/2026",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-450",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/01/2027",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/07/2026",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "01/01/2026",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "23/04/2026",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 2 của Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-451",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/07/2025",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/01/2025",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "26/11/2024",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "01/01/2027",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 75 của Luật Công chứng số 46/2024/QH15 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 75"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-452",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/07/2025",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/01/2025",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "26/11/2024",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "01/01/2027",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 75 của Luật Công chứng số 46/2024/QH15 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 75"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-453",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/07/2025",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/01/2025",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "26/11/2024",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "01/01/2027",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 75 của Luật Công chứng số 46/2024/QH15 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 75"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-454",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/07/2025",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/01/2025",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "26/11/2024",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "01/01/2027",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 75 của Luật Công chứng số 46/2024/QH15 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 75"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-455",
+    "part": 2,
+    "topic": "Hiệu lực pháp luật",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01/07/2025",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01/01/2025",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "26/11/2024",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "01/01/2027",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 75 của Luật Công chứng số 46/2024/QH15 quy định ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 75"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-456",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch bằng lời nói",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch điện tử",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi xác định giao dịch bằng văn bản trong định nghĩa công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-457",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch bằng lời nói",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch điện tử",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi xác định giao dịch bằng văn bản trong định nghĩa công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-458",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch bằng lời nói",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch điện tử",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi xác định giao dịch bằng văn bản trong định nghĩa công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-459",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch bằng lời nói",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch điện tử",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi xác định giao dịch bằng văn bản trong định nghĩa công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-460",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch bằng lời nói",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch điện tử",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hợp đồng giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi xác định giao dịch bằng văn bản trong định nghĩa công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-461",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ trì rà soát, cập nhật và đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ lưu trữ nội bộ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển toàn bộ cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn trách nhiệm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nội dung sửa Điều 3.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-462",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ trì rà soát, cập nhật và đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ lưu trữ nội bộ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển toàn bộ cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn trách nhiệm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nội dung sửa Điều 3.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-463",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ trì rà soát, cập nhật và đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ lưu trữ nội bộ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển toàn bộ cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn trách nhiệm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nội dung sửa Điều 3.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-464",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ trì rà soát, cập nhật và đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ lưu trữ nội bộ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển toàn bộ cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn trách nhiệm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nội dung sửa Điều 3.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-465",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ trì rà soát, cập nhật và đăng tải trên Cổng thông tin điện tử của Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ lưu trữ nội bộ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển toàn bộ cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn trách nhiệm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nội dung sửa Điều 3.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-466",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, việc công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền này về địa phương.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-467",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, việc công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền này về địa phương.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-468",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, việc công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền này về địa phương.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-469",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, việc công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền này về địa phương.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-470",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, việc công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc thẩm quyền của ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền này về địa phương.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-471",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, người đề nghị bổ nhiệm công chứng viên phải đề nghị Chủ tịch UBND cấp tỉnh nơi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hoàn thành tập sự hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi có hộ khẩu đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học đại học",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 13 sửa đổi xác định nơi hoàn thành tập sự.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-472",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, người đề nghị bổ nhiệm công chứng viên phải đề nghị Chủ tịch UBND cấp tỉnh nơi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hoàn thành tập sự hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi có hộ khẩu đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học đại học",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 13 sửa đổi xác định nơi hoàn thành tập sự.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-473",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, người đề nghị bổ nhiệm công chứng viên phải đề nghị Chủ tịch UBND cấp tỉnh nơi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hoàn thành tập sự hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi có hộ khẩu đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học đại học",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 13 sửa đổi xác định nơi hoàn thành tập sự.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-474",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, người đề nghị bổ nhiệm công chứng viên phải đề nghị Chủ tịch UBND cấp tỉnh nơi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hoàn thành tập sự hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi có hộ khẩu đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học đại học",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 13 sửa đổi xác định nơi hoàn thành tập sự.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-475",
+    "part": 2,
+    "topic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, người đề nghị bổ nhiệm công chứng viên phải đề nghị Chủ tịch UBND cấp tỉnh nơi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hoàn thành tập sự hành nghề công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi có hộ khẩu đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học đại học",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 13 sửa đổi xác định nơi hoàn thành tập sự.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-476",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo điều khoản chuyển tiếp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được hành nghề 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải thi lại ngay",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bảo đảm chuyển tiếp cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-477",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo điều khoản chuyển tiếp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được hành nghề 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải thi lại ngay",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bảo đảm chuyển tiếp cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-478",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo điều khoản chuyển tiếp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được hành nghề 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải thi lại ngay",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bảo đảm chuyển tiếp cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-479",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo điều khoản chuyển tiếp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được hành nghề 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải thi lại ngay",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bảo đảm chuyển tiếp cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-480",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo điều khoản chuyển tiếp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được hành nghề 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải thi lại ngay",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bảo đảm chuyển tiếp cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày có hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-481",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếp tục được quản lý, khai thác, sử dụng cho đến khi cơ sở dữ liệu theo Luật mới vận hành và dữ liệu cần thiết được đồng bộ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải xóa ngay",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chuyển cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được sử dụng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp bảo đảm hoạt động liên tục của cơ sở dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-482",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếp tục được quản lý, khai thác, sử dụng cho đến khi cơ sở dữ liệu theo Luật mới vận hành và dữ liệu cần thiết được đồng bộ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải xóa ngay",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chuyển cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được sử dụng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp bảo đảm hoạt động liên tục của cơ sở dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-483",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếp tục được quản lý, khai thác, sử dụng cho đến khi cơ sở dữ liệu theo Luật mới vận hành và dữ liệu cần thiết được đồng bộ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải xóa ngay",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chuyển cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được sử dụng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp bảo đảm hoạt động liên tục của cơ sở dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-484",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếp tục được quản lý, khai thác, sử dụng cho đến khi cơ sở dữ liệu theo Luật mới vận hành và dữ liệu cần thiết được đồng bộ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải xóa ngay",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chuyển cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được sử dụng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp bảo đảm hoạt động liên tục của cơ sở dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-485",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếp tục được quản lý, khai thác, sử dụng cho đến khi cơ sở dữ liệu theo Luật mới vận hành và dữ liệu cần thiết được đồng bộ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải xóa ngay",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chuyển cho UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được sử dụng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp bảo đảm hoạt động liên tục của cơ sở dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-486",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "03 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp đặt thời hạn 01 năm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-487",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "03 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp đặt thời hạn 01 năm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-488",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "03 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp đặt thời hạn 01 năm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-489",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "03 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp đặt thời hạn 01 năm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-490",
+    "part": 2,
+    "topic": "Điều khoản chuyển tiếp",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "01 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "03 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều khoản chuyển tiếp đặt thời hạn 01 năm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-491",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc, văn bản từ chối nhận di sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng chuyển nhượng quyền sử dụng đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi liệt kê các ngoại lệ này khỏi giới hạn địa bàn bất động sản.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-492",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc, văn bản từ chối nhận di sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng chuyển nhượng quyền sử dụng đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi liệt kê các ngoại lệ này khỏi giới hạn địa bàn bất động sản.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-493",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc, văn bản từ chối nhận di sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng chuyển nhượng quyền sử dụng đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi liệt kê các ngoại lệ này khỏi giới hạn địa bàn bất động sản.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-494",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc, văn bản từ chối nhận di sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng chuyển nhượng quyền sử dụng đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi liệt kê các ngoại lệ này khỏi giới hạn địa bàn bất động sản.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-495",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc, văn bản từ chối nhận di sản và văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng chuyển nhượng quyền sử dụng đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi liệt kê các ngoại lệ này khỏi giới hạn địa bàn bất động sản.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-496",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không thuộc thẩm quyền theo phạm vi tỉnh, thành phố, trừ trường hợp giao dịch thuộc ngoại lệ của Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn được công chứng vì công chứng có giá trị toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần UBND cấp xã đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần khách hàng cam kết",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi giới hạn thẩm quyền bất động sản theo tỉnh, thành phố và đồng thời quy định các ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-497",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không thuộc thẩm quyền theo phạm vi tỉnh, thành phố, trừ trường hợp giao dịch thuộc ngoại lệ của Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn được công chứng vì công chứng có giá trị toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần UBND cấp xã đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần khách hàng cam kết",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi giới hạn thẩm quyền bất động sản theo tỉnh, thành phố và đồng thời quy định các ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-498",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không thuộc thẩm quyền theo phạm vi tỉnh, thành phố, trừ trường hợp giao dịch thuộc ngoại lệ của Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn được công chứng vì công chứng có giá trị toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần UBND cấp xã đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần khách hàng cam kết",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi giới hạn thẩm quyền bất động sản theo tỉnh, thành phố và đồng thời quy định các ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-499",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không thuộc thẩm quyền theo phạm vi tỉnh, thành phố, trừ trường hợp giao dịch thuộc ngoại lệ của Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn được công chứng vì công chứng có giá trị toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần UBND cấp xã đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần khách hàng cam kết",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi giới hạn thẩm quyền bất động sản theo tỉnh, thành phố và đồng thời quy định các ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-500",
+    "part": 2,
+    "topic": "Kỹ năng và tình huống",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không thuộc thẩm quyền theo phạm vi tỉnh, thành phố, trừ trường hợp giao dịch thuộc ngoại lệ của Điều 44",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn được công chứng vì công chứng có giá trị toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần UBND cấp xã đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần khách hàng cam kết",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi giới hạn thẩm quyền bất động sản theo tỉnh, thành phố và đồng thời quy định các ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  }
+]
