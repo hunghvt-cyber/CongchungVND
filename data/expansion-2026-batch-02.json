@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "EXP26-101",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 02 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Công chứng viên hướng dẫn phải có từ đủ 02 năm kinh nghiệm hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-102",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 02 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Công chứng viên hướng dẫn phải có từ đủ 02 năm kinh nghiệm hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-103",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 02 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Công chứng viên hướng dẫn phải có từ đủ 02 năm kinh nghiệm hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-104",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 02 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Công chứng viên hướng dẫn phải có từ đủ 02 năm kinh nghiệm hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-105",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 02 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Công chứng viên hướng dẫn phải có từ đủ 02 năm kinh nghiệm hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-106",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "02 người",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01 người",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 người",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "05 người",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 giới hạn tối đa 02 người tại cùng thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-107",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "02 người",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01 người",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 người",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "05 người",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 giới hạn tối đa 02 người tại cùng thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-108",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "02 người",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01 người",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 người",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "05 người",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 giới hạn tối đa 02 người tại cùng thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-109",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "02 người",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01 người",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 người",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "05 người",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 giới hạn tối đa 02 người tại cùng thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-110",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "02 người",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "01 người",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 người",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "05 người",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 giới hạn tối đa 02 người tại cùng thời điểm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-111",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là cơ chế hiệu lực đặc thù tại Điều 12.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-112",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là cơ chế hiệu lực đặc thù tại Điều 12.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-113",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là cơ chế hiệu lực đặc thù tại Điều 12.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-114",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là cơ chế hiệu lực đặc thù tại Điều 12.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-115",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là cơ chế hiệu lực đặc thù tại Điều 12.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-116",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có án",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi bị phạt tù",
+        "correct": false
+      }
+    ],
+    "explanation": "Đang bị truy cứu trách nhiệm hình sự là trường hợp không được bổ nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-117",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có án",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi bị phạt tù",
+        "correct": false
+      }
+    ],
+    "explanation": "Đang bị truy cứu trách nhiệm hình sự là trường hợp không được bổ nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-118",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có án",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi bị phạt tù",
+        "correct": false
+      }
+    ],
+    "explanation": "Đang bị truy cứu trách nhiệm hình sự là trường hợp không được bổ nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-119",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có án",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi bị phạt tù",
+        "correct": false
+      }
+    ],
+    "explanation": "Đang bị truy cứu trách nhiệm hình sự là trường hợp không được bổ nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-120",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có án",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi bị phạt tù",
+        "correct": false
+      }
+    ],
+    "explanation": "Đang bị truy cứu trách nhiệm hình sự là trường hợp không được bổ nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-121",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu có người giám hộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 14 loại trừ trường hợp mất hoặc hạn chế năng lực hành vi dân sự và khó khăn trong nhận thức, làm chủ hành vi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-122",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu có người giám hộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 14 loại trừ trường hợp mất hoặc hạn chế năng lực hành vi dân sự và khó khăn trong nhận thức, làm chủ hành vi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-123",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu có người giám hộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 14 loại trừ trường hợp mất hoặc hạn chế năng lực hành vi dân sự và khó khăn trong nhận thức, làm chủ hành vi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-124",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu có người giám hộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 14 loại trừ trường hợp mất hoặc hạn chế năng lực hành vi dân sự và khó khăn trong nhận thức, làm chủ hành vi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-125",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu có người giám hộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 14 loại trừ trường hợp mất hoặc hạn chế năng lực hành vi dân sự và khó khăn trong nhận thức, làm chủ hành vi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-126",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định tối đa 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-127",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định tối đa 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-128",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định tối đa 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-129",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định tối đa 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-130",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định tối đa 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-131",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-132",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-133",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-134",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-135",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-136",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên đương nhiên miễn nhiệm khi?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quá 70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có 10 năm hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chuyển nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định quá 70 tuổi là trường hợp đương nhiên miễn nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-137",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên đương nhiên miễn nhiệm khi?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quá 70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có 10 năm hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chuyển nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định quá 70 tuổi là trường hợp đương nhiên miễn nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-138",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên đương nhiên miễn nhiệm khi?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quá 70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có 10 năm hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chuyển nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định quá 70 tuổi là trường hợp đương nhiên miễn nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-139",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên đương nhiên miễn nhiệm khi?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quá 70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có 10 năm hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chuyển nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định quá 70 tuổi là trường hợp đương nhiên miễn nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-140",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên đương nhiên miễn nhiệm khi?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Quá 70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có 10 năm hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chuyển nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định quá 70 tuổi là trường hợp đương nhiên miễn nhiệm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-141",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không hành nghề trong 12 tháng là một căn cứ miễn nhiệm, trừ trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-142",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không hành nghề trong 12 tháng là một căn cứ miễn nhiệm, trừ trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-143",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không hành nghề trong 12 tháng là một căn cứ miễn nhiệm, trừ trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-144",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không hành nghề trong 12 tháng là một căn cứ miễn nhiệm, trừ trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-145",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không hành nghề trong 12 tháng là một căn cứ miễn nhiệm, trừ trường hợp luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-146",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm lại sang Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-147",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm lại sang Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-148",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm lại sang Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-149",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm lại sang Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-150",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm công chứng viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm lại sang Chủ tịch UBND cấp tỉnh nơi đã miễn nhiệm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-151",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Học viện Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Thẩm quyền được chuyển cho Chủ tịch UBND cấp tỉnh nơi cư trú.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-152",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Học viện Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Thẩm quyền được chuyển cho Chủ tịch UBND cấp tỉnh nơi cư trú.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-153",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Học viện Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Thẩm quyền được chuyển cho Chủ tịch UBND cấp tỉnh nơi cư trú.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-154",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Học viện Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Thẩm quyền được chuyển cho Chủ tịch UBND cấp tỉnh nơi cư trú.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-155",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi người đó cư trú",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Học viện Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Thẩm quyền được chuyển cho Chủ tịch UBND cấp tỉnh nơi cư trú.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-156",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi hoàn thành tập sự",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sở Tư pháp nơi cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa Điều 13 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-157",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi hoàn thành tập sự",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sở Tư pháp nơi cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa Điều 13 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-158",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi hoàn thành tập sự",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sở Tư pháp nơi cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa Điều 13 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-159",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi hoàn thành tập sự",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sở Tư pháp nơi cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa Điều 13 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-160",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi hoàn thành tập sự",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Sở Tư pháp nơi cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã nơi cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa Điều 13 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-161",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi công chứng viên đang hành nghề",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là thẩm quyền mới theo Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-162",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi công chứng viên đang hành nghề",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là thẩm quyền mới theo Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-163",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi công chứng viên đang hành nghề",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là thẩm quyền mới theo Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-164",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi công chứng viên đang hành nghề",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là thẩm quyền mới theo Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-165",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh nơi công chứng viên đang hành nghề",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chủ tịch UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là thẩm quyền mới theo Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-166",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hành nghề cuối cùng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi thường trú ban đầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học luật",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nơi hành nghề cuối cùng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-167",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hành nghề cuối cùng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi thường trú ban đầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học luật",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nơi hành nghề cuối cùng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-168",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hành nghề cuối cùng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi thường trú ban đầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học luật",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nơi hành nghề cuối cùng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-169",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hành nghề cuối cùng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi thường trú ban đầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học luật",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nơi hành nghề cuối cùng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-170",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nơi hành nghề cuối cùng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Nơi sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Nơi thường trú ban đầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Nơi học luật",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nơi hành nghề cuối cùng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-171",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Tổ chức hành nghề công chứng gồm những loại nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phòng công chứng và Văn phòng công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ Văn phòng công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phòng công chứng và công ty luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND và Văn phòng công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là hai loại tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-172",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Tổ chức hành nghề công chứng gồm những loại nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phòng công chứng và Văn phòng công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ Văn phòng công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phòng công chứng và công ty luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND và Văn phòng công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là hai loại tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-173",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Tổ chức hành nghề công chứng gồm những loại nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phòng công chứng và Văn phòng công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ Văn phòng công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phòng công chứng và công ty luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND và Văn phòng công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là hai loại tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-174",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Tổ chức hành nghề công chứng gồm những loại nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phòng công chứng và Văn phòng công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ Văn phòng công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phòng công chứng và công ty luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND và Văn phòng công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là hai loại tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-175",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Tổ chức hành nghề công chứng gồm những loại nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phòng công chứng và Văn phòng công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ Văn phòng công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phòng công chứng và công ty luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND và Văn phòng công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là hai loại tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-176",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công ty hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp tư nhân",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công ty cổ phần",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Công ty TNHH",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 giữ công ty hợp danh là mô hình nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-177",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công ty hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp tư nhân",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công ty cổ phần",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Công ty TNHH",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 giữ công ty hợp danh là mô hình nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-178",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công ty hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp tư nhân",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công ty cổ phần",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Công ty TNHH",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 giữ công ty hợp danh là mô hình nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-179",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công ty hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp tư nhân",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công ty cổ phần",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Công ty TNHH",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 giữ công ty hợp danh là mô hình nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-180",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công ty hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Doanh nghiệp tư nhân",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công ty cổ phần",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Công ty TNHH",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 giữ công ty hợp danh là mô hình nguyên tắc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-181",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại đơn vị hành chính cấp xã có mật độ dân số thấp, hạ tầng và dịch vụ chưa phát triển, khó khăn trong thành lập theo mô hình hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi phường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thành phố trực thuộc trung ương",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngoại lệ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-182",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại đơn vị hành chính cấp xã có mật độ dân số thấp, hạ tầng và dịch vụ chưa phát triển, khó khăn trong thành lập theo mô hình hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi phường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thành phố trực thuộc trung ương",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngoại lệ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-183",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại đơn vị hành chính cấp xã có mật độ dân số thấp, hạ tầng và dịch vụ chưa phát triển, khó khăn trong thành lập theo mô hình hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi phường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thành phố trực thuộc trung ương",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngoại lệ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-184",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại đơn vị hành chính cấp xã có mật độ dân số thấp, hạ tầng và dịch vụ chưa phát triển, khó khăn trong thành lập theo mô hình hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi phường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thành phố trực thuộc trung ương",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngoại lệ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-185",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại đơn vị hành chính cấp xã có mật độ dân số thấp, hạ tầng và dịch vụ chưa phát triển, khó khăn trong thành lập theo mô hình hợp danh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi xã",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi phường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ thành phố trực thuộc trung ương",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định ngoại lệ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-186",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "HĐND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật giao UBND cấp tỉnh quyết định danh mục.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-187",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "HĐND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật giao UBND cấp tỉnh quyết định danh mục.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-188",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "HĐND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật giao UBND cấp tỉnh quyết định danh mục.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-189",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "HĐND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật giao UBND cấp tỉnh quyết định danh mục.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-190",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "HĐND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật giao UBND cấp tỉnh quyết định danh mục.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-191",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định thời hạn 10 ngày.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-192",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định thời hạn 10 ngày.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-193",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định thời hạn 10 ngày.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-194",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định thời hạn 10 ngày.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-195",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "10 ngày",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "05 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "15 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 quy định thời hạn 10 ngày.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-196",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trực tiếp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trực tuyến",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ qua bưu chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 được sửa để ghi nhận ba phương thức.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-197",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trực tiếp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trực tuyến",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ qua bưu chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 được sửa để ghi nhận ba phương thức.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-198",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trực tiếp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trực tuyến",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ qua bưu chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 được sửa để ghi nhận ba phương thức.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-199",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trực tiếp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trực tuyến",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ qua bưu chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 được sửa để ghi nhận ba phương thức.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-200",
+    "part": 1,
+    "topic": "Tổ chức hành nghề",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trực tuyến, trực tiếp hoặc qua dịch vụ bưu chính",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trực tiếp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trực tuyến",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ qua bưu chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 được sửa để ghi nhận ba phương thức.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  }
+]
