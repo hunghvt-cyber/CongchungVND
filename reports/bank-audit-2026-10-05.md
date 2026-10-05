@@ -1,3 +1,5 @@
+> Báo cáo mốc audit ban đầu tại commit b0a78f5, trước đợt nhập hai đề. Số liệu mới xem [báo cáo hai đề](exam-import-2026-10-05.md).
+
 # Audit ngân hàng CongchungVND — 05/10/2026
 
 **Trạng thái: đã rà cấu trúc toàn bộ 620 câu đầu vào và tích hợp 100 tình huống mới; chưa hoàn thành mục tiêu 400 câu chuẩn hoặc thay thế đủ 500 câu mở rộng.** Không dùng báo cáo này làm xác nhận rằng 620 câu cũ đều đã được kiểm định pháp lý.
