@@ -1,0 +1,399 @@
+{
+  "sourceId": "USER-EXAM-SALES",
+  "sourceSha256": "66726e726a42c76e893c9cf33bcd3aadeb7fef15221185f607cbc034b9558646",
+  "reviewedAt": "2026-10-05",
+  "reviewScope": "Nghiên cứu tình huống, bài giải và ảnh; chưa kiểm định hoàn tất đáp án để active",
+  "examCount": 7,
+  "sourceQuestionCount": 43,
+  "activeAdded": 0,
+  "items": [
+    {
+      "id": "SALE-01-01",
+      "exam": 1,
+      "questionNumber": "1",
+      "topic": "Điều kiện nhận đất trồng rừng",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Thiếu loại đất, khu vực rừng, diện tích và hạn mức địa phương; cập nhật Điều 45, 176, 177."
+    },
+    {
+      "id": "SALE-01-02",
+      "exam": 1,
+      "questionNumber": "2",
+      "topic": "Thẩm quyền mua bán nhà",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Cập nhật Điều 44 LCC; tránh trùng nhóm địa hạt."
+    },
+    {
+      "id": "SALE-01-03",
+      "exam": 1,
+      "questionNumber": "3",
+      "topic": "Hồ sơ mua bán nhà",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Câu chỉ xuất hiện trong phần giải; cập nhật hồ sơ, dữ liệu và giấy nhân thân."
+    },
+    {
+      "id": "SALE-01-04",
+      "exam": 1,
+      "questionNumber": "4",
+      "topic": "Soạn hợp đồng nhà 8 tỷ",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Mẫu nhầm tên Nguyễn Thanh Bình thành Nguyễn Văn Bình; không nhập nguyên mẫu vào trắc nghiệm."
+    },
+    {
+      "id": "SALE-01-05",
+      "exam": 1,
+      "questionNumber": "5",
+      "topic": "Giấy nguồn tạo lập và giấy kiểm lâm",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Sửa căn cứ điều kiện bán nhà; kiểm chứng riêng giấy tờ kiểm lâm."
+    },
+    {
+      "id": "SALE-01-06",
+      "exam": 1,
+      "questionNumber": "6",
+      "topic": "Thanh toán, bàn giao, ở lại sau bán",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Lời giải mâu thuẫn về giữ lại giá; cần rõ thời điểm chuyển quyền và bản chất tiền ở lại."
+    },
+    {
+      "id": "SALE-02-01",
+      "exam": 2,
+      "questionNumber": "1",
+      "topic": "Hồ sơ nhà chung vợ chồng",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không coi toàn bộ danh mục cũ là thành phần bắt buộc cho mọi hồ sơ hiện hành."
+    },
+    {
+      "id": "SALE-02-02",
+      "exam": 2,
+      "questionNumber": "2",
+      "topic": "Soạn hợp đồng có đại diện theo ủy quyền",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Giữ phạm vi ủy quyền và hai tư cách của người vợ; sửa mẫu lỗi bảng mã."
+    },
+    {
+      "id": "SALE-02-03",
+      "exam": 2,
+      "questionNumber": "3",
+      "topic": "Nhà 5 tầng khác mô tả trên giấy",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Giấy phép xây dựng không đủ thay chứng minh nhà hoàn thành/đủ điều kiện giao dịch."
+    },
+    {
+      "id": "SALE-02-04",
+      "exam": 2,
+      "questionNumber": "4",
+      "topic": "Thanh toán, phạt và chuộc lại",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Tách thanh toán, đặt cọc, phạt, hủy; không suy trả trước thành đặt cọc."
+    },
+    {
+      "id": "SALE-02-05",
+      "exam": 2,
+      "questionNumber": "5",
+      "topic": "Gãy tay và đề nghị ký thay",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không bắt buộc làm chứng chỉ vì gãy tay khi vẫn điểm chỉ được; so VER26-009."
+    },
+    {
+      "id": "SALE-02-06",
+      "exam": 2,
+      "questionNumber": "6",
+      "topic": "Đề nghị hủy do giả tạo",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Tách thỏa thuận chấm dứt, đơn phương hủy và vô hiệu do giả tạo; CCV không là Tòa án."
+    },
+    {
+      "id": "SALE-03-01",
+      "exam": 3,
+      "questionNumber": "1",
+      "topic": "Người chưa đủ 18 tuổi mua xe",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Ảnh chỉ ghi chưa đủ 18 tuổi, thiếu tuổi cụ thể; giải trích nhầm Điều 22 thay Điều 21."
+    },
+    {
+      "id": "SALE-03-02",
+      "exam": 3,
+      "questionNumber": "2",
+      "topic": "Thẩm quyền mua bán xe máy",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Xe máy là động sản; cập nhật căn cứ và so trùng năng lực địa hạt."
+    },
+    {
+      "id": "SALE-03-03",
+      "exam": 3,
+      "questionNumber": "3",
+      "topic": "Hồ sơ mua bán xe",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Kiểm chứng đăng ký xe và giấy tờ theo mốc hiện hành."
+    },
+    {
+      "id": "SALE-03-04",
+      "exam": 3,
+      "questionNumber": "4",
+      "topic": "Soạn hợp đồng xe máy SH",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Đối tượng gốc xe máy SH; bài giải ghi ô tô ở một đoạn."
+    },
+    {
+      "id": "SALE-03-05",
+      "exam": 3,
+      "questionNumber": "5",
+      "topic": "Giấy phép lái xe, thẻ đảng viên, giấy hẹn",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Phân biệt sở hữu xe với điều kiện điều khiển xe; kiểm chứng giấy nhân thân hiện hành."
+    },
+    {
+      "id": "SALE-03-06",
+      "exam": 3,
+      "questionNumber": "6",
+      "topic": "Phạt bằng xe, bồi thường, quyền chuộc",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Tách rủi ro và bồi thường người thứ ba; quyền chuộc là thỏa thuận, không bắt buộc."
+    },
+    {
+      "id": "SALE-04-01",
+      "exam": 4,
+      "questionNumber": "1",
+      "topic": "Nhận chuyển nhượng đất rừng sản xuất",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không suy điều kiện giao đất sang điều kiện nhận chuyển nhượng; không dùng trần 10 lần cho 2026."
+    },
+    {
+      "id": "SALE-04-02",
+      "exam": 4,
+      "questionNumber": "2",
+      "topic": "Phòng công chứng và Văn phòng công chứng",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không dành riêng thẩm quyền cho Phòng công chứng."
+    },
+    {
+      "id": "SALE-04-03",
+      "exam": 4,
+      "questionNumber": "3",
+      "topic": "Hồ sơ đất 300 ha",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Cần hạn mức địa phương để xử lý 300 ha; cập nhật hồ sơ."
+    },
+    {
+      "id": "SALE-04-04",
+      "exam": 4,
+      "questionNumber": "4",
+      "topic": "Soạn hợp đồng đất 30 tỷ",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không đưa nguyên mẫu vào trắc nghiệm; kiểm tra đồng nhất diện tích và tên."
+    },
+    {
+      "id": "SALE-04-05",
+      "exam": 4,
+      "questionNumber": "5",
+      "topic": "Khai thác tài sản, tăng diện tích, chi phí",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Ảnh ghi bên chuyển nhượng chịu chi phí, phần giải đổi thành bên nhận; làm rõ phần diện tích tăng."
+    },
+    {
+      "id": "SALE-04-06",
+      "exam": 4,
+      "questionNumber": "6",
+      "topic": "Không biết ký và chỉ định người làm chứng",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Đề ghi không biết ký; bài giải thêm không biết chữ. Đây là thay dữ kiện quyết định."
+    },
+    {
+      "id": "SALE-05-01",
+      "exam": 5,
+      "questionNumber": "1",
+      "topic": "Phân loại dây chuyền và thẩm quyền",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Lắp đặt không tự chứng minh bất động sản; giữ review vì thiếu dữ kiện gắn liền."
+    },
+    {
+      "id": "SALE-05-02",
+      "exam": 5,
+      "questionNumber": "2",
+      "topic": "Hồ sơ doanh nghiệp và phê duyệt giao dịch",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Sửa Điều 55 khoản 2 điểm d; tách phê duyệt nội bộ và thẩm quyền đại diện."
+    },
+    {
+      "id": "SALE-05-03",
+      "exam": 5,
+      "questionNumber": "3",
+      "topic": "Soạn hợp đồng dây chuyền 13 tỷ",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Cần xác định luật áp dụng giao dịch giữa doanh nghiệp; không nhập nguyên mẫu."
+    },
+    {
+      "id": "SALE-05-04",
+      "exam": 5,
+      "questionNumber": "4",
+      "topic": "Vận chuyển, bảo hành, thuế",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Nhầm bảo hành với bồi thường; chưa kiểm định thuế và Luật Thương mại."
+    },
+    {
+      "id": "SALE-05-05",
+      "exam": 5,
+      "questionNumber": "5",
+      "topic": "Hợp đồng tiếng Anh và lãnh sự",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Hiểu tiếng Anh không thay kiểm tra giấy nước ngoài; lãnh sự/miễn/dịch giữ review."
+    },
+    {
+      "id": "SALE-05-06",
+      "exam": 5,
+      "questionNumber": "6",
+      "topic": "Phân công, đại diện, chữ ký mẫu",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Phân công không tự tạo đại diện; đăng ký chữ ký mẫu không tạo thẩm quyền ký."
+    },
+    {
+      "id": "SALE-06-01",
+      "exam": 6,
+      "questionNumber": "1",
+      "topic": "Công chức nhận đất nông nghiệp",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Luật hiện hành không còn cấm tuyệt đối người không trực tiếp sản xuất nhận đất lúa."
+    },
+    {
+      "id": "SALE-06-02",
+      "exam": 6,
+      "questionNumber": "2",
+      "topic": "Thẩm quyền chuyển nhượng đất ở",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Địa hạt căn cứ nơi có bất động sản, không căn cứ hộ khẩu; so trùng."
+    },
+    {
+      "id": "SALE-06-03",
+      "exam": 6,
+      "questionNumber": "3",
+      "topic": "Hồ sơ chuyển nhượng đất ở",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Cập nhật cơ chế dữ liệu và giấy tờ hồ sơ."
+    },
+    {
+      "id": "SALE-06-04",
+      "exam": 6,
+      "questionNumber": "4",
+      "topic": "Soạn hợp đồng đất 800 m2",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Câu soạn thảo dùng luyện kỹ năng; rút lỗi nội dung nếu chuyển MCQ."
+    },
+    {
+      "id": "SALE-06-05",
+      "exam": 6,
+      "questionNumber": "5",
+      "topic": "Thanh toán, hoa lợi, quyền khởi kiện",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Tách thanh toán/hoa lợi/quyền khởi kiện; không tước quyền bảo vệ tại Tòa án bằng thỏa thuận hòa giải."
+    },
+    {
+      "id": "SALE-06-06",
+      "exam": 6,
+      "questionNumber": "6",
+      "topic": "Ký bằng chân, làm chứng, bản sao",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Điều 69 khoản 2 LCC giao tổ chức lưu trữ cấp bản sao; ký bằng chân cần xét khả năng thực tế."
+    },
+    {
+      "id": "SALE-07-ETHICS",
+      "exam": 7,
+      "questionNumber": "I",
+      "topic": "Đạo đức và tập sự",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Đề lịch sử 2019/2022; kiểm tra quy tắc đạo đức, TT06 hiện hành và BHXH trước chuyển thành câu 2026."
+    },
+    {
+      "id": "SALE-07-01",
+      "exam": 7,
+      "questionNumber": "1",
+      "topic": "Hàng thừa kế và nợ nghĩa vụ tài chính",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Điều 45 khoản 5 hiện không liệt kê thừa kế; nợ vẫn xử lý theo Điều 615 BLDS."
+    },
+    {
+      "id": "SALE-07-02",
+      "exam": 7,
+      "questionNumber": "2",
+      "topic": "Từ chối, chuyển có đối giá, đồng sở hữu",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Đề đã xác định nhà riêng và vợ chết trước; không thêm dữ kiện ngược đề. Hướng dẫn/thỏa thuận có đối giá giữ review."
+    },
+    {
+      "id": "SALE-07-03",
+      "exam": 7,
+      "questionNumber": "3",
+      "topic": "Ưu tiên mua, USD, thuế, chuộc, bảo lưu",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Tách lịch sử 2022 và hiện hành; phân biệt đồng sở hữu với người thuê; ngoại hối/thuế chưa hoàn tất."
+    },
+    {
+      "id": "SALE-07-04",
+      "exam": 7,
+      "questionNumber": "4",
+      "topic": "Ủy quyền và điều khoản trách nhiệm",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Không chấm dứt đại diện chỉ từ Điều 22; kiểm tra Điều 140, chi phí và bồi thường; so IMP-T60-063."
+    },
+    {
+      "id": "SALE-07-05",
+      "exam": 7,
+      "questionNumber": "5",
+      "topic": "Chuyển nhượng và nhập tài sản riêng",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Mua phần còn lại không tự biến phần thừa kế riêng thành tài sản chung; phân biệt phần thừa kế và phần mua."
+    },
+    {
+      "id": "SALE-07-06",
+      "exam": 7,
+      "questionNumber": "6",
+      "topic": "Soạn mua bán hoặc ủy quyền",
+      "status": "review",
+      "lastVerified": null,
+      "assessment": "Lời giải kết thúc bằng yêu cầu soạn thảo, không có bài mẫu tương ứng đầy đủ; không xem là đáp án hoàn chỉnh."
+    }
+  ],
+  "report": "reports/sales-source-review-2026-10-05.md"
+}

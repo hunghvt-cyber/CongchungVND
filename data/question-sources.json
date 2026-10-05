@@ -141,6 +141,13 @@
       "title": "Luật Kinh doanh bất động sản số 29/2023/QH15 (đối chiếu VBHN 06/VBHN-VPQH năm 2025)",
       "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-06-vbhn-vpqh-44399.htm",
       "use": "Đối chiếu riêng các điều khoản của câu nhập từ hai tài liệu người dùng, mốc 05/10/2026."
+    },
+    {
+      "id": "USER-EXAM-SALES",
+      "type": "user-provided",
+      "title": "Bộ đề thi và bài giải mua bán, chuyển nhượng do Madam An cung cấp",
+      "sha256": "66726e726a42c76e893c9cf33bcd3aadeb7fef15221185f607cbc034b9558646",
+      "use": "7 đề/43 câu lớn, nguồn tình huống review. Bài giải không phải đáp án đã kiểm định. Xem reports/sales-source-review-2026-10-05.md; chưa tạo câu active."
     }
   ]
 }
