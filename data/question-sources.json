@@ -49,6 +49,49 @@
       "title": "Bộ đề 4 kiểm tra kết quả tập sự hành nghề công chứng",
       "url": "https://docluat.net/bo-de-4-kiem-tra-ket-qua-tap-su-hanh-nghe-cong-chung",
       "use": "Nguồn tham khảo tình huống đạo đức và hướng giải quyết."
+    },
+    {
+      "id": "OFFICIAL-CC24",
+      "type": "official",
+      "title": "Luật Công chứng số 46/2024/QH15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "use": "Đối chiếu điều khoản gốc; kiểm tra các sửa đổi và mốc áp dụng."
+    },
+    {
+      "id": "OFFICIAL-CC26",
+      "type": "official",
+      "title": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+      "effectiveFrom": "2027-01-01",
+      "use": "Chỉ áp dụng câu dẫn ghi rõ mốc 01/01/2027."
+    },
+    {
+      "id": "OFFICIAL-BLDS15",
+      "type": "official",
+      "title": "Bộ luật Dân sự số 91/2015/QH13",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "use": "Đối chiếu điều khoản trong tình huống tháng 10/2026."
+    },
+    {
+      "id": "OFFICIAL-HNGD-HN25",
+      "type": "official",
+      "title": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Đối chiếu điều khoản trong tình huống tháng 10/2026."
+    },
+    {
+      "id": "OFFICIAL-DAT-HN26",
+      "type": "official",
+      "title": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+      "use": "Đối chiếu điều khoản trong tình huống tháng 10/2026."
+    },
+    {
+      "id": "OFFICIAL-THADS25",
+      "type": "official",
+      "title": "Luật Thi hành án dân sự 106/2025/QH15",
+      "url": "https://congbao.chinhphu.vn/van-ban/luat-so-106-2025-qh15-468668.htm",
+      "use": "Điều 114 khoản 2 đổi thuật ngữ tại Luật Công chứng từ 01/07/2026."
     }
   ]
 }

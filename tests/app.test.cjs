@@ -24,7 +24,7 @@ function harness() {
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
     crypto:require('node:crypto').webcrypto,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,showSetup,startSession,createSharedExam,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,showSetup,startSession,createSharedExam,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -90,16 +90,28 @@ test('feedback on separate answer cards sends central receipt, validates text an
   const stored=JSON.parse(h.memory.get('questionFeedback'));assert.equal(stored.length,2);assert.notEqual(stored[0].questionId,stored[1].questionId);assert.ok(stored.every(x=>x.examCode===h.state.examCode && x.variant && x.answerOrder.length===3));
   h.context.localStorage.setItem=()=>{throw Error('blocked');};h.context.fetch=async()=>{throw Error('offline');};const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Không mất nội dung';box.querySelector('.feedback-type').value='other';await box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/không lưu được/);
 });
-test('real bank has 120 unique questions, 100 eligible, and no bare numbered law titles',()=>{
-  const all=['questions','derived-questions'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
-  assert.equal(all.length,120);assert.equal(new Set(all.map(q=>q.id)).size,120);assert.equal(all.filter(q=>['active','verified'].includes(q.status)).length,100);
+test('real published bank has unique IDs and only reviewed content enters either mode',()=>{
+  const all=['questions','derived-questions','validated-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  assert.equal(new Set(all.map(q=>q.id)).size,all.length);
+  assert.equal(all.filter(q=>q.id.startsWith('VER26-') && ['active','verified'].includes(q.status)).length,100);
   assert.doesNotMatch(JSON.stringify(all),/Luật [0-9]/);assert.ok(all.every(q=>q.explanation&&q.legalBasis.length));
-  const h=harness();start(h,'mock',all,100);assert.ok(h.state.questions.every(q=>!q.id.startsWith('SRC26-')));
+  const h=harness();start(h,'mock',all,100);assert.ok(h.state.questions.every(q=>['active','verified'].includes(q.status)));
+});
+
+test('loader loads validated bank, rejects corrupt/duplicate data, and leaves stored history intact',async()=>{
+  const h=harness(); await new Promise(resolve=>setImmediate(resolve));
+  h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
+  h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
+  const all=await h.loadQuestions();assert.equal(all.length,220);assert.ok(all.some(q=>q.id==='VER26-100'));
+  assert.equal(seen.length,3);assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
+  h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
+  h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);
 });
 
 
 test('one shared code reproduces full exam in independent sessions with separate answers/deadlines',()=>{
-  const bank=['questions','derived-questions'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  const bank=['questions','derived-questions','validated-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
   const creator=harness(),participant=harness();start(creator,'mock',bank,20);
   participant.state.bank=[...bank].reverse();participant.advance(5000);participant.startSharedExam('  '+creator.state.examCode.toLowerCase()+'  ');
   assert.equal(creator.state.examCode,participant.state.examCode);

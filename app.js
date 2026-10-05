@@ -76,12 +76,20 @@ function bindShare(root) {
 }
 
 async function loadQuestions() {
-  const [base, round2] = await Promise.all([
-    fetch('./data/questions.json').then(r => { if(!r.ok) throw new Error('Không thể tải ngân hàng câu hỏi.'); return r.json(); }),
-    fetch('./data/derived-questions.json').then(r => { if(!r.ok) throw new Error('Không thể tải ngân hàng câu hỏi vòng 2.'); return r.json(); })
-  ]);
-  const all = [...base, ...round2];
-  return all.filter((q, i, arr) => arr.findIndex(x => x.id === q.id) === i);
+  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json'];
+  const batches = await Promise.all(files.map(async file => {
+    const response = await fetch(`./data/${file}`, {cache: 'no-cache'});
+    if (!response.ok) throw new Error(`Không thể tải ngân hàng câu hỏi (${file}).`);
+    const questions = await response.json();
+    if (!Array.isArray(questions)) throw new Error(`Ngân hàng câu hỏi không hợp lệ (${file}).`);
+    return questions;
+  }));
+  const all = batches.flat(), ids = new Set();
+  for (const q of all) {
+    if (!q || typeof q.id !== 'string' || ids.has(q.id)) throw new Error('Ngân hàng có mã câu thiếu hoặc trùng.');
+    ids.add(q.id);
+  }
+  return all;
 }
 
 function showSetup(mode) {

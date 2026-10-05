@@ -14,7 +14,7 @@ Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 
 ## MVP hiện tại
 
-Web tĩnh dùng GitHub Pages, không cần database hay tài khoản. `data/questions.json` có 100 câu active; `data/derived-questions.json` có 20 câu review. Chỉ active/verified được chọn vào Ôn tập và Thi thử. Trạng thái active là điều kiện kỹ thuật để chọn câu, không thay thế kiểm định pháp lý.
+Web tĩnh dùng GitHub Pages, không cần database hay tài khoản. Sau đợt rà soát 05/10/2026, ngân hàng có 181 câu active, 36 câu review và 503 câu archived. `data/validated-2026.json` chứa 100 tình huống mới; app tải file này cùng hai file gốc. Năm file mở rộng cơ học được lưu để truy vết nhưng không được app tải. Mục tiêu 400 câu chuẩn và 500 câu mở rộng có giá trị chưa đạt; xem [báo cáo audit](reports/bank-audit-2026-10-05.md). Chỉ active/verified được chọn vào Ôn tập và Thi thử. Trạng thái active là điều kiện kỹ thuật để chọn câu, không thay thế kiểm định pháp lý.
 
 ## Cấu trúc dữ liệu dự kiến
 
@@ -22,6 +22,7 @@ Web tĩnh dùng GitHub Pages, không cần database hay tài khoản. `data/ques
 data/
   questions.json
   derived-questions.json
+  validated-2026.json
   question-sources.json
 ```
 

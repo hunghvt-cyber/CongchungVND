@@ -1,0 +1,7555 @@
+{
+  "total": 620,
+  "eligible": 100,
+  "fileCounts": {
+    "questions.json": 100,
+    "derived-questions.json": 20,
+    "expansion-2026-batch-01.json": 100,
+    "expansion-2026-batch-02.json": 100,
+    "expansion-2026-batch-03.json": 100,
+    "expansion-2026-batch-04.json": 100,
+    "expansion-2026-batch-05.json": 100
+  },
+  "sha256": {
+    "questions.json": "5ef681db8915f5b615d03877760fa363e11fa2a0374c9d7466a09d264d32e514",
+    "derived-questions.json": "cbf5b9d8a111463e1e91475af69e7ffb4c956d4b7a9bb5a8ef8d08279f341323",
+    "expansion-2026-batch-01.json": "395d8ed920e33638644a4a8e0db2270f49f0d25dcbad7f088c7251105bbdf09e",
+    "expansion-2026-batch-02.json": "f2c7ac06377cb63841f6c29599697937c935b905ddce2e5b0173bb4d2b87e9ed",
+    "expansion-2026-batch-03.json": "2b6a0032fb6c996d6c35c21c9ac416db4e960bc5d3ca1257fe7f1557c0626705",
+    "expansion-2026-batch-04.json": "25633eaa764d276705e30dbb2e79f14312dd6906b94929bdfaea18a2293505e6",
+    "expansion-2026-batch-05.json": "28a439d10e13a6da017dc907c5b4153cbe157f1e721b4c1001691cb1dd34cefc"
+  },
+  "status": {
+    "active": 100,
+    "review": 520
+  },
+  "part": {
+    "1": 248,
+    "2": 372
+  },
+  "topic": {
+    "Bảo mật thông tin": 1,
+    "Công chứng viên và tập sự": 102,
+    "Cơ sở dữ liệu công chứng": 36,
+    "Di chúc": 24,
+    "Hiệu lực pháp luật": 12,
+    "Hành nghề công chứng": 1,
+    "Hình thức kiểm tra": 1,
+    "Hồ sơ công chứng": 1,
+    "Hợp đồng thế chấp": 1,
+    "Hợp đồng ủy quyền": 37,
+    "Ký văn bản công chứng": 1,
+    "Kỹ năng ký, điểm chỉ": 6,
+    "Kỹ năng và tình huống": 12,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16": 24,
+    "Lưu trữ và cung cấp hồ sơ": 18,
+    "Lời chứng": 19,
+    "Nguyên tắc thủ tục": 6,
+    "Người làm chứng": 1,
+    "Người yêu cầu công chứng": 1,
+    "Nội dung tập sự": 1,
+    "Pháp luật công chứng": 78,
+    "Sửa đổi giao dịch": 24,
+    "Thẩm quyền công chứng": 24,
+    "Thẩm quyền công chứng bất động sản": 1,
+    "Thế chấp bất động sản": 12,
+    "Thời hạn công chứng": 1,
+    "Thủ tục và nghiệp vụ công chứng": 60,
+    "Tổ chức hành nghề": 60,
+    "Tổ chức đề kiểm tra": 1,
+    "Văn bản công chứng": 12,
+    "Văn bản công chứng vô hiệu": 6,
+    "Xây dựng bộ câu hỏi": 1,
+    "Xây dựng đề kiểm tra": 1,
+    "Điều khoản chuyển tiếp": 18,
+    "Đăng ký tham dự kiểm tra": 2,
+    "Địa điểm công chứng": 14
+  },
+  "difficultyLabelsNotCertified": {
+    "advanced": 100,
+    "application": 200,
+    "recognition": 100,
+    "unclassified": 120,
+    "understanding": 100
+  },
+  "questionForm": {
+    "unclassified": 620
+  },
+  "eligibleTopic": {
+    "Công chứng viên và tập sự": 17,
+    "Cơ sở dữ liệu công chứng": 6,
+    "Di chúc": 4,
+    "Hiệu lực pháp luật": 2,
+    "Hợp đồng ủy quyền": 6,
+    "Kỹ năng ký, điểm chỉ": 1,
+    "Kỹ năng và tình huống": 2,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16": 4,
+    "Lưu trữ và cung cấp hồ sơ": 3,
+    "Lời chứng": 3,
+    "Nguyên tắc thủ tục": 1,
+    "Pháp luật công chứng": 13,
+    "Sửa đổi giao dịch": 4,
+    "Thẩm quyền công chứng": 4,
+    "Thế chấp bất động sản": 2,
+    "Thủ tục và nghiệp vụ công chứng": 10,
+    "Tổ chức hành nghề": 10,
+    "Văn bản công chứng": 2,
+    "Văn bản công chứng vô hiệu": 1,
+    "Điều khoản chuyển tiếp": 3,
+    "Địa điểm công chứng": 2
+  },
+  "eligibleDifficulty": {
+    "unclassified": 100
+  },
+  "eligibleQuestionForm": {
+    "unclassified": 100
+  },
+  "basis": {
+    "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 5": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 7": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h": 7,
+    "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3": 12,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4": 12,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8": 18,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11": 60,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13": 36,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15": 36,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16": 36,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17": 18,
+    "Luật Công chứng số 46/2024/QH15, Điều 46": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 47": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 48": 18,
+    "Luật Công chứng số 46/2024/QH15, Điều 58": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 được sửa bởi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2": 7,
+    "Luật Công chứng số 46/2024/QH15, Điều 54": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2": 12,
+    "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 55": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2": 6,
+    "Luật Công chứng số 46/2024/QH15, Điều 75": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5": 6,
+    "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6": 6,
+    "Thông tư 06/2025/TT-BTP, Điều 15 khoản 2": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm c": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm b": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 16 khoản 1 điểm a": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 16 khoản 2 điểm c": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 5 khoản 1": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 44": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 45 khoản 2": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2 điểm b": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 48 khoản 1 điểm c": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 1": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 2": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 57 khoản 1": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 2 điểm e": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 42 khoản 1 điểm b, c": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 42 khoản 7": 1,
+    "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 1": 1,
+    "Thông tư 06/2025/TT-BTP, Điều 20 khoản 4": 1
+  },
+  "duplicateIds": [],
+  "exactStemGroups": [
+    [
+      "CC-011",
+      "SRC26-016"
+    ]
+  ],
+  "prefixNormalizedGroups": [
+    [
+      "CC-001",
+      "EXP26-001",
+      "EXP26-002",
+      "EXP26-003",
+      "EXP26-004",
+      "EXP26-005"
+    ],
+    [
+      "CC-002",
+      "EXP26-006",
+      "EXP26-007",
+      "EXP26-008",
+      "EXP26-009",
+      "EXP26-010"
+    ],
+    [
+      "CC-003",
+      "EXP26-011",
+      "EXP26-012",
+      "EXP26-013",
+      "EXP26-014",
+      "EXP26-015"
+    ],
+    [
+      "CC-004",
+      "EXP26-016",
+      "EXP26-017",
+      "EXP26-018",
+      "EXP26-019",
+      "EXP26-020"
+    ],
+    [
+      "CC-005",
+      "EXP26-021",
+      "EXP26-022",
+      "EXP26-023",
+      "EXP26-024",
+      "EXP26-025"
+    ],
+    [
+      "CC-006",
+      "EXP26-026",
+      "EXP26-027",
+      "EXP26-028",
+      "EXP26-029",
+      "EXP26-030"
+    ],
+    [
+      "CC-007",
+      "EXP26-031",
+      "EXP26-032",
+      "EXP26-033",
+      "EXP26-034",
+      "EXP26-035"
+    ],
+    [
+      "CC-008",
+      "EXP26-036",
+      "EXP26-037",
+      "EXP26-038",
+      "EXP26-039",
+      "EXP26-040"
+    ],
+    [
+      "CC-009",
+      "EXP26-041",
+      "EXP26-042",
+      "EXP26-043",
+      "EXP26-044",
+      "EXP26-045"
+    ],
+    [
+      "CC-010",
+      "EXP26-046",
+      "EXP26-047",
+      "EXP26-048",
+      "EXP26-049",
+      "EXP26-050"
+    ],
+    [
+      "CC-011",
+      "SRC26-016",
+      "EXP26-051",
+      "EXP26-052",
+      "EXP26-053",
+      "EXP26-054",
+      "EXP26-055"
+    ],
+    [
+      "CC-012",
+      "EXP26-056",
+      "EXP26-057",
+      "EXP26-058",
+      "EXP26-059",
+      "EXP26-060"
+    ],
+    [
+      "CC-013",
+      "EXP26-061",
+      "EXP26-062",
+      "EXP26-063",
+      "EXP26-064",
+      "EXP26-065"
+    ],
+    [
+      "CC-014",
+      "EXP26-066",
+      "EXP26-067",
+      "EXP26-068",
+      "EXP26-069",
+      "EXP26-070"
+    ],
+    [
+      "CC-015",
+      "EXP26-071",
+      "EXP26-072",
+      "EXP26-073",
+      "EXP26-074",
+      "EXP26-075"
+    ],
+    [
+      "CC-016",
+      "EXP26-076",
+      "EXP26-077",
+      "EXP26-078",
+      "EXP26-079",
+      "EXP26-080"
+    ],
+    [
+      "CC-017",
+      "EXP26-081",
+      "EXP26-082",
+      "EXP26-083",
+      "EXP26-084",
+      "EXP26-085"
+    ],
+    [
+      "CC-018",
+      "EXP26-086",
+      "EXP26-087",
+      "EXP26-088",
+      "EXP26-089",
+      "EXP26-090"
+    ],
+    [
+      "CC-019",
+      "EXP26-091",
+      "EXP26-092",
+      "EXP26-093",
+      "EXP26-094",
+      "EXP26-095"
+    ],
+    [
+      "CC-020",
+      "EXP26-096",
+      "EXP26-097",
+      "EXP26-098",
+      "EXP26-099",
+      "EXP26-100"
+    ],
+    [
+      "CC-021",
+      "EXP26-101",
+      "EXP26-102",
+      "EXP26-103",
+      "EXP26-104",
+      "EXP26-105"
+    ],
+    [
+      "CC-022",
+      "EXP26-106",
+      "EXP26-107",
+      "EXP26-108",
+      "EXP26-109",
+      "EXP26-110"
+    ],
+    [
+      "CC-023",
+      "EXP26-111",
+      "EXP26-112",
+      "EXP26-113",
+      "EXP26-114",
+      "EXP26-115"
+    ],
+    [
+      "CC-024",
+      "EXP26-116",
+      "EXP26-117",
+      "EXP26-118",
+      "EXP26-119",
+      "EXP26-120"
+    ],
+    [
+      "CC-025",
+      "EXP26-121",
+      "EXP26-122",
+      "EXP26-123",
+      "EXP26-124",
+      "EXP26-125"
+    ],
+    [
+      "CC-026",
+      "EXP26-126",
+      "EXP26-127",
+      "EXP26-128",
+      "EXP26-129",
+      "EXP26-130"
+    ],
+    [
+      "CC-027",
+      "EXP26-131",
+      "EXP26-132",
+      "EXP26-133",
+      "EXP26-134",
+      "EXP26-135"
+    ],
+    [
+      "CC-028",
+      "EXP26-136",
+      "EXP26-137",
+      "EXP26-138",
+      "EXP26-139",
+      "EXP26-140"
+    ],
+    [
+      "CC-029",
+      "EXP26-141",
+      "EXP26-142",
+      "EXP26-143",
+      "EXP26-144",
+      "EXP26-145"
+    ],
+    [
+      "CC-030",
+      "EXP26-146",
+      "EXP26-147",
+      "EXP26-148",
+      "EXP26-149",
+      "EXP26-150"
+    ],
+    [
+      "CC-031",
+      "EXP26-151",
+      "EXP26-152",
+      "EXP26-153",
+      "EXP26-154",
+      "EXP26-155"
+    ],
+    [
+      "CC-032",
+      "EXP26-156",
+      "EXP26-157",
+      "EXP26-158",
+      "EXP26-159",
+      "EXP26-160"
+    ],
+    [
+      "CC-033",
+      "EXP26-161",
+      "EXP26-162",
+      "EXP26-163",
+      "EXP26-164",
+      "EXP26-165"
+    ],
+    [
+      "CC-034",
+      "EXP26-166",
+      "EXP26-167",
+      "EXP26-168",
+      "EXP26-169",
+      "EXP26-170"
+    ],
+    [
+      "CC-035",
+      "EXP26-171",
+      "EXP26-172",
+      "EXP26-173",
+      "EXP26-174",
+      "EXP26-175"
+    ],
+    [
+      "CC-036",
+      "EXP26-176",
+      "EXP26-177",
+      "EXP26-178",
+      "EXP26-179",
+      "EXP26-180"
+    ],
+    [
+      "CC-037",
+      "EXP26-181",
+      "EXP26-182",
+      "EXP26-183",
+      "EXP26-184",
+      "EXP26-185"
+    ],
+    [
+      "CC-038",
+      "EXP26-186",
+      "EXP26-187",
+      "EXP26-188",
+      "EXP26-189",
+      "EXP26-190"
+    ],
+    [
+      "CC-039",
+      "EXP26-191",
+      "EXP26-192",
+      "EXP26-193",
+      "EXP26-194",
+      "EXP26-195"
+    ],
+    [
+      "CC-040",
+      "EXP26-196",
+      "EXP26-197",
+      "EXP26-198",
+      "EXP26-199",
+      "EXP26-200"
+    ],
+    [
+      "CC-041",
+      "EXP26-201",
+      "EXP26-202",
+      "EXP26-203",
+      "EXP26-204",
+      "EXP26-205"
+    ],
+    [
+      "CC-042",
+      "EXP26-206",
+      "EXP26-207",
+      "EXP26-208",
+      "EXP26-209",
+      "EXP26-210"
+    ],
+    [
+      "CC-043",
+      "EXP26-211",
+      "EXP26-212",
+      "EXP26-213",
+      "EXP26-214",
+      "EXP26-215"
+    ],
+    [
+      "CC-044",
+      "EXP26-216",
+      "EXP26-217",
+      "EXP26-218",
+      "EXP26-219",
+      "EXP26-220"
+    ],
+    [
+      "CC-045",
+      "EXP26-221",
+      "EXP26-222",
+      "EXP26-223",
+      "EXP26-224",
+      "EXP26-225"
+    ],
+    [
+      "CC-046",
+      "EXP26-226",
+      "EXP26-227",
+      "EXP26-228",
+      "EXP26-229",
+      "EXP26-230"
+    ],
+    [
+      "CC-047",
+      "EXP26-231",
+      "EXP26-232",
+      "EXP26-233",
+      "EXP26-234",
+      "EXP26-235"
+    ],
+    [
+      "CC-048",
+      "EXP26-236",
+      "EXP26-237",
+      "EXP26-238",
+      "EXP26-239",
+      "EXP26-240"
+    ],
+    [
+      "CC-049",
+      "EXP26-241",
+      "EXP26-242",
+      "EXP26-243",
+      "EXP26-244",
+      "EXP26-245"
+    ],
+    [
+      "CC-050",
+      "EXP26-246",
+      "EXP26-247",
+      "EXP26-248",
+      "EXP26-249",
+      "EXP26-250"
+    ],
+    [
+      "CC-051",
+      "EXP26-251",
+      "EXP26-252",
+      "EXP26-253",
+      "EXP26-254",
+      "EXP26-255"
+    ],
+    [
+      "CC-052",
+      "EXP26-256",
+      "EXP26-257",
+      "EXP26-258",
+      "EXP26-259",
+      "EXP26-260"
+    ],
+    [
+      "CC-053",
+      "EXP26-261",
+      "EXP26-262",
+      "EXP26-263",
+      "EXP26-264",
+      "EXP26-265"
+    ],
+    [
+      "CC-054",
+      "EXP26-266",
+      "EXP26-267",
+      "EXP26-268",
+      "EXP26-269",
+      "EXP26-270"
+    ],
+    [
+      "CC-055",
+      "EXP26-271",
+      "EXP26-272",
+      "EXP26-273",
+      "EXP26-274",
+      "EXP26-275"
+    ],
+    [
+      "CC-056",
+      "EXP26-276",
+      "EXP26-277",
+      "EXP26-278",
+      "EXP26-279",
+      "EXP26-280"
+    ],
+    [
+      "CC-057",
+      "EXP26-281",
+      "EXP26-282",
+      "EXP26-283",
+      "EXP26-284",
+      "EXP26-285"
+    ],
+    [
+      "CC-058",
+      "EXP26-286",
+      "EXP26-287",
+      "EXP26-288",
+      "EXP26-289",
+      "EXP26-290"
+    ],
+    [
+      "CC-059",
+      "EXP26-291",
+      "EXP26-292",
+      "EXP26-293",
+      "EXP26-294",
+      "EXP26-295"
+    ],
+    [
+      "CC-060",
+      "EXP26-296",
+      "EXP26-297",
+      "EXP26-298",
+      "EXP26-299",
+      "EXP26-300"
+    ],
+    [
+      "CC-061",
+      "EXP26-301",
+      "EXP26-302",
+      "EXP26-303",
+      "EXP26-304",
+      "EXP26-305"
+    ],
+    [
+      "CC-062",
+      "EXP26-306",
+      "EXP26-307",
+      "EXP26-308",
+      "EXP26-309",
+      "EXP26-310"
+    ],
+    [
+      "CC-063",
+      "EXP26-311",
+      "EXP26-312",
+      "EXP26-313",
+      "EXP26-314",
+      "EXP26-315"
+    ],
+    [
+      "CC-064",
+      "EXP26-316",
+      "EXP26-317",
+      "EXP26-318",
+      "EXP26-319",
+      "EXP26-320"
+    ],
+    [
+      "CC-065",
+      "EXP26-321",
+      "EXP26-322",
+      "EXP26-323",
+      "EXP26-324",
+      "EXP26-325"
+    ],
+    [
+      "CC-066",
+      "EXP26-326",
+      "EXP26-327",
+      "EXP26-328",
+      "EXP26-329",
+      "EXP26-330"
+    ],
+    [
+      "CC-067",
+      "EXP26-331",
+      "EXP26-332",
+      "EXP26-333",
+      "EXP26-334",
+      "EXP26-335"
+    ],
+    [
+      "CC-068",
+      "EXP26-336",
+      "EXP26-337",
+      "EXP26-338",
+      "EXP26-339",
+      "EXP26-340"
+    ],
+    [
+      "CC-069",
+      "EXP26-341",
+      "EXP26-342",
+      "EXP26-343",
+      "EXP26-344",
+      "EXP26-345"
+    ],
+    [
+      "CC-070",
+      "EXP26-346",
+      "EXP26-347",
+      "EXP26-348",
+      "EXP26-349",
+      "EXP26-350"
+    ],
+    [
+      "CC-071",
+      "EXP26-351",
+      "EXP26-352",
+      "EXP26-353",
+      "EXP26-354",
+      "EXP26-355"
+    ],
+    [
+      "CC-072",
+      "EXP26-356",
+      "EXP26-357",
+      "EXP26-358",
+      "EXP26-359",
+      "EXP26-360"
+    ],
+    [
+      "CC-073",
+      "EXP26-361",
+      "EXP26-362",
+      "EXP26-363",
+      "EXP26-364",
+      "EXP26-365"
+    ],
+    [
+      "CC-074",
+      "EXP26-366",
+      "EXP26-367",
+      "EXP26-368",
+      "EXP26-369",
+      "EXP26-370"
+    ],
+    [
+      "CC-075",
+      "EXP26-371",
+      "EXP26-372",
+      "EXP26-373",
+      "EXP26-374",
+      "EXP26-375"
+    ],
+    [
+      "CC-076",
+      "EXP26-376",
+      "EXP26-377",
+      "EXP26-378",
+      "EXP26-379",
+      "EXP26-380"
+    ],
+    [
+      "CC-077",
+      "EXP26-381",
+      "EXP26-382",
+      "EXP26-383",
+      "EXP26-384",
+      "EXP26-385"
+    ],
+    [
+      "CC-078",
+      "EXP26-386",
+      "EXP26-387",
+      "EXP26-388",
+      "EXP26-389",
+      "EXP26-390"
+    ],
+    [
+      "CC-079",
+      "EXP26-391",
+      "EXP26-392",
+      "EXP26-393",
+      "EXP26-394",
+      "EXP26-395"
+    ],
+    [
+      "CC-080",
+      "EXP26-396",
+      "EXP26-397",
+      "EXP26-398",
+      "EXP26-399",
+      "EXP26-400"
+    ],
+    [
+      "CC-081",
+      "EXP26-401",
+      "EXP26-402",
+      "EXP26-403",
+      "EXP26-404",
+      "EXP26-405"
+    ],
+    [
+      "CC-082",
+      "EXP26-406",
+      "EXP26-407",
+      "EXP26-408",
+      "EXP26-409",
+      "EXP26-410"
+    ],
+    [
+      "CC-083",
+      "EXP26-411",
+      "EXP26-412",
+      "EXP26-413",
+      "EXP26-414",
+      "EXP26-415"
+    ],
+    [
+      "CC-084",
+      "EXP26-416",
+      "EXP26-417",
+      "EXP26-418",
+      "EXP26-419",
+      "EXP26-420"
+    ],
+    [
+      "CC-085",
+      "EXP26-421",
+      "EXP26-422",
+      "EXP26-423",
+      "EXP26-424",
+      "EXP26-425"
+    ],
+    [
+      "CC-086",
+      "EXP26-426",
+      "EXP26-427",
+      "EXP26-428",
+      "EXP26-429",
+      "EXP26-430"
+    ],
+    [
+      "CC-087",
+      "EXP26-431",
+      "EXP26-432",
+      "EXP26-433",
+      "EXP26-434",
+      "EXP26-435"
+    ],
+    [
+      "CC-088",
+      "EXP26-436",
+      "EXP26-437",
+      "EXP26-438",
+      "EXP26-439",
+      "EXP26-440"
+    ],
+    [
+      "CC-089",
+      "EXP26-441",
+      "EXP26-442",
+      "EXP26-443",
+      "EXP26-444",
+      "EXP26-445"
+    ],
+    [
+      "CC-090",
+      "EXP26-446",
+      "EXP26-447",
+      "EXP26-448",
+      "EXP26-449",
+      "EXP26-450"
+    ],
+    [
+      "CC-091",
+      "EXP26-451",
+      "EXP26-452",
+      "EXP26-453",
+      "EXP26-454",
+      "EXP26-455"
+    ],
+    [
+      "CC-092",
+      "EXP26-456",
+      "EXP26-457",
+      "EXP26-458",
+      "EXP26-459",
+      "EXP26-460"
+    ],
+    [
+      "CC-093",
+      "EXP26-461",
+      "EXP26-462",
+      "EXP26-463",
+      "EXP26-464",
+      "EXP26-465"
+    ],
+    [
+      "CC-094",
+      "EXP26-466",
+      "EXP26-467",
+      "EXP26-468",
+      "EXP26-469",
+      "EXP26-470"
+    ],
+    [
+      "CC-095",
+      "EXP26-471",
+      "EXP26-472",
+      "EXP26-473",
+      "EXP26-474",
+      "EXP26-475"
+    ],
+    [
+      "CC-096",
+      "EXP26-476",
+      "EXP26-477",
+      "EXP26-478",
+      "EXP26-479",
+      "EXP26-480"
+    ],
+    [
+      "CC-097",
+      "EXP26-481",
+      "EXP26-482",
+      "EXP26-483",
+      "EXP26-484",
+      "EXP26-485"
+    ],
+    [
+      "CC-098",
+      "EXP26-486",
+      "EXP26-487",
+      "EXP26-488",
+      "EXP26-489",
+      "EXP26-490"
+    ],
+    [
+      "CC-099",
+      "EXP26-491",
+      "EXP26-492",
+      "EXP26-493",
+      "EXP26-494",
+      "EXP26-495"
+    ],
+    [
+      "CC-100",
+      "EXP26-496",
+      "EXP26-497",
+      "EXP26-498",
+      "EXP26-499",
+      "EXP26-500"
+    ]
+  ],
+  "identicalAnswersExplanationBasisGroups": [
+    [
+      "CC-001",
+      "EXP26-001",
+      "EXP26-002",
+      "EXP26-003",
+      "EXP26-004",
+      "EXP26-005"
+    ],
+    [
+      "CC-002",
+      "EXP26-006",
+      "EXP26-007",
+      "EXP26-008",
+      "EXP26-009",
+      "EXP26-010"
+    ],
+    [
+      "CC-003",
+      "EXP26-011",
+      "EXP26-012",
+      "EXP26-013",
+      "EXP26-014",
+      "EXP26-015"
+    ],
+    [
+      "CC-004",
+      "EXP26-016",
+      "EXP26-017",
+      "EXP26-018",
+      "EXP26-019",
+      "EXP26-020"
+    ],
+    [
+      "CC-005",
+      "EXP26-021",
+      "EXP26-022",
+      "EXP26-023",
+      "EXP26-024",
+      "EXP26-025"
+    ],
+    [
+      "CC-006",
+      "EXP26-026",
+      "EXP26-027",
+      "EXP26-028",
+      "EXP26-029",
+      "EXP26-030"
+    ],
+    [
+      "CC-007",
+      "EXP26-031",
+      "EXP26-032",
+      "EXP26-033",
+      "EXP26-034",
+      "EXP26-035"
+    ],
+    [
+      "CC-008",
+      "EXP26-036",
+      "EXP26-037",
+      "EXP26-038",
+      "EXP26-039",
+      "EXP26-040"
+    ],
+    [
+      "CC-009",
+      "EXP26-041",
+      "EXP26-042",
+      "EXP26-043",
+      "EXP26-044",
+      "EXP26-045"
+    ],
+    [
+      "CC-010",
+      "EXP26-046",
+      "EXP26-047",
+      "EXP26-048",
+      "EXP26-049",
+      "EXP26-050"
+    ],
+    [
+      "CC-011",
+      "EXP26-051",
+      "EXP26-052",
+      "EXP26-053",
+      "EXP26-054",
+      "EXP26-055"
+    ],
+    [
+      "CC-012",
+      "EXP26-056",
+      "EXP26-057",
+      "EXP26-058",
+      "EXP26-059",
+      "EXP26-060"
+    ],
+    [
+      "CC-013",
+      "EXP26-061",
+      "EXP26-062",
+      "EXP26-063",
+      "EXP26-064",
+      "EXP26-065"
+    ],
+    [
+      "CC-014",
+      "EXP26-066",
+      "EXP26-067",
+      "EXP26-068",
+      "EXP26-069",
+      "EXP26-070"
+    ],
+    [
+      "CC-015",
+      "EXP26-071",
+      "EXP26-072",
+      "EXP26-073",
+      "EXP26-074",
+      "EXP26-075"
+    ],
+    [
+      "CC-016",
+      "EXP26-076",
+      "EXP26-077",
+      "EXP26-078",
+      "EXP26-079",
+      "EXP26-080"
+    ],
+    [
+      "CC-017",
+      "EXP26-081",
+      "EXP26-082",
+      "EXP26-083",
+      "EXP26-084",
+      "EXP26-085"
+    ],
+    [
+      "CC-018",
+      "EXP26-086",
+      "EXP26-087",
+      "EXP26-088",
+      "EXP26-089",
+      "EXP26-090"
+    ],
+    [
+      "CC-019",
+      "EXP26-091",
+      "EXP26-092",
+      "EXP26-093",
+      "EXP26-094",
+      "EXP26-095"
+    ],
+    [
+      "CC-020",
+      "EXP26-096",
+      "EXP26-097",
+      "EXP26-098",
+      "EXP26-099",
+      "EXP26-100"
+    ],
+    [
+      "CC-021",
+      "EXP26-101",
+      "EXP26-102",
+      "EXP26-103",
+      "EXP26-104",
+      "EXP26-105"
+    ],
+    [
+      "CC-022",
+      "EXP26-106",
+      "EXP26-107",
+      "EXP26-108",
+      "EXP26-109",
+      "EXP26-110"
+    ],
+    [
+      "CC-023",
+      "EXP26-111",
+      "EXP26-112",
+      "EXP26-113",
+      "EXP26-114",
+      "EXP26-115"
+    ],
+    [
+      "CC-024",
+      "EXP26-116",
+      "EXP26-117",
+      "EXP26-118",
+      "EXP26-119",
+      "EXP26-120"
+    ],
+    [
+      "CC-025",
+      "EXP26-121",
+      "EXP26-122",
+      "EXP26-123",
+      "EXP26-124",
+      "EXP26-125"
+    ],
+    [
+      "CC-026",
+      "EXP26-126",
+      "EXP26-127",
+      "EXP26-128",
+      "EXP26-129",
+      "EXP26-130"
+    ],
+    [
+      "CC-027",
+      "EXP26-131",
+      "EXP26-132",
+      "EXP26-133",
+      "EXP26-134",
+      "EXP26-135"
+    ],
+    [
+      "CC-028",
+      "EXP26-136",
+      "EXP26-137",
+      "EXP26-138",
+      "EXP26-139",
+      "EXP26-140"
+    ],
+    [
+      "CC-029",
+      "EXP26-141",
+      "EXP26-142",
+      "EXP26-143",
+      "EXP26-144",
+      "EXP26-145"
+    ],
+    [
+      "CC-030",
+      "EXP26-146",
+      "EXP26-147",
+      "EXP26-148",
+      "EXP26-149",
+      "EXP26-150"
+    ],
+    [
+      "CC-031",
+      "EXP26-151",
+      "EXP26-152",
+      "EXP26-153",
+      "EXP26-154",
+      "EXP26-155"
+    ],
+    [
+      "CC-032",
+      "EXP26-156",
+      "EXP26-157",
+      "EXP26-158",
+      "EXP26-159",
+      "EXP26-160"
+    ],
+    [
+      "CC-033",
+      "EXP26-161",
+      "EXP26-162",
+      "EXP26-163",
+      "EXP26-164",
+      "EXP26-165"
+    ],
+    [
+      "CC-034",
+      "EXP26-166",
+      "EXP26-167",
+      "EXP26-168",
+      "EXP26-169",
+      "EXP26-170"
+    ],
+    [
+      "CC-035",
+      "EXP26-171",
+      "EXP26-172",
+      "EXP26-173",
+      "EXP26-174",
+      "EXP26-175"
+    ],
+    [
+      "CC-036",
+      "EXP26-176",
+      "EXP26-177",
+      "EXP26-178",
+      "EXP26-179",
+      "EXP26-180"
+    ],
+    [
+      "CC-037",
+      "EXP26-181",
+      "EXP26-182",
+      "EXP26-183",
+      "EXP26-184",
+      "EXP26-185"
+    ],
+    [
+      "CC-038",
+      "EXP26-186",
+      "EXP26-187",
+      "EXP26-188",
+      "EXP26-189",
+      "EXP26-190"
+    ],
+    [
+      "CC-039",
+      "EXP26-191",
+      "EXP26-192",
+      "EXP26-193",
+      "EXP26-194",
+      "EXP26-195"
+    ],
+    [
+      "CC-040",
+      "EXP26-196",
+      "EXP26-197",
+      "EXP26-198",
+      "EXP26-199",
+      "EXP26-200"
+    ],
+    [
+      "CC-041",
+      "EXP26-201",
+      "EXP26-202",
+      "EXP26-203",
+      "EXP26-204",
+      "EXP26-205"
+    ],
+    [
+      "CC-042",
+      "EXP26-206",
+      "EXP26-207",
+      "EXP26-208",
+      "EXP26-209",
+      "EXP26-210"
+    ],
+    [
+      "CC-043",
+      "EXP26-211",
+      "EXP26-212",
+      "EXP26-213",
+      "EXP26-214",
+      "EXP26-215"
+    ],
+    [
+      "CC-044",
+      "EXP26-216",
+      "EXP26-217",
+      "EXP26-218",
+      "EXP26-219",
+      "EXP26-220"
+    ],
+    [
+      "CC-045",
+      "EXP26-221",
+      "EXP26-222",
+      "EXP26-223",
+      "EXP26-224",
+      "EXP26-225"
+    ],
+    [
+      "CC-046",
+      "EXP26-226",
+      "EXP26-227",
+      "EXP26-228",
+      "EXP26-229",
+      "EXP26-230"
+    ],
+    [
+      "CC-047",
+      "EXP26-231",
+      "EXP26-232",
+      "EXP26-233",
+      "EXP26-234",
+      "EXP26-235"
+    ],
+    [
+      "CC-048",
+      "EXP26-236",
+      "EXP26-237",
+      "EXP26-238",
+      "EXP26-239",
+      "EXP26-240"
+    ],
+    [
+      "CC-049",
+      "EXP26-241",
+      "EXP26-242",
+      "EXP26-243",
+      "EXP26-244",
+      "EXP26-245"
+    ],
+    [
+      "CC-050",
+      "EXP26-246",
+      "EXP26-247",
+      "EXP26-248",
+      "EXP26-249",
+      "EXP26-250"
+    ],
+    [
+      "CC-051",
+      "EXP26-251",
+      "EXP26-252",
+      "EXP26-253",
+      "EXP26-254",
+      "EXP26-255"
+    ],
+    [
+      "CC-052",
+      "EXP26-256",
+      "EXP26-257",
+      "EXP26-258",
+      "EXP26-259",
+      "EXP26-260"
+    ],
+    [
+      "CC-053",
+      "EXP26-261",
+      "EXP26-262",
+      "EXP26-263",
+      "EXP26-264",
+      "EXP26-265"
+    ],
+    [
+      "CC-054",
+      "EXP26-266",
+      "EXP26-267",
+      "EXP26-268",
+      "EXP26-269",
+      "EXP26-270"
+    ],
+    [
+      "CC-055",
+      "EXP26-271",
+      "EXP26-272",
+      "EXP26-273",
+      "EXP26-274",
+      "EXP26-275"
+    ],
+    [
+      "CC-056",
+      "EXP26-276",
+      "EXP26-277",
+      "EXP26-278",
+      "EXP26-279",
+      "EXP26-280"
+    ],
+    [
+      "CC-057",
+      "EXP26-281",
+      "EXP26-282",
+      "EXP26-283",
+      "EXP26-284",
+      "EXP26-285"
+    ],
+    [
+      "CC-058",
+      "EXP26-286",
+      "EXP26-287",
+      "EXP26-288",
+      "EXP26-289",
+      "EXP26-290"
+    ],
+    [
+      "CC-059",
+      "EXP26-291",
+      "EXP26-292",
+      "EXP26-293",
+      "EXP26-294",
+      "EXP26-295"
+    ],
+    [
+      "CC-060",
+      "EXP26-296",
+      "EXP26-297",
+      "EXP26-298",
+      "EXP26-299",
+      "EXP26-300"
+    ],
+    [
+      "CC-061",
+      "EXP26-301",
+      "EXP26-302",
+      "EXP26-303",
+      "EXP26-304",
+      "EXP26-305"
+    ],
+    [
+      "CC-062",
+      "EXP26-306",
+      "EXP26-307",
+      "EXP26-308",
+      "EXP26-309",
+      "EXP26-310"
+    ],
+    [
+      "CC-063",
+      "EXP26-311",
+      "EXP26-312",
+      "EXP26-313",
+      "EXP26-314",
+      "EXP26-315"
+    ],
+    [
+      "CC-064",
+      "EXP26-316",
+      "EXP26-317",
+      "EXP26-318",
+      "EXP26-319",
+      "EXP26-320"
+    ],
+    [
+      "CC-065",
+      "EXP26-321",
+      "EXP26-322",
+      "EXP26-323",
+      "EXP26-324",
+      "EXP26-325"
+    ],
+    [
+      "CC-066",
+      "EXP26-326",
+      "EXP26-327",
+      "EXP26-328",
+      "EXP26-329",
+      "EXP26-330"
+    ],
+    [
+      "CC-067",
+      "EXP26-331",
+      "EXP26-332",
+      "EXP26-333",
+      "EXP26-334",
+      "EXP26-335"
+    ],
+    [
+      "CC-068",
+      "EXP26-336",
+      "EXP26-337",
+      "EXP26-338",
+      "EXP26-339",
+      "EXP26-340"
+    ],
+    [
+      "CC-069",
+      "EXP26-341",
+      "EXP26-342",
+      "EXP26-343",
+      "EXP26-344",
+      "EXP26-345"
+    ],
+    [
+      "CC-070",
+      "EXP26-346",
+      "EXP26-347",
+      "EXP26-348",
+      "EXP26-349",
+      "EXP26-350"
+    ],
+    [
+      "CC-071",
+      "EXP26-351",
+      "EXP26-352",
+      "EXP26-353",
+      "EXP26-354",
+      "EXP26-355"
+    ],
+    [
+      "CC-072",
+      "EXP26-356",
+      "EXP26-357",
+      "EXP26-358",
+      "EXP26-359",
+      "EXP26-360"
+    ],
+    [
+      "CC-073",
+      "EXP26-361",
+      "EXP26-362",
+      "EXP26-363",
+      "EXP26-364",
+      "EXP26-365"
+    ],
+    [
+      "CC-074",
+      "EXP26-366",
+      "EXP26-367",
+      "EXP26-368",
+      "EXP26-369",
+      "EXP26-370"
+    ],
+    [
+      "CC-075",
+      "EXP26-371",
+      "EXP26-372",
+      "EXP26-373",
+      "EXP26-374",
+      "EXP26-375"
+    ],
+    [
+      "CC-076",
+      "EXP26-376",
+      "EXP26-377",
+      "EXP26-378",
+      "EXP26-379",
+      "EXP26-380"
+    ],
+    [
+      "CC-077",
+      "EXP26-381",
+      "EXP26-382",
+      "EXP26-383",
+      "EXP26-384",
+      "EXP26-385"
+    ],
+    [
+      "CC-078",
+      "EXP26-386",
+      "EXP26-387",
+      "EXP26-388",
+      "EXP26-389",
+      "EXP26-390"
+    ],
+    [
+      "CC-079",
+      "EXP26-391",
+      "EXP26-392",
+      "EXP26-393",
+      "EXP26-394",
+      "EXP26-395"
+    ],
+    [
+      "CC-080",
+      "EXP26-396",
+      "EXP26-397",
+      "EXP26-398",
+      "EXP26-399",
+      "EXP26-400"
+    ],
+    [
+      "CC-081",
+      "EXP26-401",
+      "EXP26-402",
+      "EXP26-403",
+      "EXP26-404",
+      "EXP26-405"
+    ],
+    [
+      "CC-082",
+      "EXP26-406",
+      "EXP26-407",
+      "EXP26-408",
+      "EXP26-409",
+      "EXP26-410"
+    ],
+    [
+      "CC-083",
+      "EXP26-411",
+      "EXP26-412",
+      "EXP26-413",
+      "EXP26-414",
+      "EXP26-415"
+    ],
+    [
+      "CC-084",
+      "EXP26-416",
+      "EXP26-417",
+      "EXP26-418",
+      "EXP26-419",
+      "EXP26-420"
+    ],
+    [
+      "CC-085",
+      "EXP26-421",
+      "EXP26-422",
+      "EXP26-423",
+      "EXP26-424",
+      "EXP26-425"
+    ],
+    [
+      "CC-086",
+      "EXP26-426",
+      "EXP26-427",
+      "EXP26-428",
+      "EXP26-429",
+      "EXP26-430"
+    ],
+    [
+      "CC-087",
+      "EXP26-431",
+      "EXP26-432",
+      "EXP26-433",
+      "EXP26-434",
+      "EXP26-435"
+    ],
+    [
+      "CC-088",
+      "EXP26-436",
+      "EXP26-437",
+      "EXP26-438",
+      "EXP26-439",
+      "EXP26-440"
+    ],
+    [
+      "CC-089",
+      "EXP26-441",
+      "EXP26-442",
+      "EXP26-443",
+      "EXP26-444",
+      "EXP26-445"
+    ],
+    [
+      "CC-090",
+      "EXP26-446",
+      "EXP26-447",
+      "EXP26-448",
+      "EXP26-449",
+      "EXP26-450"
+    ],
+    [
+      "CC-091",
+      "EXP26-451",
+      "EXP26-452",
+      "EXP26-453",
+      "EXP26-454",
+      "EXP26-455"
+    ],
+    [
+      "CC-092",
+      "EXP26-456",
+      "EXP26-457",
+      "EXP26-458",
+      "EXP26-459",
+      "EXP26-460"
+    ],
+    [
+      "CC-093",
+      "EXP26-461",
+      "EXP26-462",
+      "EXP26-463",
+      "EXP26-464",
+      "EXP26-465"
+    ],
+    [
+      "CC-094",
+      "EXP26-466",
+      "EXP26-467",
+      "EXP26-468",
+      "EXP26-469",
+      "EXP26-470"
+    ],
+    [
+      "CC-095",
+      "EXP26-471",
+      "EXP26-472",
+      "EXP26-473",
+      "EXP26-474",
+      "EXP26-475"
+    ],
+    [
+      "CC-096",
+      "EXP26-476",
+      "EXP26-477",
+      "EXP26-478",
+      "EXP26-479",
+      "EXP26-480"
+    ],
+    [
+      "CC-097",
+      "EXP26-481",
+      "EXP26-482",
+      "EXP26-483",
+      "EXP26-484",
+      "EXP26-485"
+    ],
+    [
+      "CC-098",
+      "EXP26-486",
+      "EXP26-487",
+      "EXP26-488",
+      "EXP26-489",
+      "EXP26-490"
+    ],
+    [
+      "CC-099",
+      "EXP26-491",
+      "EXP26-492",
+      "EXP26-493",
+      "EXP26-494",
+      "EXP26-495"
+    ],
+    [
+      "CC-100",
+      "EXP26-496",
+      "EXP26-497",
+      "EXP26-498",
+      "EXP26-499",
+      "EXP26-500"
+    ]
+  ],
+  "nearStemCandidates": [
+    {
+      "ids": [
+        "CC-031",
+        "CC-094"
+      ],
+      "similarity": 0.89,
+      "requiresEditorialReview": true
+    },
+    {
+      "ids": [
+        "CC-044",
+        "SRC26-018"
+      ],
+      "similarity": 0.841,
+      "requiresEditorialReview": true
+    },
+    {
+      "ids": [
+        "CC-056",
+        "SRC26-014"
+      ],
+      "similarity": 0.807,
+      "requiresEditorialReview": true
+    },
+    {
+      "ids": [
+        "CC-071",
+        "SRC26-019"
+      ],
+      "similarity": 0.794,
+      "requiresEditorialReview": true
+    },
+    {
+      "ids": [
+        "CC-075",
+        "SRC26-010"
+      ],
+      "similarity": 0.8,
+      "requiresEditorialReview": true
+    }
+  ],
+  "findings": [
+    {
+      "id": "CC-001",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-002",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-003",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-004",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-005",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-006",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-007",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-008",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-009",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-010",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-011",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-012",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-013",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-014",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-015",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-016",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-017",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-018",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-019",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-020",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-021",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-022",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-023",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-024",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-025",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-026",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-027",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-028",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-029",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-030",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-031",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-032",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-033",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-034",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-035",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-036",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-037",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-038",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-039",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-040",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-041",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-042",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-043",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-044",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-045",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-046",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-047",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-048",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-049",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-050",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-051",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-052",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-053",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-054",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-055",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-056",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-057",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-058",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-059",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-060",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-061",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-062",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-063",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-064",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-065",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-066",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-067",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-068",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-069",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-070",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-071",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-072",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-073",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-074",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-075",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-076",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-077",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-078",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-079",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-080",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-081",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-082",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-083",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-084",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-085",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-086",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-087",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-088",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-089",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-090",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-091",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-092",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "future_rule_without_date_candidate"
+      ]
+    },
+    {
+      "id": "CC-093",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-094",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-095",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-096",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-097",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-098",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-099",
+      "status": "active",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "CC-100",
+      "status": "active",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-001",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-002",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-003",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-004",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-005",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "extra_condition_consecutive_not_in_article_16"
+      ]
+    },
+    {
+      "id": "SRC26-006",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "SRC26-007",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-008",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-009",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-010",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-011",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-012",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-013",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-014",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-015",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch",
+        "wrong_article_confidentiality_should_be_18_2_e"
+      ]
+    },
+    {
+      "id": "SRC26-016",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-017",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-018",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-019",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_difficulty",
+        "missing_question_form",
+        "source_basis_mismatch"
+      ]
+    },
+    {
+      "id": "SRC26-020",
+      "status": "review",
+      "flags": [
+        "missing_difficulty",
+        "missing_question_form"
+      ]
+    },
+    {
+      "id": "EXP26-001",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-002",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-003",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-004",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-005",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-006",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-007",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-008",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-009",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-010",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-011",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-012",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-013",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-014",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-015",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-016",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-017",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-018",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-019",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-020",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-021",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-022",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-023",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-024",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-025",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-026",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-027",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-028",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-029",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-030",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-031",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-032",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-033",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-034",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-035",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-036",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-037",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-038",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-039",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-040",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-041",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-042",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-043",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-044",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-045",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-046",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-047",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-048",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-049",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-050",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-051",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-052",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-053",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-054",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-055",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-056",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-057",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-058",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-059",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-060",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-061",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-062",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-063",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-064",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-065",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-066",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-067",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-068",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-069",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-070",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-071",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-072",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-073",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-074",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-075",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-076",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-077",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-078",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-079",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-080",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-081",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-082",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-083",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-084",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-085",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-086",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-087",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-088",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-089",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-090",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-091",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-092",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-093",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-094",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-095",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-096",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-097",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-098",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-099",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-100",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-101",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-102",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-103",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-104",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-105",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-106",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-107",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-108",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-109",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-110",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-111",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-112",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-113",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-114",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-115",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-116",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-117",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-118",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-119",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-120",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-121",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-122",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-123",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-124",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-125",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-126",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-127",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-128",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-129",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-130",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-131",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-132",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-133",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-134",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-135",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-136",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-137",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-138",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-139",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-140",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-141",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-142",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-143",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-144",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-145",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-146",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-147",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-148",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-149",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-150",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-151",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-152",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-153",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-154",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-155",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-156",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-157",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-158",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-159",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-160",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-161",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-162",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-163",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-164",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-165",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-166",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-167",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-168",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-169",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-170",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-171",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-172",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-173",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-174",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-175",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-176",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-177",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-178",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-179",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-180",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-181",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-182",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-183",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-184",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-185",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-186",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-187",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-188",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-189",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-190",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-191",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-192",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-193",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-194",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-195",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-196",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-197",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-198",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-199",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-200",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-201",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-202",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-203",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-204",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-205",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-206",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-207",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-208",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-209",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-210",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-211",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-212",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-213",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-214",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-215",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-216",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-217",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-218",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-219",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-220",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-221",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-222",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-223",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-224",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-225",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-226",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-227",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-228",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-229",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-230",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-231",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-232",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-233",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-234",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-235",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-236",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-237",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-238",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-239",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-240",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-241",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-242",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-243",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-244",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-245",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-246",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-247",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-248",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-249",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-250",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-251",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-252",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-253",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-254",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-255",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-256",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-257",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-258",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-259",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-260",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-261",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-262",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-263",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-264",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-265",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-266",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-267",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-268",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-269",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-270",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-271",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-272",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-273",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-274",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-275",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-276",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-277",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-278",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-279",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-280",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-281",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-282",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-283",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-284",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-285",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-286",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-287",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-288",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-289",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-290",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-291",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-292",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-293",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-294",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-295",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-296",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-297",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-298",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-299",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-300",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-301",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-302",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-303",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-304",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-305",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-306",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-307",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-308",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-309",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-310",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-311",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-312",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-313",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-314",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-315",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-316",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-317",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-318",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-319",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-320",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-321",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-322",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-323",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-324",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-325",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-326",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-327",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-328",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-329",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-330",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-331",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-332",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-333",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-334",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-335",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-336",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-337",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-338",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-339",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-340",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-341",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-342",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-343",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-344",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-345",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-346",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-347",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-348",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-349",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-350",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-351",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-352",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-353",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-354",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-355",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-356",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-357",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-358",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-359",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-360",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-361",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-362",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-363",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-364",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-365",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-366",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-367",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-368",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-369",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-370",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-371",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-372",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-373",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-374",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-375",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-376",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-377",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-378",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-379",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-380",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-381",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-382",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-383",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-384",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-385",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-386",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-387",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-388",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-389",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-390",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-391",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-392",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-393",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-394",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-395",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-396",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-397",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-398",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-399",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-400",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-401",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-402",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-403",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-404",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-405",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-406",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-407",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-408",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-409",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-410",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-411",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-412",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-413",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-414",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-415",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-416",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-417",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-418",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-419",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-420",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-421",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-422",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-423",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-424",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-425",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-426",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-427",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-428",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-429",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-430",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-431",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-432",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-433",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-434",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-435",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-436",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-437",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-438",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-439",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-440",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-441",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-442",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-443",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-444",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-445",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-446",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-447",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-448",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-449",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-450",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-451",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-452",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-453",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-454",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-455",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-456",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-457",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-458",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-459",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-460",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "future_rule_without_date_candidate",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-461",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-462",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-463",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-464",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-465",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-466",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-467",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-468",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-469",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-470",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-471",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-472",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-473",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-474",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-475",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-476",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-477",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-478",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-479",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-480",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-481",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-482",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-483",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-484",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-485",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-486",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-487",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-488",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-489",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-490",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-491",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-492",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-493",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-494",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-495",
+      "status": "review",
+      "flags": [
+        "short_explanation_candidate",
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-496",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-497",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-498",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-499",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    },
+    {
+      "id": "EXP26-500",
+      "status": "review",
+      "flags": [
+        "missing_question_form",
+        "mechanical_prefix_paraphrase"
+      ]
+    }
+  ],
+  "flagCounts": {
+    "short_explanation_candidate": 527,
+    "missing_difficulty": 120,
+    "missing_question_form": 620,
+    "future_rule_without_date_candidate": 198,
+    "extra_condition_consecutive_not_in_article_16": 1,
+    "source_basis_mismatch": 13,
+    "wrong_article_confidentiality_should_be_18_2_e": 1,
+    "mechanical_prefix_paraphrase": 500
+  }
+}

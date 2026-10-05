@@ -4,7 +4,7 @@
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -37,18 +37,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-021",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-102",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -81,18 +87,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-021",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-103",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -125,18 +137,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-021",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-104",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -169,18 +187,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-021",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-105",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -213,18 +237,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-021",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-106",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -257,18 +287,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-022",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-107",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -301,18 +337,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-022",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-108",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -345,18 +387,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-022",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-109",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -389,18 +437,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-022",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-110",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -433,18 +487,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-022",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-111",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -477,18 +537,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-023",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-112",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -521,18 +587,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-023",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-113",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -565,18 +637,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-023",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-114",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -609,18 +687,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-023",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-115",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -653,18 +737,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-023",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-116",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -697,18 +787,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-024",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-117",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -741,18 +837,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-024",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-118",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -785,18 +887,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-024",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-119",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -829,18 +937,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-024",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-120",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -873,18 +987,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-024",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-121",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -917,18 +1037,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-025",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-122",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -961,18 +1087,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-025",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-123",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1005,18 +1137,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-025",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-124",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1049,18 +1187,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-025",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-125",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -1093,18 +1237,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-025",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-126",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -1137,18 +1287,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-026",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-127",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -1181,18 +1337,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-026",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-128",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1225,18 +1387,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-026",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-129",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1269,18 +1437,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-026",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-130",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -1313,18 +1487,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-026",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-131",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -1357,18 +1537,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-027",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-132",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -1401,18 +1587,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-027",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-133",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1445,18 +1637,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-027",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-134",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1489,18 +1687,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-027",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-135",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -1533,18 +1737,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-027",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-136",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -1577,18 +1787,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-028",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-137",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -1621,18 +1837,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-028",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-138",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1665,18 +1887,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-028",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-139",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1709,18 +1937,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-028",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-140",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -1753,18 +1987,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-028",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-141",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -1797,18 +2037,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-029",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-142",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -1841,18 +2087,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-029",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-143",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1885,18 +2137,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-029",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-144",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -1929,18 +2187,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-029",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-145",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -1973,18 +2237,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-029",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-146",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -2017,18 +2287,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-030",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-147",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -2061,18 +2337,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-030",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-148",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2105,18 +2387,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-030",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-149",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2149,18 +2437,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-030",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-150",
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -2193,18 +2487,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-030",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-151",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -2237,18 +2537,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-031",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-152",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -2281,18 +2587,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-031",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-153",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2325,18 +2637,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-031",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-154",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2369,18 +2687,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-031",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-155",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -2413,18 +2737,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-031",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-156",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -2457,18 +2787,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-032",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-157",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -2501,18 +2837,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-032",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-158",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2545,18 +2887,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-032",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-159",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2589,18 +2937,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-032",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-160",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -2633,18 +2987,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-032",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-161",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -2677,18 +3037,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-033",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-162",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -2721,18 +3087,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-033",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-163",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2765,18 +3137,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-033",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-164",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2809,18 +3187,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-033",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-165",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -2853,18 +3237,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-033",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-166",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -2897,18 +3287,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-034",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-167",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -2941,18 +3337,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-034",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-168",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -2985,18 +3387,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-034",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-169",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3029,18 +3437,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-034",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-170",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -3073,18 +3487,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-034",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-171",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -3117,18 +3537,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-035",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-172",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -3161,18 +3587,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-035",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-173",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3205,18 +3637,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-035",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-174",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3249,18 +3687,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-035",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-175",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -3293,18 +3737,24 @@
     "legalBasis": [
       "Luật Công chứng số 46/2024/QH15, Điều 19; Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 7"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-035",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-176",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -3337,18 +3787,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-036",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-177",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -3381,18 +3837,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-036",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-178",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3425,18 +3887,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-036",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-179",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3469,18 +3937,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-036",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-180",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -3513,18 +3987,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-036",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-181",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -3557,18 +4037,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-037",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-182",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -3601,18 +4087,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-037",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-183",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3645,18 +4137,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-037",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-184",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3689,18 +4187,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-037",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-185",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -3733,18 +4237,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-037",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-186",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -3777,18 +4287,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-038",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-187",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -3821,18 +4337,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-038",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-188",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3865,18 +4387,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-038",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-189",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -3909,18 +4437,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-038",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-190",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -3953,18 +4487,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-038",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-191",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -3997,18 +4537,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-039",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-192",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -4041,18 +4587,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-039",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-193",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -4085,18 +4637,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-039",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-194",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -4129,18 +4687,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-039",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-195",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -4173,18 +4737,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-039",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-196",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "recognition",
     "question": {
       "variants": [
@@ -4217,18 +4787,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-040",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-197",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "understanding",
     "question": {
       "variants": [
@@ -4261,18 +4837,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-040",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-198",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -4305,18 +4887,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-040",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-199",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "application",
     "question": {
       "variants": [
@@ -4349,18 +4937,24 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-040",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   },
   {
     "id": "EXP26-200",
     "part": 1,
     "topic": "Tổ chức hành nghề",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "difficulty": "advanced",
     "question": {
       "variants": [
@@ -4393,10 +4987,16 @@
     "legalBasis": [
       "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
     ],
-    "lastVerified": "2026-10-05",
     "source": {
       "type": "derived",
       "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
-    }
+    },
+    "audit": {
+      "reason": "mechanical_paraphrase",
+      "basedOn": "CC-040",
+      "originalLastVerified": "2026-10-05",
+      "disposition": "Không dùng cho đề; phải viết tình huống mới và kiểm định riêng trước khi thay thế."
+    },
+    "lastVerified": null
   }
 ]

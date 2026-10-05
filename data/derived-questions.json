@@ -1,22 +1,976 @@
 [
-  {"id":"SRC26-001","part":1,"topic":"Hình thức kiểm tra","type":"single","status":"review","question":{"variants":["Theo Thông tư 06/2025/TT-BTP, kiểm tra kết quả tập sự gồm những hình thức nào?"]},"answers":[{"id":"A","text":"Bài kiểm tra viết 180 phút và bài kiểm tra trắc nghiệm trên máy vi tính 60 phút","correct":true},{"id":"B","text":"Hai bài trắc nghiệm, mỗi bài 60 phút","correct":false},{"id":"C","text":"Một bài viết 120 phút và một bài vấn đáp","correct":false},{"id":"D","text":"Một bài trắc nghiệm 90 phút","correct":false}],"explanation":"Điều 15 quy định nội dung kiểm tra và hai hình thức: bài viết 180 phút và bài trắc nghiệm trên máy vi tính 60 phút.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 15 khoản 2"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-002","part":1,"topic":"Xây dựng bộ câu hỏi","type":"single","status":"review","question":{"variants":["Bộ câu hỏi phục vụ kiểm tra trắc nghiệm phải được xây dựng với số lượng tối thiểu như thế nào?"]},"answers":[{"id":"A","text":"Gấp tối thiểu 03 lần số câu hỏi theo quy định","correct":true},{"id":"B","text":"Gấp 02 lần","correct":false},{"id":"C","text":"Đúng bằng số câu của đề chính thức","correct":false},{"id":"D","text":"Không có yêu cầu về số lượng","correct":false}],"explanation":"Thông tư yêu cầu đề trắc nghiệm bảo đảm số lượng câu hỏi được xây dựng gấp tối thiểu 03 lần số câu hỏi theo quy định.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm c"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-003","part":1,"topic":"Xây dựng đề kiểm tra","type":"single","status":"review","question":{"variants":["Yêu cầu nào sau đây phù hợp với tiêu chuẩn đối với câu hỏi kiểm tra trắc nghiệm?"]},"answers":[{"id":"A","text":"Khoa học, chính xác, chặt chẽ, rõ ràng, mạch lạc và có tính suy luận, phân tích","correct":true},{"id":"B","text":"Càng dài càng tốt, không cần rõ nghĩa","correct":false},{"id":"C","text":"Chỉ cần có một đáp án bất kỳ","correct":false},{"id":"D","text":"Ưu tiên câu hỏi mẹo hơn tính pháp lý","correct":false}],"explanation":"Tiêu chuẩn này được quy định trực tiếp tại Điều 29.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm b"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-004","part":1,"topic":"Đăng ký tham dự kiểm tra","type":"single","status":"review","question":{"variants":["Người đã được công nhận hoàn thành tập sự có thuộc nhóm được đăng ký tham dự kiểm tra không?"]},"answers":[{"id":"A","text":"Có","correct":true},{"id":"B","text":"Không, phải tập sự lại","correct":false},{"id":"C","text":"Chỉ khi có văn bản của Hội công chứng viên","correct":false},{"id":"D","text":"Chỉ khi đã hành nghề luật sư","correct":false}],"explanation":"Điều 16 liệt kê người đã được công nhận hoàn thành tập sự là nhóm được đăng ký tham dự kiểm tra.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 16 khoản 1 điểm a"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-005","part":1,"topic":"Đăng ký tham dự kiểm tra","type":"single","status":"review","question":{"variants":["Người đã không đạt yêu cầu trong 03 kỳ kiểm tra liên tiếp nhưng chưa tập sự lại có được tiếp tục đăng ký kiểm tra không?"]},"answers":[{"id":"A","text":"Không","correct":true},{"id":"B","text":"Có, không cần điều kiện gì","correct":false},{"id":"C","text":"Có nếu nộp thêm lệ phí","correct":false},{"id":"D","text":"Có nếu Sở Tư pháp đồng ý bằng miệng","correct":false}],"explanation":"Người đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra mà chưa tập sự lại thuộc nhóm không được đăng ký tham dự kiểm tra.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 16 khoản 2 điểm c"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-006","part":2,"topic":"Nội dung tập sự","type":"single","status":"review","question":{"variants":["Nội dung tập sự bao gồm kỹ năng nào liên quan trực tiếp đến việc cập nhật pháp luật và cơ sở dữ liệu?"]},"answers":[{"id":"A","text":"Tra cứu, áp dụng văn bản quy phạm pháp luật; cập nhật, khai thác, sử dụng cơ sở dữ liệu công chứng và cơ sở dữ liệu khác","correct":true},{"id":"B","text":"Chỉ kỹ năng giao tiếp với khách hàng","correct":false},{"id":"C","text":"Chỉ kỹ năng kế toán","correct":false},{"id":"D","text":"Chỉ kỹ năng quảng cáo dịch vụ","correct":false}],"explanation":"Đây là một nhóm kỹ năng được quy định trong nội dung tập sự.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 5 khoản 1"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-007","part":2,"topic":"Thẩm quyền công chứng bất động sản","type":"single","status":"review","question":{"variants":["Theo Luật Công chứng 2024, công chứng giao dịch về bất động sản về nguyên tắc thuộc phạm vi nào?"]},"answers":[{"id":"A","text":"Trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở","correct":true},{"id":"B","text":"Bất kỳ tỉnh nào do người yêu cầu lựa chọn","correct":false},{"id":"C","text":"Chỉ tại nơi người bán cư trú","correct":false},{"id":"D","text":"Chỉ tại nơi tài sản được đăng ký lần đầu trên toàn quốc","correct":false}],"explanation":"Điều 44 quy định phạm vi theo tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở, đồng thời có các ngoại lệ được luật quy định.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 44"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-008","part":2,"topic":"Thời hạn công chứng","type":"single","status":"review","question":{"variants":["Thời hạn công chứng thông thường theo Luật Công chứng 2024 là bao lâu?"]},"answers":[{"id":"A","text":"Không quá 02 ngày làm việc; giao dịch phức tạp có thể kéo dài nhưng không quá 10 ngày làm việc","correct":true},{"id":"B","text":"Luôn đúng 07 ngày","correct":false},{"id":"C","text":"Luôn đúng 15 ngày","correct":false},{"id":"D","text":"Không có thời hạn","correct":false}],"explanation":"Điều 45 quy định thời hạn công chứng và giới hạn đối với giao dịch có nội dung phức tạp.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 45 khoản 2"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-009","part":2,"topic":"Địa điểm công chứng","type":"single","status":"review","question":{"variants":["Trường hợp nào sau đây là trường hợp Luật Công chứng cho phép công chứng ngoài trụ sở?"]},"answers":[{"id":"A","text":"Người yêu cầu công chứng không thể đi lại vì lý do sức khỏe","correct":true},{"id":"B","text":"Người yêu cầu muốn tiết kiệm thời gian dù vẫn đi lại bình thường","correct":false},{"id":"C","text":"Người yêu cầu muốn công chứng tại quán cà phê cho thuận tiện","correct":false},{"id":"D","text":"Người yêu cầu trả thêm tiền để được công chứng ở bất kỳ đâu","correct":false}],"explanation":"Điều 46 liệt kê các trường hợp được công chứng ngoài trụ sở, trong đó có trường hợp không thể đi lại vì lý do sức khỏe.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2 điểm b"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-010","part":2,"topic":"Lời chứng","type":"single","status":"review","question":{"variants":["Lời chứng của công chứng viên đối với giao dịch phải thể hiện nội dung nào?"]},"answers":[{"id":"A","text":"Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự phù hợp và mục đích, nội dung giao dịch không vi phạm pháp luật, không trái đạo đức xã hội","correct":true},{"id":"B","text":"Chỉ cần ghi số tiền giao dịch","correct":false},{"id":"C","text":"Chỉ cần ghi họ tên công chứng viên","correct":false},{"id":"D","text":"Không cần xác nhận về sự tự nguyện","correct":false}],"explanation":"Đây là một trong các nội dung bắt buộc của lời chứng theo Điều 48.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 48 khoản 1 điểm c"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-011","part":2,"topic":"Người yêu cầu công chứng","type":"single","status":"review","question":{"variants":["Người yêu cầu công chứng là tổ chức thực hiện việc yêu cầu công chứng thông qua ai?"]},"answers":[{"id":"A","text":"Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức","correct":true},{"id":"B","text":"Bất kỳ nhân viên nào","correct":false},{"id":"C","text":"Chỉ kế toán trưởng","correct":false},{"id":"D","text":"Chỉ người đứng đầu cơ quan nhà nước","correct":false}],"explanation":"Điều 49 quy định tổ chức yêu cầu công chứng thông qua người đại diện theo pháp luật hoặc đại diện theo ủy quyền.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 49 khoản 1"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-012","part":2,"topic":"Người làm chứng","type":"single","status":"review","question":{"variants":["Trường hợp người yêu cầu công chứng không đọc được thì thủ tục công chứng phải có ai?"]},"answers":[{"id":"A","text":"Người làm chứng","correct":true},{"id":"B","text":"Hai công chứng viên","correct":false},{"id":"C","text":"Đại diện UBND cấp xã","correct":false},{"id":"D","text":"Không cần thêm người nào","correct":false}],"explanation":"Điều 49 quy định trường hợp người yêu cầu không đọc được hoặc thuộc trường hợp luật định thì việc công chứng phải có người làm chứng.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 49 khoản 2"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-013","part":2,"topic":"Hợp đồng thế chấp","type":"single","status":"review","question":{"variants":["Hợp đồng thế chấp bất động sản tiếp theo trong trường hợp bất động sản đã được thế chấp và hợp đồng thế chấp lần đầu đã được công chứng thì về nguyên tắc công chứng ở đâu?"]},"answers":[{"id":"A","text":"Tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu, nếu tổ chức đó vẫn đủ điều kiện thực hiện","correct":true},{"id":"B","text":"Bất kỳ tổ chức nào trên toàn quốc","correct":false},{"id":"C","text":"Chỉ tại UBND cấp xã","correct":false},{"id":"D","text":"Chỉ tại nơi người vay cư trú","correct":false}],"explanation":"Điều 56 đặt ra quy tắc về nơi công chứng các hợp đồng thế chấp tiếp theo và quy định cách xử lý khi tổ chức đã công chứng lần đầu thay đổi trạng thái hoạt động.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-014","part":2,"topic":"Hợp đồng ủy quyền","type":"single","status":"review","question":{"variants":["Khi bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, pháp luật cho phép xử lý thế nào?"]},"answers":[{"id":"A","text":"Hai bên có thể yêu cầu công chứng viên tại các tổ chức hành nghề công chứng do mình lựa chọn chứng nhận phần tương ứng của hợp đồng ủy quyền theo trình tự luật định","correct":true},{"id":"B","text":"Hợp đồng mặc nhiên vô hiệu","correct":false},{"id":"C","text":"Chỉ bên được ủy quyền được ký","correct":false},{"id":"D","text":"Phải xin phép Tòa án trước","correct":false}],"explanation":"Điều 57 quy định cơ chế công chứng khi hai bên không thể cùng đến một tổ chức hành nghề công chứng.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 57 khoản 1"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-015","part":1,"topic":"Bảo mật thông tin","type":"single","status":"review","question":{"variants":["Công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng trong trường hợp nào?"]},"answers":[{"id":"A","text":"Có, trừ trường hợp người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác","correct":true},{"id":"B","text":"Không, vì mọi hồ sơ công chứng đều công khai","correct":false},{"id":"C","text":"Chỉ phải giữ bí mật trong 01 năm","correct":false},{"id":"D","text":"Chỉ phải giữ bí mật khi khách hàng trả phí riêng","correct":false}],"explanation":"Nghĩa vụ giữ bí mật là nghĩa vụ nghề nghiệp được Luật Công chứng quy định.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 12 khoản 2 điểm e"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-016","part":1,"topic":"Hành nghề công chứng","type":"single","status":"review","question":{"variants":["Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"]},"answers":[{"id":"A","text":"Không","correct":true},{"id":"B","text":"Có nếu hai tổ chức ở hai tỉnh khác nhau","correct":false},{"id":"C","text":"Có nếu được khách hàng đồng ý","correct":false},{"id":"D","text":"Có nếu làm ngoài giờ hành chính","correct":false}],"explanation":"Luật Công chứng cấm đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-017","part":2,"topic":"Hồ sơ công chứng","type":"single","status":"review","question":{"variants":["Đối với giao dịch đã được soạn thảo sẵn, hồ sơ yêu cầu công chứng bao gồm dự thảo giao dịch và loại giấy tờ nào sau đây?"]},"answers":[{"id":"A","text":"Bản sao giấy tờ tùy thân của người yêu cầu và giấy tờ về quyền sở hữu, quyền sử dụng tài sản hoặc giấy tờ thay thế theo luật định khi giao dịch liên quan đến tài sản phải đăng ký","correct":true},{"id":"B","text":"Chỉ bản sao hộ khẩu","correct":false},{"id":"C","text":"Chỉ ảnh của tài sản","correct":false},{"id":"D","text":"Chỉ giấy xác nhận của tổ trưởng dân phố","correct":false}],"explanation":"Điều 42 quy định thành phần hồ sơ cơ bản đối với giao dịch đã được soạn thảo sẵn.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 42 khoản 1 điểm b, c"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-018","part":2,"topic":"Ký văn bản công chứng","type":"single","status":"review","question":{"variants":["Khi người yêu cầu công chứng đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào theo quy định chung?"]},"answers":[{"id":"A","text":"Ký vào từng trang và ký, ghi đủ họ tên vào trang cuối; việc điểm chỉ thực hiện theo quy định của Luật","correct":true},{"id":"B","text":"Chỉ ký trang cuối","correct":false},{"id":"C","text":"Chỉ cần ký trước mặt nhân viên văn thư","correct":false},{"id":"D","text":"Không cần ký nếu đã nộp hồ sơ","correct":false}],"explanation":"Điều 42 quy định trình tự ký và việc công chứng viên đối chiếu bản chính trước khi ký lời chứng.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 42 khoản 7"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-019","part":2,"topic":"Địa điểm công chứng","type":"single","status":"review","question":{"variants":["Theo Luật Công chứng 2024, việc công chứng về nguyên tắc được thực hiện ở đâu?"]},"answers":[{"id":"A","text":"Tại trụ sở của tổ chức hành nghề công chứng, trừ các trường hợp luật cho phép ngoài trụ sở","correct":true},{"id":"B","text":"Tại bất kỳ nơi nào người yêu cầu đề nghị","correct":false},{"id":"C","text":"Chỉ tại trụ sở UBND cấp xã","correct":false},{"id":"D","text":"Chỉ tại nơi có tài sản","correct":false}],"explanation":"Điều 46 xác định nguyên tắc tại trụ sở và các ngoại lệ.","legalBasis":["Luật Công chứng số 46/2024/QH15, Điều 46 khoản 1"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}},
-  {"id":"SRC26-020","part":1,"topic":"Tổ chức đề kiểm tra","type":"single","status":"review","question":{"variants":["Ai chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi và đáp án phục vụ kiểm tra trắc nghiệm trên máy vi tính?"]},"answers":[{"id":"A","text":"Hội đồng kiểm tra","correct":true},{"id":"B","text":"Thí sinh","correct":false},{"id":"C","text":"Tổ chức hành nghề công chứng bất kỳ","correct":false},{"id":"D","text":"UBND cấp xã","correct":false}],"explanation":"Thông tư 06/2025/TT-BTP giao Hội đồng kiểm tra quyết định số lượng, cơ cấu câu hỏi và chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi.","legalBasis":["Thông tư 06/2025/TT-BTP, Điều 20 khoản 4"],"lastVerified":"2026-10-04","source":{"type":"official","id":"OFFICIAL-TT06-2025"}}
+  {
+    "id": "SRC26-001",
+    "part": 1,
+    "topic": "Hình thức kiểm tra",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Theo Thông tư 06/2025/TT-BTP, kiểm tra kết quả tập sự gồm những hình thức nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bài kiểm tra viết 180 phút và bài kiểm tra trắc nghiệm trên máy vi tính 60 phút",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hai bài trắc nghiệm, mỗi bài 60 phút",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Một bài viết 120 phút và một bài vấn đáp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Một bài trắc nghiệm 90 phút",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 15 quy định nội dung kiểm tra và hai hình thức: bài viết 180 phút và bài trắc nghiệm trên máy vi tính 60 phút.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 15 khoản 2"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-002",
+    "part": 1,
+    "topic": "Xây dựng bộ câu hỏi",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Bộ câu hỏi phục vụ kiểm tra trắc nghiệm phải được xây dựng với số lượng tối thiểu như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Gấp tối thiểu 03 lần số câu hỏi theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Gấp 02 lần",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đúng bằng số câu của đề chính thức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có yêu cầu về số lượng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thông tư yêu cầu đề trắc nghiệm bảo đảm số lượng câu hỏi được xây dựng gấp tối thiểu 03 lần số câu hỏi theo quy định.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm c"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-003",
+    "part": 1,
+    "topic": "Xây dựng đề kiểm tra",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Yêu cầu nào sau đây phù hợp với tiêu chuẩn đối với câu hỏi kiểm tra trắc nghiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khoa học, chính xác, chặt chẽ, rõ ràng, mạch lạc và có tính suy luận, phân tích",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Càng dài càng tốt, không cần rõ nghĩa",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần có một đáp án bất kỳ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ưu tiên câu hỏi mẹo hơn tính pháp lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiêu chuẩn này được quy định trực tiếp tại Điều 29.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm b"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-004",
+    "part": 1,
+    "topic": "Đăng ký tham dự kiểm tra",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Người đã được công nhận hoàn thành tập sự có thuộc nhóm được đăng ký tham dự kiểm tra không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không, phải tập sự lại",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có văn bản của Hội công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi đã hành nghề luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 16 liệt kê người đã được công nhận hoàn thành tập sự là nhóm được đăng ký tham dự kiểm tra.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 16 khoản 1 điểm a"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-005",
+    "part": 1,
+    "topic": "Đăng ký tham dự kiểm tra",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Người đã không đạt yêu cầu trong 03 kỳ kiểm tra nhưng chưa tập sự lại có được tiếp tục đăng ký kiểm tra không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có, không cần điều kiện gì",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu nộp thêm lệ phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý bằng miệng",
+        "correct": false
+      }
+    ],
+    "explanation": "Người đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra mà chưa tập sự lại thuộc nhóm không được đăng ký tham dự kiểm tra.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 16 khoản 2 điểm c"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-006",
+    "part": 2,
+    "topic": "Nội dung tập sự",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Nội dung tập sự bao gồm kỹ năng nào liên quan trực tiếp đến việc cập nhật pháp luật và cơ sở dữ liệu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tra cứu, áp dụng văn bản quy phạm pháp luật; cập nhật, khai thác, sử dụng cơ sở dữ liệu công chứng và cơ sở dữ liệu khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ kỹ năng giao tiếp với khách hàng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ kỹ năng kế toán",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ kỹ năng quảng cáo dịch vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một nhóm kỹ năng được quy định trong nội dung tập sự.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 5 khoản 1"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-007",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng bất động sản",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Theo Luật Công chứng 2024, công chứng giao dịch về bất động sản về nguyên tắc thuộc phạm vi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tỉnh nào do người yêu cầu lựa chọn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại nơi người bán cư trú",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tại nơi tài sản được đăng ký lần đầu trên toàn quốc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 quy định phạm vi theo tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở, đồng thời có các ngoại lệ được luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 44"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-008",
+    "part": 2,
+    "topic": "Thời hạn công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Thời hạn công chứng thông thường theo Luật Công chứng 2024 là bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không quá 02 ngày làm việc; giao dịch phức tạp có thể kéo dài nhưng không quá 10 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn đúng 07 ngày",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Luôn đúng 15 ngày",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có thời hạn",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 45 quy định thời hạn công chứng và giới hạn đối với giao dịch có nội dung phức tạp.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 45 khoản 2"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-009",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Trường hợp nào sau đây là trường hợp Luật Công chứng cho phép công chứng ngoài trụ sở?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người yêu cầu công chứng không thể đi lại vì lý do sức khỏe",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Người yêu cầu muốn tiết kiệm thời gian dù vẫn đi lại bình thường",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Người yêu cầu muốn công chứng tại quán cà phê cho thuận tiện",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Người yêu cầu trả thêm tiền để được công chứng ở bất kỳ đâu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 liệt kê các trường hợp được công chứng ngoài trụ sở, trong đó có trường hợp không thể đi lại vì lý do sức khỏe.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2 điểm b"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-010",
+    "part": 2,
+    "topic": "Lời chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Lời chứng của công chứng viên đối với giao dịch phải thể hiện nội dung nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự phù hợp và mục đích, nội dung giao dịch không vi phạm pháp luật, không trái đạo đức xã hội",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần ghi số tiền giao dịch",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần ghi họ tên công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần xác nhận về sự tự nguyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một trong các nội dung bắt buộc của lời chứng theo Điều 48.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 48 khoản 1 điểm c"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-011",
+    "part": 2,
+    "topic": "Người yêu cầu công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Người yêu cầu công chứng là tổ chức thực hiện việc yêu cầu công chứng thông qua ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ nhân viên nào",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ kế toán trưởng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ người đứng đầu cơ quan nhà nước",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 49 quy định tổ chức yêu cầu công chứng thông qua người đại diện theo pháp luật hoặc đại diện theo ủy quyền.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 1"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-012",
+    "part": 2,
+    "topic": "Người làm chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Trường hợp người yêu cầu công chứng không đọc được thì thủ tục công chứng phải có ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Người làm chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hai công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đại diện UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần thêm người nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 49 quy định trường hợp người yêu cầu không đọc được hoặc thuộc trường hợp luật định thì việc công chứng phải có người làm chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 2"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-013",
+    "part": 2,
+    "topic": "Hợp đồng thế chấp",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Hợp đồng thế chấp bất động sản tiếp theo trong trường hợp bất động sản đã được thế chấp và hợp đồng thế chấp lần đầu đã được công chứng thì về nguyên tắc công chứng ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại tổ chức hành nghề công chứng đã công chứng hợp đồng thế chấp lần đầu, nếu tổ chức đó vẫn đủ điều kiện thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ tổ chức nào trên toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tại nơi người vay cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 56 đặt ra quy tắc về nơi công chứng các hợp đồng thế chấp tiếp theo và quy định cách xử lý khi tổ chức đã công chứng lần đầu thay đổi trạng thái hoạt động.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-014",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Khi bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, pháp luật cho phép xử lý thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hai bên có thể yêu cầu công chứng viên tại các tổ chức hành nghề công chứng do mình lựa chọn chứng nhận phần tương ứng của hợp đồng ủy quyền theo trình tự luật định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hợp đồng mặc nhiên vô hiệu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bên được ủy quyền được ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải xin phép Tòa án trước",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định cơ chế công chứng khi hai bên không thể cùng đến một tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 57 khoản 1"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-015",
+    "part": 1,
+    "topic": "Bảo mật thông tin",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng trong trường hợp nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, trừ trường hợp người yêu cầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không, vì mọi hồ sơ công chứng đều công khai",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ phải giữ bí mật trong 01 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ phải giữ bí mật khi khách hàng trả phí riêng",
+        "correct": false
+      }
+    ],
+    "explanation": "Nghĩa vụ giữ bí mật là nghĩa vụ nghề nghiệp được Luật Công chứng quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 18 khoản 2 điểm e; Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-016",
+    "part": 1,
+    "topic": "Hành nghề công chứng",
+    "type": "single",
+    "status": "archived",
+    "question": {
+      "variants": [
+        "Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu hai tổ chức ở hai tỉnh khác nhau",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu làm ngoài giờ hành chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật Công chứng cấm đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "duplicate_knowledge",
+      "retainedId": "CC-011"
+    }
+  },
+  {
+    "id": "SRC26-017",
+    "part": 2,
+    "topic": "Hồ sơ công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Đối với giao dịch đã được soạn thảo sẵn, hồ sơ yêu cầu công chứng bao gồm dự thảo giao dịch và loại giấy tờ nào sau đây?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản sao giấy tờ tùy thân của người yêu cầu và giấy tờ về quyền sở hữu, quyền sử dụng tài sản hoặc giấy tờ thay thế theo luật định khi giao dịch liên quan đến tài sản phải đăng ký",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản sao hộ khẩu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ ảnh của tài sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận của tổ trưởng dân phố",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 quy định thành phần hồ sơ cơ bản đối với giao dịch đã được soạn thảo sẵn.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 42 khoản 1 điểm b, c"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-018",
+    "part": 2,
+    "topic": "Ký văn bản công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Khi người yêu cầu công chứng đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào theo quy định chung?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký vào từng trang và ký, ghi đủ họ tên vào trang cuối; việc điểm chỉ thực hiện theo quy định của Luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần ký trước mặt nhân viên văn thư",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký nếu đã nộp hồ sơ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 quy định trình tự ký và việc công chứng viên đối chiếu bản chính trước khi ký lời chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 42 khoản 7"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-019",
+    "part": 2,
+    "topic": "Địa điểm công chứng",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Theo Luật Công chứng 2024, việc công chứng về nguyên tắc được thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại trụ sở của tổ chức hành nghề công chứng, trừ các trường hợp luật cho phép ngoài trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tại bất kỳ nơi nào người yêu cầu đề nghị",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại trụ sở UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tại nơi có tài sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 46 xác định nguyên tắc tại trụ sở và các ngoại lệ.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 1"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  },
+  {
+    "id": "SRC26-020",
+    "part": 1,
+    "topic": "Tổ chức đề kiểm tra",
+    "type": "single",
+    "status": "review",
+    "question": {
+      "variants": [
+        "Ai chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi và đáp án phục vụ kiểm tra trắc nghiệm trên máy vi tính?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hội đồng kiểm tra",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Thí sinh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tổ chức hành nghề công chứng bất kỳ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp xã",
+        "correct": false
+      }
+    ],
+    "explanation": "Thông tư 06/2025/TT-BTP giao Hội đồng kiểm tra quyết định số lượng, cơ cấu câu hỏi và chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi.",
+    "legalBasis": [
+      "Thông tư 06/2025/TT-BTP, Điều 20 khoản 4"
+    ],
+    "lastVerified": null,
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-TT06-2025"
+    },
+    "difficulty": "recognition",
+    "questionForm": "direct",
+    "audit": {
+      "reason": "editorial_and_effectiveness_review_pending"
+    }
+  }
 ]
