@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "EXP26-201",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thẻ căn cước hoặc hộ chiếu hoặc giấy tờ tùy thân khác theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ CMND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thẻ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hộ chiếu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 cho phép các loại giấy tờ tùy thân theo quy định để xác định nhân thân.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-202",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thẻ căn cước hoặc hộ chiếu hoặc giấy tờ tùy thân khác theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ CMND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thẻ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hộ chiếu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 cho phép các loại giấy tờ tùy thân theo quy định để xác định nhân thân.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-203",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thẻ căn cước hoặc hộ chiếu hoặc giấy tờ tùy thân khác theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ CMND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thẻ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hộ chiếu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 cho phép các loại giấy tờ tùy thân theo quy định để xác định nhân thân.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-204",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thẻ căn cước hoặc hộ chiếu hoặc giấy tờ tùy thân khác theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ CMND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thẻ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hộ chiếu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 cho phép các loại giấy tờ tùy thân theo quy định để xác định nhân thân.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-205",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Thẻ căn cước hoặc hộ chiếu hoặc giấy tờ tùy thân khác theo quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ CMND",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ thẻ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ hộ chiếu",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 cho phép các loại giấy tờ tùy thân theo quy định để xác định nhân thân.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-206",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 1 Điều 42 quy định nhóm giấy tờ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-207",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 1 Điều 42 quy định nhóm giấy tờ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-208",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 1 Điều 42 quy định nhóm giấy tờ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-209",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 1 Điều 42 quy định nhóm giấy tờ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-210",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ giấy xác nhận cư trú",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 1 Điều 42 quy định nhóm giấy tờ này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-211",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản chính giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bản sao chứng thực giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử theo từng nhóm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-212",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản chính giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bản sao chứng thực giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử theo từng nhóm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-213",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản chính giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bản sao chứng thực giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử theo từng nhóm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-214",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản chính giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bản sao chứng thực giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử theo từng nhóm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-215",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bản chính giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ bản sao chứng thực giấy",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử theo từng nhóm.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-216",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ điểm chỉ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 khoản 7 quy định việc ký từng trang và ký, ghi đủ họ tên.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-217",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ điểm chỉ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 khoản 7 quy định việc ký từng trang và ký, ghi đủ họ tên.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-218",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ điểm chỉ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 khoản 7 quy định việc ký từng trang và ký, ghi đủ họ tên.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-219",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ điểm chỉ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 khoản 7 quy định việc ký từng trang và ký, ghi đủ họ tên.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-220",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký trang cuối",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ điểm chỉ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 42 khoản 7 quy định việc ký từng trang và ký, ghi đủ họ tên.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-221",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Trước khi ký lời chứng và từng trang giao dịch, công chứng viên yêu cầu xuất trình gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản chính giấy hoặc bản chính điện tử của các giấy tờ thuộc điểm b, c, d khoản 1 Điều 42 để kiểm tra, đối chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần giấy tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc kiểm tra, đối chiếu theo khoản 7 Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-222",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Trước khi ký lời chứng và từng trang giao dịch, công chứng viên yêu cầu xuất trình gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản chính giấy hoặc bản chính điện tử của các giấy tờ thuộc điểm b, c, d khoản 1 Điều 42 để kiểm tra, đối chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần giấy tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc kiểm tra, đối chiếu theo khoản 7 Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-223",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Trước khi ký lời chứng và từng trang giao dịch, công chứng viên yêu cầu xuất trình gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản chính giấy hoặc bản chính điện tử của các giấy tờ thuộc điểm b, c, d khoản 1 Điều 42 để kiểm tra, đối chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần giấy tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc kiểm tra, đối chiếu theo khoản 7 Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-224",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Trước khi ký lời chứng và từng trang giao dịch, công chứng viên yêu cầu xuất trình gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản chính giấy hoặc bản chính điện tử của các giấy tờ thuộc điểm b, c, d khoản 1 Điều 42 để kiểm tra, đối chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần giấy tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc kiểm tra, đối chiếu theo khoản 7 Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-225",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Trước khi ký lời chứng và từng trang giao dịch, công chứng viên yêu cầu xuất trình gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bản chính giấy hoặc bản chính điện tử của các giấy tờ thuộc điểm b, c, d khoản 1 Điều 42 để kiểm tra, đối chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ căn cước",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không cần giấy tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là nguyên tắc kiểm tra, đối chiếu theo khoản 7 Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-226",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi tài sản là đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định ngoại lệ không phải xuất trình bản chính giấy tờ tại điểm c cho trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-227",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi tài sản là đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định ngoại lệ không phải xuất trình bản chính giấy tờ tại điểm c cho trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-228",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi tài sản là đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định ngoại lệ không phải xuất trình bản chính giấy tờ tại điểm c cho trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-229",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi tài sản là đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định ngoại lệ không phải xuất trình bản chính giấy tờ tại điểm c cho trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-230",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi tài sản là đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định ngoại lệ không phải xuất trình bản chính giấy tờ tại điểm c cho trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-231",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, có thể tự khai thác dữ liệu để cung cấp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn phải cung cấp bản giấy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được cung cấp bản sao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cung cấp bản chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Cơ chế khai thác dữ liệu giúp giảm giấy tờ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-232",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, có thể tự khai thác dữ liệu để cung cấp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn phải cung cấp bản giấy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được cung cấp bản sao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cung cấp bản chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Cơ chế khai thác dữ liệu giúp giảm giấy tờ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-233",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, có thể tự khai thác dữ liệu để cung cấp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn phải cung cấp bản giấy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được cung cấp bản sao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cung cấp bản chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Cơ chế khai thác dữ liệu giúp giảm giấy tờ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-234",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, có thể tự khai thác dữ liệu để cung cấp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn phải cung cấp bản giấy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được cung cấp bản sao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cung cấp bản chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Cơ chế khai thác dữ liệu giúp giảm giấy tờ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-235",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, có thể tự khai thác dữ liệu để cung cấp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Luôn phải cung cấp bản giấy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được cung cấp bản sao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được cung cấp bản chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Cơ chế khai thác dữ liệu giúp giảm giấy tờ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-236",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo quy định pháp luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không bao giờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi dữ liệu quốc gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi dữ liệu địa phương",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định nghĩa vụ phí khi đề nghị công chứng viên khai thác dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-237",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo quy định pháp luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không bao giờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi dữ liệu quốc gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi dữ liệu địa phương",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định nghĩa vụ phí khi đề nghị công chứng viên khai thác dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-238",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo quy định pháp luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không bao giờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi dữ liệu quốc gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi dữ liệu địa phương",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định nghĩa vụ phí khi đề nghị công chứng viên khai thác dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-239",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo quy định pháp luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không bao giờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi dữ liệu quốc gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi dữ liệu địa phương",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định nghĩa vụ phí khi đề nghị công chứng viên khai thác dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-240",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có, theo quy định pháp luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không bao giờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi dữ liệu quốc gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi dữ liệu địa phương",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định nghĩa vụ phí khi đề nghị công chứng viên khai thác dữ liệu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-241",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi khách hàng là tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định không yêu cầu xuất trình bản chính để đối chiếu trong trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-242",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi khách hàng là tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định không yêu cầu xuất trình bản chính để đối chiếu trong trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-243",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi khách hàng là tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định không yêu cầu xuất trình bản chính để đối chiếu trong trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-244",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi khách hàng là tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định không yêu cầu xuất trình bản chính để đối chiếu trong trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-245",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi khách hàng là tổ chức",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7a quy định không yêu cầu xuất trình bản chính để đối chiếu trong trường hợp này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-246",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên chỉ được yêu cầu bổ sung giấy tờ khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không khai thác được thông tin trong thời hạn giải quyết hoặc thông tin khai thác không đầy đủ, không chính xác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất cứ khi nào muốn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi khách hàng yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khi hồ sơ có nhiều trang",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giới hạn được nêu tại khoản 7a Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-247",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên chỉ được yêu cầu bổ sung giấy tờ khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không khai thác được thông tin trong thời hạn giải quyết hoặc thông tin khai thác không đầy đủ, không chính xác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất cứ khi nào muốn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi khách hàng yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khi hồ sơ có nhiều trang",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giới hạn được nêu tại khoản 7a Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-248",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên chỉ được yêu cầu bổ sung giấy tờ khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không khai thác được thông tin trong thời hạn giải quyết hoặc thông tin khai thác không đầy đủ, không chính xác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất cứ khi nào muốn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi khách hàng yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khi hồ sơ có nhiều trang",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giới hạn được nêu tại khoản 7a Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-249",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên chỉ được yêu cầu bổ sung giấy tờ khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không khai thác được thông tin trong thời hạn giải quyết hoặc thông tin khai thác không đầy đủ, không chính xác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất cứ khi nào muốn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi khách hàng yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khi hồ sơ có nhiều trang",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giới hạn được nêu tại khoản 7a Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-250",
+    "part": 2,
+    "topic": "Thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên chỉ được yêu cầu bổ sung giấy tờ khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không khai thác được thông tin trong thời hạn giải quyết hoặc thông tin khai thác không đầy đủ, không chính xác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất cứ khi nào muốn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi khách hàng yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Khi hồ sơ có nhiều trang",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giới hạn được nêu tại khoản 7a Điều 42.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-251",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Trong toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trong cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ trong cấp huyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi quy định phạm vi theo tỉnh, thành phố.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-252",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Trong toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trong cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ trong cấp huyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi quy định phạm vi theo tỉnh, thành phố.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-253",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Trong toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trong cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ trong cấp huyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi quy định phạm vi theo tỉnh, thành phố.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-254",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Trong toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trong cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ trong cấp huyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi quy định phạm vi theo tỉnh, thành phố.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-255",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Trong phạm vi tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Trong toàn quốc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ trong cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ trong cấp huyện",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 44 sửa đổi quy định phạm vi theo tỉnh, thành phố.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-256",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng chuyển nhượng đất",
+        "correct": false
+      }
+    ],
+    "explanation": "Di chúc là một trong các ngoại lệ được nêu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-257",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng chuyển nhượng đất",
+        "correct": false
+      }
+    ],
+    "explanation": "Di chúc là một trong các ngoại lệ được nêu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-258",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng chuyển nhượng đất",
+        "correct": false
+      }
+    ],
+    "explanation": "Di chúc là một trong các ngoại lệ được nêu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-259",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng chuyển nhượng đất",
+        "correct": false
+      }
+    ],
+    "explanation": "Di chúc là một trong các ngoại lệ được nêu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-260",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Di chúc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi hợp đồng mua bán nhà",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Mọi hợp đồng thế chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi hợp đồng chuyển nhượng đất",
+        "correct": false
+      }
+    ],
+    "explanation": "Di chúc là một trong các ngoại lệ được nêu.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-261",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, đây là ngoại lệ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi có nhà",
+        "correct": false
+      }
+    ],
+    "explanation": "Văn bản từ chối nhận di sản thuộc nhóm ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-262",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, đây là ngoại lệ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi có nhà",
+        "correct": false
+      }
+    ],
+    "explanation": "Văn bản từ chối nhận di sản thuộc nhóm ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-263",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, đây là ngoại lệ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi có nhà",
+        "correct": false
+      }
+    ],
+    "explanation": "Văn bản từ chối nhận di sản thuộc nhóm ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-264",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, đây là ngoại lệ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi có nhà",
+        "correct": false
+      }
+    ],
+    "explanation": "Văn bản từ chối nhận di sản thuộc nhóm ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-265",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không, đây là ngoại lệ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi có đất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi có nhà",
+        "correct": false
+      }
+    ],
+    "explanation": "Văn bản từ chối nhận di sản thuộc nhóm ngoại lệ.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-266",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nếu có giá trị lớn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi hai bên cùng tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một ngoại lệ được luật liệt kê.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-267",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nếu có giá trị lớn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi hai bên cùng tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một ngoại lệ được luật liệt kê.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-268",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nếu có giá trị lớn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi hai bên cùng tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một ngoại lệ được luật liệt kê.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-269",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nếu có giá trị lớn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi hai bên cùng tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một ngoại lệ được luật liệt kê.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-270",
+    "part": 2,
+    "topic": "Thẩm quyền công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nếu có giá trị lớn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ khi hai bên cùng tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là một ngoại lệ được luật liệt kê.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-271",
+    "part": 2,
+    "topic": "Kỹ năng ký, điểm chỉ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không bao giờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa khoản 4 Điều 50 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-272",
+    "part": 2,
+    "topic": "Kỹ năng ký, điểm chỉ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không bao giờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa khoản 4 Điều 50 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-273",
+    "part": 2,
+    "topic": "Kỹ năng ký, điểm chỉ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không bao giờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa khoản 4 Điều 50 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-274",
+    "part": 2,
+    "topic": "Kỹ năng ký, điểm chỉ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không bao giờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa khoản 4 Điều 50 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-275",
+    "part": 2,
+    "topic": "Kỹ năng ký, điểm chỉ",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ khi công chứng viên yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ khi giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không bao giờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa khoản 4 Điều 50 theo hướng này.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-276",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận việc đề nghị ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải hủy hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được ra UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không thể công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 sửa đổi cho phép quy trình tại hai tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-277",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận việc đề nghị ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải hủy hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được ra UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không thể công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 sửa đổi cho phép quy trình tại hai tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-278",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận việc đề nghị ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải hủy hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được ra UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không thể công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 sửa đổi cho phép quy trình tại hai tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-279",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận việc đề nghị ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải hủy hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được ra UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không thể công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 sửa đổi cho phép quy trình tại hai tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-280",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận việc đề nghị ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải hủy hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ được ra UBND xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không thể công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 sửa đổi cho phép quy trình tại hai tổ chức hành nghề công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-281",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận tiếp vào bản gốc để xác nhận chấp nhận ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký vào bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không cần thực hiện gì",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải đến Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là bước hoàn thành công chứng hợp đồng ủy quyền theo Điều 57.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-282",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận tiếp vào bản gốc để xác nhận chấp nhận ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký vào bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không cần thực hiện gì",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải đến Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là bước hoàn thành công chứng hợp đồng ủy quyền theo Điều 57.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-283",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận tiếp vào bản gốc để xác nhận chấp nhận ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký vào bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không cần thực hiện gì",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải đến Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là bước hoàn thành công chứng hợp đồng ủy quyền theo Điều 57.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-284",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận tiếp vào bản gốc để xác nhận chấp nhận ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký vào bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không cần thực hiện gì",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải đến Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là bước hoàn thành công chứng hợp đồng ủy quyền theo Điều 57.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-285",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu công chứng viên của tổ chức mình lựa chọn chứng nhận tiếp vào bản gốc để xác nhận chấp nhận ủy quyền",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ký vào bản photo",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không cần thực hiện gì",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải đến Bộ Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là bước hoàn thành công chứng hợp đồng ủy quyền theo Điều 57.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-286",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi bên ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi bên được ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định thời điểm hoàn thành công chứng và hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-287",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi bên ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi bên được ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định thời điểm hoàn thành công chứng và hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-288",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi bên ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi bên được ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định thời điểm hoàn thành công chứng và hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-289",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi bên ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi bên được ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định thời điểm hoàn thành công chứng và hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-290",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi bên ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi bên được ủy quyền ký",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 57 quy định thời điểm hoàn thành công chứng và hiệu lực.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-291",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo và gửi bản sao là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-292",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo và gửi bản sao là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-293",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo và gửi bản sao là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-294",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo và gửi bản sao là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-295",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 ngày làm việc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "07 ngày làm việc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 ngày làm việc",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời hạn thông báo và gửi bản sao là 05 ngày làm việc.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-296",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng, trừ trường hợp pháp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tại Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định một trong hai tổ chức đã thực hiện công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-297",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng, trừ trường hợp pháp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tại Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định một trong hai tổ chức đã thực hiện công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-298",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng, trừ trường hợp pháp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tại Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định một trong hai tổ chức đã thực hiện công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-299",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng, trừ trường hợp pháp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tại Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định một trong hai tổ chức đã thực hiện công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-300",
+    "part": 2,
+    "topic": "Hợp đồng ủy quyền",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tại một trong hai tổ chức hành nghề công chứng đã thực hiện việc công chứng, trừ trường hợp pháp luật quy định khác",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ tại Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ tại UBND",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ tổ chức nào",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định một trong hai tổ chức đã thực hiện công chứng.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  }
+]
