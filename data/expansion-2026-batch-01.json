@@ -1,0 +1,4402 @@
+[
+  {
+    "id": "EXP26-001",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng theo Luật Công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hoạt động kinh doanh dịch vụ pháp lý thuần túy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hoạt động chứng thực của UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là định nghĩa tại Điều 2.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-002",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng theo Luật Công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hoạt động kinh doanh dịch vụ pháp lý thuần túy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hoạt động chứng thực của UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là định nghĩa tại Điều 2.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-003",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng theo Luật Công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hoạt động kinh doanh dịch vụ pháp lý thuần túy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hoạt động chứng thực của UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là định nghĩa tại Điều 2.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-004",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng theo Luật Công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hoạt động kinh doanh dịch vụ pháp lý thuần túy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hoạt động chứng thực của UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là định nghĩa tại Điều 2.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-005",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng theo Luật Công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Dịch vụ công do công chứng viên của tổ chức hành nghề công chứng thực hiện",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Hoạt động kinh doanh dịch vụ pháp lý thuần túy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Hoạt động chứng thực của UBND cấp xã",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hoạt động của luật sư",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là định nghĩa tại Điều 2.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-006",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chánh án TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm sang Chủ tịch UBND cấp tỉnh.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-007",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chánh án TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm sang Chủ tịch UBND cấp tỉnh.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-008",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chánh án TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm sang Chủ tịch UBND cấp tỉnh.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-009",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chánh án TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm sang Chủ tịch UBND cấp tỉnh.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-010",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chủ tịch UBND cấp tỉnh",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bộ trưởng Bộ Tư pháp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chánh án TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giám đốc Sở Tư pháp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 chuyển thẩm quyền bổ nhiệm sang Chủ tịch UBND cấp tỉnh.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-011",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch quan trọng, đòi hỏi điều kiện tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định phải công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi giao dịch dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giao dịch có giá trị từ 1 tỷ đồng",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bỏ tiêu chí luật giao Chính phủ quy định phải công chứng và xác lập tiêu chí mới.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-012",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch quan trọng, đòi hỏi điều kiện tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định phải công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi giao dịch dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giao dịch có giá trị từ 1 tỷ đồng",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bỏ tiêu chí luật giao Chính phủ quy định phải công chứng và xác lập tiêu chí mới.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-013",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch quan trọng, đòi hỏi điều kiện tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định phải công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi giao dịch dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giao dịch có giá trị từ 1 tỷ đồng",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bỏ tiêu chí luật giao Chính phủ quy định phải công chứng và xác lập tiêu chí mới.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-014",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch quan trọng, đòi hỏi điều kiện tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định phải công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi giao dịch dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giao dịch có giá trị từ 1 tỷ đồng",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bỏ tiêu chí luật giao Chính phủ quy định phải công chứng và xác lập tiêu chí mới.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-015",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giao dịch quan trọng, đòi hỏi điều kiện tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định phải công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi giao dịch dân sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ giao dịch bất động sản",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giao dịch có giá trị từ 1 tỷ đồng",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 bỏ tiêu chí luật giao Chính phủ quy định phải công chứng và xác lập tiêu chí mới.",
+    "legalBasis": [
+      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-016",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Một nguyên tắc hành nghề công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khách quan, trung thực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ưu tiên người trả phí cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bảo đảm lợi nhuận tối đa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tuân theo yêu cầu của khách hàng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khách quan, trung thực là một nguyên tắc hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-017",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Một nguyên tắc hành nghề công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khách quan, trung thực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ưu tiên người trả phí cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bảo đảm lợi nhuận tối đa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tuân theo yêu cầu của khách hàng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khách quan, trung thực là một nguyên tắc hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-018",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Một nguyên tắc hành nghề công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khách quan, trung thực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ưu tiên người trả phí cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bảo đảm lợi nhuận tối đa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tuân theo yêu cầu của khách hàng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khách quan, trung thực là một nguyên tắc hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-019",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Một nguyên tắc hành nghề công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khách quan, trung thực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ưu tiên người trả phí cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bảo đảm lợi nhuận tối đa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tuân theo yêu cầu của khách hàng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khách quan, trung thực là một nguyên tắc hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-020",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Một nguyên tắc hành nghề công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khách quan, trung thực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ưu tiên người trả phí cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bảo đảm lợi nhuận tối đa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ tuân theo yêu cầu của khách hàng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khách quan, trung thực là một nguyên tắc hành nghề.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 5"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-021",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi nộp hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi nộp phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 6 quy định thời điểm có hiệu lực của văn bản công chứng giấy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-022",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi nộp hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi nộp phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 6 quy định thời điểm có hiệu lực của văn bản công chứng giấy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-023",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi nộp hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi nộp phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 6 quy định thời điểm có hiệu lực của văn bản công chứng giấy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-024",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi nộp hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi nộp phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 6 quy định thời điểm có hiệu lực của văn bản công chứng giấy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-025",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Khi công chứng viên ký và tổ chức hành nghề công chứng đóng dấu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khi nộp hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Khi nộp phí",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sau 07 ngày",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 6 quy định thời điểm có hiệu lực của văn bản công chứng giấy.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-026",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Văn bản công chứng có giá trị chứng cứ như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tình tiết, sự kiện trong văn bản không phải chứng minh, trừ khi bị Tòa án tuyên bố vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không có giá trị chứng cứ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có giá trị tham khảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có giá trị khi UBND xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giá trị chứng cứ được Luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-027",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Văn bản công chứng có giá trị chứng cứ như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tình tiết, sự kiện trong văn bản không phải chứng minh, trừ khi bị Tòa án tuyên bố vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không có giá trị chứng cứ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có giá trị tham khảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có giá trị khi UBND xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giá trị chứng cứ được Luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-028",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Văn bản công chứng có giá trị chứng cứ như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tình tiết, sự kiện trong văn bản không phải chứng minh, trừ khi bị Tòa án tuyên bố vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không có giá trị chứng cứ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có giá trị tham khảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có giá trị khi UBND xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giá trị chứng cứ được Luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-029",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Văn bản công chứng có giá trị chứng cứ như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tình tiết, sự kiện trong văn bản không phải chứng minh, trừ khi bị Tòa án tuyên bố vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không có giá trị chứng cứ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có giá trị tham khảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có giá trị khi UBND xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giá trị chứng cứ được Luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-030",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Văn bản công chứng có giá trị chứng cứ như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tình tiết, sự kiện trong văn bản không phải chứng minh, trừ khi bị Tòa án tuyên bố vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không có giá trị chứng cứ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ có giá trị tham khảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ có giá trị khi UBND xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Đây là giá trị chứng cứ được Luật quy định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-031",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Ngôn ngữ dùng trong công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếng Việt",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tiếng Anh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngôn ngữ do các bên tự chọn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ ngôn ngữ nào công chứng viên biết",
+        "correct": false
+      }
+    ],
+    "explanation": "Trường hợp sử dụng ngôn ngữ khác phải dịch sang tiếng Việt.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-032",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Ngôn ngữ dùng trong công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếng Việt",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tiếng Anh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngôn ngữ do các bên tự chọn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ ngôn ngữ nào công chứng viên biết",
+        "correct": false
+      }
+    ],
+    "explanation": "Trường hợp sử dụng ngôn ngữ khác phải dịch sang tiếng Việt.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-033",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Ngôn ngữ dùng trong công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếng Việt",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tiếng Anh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngôn ngữ do các bên tự chọn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ ngôn ngữ nào công chứng viên biết",
+        "correct": false
+      }
+    ],
+    "explanation": "Trường hợp sử dụng ngôn ngữ khác phải dịch sang tiếng Việt.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-034",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Ngôn ngữ dùng trong công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếng Việt",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tiếng Anh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngôn ngữ do các bên tự chọn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ ngôn ngữ nào công chứng viên biết",
+        "correct": false
+      }
+    ],
+    "explanation": "Trường hợp sử dụng ngôn ngữ khác phải dịch sang tiếng Việt.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-035",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Ngôn ngữ dùng trong công chứng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tiếng Việt",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Tiếng Anh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngôn ngữ do các bên tự chọn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bất kỳ ngôn ngữ nào công chứng viên biết",
+        "correct": false
+      }
+    ],
+    "explanation": "Trường hợp sử dụng ngôn ngữ khác phải dịch sang tiếng Việt.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 7"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-036",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ Nội vụ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trên phạm vi cả nước.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-037",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ Nội vụ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trên phạm vi cả nước.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-038",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ Nội vụ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trên phạm vi cả nước.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-039",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ Nội vụ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trên phạm vi cả nước.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-040",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bộ Tư pháp",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "TAND tối cao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Bộ Nội vụ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "UBND cấp tỉnh",
+        "correct": false
+      }
+    ],
+    "explanation": "Bộ Tư pháp chịu trách nhiệm trước Chính phủ trên phạm vi cả nước.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-041",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người yêu cầu trả thêm tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người tiết lộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức hành nghề đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiết lộ thông tin trái quy định là hành vi bị nghiêm cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-042",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người yêu cầu trả thêm tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người tiết lộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức hành nghề đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiết lộ thông tin trái quy định là hành vi bị nghiêm cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-043",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người yêu cầu trả thêm tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người tiết lộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức hành nghề đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiết lộ thông tin trái quy định là hành vi bị nghiêm cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-044",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người yêu cầu trả thêm tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người tiết lộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức hành nghề đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiết lộ thông tin trái quy định là hành vi bị nghiêm cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-045",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người yêu cầu trả thêm tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu người tiết lộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức hành nghề đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Tiết lộ thông tin trái quy định là hành vi bị nghiêm cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm a"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-046",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Trưởng tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân và người thân thích thuộc phạm vi luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-047",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Trưởng tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân và người thân thích thuộc phạm vi luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-048",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Trưởng tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân và người thân thích thuộc phạm vi luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-049",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Trưởng tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân và người thân thích thuộc phạm vi luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-050",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu khách hàng đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu giá trị nhỏ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Trưởng tổ chức cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân và người thân thích thuộc phạm vi luật định.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-051",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu cùng tỉnh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đồng thời hành nghề tại từ hai tổ chức trở lên là hành vi bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-052",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu cùng tỉnh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đồng thời hành nghề tại từ hai tổ chức trở lên là hành vi bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-053",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu cùng tỉnh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đồng thời hành nghề tại từ hai tổ chức trở lên là hành vi bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-054",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu cùng tỉnh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đồng thời hành nghề tại từ hai tổ chức trở lên là hành vi bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-055",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu cùng tỉnh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu Sở Tư pháp đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Đồng thời hành nghề tại từ hai tổ chức trở lên là hành vi bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-056",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người đó là công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có khi nghỉ phép",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-057",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người đó là công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có khi nghỉ phép",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-058",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người đó là công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có khi nghỉ phép",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-059",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người đó là công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có khi nghỉ phép",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-060",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu người đó là công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có khi nghỉ phép",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu tổ chức đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình bị cấm.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-061",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu có bằng luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu UBND cấp xã cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm cá nhân không phải công chứng viên cung cấp dịch vụ công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-062",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu có bằng luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu UBND cấp xã cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm cá nhân không phải công chứng viên cung cấp dịch vụ công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-063",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu có bằng luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu UBND cấp xã cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm cá nhân không phải công chứng viên cung cấp dịch vụ công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-064",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu có bằng luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu UBND cấp xã cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm cá nhân không phải công chứng viên cung cấp dịch vụ công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-065",
+    "part": 1,
+    "topic": "Pháp luật công chứng",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Có nếu có bằng luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có nếu được ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có nếu UBND cấp xã cho phép",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cấm cá nhân không phải công chứng viên cung cấp dịch vụ công chứng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-066",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "65 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "75 tuổi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 quy định công dân Việt Nam không quá 70 tuổi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-067",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "65 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "75 tuổi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 quy định công dân Việt Nam không quá 70 tuổi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-068",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "65 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "75 tuổi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 quy định công dân Việt Nam không quá 70 tuổi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-069",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "65 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "75 tuổi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 quy định công dân Việt Nam không quá 70 tuổi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-070",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "70 tuổi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "65 tuổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "60 tuổi",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "75 tuổi",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 quy định công dân Việt Nam không quá 70 tuổi.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-071",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ bằng đại học",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cao đẳng luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng chỉ nghiệp vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 chấp nhận một trong ba trình độ nêu trên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-072",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ bằng đại học",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cao đẳng luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng chỉ nghiệp vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 chấp nhận một trong ba trình độ nêu trên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-073",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ bằng đại học",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cao đẳng luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng chỉ nghiệp vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 chấp nhận một trong ba trình độ nêu trên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-074",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ bằng đại học",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cao đẳng luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng chỉ nghiệp vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 chấp nhận một trong ba trình độ nêu trên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-075",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cử nhân luật, thạc sĩ luật hoặc tiến sĩ luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bất kỳ bằng đại học",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cao đẳng luật",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng chỉ nghiệp vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 10 chấp nhận một trong ba trình độ nêu trên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-076",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 03 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian được tính sau khi có bằng luật theo Điều 10.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-077",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 03 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian được tính sau khi có bằng luật theo Điều 10.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-078",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 03 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian được tính sau khi có bằng luật theo Điều 10.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-079",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 03 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian được tính sau khi có bằng luật theo Điều 10.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-080",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ 03 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đủ 01 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đủ 02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ 05 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian được tính sau khi có bằng luật theo Điều 10.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-081",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời gian đào tạo nghề công chứng thông thường là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian thông thường là 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-082",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời gian đào tạo nghề công chứng thông thường là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian thông thường là 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-083",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời gian đào tạo nghề công chứng thông thường là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian thông thường là 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-084",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời gian đào tạo nghề công chứng thông thường là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian thông thường là 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-085",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời gian đào tạo nghề công chứng thông thường là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Thời gian thông thường là 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-086",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nhóm luật sư, thừa phát lại, đấu giá viên đã hành nghề đủ 05 năm trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-087",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nhóm luật sư, thừa phát lại, đấu giá viên đã hành nghề đủ 05 năm trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-088",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nhóm luật sư, thừa phát lại, đấu giá viên đã hành nghề đủ 05 năm trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-089",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nhóm luật sư, thừa phát lại, đấu giá viên đã hành nghề đủ 05 năm trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-090",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "05 năm",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "03 năm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "02 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "10 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định nhóm luật sư, thừa phát lại, đấu giá viên đã hành nghề đủ 05 năm trở lên.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-091",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời gian tập sự hành nghề công chứng là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 quy định thời gian tập sự 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-092",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời gian tập sự hành nghề công chứng là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 quy định thời gian tập sự 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-093",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời gian tập sự hành nghề công chứng là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 quy định thời gian tập sự 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-094",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời gian tập sự hành nghề công chứng là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 quy định thời gian tập sự 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-095",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời gian tập sự hành nghề công chứng là?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "12 tháng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "06 tháng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "18 tháng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "24 tháng",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 quy định thời gian tập sự 12 tháng.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-096",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "recognition",
+    "question": {
+      "variants": [
+        "Chọn phương án đúng theo quy định pháp luật: Thời gian tập sự được tính từ đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ngày quyết định đăng ký tập sự có hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ngày ký hợp đồng tập sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngày bắt đầu đến tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ngày tốt nghiệp đào tạo nghề",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 xác định mốc tính từ ngày quyết định đăng ký tập sự có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-097",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "understanding",
+    "question": {
+      "variants": [
+        "Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: Thời gian tập sự được tính từ đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ngày quyết định đăng ký tập sự có hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ngày ký hợp đồng tập sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngày bắt đầu đến tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ngày tốt nghiệp đào tạo nghề",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 xác định mốc tính từ ngày quyết định đăng ký tập sự có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-098",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? Thời gian tập sự được tính từ đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ngày quyết định đăng ký tập sự có hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ngày ký hợp đồng tập sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngày bắt đầu đến tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ngày tốt nghiệp đào tạo nghề",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 xác định mốc tính từ ngày quyết định đăng ký tập sự có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-099",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "application",
+    "question": {
+      "variants": [
+        "Để tránh áp dụng sai quy định, hãy chọn đáp án đúng: Thời gian tập sự được tính từ đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ngày quyết định đăng ký tập sự có hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ngày ký hợp đồng tập sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngày bắt đầu đến tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ngày tốt nghiệp đào tạo nghề",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 xác định mốc tính từ ngày quyết định đăng ký tập sự có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  },
+  {
+    "id": "EXP26-100",
+    "part": 1,
+    "topic": "Công chứng viên và tập sự",
+    "type": "single",
+    "status": "review",
+    "difficulty": "advanced",
+    "question": {
+      "variants": [
+        "Xét theo căn cứ pháp lý được viện dẫn, phương án nào chính xác? Thời gian tập sự được tính từ đâu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ngày quyết định đăng ký tập sự có hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Ngày ký hợp đồng tập sự",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ngày bắt đầu đến tổ chức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ngày tốt nghiệp đào tạo nghề",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 xác định mốc tính từ ngày quyết định đăng ký tập sự có hiệu lực.",
+    "legalBasis": [
+      "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+    ],
+    "lastVerified": "2026-10-05",
+    "source": {
+      "type": "derived",
+      "note": "Biên soạn lại từ điểm kiến thức đã kiểm tra; cần rà soát độc lập trước khi active."
+    }
+  }
+]
