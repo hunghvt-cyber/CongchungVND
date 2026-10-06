@@ -372,7 +372,7 @@
     "part": 1,
     "topic": "Pháp luật công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Công chứng viên có được tiết lộ nội dung công chứng trái quy định không?"
@@ -413,203 +413,255 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-020"
+      ],
+      "note": "Cùng năng lực xác định ngoại lệ bảo mật; câu hiện có tình huống và nhiễu tốt hơn."
     }
   },
   {
     "id": "CC-010",
     "part": 1,
-    "topic": "Pháp luật công chứng",
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Công chứng viên có được công chứng giao dịch liên quan đến tài sản, lợi ích của bản thân không?"
+        "Tháng 10/2026: CCV Lan được đề nghị công chứng việc mẹ nuôi của chồng Lan bán tài sản riêng. Các bên tự nguyện, không có tranh chấp và đề nghị Lan làm vì đã quen hồ sơ. Chỉ xét xung đột lợi ích của Lan, hướng xử lý đúng là gì?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
+        "text": "Lan không thực hiện việc công chứng này vì người bán thuộc danh sách người thân thích luật định",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Có nếu khách hàng đồng ý",
+        "text": "Lan được thực hiện vì tài sản riêng của người bán không thuộc sở hữu Lan",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có nếu giá trị nhỏ",
+        "text": "Lan được thực hiện nếu các bên ký văn bản chấp nhận quan hệ thân thích",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu Trưởng tổ chức cho phép",
+        "text": "Lan được thực hiện nếu mẹ nuôi của chồng không cùng hộ gia đình với Lan",
         "correct": false
       }
     ],
-    "explanation": "Công chứng viên không được công chứng giao dịch liên quan tài sản, lợi ích của chính mình và người thân thuộc danh sách luật định. Sự đồng ý của khách hàng, giá trị giao dịch nhỏ hoặc chấp thuận của Trưởng tổ chức không loại bỏ xung đột lợi ích này.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm c khoản 1 Điều 9 bao gồm cha nuôi, mẹ nuôi của vợ hoặc chồng. Lệnh cấm không chỉ giới hạn tài sản thuộc sở hữu CCV, người cùng hộ hay trường hợp tranh chấp. Sự tự nguyện và văn bản chấp thuận của khách hàng không tạo ngoại lệ. Cần phân công CCV khác đủ điều kiện và kiểm tra các điều kiện công chứng còn lại.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm c"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "CC-011",
     "part": 1,
-    "topic": "Pháp luật công chứng",
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Công chứng viên có được đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên không?"
+        "Tháng 10/2026: CCV đang hành nghề ở X muốn tiếp tục tại X vào các ngày chẵn và ký thêm hồ sơ ở Y vào các ngày lẻ. X và Y là hai tổ chức khác nhau, đều đồng ý phân ca và không trùng giờ. Nhận định nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Có",
+        "text": "Không trùng giờ thì không phải đồng thời hành nghề ở hai tổ chức",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "Việc chia ngày không loại bỏ lệnh cấm đồng thời hành nghề tại hai tổ chức",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Có nếu cùng tỉnh",
+        "text": "Chỉ bị cấm khi X và Y nằm ở hai tỉnh khác nhau",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu Sở Tư pháp đồng ý",
+        "text": "Văn bản đồng ý của cả X và Y đủ thay điều kiện hành nghề tại một tổ chức",
         "correct": false
       }
     ],
-    "explanation": "Luật cấm đồng thời hành nghề tại hai tổ chức hành nghề công chứng trở lên. Hai tổ chức cùng tỉnh hoặc cùng thống nhất phân ca không tạo ra ngoại lệ; cần phân biệt việc chuyển nơi hành nghề hợp pháp với hành nghề đồng thời.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiều 9 cấm đồng thời hành nghề tại từ hai tổ chức; Điều 18 yêu cầu hành nghề tại một tổ chức. Đồng thời ở đây không chỉ là ký hai hồ sơ đúng cùng một giờ. Phân ca hoặc cùng địa bàn không hợp pháp hóa việc duy trì tư cách hành nghề ở cả hai nơi; chuyển nơi hành nghề phải thực hiện thủ tục tương ứng.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm h"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm h"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 18",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "CC-012",
     "part": 1,
-    "topic": "Pháp luật công chứng",
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Công chứng viên có được cho người khác sử dụng thẻ công chứng viên của mình không?"
+        "Tháng 10/2026: CCV Nam nghỉ phép, giao thẻ CCV của mình cho một CCV khác để người đó sử dụng khi thực hiện nhiệm vụ. Người nhận có thẻ riêng còn hiệu lực. Đánh giá nào đúng về việc cho sử dụng thẻ của Nam?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
-        "correct": true
+        "text": "Được phép nếu người nhận có quyết định bổ nhiệm riêng",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Có nếu người đó là công chứng viên",
+        "text": "Được phép nếu thẻ được trả lại ngay sau kỳ nghỉ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có khi nghỉ phép",
-        "correct": false
+        "text": "Bị cấm dù người nhận cũng là CCV; phải sử dụng tư cách và thẻ của chính người thực hiện",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Có nếu tổ chức đồng ý",
+        "text": "Được phép khi Nam không có mặt, vì hai người không sử dụng thẻ cùng lúc",
         "correct": false
       }
     ],
-    "explanation": "Thẻ và quyết định bổ nhiệm gắn với tư cách cá nhân của công chứng viên, không được cho người khác sử dụng. Người mượn cũng là công chứng viên hoặc chủ thẻ đang nghỉ phép không làm hành vi cho mượn trở thành hợp pháp.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm k khoản 1 Điều 9 cấm cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình. Thẻ của người nhận không biến thẻ Nam thành tài liệu có thể cho mượn. Phân công một CCV đủ điều kiện thực hiện hồ sơ bằng tư cách riêng là việc khác với cho dùng thẻ của người nghỉ phép.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 1 điểm k"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm k"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "CC-013",
     "part": 1,
-    "topic": "Pháp luật công chứng",
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Cá nhân không phải công chứng viên có được cung cấp dịch vụ công chứng không?"
+        "Tháng 10/2026: Một cử nhân luật được khách hàng ủy quyền nộp hồ sơ, nhưng chưa được bổ nhiệm CCV. Người này quảng bá rằng giấy ủy quyền còn cho mình quyền ký chứng nhận công chứng thay CCV. Phân biệt nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
-        "correct": true
+        "text": "Được ký chứng nhận nếu giấy ủy quyền ghi rõ quyền công chứng",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Có nếu có bằng luật",
+        "text": "Được ký chứng nhận nếu dự thảo do một CCV kiểm tra trước",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có nếu được ủy quyền",
+        "text": "Được ký chứng nhận cho giao dịch không bắt buộc công chứng vì chỉ là yêu cầu tự nguyện",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu UBND cấp xã cho phép",
-        "correct": false
+        "text": "Đại diện khách hàng không trao tư cách CCV hay quyền cung cấp dịch vụ công chứng",
+        "correct": true
       }
     ],
-    "explanation": "Cá nhân không phải công chứng viên không được cung cấp dịch vụ công chứng. Có bằng luật hoặc văn bản ủy quyền không thay thế điều kiện bổ nhiệm, đăng ký hành nghề; nhân viên hỗ trợ hồ sơ không được tự ký chứng nhận với tư cách công chứng viên.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm đ khoản 3 Điều 9 cấm cá nhân không phải CCV cung cấp dịch vụ công chứng. Đại diện người yêu cầu, hỗ trợ soạn thảo hoặc nộp hồ sơ không phải tư cách chứng nhận công chứng. Việc công chứng tự nguyện vẫn là hoạt động công chứng và không làm mất điều kiện chủ thể này.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 9 khoản 3 điểm đ"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3",
+        "point": "Điểm đ"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -1081,48 +1133,57 @@
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Người đang bị truy cứu trách nhiệm hình sự có thuộc trường hợp không được bổ nhiệm công chứng viên không?"
+        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV đang bị truy cứu trách nhiệm hình sự, chưa có bản án kết tội. Người này viện nguyên tắc suy đoán vô tội để yêu cầu bỏ qua Điều 14. Chỉ xét trở ngại này, nhận định nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có",
+        "text": "Đang bị truy cứu đã thuộc trường hợp không được bổ nhiệm; áp dụng điều kiện nghề nghiệp không phải kết luận người đó có tội",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Không",
+        "text": "Chỉ có bản án có hiệu lực mới phát sinh trở ngại bổ nhiệm tại Điều 14 khoản 2",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ khi có án",
+        "text": "Chỉ hình phạt tù mới ngăn bổ nhiệm, còn việc truy cứu không ảnh hưởng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ khi bị phạt tù",
+        "text": "Được bổ nhiệm ngay nhưng phải cam kết xin miễn nhiệm nếu sau này bị kết án",
         "correct": false
       }
     ],
-    "explanation": "Đang bị truy cứu trách nhiệm hình sự đã là căn cứ không được bổ nhiệm, không phải đợi có bản án kết tội hoặc hình phạt tù. Điều kiện nghề nghiệp này không đồng nghĩa với việc coi người đó đã có tội.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 14 liệt kê riêng người đang bị truy cứu, không đợi bản án hay hình phạt tù. Phải phân biệt điều kiện bổ nhiệm với việc xác định trách nhiệm hình sự. Câu không kết luận người đang bị truy cứu đã phạm tội và cũng không tự suy ra họ bị cấm vĩnh viễn sau khi tình trạng này chấm dứt.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 2"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 14",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -1130,48 +1191,57 @@
     "part": 1,
     "topic": "Công chứng viên và tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Người bị mất năng lực hành vi dân sự có được bổ nhiệm công chứng viên không?"
+        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV có quyết định còn hiệu lực của Tòa án tuyên bị hạn chế năng lực hành vi dân sự. Người đại diện đồng ý cho người đó hành nghề và cam kết hỗ trợ. Chỉ xét khoản 4 Điều 14, kết luận nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Có",
+        "text": "Chỉ mất năng lực mới bị cấm; hạn chế năng lực luôn được bổ nhiệm",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "Vẫn thuộc trường hợp không được bổ nhiệm; sự đồng ý của đại diện không loại bỏ trở ngại",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Có nếu có người giám hộ",
+        "text": "Được bổ nhiệm nếu đại diện ký cùng vào từng lời chứng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu Sở Tư pháp đồng ý",
+        "text": "Được bổ nhiệm vì việc hạn chế chỉ ảnh hưởng giao dịch cá nhân, không ảnh hưởng chức danh",
         "correct": false
       }
     ],
-    "explanation": "Người bị mất năng lực hành vi dân sự thuộc trường hợp không được bổ nhiệm. Việc có người giám hộ hỗ trợ không thay thế năng lực mà chức danh công chứng viên đòi hỏi; luật còn liệt kê hạn chế năng lực và khó khăn trong nhận thức, làm chủ hành vi.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 4 Điều 14 bao gồm mất năng lực, hạn chế năng lực và khó khăn trong nhận thức, làm chủ hành vi. Quyết định Tòa án còn hiệu lực là dữ kiện đã xác định trong câu; không phải chỉ có chẩn đoán bệnh. Sự hỗ trợ hoặc đồng ý của đại diện không thay điều kiện cá nhân để được bổ nhiệm.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 14 khoản 4"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 14",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 4"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -1961,48 +2031,63 @@
     "part": 2,
     "topic": "Thủ tục và nghiệp vụ công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, các giấy tờ tại điểm b, c, d khoản 1 Điều 42 có thể là bản sao điện tử không?"
+        "Từ 01/01/2027, người yêu cầu nộp bản sao điện tử giấy tờ thuộc điểm b, c, d khoản 1 Điều 42, chưa thuộc trường hợp miễn cung cấp do khai thác dữ liệu. CCV bác ngay hồ sơ chỉ vì nhóm giấy tờ này không phải bản sao giấy. Đánh giá nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có",
-        "correct": true
+        "text": "Chỉ bản chính điện tử mới được nộp, mọi bản sao điện tử đều bị loại",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Không",
+        "text": "Bản sao điện tử được nộp nên không còn bất kỳ bước kiểm tra, đối chiếu nào",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ bản chính giấy",
-        "correct": false
+        "text": "Không thể bác chỉ vì dạng điện tử được luật cho phép; vẫn phải kiểm tra tính hợp lệ và bước đối chiếu áp dụng",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Chỉ bản sao chứng thực giấy",
+        "text": "Chỉ giấy tờ tùy thân được điện tử hóa; giấy tờ tài sản luôn phải là bản sao giấy",
         "correct": false
       }
     ],
-    "explanation": "Từ 01/01/2027, nhóm giấy tờ ở điểm b, c, d có thể là bản sao giấy, bản sao điện tử hoặc bản chính điện tử. Việc chấp nhận dạng hồ sơ không tự miễn bước kiểm tra, đối chiếu; cần xét khoản 7, khoản 7a và các ngoại lệ cụ thể.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm a khoản 11 Điều 1 sửa khoản 1 Điều 42 cho phép bản sao giấy, bản sao điện tử hoặc bản chính điện tử đối với cả ba nhóm. Cho phép dạng hồ sơ không có nghĩa mọi tệp đều hợp lệ hoặc tự được miễn đối chiếu. Phải tiếp tục xét khoản 7, 7a theo trường hợp cụ thể. Điều 2 ấn định hiệu lực từ 01/01/2027; không áp dụng quy tắc mới cho tháng 10/2026.",
     "legalBasis": [
-      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 1",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+        "clause": "Khoản 11",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 2",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC26",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC26"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -2102,48 +2187,63 @@
     "part": 2,
     "topic": "Thủ tục và nghiệp vụ công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, khi công chứng văn bản từ chối nhận di sản, có phải xuất trình bản chính giấy tờ về tài sản tại điểm c khoản 1 Điều 42 không?"
+        "Từ 01/01/2027, hồ sơ là văn bản từ chối nhận di sản theo Điều 60, đã chứng minh tư cách thừa kế và việc người để lại di sản chết. Người yêu cầu không xuất trình bản chính giấy tờ tài sản ở điểm c khoản 1 Điều 42. Chỉ xét bước đối chiếu bản chính nhóm này, nhận định nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
-        "correct": true
+        "text": "Ngoại lệ chỉ áp dụng di sản là tiền, không áp dụng di sản là đất",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Có trong mọi trường hợp",
+        "text": "Không phải nộp bất cứ giấy tờ nào, kể cả chứng minh tư cách thừa kế",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ khi tài sản là đất",
+        "text": "Ngoại lệ này áp dụng tương tự cho mọi văn bản phân chia di sản",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ khi công chứng viên yêu cầu",
-        "correct": false
+        "text": "Thuộc ngoại lệ không phải xuất trình bản chính giấy hoặc điện tử của nhóm điểm c để đối chiếu",
+        "correct": true
       }
     ],
-    "explanation": "Từ 01/01/2027, văn bản từ chối nhận di sản được miễn xuất trình bản chính giấy hoặc điện tử của giấy tờ tại điểm c để đối chiếu. Ngoại lệ này không miễn giấy tờ chứng minh người để lại di sản đã chết hoặc tư cách thừa kế và không áp dụng mặc nhiên cho phân chia di sản.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm b khoản 11 Điều 1 sửa khoản 7 Điều 42 ghi riêng ngoại lệ cho công chứng văn bản từ chối nhận di sản. Phạm vi ngoại lệ là đối chiếu bản chính giấy tờ tại điểm c; không miễn mọi thành phần hồ sơ, không giới hạn riêng tiền và không mở rộng sang phân chia di sản. Đây là quy định từ 01/01/2027 theo Điều 2.",
     "legalBasis": [
-      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 1",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+        "clause": "Khoản 11",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 2",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC26",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC26"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
     "difficulty": "understanding",
     "questionForm": "exception",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -2243,7 +2343,7 @@
     "part": 2,
     "topic": "Thủ tục và nghiệp vụ công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Từ 01/01/2027, khi đã khai thác được thông tin đầy đủ, chính xác từ cơ sở dữ liệu, công chứng viên có yêu cầu xuất trình bản chính để đối chiếu không?"
@@ -2284,7 +2384,13 @@
     "difficulty": "understanding",
     "questionForm": "exception",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "CC-047",
+        "CC-050"
+      ],
+      "note": "Cùng cơ chế dữ liệu và điều kiện yêu cầu bổ sung từ 2027; không giữ thêm câu có/không."
     }
   },
   {
@@ -2476,48 +2582,62 @@
     "part": 2,
     "topic": "Thẩm quyền công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất động sản có thuộc ngoại lệ của Điều 44 không?"
+        "Từ 01/01/2027, A muốn lập văn bản ủy quyền thực hiện quyền về nhà ở tỉnh B tại tổ chức ở tỉnh C; sau đó người được ủy quyền định ký hợp đồng bán nhà cũng tại C. Chỉ xét ngoại lệ địa bàn được Điều 44 mới quy định, phân biệt nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có",
+        "text": "Văn bản ủy quyền thuộc ngoại lệ; hợp đồng bán nhà không tự được hưởng ngoại lệ của văn bản ủy quyền",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Không",
+        "text": "Cả hai văn bản thuộc ngoại lệ vì hợp đồng bán được ký qua người đại diện",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ nếu có giá trị lớn",
+        "text": "Cả hai văn bản đều bị cấm ngoài tỉnh B, kể cả ủy quyền",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ khi hai bên cùng tỉnh",
+        "text": "Ngoại lệ tùy nơi cư trú của người đại diện, không tùy loại giao dịch",
         "correct": false
       }
     ],
-    "explanation": "Từ 01/01/2027, văn bản ủy quyền liên quan việc thực hiện quyền về bất động sản là ngoại lệ địa bàn. Hợp đồng chuyển nhượng do người được ủy quyền ký vẫn phải kiểm tra thẩm quyền theo đối tượng giao dịch; không kế thừa ngoại lệ của văn bản ủy quyền.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 13 Điều 1 sửa Điều 44, ghi văn bản ủy quyền liên quan thực hiện quyền về bất động sản trong danh sách ngoại lệ. Việc người đại diện ký không đổi hợp đồng bán nhà thành văn bản ủy quyền. Không lấy khoản 2 về lộ trình toàn quốc để mặc định mọi giao dịch đã được làm toàn quốc; câu chỉ xét ngoại lệ khoản 1, chưa giả định lộ trình đã triển khai.",
     "legalBasis": [
-      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 1",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+        "clause": "Khoản 13"
+      },
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 2",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC26",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC26"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "integrated",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -2893,48 +3013,62 @@
     "part": 2,
     "topic": "Cơ sở dữ liệu công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ sở dữ liệu công chứng có bao gồm tình trạng giao dịch của tài sản không?"
+        "Từ 01/01/2027, thiết kế cơ sở dữ liệu công chứng chỉ lưu thông tin CCV, tổ chức và giao dịch đã công chứng; loại toàn bộ dữ liệu tình trạng giao dịch tài sản, ngăn chặn, cảnh báo rủi ro và hồ sơ vì cho rằng đó đều nằm ngoài Điều 66 mới. Đánh giá nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Không",
+        "text": "Đủ vì Điều 66 mới chỉ cho lưu thông tin giao dịch đã hoàn thành",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "Thiếu các nhóm dữ liệu được khoản 1 Điều 66 mới liệt kê, bao gồm tình trạng tài sản, ngăn chặn/cảnh báo và văn bản, tài liệu hồ sơ",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Chỉ bất động sản",
+        "text": "Chỉ thiếu dữ liệu ngăn chặn, còn tình trạng tài sản và hồ sơ luôn nằm ngoài Điều 66",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ động sản",
+        "text": "Chỉ thiếu tình trạng tài sản; cảnh báo và tài liệu hồ sơ không thuộc cơ sở dữ liệu",
         "correct": false
       }
     ],
-    "explanation": "Từ 01/01/2027, tình trạng giao dịch của tài sản là nhóm thông tin trong cơ sở dữ liệu. Không giới hạn chỉ nhà đất nếu luật không giới hạn như vậy; cần phân biệt thông tin tình trạng giao dịch với quyền sở hữu được xác lập theo luật chuyên ngành.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 16 Điều 1 sửa khoản 1 Điều 66 thành bốn nhóm: thông tin CCV/tổ chức/giao dịch; tình trạng giao dịch tài sản; ngăn chặn/cảnh báo; văn bản công chứng và tài liệu hồ sơ. Vì vậy không thể loại cả ba nhóm sau. Quy định nhóm dữ liệu không cho phép công khai tùy ý; khoản 2 vẫn yêu cầu bảo mật, bảo vệ đời sống riêng tư. Mốc áp dụng quy định mới là 01/01/2027.",
     "legalBasis": [
-      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 1",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+        "clause": "Khoản 16"
+      },
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 2",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC26",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC26"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "synthesis",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -2942,7 +3076,7 @@
     "part": 2,
     "topic": "Cơ sở dữ liệu công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Từ 01/01/2027, cơ sở dữ liệu công chứng có bao gồm biện pháp ngăn chặn và cảnh báo rủi ro không?"
@@ -2983,7 +3117,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "CC-063"
+      ],
+      "note": "Gộp nhóm ngăn chặn/cảnh báo vào câu kiểm tra đầy đủ các nhóm dữ liệu, tránh tách thành câu có/không."
     }
   },
   {
@@ -3359,48 +3498,57 @@
     "part": 2,
     "topic": "Văn bản công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Chữ viết trong văn bản công chứng có được viết tắt không?"
+        "Tháng 10/2026: Dự thảo văn bản công chứng sử dụng ký hiệu viết tắt tự đặt cho nghĩa vụ bàn giao, chưa có quy định pháp luật cho phép ngoại lệ. Các bên đều hiểu ký hiệu và ký xác nhận đồng ý. Hướng xử lý nào phù hợp về cách viết?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không, trừ trường hợp pháp luật có quy định khác",
-        "correct": true
+        "text": "Có thể giữ ký hiệu vì sự đồng ý của các bên tự tạo ngoại lệ",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Có",
+        "text": "Chỉ cần CCV hiểu ký hiệu, người tham gia không phải đọc lại nội dung đầy đủ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có nếu công chứng viên hiểu",
-        "correct": false
+        "text": "Yêu cầu thể hiện rõ, dễ đọc và không dùng cách viết tắt/ký hiệu trái quy tắc chung",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Có nếu các bên đồng ý",
+        "text": "Được giữ mọi ký hiệu miễn ghi chú đó là thỏa thuận tự nguyện",
         "correct": false
       }
     ],
-    "explanation": "Chữ viết phải rõ, dễ đọc, không viết tắt theo nguyên tắc chung, trừ pháp luật có quy định khác. Việc các bên hiểu được chữ viết tắt hoặc cùng đồng ý không tự thay thế ngoại lệ do pháp luật quy định.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 47 cấm viết tắt hoặc bằng ký hiệu theo quy tắc chung và chỉ chừa ngoại lệ do pháp luật quy định. Câu đã loại trừ ngoại lệ; hiểu nội dung và cùng đồng ý không đủ thay quy tắc hình thức. Cần sửa dự thảo trước khi chứng nhận, tránh dùng ý chí của các bên để miễn yêu cầu pháp luật.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 47"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 47",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -3546,7 +3694,7 @@
     "part": 2,
     "topic": "Lời chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Công chứng viên có được đưa vào lời chứng nội dung nhằm loại trừ trách nhiệm của mình không?"
@@ -3587,7 +3735,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-012"
+      ],
+      "note": "Đã có tình huống loại trừ trách nhiệm trong lời chứng, không bổ sung paraphrase."
     }
   },
   {
@@ -3595,7 +3748,7 @@
     "part": 2,
     "topic": "Di chúc",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Người lập di chúc có được ủy quyền cho người khác ký thay di chúc công chứng không?"
@@ -3636,7 +3789,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-100"
+      ],
+      "note": "Đã có tình huống phân biệt ủy quyền tài sản với tự lập di chúc."
     }
   },
   {
@@ -4434,48 +4592,62 @@
     "part": 2,
     "topic": "Điều khoản chuyển tiếp",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Nếu công chứng viên được bổ nhiệm trước 01/01/2027 thì sau ngày đó có được tiếp tục hành nghề không?"
+        "Từ 01/01/2027, một CCV đã được bổ nhiệm trước ngày này nói quy định chuyển tiếp cho mình tiếp tục hành nghề nên mọi nghĩa vụ hành nghề mới và căn cứ tạm đình chỉ đều không áp dụng. Chỉ xét ý nghĩa khoản 1 Điều 3, đánh giá nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có, theo điều khoản chuyển tiếp",
-        "correct": true
+        "text": "Tiếp tục hành nghề có nghĩa được miễn mọi nghĩa vụ luật mới",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Không",
+        "text": "Phải xin bổ nhiệm lại chỉ vì luật sửa đổi bắt đầu có hiệu lực",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ được hành nghề 01 năm",
+        "text": "Chỉ được tiếp tục nếu trong sáu tháng đã công chứng đủ số lượng hồ sơ tối thiểu luật định",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Phải thi lại ngay",
-        "correct": false
+        "text": "Được tiếp tục theo quy định chuyển tiếp nhưng vẫn phải tuân thủ pháp luật; điều khoản không tạo miễn trừ chung",
+        "correct": true
       }
     ],
-    "explanation": "Người đã được bổ nhiệm, bổ nhiệm lại trước 01/01/2027 được tiếp tục hành nghề theo điều khoản chuyển tiếp và pháp luật có liên quan. Không bắt tất cả công chứng viên phải xin bổ nhiệm lại chỉ vì luật sửa đổi bắt đầu có hiệu lực.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 3 cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày hiệu lực tiếp tục hành nghề và thực hiện nhiệm vụ chứng thực theo pháp luật được dẫn chiếu. Đây không phải miễn trừ nghĩa vụ hoặc đình chỉ; cũng không đặt điều kiện số hồ sơ giả định trong đáp án nhiễu. Không yêu cầu bổ nhiệm lại chỉ do mốc đổi luật.",
     "legalBasis": [
-      "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 1"
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 3",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+        "article": "Điều 2",
+        "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+      }
     ],
-    "lastVerified": "2026-10-05",
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC26",
-      "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+      "supportingSourceIds": [
+        "OFFICIAL-CC26"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "exception",
     "audit": {
-      "reason": "weak_distractors_pending_rewrite"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {

@@ -1,0 +1,2799 @@
+{
+  "date": "2026-10-06",
+  "scope": "Kiểm kê và phân loại tồn đọng ở tài liệu nguồn; không phải chứng nhận đáp án nguyên văn hoặc kiểm định mới toàn bộ 336 câu lớn. Khác với 36 câu review trong data đã có quyết định cuối.",
+  "catalogs": [
+    {
+      "catalog": "reports/authorization-source-review.json",
+      "sourceItems": 31,
+      "decisions": {
+        "adapted_partial": 12,
+        "review": 12,
+        "duplicate_source_review": 7
+      }
+    },
+    {
+      "catalog": "reports/deposit-source-review.json",
+      "sourceItems": 25,
+      "decisions": {
+        "adapted_partial": 11,
+        "review": 14
+      }
+    },
+    {
+      "catalog": "reports/exam-source-review.json",
+      "sourceItems": 151,
+      "decisions": {
+        "adapted_active": 123,
+        "review": 20,
+        "duplicate_source": 5,
+        "duplicate_bank": 3
+      }
+    },
+    {
+      "catalog": "reports/family-source-review.json",
+      "sourceItems": 41,
+      "decisions": {
+        "adapted_partial": 13,
+        "review": 28
+      }
+    },
+    {
+      "catalog": "reports/inheritance-source-review.json",
+      "sourceItems": 45,
+      "decisions": {
+        "adapted_partial": 23,
+        "review": 22
+      }
+    },
+    {
+      "catalog": "reports/sales-source-review.json",
+      "sourceItems": 43,
+      "decisions": {
+        "review": 43
+      }
+    }
+  ],
+  "counts": {
+    "adapted_partial": 59,
+    "review": 139,
+    "duplicate_source_review": 7
+  },
+  "items": [
+    {
+      "sourceItemId": "AUTH-SRC-1.1",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-001"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-1.2",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-002"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-1.3",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-1.4",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-1.5",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-014",
+        "AUTH26-017",
+        "AUTH26-018"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-1.6",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-003",
+        "AUTH26-005",
+        "AUTH26-006",
+        "AUTH26-007"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.1",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-011"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.2",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.3",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.4",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-013"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.5",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-012"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-2.6",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-008",
+        "AUTH26-009"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.1",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.2",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.3",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.4",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-004"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.5",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-3.6",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-007",
+        "AUTH26-010",
+        "AUTH26-015",
+        "AUTH26-016"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.1",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.2",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-019"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.3",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.4",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.5",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "AUTH26-020"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-5.6",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ câu biên soạn đã liên kết được xác minh; các nhánh còn lại chưa được chuyển active.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.0",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.1",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.2",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.3",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.4",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.5",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "AUTH-SRC-4.6",
+      "catalog": "reports/authorization-source-review.json",
+      "decision": "duplicate_source_review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục đã có trong nguồn đặt cọc; không nhân đôi câu hỏi.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.1",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-001",
+        "DEP26-002",
+        "DEP26-003",
+        "DEP26-004"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.2",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.3",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.4",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.5",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-005",
+        "DEP26-006",
+        "DEP26-017"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-1.6",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-014"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.1",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-001"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.2",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.3",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.4",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-012"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.5",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-013"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-2.6",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-007",
+        "DEP26-015",
+        "DEP26-016"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.1",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-010"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.2",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.3",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.4",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-009",
+        "DEP26-018"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.5",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-011",
+        "DEP26-018"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-3.6",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "DEP26-008"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ xác minh câu đã viết lại; phần thẩm quyền địa hạt, hồ sơ chi tiết và hạn chế chuyển nhà chưa được xác nhận hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-0",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-1",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-2",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-3",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-4",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-5",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "DEP-SRC-APP-6",
+      "catalog": "reports/deposit-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phụ lục 3 ảnh, chỉ có đề; chưa kiểm định hoàn tất, không tạo câu active từ phần này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-007",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đóng dấu không tự bảo đảm bản chính được chứng thực bản sao; còn phải loại trừ mọi trường hợp tại Điều 22 và xét ngoại lệ hợp pháp hóa lãnh sự. Phải bổ sung giả định bản chính hợp lệ, đủ nội dung và không thuộc trường hợp bị cấm.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-023",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không thể lấy mức phí cố định của hợp đồng khác áp cho đặt cọc. Đề còn có năm phương án và hai phương án ký hiệu C. Phải đối chiếu biểu phí hiện hành và đối tượng tính phí trước khi lựa chọn; giữ review.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-024",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Âm nhạc và sân khấu đều có thể thuộc thời hạn đời tác giả và 50 năm sau năm chết. Phương án điện ảnh, nhiếp ảnh có cơ chế khác. Câu gốc không thể là single; cần hỏi riêng một loại tác phẩm hoặc chuyển sang nhiều lựa chọn.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-026",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Quy định hiện hành yêu cầu bàn giao chậm nhất 30 ngày từ quyết định giải thể Phòng hoặc thu hồi giấy đăng ký hoạt động Văn phòng. Mốc 60 ngày trong hướng dẫn cũ không áp dụng cho tình huống tháng 10/2026.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-027",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Bên giao không ký thì ghi rõ việc đó vào biên bản; không tự hủy toàn bộ thủ tục hay buộc họ phải viết một câu nhất định. Điểm quyết định là ghi nhận khách quan và thực hiện bàn giao theo thẩm quyền.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-038",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Câu dùng hồ sơ theo hướng dẫn cũ và coi mọi quyết định của nghề khác đều là thành phần bắt buộc. Cần xét nghề người đề nghị thực tế đang có và cơ chế dữ liệu/hồ sơ hiện hành; không chọn chỉ theo tên chức danh.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-SEP24-043",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đề 2024 nói chuyển nhượng Văn phòng công chứng, trong khi luật mới dùng cơ chế chuyển nhượng phần vốn góp và điều kiện tương ứng. Không dùng các phương án cũ mà không xác định mốc pháp luật và đúng loại giao dịch.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-003",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đất giao khoán không đồng nghĩa người nhận khoán có quyền sử dụng đất để định đoạt hoặc để thừa kế. Cần phân biệt quyền sử dụng đất với quyền/nghĩa vụ theo hợp đồng khoán; không suy ra mọi đất nông trường đều không thừa kế được.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-022",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Thỏa thuận không tính lãi chậm trả có thể hợp pháp; bên mua gánh chi phí theo thỏa thuận không tự đổi người nộp thuế trước Nhà nước. Tiền mặt và nghĩa vụ bảo quản cũng không tự trái luật. Cần bổ sung tình huống hoặc thay nhiễu.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-26b",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Giấy ủy quyền quản lý, sử dụng nhà không thuộc các việc đơn giản có thể chứng thực chữ ký theo ngoại lệ. Phải phân biệt chứng thực chữ ký với chứng thực giao dịch; phạm vi miễn thủ tục hợp đồng chỉ áp đúng loại ủy quyền luật định.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-034",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Thủ tục xác nhận trực tiếp sản xuất nông nghiệp dựa nơi hộ khẩu và quy định cũ không thể mặc nhiên áp dụng sau Luật Đất đai mới, chính quyền hai cấp và bỏ sổ hộ khẩu giấy. Cần xác định giao dịch nào thực sự còn đòi điều kiện này.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-035",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tiêu chí hưởng lương thường xuyên là dấu hiệu từ hướng dẫn luật cũ. Phải kiểm tra định nghĩa và điều kiện hiện hành của đúng giao dịch, không kết luận người nhận lương không được nhận đất nông nghiệp trong mọi trường hợp.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-040",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Hợp pháp hóa lãnh sự chỉ xác nhận con dấu/chữ ký/chức danh, không tự kết luận quan hệ hôn nhân, năng lực hay tài sản. Cần kiểm tra bản dịch, nội dung, ghi chú hộ tịch nếu thuộc trường hợp và toàn bộ hồ sơ; không mặc định luôn từ chối hay luôn công chứng.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-045",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các giấy tờ cư trú, hội viên và quyết định liên quan nghề khác phải xét hồ sơ hiện hành, khả năng khai thác dữ liệu và trường hợp người đề nghị. Đề theo thủ tục cũ nên không giữ khóa đáp án chưa đối chiếu.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-046",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Công chứng viên được hành nghề sau khi đăng ký hành nghề và được cấp thẻ theo luật. A và C đều diễn đạt điều kiện đó nên không thể dùng làm single; viết lại với các thời điểm khác biệt.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-047",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không tự suy ra mọi chuyển nhượng Văn phòng làm xóa đăng ký công chứng viên. Luật mới dùng cơ chế phần vốn góp và từng căn cứ thu hồi thẻ; câu nguồn cần nêu rõ người tiếp tục hành nghề hay chấm dứt.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-049",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đây là tình huống lịch sử có ngày cụ thể, không được dùng thủ tục đăng ký xe hiện hành để giải. Cần đối chiếu Thông tư 58/2020 và sửa đổi áp dụng đúng ngày, cùng giấy tờ/mốc chuyển tiếp; giữ review đến khi xác minh.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-061",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Mua bán tàu bay/tàu biển không tự là biện pháp bảo đảm, dù có đăng ký quyền sở hữu riêng. Cần phân biệt đăng ký bảo đảm với đăng ký sở hữu, và kiểm tra danh mục bắt buộc theo Nghị định 99/2022 cùng luật chuyên ngành.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-072",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Bản đồ hành chính hình thành từ bản đồ địa giới đơn vị hành chính theo quy định, không lấy sơ đồ địa chính hay biên bản phân thửa thay thế. Cần đối chiếu điều khoản và dữ liệu hành chính hiện hành sau sắp xếp địa giới.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "IMP-T60-098",
+      "catalog": "reports/exam-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các phương án ghép hàng loạt nhóm chủ thể có cả người được và không được nhận theo từng hình thức. Không thể chọn cả một danh sách là bị cấm tuyệt đối; cần nêu đúng người nhận, loại đất, hình thức và ngoại lệ.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-003"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-004",
+        "FAM26-005",
+        "FAM26-015"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-002"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-1.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-001"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-006"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-2.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-007",
+        "FAM26-008",
+        "FAM26-010"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.7",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-011",
+        "FAM26-012",
+        "FAM26-013"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-3.8",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-026"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.7",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-5.8",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-009"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-014"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-7.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.1",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-016",
+        "FAM26-019",
+        "FAM26-020",
+        "FAM26-025"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.2",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-017",
+        "FAM26-018",
+        "FAM26-021"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.3",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.4",
+      "catalog": "reports/family-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "FAM26-022",
+        "FAM26-023",
+        "FAM26-024"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.5",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.6",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "FAM-SRC-8.ETHICS",
+      "catalog": "reports/family-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phần I đạo đức; chưa cập nhật/xác minh trong bộ tài sản vợ chồng.",
+      "nextVerificationRequired": [
+        "Các mức phí, thù lao theo quyết định địa phương cũ",
+        "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+        "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+        "Đạo đức, tập sự trong đề 8",
+        "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-001",
+        "INH26-002",
+        "INH26-003",
+        "INH26-024"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-004",
+        "INH26-005"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-1.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-031"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-028"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-032"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-2.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-014",
+        "INH26-027"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-018",
+        "INH26-024",
+        "INH26-029"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-016",
+        "INH26-017",
+        "INH26-019",
+        "INH26-025",
+        "INH26-026"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-3.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-006",
+        "INH26-015"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-031"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-5.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-019",
+        "INH26-020",
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-007",
+        "INH26-009"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-006",
+        "INH26-008",
+        "INH26-010",
+        "INH26-015"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-012",
+        "INH26-013"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-6.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-011"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-021",
+        "INH26-023"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-022",
+        "INH26-023"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-027"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.ETHICS1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-7.ETHICS2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.2",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-032"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.3",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.4",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-006"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.5",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "adapted_partial",
+      "linkedVerifiedIds": [
+        "INH26-022"
+      ],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.6",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.ETHICS1",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "INH-SRC-8.DRAFT",
+      "catalog": "reports/inheritance-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn.",
+      "nextVerificationRequired": [
+        "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+        "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+        "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+        "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+        "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+      ],
+      "catalogDate": "2026-10-06"
+    },
+    {
+      "sourceItemId": "SALE-01-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Thiếu loại đất, khu vực rừng, diện tích và hạn mức địa phương; cập nhật Điều 45, 176, 177.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-01-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Cập nhật Điều 44 LCC; tránh trùng nhóm địa hạt.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-01-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Câu chỉ xuất hiện trong phần giải; cập nhật hồ sơ, dữ liệu và giấy nhân thân.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-01-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Mẫu nhầm tên Nguyễn Thanh Bình thành Nguyễn Văn Bình; không nhập nguyên mẫu vào trắc nghiệm.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-01-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Sửa căn cứ điều kiện bán nhà; kiểm chứng riêng giấy tờ kiểm lâm.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-01-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Lời giải mâu thuẫn về giữ lại giá; cần rõ thời điểm chuyển quyền và bản chất tiền ở lại.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không coi toàn bộ danh mục cũ là thành phần bắt buộc cho mọi hồ sơ hiện hành.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Giữ phạm vi ủy quyền và hai tư cách của người vợ; sửa mẫu lỗi bảng mã.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Giấy phép xây dựng không đủ thay chứng minh nhà hoàn thành/đủ điều kiện giao dịch.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tách thanh toán, đặt cọc, phạt, hủy; không suy trả trước thành đặt cọc.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không bắt buộc làm chứng chỉ vì gãy tay khi vẫn điểm chỉ được; so VER26-009.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-02-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tách thỏa thuận chấm dứt, đơn phương hủy và vô hiệu do giả tạo; CCV không là Tòa án.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Ảnh chỉ ghi chưa đủ 18 tuổi, thiếu tuổi cụ thể; giải trích nhầm Điều 22 thay Điều 21.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Xe máy là động sản; cập nhật căn cứ và so trùng năng lực địa hạt.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Kiểm chứng đăng ký xe và giấy tờ theo mốc hiện hành.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đối tượng gốc xe máy SH; bài giải ghi ô tô ở một đoạn.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phân biệt sở hữu xe với điều kiện điều khiển xe; kiểm chứng giấy nhân thân hiện hành.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-03-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tách rủi ro và bồi thường người thứ ba; quyền chuộc là thỏa thuận, không bắt buộc.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không suy điều kiện giao đất sang điều kiện nhận chuyển nhượng; không dùng trần 10 lần cho 2026.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không dành riêng thẩm quyền cho Phòng công chứng.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Cần hạn mức địa phương để xử lý 300 ha; cập nhật hồ sơ.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không đưa nguyên mẫu vào trắc nghiệm; kiểm tra đồng nhất diện tích và tên.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Ảnh ghi bên chuyển nhượng chịu chi phí, phần giải đổi thành bên nhận; làm rõ phần diện tích tăng.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-04-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đề ghi không biết ký; bài giải thêm không biết chữ. Đây là thay dữ kiện quyết định.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Lắp đặt không tự chứng minh bất động sản; giữ review vì thiếu dữ kiện gắn liền.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Sửa Điều 55 khoản 2 điểm d; tách phê duyệt nội bộ và thẩm quyền đại diện.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Cần xác định luật áp dụng giao dịch giữa doanh nghiệp; không nhập nguyên mẫu.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Nhầm bảo hành với bồi thường; chưa kiểm định thuế và Luật Thương mại.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Hiểu tiếng Anh không thay kiểm tra giấy nước ngoài; lãnh sự/miễn/dịch giữ review.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-05-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Phân công không tự tạo đại diện; đăng ký chữ ký mẫu không tạo thẩm quyền ký.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Luật hiện hành không còn cấm tuyệt đối người không trực tiếp sản xuất nhận đất lúa.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Địa hạt căn cứ nơi có bất động sản, không căn cứ hộ khẩu; so trùng.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Cập nhật cơ chế dữ liệu và giấy tờ hồ sơ.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Câu soạn thảo dùng luyện kỹ năng; rút lỗi nội dung nếu chuyển MCQ.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tách thanh toán/hoa lợi/quyền khởi kiện; không tước quyền bảo vệ tại Tòa án bằng thỏa thuận hòa giải.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-06-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Điều 69 khoản 2 LCC giao tổ chức lưu trữ cấp bản sao; ký bằng chân cần xét khả năng thực tế.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-ETHICS",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đề lịch sử 2019/2022; kiểm tra quy tắc đạo đức, TT06 hiện hành và BHXH trước chuyển thành câu 2026.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-01",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Điều 45 khoản 5 hiện không liệt kê thừa kế; nợ vẫn xử lý theo Điều 615 BLDS.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-02",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Đề đã xác định nhà riêng và vợ chết trước; không thêm dữ kiện ngược đề. Hướng dẫn/thỏa thuận có đối giá giữ review.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-03",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Tách lịch sử 2022 và hiện hành; phân biệt đồng sở hữu với người thuê; ngoại hối/thuế chưa hoàn tất.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-04",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Không chấm dứt đại diện chỉ từ Điều 22; kiểm tra Điều 140, chi phí và bồi thường; so IMP-T60-063.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-05",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Mua phần còn lại không tự biến phần thừa kế riêng thành tài sản chung; phân biệt phần thừa kế và phần mua.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    },
+    {
+      "sourceItemId": "SALE-07-06",
+      "catalog": "reports/sales-source-review.json",
+      "decision": "review",
+      "linkedVerifiedIds": [],
+      "originalAnswerCertified": false,
+      "assessmentFromCatalog": "Lời giải kết thúc bằng yêu cầu soạn thảo, không có bài mẫu tương ứng đầy đủ; không xem là đáp án hoàn chỉnh.",
+      "nextVerificationRequired": [],
+      "catalogDate": "2026-10-05"
+    }
+  ]
+}

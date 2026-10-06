@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-06",
+  "scope": "Toàn bộ 36 câu review đang lưu trong ngân hàng trước đợt này; không bao gồm việc chứng nhận trọn bộ câu lớn DOCX.",
+  "before": 36,
+  "promotedAfterRewrite": 26,
+  "archivedAsDuplicateCompetence": 10,
+  "newIds": 0,
+  "remainingStoredReview": 0,
+  "decisions": [
+    {
+      "id": "CC-009",
+      "file": "questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Cùng năng lực xác định ngoại lệ bảo mật; câu hiện có tình huống và nhiễu tốt hơn.",
+      "replacedBy": [
+        "VER26-020"
+      ]
+    },
+    {
+      "id": "CC-010",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:9:1:c"
+      ]
+    },
+    {
+      "id": "CC-011",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:9:1:h",
+        "CC:18:2:c"
+      ]
+    },
+    {
+      "id": "CC-012",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:9:1:k"
+      ]
+    },
+    {
+      "id": "CC-013",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:9:3:đ"
+      ]
+    },
+    {
+      "id": "CC-024",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:14:2"
+      ]
+    },
+    {
+      "id": "CC-025",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:14:4"
+      ]
+    },
+    {
+      "id": "CC-043",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "NEW:1:11:a",
+        "NEW:2"
+      ]
+    },
+    {
+      "id": "CC-046",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "NEW:1:11:b",
+        "NEW:2"
+      ]
+    },
+    {
+      "id": "CC-049",
+      "file": "questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Cùng cơ chế dữ liệu và điều kiện yêu cầu bổ sung từ 2027; không giữ thêm câu có/không.",
+      "replacedBy": [
+        "CC-047",
+        "CC-050"
+      ]
+    },
+    {
+      "id": "CC-054",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "NEW:1:13",
+        "NEW:2"
+      ]
+    },
+    {
+      "id": "CC-063",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "NEW:1:16",
+        "NEW:2"
+      ]
+    },
+    {
+      "id": "CC-064",
+      "file": "questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Gộp nhóm ngăn chặn/cảnh báo vào câu kiểm tra đầy đủ các nhóm dữ liệu, tránh tách thành câu có/không.",
+      "replacedBy": [
+        "CC-063"
+      ]
+    },
+    {
+      "id": "CC-073",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:47:1"
+      ]
+    },
+    {
+      "id": "CC-077",
+      "file": "questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Đã có tình huống loại trừ trách nhiệm trong lời chứng, không bổ sung paraphrase.",
+      "replacedBy": [
+        "VER26-012"
+      ]
+    },
+    {
+      "id": "CC-078",
+      "file": "questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Đã có tình huống phân biệt ủy quyền tài sản với tự lập di chúc.",
+      "replacedBy": [
+        "VER26-100"
+      ]
+    },
+    {
+      "id": "CC-096",
+      "file": "questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "NEW:3:1",
+        "NEW:2"
+      ]
+    },
+    {
+      "id": "SRC26-001",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:15:2"
+      ]
+    },
+    {
+      "id": "SRC26-002",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:29:3:c"
+      ]
+    },
+    {
+      "id": "SRC26-003",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:29:3:b"
+      ]
+    },
+    {
+      "id": "SRC26-004",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:16:1:a",
+        "TT:16:2:a"
+      ]
+    },
+    {
+      "id": "SRC26-005",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:16:1:b",
+        "TT:16:2:c"
+      ]
+    },
+    {
+      "id": "SRC26-006",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:5:1:h",
+        "TT:5:2"
+      ]
+    },
+    {
+      "id": "SRC26-007",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:44"
+      ]
+    },
+    {
+      "id": "SRC26-008",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:45:1",
+        "CC:45:2"
+      ]
+    },
+    {
+      "id": "SRC26-009",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Nội trú/ngoài trụ sở đã có câu rõ; chỉ thay tên người bệnh không tạo năng lực mới.",
+      "replacedBy": [
+        "VER26-007",
+        "CC-072"
+      ]
+    },
+    {
+      "id": "SRC26-010",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:48:1:c"
+      ]
+    },
+    {
+      "id": "SRC26-011",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:49:1"
+      ]
+    },
+    {
+      "id": "SRC26-012",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:49:2"
+      ]
+    },
+    {
+      "id": "SRC26-013",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Cùng quy tắc tổ chức công chứng thế chấp lần tiếp; câu tình huống hiện có tốt hơn.",
+      "replacedBy": [
+        "VER26-016"
+      ]
+    },
+    {
+      "id": "SRC26-014",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:57:1"
+      ]
+    },
+    {
+      "id": "SRC26-015",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Căn cứ đúng là Điều 18 khoản 2 điểm e và Điều 9 khoản 1 điểm a; trùng kiểm tra bảo mật với câu đã active.",
+      "replacedBy": [
+        "VER26-020"
+      ]
+    },
+    {
+      "id": "SRC26-017",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Danh mục giấy tờ và bước đối chiếu đã được hỏi qua tình huống bản sao/bản chính rõ hơn.",
+      "replacedBy": [
+        "FAM26-002"
+      ]
+    },
+    {
+      "id": "SRC26-018",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "CC:42:7"
+      ]
+    },
+    {
+      "id": "SRC26-019",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "archived",
+      "reason": "Nguyên tắc trụ sở/ngoại lệ đã có; không tạo thêm câu nhận biết lặp.",
+      "replacedBy": [
+        "VER26-007",
+        "CC-072"
+      ]
+    },
+    {
+      "id": "SRC26-020",
+      "file": "derived-questions.json",
+      "before": "review",
+      "after": "active",
+      "rewritten": true,
+      "referenceCodes": [
+        "TT:20:4",
+        "TT:29:4:a",
+        "TT:29:4:c"
+      ]
+    }
+  ]
+}

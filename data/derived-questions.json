@@ -2,12 +2,12 @@
   {
     "id": "SRC26-001",
     "part": 1,
-    "topic": "Hình thức kiểm tra",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Theo Thông tư 06/2025/TT-BTP, kiểm tra kết quả tập sự gồm những hình thức nào?"
+        "Tháng 10/2026: Đọc riêng khoản 2 Điều 15 Thông tư 06/2025/TT-BTP trong bản đã ban hành, không thay bằng phương án trong dự thảo sửa đổi, tổ hợp hình thức và thời gian nào được quy định?"
       ]
     },
     "answers": [
@@ -18,273 +18,358 @@
       },
       {
         "id": "B",
-        "text": "Hai bài trắc nghiệm, mỗi bài 60 phút",
+        "text": "Hai bài kiểm tra trắc nghiệm trên máy vi tính, mỗi bài 60 phút",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Một bài viết 120 phút và một bài vấn đáp",
+        "text": "Bài kiểm tra viết 60 phút và bài trắc nghiệm trên máy vi tính 180 phút",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Một bài trắc nghiệm 90 phút",
+        "text": "Bài kiểm tra viết 180 phút và bài vấn đáp 60 phút",
         "correct": false
       }
     ],
-    "explanation": "Điều 15 quy định nội dung kiểm tra và hai hình thức: bài viết 180 phút và bài trắc nghiệm trên máy vi tính 60 phút.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 15 khoản 2"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 15",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 2"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "SRC26-002",
     "part": 1,
-    "topic": "Xây dựng bộ câu hỏi",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Bộ câu hỏi phục vụ kiểm tra trắc nghiệm phải được xây dựng với số lượng tối thiểu như thế nào?"
+        "Tháng 10/2026: Theo khoản 3 Điều 29 Thông tư 06/2025/TT-BTP, giả sử số câu hỏi của một đề trắc nghiệm theo quy định là 60. Nhóm xây dựng đã có 150 câu đúng thiết kế phần mềm. Chỉ xét ngưỡng số câu được xây dựng, cần bổ sung tối thiểu bao nhiêu?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Gấp tối thiểu 03 lần số câu hỏi theo quy định",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Gấp 02 lần",
+        "text": "Không cần bổ sung vì 150 lớn hơn 60",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "30 câu để đạt ít nhất 180 câu",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Đúng bằng số câu của đề chính thức",
+        "text": "10 câu vì số lượng chỉ cần nhiều hơn đề 100 câu",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không có yêu cầu về số lượng",
+        "text": "60 câu vì chỉ được tính đủ khi có bốn lần số câu đề",
         "correct": false
       }
     ],
-    "explanation": "Thông tư yêu cầu đề trắc nghiệm bảo đảm số lượng câu hỏi được xây dựng gấp tối thiểu 03 lần số câu hỏi theo quy định.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm c khoản 3 Điều 29 yêu cầu số câu xây dựng tối thiểu gấp ba số câu theo quy định: 60 × 3 = 180; 150 còn thiếu 30. Đúng định dạng phần mềm là điều kiện khác, không thay ngưỡng số lượng. Dữ kiện 60 là giả định trong bài toán, không tuyên bố mọi đề thi chính thức đều có 60 câu.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm c"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 29",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 3",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "SRC26-003",
     "part": 1,
-    "topic": "Xây dựng đề kiểm tra",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Yêu cầu nào sau đây phù hợp với tiêu chuẩn đối với câu hỏi kiểm tra trắc nghiệm?"
+        "Tháng 10/2026: Một câu single trong đề kiểm tra có bốn phương án, nhưng đối chiếu luật cho thấy hai phương án đều đúng trong toàn bộ giả thiết của câu dẫn. Nhóm soạn đề muốn giữ câu bằng cách chỉ đánh dấu một phương án trên phần mềm. Chỉ xét tiêu chuẩn khoản 3 Điều 29 TT06/2025, đánh giá nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Khoa học, chính xác, chặt chẽ, rõ ràng, mạch lạc và có tính suy luận, phân tích",
-        "correct": true
+        "text": "Có thể giữ nếu phần mềm không cho thí sinh chọn hai phương án",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Càng dài càng tốt, không cần rõ nghĩa",
+        "text": "Có thể giữ nếu khóa được Ban Đề thi lựa chọn ngẫu nhiên trong hai đáp án đúng",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ cần có một đáp án bất kỳ",
-        "correct": false
+        "text": "Cần sửa hoặc loại câu; việc đặt một khóa trên phần mềm không khắc phục nội dung thiếu chính xác, chặt chẽ",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Ưu tiên câu hỏi mẹo hơn tính pháp lý",
+        "text": "Chỉ cần ghi một đáp án trong hướng dẫn chấm, không cần chỉnh câu dẫn",
         "correct": false
       }
     ],
-    "explanation": "Tiêu chuẩn này được quy định trực tiếp tại Điều 29.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm b khoản 3 Điều 29 đòi nội dung chính xác, chặt chẽ, rõ ràng và có tính suy luận, phân tích. Giới hạn thao tác chọn một đáp án không biến câu có hai đáp án hợp pháp thành câu có đáp án duy nhất. Cần bổ sung giả thiết hoặc thay phương án sao cho kiểm tra được một kết luận xác định, rồi phản biện lại khóa đáp án.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 29 khoản 3 điểm b"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 29",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 3",
+        "point": "Điểm b"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "SRC26-004",
     "part": 1,
-    "topic": "Đăng ký tham dự kiểm tra",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Người đã được công nhận hoàn thành tập sự có thuộc nhóm được đăng ký tham dự kiểm tra không?"
+        "Tháng 10/2026: A đã được công nhận hoàn thành tập sự nhưng quyết định công nhận sau đó bị hủy bỏ. A dùng bản sao quyết định cũ để đăng ký kiểm tra và nói chỉ cần đã từng hoàn thành tập sự. Chỉ xét tình trạng này, hướng xử lý đúng là gì?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có",
-        "correct": true
+        "text": "Được đăng ký vì việc hủy sau này không ảnh hưởng quyền từ quyết định cũ",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Không, phải tập sự lại",
+        "text": "Được đăng ký nếu chưa thi lần nào, dù quyết định đã bị hủy",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ khi có văn bản của Hội công chứng viên",
+        "text": "Được đăng ký khi tổ chức từng nhận tập sự xác nhận đã đủ số tháng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ khi đã hành nghề luật sư",
-        "correct": false
+        "text": "Không thuộc diện được đăng ký vì kết quả đã được công nhận nhưng bị hủy bỏ",
+        "correct": true
       }
     ],
-    "explanation": "Điều 16 liệt kê người đã được công nhận hoàn thành tập sự là nhóm được đăng ký tham dự kiểm tra.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm a khoản 1 Điều 16 ghi nhóm đã được công nhận hoàn thành, nhưng điểm a khoản 2 loại người có kết quả công nhận bị hủy. Phải đọc cả điều kiện được đăng ký và trường hợp không được đăng ký. Bản sao quyết định cũ hay số tháng tập sự không khôi phục hiệu lực kết quả đã bị hủy.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 16 khoản 1 điểm a"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 16",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 1",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 16",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 2",
+        "point": "Điểm a"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "SRC26-005",
     "part": 1,
-    "topic": "Đăng ký tham dự kiểm tra",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Người đã không đạt yêu cầu trong 03 kỳ kiểm tra nhưng chưa tập sự lại có được tiếp tục đăng ký kiểm tra không?"
+        "Tháng 10/2026: A đã dự và không đạt ba kỳ kiểm tra kết quả tập sự, các kỳ này không liên tiếp. A chưa tập sự lại, cho rằng chỉ trượt ba kỳ liên tiếp mới bị hạn chế đăng ký. Nhận định nào đúng theo Điều 16 TT06/2025?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không",
+        "text": "Chưa được đăng ký lại trong tình trạng đã trượt ba kỳ mà chưa tập sự lại; điều khoản không thêm điều kiện liên tiếp",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Có, không cần điều kiện gì",
+        "text": "Được đăng ký vì các kỳ không liên tiếp nên không tính đủ ba kỳ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có nếu nộp thêm lệ phí",
+        "text": "Chỉ trượt hai kỳ mới phải tập sự lại, sau ba kỳ thì được miễn điều kiện",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu Sở Tư pháp đồng ý bằng miệng",
+        "text": "Được đăng ký nếu đổi tỉnh nộp hồ sơ dù chưa tập sự lại",
         "correct": false
       }
     ],
-    "explanation": "Người đã tham dự nhưng không đạt yêu cầu trong 03 kỳ kiểm tra mà chưa tập sự lại thuộc nhóm không được đăng ký tham dự kiểm tra.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm b khoản 1 và điểm c khoản 2 Điều 16 dùng số ba kỳ không đạt và tình trạng chưa tập sự lại, không quy định ba kỳ phải liên tiếp. Không tự thêm điều kiện để né giới hạn; thay địa phương đăng ký không thay lịch sử dự thi. Câu không nói người này bị cấm đăng ký vĩnh viễn sau khi đã tập sự lại đúng quy định.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 16 khoản 2 điểm c"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 16",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 16",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 2",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "exception",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
     "id": "SRC26-006",
     "part": 2,
-    "topic": "Nội dung tập sự",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Nội dung tập sự bao gồm kỹ năng nào liên quan trực tiếp đến việc cập nhật pháp luật và cơ sở dữ liệu?"
+        "Tháng 10/2026: Người hướng dẫn tập sự chỉ giao người tập sự chép mẫu hợp đồng và lưu giấy, không hướng dẫn tra cứu luật mới hay khai thác cơ sở dữ liệu dù tổ chức có điều kiện thực hiện. Người hướng dẫn nói đây chỉ là kỹ năng tự học, không thuộc nội dung phải hướng dẫn. Đánh giá nào đúng theo Điều 5 TT06/2025?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Tra cứu, áp dụng văn bản quy phạm pháp luật; cập nhật, khai thác, sử dụng cơ sở dữ liệu công chứng và cơ sở dữ liệu khác",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Chỉ kỹ năng giao tiếp với khách hàng",
+        "text": "Các kỹ năng này hoàn toàn nằm ngoài nội dung Điều 5",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "Tra cứu, áp dụng văn bản và cập nhật, khai thác cơ sở dữ liệu là nội dung tập sự người hướng dẫn có trách nhiệm hướng dẫn",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Chỉ kỹ năng kế toán",
+        "text": "Chỉ kỹ năng kế toán của tổ chức là bắt buộc thay cho tra cứu luật",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ kỹ năng quảng cáo dịch vụ",
+        "text": "Chỉ cần hướng dẫn nội dung mẫu hợp đồng, không cần các nhóm kỹ năng khác của khoản 1",
         "correct": false
       }
     ],
-    "explanation": "Đây là một nhóm kỹ năng được quy định trong nội dung tập sự.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm h khoản 1 Điều 5 ghi tra cứu, áp dụng văn bản, cập nhật/khai thác cơ sở dữ liệu và ứng dụng CNTT. Khoản 2 giao người hướng dẫn trách nhiệm hướng dẫn các nội dung khoản 1. Chép mẫu có thể hỗ trợ một kỹ năng nhưng không thay tất cả nhóm còn lại, đặc biệt cập nhật quy định và kiểm tra dữ liệu.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 5 khoản 1"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 5",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 1",
+        "point": "Điểm h"
+      },
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 5",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 2"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "workflow",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -292,48 +377,56 @@
     "part": 2,
     "topic": "Thẩm quyền công chứng bất động sản",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Theo Luật Công chứng 2024, công chứng giao dịch về bất động sản về nguyên tắc thuộc phạm vi nào?"
+        "Tháng 10/2026, một hợp đồng chuyển nhượng duy nhất có đối tượng là hai thửa đất ở hai tỉnh khác nhau, thuộc hai chủ sở hữu đã đủ điều kiện bán. Người yêu cầu chọn văn phòng ở tỉnh của một thửa và đề nghị công chứng toàn bộ vì ít nhất một tài sản cùng địa bàn. Chỉ xét Điều 44, nhận định nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi tổ chức hành nghề công chứng đặt trụ sở",
-        "correct": true
+        "text": "Được công chứng toàn bộ nếu hai chủ sở hữu cùng ký tại trụ sở văn phòng",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Bất kỳ tỉnh nào do người yêu cầu lựa chọn",
+        "text": "Được công chứng toàn bộ nếu thửa cùng tỉnh có giá trị lớn hơn",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ tại nơi người bán cư trú",
-        "correct": false
+        "text": "Không được dựa vào một thửa cùng địa bàn để công chứng cả phần chuyển nhượng bất động sản ở tỉnh khác",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Chỉ tại nơi tài sản được đăng ký lần đầu trên toàn quốc",
+        "text": "Được công chứng toàn bộ nếu ghi việc đăng ký từng thửa sẽ do các cơ quan địa phương thực hiện",
         "correct": false
       }
     ],
-    "explanation": "Điều 44 quy định phạm vi theo tỉnh, thành phố nơi tổ chức hành nghề công chứng đặt trụ sở, đồng thời có các ngoại lệ được luật quy định.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiều 44 hiện hành giới hạn giao dịch về bất động sản theo tỉnh nơi tổ chức đặt trụ sở, trừ danh sách ngoại lệ. Hợp đồng chuyển nhượng trong câu không phải ngoại lệ. Sự có mặt, giá trị tài sản hay nơi đăng ký không mở rộng phạm vi địa bàn. Phải lựa chọn cấu trúc giao dịch và tổ chức có thẩm quyền phù hợp; không chứng nhận cả hợp đồng theo đề nghị này.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 44"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 44",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "workflow",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -341,48 +434,63 @@
     "part": 2,
     "topic": "Thời hạn công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Thời hạn công chứng thông thường theo Luật Công chứng 2024 là bao lâu?"
+        "Tháng 10/2026: Hồ sơ thông thường đã được tiếp nhận hợp lệ. Tổ chức muốn áp dụng mặc định thời hạn mười ngày làm việc cho mọi hồ sơ, kể cả không phức tạp, không có thời gian xác minh, niêm yết hoặc lý do cho thỏa thuận kéo dài. Đánh giá nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Không quá 02 ngày làm việc; giao dịch phức tạp có thể kéo dài nhưng không quá 10 ngày làm việc",
-        "correct": true
+        "text": "Mười ngày là thời hạn chung, hai ngày chỉ là mức khuyến khích",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Luôn đúng 07 ngày",
+        "text": "Mọi hồ sơ đều được kéo dài mười ngày nếu người yêu cầu không phản đối",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Luôn đúng 15 ngày",
+        "text": "Hai ngày là ngày theo lịch, còn mười ngày mới được tính theo ngày làm việc",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không có thời hạn",
-        "correct": false
+        "text": "Không được mặc định mười ngày cho mọi hồ sơ; quy tắc thông thường không quá hai ngày làm việc",
+        "correct": true
       }
     ],
-    "explanation": "Điều 45 quy định thời hạn công chứng và giới hạn đối với giao dịch có nội dung phức tạp.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 45 đặt trần thông thường hai ngày làm việc; hồ sơ phức tạp có thể kéo dài nhưng không quá mười ngày làm việc. Khoản 1 loại thời gian xác minh, giám định, niêm yết khỏi cách tính. Câu đã loại các tình huống đó và lý do thỏa thuận bằng văn bản, nên không lấy trần dành cho hồ sơ phức tạp làm thời hạn chung.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 45 khoản 2"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 45",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 45",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -390,7 +498,7 @@
     "part": 2,
     "topic": "Địa điểm công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Trường hợp nào sau đây là trường hợp Luật Công chứng cho phép công chứng ngoài trụ sở?"
@@ -431,7 +539,13 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-007",
+        "CC-072"
+      ],
+      "note": "Nội trú/ngoài trụ sở đã có câu rõ; chỉ thay tên người bệnh không tạo năng lực mới."
     }
   },
   {
@@ -439,48 +553,58 @@
     "part": 2,
     "topic": "Lời chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Lời chứng của công chứng viên đối với giao dịch phải thể hiện nội dung nào?"
+        "Tháng 10/2026: Khách hàng đề nghị lời chứng chỉ xác nhận chữ ký đúng, bỏ nội dung về tự nguyện, năng lực và tính hợp pháp vì cho rằng CCV không tham gia đàm phán. Theo Điều 48 khoản 1, hướng xử lý nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực hành vi dân sự phù hợp và mục đích, nội dung giao dịch không vi phạm pháp luật, không trái đạo đức xã hội",
+        "text": "Lời chứng giao dịch vẫn phải thể hiện các nội dung về tự nguyện, năng lực, mục đích và nội dung không trái pháp luật, đạo đức xã hội",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ cần ghi số tiền giao dịch",
+        "text": "Chỉ xác nhận chữ ký là đủ cho mọi giao dịch công chứng",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ cần ghi họ tên công chứng viên",
+        "text": "Chỉ cần nội dung về năng lực nếu người tham gia đã trên 18 tuổi",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không cần xác nhận về sự tự nguyện",
+        "text": "Được bỏ các nội dung này khi khách hàng đã tự soạn dự thảo",
         "correct": false
       }
     ],
-    "explanation": "Đây là một trong các nội dung bắt buộc của lời chứng theo Điều 48.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm c khoản 1 Điều 48 đặt các nội dung chứng nhận nêu trên trong lời chứng giao dịch. Việc không tham gia đàm phán hoặc khách tự soạn không biến công chứng giao dịch thành chứng thực chữ ký đơn thuần. CCV phải kiểm tra theo quy trình để có cơ sở chứng nhận, không ghi công thức hình thức mà bỏ việc đánh giá thực chất.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 48 khoản 1 điểm c"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 48",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -488,48 +612,57 @@
     "part": 2,
     "topic": "Người yêu cầu công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Người yêu cầu công chứng là tổ chức thực hiện việc yêu cầu công chứng thông qua ai?"
+        "Tháng 10/2026: Một tổ chức cử nhân viên đưa hồ sơ công chứng, nhưng người này không phải đại diện theo pháp luật và chưa có ủy quyền. Nhân viên muốn nhân danh tổ chức xác lập giao dịch vì được giao nhiệm vụ mang giấy tờ. Chỉ xét tư cách người yêu cầu cho tổ chức, kết luận nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Người đại diện theo pháp luật hoặc người đại diện theo ủy quyền của tổ chức",
-        "correct": true
-      },
-      {
-        "id": "B",
-        "text": "Bất kỳ nhân viên nào",
+        "text": "Bất kỳ nhân viên nào mang đủ giấy tờ đều được nhân danh tổ chức xác lập giao dịch",
         "correct": false
       },
       {
+        "id": "B",
+        "text": "Mang hồ sơ không tự tạo quyền đại diện; phải xác định đại diện theo pháp luật hoặc đại diện theo ủy quyền hợp lệ",
+        "correct": true
+      },
+      {
         "id": "C",
-        "text": "Chỉ kế toán trưởng",
+        "text": "Chỉ cần người này biết rõ nội dung giao dịch là có quyền đại diện",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ người đứng đầu cơ quan nhà nước",
+        "text": "Chỉ người đại diện theo pháp luật mới được yêu cầu; luật không cho tổ chức dùng đại diện theo ủy quyền",
         "correct": false
       }
     ],
-    "explanation": "Điều 49 quy định tổ chức yêu cầu công chứng thông qua người đại diện theo pháp luật hoặc đại diện theo ủy quyền.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 49 cho tổ chức thực hiện yêu cầu thông qua đại diện theo pháp luật hoặc theo ủy quyền. Phải phân biệt việc chuyển/nộp giấy tờ với quyền nhân danh tổ chức tham gia giao dịch. Không suy từ quan hệ lao động ra quyền đại diện, và cũng không loại đại diện theo ủy quyền mà luật thừa nhận.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 1"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 49",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -537,48 +670,57 @@
     "part": 2,
     "topic": "Người làm chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Trường hợp người yêu cầu công chứng không đọc được thì thủ tục công chứng phải có ai?"
+        "Tháng 10/2026: Người yêu cầu không đọc được, cần người làm chứng. Họ chỉ mời bên mua đang tham gia chính giao dịch đó làm chứng vì người này có đủ năng lực. Chỉ xét điều kiện làm chứng, hướng xử lý đúng là gì?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Người làm chứng",
-        "correct": true
+        "text": "Đủ năng lực là đủ, lợi ích trong giao dịch không ảnh hưởng tư cách làm chứng",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Hai công chứng viên",
+        "text": "Bên mua được làm chứng nếu bên bán đồng ý bằng văn bản",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Đại diện UBND cấp xã",
-        "correct": false
+        "text": "Không chọn bên mua làm chứng vì có quyền, lợi ích hoặc nghĩa vụ liên quan; phải có người làm chứng đáp ứng đầy đủ điều kiện",
+        "correct": true
       },
       {
         "id": "D",
-        "text": "Không cần thêm người nào",
+        "text": "CCV có thể miễn người làm chứng vì bên mua đã đọc dự thảo giúp",
         "correct": false
       }
     ],
-    "explanation": "Điều 49 quy định trường hợp người yêu cầu không đọc được hoặc thuộc trường hợp luật định thì việc công chứng phải có người làm chứng.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 49 vừa xác định trường hợp bắt buộc có người làm chứng vừa yêu cầu người đó không có quyền, lợi ích hoặc nghĩa vụ liên quan. Bên mua là chủ thể có lợi ích trực tiếp, nên đủ năng lực vẫn chưa đủ. Khi người yêu cầu không mời được thì CCV chỉ định; nếu không chỉ định được thì từ chối công chứng.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 49 khoản 2"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 49",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "workflow",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -586,7 +728,7 @@
     "part": 2,
     "topic": "Hợp đồng thế chấp",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Hợp đồng thế chấp bất động sản tiếp theo trong trường hợp bất động sản đã được thế chấp và hợp đồng thế chấp lần đầu đã được công chứng thì về nguyên tắc công chứng ở đâu?"
@@ -627,7 +769,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-016"
+      ],
+      "note": "Cùng quy tắc tổ chức công chứng thế chấp lần tiếp; câu tình huống hiện có tốt hơn."
     }
   },
   {
@@ -635,48 +782,57 @@
     "part": 2,
     "topic": "Hợp đồng ủy quyền",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Khi bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, pháp luật cho phép xử lý thế nào?"
+        "Tháng 10/2026, bên ủy quyền đã được chứng nhận đề nghị ủy quyền ở X; bên được ủy quyền được Y chứng nhận tiếp vào bản gốc để hoàn thành công chứng. Y nói chỉ gửi bản chụp cho X là đủ thủ tục lưu hồ sơ. Theo khoản 1 Điều 57 đang áp dụng, nhận định nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Hai bên có thể yêu cầu công chứng viên tại các tổ chức hành nghề công chứng do mình lựa chọn chứng nhận phần tương ứng của hợp đồng ủy quyền theo trình tự luật định",
-        "correct": true
+        "text": "Chỉ cần bản chụp không xác nhận vì X đã giữ hồ sơ đề nghị ban đầu",
+        "correct": false
       },
       {
         "id": "B",
-        "text": "Hợp đồng mặc nhiên vô hiệu",
+        "text": "Không phải gửi tài liệu nào sau khi Y công chứng tiếp",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ bên được ủy quyền được ký",
+        "text": "Bắt buộc gửi toàn bộ mọi bản gốc cho X và không giao bản nào cho người yêu cầu",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Phải xin phép Tòa án trước",
-        "correct": false
+        "text": "Phải gửi một bản gốc văn bản công chứng đó cho tổ chức bên ủy quyền đã công chứng để lưu hồ sơ",
+        "correct": true
       }
     ],
-    "explanation": "Điều 57 quy định cơ chế công chứng khi hai bên không thể cùng đến một tổ chức hành nghề công chứng.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 57 hiện hành ghi việc chứng nhận tiếp vào bản gốc và gửi một bản gốc văn bản công chứng hoàn tất cho tổ chức nơi bên ủy quyền công chứng để lưu. Không thay nghĩa vụ gửi bằng bản chụp theo ý chí của Y. Câu hỏi rõ tháng 10/2026; không lấy quy định sửa từ 01/01/2027 để giải thủ tục đang áp dụng.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 57 khoản 1"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 57",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "workflow",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -684,7 +840,7 @@
     "part": 1,
     "topic": "Bảo mật thông tin",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Công chứng viên có nghĩa vụ giữ bí mật về nội dung công chứng trong trường hợp nào?"
@@ -725,7 +881,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-020"
+      ],
+      "note": "Căn cứ đúng là Điều 18 khoản 2 điểm e và Điều 9 khoản 1 điểm a; trùng kiểm tra bảo mật với câu đã active."
     }
   },
   {
@@ -783,7 +944,7 @@
     "part": 2,
     "topic": "Hồ sơ công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Đối với giao dịch đã được soạn thảo sẵn, hồ sơ yêu cầu công chứng bao gồm dự thảo giao dịch và loại giấy tờ nào sau đây?"
@@ -824,7 +985,12 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "FAM26-002"
+      ],
+      "note": "Danh mục giấy tờ và bước đối chiếu đã được hỏi qua tình huống bản sao/bản chính rõ hơn."
     }
   },
   {
@@ -832,48 +998,57 @@
     "part": 2,
     "topic": "Ký văn bản công chứng",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Khi người yêu cầu công chứng đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào theo quy định chung?"
+        "Tháng 10/2026: Dự thảo giao dịch giấy ba trang đã được người yêu cầu đồng ý đầy đủ. Không áp dụng điểm chỉ hay ngoại lệ chữ ký mẫu. Người yêu cầu muốn chỉ ký trang cuối, cho rằng các trang đầu đã được đóng dấu giáp lai nên khỏi ký. Chỉ xét cách ký của người yêu cầu tại khoản 7 Điều 42, xử lý nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Ký vào từng trang và ký, ghi đủ họ tên vào trang cuối; việc điểm chỉ thực hiện theo quy định của Luật",
+        "text": "Vẫn phải ký từng trang và ký, ghi đủ họ tên vào trang cuối; giáp lai không thay chữ ký từng trang",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ ký trang cuối",
+        "text": "Chỉ trang cuối cần ký vì dấu giáp lai thay chữ ký tất cả trang đầu",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ cần ký trước mặt nhân viên văn thư",
+        "text": "Chỉ cần ký trang đầu để thể hiện đã đọc toàn bộ dự thảo",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không cần ký nếu đã nộp hồ sơ",
+        "text": "Có thể chọn ký từng trang hoặc đóng dấu giáp lai thay thế tùy thỏa thuận",
         "correct": false
       }
     ],
-    "explanation": "Điều 42 quy định trình tự ký và việc công chứng viên đối chiếu bản chính trước khi ký lời chứng.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 7 Điều 42 quy định người yêu cầu ký từng trang và ký, ghi đủ họ tên tại trang cuối (đóng dấu tổ chức nếu có). Dấu giáp lai phục vụ tính toàn vẹn văn bản không tự là phương thức thay chữ ký cá nhân. Câu đã loại điểm chỉ và ngoại lệ nên cần hoàn thiện đúng cách ký trước khi CCV ký lời chứng.",
     "legalBasis": [
-      "Luật Công chứng số 46/2024/QH15, Điều 42 khoản 7"
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 42",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 7"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
-      "note": "Nguồn căn cứ sửa về đúng Luật Công chứng, không dùng mã nguồn Thông tư tập sự."
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "understanding",
+    "questionForm": "workflow",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   },
   {
@@ -881,7 +1056,7 @@
     "part": 2,
     "topic": "Địa điểm công chứng",
     "type": "single",
-    "status": "review",
+    "status": "archived",
     "question": {
       "variants": [
         "Theo Luật Công chứng 2024, việc công chứng về nguyên tắc được thực hiện ở đâu?"
@@ -922,55 +1097,85 @@
     "difficulty": "recognition",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "duplicate_competence_after_review",
+      "reviewedAt": "2026-10-06",
+      "replacedBy": [
+        "VER26-007",
+        "CC-072"
+      ],
+      "note": "Nguyên tắc trụ sở/ngoại lệ đã có; không tạo thêm câu nhận biết lặp."
     }
   },
   {
     "id": "SRC26-020",
     "part": 1,
-    "topic": "Tổ chức đề kiểm tra",
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
-    "status": "review",
+    "status": "active",
     "question": {
       "variants": [
-        "Ai chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi và đáp án phục vụ kiểm tra trắc nghiệm trên máy vi tính?"
+        "Tháng 10/2026: Theo TT06/2025, Ban Thư ký và Ban Đề thi đều giúp việc Hội đồng kiểm tra. Đơn vị nào quyết định số lượng, cơ cấu câu hỏi và chỉ đạo đặt chuyên gia xây dựng Bộ câu hỏi trắc nghiệm theo khoản 4 Điều 20?"
       ]
     },
     "answers": [
       {
         "id": "A",
+        "text": "Ban Thư ký tự quyết định cơ cấu mà không theo chỉ đạo Hội đồng",
+        "correct": false
+      },
+      {
+        "id": "B",
         "text": "Hội đồng kiểm tra",
         "correct": true
       },
       {
-        "id": "B",
-        "text": "Thí sinh",
-        "correct": false
-      },
-      {
         "id": "C",
-        "text": "Tổ chức hành nghề công chứng bất kỳ",
+        "text": "Ban Đề thi là cơ quan duy nhất có thẩm quyền quyết định số lượng, cơ cấu Bộ câu hỏi",
         "correct": false
       },
       {
         "id": "D",
-        "text": "UBND cấp xã",
+        "text": "Sở Tư pháp nơi có nhiều thí sinh nhất quyết định thay Hội đồng",
         "correct": false
       }
     ],
-    "explanation": "Thông tư 06/2025/TT-BTP giao Hội đồng kiểm tra quyết định số lượng, cơ cấu câu hỏi và chỉ đạo việc đặt chuyên gia xây dựng Bộ câu hỏi.",
+    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 4 Điều 20 giao nhiệm vụ cho Hội đồng. Điểm a khoản 4 Điều 29 quy định Hội đồng chỉ đạo Ban Thư ký đặt hàng; điểm c quy định Ban Đề thi nhận Bộ câu hỏi và rà soát để xây dựng đề. Phân biệt vai trò quyết định/chỉ đạo, đặt hàng giúp việc và rà soát đề; không gộp tất cả thành thẩm quyền riêng của Ban Thư ký hay Ban Đề thi.",
     "legalBasis": [
-      "Thông tư 06/2025/TT-BTP, Điều 20 khoản 4"
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 20",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 4"
+      },
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 29",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 4",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Thông tư số 06/2025/TT-BTP",
+        "article": "Điều 29",
+        "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+        "clause": "Khoản 4",
+        "point": "Điểm c"
+      }
     ],
-    "lastVerified": null,
+    "lastVerified": "2026-10-06",
     "source": {
       "type": "official",
-      "id": "OFFICIAL-TT06-2025"
+      "id": "OFFICIAL-TT06-2025",
+      "supportingSourceIds": [
+        "OFFICIAL-TT06-2025"
+      ],
+      "note": "Đáp án và nhiễu viết lại sau rà soát; chứng cứ điều khoản tại reports/pending-review-legal-evidence-2026.json."
     },
-    "difficulty": "recognition",
+    "difficulty": "understanding",
     "questionForm": "direct",
     "audit": {
-      "reason": "editorial_and_effectiveness_review_pending"
+      "reason": "independently_rewritten_and_verified",
+      "reviewedAt": "2026-10-06"
     }
   }
 ]

@@ -32,6 +32,16 @@ function question(id, status='active', type='single') {
 }
 function start(h, mode, questions, count=questions.length) {h.state.bank=questions;h.state.mode=mode;h.startSession(1,count,15);}
 
+test('all repaired pending questions work in practice and mock; retired duplicates stay excluded',()=>{
+ const decisions=JSON.parse(fs.readFileSync('reports/pending-review-decisions-2026.json','utf8')).decisions;
+ const ids=new Set(decisions.map(d=>d.id));const bank=['questions','derived-questions'].flatMap(n=>JSON.parse(fs.readFileSync(`data/${n}.json`,'utf8'))).filter(q=>ids.has(q.id));
+ for(const part of [1,2]){const expected=bank.filter(q=>q.part===part&&q.status==='active').length;
+  const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,100,15);assert.equal(practice.state.questions.length,expected);
+  for(let i=0;i<expected;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}assert.equal(practice.state.score,expected);
+  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,15);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,expected);assert.ok(mock.state.questions.every(q=>q.status==='active'));
+ }
+});
+
 test('only active/verified questions enter either mode, unavailable part stays in setup',()=>{
   for(const mode of ['practice','mock']) {
     const h=harness();start(h,mode,['active','verified','review','needs_review','draft','archived'].map((s,i)=>question(String(i),s)));

@@ -44,7 +44,8 @@ def audit():
   if sid=='OFFICIAL-TT06-2025' and '06/2025/TT-BTP' not in basis:flags.append('source_basis_mismatch')
   if q['id'].startswith('EXP26-') and any(v.startswith(tuple(PREFIXES)) for v in variants):flags.append('mechanical_prefix_paraphrase')
   if q['id']=='SRC26-015' and 'Điều 12' in basis:flags.append('wrong_article_confidentiality_should_be_18_2_e')
-  if q['id']=='SRC26-005' and any('liên tiếp' in v for v in variants):flags.append('extra_condition_consecutive_not_in_article_16')
+  # A scenario may quote the learner's mistaken "consecutive" argument and reject it.
+  if q['id']=='SRC26-005' and any('liên tiếp' in v for v in variants) and 'không quy định ba kỳ phải liên tiếp' not in q.get('explanation',''):flags.append('extra_condition_consecutive_not_in_article_16')
   if flags:findings.append({'id':q['id'],'status':q['status'],'flags':flags})
  eligible=[q for q in bank if q.get('status') in ('active','verified')]
  near=[]
