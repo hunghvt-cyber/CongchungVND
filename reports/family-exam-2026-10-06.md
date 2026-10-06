@@ -1,0 +1,508 @@
+# Đề luyện tài sản vợ chồng và nghiệp vụ công chứng
+
+26 câu, một đáp án đúng mỗi câu; thời gian gợi ý 45 phút. Pháp luật áp dụng tháng 10/2026. Đây là đề luyện biên soạn từ chủ đề nguồn, không phải đề thi chính thức.
+
+## Câu hỏi
+
+### Câu 1
+
+Tháng 10/2026: Cha mẹ còn sống đã công chứng thỏa thuận tài sản. Con gái có quyền, nghĩa vụ liên quan được chứng minh, nhưng cha mẹ chưa đồng ý cấp bản sao cho con. Con yêu cầu văn phòng đang lưu bản gốc cấp ngay vì mình là người liên quan. Chỉ xét căn cứ yêu cầu này, xử lý nào đúng?
+
+A. Chưa đủ điều kiện cấp theo yêu cầu người liên quan; phải có sự đồng ý của người yêu cầu công chứng
+B. Chuyển đến bất kỳ văn phòng nào trong tỉnh, nơi lưu bản gốc không liên quan
+C. Cấp ngay vì chứng minh quyền liên quan đã thay thế mọi yêu cầu về sự đồng ý
+D. Từ chối vĩnh viễn vì người con không trực tiếp ký giao dịch
+
+### Câu 2
+
+Tháng 10/2026: Hồ sơ công chứng thỏa thuận tài sản có bản sao chứng thực căn cước và bản sao chứng thực giấy đăng ký kết hôn; không có bản chính hai giấy này. Tổ chức chưa khai thác được thông tin từ cơ sở dữ liệu. Giấy kết hôn thuộc nhóm giấy tờ liên quan tại điểm d khoản 1 Điều 42. Phân biệt nào đúng trước khi CCV ký lời chứng?
+
+A. Chỉ căn cước được dùng bản sao chứng thực, giấy kết hôn tuyệt đối không được
+B. Cả hai bản sao đều thay bản chính vì cùng có chứng thực
+C. Bản sao chứng thực giấy kết hôn có thể đáp ứng ngoại lệ tại điểm d; căn cước vẫn phải xuất trình bản chính để đối chiếu
+D. Cả hai đều bắt buộc có bản chính, không có ngoại lệ cho giấy kết hôn
+
+### Câu 3
+
+Tháng 10/2026: Hai vợ chồng cùng yêu cầu công chứng văn bản chấm dứt thỏa thuận chia tài sản đã công chứng ở Văn phòng A. A vẫn hoạt động bình thường và lưu hồ sơ. Văn phòng B cùng tỉnh thuận tiện hơn. Chỉ xét nơi công chứng việc chấm dứt, hướng dẫn nào đúng?
+
+A. B được làm vì mọi tổ chức cùng tỉnh có thể chấm dứt giao dịch đã công chứng
+B. Hướng dẫn thực hiện tại tổ chức đã công chứng là A, theo khoản 2 Điều 53
+C. B được làm vì luật chỉ hạn chế nơi sửa đổi, không hạn chế nơi chấm dứt
+D. B được làm nếu hai vợ chồng cùng cam kết không tranh chấp
+
+### Câu 4
+
+Tháng 10/2026: Việc chia tài sản trong thời kỳ hôn nhân của vợ chồng đã được quyết định bằng bản án có hiệu lực. Nay cả hai thỏa thuận chấm dứt hiệu lực việc chia và muốn chỉ công chứng thỏa thuận, không yêu cầu Tòa án công nhận. Điều kiện còn thiếu là gì?
+
+A. Thỏa thuận chấm dứt phải được Tòa án công nhận
+B. Chỉ cần cơ quan đăng ký tài sản đóng dấu lên bản án cũ
+C. Chỉ cần nộp thỏa thuận cho cơ quan đăng ký tài sản, không cần Tòa án công nhận
+D. Chỉ cần cả hai ký trước CCV là thay thế được việc công nhận của Tòa án
+
+### Câu 5
+
+Tháng 10/2026: Nhà đã chia cho vợ và đăng ký là tài sản riêng. Khi chấm dứt hiệu lực việc chia, hai người muốn thỏa thuận rõ nhà đó trở lại tài sản chung và sẵn sàng đáp ứng hình thức, thủ tục đăng ký tương ứng. Nhận định nào đúng về khả năng thỏa thuận?
+
+A. Đã đăng ký riêng thì luật cấm trở lại tài sản chung trong thời kỳ hôn nhân
+B. Chỉ cần xóa tên vợ trên giấy chứng nhận, không cần thỏa thuận hay hình thức luật định
+C. Chấm dứt hiệu lực chia tự đủ để nhà trở thành tài sản chung dù không có nội dung nhập lại
+D. Có thể thỏa thuận khác với việc giữ riêng; việc đã đăng ký riêng không tự cấm nhập nhà vào tài sản chung
+
+### Câu 6
+
+Tháng 10/2026: Hai vợ chồng lập văn bản chia một khoản tiền chung ngày 02/10, ghi rõ có hiệu lực ngày 15/10; với khoản tiền này không có yêu cầu hình thức đặc biệt. Ngày 06/10, chồng nói khoản tiền đã thành riêng chỉ vì văn bản đã được lập. Đánh giá nào đúng?
+
+A. Hiệu lực ngay khi một bên thông báo cho ngân hàng, dù chưa đến mốc ghi trong văn bản
+B. Chưa thể dựa vào ngày lập để kết luận đã có hiệu lực; phải theo mốc 15/10 được ghi trong thỏa thuận
+C. Hiệu lực luôn tính ngày lập, mọi mốc các bên ghi đều không được công nhận
+D. Hiệu lực tính từ ngày ngân hàng đổi tên sổ trong mọi trường hợp chia tiền
+
+### Câu 7
+
+Tháng 10/2026: Chồng có nghĩa vụ nộp thuế đã xác định. Hai vợ chồng thừa nhận chuyển toàn bộ tài sản chung sang vợ bằng việc chia tài sản nhằm làm chồng không còn tài sản thực hiện nghĩa vụ đó. Nhận định nào đúng?
+
+A. Hợp pháp nếu tài sản chưa bị kê biên, dù mục đích trốn thuế đã được xác định
+B. Chỉ vô hiệu khi vợ cũng là người trực tiếp bị ấn định thuế
+C. Việc chia nhằm trốn nghĩa vụ thuế thuộc trường hợp vô hiệu theo Điều 42
+D. Hợp pháp nếu vợ chồng tự nguyện vì nghĩa vụ thuế không phải nợ tư nhân
+
+### Câu 8
+
+Tháng 10/2026: Vợ chồng muốn chia hết nguồn tài sản đang bảo đảm việc chữa bệnh cho con 10 tuổi. Hồ sơ xác định cách chia này ảnh hưởng nghiêm trọng quyền, lợi ích hợp pháp của con; không có mục đích trốn nợ. Hai người nói chỉ chia trốn nợ mới bị vô hiệu. Đánh giá nào đúng?
+
+A. Điều 42 còn có căn cứ vô hiệu do ảnh hưởng nghiêm trọng quyền, lợi ích hợp pháp của con chưa thành niên
+B. Con không ký thỏa thuận nên quyền của con không phải yếu tố kiểm tra
+C. Không trốn nợ thì việc chia luôn hợp lệ, kể cả gây ảnh hưởng nghiêm trọng cho con
+D. Con chỉ có thể phản đối việc chia sau khi đủ 18 tuổi
+
+### Câu 9
+
+Tháng 10/2026: Vợ chồng còn đang kết hôn và vừa chia tài sản. Dự thảo ghi từ nay hai bên hết nghĩa vụ chăm sóc nhau và không phải cấp dưỡng cho nhau trong bất kỳ trường hợp nào. Nhận xét nào phù hợp?
+
+A. Chia tài sản không xóa nghĩa vụ vợ chồng; không thể ghi điều khoản miễn toàn bộ như đề nghị
+B. Điều khoản hợp lệ vì chia tài sản tương đương chấm dứt hôn nhân
+C. Điều khoản hợp lệ nếu cả hai không yêu cầu quyền lợi đối với con
+D. Điều khoản có thể miễn nghĩa vụ chăm sóc, chỉ phần miễn cấp dưỡng cần xem xét
+
+### Câu 10
+
+Tháng 10/2026: Vợ chồng quản lý tiền khác nhau nên muốn chia một phần tài sản chung; không kinh doanh, không có nghĩa vụ riêng cần trả và không thuộc Điều 42. Chồng cho rằng luật chỉ cho chia để kinh doanh hoặc trả nghĩa vụ riêng. Kết luận nào đúng?
+
+A. Không được chia một phần, phải chia toàn bộ hoặc không chia
+B. Luật cho thỏa thuận chia một phần hoặc toàn bộ, không giới hạn vào hai lý do chồng nêu
+C. Chỉ được chia nếu đã có bản án buộc trả nghĩa vụ riêng
+D. Chỉ được chia nếu chứng minh sẽ đăng ký doanh nghiệp
+
+### Câu 11
+
+Tháng 10/2026: Sau khi chia tài sản có hiệu lực, chồng dùng tài sản riêng khai thác và thu một khoản tiền. Hồ sơ không xác định được đó là thu nhập do lao động, sản xuất, kinh doanh hay hoa lợi, lợi tức từ tài sản riêng; không có thỏa thuận khác. Khoản tiền được xử lý theo quy tắc nào?
+
+A. Luôn riêng vì xuất phát từ tài sản riêng, không cần xác định loại thu nhập
+B. Thuộc sở hữu chung của vợ chồng theo khoản 3 Điều 14 Nghị định 126/2014
+C. Luôn riêng của người trực tiếp nhận tiền vì ngân hàng chỉ ghi một tên
+D. Khoản thu bắt buộc phân theo tỷ lệ đóng góp kinh doanh, không áp quy tắc sở hữu chung
+
+### Câu 12
+
+Tháng 10/2026: Vợ chồng theo chế độ luật định chỉ chia chiếc xe chung cho chồng, không có thỏa thuận khác. Sau đó vợ nhận lương từ công việc của mình trong thời kỳ hôn nhân. Chồng nói chia xe đã làm mọi khoản thu mới của mỗi người thành riêng. Đánh giá nào đúng?
+
+A. Chia xe không chấm dứt chế độ luật định; tiền lương mới vẫn là tài sản chung theo dữ kiện
+B. Chỉ lương chồng là chung còn lương vợ là riêng vì vợ không được chia xe
+C. Mọi thu nhập mới đều riêng ngay sau bất kỳ lần chia một tài sản nào
+D. Tiền lương chỉ trở thành chung khi chuyển vào tài khoản đứng tên cả hai người
+
+### Câu 13
+
+Tháng 10/2026: Chia nhà chung cho vợ, hai người ghi rõ tiền thuê phát sinh sau ngày chia có hiệu lực vẫn là tài sản chung. Chồng nay nói nhà riêng thì tiền thuê bắt buộc riêng, điều khoản trên không có giá trị. Nhận định nào đúng?
+
+A. Tiền thuê chung làm việc chia nhà tự mất hiệu lực
+B. Tiền thuê bắt buộc riêng trong mọi trường hợp, không được thỏa thuận khác
+C. Tiền thuê chung bắt buộc nhà trở lại sở hữu chung dù các bên không thỏa thuận nhập nhà
+D. Luật cho thỏa thuận khác; không thể phủ nhận điều khoản tiền thuê chung chỉ vì nhà đã chia riêng
+
+### Câu 14
+
+Tháng 10/2026: Vợ chồng muốn nhà vẫn thuộc tài sản chung nhưng cho chồng tự thực hiện giao dịch kinh doanh liên quan nhà theo thỏa thuận rõ. Dự thảo lại ghi chia toàn bộ nhà cho chồng làm tài sản riêng. Hướng xử lý nào phù hợp mục tiêu hai bên?
+
+A. Giữ nội dung chia riêng vì hai giao dịch luôn có cùng hậu quả sở hữu
+B. Ghi chồng thành chủ sở hữu duy nhất nhưng giải thích miệng rằng nhà vẫn chung
+C. Chỉ cần xác định nhà chung trong lời chứng, không cần sửa dự thảo chia riêng
+D. Làm rõ và chọn thỏa thuận đưa tài sản chung vào kinh doanh; không ghi chia riêng trái mục tiêu giữ chung
+
+### Câu 15
+
+Tháng 10/2026: Chồng có tài sản riêng và một nghĩa vụ liên quan trực tiếp tài sản đó. Vợ chồng thỏa thuận nhập tài sản vào khối chung; không có thỏa thuận khác về thực hiện nghĩa vụ và không có quy định pháp luật khác. Sau khi nhập, nguồn tài sản thực hiện nghĩa vụ liên quan được xác định thế nào?
+
+A. Thực hiện bằng tài sản chung theo khoản 3 Điều 46
+B. Nghĩa vụ tự chấm dứt vì tài sản không còn là riêng
+C. Luôn chỉ bằng tài sản riêng còn lại của chồng vì nghĩa vụ có trước việc nhập
+D. Chỉ thực hiện bằng phần tài sản riêng của vợ vì vợ đồng ý việc nhập
+
+### Câu 16
+
+Tháng 10/2026: Vợ chồng đã đăng ký kết hôn hai năm và chưa từng lập thỏa thuận chế độ tài sản trước khi kết hôn. Nay họ muốn công chứng lần đầu thỏa thuận theo Điều 47, ghi có hiệu lực hồi tố từ ngày cưới; họ viện dẫn quyền sửa đổi ở Điều 49. Đánh giá nào đúng?
+
+A. Không thể dùng quyền sửa đổi một thỏa thuận để bỏ điều kiện lập trước khi kết hôn đối với việc xác lập lần đầu
+B. Chỉ cần gọi văn bản là sửa đổi thì được coi đã có thỏa thuận trước kết hôn
+C. Có thể hồi tố nếu văn bản hiện tại có chữ ký cả hai và hai người chưa có tranh chấp
+D. Điều 49 cho phép xác lập lần đầu sau kết hôn và hồi tố trong mọi trường hợp
+
+### Câu 17
+
+Tháng 10/2026: Vợ chồng có chế độ theo thỏa thuận hợp lệ và đang kết hôn. Cả hai ký giấy tại nhà sửa nội dung tài sản, chưa công chứng hoặc chứng thực, rồi yêu cầu coi chế độ đã đổi từ ngày ký giấy. Điều gì cần xử lý?
+
+A. Chỉ được sửa đổi sau khi đã ly hôn, không được sửa trong thời kỳ hôn nhân
+B. Thỏa thuận sửa đổi phải được công chứng hoặc chứng thực; không lấy ngày ký giấy tại nhà làm mốc hiệu lực sửa đổi
+C. Chỉ cần công chứng chữ ký một bên vì văn bản gốc đã đủ hai người
+D. Đủ chữ ký của cả hai thì mọi thay đổi chế độ đã có hiệu lực từ ngày ký giấy
+
+### Câu 18
+
+Tháng 10/2026: Theo chế độ tài sản đang áp dụng, vợ chồng đã phát sinh nghĩa vụ với chủ nợ C. Sau đó hai người sửa chế độ để chồng không còn chịu nghĩa vụ đó. C không tham gia, không chấp thuận thay đổi quan hệ nghĩa vụ. Chỉ xét tác động của việc sửa chế độ đối với nghĩa vụ đã có, kết luận nào đúng?
+
+A. Nghĩa vụ cũ chỉ tồn tại nếu C đã dự họp khi hai vợ chồng sửa chế độ
+B. Nghĩa vụ phát sinh trước việc sửa chế độ có hiệu lực vẫn có giá trị; thỏa thuận riêng không tự giải phóng chồng đối với C
+C. Mọi nghĩa vụ với C tự chuyển sang vợ ngay khi sửa chế độ được công chứng
+D. C bắt buộc tuân theo mọi phân bổ nợ mới giữa hai vợ chồng
+
+### Câu 19
+
+Tháng 10/2026: Vợ chồng theo chế độ tài sản thỏa thuận có nội dung liên quan giao dịch dự định với C. Hai người muốn giữ bí mật toàn bộ thỏa thuận và không cung cấp cho C bất kỳ thông tin liên quan nào, cho rằng bí mật gia đình loại trừ nghĩa vụ thông tin. Hướng tư vấn đúng là gì?
+
+A. Có quyền giấu mọi thông tin liên quan và tự chuyển rủi ro sang C
+B. Phải cung cấp thông tin liên quan chế độ tài sản cho người thứ ba khi xác lập, thực hiện giao dịch
+C. Phải công khai toàn bộ thỏa thuận trên mạng thay cho thông tin cho C
+D. Chỉ cần công chứng viên biết, C không có quyền nhận thông tin liên quan
+
+### Câu 20
+
+Tháng 10/2026: Hai người chưa kết hôn yêu cầu công chứng thỏa thuận xác lập chế độ tài sản, có nội dung về một nhà ở tỉnh A. Văn phòng họ chọn ở tỉnh B; không phải yêu cầu công chứng mua bán hay chia nhà thông thường. Chỉ xét giới hạn địa bàn ở Điều 44, nhận định nào đúng?
+
+A. Ngoại lệ chỉ có khi thỏa thuận không nêu bất động sản nào
+B. Cứ có mô tả nhà cụ thể thì thỏa thuận này bắt buộc công chứng ở tỉnh A
+C. Chỉ được công chứng tại tỉnh nơi một trong hai người thường trú
+D. Thỏa thuận xác lập chế độ tài sản vợ chồng về bất động sản thuộc ngoại lệ địa bàn theo Điều 44
+
+### Câu 21
+
+Tháng 10/2026: Chế độ theo thỏa thuận hợp lệ xác định vợ chồng không có tài sản chung. Khi không đủ tài sản đáp ứng nhu cầu thiết yếu gia đình, chồng có khả năng kinh tế nhưng từ chối góp tài sản riêng chỉ vì đã chọn chế độ này. Kết luận nào đúng?
+
+A. Không có tài sản chung thì mọi nghĩa vụ đáp ứng nhu cầu gia đình tự hết
+B. Vợ chồng vẫn có nghĩa vụ đóng góp tài sản riêng theo khả năng kinh tế để đáp ứng nhu cầu thiết yếu
+C. Nghĩa vụ đóng góp chỉ tồn tại nếu được lặp lại trong thỏa thuận tài sản
+D. Chỉ vợ phải dùng tài sản riêng vì chồng không giữ khoản tiền chung
+
+### Câu 22
+
+Tháng 10/2026: Khi còn đầy đủ năng lực, vợ đã lựa chọn chị ruột đủ điều kiện làm người giám hộ bằng văn bản được công chứng. Nay vợ bị tuyên mất năng lực, cần được giám hộ và chị ruột đồng ý. Chồng đủ điều kiện nhưng nói mình luôn là giám hộ đương nhiên, bất kể lựa chọn hợp lệ trước đó. Đánh giá nào đúng?
+
+A. Phải xét người giám hộ đã được lựa chọn hợp lệ; cơ chế đương nhiên ở Điều 53 áp dụng khi không có người theo khoản 2 Điều 48
+B. Văn bản lựa chọn tự hết hiệu lực ngay khi người lựa chọn mất năng lực
+C. Người được lựa chọn chỉ được giám hộ nếu không có vợ hoặc chồng
+D. Chồng luôn ưu tiên tuyệt đối vì quan hệ hôn nhân loại bỏ mọi lựa chọn trước đó
+
+### Câu 23
+
+Tháng 10/2026: Chồng là giám hộ hợp lệ của vợ mất năng lực, muốn bán tài sản giá trị lớn của vợ vì lợi ích của vợ. Người giám sát giám hộ chưa đồng ý, nhưng người mua mời một người làm chứng và đề nghị thay sự đồng ý đó bằng chữ ký người làm chứng. Xử lý nào đúng?
+
+A. Chồng là giám hộ nên chỉ cần chứng minh quan hệ hôn nhân để miễn giám sát
+B. Người làm chứng luôn được thay người giám sát nếu không nhận thù lao
+C. Người mua cam kết bồi thường là đủ thay cả giám sát lẫn điều kiện đại diện
+D. Chữ ký người làm chứng không thay sự đồng ý của người giám sát giám hộ theo Điều 59
+
+### Câu 24
+
+Tháng 10/2026: Chồng là giám hộ của vợ mất năng lực. Chồng muốn nhân danh vợ tặng tài sản riêng của vợ cho cháu và đã xin người giám sát đồng ý. Chỉ xét quyền tặng cho tài sản của người được giám hộ, nhận định nào đúng?
+
+A. Được tặng nếu ghi tài sản riêng của vợ thành tài sản chung ngay trong hợp đồng
+B. Người giám hộ không được đem tài sản của người được giám hộ tặng cho người khác
+C. Được tặng nếu người giám sát đồng ý vì sự đồng ý loại bỏ mọi giới hạn
+D. Được tặng cho người thân dù không được tặng cho người ngoài gia đình
+
+### Câu 25
+
+Tháng 10/2026: Dự thảo chế độ tài sản trước hôn nhân có nội dung được xác định là vi phạm nghiêm trọng quyền được cấp dưỡng, quyền được thừa kế của con. Hai bên yêu cầu chứng nhận vì cả hai tự nguyện và cho rằng chỉ sai hình thức mới làm thỏa thuận vô hiệu. Nhận định nào đúng?
+
+A. Con không ký nên mọi điều khoản liên quan quyền của con đều không bị kiểm tra
+B. Chỉ cần công chứng thì Tòa án không được xem xét nội dung nữa
+C. Tự nguyện của vợ chồng loại bỏ mọi căn cứ vô hiệu về quyền của con
+D. Nội dung vi phạm nghiêm trọng các quyền này là căn cứ để Tòa án tuyên thỏa thuận vô hiệu theo Điều 50
+
+### Câu 26
+
+Tháng 10/2026: A và B bắt đầu chung sống năm 2006, chưa đăng ký kết hôn đến nay. Chỉ có giấy khai sinh con ghi tên cả hai và giấy cư trú, không có căn cứ công nhận hôn nhân đặc biệt khác. Họ muốn áp ngay Điều 38 để chia tài sản chung vợ chồng. Hướng xử lý đúng là gì?
+
+A. Có con chung thì tự phát sinh hôn nhân từ ngày sinh con và bắt buộc áp Điều 38
+B. Không mặc nhiên coi là vợ chồng; giải quyết tài sản theo thỏa thuận và quy định tại Điều 16 đối với việc chung sống không đăng ký
+C. Bắt buộc chia đôi như tài sản vợ chồng nếu đã chung sống đủ ba năm
+D. Giấy cư trú ghi cùng địa chỉ thay thế đăng ký kết hôn trong mọi trường hợp
+
+## Đáp án và bài giải
+
+| Câu | Đáp án |
+|---|---|
+| 1 | A |
+| 2 | C |
+| 3 | B |
+| 4 | A |
+| 5 | D |
+| 6 | B |
+| 7 | C |
+| 8 | A |
+| 9 | A |
+| 10 | B |
+| 11 | B |
+| 12 | A |
+| 13 | D |
+| 14 | D |
+| 15 | A |
+| 16 | A |
+| 17 | B |
+| 18 | B |
+| 19 | B |
+| 20 | D |
+| 21 | B |
+| 22 | A |
+| 23 | D |
+| 24 | B |
+| 25 | D |
+| 26 | B |
+
+### Giải câu 1
+
+Gợi ý làm bài: Kiểm tra đồng thời tư cách người xin, sự đồng ý và nơi lưu bản gốc.
+
+Điểm b khoản 1 Điều 69 công nhận người có quyền, nghĩa vụ liên quan là nhóm được yêu cầu cấp bản sao, nhưng đồng thời yêu cầu sự đồng ý của người yêu cầu công chứng. Câu đã xác định cha mẹ còn sống nên không dùng cơ chế đồng ý của người thừa kế. Khoản 2 xác định nơi cấp là tổ chức đang lưu bản gốc. Không kết luận mọi người con đều bị loại hoặc mọi người liên quan đều được cấp ngay.
+
+Căn cứ: Luật Công chứng số 46/2024/QH15, Điều 69, Khoản 1, Điểm b ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)); Luật Công chứng số 46/2024/QH15, Điều 69, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)).
+
+### Giải câu 2
+
+Gợi ý làm bài: Phân loại giấy theo điểm b, c, d trước khi áp dụng ngoại lệ bản sao.
+
+Khoản 7 Điều 42 yêu cầu đối chiếu bản chính các giấy tại điểm b, c, d nhưng cho phép bản sao từ sổ gốc hoặc bản sao chứng thực khi không có bản chính đối với nhóm điểm d. Ngoại lệ này không tự mở rộng sang giấy tùy thân tại điểm b. Câu loại trừ trường hợp đã khai thác được dữ liệu theo khoản 1 để tránh lẫn hai cơ chế.
+
+Căn cứ: Luật Công chứng số 46/2024/QH15, Điều 42, Khoản 1, Điểm b ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)); Luật Công chứng số 46/2024/QH15, Điều 42, Khoản 1, Điểm d ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)); Luật Công chứng số 46/2024/QH15, Điều 42, Khoản 7 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)).
+
+### Giải câu 3
+
+Gợi ý làm bài: Đọc đủ cả từ chấm dứt trong luật hiện hành, rồi kiểm tra tình trạng tổ chức cũ.
+
+Khoản 2 Điều 53 hiện hành bao gồm cả sửa đổi, bổ sung, chấm dứt và hủy bỏ giao dịch đã công chứng. Khi tổ chức cũ hoạt động bình thường, nơi đã công chứng thực hiện thủ tục này. Các cơ chế lưu hồ sơ khi tổ chức chấm dứt, chuyển đổi, giải thể hoặc tạm ngừng chưa phát sinh. Sự đồng ý của hai người không thay điều kiện về nơi thực hiện.
+
+Căn cứ: Luật Công chứng số 46/2024/QH15, Điều 53, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)).
+
+### Giải câu 4
+
+Gợi ý làm bài: Xác định việc chia ban đầu do vợ chồng thỏa thuận hay do bản án.
+
+Khoản 4 Điều 41 đặt điều kiện riêng cho việc chia ban đầu bằng bản án, quyết định có hiệu lực của Tòa án: thỏa thuận chấm dứt phải được Tòa án công nhận. Không được áp cách xử lý của một thỏa thuận chia thuần túy để bỏ qua điều kiện này. Câu không yêu cầu chấm dứt quan hệ hôn nhân và không coi đăng ký tài sản là việc công nhận của Tòa án.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 41, Khoản 4 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 5
+
+Gợi ý làm bài: Tìm cụm trừ trường hợp có thỏa thuận khác, rồi kiểm tra hình thức và đăng ký.
+
+Khoản 2 Điều 41 giữ tài sản đã chia là riêng nhưng có ngoại lệ khi vợ chồng thỏa thuận khác. Khoản 2 Điều 46 yêu cầu thỏa thuận nhập tài sản phải đáp ứng hình thức luật định đối với tài sản đó. Điểm quyết định là có thỏa thuận rõ và thực hiện đúng điều kiện, không phải việc đã đăng ký riêng khiến lựa chọn này bị cấm. Câu không đồng nhất văn bản công chứng với việc đã hoàn tất đăng ký.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 41, Khoản 2 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 46, Khoản 2 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 6
+
+Gợi ý làm bài: Kiểm tra văn bản có mốc hiệu lực riêng trước khi dùng mốc mặc định.
+
+Khoản 1 Điều 39 ưu tiên thời điểm vợ chồng thỏa thuận và ghi trong văn bản; ngày lập chỉ là mốc mặc định khi văn bản không xác định thời điểm. Câu giới hạn ở tài sản không có yêu cầu hình thức đặc biệt để không lẫn khoản 2. Việc chia trong thời kỳ hôn nhân không cần đợi ly hôn, và ngày đổi tên sổ không thay thế nội dung của quy tắc này.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 39, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 7
+
+Gợi ý làm bài: Đọc mục đích và loại nghĩa vụ, không chỉ kiểm tra có tranh chấp tư nhân hay không.
+
+Điểm đ khoản 2 Điều 42 nêu rõ chia tài sản nhằm trốn nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước là trường hợp vô hiệu. Câu đã xác định mục đích trốn tránh nên không phải suy đoán từ việc chia thông thường. Tự nguyện và chưa kê biên không loại bỏ điều cấm; không cần cả hai người cùng là chủ thể bị ấn định thuế.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 42, Khoản 2, Điểm đ ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 8
+
+Gợi ý làm bài: Kiểm tra cả lợi ích gia đình, con và mục đích trốn nghĩa vụ; không bỏ một nhóm căn cứ.
+
+Khoản 1 Điều 42 là căn cứ độc lập với các nghĩa vụ bị trốn tránh ở khoản 2. Bảo vệ con chưa thành niên không phụ thuộc con có là người ký hay không. Câu đã xác định mức ảnh hưởng nghiêm trọng; không suy rằng bất kỳ việc chia nào có con nhỏ cũng vô hiệu, hoặc chỉ cần cam kết chung của cha mẹ là đủ.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 42, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 9
+
+Gợi ý làm bài: Tách việc chia tài sản khỏi tình trạng hôn nhân và nghĩa vụ nhân thân.
+
+Khoản 1 Điều 19 đặt nghĩa vụ quan tâm, chăm sóc, giúp đỡ trong hôn nhân; khoản 1 Điều 107 quy định nghĩa vụ cấp dưỡng không thể thay bằng nghĩa vụ khác hoặc chuyển giao. Điều 115 còn đặt cơ chế cấp dưỡng sau ly hôn khi đủ điều kiện. Chia tài sản không phải căn cứ xóa mọi nghĩa vụ nhân thân. Không suy rằng vợ chồng đang sống chung luôn phải trả tiền cấp dưỡng cho nhau; câu kiểm tra điều khoản miễn toàn bộ trong mọi trường hợp.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 19, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 107, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 115 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 10
+
+Gợi ý làm bài: Kiểm tra điều luật hiện hành có thực sự liệt kê lý do như một điều kiện hay không.
+
+Khoản 1 Điều 38 thừa nhận quyền thỏa thuận chia một phần hoặc toàn bộ tài sản chung trong thời kỳ hôn nhân, trừ trường hợp Điều 42. Không có điều kiện chỉ nhằm kinh doanh hay thực hiện nghĩa vụ riêng. Câu đã loại trừ căn cứ vô hiệu để kiểm tra đúng sự nhầm lẫn về mục đích; hình thức và điều kiện riêng của từng tài sản vẫn phải được đáp ứng khi thực hiện.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 38, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 42 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 11
+
+Gợi ý làm bài: Phân loại khoản thu trước; nếu không phân định được, đọc quy tắc chuyên biệt.
+
+Khoản 3 Điều 14 xử lý riêng tình huống không phân định được thu nhập lao động, sản xuất, kinh doanh với hoa lợi, lợi tức từ tài sản riêng sau việc chia có hiệu lực: tài sản có được thuộc sở hữu chung. Không áp quy tắc mặc định về hoa lợi, lợi tức riêng khi chưa xác định được bản chất khoản thu. Tên người nhận tiền không giải quyết được điểm pháp lý này.
+
+Căn cứ: Nghị định số 126/2014/NĐ-CP, Điều 14, Khoản 3 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 12
+
+Gợi ý làm bài: Tách tài sản đã chia, lợi tức từ tài sản riêng và lương do lao động.
+
+Khoản 1 Điều 14 khẳng định chia tài sản trong thời kỳ hôn nhân không chấm dứt chế độ tài sản theo luật định. Khoản 1 Điều 33 xác định thu nhập do lao động trong thời kỳ hôn nhân là tài sản chung. Tiền lương mới trong câu khác với tài sản đã chia hoặc hoa lợi, lợi tức từ tài sản riêng. Không mở rộng hậu quả của việc chia chiếc xe sang toàn bộ thu nhập tương lai.
+
+Căn cứ: Nghị định số 126/2014/NĐ-CP, Điều 14, Khoản 1 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 33, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 13
+
+Gợi ý làm bài: Tìm ngoại lệ thỏa thuận khác và phân biệt tài sản gốc với lợi tức.
+
+Khoản 1 Điều 40 và khoản 2 Điều 14 xác định phần tài sản chia, hoa lợi, lợi tức theo quy tắc riêng khi không có thỏa thuận khác. Dữ kiện có thỏa thuận tiền thuê chung nên không áp mặc định riêng. Việc xác định tiền thuê chung không tự thay quyền sở hữu riêng đối với căn nhà và không tự chấm dứt việc chia.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 40, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Nghị định số 126/2014/NĐ-CP, Điều 14, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 14
+
+Gợi ý làm bài: Chọn loại giao dịch từ hậu quả sở hữu mong muốn trước khi soạn văn bản.
+
+Điều 36 điều chỉnh thỏa thuận bằng văn bản về đưa tài sản chung vào kinh doanh, trao quyền tự thực hiện giao dịch liên quan tài sản đó. Điều 38 và khoản 1 Điều 40 điều chỉnh việc chia, với hậu quả phần chia là riêng nếu không có thỏa thuận khác. Mục tiêu giữ chung khác nội dung chia riêng. Thỏa thuận giữa vợ chồng không tự thay thế hợp đồng góp vốn với doanh nghiệp hoặc thủ tục chuyển quyền cho doanh nghiệp.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 36 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 38, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 40, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 15
+
+Gợi ý làm bài: Phân biệt nguồn tài sản trả nghĩa vụ với việc thay người có nghĩa vụ.
+
+Khoản 3 Điều 46 quy định nghĩa vụ liên quan tài sản riêng đã nhập vào tài sản chung được thực hiện bằng tài sản chung, trừ thỏa thuận khác hoặc quy định khác. Câu đã loại trừ hai ngoại lệ. Đây là quy tắc về nguồn tài sản thực hiện, không phải tự xóa nghĩa vụ hoặc tự đổi người có nghĩa vụ trong quan hệ với chủ nợ.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 46, Khoản 3 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 16
+
+Gợi ý làm bài: Kiểm tra có thỏa thuận gốc hợp lệ trước khi áp dụng quyền sửa đổi.
+
+Điều 47 yêu cầu thỏa thuận xác lập chế độ tài sản được lập trước khi kết hôn với hình thức luật định. Điều 49 cho sửa đổi, bổ sung thỏa thuận, không biến một văn bản chưa từng tồn tại thành thỏa thuận trước hôn nhân. Câu phân biệt xác lập lần đầu với sửa đổi chế độ theo thỏa thuận đã được lựa chọn hợp lệ; không phủ nhận các giao dịch chia hay nhập tài sản khi đủ điều kiện riêng.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 47 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 49, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 17
+
+Gợi ý làm bài: Phân biệt mốc của việc sửa chế độ đang áp dụng với mốc xác lập ban đầu.
+
+Khoản 2 Điều 49 dẫn yêu cầu hình thức ở Điều 47; khoản 2 Điều 17 yêu cầu công chứng hoặc chứng thực thỏa thuận sửa đổi. Khoản 1 Điều 18 xác định hiệu lực sửa đổi từ ngày được công chứng hoặc chứng thực. Đây là thỏa thuận sửa đổi chế độ đã có, khác ngày xác lập chế độ lần đầu tại ngày đăng ký kết hôn.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 49, Khoản 2 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Nghị định số 126/2014/NĐ-CP, Điều 17, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)); Nghị định số 126/2014/NĐ-CP, Điều 18, Khoản 1 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 18
+
+Gợi ý làm bài: Tách phân bổ trách nhiệm nội bộ khỏi quyền của chủ nợ đã có trước.
+
+Khoản 2 Điều 18 giữ giá trị quyền, nghĩa vụ về tài sản phát sinh trước thời điểm sửa đổi có hiệu lực, trừ trường hợp các bên có thỏa thuận khác. Thỏa thuận nội bộ của vợ chồng không phải sự chấp thuận của chủ nợ đối với việc giải phóng một người có nghĩa vụ. Câu không bàn việc hoàn trả nội bộ giữa vợ chồng mà kiểm tra quan hệ với người thứ ba đã phát sinh.
+
+Căn cứ: Nghị định số 126/2014/NĐ-CP, Điều 18, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 19
+
+Gợi ý làm bài: Xác định thông tin nào liên quan giao dịch và đối tượng phải được cung cấp.
+
+Điều 16 yêu cầu vợ chồng cung cấp cho người thứ ba thông tin liên quan khi giao dịch dưới chế độ theo thỏa thuận; nếu vi phạm, người thứ ba được coi ngay tình và được bảo vệ theo BLDS. Nghĩa vụ này không đồng nghĩa công khai mọi chi tiết gia đình cho toàn xã hội. Cam kết giữ bí mật giữa hai người không loại trừ thông tin cần thiết cho đối tác.
+
+Căn cứ: Nghị định số 126/2014/NĐ-CP, Điều 16 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 20
+
+Gợi ý làm bài: Nhận diện đúng tên và bản chất giao dịch trước khi áp dụng giới hạn tỉnh.
+
+Điều 44 Luật Công chứng 2024 bổ sung rõ thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản trong nhóm ngoại lệ giới hạn địa bàn. Câu kiểm tra đúng loại thỏa thuận, không mở rộng ngoại lệ sang mọi việc chia, nhập hay bán bất động sản giữa vợ chồng. Đáp án chỉ kết luận về địa bàn; vẫn phải kiểm tra các điều kiện công chứng khác.
+
+Căn cứ: Luật Công chứng số 46/2024/QH15, Điều 44 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf)).
+
+### Giải câu 21
+
+Gợi ý làm bài: Tìm các quy định bắt buộc áp dụng cho cả hai chế độ tài sản.
+
+Khoản 2 Điều 28 áp dụng các Điều 29–32 không phụ thuộc chế độ được lựa chọn. Khoản 2 Điều 30 yêu cầu đóng góp tài sản riêng theo khả năng kinh tế khi không có hoặc không đủ tài sản chung đáp ứng nhu cầu thiết yếu. Khoản 2 Điều 15 cũng yêu cầu thỏa thuận phù hợp các điều này. Chế độ riêng không phải công cụ miễn nghĩa vụ bảo đảm nhu cầu gia đình.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 28, Khoản 2 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 30, Khoản 2 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Nghị định số 126/2014/NĐ-CP, Điều 15, Khoản 2 ([nguồn](https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf)).
+
+### Giải câu 22
+
+Gợi ý làm bài: Kiểm tra lựa chọn giám hộ hợp lệ trước khi áp dụng thứ tự đương nhiên.
+
+Khoản 2 Điều 48 cho lựa chọn người giám hộ bằng văn bản công chứng hoặc chứng thực, khi cần giám hộ và người đó đồng ý. Phần mở đầu Điều 53 chỉ dùng người giám hộ đương nhiên khi không có người theo khoản 2 Điều 48. Câu đã xác định lựa chọn hợp lệ, đủ điều kiện, có sự đồng ý; không thể chỉ xem giấy kết hôn rồi bỏ qua việc lựa chọn này.
+
+Căn cứ: Bộ luật Dân sự số 91/2015/QH13, Điều 48, Khoản 2 ([nguồn](https://vanban.chinhphu.vn/?pageid=27160&docid=183188)); Bộ luật Dân sự số 91/2015/QH13, Điều 53, Khoản 1 ([nguồn](https://vanban.chinhphu.vn/?pageid=27160&docid=183188)).
+
+### Giải câu 23
+
+Gợi ý làm bài: Lập riêng điều kiện đại diện, lợi ích người được giám hộ và sự giám sát.
+
+Khoản 1 Điều 59 yêu cầu sự đồng ý của người giám sát đối với giao dịch tài sản giá trị lớn của người được giám hộ. Người làm chứng và người giám sát có chức năng khác nhau; việc có người làm chứng không tự đáp ứng điều kiện kiểm soát giám hộ. Câu giả định chồng đã là giám hộ hợp lệ và mục đích vì lợi ích vợ, vẫn phải kiểm tra yêu cầu độc lập này.
+
+Căn cứ: Bộ luật Dân sự số 91/2015/QH13, Điều 59, Khoản 1 ([nguồn](https://vanban.chinhphu.vn/?pageid=27160&docid=183188)).
+
+### Giải câu 24
+
+Gợi ý làm bài: Kiểm tra giao dịch có thuộc điều cấm riêng trước khi xét sự đồng ý giám sát.
+
+Khoản 1 Điều 59 cấm người giám hộ đem tài sản người được giám hộ tặng cho người khác. Không áp điều kiện đồng ý của người giám sát đối với giao dịch tài sản giá trị lớn để suy rằng nó hợp thức hóa mọi loại giao dịch. Quan hệ thân thích của người nhận không tạo ngoại lệ cho việc tặng. Không được thay bản chất sở hữu bằng một ghi nhận không có căn cứ.
+
+Căn cứ: Bộ luật Dân sự số 91/2015/QH13, Điều 59, Khoản 1 ([nguồn](https://vanban.chinhphu.vn/?pageid=27160&docid=183188)).
+
+### Giải câu 25
+
+Gợi ý làm bài: Kiểm tra quyền của người ngoài hai bên ký, đặc biệt cấp dưỡng và thừa kế.
+
+Điểm c khoản 1 Điều 50 là căn cứ vô hiệu về nội dung, độc lập với điều kiện hiệu lực, hình thức và các nguyên tắc tại Điều 29–32. Câu đã xác định mức vi phạm nghiêm trọng, không coi mọi thỏa thuận phân chia khác nhau là vi phạm. Tự nguyện của hai bên không cho phép tước các quyền được pháp luật bảo vệ của thành viên gia đình; công chứng không loại trừ quyền xem xét của Tòa án.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 50, Khoản 1, Điểm c ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+### Giải câu 26
+
+Gợi ý làm bài: Xác định quan hệ hôn nhân được công nhận trước khi chọn cơ chế chia tài sản.
+
+Khoản 1 Điều 9 yêu cầu đăng ký kết hôn; khoản 1 Điều 14 xác định chung sống đủ điều kiện nhưng không đăng ký không làm phát sinh quyền, nghĩa vụ vợ chồng. Khoản 1 Điều 16 giải quyết tài sản theo thỏa thuận; nếu không thỏa thuận thì theo BLDS và pháp luật liên quan. Giấy khai sinh chứng minh quan hệ cha mẹ con không thay đăng ký kết hôn. Câu xác định thời điểm 2006 và loại trừ căn cứ đặc biệt để tránh áp nhầm hôn nhân thực tế lịch sử.
+
+Căn cứ: Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 9, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 14, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)); Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025), Điều 16, Khoản 1 ([nguồn](https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf)).
+
+## Kết quả nghiên cứu nguồn
+
+Đọc 529 đoạn, 3 bảng và 44 ảnh. Sáu cụm đề khác nhau chứa 41 câu lớn (kể cả mục đạo đức của đề 8); Đề 4 lặp Đề 1, ảnh 25–32 là bài giải Đề 5, bản chụp thứ hai của đề 8 không được tính thêm. Nhiều câu lớn có nhiều yêu cầu; chỉ những nhánh đã biên soạn, có đáp án duy nhất và căn cứ được kiểm tra mới đưa vào ngân hàng. Không công bố DOCX gốc.
+
+### Những điểm cần sửa so với bài giải cũ
+
+- Lời giải dùng Luật Công chứng 2014, Luật Đất đai 2013 và giấy tờ cũ.
+- Đề 4 trùng Đề 1 nhưng bài giải có kết luận khác về nơi chấm dứt.
+- Một số lời giải phủ nhận nhập lại tài sản đã đăng ký riêng; cần đọc ngoại lệ thỏa thuận khác tại Điều 41.
+- Không phân biệt bản sao nhóm điểm d với giấy tùy thân, giấy tài sản theo Điều 42 hiện hành.
+- Không chỉ vì là con mà được cấp bản sao; không chỉ vì là người liên quan mà được bỏ điều kiện đồng ý.
+- Lời giải chế độ tài sản có nội dung mâu thuẫn về thời điểm, lương, nhà được tặng và thẩm quyền.
+- Nhầm Nghị định 126/2015 thành văn bản thật 126/2014; phần bí mật phải xét Điều 16.
+- Thỏa thuận đưa tài sản chung vào kinh doanh khác hợp đồng góp vốn với doanh nghiệp.
+- Mẫu giải nhầm tên, năm văn bản và tên loại giao dịch.
+
+### Phạm vi và kiểm soát chất lượng
+
+26 câu mới, 0 câu cũ bị xóa hoặc đổi đáp án trong đợt này. Phân bố: {'advanced': 13, 'application': 10, 'understanding': 3}; chủ đề: {'Quy trình, thủ tục và nghiệp vụ công chứng': 4, 'Hôn nhân và gia đình – tài sản vợ chồng': 22}. Các câu về cùng chế định kiểm tra nhánh khác nhau: thời điểm, hình thức, ngoại lệ, quyền người thứ ba, lợi ích con, nguồn nghĩa vụ; không nhân bản một câu dẫn bằng tên người khác.
+
+Rà trùng với ngân hàng: không viết lại các câu mặc định giữ riêng sau chấm dứt (VER26-034), điều kiện nhập tài sản (VER26-035), hình thức và ngày xác lập chế độ ban đầu (VER26-036/037), giấy chứng nhận một tên, tài sản được tặng riêng, lương thông thường và điều kiện giám sát thuần nhận biết (IMP-T60-031). Câu mới về giám sát kiểm tra việc thay người giám sát bằng người làm chứng, và các nhánh lựa chọn giám hộ/tặng cho tài sản.
+
+Trước: 884 câu lưu trữ, 342 active. Sau: 910 câu lưu trữ, 368 active, 36 review, 506 archived. App đọc 410 bản ghi trong 7 file; 42 bản ghi không đủ điều kiện vẫn không vào ôn tập hoặc thi thử. 500 câu mở rộng cơ học tiếp tục archived. Giữ nguyên khóa lưu lịch sử/progress và ID câu cũ.
+
+Mục tiêu 400 câu và ma trận toàn ngân hàng vẫn cần tiếp tục hoàn thiện; đợt chuyên đề này không có nghĩa đã kiểm định toàn bộ các nhánh trong tài liệu hay đạt cân bằng tổng thể. Những nhánh chưa xác minh được ghi review ở báo cáo nguồn, không tạo bản ghi active để giữ đủ số.
+
+### Kiểm tra thực hiện
+
+35/35 kiểm thử đạt: tải đủ 7 file, chấm toàn bộ 26 câu mới trong ôn tập/thi thử, giải thích cả khi trả lời sai, loại trạng thái chưa kiểm định và bảo toàn bản lưu kết quả. JSON hợp lệ; audit toàn bộ 910 bản ghi không có ID trùng và không gắn cờ lỗi cho câu FAM26. Không có cặp gần trùng chứa FAM26 theo ngưỡng so khớp 0,78; kiểm tra này bổ trợ cho rà nội dung, không chứng minh pháp luật.

@@ -1,0 +1,647 @@
+{
+  "date": "2026-10-06",
+  "scope": "Xác minh 26 câu biên soạn; không chứng nhận toàn bộ đáp án nguồn",
+  "documents": [
+    {
+      "sourceId": "OFFICIAL-HNGD-HN25",
+      "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+      "pdfSha256": [
+        {
+          "file": "HNGD-HN-0.pdf",
+          "sha256": "e10798da4118e72e3daf13bfb128f5972cc15a7ca16d4baf09fdbf3106b93955"
+        }
+      ],
+      "extraction": "PDF chính thức; ND126 OCR đối chiếu trang in 5–6, BLDS đối chiếu trang in 15, 16 và 18. HNGĐ dùng VBHN năm 2025; Luật Công chứng dùng quy định áp dụng tháng 10/2026."
+    },
+    {
+      "sourceId": "OFFICIAL-CC24",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "pdfSha256": [
+        {
+          "file": "CC-0.pdf",
+          "sha256": "04ab735f08c2de548db0ff994002d3ad128a707ec8338b67886b42a77f7070b8"
+        }
+      ],
+      "extraction": "PDF chính thức; ND126 OCR đối chiếu trang in 5–6, BLDS đối chiếu trang in 15, 16 và 18. HNGĐ dùng VBHN năm 2025; Luật Công chứng dùng quy định áp dụng tháng 10/2026."
+    },
+    {
+      "sourceId": "OFFICIAL-BLDS15",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "pdfSha256": [
+        {
+          "file": "BLDS-0.pdf",
+          "sha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205"
+        },
+        {
+          "file": "BLDS-1.pdf",
+          "sha256": "dd2c45f8dee4e0d7b0416786b236e9588092863edcef64db07ef2b74954bba50"
+        }
+      ],
+      "extraction": "PDF chính thức; ND126 OCR đối chiếu trang in 5–6, BLDS đối chiếu trang in 15, 16 và 18. HNGĐ dùng VBHN năm 2025; Luật Công chứng dùng quy định áp dụng tháng 10/2026."
+    },
+    {
+      "sourceId": "OFFICIAL-ND126-2014",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+      "pdfSha256": [
+        {
+          "file": "ND126-0.pdf",
+          "sha256": "0011d2b58da62d01eaae0319f8279cfa16ae69902b10ea4f88df5033f0b6eaa3"
+        }
+      ],
+      "extraction": "PDF chính thức; ND126 OCR đối chiếu trang in 5–6, BLDS đối chiếu trang in 15, 16 và 18. HNGĐ dùng VBHN năm 2025; Luật Công chứng dùng quy định áp dụng tháng 10/2026."
+    }
+  ],
+  "effectivityNotes": [
+    {
+      "document": "Nghị định 126/2014/NĐ-CP",
+      "status": "Hết hiệu lực một phần; các Điều 14–18 sử dụng trong đợt này không thuộc phần bãi bỏ bởi Điều 45 khoản 2 điểm đ NĐ123/2015.",
+      "officialStatusUrl": "https://vbpl.vn/TW/Pages/vbpq-thuoctinh.aspx?ItemID=47412",
+      "repealUrl": "https://vbpl.vn/FileData/TW/Lists/vbpq/Attachments/92897/VanBanGoc_123_2015_N%C4%90-CP.pdf"
+    },
+    {
+      "document": "Luật Công chứng",
+      "note": "Không áp dụng các sửa đổi có hiệu lực từ 01/01/2027 vào câu tháng 10/2026."
+    }
+  ],
+  "questions": [
+    {
+      "id": "FAM26-001",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 69. Cấp bản sao văn bản công chứng\n     1. Việc cấp bản sao văn bản công chứng được thực hiện trong các trường hợp sau đây:\n     a) Theo yêu cầu của cơ quan nhà nước có thẩm quyền trong các trường hợp\nquy định tại khoản 3 Điều 68 của Luật này;\n     b) Theo yêu cầu của các bên tham gia giao dịch, người có quyền, nghĩa vụ liên\nquan đến giao dịch đã được công chứng.\n     Việc cấp bản sao văn bản công chứng theo yêu cầu của người có quyền, nghĩa\nvụ liên quan đến giao dịch đã được công chứng phải được người yêu cầu công\nchứng đồng ý; trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị\nTòa án tuyên bố là đã chết hoặc pháp nhân chấm dứt hoạt động thì phải được sự\nđồng ý của người thừa kế đối với cá nhân, sự đồng ý của cá nhân, tổ chức kế thừa\nquyền, nghĩa vụ của pháp nhân đó.\n     2. Việc cấp bản sao văn bản công chứng do tổ chức hành nghề công chứng\nđang lưu trữ bản gốc văn bản công chứng đó thực hiện.\n     3. Việc cấp bản sao văn bản công chứng đang được lưu trữ tại tổ chức hành\nnghề công chứng tạm ngừng hoạt động được thực hiện theo quy định tại khoản 4\nĐiều 32 của Luật này.\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                        71\n\n                          Chương VII\n        PHÍ CÔNG CHỨNG; PHÍ, GIÁ DỊCH VỤ THEO YÊU CẦU\n       LIÊN QUAN ĐẾN VIỆC CÔNG CHỨNG VÀ CHI PHÍ KHÁC"
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 69. Cấp bản sao văn bản công chứng\n     1. Việc cấp bản sao văn bản công chứng được thực hiện trong các trường hợp sau đây:\n     a) Theo yêu cầu của cơ quan nhà nước có thẩm quyền trong các trường hợp\nquy định tại khoản 3 Điều 68 của Luật này;\n     b) Theo yêu cầu của các bên tham gia giao dịch, người có quyền, nghĩa vụ liên\nquan đến giao dịch đã được công chứng.\n     Việc cấp bản sao văn bản công chứng theo yêu cầu của người có quyền, nghĩa\nvụ liên quan đến giao dịch đã được công chứng phải được người yêu cầu công\nchứng đồng ý; trường hợp người yêu cầu công chứng là cá nhân đã chết hoặc bị\nTòa án tuyên bố là đã chết hoặc pháp nhân chấm dứt hoạt động thì phải được sự\nđồng ý của người thừa kế đối với cá nhân, sự đồng ý của cá nhân, tổ chức kế thừa\nquyền, nghĩa vụ của pháp nhân đó.\n     2. Việc cấp bản sao văn bản công chứng do tổ chức hành nghề công chứng\nđang lưu trữ bản gốc văn bản công chứng đó thực hiện.\n     3. Việc cấp bản sao văn bản công chứng đang được lưu trữ tại tổ chức hành\nnghề công chứng tạm ngừng hoạt động được thực hiện theo quy định tại khoản 4\nĐiều 32 của Luật này.\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                        71\n\n                          Chương VII\n        PHÍ CÔNG CHỨNG; PHÍ, GIÁ DỊCH VỤ THEO YÊU CẦU\n       LIÊN QUAN ĐẾN VIỆC CÔNG CHỨNG VÀ CHI PHÍ KHÁC"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-002",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 42",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n    1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực tuyến,\ntrực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng. Hồ sơ\nyêu cầu công chứng bao gồm các giấy tờ sau đây:\n    a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn cước\nhoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu công\nchứng theo quy định của pháp luật;\n    c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án,\nquyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền\nvề việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản\nmà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường\nhợp giao dịch liên quan đến tài sản đó;\n    d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n    Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy định\ncủa pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n    2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng, nếu\nhồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường hợp\ntừ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ\nlý do cho người yêu cầu công chứng.\n\f56               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng hiểu\nrõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc\ntham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối tượng\ncủa giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người yêu cầu\ncông chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu giám định\ntheo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu công chứng\nkhông làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc đã xác minh,\ngiám định nhưng vẫn không làm rõ được thì công chứng viên từ chối công chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch có\nđiều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch không\nphù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho người yêu\ncầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng không sửa\nchữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao dịch\nthì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng dấu của\ntổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì thực hiện\ntheo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người yêu cầu\ncông chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b, c và d\nkhoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang của giao\ndịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người yêu cầu\ncông chứng không có bản chính tại thời điểm công chứng viên ký vào lời chứng thì\ncó thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng và\nlưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định khác\ncủa pháp luật có liên quan."
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 42",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm d"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n    1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực tuyến,\ntrực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng. Hồ sơ\nyêu cầu công chứng bao gồm các giấy tờ sau đây:\n    a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn cước\nhoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu công\nchứng theo quy định của pháp luật;\n    c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án,\nquyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền\nvề việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản\nmà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường\nhợp giao dịch liên quan đến tài sản đó;\n    d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n    Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy định\ncủa pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n    2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng, nếu\nhồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường hợp\ntừ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ\nlý do cho người yêu cầu công chứng.\n\f56               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng hiểu\nrõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc\ntham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối tượng\ncủa giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người yêu cầu\ncông chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu giám định\ntheo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu công chứng\nkhông làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc đã xác minh,\ngiám định nhưng vẫn không làm rõ được thì công chứng viên từ chối công chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch có\nđiều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch không\nphù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho người yêu\ncầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng không sửa\nchữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao dịch\nthì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng dấu của\ntổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì thực hiện\ntheo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người yêu cầu\ncông chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b, c và d\nkhoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang của giao\ndịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người yêu cầu\ncông chứng không có bản chính tại thời điểm công chứng viên ký vào lời chứng thì\ncó thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng và\nlưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định khác\ncủa pháp luật có liên quan."
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 42",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 7"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n    1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực tuyến,\ntrực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng. Hồ sơ\nyêu cầu công chứng bao gồm các giấy tờ sau đây:\n    a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn cước\nhoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu công\nchứng theo quy định của pháp luật;\n    c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án,\nquyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm quyền\nvề việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản\nmà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường\nhợp giao dịch liên quan đến tài sản đó;\n    d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n    Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy định\ncủa pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n    2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng, nếu\nhồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường hợp\ntừ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có nêu rõ\nlý do cho người yêu cầu công chứng.\n\f56               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng hiểu\nrõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý của việc\ntham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối tượng\ncủa giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người yêu cầu\ncông chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu giám định\ntheo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu công chứng\nkhông làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc đã xác minh,\ngiám định nhưng vẫn không làm rõ được thì công chứng viên từ chối công chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch có\nđiều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch không\nphù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho người yêu\ncầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng không sửa\nchữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao dịch\nthì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng dấu của\ntổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì thực hiện\ntheo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người yêu cầu\ncông chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b, c và d\nkhoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang của giao\ndịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người yêu cầu\ncông chứng không có bản chính tại thời điểm công chứng viên ký vào lời chứng thì\ncó thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng và\nlưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định khác\ncủa pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-003",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 53. Công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch\n    1. Việc công chứng văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng\nđã được công chứng chỉ được thực hiện khi có sự thỏa thuận hoặc cam kết bằng\nvăn bản của tất cả những người đã ký kết hợp đồng đó, trừ trường hợp pháp luật có\nquy định khác.\n    Việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ văn bản là hành\nvi pháp lý đơn phương được thực hiện khi có yêu cầu của người đã ký kết văn bản\nđó, trừ trường hợp pháp luật có quy định khác.\n    2. Trừ trường hợp quy định tại khoản 4 Điều 58 của Luật này, việc công chứng\nvăn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng do\ncông chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công\nchứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện\nviệc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng\n\f62                CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\nviên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện.\nTrường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi,\nbổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định\ntại khoản 4 Điều 32 của Luật này.\n   3. Thủ tục công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã\nđược công chứng được thực hiện như thủ tục công chứng giao dịch quy định tại\nChương này."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-004",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 41",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 4"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ\nhôn nhân\n    1. Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa\nthuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận\nđược thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.\n    2. Kể từ ngày thỏa thuận của vợ chồng quy định tại khoản 1 Điều này có\nhiệu lực thì việc xác định tài sản chung, tài sản riêng của vợ chồng được thực\nhiện theo quy định tại Điều 33 và Điều 43 của Luật này. Phần tài sản mà vợ,\nchồng đã được chia vẫn thuộc sở hữu riêng của vợ, chồng, trừ trường hợp vợ\nchồng có thỏa thuận khác.\n    3. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của\nviệc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.\n    4. Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực\nhiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu\nlực của việc chia tài sản chung phải được Tòa án công nhận."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-005",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 41",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ\nhôn nhân\n    1. Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa\nthuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận\nđược thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.\n    2. Kể từ ngày thỏa thuận của vợ chồng quy định tại khoản 1 Điều này có\nhiệu lực thì việc xác định tài sản chung, tài sản riêng của vợ chồng được thực\nhiện theo quy định tại Điều 33 và Điều 43 của Luật này. Phần tài sản mà vợ,\nchồng đã được chia vẫn thuộc sở hữu riêng của vợ, chồng, trừ trường hợp vợ\nchồng có thỏa thuận khác.\n    3. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của\nviệc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.\n    4. Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực\nhiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu\nlực của việc chia tài sản chung phải được Tòa án công nhận."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 46",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 46. Nhập tài sản riêng của vợ, chồng vào tài sản chung\n    1. Việc nhập tài sản riêng của vợ, chồng vào tài sản chung được thực hiện theo\nthỏa thuận của vợ chồng.\n    2. Tài sản được nhập vào tài sản chung mà theo quy định của pháp luật, giao\ndịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì thỏa thuận phải\nbảo đảm hình thức đó.\n\f                   CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                           68\n\n     3. Nghĩa vụ liên quan đến tài sản riêng đã nhập vào tài sản chung được thực\nhiện bằng tài sản chung, trừ trường hợp vợ chồng có thỏa thuận khác hoặc pháp\nluật có quy định khác."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-006",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 39",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 39. Thời điểm có hiệu lực của việc chia tài sản chung trong thời kỳ\nhôn nhân\n    1. Thời điểm có hiệu lực của việc chia tài sản chung của vợ chồng là thời điểm\ndo vợ chồng thỏa thuận và được ghi trong văn bản; nếu trong văn bản không xác\nđịnh thời điểm có hiệu lực thì thời điểm có hiệu lực được tính từ ngày lập văn bản.\n    2. Trong trường hợp tài sản được chia mà theo quy định của pháp luật, giao\ndịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì việc chia tài sản\nchung của vợ chồng có hiệu lực từ thời điểm việc thỏa thuận tuân thủ hình thức mà\npháp luật quy định.\n    3. Trong trường hợp Tòa án chia tài sản chung của vợ chồng thì việc chia tài\nsản chung có hiệu lực kể từ ngày bản án, quyết định của Tòa án có hiệu lực\npháp luật.\n    4. Quyền, nghĩa vụ về tài sản giữa vợ, chồng với người thứ ba phát sinh trước\nthời điểm việc chia tài sản chung có hiệu lực vẫn có giá trị pháp lý, trừ trường hợp\ncác bên có thỏa thuận khác."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-007",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 42",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm đ"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu\n    Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong\ncác trường hợp sau đây:\n    1. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp\ncủa con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc\nkhông có khả năng lao động và không có tài sản để tự nuôi mình;\n    2. Nhằm trốn tránh thực hiện các nghĩa vụ sau đây:\n    a) Nghĩa vụ nuôi dưỡng, cấp dưỡng;\n    b) Nghĩa vụ bồi thường thiệt hại;\n    c) Nghĩa vụ thanh toán khi bị Tòa án tuyên bố phá sản;\n    d) Nghĩa vụ trả nợ cho cá nhân, tổ chức;\n    đ) Nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước;\n    e) Nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật Dân sự và quy\nđịnh khác của pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-008",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 42",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu\n    Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong\ncác trường hợp sau đây:\n    1. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp\ncủa con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc\nkhông có khả năng lao động và không có tài sản để tự nuôi mình;\n    2. Nhằm trốn tránh thực hiện các nghĩa vụ sau đây:\n    a) Nghĩa vụ nuôi dưỡng, cấp dưỡng;\n    b) Nghĩa vụ bồi thường thiệt hại;\n    c) Nghĩa vụ thanh toán khi bị Tòa án tuyên bố phá sản;\n    d) Nghĩa vụ trả nợ cho cá nhân, tổ chức;\n    đ) Nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước;\n    e) Nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật Dân sự và quy\nđịnh khác của pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-009",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 19",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 19. Tình nghĩa vợ chồng\n    1. Vợ chồng có nghĩa vụ thương yêu, chung thủy, tôn trọng, quan tâm, chăm\nsóc, giúp đỡ nhau; cùng nhau chia sẻ, thực hiện các công việc trong gia đình.\n    2. Vợ chồng có nghĩa vụ sống chung với nhau, trừ trường hợp vợ chồng có\nthỏa thuận khác hoặc do yêu cầu của nghề nghiệp, công tác, học tập, tham gia các\nhoạt động chính trị, kinh tế, văn hóa, xã hội và lý do chính đáng khác."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 107",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 107. Nghĩa vụ cấp dưỡng\n    1. Nghĩa vụ cấp dưỡng được thực hiện giữa cha, mẹ và con; giữa anh, chị, em\nvới nhau; giữa ông bà nội, ông bà ngoại và cháu; giữa cô, dì, chú, cậu, bác ruột và\ncháu ruột; giữa vợ và chồng theo quy định của Luật này.\n   Nghĩa vụ cấp dưỡng không thể thay thế bằng nghĩa vụ khác và không thể\nchuyển giao cho người khác.\n    2. Trong trường hợp người có nghĩa vụ nuôi dưỡng trốn tránh nghĩa vụ thì theo\nyêu cầu của cá nhân, cơ quan, tổ chức được quy định tại Điều 119 của Luật này, Tòa\nán buộc người đó phải thực hiện nghĩa vụ cấp dưỡng theo quy định của Luật này."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 115",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 115. Nghĩa vụ cấp dưỡng giữa vợ và chồng khi ly hôn\n    Khi ly hôn nếu bên khó khăn, túng thiếu có yêu cầu cấp dưỡng mà có lý do\nchính đáng thì bên kia có nghĩa vụ cấp dưỡng theo khả năng của mình."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-010",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 38",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 38. Chia tài sản chung trong thời kỳ hôn nhân\n    1. Trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc\ntoàn bộ tài sản chung, trừ trường hợp quy định tại Điều 42 của Luật này; nếu\nkhông thỏa thuận được thì có quyền yêu cầu Tòa án giải quyết.\n   2. Thỏa thuận về việc chia tài sản chung phải lập thành văn bản. Văn bản này\nđược công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật.\n    3. Trong trường hợp vợ, chồng có yêu cầu thì Tòa án giải quyết việc chia tài\nsản chung của vợ chồng theo quy định tại Điều 59 của Luật này."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 42",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu\n    Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong\ncác trường hợp sau đây:\n    1. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp\ncủa con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc\nkhông có khả năng lao động và không có tài sản để tự nuôi mình;\n    2. Nhằm trốn tránh thực hiện các nghĩa vụ sau đây:\n    a) Nghĩa vụ nuôi dưỡng, cấp dưỡng;\n    b) Nghĩa vụ bồi thường thiệt hại;\n    c) Nghĩa vụ thanh toán khi bị Tòa án tuyên bố phá sản;\n    d) Nghĩa vụ trả nợ cho cá nhân, tổ chức;\n    đ) Nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước;\n    e) Nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật Dân sự và quy\nđịnh khác của pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-011",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 14",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 3"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 14. Hậu quả của việc chia tài sản chưng của vợ chồng trong\nthời kỳ hôn nhân\n\n1. Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân không\nlàm chấm dứt chế độ tài sản của vợ chồng theo luật định.\n\n2. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu vợ\nchồng không có thỏa thuận khác thì phần tài sản được chia; hoa lợi, lợi tức\nphát sinh từ tài sản đó; hoa lợi, lợi tức phát sinh từ tài sản riêng khác của vợ,\nchồng là tài sản riêng của vợ, chồng.\n\n3. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu tài\nsản có được từ việc khai thác tài sản riêng của vợ, chồng mà không xác định\nđược đó là thu nhập do lao động, hoạt động sản xuất, kinh doanh của vợ,\nchồng hay là hoa lợi, lợi tức phát sinh từ tài sản riêng đó thì thuộc sở hữu\nchung của vợ chồng.\n\nMục 3\nCHÉ ĐỘ TÀI SẢN CỦA VỢ CHÒNG THEO THỎA THUẬN"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-012",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 14",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 14. Hậu quả của việc chia tài sản chưng của vợ chồng trong\nthời kỳ hôn nhân\n\n1. Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân không\nlàm chấm dứt chế độ tài sản của vợ chồng theo luật định.\n\n2. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu vợ\nchồng không có thỏa thuận khác thì phần tài sản được chia; hoa lợi, lợi tức\nphát sinh từ tài sản đó; hoa lợi, lợi tức phát sinh từ tài sản riêng khác của vợ,\nchồng là tài sản riêng của vợ, chồng.\n\n3. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu tài\nsản có được từ việc khai thác tài sản riêng của vợ, chồng mà không xác định\nđược đó là thu nhập do lao động, hoạt động sản xuất, kinh doanh của vợ,\nchồng hay là hoa lợi, lợi tức phát sinh từ tài sản riêng đó thì thuộc sở hữu\nchung của vợ chồng.\n\nMục 3\nCHÉ ĐỘ TÀI SẢN CỦA VỢ CHÒNG THEO THỎA THUẬN"
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 33",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 33. Tài sản chung của vợ chồng\n    1. Tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao\nđộng, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và\nthu nhập hợp pháp khác trong thời kỳ hôn nhân, trừ trường hợp được quy định tại\nkhoản 1 Điều 40 của Luật này; tài sản mà vợ chồng được thừa kế chung hoặc được\ntặng cho chung và tài sản khác mà vợ chồng thỏa thuận là tài sản chung.\n    Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của\nvợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng\nhoặc có được thông qua giao dịch bằng tài sản riêng.\n   2. Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo\nđảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                          64\n\n     3. Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang\ncó tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-013",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 40",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân\n    1. Trong trường hợp chia tài sản chung của vợ chồng thì phần tài sản được\nchia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản\nchung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.\nPhần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.\n   2. Thỏa thuận của vợ chồng quy định tại khoản 1 Điều này không làm thay đổi\nquyền, nghĩa vụ về tài sản được xác lập trước đó giữa vợ, chồng với người thứ ba.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                        66"
+        },
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 14",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 14. Hậu quả của việc chia tài sản chưng của vợ chồng trong\nthời kỳ hôn nhân\n\n1. Việc chia tài sản chung của vợ chồng trong thời kỳ hôn nhân không\nlàm chấm dứt chế độ tài sản của vợ chồng theo luật định.\n\n2. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu vợ\nchồng không có thỏa thuận khác thì phần tài sản được chia; hoa lợi, lợi tức\nphát sinh từ tài sản đó; hoa lợi, lợi tức phát sinh từ tài sản riêng khác của vợ,\nchồng là tài sản riêng của vợ, chồng.\n\n3. Từ thời điểm việc chia tài sản chung của vợ chồng có hiệu lực, nếu tài\nsản có được từ việc khai thác tài sản riêng của vợ, chồng mà không xác định\nđược đó là thu nhập do lao động, hoạt động sản xuất, kinh doanh của vợ,\nchồng hay là hoa lợi, lợi tức phát sinh từ tài sản riêng đó thì thuộc sở hữu\nchung của vợ chồng.\n\nMục 3\nCHÉ ĐỘ TÀI SẢN CỦA VỢ CHÒNG THEO THỎA THUẬN"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-014",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 36",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 36. Tài sản chung được đưa vào kinh doanh\n     Trong trường hợp vợ chồng có thỏa thuận về việc một bên đưa tài sản chung\nvào kinh doanh thì người này có quyền tự mình thực hiện giao dịch liên quan đến\ntài sản chung đó. Thỏa thuận này phải lập thành văn bản."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 38",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 38. Chia tài sản chung trong thời kỳ hôn nhân\n    1. Trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận chia một phần hoặc\ntoàn bộ tài sản chung, trừ trường hợp quy định tại Điều 42 của Luật này; nếu\nkhông thỏa thuận được thì có quyền yêu cầu Tòa án giải quyết.\n   2. Thỏa thuận về việc chia tài sản chung phải lập thành văn bản. Văn bản này\nđược công chứng theo yêu cầu của vợ chồng hoặc theo quy định của pháp luật.\n    3. Trong trường hợp vợ, chồng có yêu cầu thì Tòa án giải quyết việc chia tài\nsản chung của vợ chồng theo quy định tại Điều 59 của Luật này."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 40",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân\n    1. Trong trường hợp chia tài sản chung của vợ chồng thì phần tài sản được\nchia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản\nchung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.\nPhần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.\n   2. Thỏa thuận của vợ chồng quy định tại khoản 1 Điều này không làm thay đổi\nquyền, nghĩa vụ về tài sản được xác lập trước đó giữa vợ, chồng với người thứ ba.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                        66"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-015",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 46",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 3"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 46. Nhập tài sản riêng của vợ, chồng vào tài sản chung\n    1. Việc nhập tài sản riêng của vợ, chồng vào tài sản chung được thực hiện theo\nthỏa thuận của vợ chồng.\n    2. Tài sản được nhập vào tài sản chung mà theo quy định của pháp luật, giao\ndịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì thỏa thuận phải\nbảo đảm hình thức đó.\n\f                   CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                           68\n\n     3. Nghĩa vụ liên quan đến tài sản riêng đã nhập vào tài sản chung được thực\nhiện bằng tài sản chung, trừ trường hợp vợ chồng có thỏa thuận khác hoặc pháp\nluật có quy định khác."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-016",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 47",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 47. Thỏa thuận xác lập chế độ tài sản của vợ chồng\n     Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì\nthỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công\nchứng hoặc chứng thực. Chế độ tài sản của vợ chồng theo thỏa thuận được xác lập\nkể từ ngày đăng ký kết hôn."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 49",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của\nvợ chồng\n    1. Vợ chồng có quyền sửa đổi, bổ sung thỏa thuận về chế độ tài sản.\n    2. Hình thức sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản theo\nthỏa thuận được áp dụng theo quy định tại Điều 47 của Luật này."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-017",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 49",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 49. Sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản của\nvợ chồng\n    1. Vợ chồng có quyền sửa đổi, bổ sung thỏa thuận về chế độ tài sản.\n    2. Hình thức sửa đổi, bổ sung nội dung của thỏa thuận về chế độ tài sản theo\nthỏa thuận được áp dụng theo quy định tại Điều 47 của Luật này."
+        },
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 17",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 17. Sửa đỗi, bỗ sung nội dung của chế độ tài sản của vợ chồng\n\n1. Trong trường hợp chế độ tài sản của vợ chồng, theo thỏa thuận được áp\ndụng thì trong thời kỳ hôn nhân, vợ chồng có quyền thỏa thuận sửa đổi, bỗ\nsung một phần hoặc toàn bộ nội dung của chế độ tài sản đó hoặc áp dụng chế\nđộ tài sản theo luật định.\n\n2. Thỏa thuận sửa đổi, bổ sung nội dung của chế độ tài sản của vợ chồng\nphải được công chứng hoặc chứng thực theo quy định của pháp luật."
+        },
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 18",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài\nsản của vợ chồng\n\n1. Thỏa thuận sửa đổi, bỗ sung nội dung của chế độ tài sản của vợ chồng,\ncó hiệu lực từ ngày được công chứng hoặc chứng thực. Vợ, chồng có nghĩa vụ\ncung cấp cho người thứ ba biết về những thông tin liên quan theo quy định tại\nĐiều 16 của Nghị định này.\n\n2. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm việc sửa đổi, bỗ\nsung chế độ tài sản của vợ chồng có hiệu lực vẫn có giá trị pháp lý, trừ trường\nhợp các bên có thỏa thuận khác.\n\nsai Chương —-\nQUAN HỆ HÔN NHÂN VÀ GIA ĐÌNH CÓ YẾU TÓ NƯỚC NGOÀI\n\nMục 1\nĐĂNG KÝ KÉT HÔN"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-018",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 18",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 18. Hậu quả của việc sửa đổi, bổ sung nội dung của chế độ tài\nsản của vợ chồng\n\n1. Thỏa thuận sửa đổi, bỗ sung nội dung của chế độ tài sản của vợ chồng,\ncó hiệu lực từ ngày được công chứng hoặc chứng thực. Vợ, chồng có nghĩa vụ\ncung cấp cho người thứ ba biết về những thông tin liên quan theo quy định tại\nĐiều 16 của Nghị định này.\n\n2. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm việc sửa đổi, bỗ\nsung chế độ tài sản của vợ chồng có hiệu lực vẫn có giá trị pháp lý, trừ trường\nhợp các bên có thỏa thuận khác.\n\nsai Chương —-\nQUAN HỆ HÔN NHÂN VÀ GIA ĐÌNH CÓ YẾU TÓ NƯỚC NGOÀI\n\nMục 1\nĐĂNG KÝ KÉT HÔN"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-019",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 16. Cung cấp thông tin về chế độ tài sản của vợ chồng theo thỏa\nthuận trong giao dịch với người thứ ba -\n\nTrường hợp chế độ tài sản của vợ chồng theo thỏa thuận được áp dụng\nthì khi xác lập, thực hiện giao dịch vợ, chông có nghĩa vụ cung: cấp cho người\nthứ ba biết về những thông tin liên quan; nêu vợ, chồng Mi ¡ phạm nghĩa vụ này\nthì người thứ ba được coi là ngay tình và được bảo vệ quyên lợi theo quy định\ncủa Bộ luật Dân sự."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-020",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 44",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "sourceId": "OFFICIAL-CC24",
+          "evidenceExcerpt": "Điều 44. Thẩm quyền công chứng giao dịch về bất động sản\n    Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng giao\ndịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc Trung ương nơi tổ\nchức hành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản\ntừ chối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền đối\nvới bất động sản, thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động sản\nvà công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ các giao dịch này theo quy\nđịnh của pháp luật."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-021",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 28",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 28. Áp dụng chế độ tài sản của vợ chồng\n    1. Vợ chồng có quyền lựa chọn áp dụng chế độ tài sản theo luật định hoặc chế\nđộ tài sản theo thỏa thuận.\n    Chế độ tài sản của vợ chồng theo luật định được thực hiện theo quy định tại\ncác điều từ Điều 33 đến Điều 46 và từ Điều 59 đến Điều 64 của Luật này.\n    Chế độ tài sản của vợ chồng theo thỏa thuận được thực hiện theo quy định tại\ncác điều 47, 48, 49, 50 và 59 của Luật này.\n   2. Các quy định tại các điều 29, 30, 31 và 32 của Luật này được áp dụng không\nphụ thuộc vào chế độ tài sản mà vợ chồng đã lựa chọn.\n   3. Chính phủ quy định chi tiết về chế độ tài sản của vợ chồng."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 30",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 30. Quyền, nghĩa vụ của vợ, chồng trong việc đáp ứng nhu cầu thiết\nyếu của gia đình\n    1. Vợ, chồng có quyền, nghĩa vụ thực hiện giao dịch nhằm đáp ứng nhu cầu\nthiết yếu của gia đình.\n   2. Trong trường hợp vợ chồng không có tài sản chung hoặc tài sản chung\nkhông đủ để đáp ứng nhu cầu thiết yếu của gia đình thì vợ, chồng có nghĩa vụ đóng\ngóp tài sản riêng theo khả năng kinh tế của mỗi bên."
+        },
+        {
+          "reference": {
+            "document": "Nghị định số 126/2014/NĐ-CP",
+            "article": "Điều 15",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-ND126-2014",
+          "evidenceExcerpt": "Điều 15. Xác định tài sản của vợ chồng theo thỏa thuận\n\n1. Trường hợp lựa chọn áp dụng, chế độ tài sản của vợ chồng theo thỏa\nthuận thì vợ chồng có thể thỏa thuận về xác định tài sản theo một trong các\nnội dung sau đây:\n\na) Tài sản giữa vợ và chồng bao gồm tài sản chung và tài sản riêng\ncủa vợ, chông;\n\nb) Giữa vợ và chồng không có tài sản riêng của vợ, chồng mà tất cả tài\nsản do vợ, chông có được trước khi kêt hôn hoặc trong thời kỳ hôn nhân đêu\nthuộc tài sản chung;\n\ne) Giữa vợ và chồng không có tài sản chung mà tất cả tài sản do vợ,\nchông có được trước khi kết hôn và trong thời kỳ hôn nhân đều thuộc sở hữu\nriêng của người có được tài sản đó;\n\nđ) Xác định theo thỏa thuận khác của vợ chồng.\n\n2. Thỏa thuận về tài sản của vợ chồng phải phù hợp với quy định tại các"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-022",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 48",
+            "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+            "clause": "Khoản 2"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 48. Người giám hộ\n\n1. Cá nhân, pháp nhân có đủ điều kiện quy định tại Bộ luật này được làm\nngười giám hộ.\n\n2. Trường hợp người có năng lực hành vi đân sự đầy đủ lựa chọn người\ngiám hộ cho mình thì khi họ ở tình trạng cần được giám Ì hộ, cá nhân, pháp nhân\nđược lựa chọn là người giám hộ nếu người này đồng ý. Việc lựa chọn người\ngiám hộ phải được lập thành văn bản có công chứng hoặc chứng thực.\n\n3. Một cá nhân, pháp nhân có thể giám hộ cho nhiều người."
+        },
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 53",
+            "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 53. Người giám hộ đương nhiên của người mất năng lực hành vi\ndân sự\n\nTrường hợp không có người giám hộ theo quy định tại khoản 2 Điều 48\ncủa Bộ luật này thì người giám hộ đương nhiên của người mât năng lực hành vi\ndân sự được xác định như sau:\n\n1. Trường hợp vợ là người mất năng lực hành vi dân sự thì chồng là người\ngiám hộ; nếu chồng là người mắt năng lực hành vi dân sự thì vợ là người giám hộ;\n\n2. Trường hợp cha và mẹ đều mất năng lực bành vi dân sự hoặc một\nngười mất năng lực hành vi dân sự, còn người kia không có đủ điều kiện làm\nngười giám hộ thì người con cả là người giám hộ; nếu người con cả không có đủ\nđiều kiện làm người giám hộ thì người con tiếp theo có đủ điều kiện làm người\ngiám hộ là người giám hộ;\n\nW\n\n17\n\n3. Trường hợp người thành niên mất năng lực hành vi dân sự chưa có vợ,\nchồng, con hoặc có mà vợ, chồng, con đều không có đủ điều kiện làm người\ngiám hộ thì cha, mẹ là người giám hộ."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-023",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 59",
+            "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 59. Quản lý tài sản của người được giám hộ\n\n1. Người giám hộ của người chưa thành niên, người mắt năng lực hành vi\ndân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của\nchính mình; được thực hiện giao địch dân sự liên quan đến tài sản của người\nđược giám hộ vì lợi ích của người được giám hộ.\n\nViệc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm có, thế chấp, đặt cọc\nvà giao dịch dân sự khác đôi với tài sản có giá trị lớn của người được giám hộ\nphải được sự đông ý của người giám sát việc giám hộ.\n\nNgười giám hộ không được đem tài sản của người được giám hộ tặng cho\nngười khác. Các giao dịch dân sự giữa người giám hộ với người được giám hộ\ncó liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp\ngiao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của\nngười giám sát việc giám hộ.\n\n^8\n\n19\n\n2. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành\nvi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án\ntrong phạm vỉ được quy định tại khoản 1 Điều này."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-024",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Bộ luật Dân sự số 91/2015/QH13",
+            "article": "Điều 59",
+            "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-BLDS15",
+          "evidenceExcerpt": "Điều 59. Quản lý tài sản của người được giám hộ\n\n1. Người giám hộ của người chưa thành niên, người mắt năng lực hành vi\ndân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của\nchính mình; được thực hiện giao địch dân sự liên quan đến tài sản của người\nđược giám hộ vì lợi ích của người được giám hộ.\n\nViệc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm có, thế chấp, đặt cọc\nvà giao dịch dân sự khác đôi với tài sản có giá trị lớn của người được giám hộ\nphải được sự đông ý của người giám sát việc giám hộ.\n\nNgười giám hộ không được đem tài sản của người được giám hộ tặng cho\nngười khác. Các giao dịch dân sự giữa người giám hộ với người được giám hộ\ncó liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp\ngiao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của\nngười giám sát việc giám hộ.\n\n^8\n\n19\n\n2. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành\nvi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án\ntrong phạm vỉ được quy định tại khoản 1 Điều này."
+        }
+      ]
+    },
+    {
+      "id": "FAM26-025",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 50",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm c"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 50. Thỏa thuận về chế độ tài sản của vợ chồng bị vô hiệu\n    1. Thỏa thuận về chế độ tài sản của vợ chồng bị Tòa án tuyên bố vô hiệu khi\nthuộc một trong các trường hợp sau đây:\n    a) Không tuân thủ điều kiện có hiệu lực của giao dịch được quy định tại Bộ\nluật Dân sự và các luật khác có liên quan;\n    b) Vi phạm một trong các quy định tại các điều 29, 30, 31 và 32 của Luật này;\n    c) Nội dung của thỏa thuận vi phạm nghiêm trọng quyền được cấp dưỡng,\nquyền được thừa kế và quyền, lợi ích hợp pháp khác của cha, mẹ, con và thành\nviên khác của gia đình.\n    2. Tòa án nhân dân tối cao chủ trì phối hợp với Viện kiểm sát nhân dân tối cao\nvà Bộ Tư pháp hướng dẫn khoản 1 Điều này.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                        69\n\n                               Chương IV\n                           CHẤM DỨT HÔN NHÂN\n\n                                     Mục 1\n                                    LY HÔN"
+        }
+      ]
+    },
+    {
+      "id": "FAM26-026",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 9",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 9. Đăng ký kết hôn\n    1. Việc kết hôn phải được đăng ký và do cơ quan nhà nước có thẩm quyền\nthực hiện theo quy định của Luật này và pháp luật về hộ tịch.\n     Việc kết hôn không được đăng ký theo quy định tại khoản này thì không có giá\ntrị pháp lý.\n    2. Vợ chồng đã ly hôn muốn xác lập lại quan hệ vợ chồng thì phải đăng ký\nkết hôn.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                        58"
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 14",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 14. Giải quyết hậu quả của việc nam, nữ chung sống với nhau như vợ\nchồng mà không đăng ký kết hôn\n    1. Nam, nữ có đủ điều kiện kết hôn theo quy định của Luật này chung sống\nvới nhau như vợ chồng mà không đăng ký kết hôn thì không làm phát sinh\nquyền, nghĩa vụ giữa vợ và chồng. Quyền, nghĩa vụ đối với con, tài sản, nghĩa\nvụ và hợp đồng giữa các bên được giải quyết theo quy định tại Điều 15 và Điều 16\ncủa Luật này.\n    2. Trong trường hợp nam, nữ chung sống với nhau như vợ chồng theo quy\nđịnh tại khoản 1 Điều này nhưng sau đó thực hiện việc đăng ký kết hôn theo\nquy định của pháp luật thì quan hệ hôn nhân được xác lập từ thời điểm đăng ký\nkết hôn."
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 16",
+            "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+            "clause": "Khoản 1"
+          },
+          "sourceId": "OFFICIAL-HNGD-HN25",
+          "evidenceExcerpt": "Điều 16. Giải quyết quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ\nchung sống với nhau như vợ chồng mà không đăng ký kết hôn\n    1. Quan hệ tài sản, nghĩa vụ và hợp đồng của nam, nữ chung sống với nhau\nnhư vợ chồng mà không đăng ký kết hôn được giải quyết theo thỏa thuận giữa các\nbên; trong trường hợp không có thỏa thuận thì giải quyết theo quy định của Bộ luật\ndân sự và các quy định khác của pháp luật có liên quan.\n   2. Việc giải quyết quan hệ tài sản phải bảo đảm quyền, lợi ích hợp pháp của\nphụ nữ và con; công việc nội trợ và công việc khác có liên quan để duy trì đời sống\nchung được coi như lao động có thu nhập.\n\f                 CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                         60\n\n                              Chương III\n                      QUAN HỆ GIỮA VỢ VÀ CHỒNG\n\n                             Mục 1\n                 QUYỀN VÀ NGHĨA VỤ VỀ NHÂN THÂN"
+        }
+      ]
+    }
+  ]
+}

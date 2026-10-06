@@ -1,0 +1,529 @@
+{
+  "date": "2026-10-06",
+  "sourceId": "USER-EXAM-FAMILY",
+  "sourceSha256": "709a8a0c131d8d8a60eae0594ae5d54fd33ce63ff38888795cd58d062d2e59e8",
+  "readScope": {
+    "paragraphs": 529,
+    "tables": 3,
+    "embeddedImages": 44,
+    "method": "Đọc phần chữ, bảng, OCR toàn bộ ảnh; xem ảnh nguồn để kiểm tra bố cục và các cụm lặp."
+  },
+  "sourceQuestionCount": 41,
+  "groups": [
+    {
+      "number": 1,
+      "title": "Chấm dứt hiệu lực việc chia tài sản",
+      "questions": 6,
+      "images": []
+    },
+    {
+      "number": 2,
+      "title": "Chia tài sản, hạn chế định đoạt và quyền ly hôn",
+      "questions": 6,
+      "images": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Trà Vinh: tài sản, nghĩa vụ vợ chồng, không đăng ký kết hôn",
+      "questions": 8,
+      "images": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Tây Ninh: tài sản trước hôn nhân, chia tài sản, quyền của con",
+      "questions": 8,
+      "images": [
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Đưa tài sản chung vào kinh doanh",
+      "questions": 6,
+      "images": [
+        33,
+        34
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Đề kiểm tra lần thứ tư và các bài giải",
+      "questions": 7,
+      "images": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    }
+  ],
+  "duplicateSections": [
+    {
+      "section": "Đề 4 và bài giải ảnh 14–21",
+      "duplicateOf": "Đề 1",
+      "note": "Cùng tình huống Phương/Lân; không thêm câu vì lặp bản chụp."
+    },
+    {
+      "section": "Ảnh 25–32, không có tiêu đề Đề 6 trong phần chữ",
+      "duplicateOf": "Đề 5",
+      "note": "Bài giải Tây Ninh; không coi là đề mới."
+    },
+    {
+      "section": "Ảnh 42–44 và Bài giải 2",
+      "duplicateOf": "Đề 8",
+      "note": "Cùng đề với các nhận xét khác nhau; không đếm hai đề."
+    }
+  ],
+  "questions": [
+    {
+      "id": "FAM-SRC-1.1",
+      "sourceGroup": 1,
+      "questionNumber": 1,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-003"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-1.2",
+      "sourceGroup": 1,
+      "questionNumber": 2,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-1.3",
+      "sourceGroup": 1,
+      "questionNumber": 3,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-1.4",
+      "sourceGroup": 1,
+      "questionNumber": 4,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-004",
+        "FAM26-005",
+        "FAM26-015"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-1.5",
+      "sourceGroup": 1,
+      "questionNumber": 5,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-002"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-1.6",
+      "sourceGroup": 1,
+      "questionNumber": 6,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-001"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.1",
+      "sourceGroup": 2,
+      "questionNumber": 1,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.2",
+      "sourceGroup": 2,
+      "questionNumber": 2,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.3",
+      "sourceGroup": 2,
+      "questionNumber": 3,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-006"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.4",
+      "sourceGroup": 2,
+      "questionNumber": 4,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.5",
+      "sourceGroup": 2,
+      "questionNumber": 5,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-2.6",
+      "sourceGroup": 2,
+      "questionNumber": 6,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.1",
+      "sourceGroup": 3,
+      "questionNumber": 1,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.2",
+      "sourceGroup": 3,
+      "questionNumber": 2,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.3",
+      "sourceGroup": 3,
+      "questionNumber": 3,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-007",
+        "FAM26-008",
+        "FAM26-010"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.4",
+      "sourceGroup": 3,
+      "questionNumber": 4,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.5",
+      "sourceGroup": 3,
+      "questionNumber": 5,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.6",
+      "sourceGroup": 3,
+      "questionNumber": 6,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.7",
+      "sourceGroup": 3,
+      "questionNumber": 7,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-011",
+        "FAM26-012",
+        "FAM26-013"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-3.8",
+      "sourceGroup": 3,
+      "questionNumber": 8,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-026"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.1",
+      "sourceGroup": 5,
+      "questionNumber": 1,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.2",
+      "sourceGroup": 5,
+      "questionNumber": 2,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.3",
+      "sourceGroup": 5,
+      "questionNumber": 3,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.4",
+      "sourceGroup": 5,
+      "questionNumber": 4,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.5",
+      "sourceGroup": 5,
+      "questionNumber": 5,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.6",
+      "sourceGroup": 5,
+      "questionNumber": 6,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.7",
+      "sourceGroup": 5,
+      "questionNumber": 7,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-5.8",
+      "sourceGroup": 5,
+      "questionNumber": 8,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-009"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.1",
+      "sourceGroup": 7,
+      "questionNumber": 1,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-014"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.2",
+      "sourceGroup": 7,
+      "questionNumber": 2,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.3",
+      "sourceGroup": 7,
+      "questionNumber": 3,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.4",
+      "sourceGroup": 7,
+      "questionNumber": 4,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.5",
+      "sourceGroup": 7,
+      "questionNumber": 5,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-7.6",
+      "sourceGroup": 7,
+      "questionNumber": 6,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.1",
+      "sourceGroup": 8,
+      "questionNumber": 1,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-016",
+        "FAM26-019",
+        "FAM26-020",
+        "FAM26-025"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.2",
+      "sourceGroup": 8,
+      "questionNumber": 2,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-017",
+        "FAM26-018",
+        "FAM26-021"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.3",
+      "sourceGroup": 8,
+      "questionNumber": 3,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.4",
+      "sourceGroup": 8,
+      "questionNumber": 4,
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "FAM26-022",
+        "FAM26-023",
+        "FAM26-024"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.5",
+      "sourceGroup": 8,
+      "questionNumber": 5,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.6",
+      "sourceGroup": 8,
+      "questionNumber": 6,
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Các nhánh ngoài câu biên soạn liên kết chưa được chứng nhận. Phần I đạo đức của đề 8 được tách riêng, số 8.1–8.6 là Phần II."
+    },
+    {
+      "id": "FAM-SRC-8.ETHICS",
+      "sourceGroup": 8,
+      "questionNumber": "ETHICS",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Phần I đạo đức; chưa cập nhật/xác minh trong bộ tài sản vợ chồng."
+    }
+  ],
+  "activeAdded": 26,
+  "unverifiedBranches": [
+    "Các mức phí, thù lao theo quyết định địa phương cũ",
+    "Thẩm quyền đối với nhiều bất động sản khác tỉnh và thủ tục chuyển quyền cụ thể chưa viết thành câu",
+    "Hạn chế định đoạt vô thời hạn và cam kết chuyển vốn cho con khi ly hôn",
+    "Đạo đức, tập sự trong đề 8",
+    "Các nhánh đặt cọc, đất nông nghiệp và bảo đảm đã có nguồn chuyên đề; không nhập lại"
+  ],
+  "sourceIssues": [
+    "Lời giải dùng Luật Công chứng 2014, Luật Đất đai 2013 và giấy tờ cũ.",
+    "Đề 4 trùng Đề 1 nhưng bài giải có kết luận khác về nơi chấm dứt.",
+    "Một số lời giải phủ nhận nhập lại tài sản đã đăng ký riêng; cần đọc ngoại lệ thỏa thuận khác tại Điều 41.",
+    "Không phân biệt bản sao nhóm điểm d với giấy tùy thân, giấy tài sản theo Điều 42 hiện hành.",
+    "Không chỉ vì là con mà được cấp bản sao; không chỉ vì là người liên quan mà được bỏ điều kiện đồng ý.",
+    "Lời giải chế độ tài sản có nội dung mâu thuẫn về thời điểm, lương, nhà được tặng và thẩm quyền.",
+    "Nhầm Nghị định 126/2015 thành văn bản thật 126/2014; phần bí mật phải xét Điều 16.",
+    "Thỏa thuận đưa tài sản chung vào kinh doanh khác hợp đồng góp vốn với doanh nghiệp.",
+    "Mẫu giải nhầm tên, năm văn bản và tên loại giao dịch."
+  ]
+}

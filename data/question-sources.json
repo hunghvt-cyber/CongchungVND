@@ -162,6 +162,20 @@
       "title": "Đề thi và bài giải ủy quyền do Madam An cung cấp",
       "sha256": "e2d491f65e9089b08c71418777279e8ed6d6703591c741545a974077646d7811",
       "use": "Nguồn tình huống 24 câu chính và phụ lục 7 mục lặp nguồn đặt cọc; biên soạn 20 câu độc lập và xác minh căn cứ, không mặc nhiên chấp nhận lời giải."
+    },
+    {
+      "id": "USER-EXAM-FAMILY",
+      "type": "user-provided",
+      "title": "Đề thi và bài giải hôn nhân và gia đình do Madam An cung cấp",
+      "sha256": "709a8a0c131d8d8a60eae0594ae5d54fd33ce63ff38888795cd58d062d2e59e8",
+      "use": "Nguồn tình huống có phần chữ, bảng và 44 ảnh; các phần lặp được gộp. Chỉ 26 câu biên soạn được xác minh riêng."
+    },
+    {
+      "id": "OFFICIAL-ND126-2014",
+      "type": "official",
+      "title": "Nghị định 126/2014/NĐ-CP",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+      "use": "Điều 14–18 về chế độ tài sản. Văn bản hết hiệu lực một phần; không sử dụng phần hộ tịch đã bãi bỏ."
     }
   ]
 }
