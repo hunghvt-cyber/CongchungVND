@@ -1,7 +1,14 @@
 const test=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const path=require('node:path');
 const root=path.resolve(__dirname,'..');const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
-const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json'];
+const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json','imported-inheritance-2026.json'];
 const bank=files.flatMap(f=>read(`data/${f}`));const eligible=bank.filter(q=>['active','verified'].includes(q.status));
+test('inheritance cases link specific source branches and verified current provisions',()=>{
+ const questions=read('data/imported-inheritance-2026.json');const source=read('reports/inheritance-source-review.json');const proof=new Map(read('reports/inheritance-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
+ assert.equal(questions.length,32);assert.equal(source.questions.length,45);assert.equal(source.readScope.embeddedImages,24);
+ for(const q of questions){assert.equal(q.lastVerified,'2026-10-06');assert.equal(q.source.id,source.sourceId);assert.equal(q.status,'active');assert.match(q.question.variants[0],/^Tháng 10\/2026:/);assert.match(q.explanation,/Gợi ý làm bài:/);assert.ok(source.questions.some(s=>s.adaptedQuestionIds.includes(q.id)),q.id);assert.deepEqual(proof.get(q.id).provisions.map(p=>p.reference),q.legalBasis);assert.ok(proof.get(q.id).provisions.every(p=>p.evidenceExcerpt.length>100));assert.doesNotMatch(JSON.stringify(q.legalBasis),/29\/2015|04\/2026/);}
+ assert.ok(source.questions.filter(s=>s.decision==='review').every(s=>s.adaptedQuestionIds.length===0));
+ assert.equal(eligible.length,400);
+});
 test('family cases link reviewed source branches, current article evidence and independent keys',()=>{
  const questions=read('data/imported-family-2026.json');const source=read('reports/family-source-review.json');const proof=new Map(read('reports/family-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
  assert.equal(questions.length,26);assert.equal(source.questions.length,41);assert.equal(source.readScope.embeddedImages,44);

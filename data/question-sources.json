@@ -176,6 +176,20 @@
       "title": "Nghị định 126/2014/NĐ-CP",
       "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
       "use": "Điều 14–18 về chế độ tài sản. Văn bản hết hiệu lực một phần; không sử dụng phần hộ tịch đã bãi bỏ."
+    },
+    {
+      "id": "OFFICIAL-ND10425",
+      "type": "official",
+      "title": "Nghị định số 104/2025/NĐ-CP",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf",
+      "use": "Điều 44 về niêm yết; Điều 64 đã bị bãi bỏ, không sử dụng phần này."
+    },
+    {
+      "id": "USER-EXAM-INHERITANCE",
+      "type": "user-provided",
+      "title": "Đề thi và bài giải thừa kế do Madam An cung cấp",
+      "sha256": "88ff497c118ad55d540306317a9895874e7177114d44fd3a7733c5f7db5aab4c",
+      "use": "Nguồn chủ đề 7 cụm đề, 45 yêu cầu lớn gồm phần đạo đức/soạn thảo; chỉ 32 câu biên soạn có chứng cứ riêng được active."
     }
   ]
 }

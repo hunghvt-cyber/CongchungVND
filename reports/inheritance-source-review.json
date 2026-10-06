@@ -1,0 +1,592 @@
+{
+  "date": "2026-10-06",
+  "sourceId": "USER-EXAM-INHERITANCE",
+  "sourceSha256": "88ff497c118ad55d540306317a9895874e7177114d44fd3a7733c5f7db5aab4c",
+  "readScope": {
+    "paragraphs": 493,
+    "tables": 0,
+    "embeddedImages": 24,
+    "method": "Đọc chữ, OCR tất cả ảnh, xem ảnh đề và bố cục lời giải; không công bố DOCX gốc."
+  },
+  "sourceQuestionCount": 45,
+  "groups": [
+    {
+      "number": 1,
+      "title": "Hòa: di chúc, mẹ chết sau, con và hồ sơ",
+      "questions": 6,
+      "images": []
+    },
+    {
+      "number": 2,
+      "title": "Thuận: phân chia, niêm yết, nội dung thỏa thuận",
+      "questions": 6,
+      "images": [
+        1,
+        2
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Hân/Hoài: di chúc, phân chia, thỏa thuận và vàng",
+      "questions": 6,
+      "images": []
+    },
+    {
+      "number": 5,
+      "title": "Lân: xác định di sản, thế vị và bỏ sót",
+      "questions": 6,
+      "images": [
+        3,
+        4
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Vượng/Long: cử người quản lý di sản",
+      "questions": 6,
+      "images": [
+        5,
+        6
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Kiểm tra lần hai: đạo đức, An/Bích và đại diện",
+      "questions": 5,
+      "ethics": 2,
+      "images": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Kiểm tra lần ba: nhiều lần thừa kế, thời hiệu, người ở nước ngoài",
+      "questions": 6,
+      "ethics": 1,
+      "draft": 1,
+      "images": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "duplicateSections": [
+    {
+      "section": "Ảnh 5–6 và phần chữ Đề 6",
+      "duplicateOf": "Đề quản lý di sản Vượng/Long",
+      "note": "Cùng 6 câu, không đếm hai lần."
+    }
+  ],
+  "numberingNote": "Tài liệu không có cụm Đề 4 riêng; giữ số nguồn 1,2,3,5,6,7,8. Đề 7 có 2 câu đạo đức ngoài 5 câu nghiệp vụ; Đề 8 có 1 mục đạo đức và 1 yêu cầu soạn thảo ngoài 6 câu nghiệp vụ.",
+  "questions": [
+    {
+      "id": "INH-SRC-1.1",
+      "sourceGroup": 1,
+      "questionNumber": "1.1",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-001",
+        "INH26-002",
+        "INH26-003",
+        "INH26-024"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-1.2",
+      "sourceGroup": 1,
+      "questionNumber": "1.2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-1.3",
+      "sourceGroup": 1,
+      "questionNumber": "1.3",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-1.4",
+      "sourceGroup": 1,
+      "questionNumber": "1.4",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-1.5",
+      "sourceGroup": 1,
+      "questionNumber": "1.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-004",
+        "INH26-005"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-1.6",
+      "sourceGroup": 1,
+      "questionNumber": "1.6",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-031"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.1",
+      "sourceGroup": 2,
+      "questionNumber": "2.1",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-028"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.2",
+      "sourceGroup": 2,
+      "questionNumber": "2.2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.3",
+      "sourceGroup": 2,
+      "questionNumber": "2.3",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.4",
+      "sourceGroup": 2,
+      "questionNumber": "2.4",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.5",
+      "sourceGroup": 2,
+      "questionNumber": "2.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-032"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-2.6",
+      "sourceGroup": 2,
+      "questionNumber": "2.6",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-014",
+        "INH26-027"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.1",
+      "sourceGroup": 3,
+      "questionNumber": "3.1",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-018",
+        "INH26-024",
+        "INH26-029"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.2",
+      "sourceGroup": 3,
+      "questionNumber": "3.2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.3",
+      "sourceGroup": 3,
+      "questionNumber": "3.3",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.4",
+      "sourceGroup": 3,
+      "questionNumber": "3.4",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.5",
+      "sourceGroup": 3,
+      "questionNumber": "3.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-016",
+        "INH26-017",
+        "INH26-019",
+        "INH26-025",
+        "INH26-026"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-3.6",
+      "sourceGroup": 3,
+      "questionNumber": "3.6",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.1",
+      "sourceGroup": 5,
+      "questionNumber": "5.1",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.2",
+      "sourceGroup": 5,
+      "questionNumber": "5.2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.3",
+      "sourceGroup": 5,
+      "questionNumber": "5.3",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.4",
+      "sourceGroup": 5,
+      "questionNumber": "5.4",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-006",
+        "INH26-015"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.5",
+      "sourceGroup": 5,
+      "questionNumber": "5.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-031"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-5.6",
+      "sourceGroup": 5,
+      "questionNumber": "5.6",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-019",
+        "INH26-020",
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.1",
+      "sourceGroup": 6,
+      "questionNumber": "6.1",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-007",
+        "INH26-009"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.2",
+      "sourceGroup": 6,
+      "questionNumber": "6.2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.3",
+      "sourceGroup": 6,
+      "questionNumber": "6.3",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.4",
+      "sourceGroup": 6,
+      "questionNumber": "6.4",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-006",
+        "INH26-008",
+        "INH26-010",
+        "INH26-015"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.5",
+      "sourceGroup": 6,
+      "questionNumber": "6.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-012",
+        "INH26-013"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-6.6",
+      "sourceGroup": 6,
+      "questionNumber": "6.6",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-011"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.1",
+      "sourceGroup": 7,
+      "questionNumber": "7.1",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.2",
+      "sourceGroup": 7,
+      "questionNumber": "7.2",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-021",
+        "INH26-023"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.3",
+      "sourceGroup": 7,
+      "questionNumber": "7.3",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-022",
+        "INH26-023"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.4",
+      "sourceGroup": 7,
+      "questionNumber": "7.4",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.5",
+      "sourceGroup": 7,
+      "questionNumber": "7.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-027"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.ETHICS1",
+      "sourceGroup": 7,
+      "questionNumber": "7.ETHICS1",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-7.ETHICS2",
+      "sourceGroup": 7,
+      "questionNumber": "7.ETHICS2",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.1",
+      "sourceGroup": 8,
+      "questionNumber": "8.1",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.2",
+      "sourceGroup": 8,
+      "questionNumber": "8.2",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-032"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.3",
+      "sourceGroup": 8,
+      "questionNumber": "8.3",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-030"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.4",
+      "sourceGroup": 8,
+      "questionNumber": "8.4",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-006"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.5",
+      "sourceGroup": 8,
+      "questionNumber": "8.5",
+      "decision": "adapted_partial",
+      "adaptedQuestionIds": [
+        "INH26-022"
+      ],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.6",
+      "sourceGroup": 8,
+      "questionNumber": "8.6",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.ETHICS1",
+      "sourceGroup": 8,
+      "questionNumber": "8.ETHICS1",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    },
+    {
+      "id": "INH-SRC-8.DRAFT",
+      "sourceGroup": 8,
+      "questionNumber": "8.DRAFT",
+      "decision": "review",
+      "adaptedQuestionIds": [],
+      "originalAnswerCertified": false,
+      "note": "Chỉ chứng nhận câu biên soạn liên kết, không chứng nhận toàn bộ các nhánh của câu lớn."
+    }
+  ],
+  "activeAdded": 32,
+  "sourceIssues": [
+    "Mẫu đưa người cha chết trước vào người hưởng phần bắt buộc; phải xét còn sống tại thời điểm mở thừa kế.",
+    "Mẹ chết sau con: quyền phát sinh rồi đi vào di sản mẹ, khác thế vị trực tiếp ở lần mở thừa kế của con.",
+    "Giới hạn chọn người quản lý trong số người thừa kế không có trong Điều 616.",
+    "Quyền đại diện quản lý không đồng nghĩa quyền tự định đoạt; phải phân biệt người được cử và người tiếp tục chiếm hữu.",
+    "Không tự coi mọi khoản phúng viếng là di sản; phải truy nguồn sở hữu, người nhận và mục đích.",
+    "Từ chối nhận di sản không tự chỉ định người thụ hưởng cụ thể như tặng cho/nhường phần.",
+    "Chia hiện vật và thanh toán chênh lệch không tự là giao dịch giả tạo chỉ vì có tiền thanh toán.",
+    "Luật Công chứng 2014 và NĐ29/2015 không dùng làm căn cứ hiện hành cho thủ tục tháng 10/2026.",
+    "Không tự coi chẩn đoán tâm thần là quyết định tuyên mất năng lực; tư cách hưởng khác cơ chế đại diện.",
+    "Mẫu nhầm Điều 66 BLDS thành Điều 660, nhầm tên, năm ly hôn, người để lại di chúc và số tiền bằng chữ.",
+    "Các kết luận cấm thỏa thuận lợi tức chung chỉ vì không phải vợ chồng, hoặc cấm mọi giao dịch trước giải chấp, quá rộng.",
+    "Nguồn đề 8 có lỗi câu năm xuất cảnh/mất, áp dụng thời hiệu lịch sử; không áp máy móc đáp án tại kỳ thi cũ cho tháng 10/2026."
+  ],
+  "unverifiedBranches": [
+    "Thời hiệu lịch sử mở thừa kế năm 1978/1987 và việc quản lý tài sản qua nhiều thời kỳ: giữ review, cần kiểm tra chuyển tiếp/án lệ và ngày chết chính xác.",
+    "Nhận nhà/đất của người định cư ở nước ngoài: không tự nhập đáp án Luật Nhà ở 2014, NĐ99/2015.",
+    "Quy định quản lý, mua bán và thanh toán bằng vàng SJC sau sửa đổi pháp luật về vàng: chưa biên soạn active từ nhánh nguồn này.",
+    "Nội dung hạn chế chuyển quyền vô thời hạn, hưởng lợi tức chung sau chia và cam kết một người thanh toán cho người mới chưa xác định: cần phân tích hiệu lực đối với người thứ ba.",
+    "Quy tắc đạo đức/biện pháp trách nhiệm ở phần ngoài chuyên đề thừa kế, các mẫu tự luận nguyên văn và các mức phí chưa được chứng nhận."
+  ]
+}
