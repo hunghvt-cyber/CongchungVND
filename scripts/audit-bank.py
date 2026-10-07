@@ -6,6 +6,7 @@ FILES = ['questions.json', 'derived-questions.json'] + [f'expansion-2026-batch-{
 FILES += [p.name for p in sorted((ROOT/'data').glob('validated-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('imported-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('completion-*.json'))]
+FILES += [p.name for p in sorted((ROOT/'data').glob('refinement-*.json'))]
 PREFIXES = [
  'Chọn phương án đúng theo quy định pháp luật: ',
  'Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: ',

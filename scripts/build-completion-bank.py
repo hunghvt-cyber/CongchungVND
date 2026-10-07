@@ -50,6 +50,14 @@ def build():
     'review':'Đối chiếu giả thiết, khóa, từng nhiễu và giới hạn điều khoản; không chứng nhận toàn bộ tài liệu DOCX.',
     'provisions':evidence})
  assert len(questions)==80, len(questions)
+ decisions_path=ROOT/'reports/refinement-editorial-decisions-2026.json'
+ if decisions_path.exists():
+  for d in json.loads(decisions_path.read_text())['decisions']:
+   for q in questions:
+    if q['id']==d['id']:
+     q['status']=d['after']
+     q['audit']={'reason':'duplicate_competence','replacedBy':d['replacedBy'],
+      'reviewedAt':'2026-10-07','note':d['reason']}
  write('data/completion-2026.json',questions)
  write('reports/completion-legal-evidence-2026.json',{'date':'2026-10-07','scope':'80 câu độc lập COMP26; không phải 500 câu mới đã hoàn tất.','questions':proof})
  print(json.dumps({'new':len(questions),'groups':counts,'keys':dict(collections.Counter(next(a['id'] for a in q['answers'] if a['correct']) for q in questions))},ensure_ascii=False))

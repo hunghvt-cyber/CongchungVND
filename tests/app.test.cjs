@@ -101,9 +101,9 @@ test('feedback on separate answer cards sends central receipt, validates text an
   h.context.localStorage.setItem=()=>{throw Error('blocked');};h.context.fetch=async()=>{throw Error('offline');};const root=new Element();h.showFeedback(h.state.questions[0],root);const box=root.querySelector('.feedback-box');box.querySelector('.feedback-text').value='Không mất nội dung';box.querySelector('.feedback-type').value='other';await box.querySelector('.send-feedback').listeners.click();assert.match(box.querySelector('.feedback-status').textContent,/không lưu được/);
 });
 test('real published bank has unique IDs and only reviewed content enters either mode',()=>{
-  const all=['questions','derived-questions','validated-2026','imported-exams-2026','imported-deposit-2026','imported-authorization-2026','imported-family-2026','imported-inheritance-2026','completion-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  const all=['questions','derived-questions','validated-2026','imported-exams-2026','imported-deposit-2026','imported-authorization-2026','imported-family-2026','imported-inheritance-2026','completion-2026','refinement-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
   assert.equal(new Set(all.map(q=>q.id)).size,all.length);
-  assert.equal(all.filter(q=>q.id.startsWith('VER26-') && ['active','verified'].includes(q.status)).length,100);
+  assert.equal(all.filter(q=>q.id.startsWith('VER26-') && ['active','verified'].includes(q.status)).length,98);
   assert.doesNotMatch(JSON.stringify(all),/Luật [0-9]/);assert.ok(all.every(q=>q.explanation&&q.legalBasis.length));
   const h=harness();start(h,'mock',all,100);assert.ok(h.state.questions.every(q=>['active','verified'].includes(q.status)));
 });
@@ -112,8 +112,8 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
   const h=harness(); await new Promise(resolve=>setImmediate(resolve));
   h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
   h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
-  const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
-  assert.equal(seen.length,9);assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8')).length);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
+  assert.equal(seen.length,10);assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
   h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
   h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
   h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);
@@ -121,7 +121,7 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
 
 
 test('one shared code reproduces full exam in independent sessions with separate answers/deadlines',()=>{
-  const bank=['questions','derived-questions','validated-2026','imported-exams-2026','imported-deposit-2026','imported-authorization-2026','imported-family-2026','imported-inheritance-2026','completion-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
+  const bank=['questions','derived-questions','validated-2026','imported-exams-2026','imported-deposit-2026','imported-authorization-2026','imported-family-2026','imported-inheritance-2026','completion-2026','refinement-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')));
   const creator=harness(),participant=harness();start(creator,'mock',bank,20);
   participant.state.bank=[...bank].reverse();participant.advance(5000);participant.startSharedExam('  '+creator.state.examCode.toLowerCase()+'  ');
   assert.equal(creator.state.examCode,participant.state.examCode);
@@ -216,7 +216,7 @@ test('inheritance bank grades all 32 cases and explains wrong practice answers w
 test('completion cases load in both parts, grade correctly after shuffling, and keep prior snapshots',()=>{
  const bank=JSON.parse(fs.readFileSync('data/completion-2026.json','utf8'));
  for(const part of [1,2]){
-  const expected=bank.filter(q=>q.part===part).length;
+  const expected=bank.filter(q=>q.part===part&&q.status==='active').length;
   const practice=harness();practice.memory.set('previous-snapshot','original');practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,100,60);
   assert.equal(practice.state.questions.length,expected);
   for(let i=0;i<expected;i++){
@@ -227,6 +227,20 @@ test('completion cases load in both parts, grade correctly after shuffling, and 
   const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,60);
   for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);
   mock.submitMock();assert.equal(mock.state.score,expected);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);
+  const wrong=harness();wrong.state.bank=[bank.find(q=>q.part===part)];wrong.state.mode='practice';wrong.startSession(part,1,60);wrong.toggleAnswer(wrong.state.questions[0].answers.find(a=>!a.correct).id);wrong.submitPractice();assert.equal(wrong.state.score,0);assert.match(wrong.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);
+ }
+});
+
+test('all refinement cases work in practice, mixed-answer mocks and unchanged previous history',()=>{
+ const bank=JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8'));
+ for(const part of [1,2]){
+  const expected=bank.filter(q=>q.part===part).length;
+  const practice=harness();practice.memory.set('old-exam-snapshot','existing');practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,100,60);
+  for(let i=0;i<expected;i++){practice.state.current=i;practice.renderQuestion();const q=practice.state.questions[i];practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Căn cứ pháp lý/);assert.match(practice.document.querySelector('#explanation').innerHTML,/Xem văn bản/);}
+  assert.equal(practice.state.score,expected);assert.equal(practice.memory.get('old-exam-snapshot'),'existing');
+  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,60);
+  for(let i=0;i<expected;i++){const q=mock.state.questions[i];mock.state.answers[q.id]=[q.answers.find(a=>i%2===0?a.correct:!a.correct).id];}
+  mock.submitMock();assert.equal(mock.state.score,Math.ceil(expected/2));assert.equal(Object.keys(mock.state.results).length,expected);assert.match(mock.els.result.innerHTML,/✗ Sai/);
   const wrong=harness();wrong.state.bank=[bank.find(q=>q.part===part)];wrong.state.mode='practice';wrong.startSession(part,1,60);wrong.toggleAnswer(wrong.state.questions[0].answers.find(a=>!a.correct).id);wrong.submitPractice();assert.equal(wrong.state.score,0);assert.match(wrong.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);
  }
 });

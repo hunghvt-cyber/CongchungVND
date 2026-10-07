@@ -4413,7 +4413,7 @@
     "part": 2,
     "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
     "type": "single",
-    "status": "active",
+    "status": "archived",
     "difficulty": "advanced",
     "questionForm": "integrated",
     "question": {
@@ -4473,6 +4473,14 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    },
+    "audit": {
+      "reason": "duplicate_competence",
+      "replacedBy": [
+        "VER26-055"
+      ],
+      "reviewedAt": "2026-10-07",
+      "note": "Cùng cấm góp vốn bằng đất chính sách khoản 3 Điều 16; đổi tên công ty gia đình không tạo năng lực mới."
     }
   }
 ]

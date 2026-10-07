@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-07",
+  "archivedAsDuplicateCompetence": 3,
+  "decisions": [
+    {
+      "id": "VER26-008",
+      "file": "validated-2026.json",
+      "before": "active",
+      "after": "archived",
+      "replacedBy": [
+        "SRC26-012"
+      ],
+      "reason": "Cùng xử lý người không đọc được chọn bên mua làm chứng; câu giữ có giải thích tốt hơn.",
+      "preserve": "Giữ ID, khóa, nội dung, căn cứ và lastVerified để lịch sử bài làm vẫn truy xuất được."
+    },
+    {
+      "id": "VER26-057",
+      "file": "validated-2026.json",
+      "before": "active",
+      "after": "archived",
+      "replacedBy": [
+        "VER26-021"
+      ],
+      "reason": "Cùng xử lý chồng bán đất chung thiếu thỏa thuận văn bản hoặc đại diện của vợ; các điều kiện đất liệt kê thêm không đổi cách giải.",
+      "preserve": "Giữ ID, khóa, nội dung, căn cứ và lastVerified để lịch sử bài làm vẫn truy xuất được."
+    },
+    {
+      "id": "COMP26-DAT-002",
+      "file": "completion-2026.json",
+      "before": "active",
+      "after": "archived",
+      "replacedBy": [
+        "VER26-055"
+      ],
+      "reason": "Cùng cấm góp vốn bằng đất chính sách khoản 3 Điều 16; đổi tên công ty gia đình không tạo năng lực mới.",
+      "preserve": "Giữ ID, khóa, nội dung, căn cứ và lastVerified để lịch sử bài làm vẫn truy xuất được."
+    }
+  ],
+  "newCases": 80,
+  "newlyActiveFromEXP": 0,
+  "rewrittenExistingQuestions": 0,
+  "newDraftsImprovedBeforePublication": {
+    "count": 19,
+    "ids": [
+      "REFIN26-CC-004",
+      "REFIN26-CC-006",
+      "REFIN26-CC-012",
+      "REFIN26-CC-015",
+      "REFIN26-CC-030",
+      "REFIN26-CC-036",
+      "REFIN26-CC-037",
+      "REFIN26-CC-038",
+      "REFIN26-CC-039",
+      "REFIN26-QT-004",
+      "REFIN26-QT-009",
+      "REFIN26-QT-010",
+      "REFIN26-QT-016",
+      "REFIN26-QT-018",
+      "REFIN26-QT-024",
+      "REFIN26-DAT-009",
+      "REFIN26-DAT-010",
+      "REFIN26-DAT-012",
+      "REFIN26-DAT-014"
+    ],
+    "reason": "Thay nhiễu phi lý bằng nhầm lẫn về thủ tục, chủ thể hoặc phạm vi quy định; không đổi khóa để đạt số lượng."
+  },
+  "newDraftsRebuiltBeforePublication": [
+    {
+      "id": "REFIN26-CC-016",
+      "reason": "Bản nháp lặp mốc đăng ký bổ sung với CC-014; đổi sang thủ tục cấp lại giấy bị hỏng theo khoản 3 Điều 26."
+    }
+  ]
+}

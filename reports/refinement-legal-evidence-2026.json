@@ -1,0 +1,2058 @@
+{
+  "date": "2026-10-07",
+  "scope": "80 câu REFIN26 riêng biệt; trích điều khoản giải quyết evidenceRef tại refinement-provisions-2026.json.",
+  "questions": [
+    {
+      "id": "REFIN26-CC-001",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng công chứng hợp danh muốn nhận một nhà đầu tư không phải CCV làm thành viên góp vốn, không cho người này ký công chứng. Cơ cấu này có được phép không?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-002",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "CCV A góp vốn lập Văn phòng hợp danh nhưng muốn chỉ nhận lợi nhuận, không tham gia hợp danh. Hai CCV khác đã nhận làm thành viên hợp danh. Điều gì vẫn sai?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 9",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm l"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "9"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-003",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Hai thành viên hợp danh của Văn phòng góp vốn theo tỷ lệ 80% và 20%. Người góp 80% nói mình có quyền quyết định cao hơn theo tỷ lệ vốn. Nhận định phù hợp Điều 23 là gì?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-004",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Ai đáp ứng tư cách Trưởng Văn phòng công chứng hợp danh theo khoản 2 Điều 23, giả sử không có trở ngại khác?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-005",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Trưởng Văn phòng muốn thuê một giám đốc kinh doanh không phải CCV điều hành toàn bộ Văn phòng, còn mình chỉ ký công chứng. Chỉ xét mô hình điều hành, xử lý đúng là gì?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-006",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Phòng công chứng đã có quyết định thành lập; Văn phòng công chứng mới có quyết định cho phép thành lập, chưa có giấy đăng ký hoạt động. So sánh mốc khắc, sử dụng con dấu theo luật nào đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 20",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "20"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 6"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 25",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-007",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Tên Văn phòng dự kiến gây nhầm lẫn với một tổ chức công chứng đang hoạt động ở tỉnh khác. Người lập hồ sơ nói chỉ cần không trùng trong tỉnh mình. Đánh giá đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-008",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng không đủ nguồn thu, yêu cầu ngân sách cấp tỉnh cấp kinh phí hoạt động thường xuyên vì công chứng là dịch vụ công. Riêng nguyên tắc tài chính tại Điều 23, kết luận nào đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 23",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "23"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-009",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Phòng công chứng cử phó phòng ký thay trong một việc nội bộ và cho rằng người đại diện theo pháp luật đã tự đổi thành phó phòng. Điều 20 xác định thế nào?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 20",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-010",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một CCV đủ điều kiện muốn làm việc tại Phòng công chứng bằng hợp đồng lao động. Phòng nói chỉ CCV là viên chức mới được hành nghề ở đây. Nhận định đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 37",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm c"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "37"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 37",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-011",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một Văn phòng có CCV hợp danh và CCV làm hợp đồng lao động. CCV làm hợp đồng nói mọi CCV ở Văn phòng đều phải là thành viên hợp danh. Phân biệt đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 37",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "37"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 37",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm c"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-012",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Khách quen nói đã biết CCV nhiều năm nên CCV không cần xuất trình thẻ khi hành nghề. Chỉ xét nghĩa vụ tại Điều 38, kết luận nào đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 38",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-013",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng đổi tên hợp lệ. CCV nói giữ nguyên thẻ mang tên tổ chức cũ vì số quyết định bổ nhiệm không đổi. Chỉ xét thẻ, cần làm gì?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 38",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "38"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 38",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "38"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-014",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Phòng công chứng có quyết định bổ sung CCV; Văn phòng đã ký hợp đồng với CCV mới nhưng chưa được ghi nhận bổ sung trong đăng ký hoạt động. So sánh mốc hành nghề nào phù hợp?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 21",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "21"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 25",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "25"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 26",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-015",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng đã được cho phép thành lập nhưng chưa được cấp giấy đăng ký hoạt động. Các thành viên muốn ký công chứng ngay để có doanh thu trả tiền thuê. Xử lý đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 25",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-016",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng đang hoạt động hợp pháp bị hỏng giấy đăng ký hoạt động do nước làm nhòe, nội dung đăng ký không thay đổi. Nhân viên đề xuất xin quyết định thành lập Văn phòng mới. Cách xử lý phù hợp là gì?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 26",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-017",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng có hai thành viên hợp danh. Một người được cả hai đồng ý bằng văn bản cho rút vốn ngay, việc rút làm Văn phòng chỉ còn một thành viên. Chỉ xét điều kiện rút vốn, được không?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-018",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Việc rút vốn đã được chấp thuận, số thành viên còn lại đủ. Người rút mới thông báo một tháng và muốn rút giữa năm tài chính, báo cáo năm chưa được thông qua. Cần xử lý gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-019",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "CCV đã tự nguyện rút vốn, chấm dứt tư cách hợp danh tám tháng trước. Nay muốn hợp danh ở Văn phòng khác và viện rằng nơi cũ không còn nợ. Chỉ xét thời hạn hạn chế ở Điều 27, đúng không?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 6"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-020",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Thành viên hợp danh chết. Giá trị phần vốn của người này là 900 triệu; nghĩa vụ thuộc trách nhiệm của người này đã xác định 200 triệu. Chỉ xét giá trị trả cho thừa kế theo Điều 27, tính thế nào?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-021",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người thừa kế thành viên đã chết là CCV, nhưng chỉ một nửa thành viên hợp danh còn lại chấp thuận cho vào hợp danh. Người này nói thừa kế vốn làm mình tự thành thành viên. Phân biệt đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 28",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-022",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Thành viên mới được chấp thuận vào Văn phòng nhưng chưa nộp đủ vốn cam kết. Văn phòng muốn ghi nhận đăng ký bổ sung trước, chờ thu vốn sau. Trình tự luật định là gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 28",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "28"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-023",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng dùng tên một CCV làm tên riêng. Người này đã chấm dứt tư cách hợp danh; các thành viên muốn giữ tên vì khách quen, dù đang đề nghị thay đổi đăng ký. Điều gì cần thực hiện?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 27",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "27"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-024",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Hai Văn phòng hợp danh đặt trụ sở ở hai tỉnh khác nhau, toàn bộ thành viên đồng ý hợp nhất. Riêng điều kiện địa bàn theo Điều 29, có đủ không?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 29",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-025",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng A sáp nhập vào B hợp lệ. Khách muốn biết ai tiếp tục thực hiện quyền, nghĩa vụ của A. Đáp án nào đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 29",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "29"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 34",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "34"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-026",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng hợp danh muốn chuyển toàn bộ phần vốn của toàn bộ thành viên cho một CCV duy nhất, người này đã hành nghề mười năm. Riêng số người nhận theo Điều 30, được không?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 30",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-027",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng mới hoạt động một năm nhưng các thành viên đều có mười năm hành nghề. Họ muốn dùng kinh nghiệm cá nhân thay điều kiện để chuyển nhượng toàn bộ vốn theo Điều 30. Kết luận đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 30",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-028",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Toàn bộ hợp đồng chuyển vốn theo Điều 30 đã ký nhưng Sở chưa cấp lại đăng ký hoạt động. Thành viên chuyển nhượng nói tư cách hợp danh đã chấm dứt từ ngày ký. Mốc đúng theo khoản 4 là gì?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 30",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-029",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Chủ Văn phòng loại hình DNTN đã bán Văn phòng. Chỉ người bán và người mua thỏa thuận chuyển hết nợ cũ sang người mua; chủ nợ không tham gia, không có thỏa thuận khác. Người bán được miễn nợ cũ chưa?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 31",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-030",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "CCV đủ hai năm hành nghề muốn mua Văn phòng DNTN nhưng chỉ cam kết thuê người khác làm Trưởng Văn phòng. Chỉ xét điều kiện người mua, điểm còn thiếu là gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 31",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "31"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 31",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm c"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "31"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-031",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng có ba CCV; chỉ một người bị tạm đình chỉ, hai người còn lại vẫn đủ điều kiện. Cơ quan muốn chỉ dựa điểm a khoản 1 Điều 32 để tạm ngừng toàn Văn phòng. Đánh giá đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 32",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-032",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng tạm ngừng đúng luật do bất khả kháng vẫn còn sau mười hai tháng. Có thể chỉ viện giới hạn mười hai tháng để thu hồi theo điểm k Điều 33 không?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 32",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "32"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 33",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm k"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "33"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-033",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng đang tạm ngừng, hồ sơ có người yêu cầu cấp bản sao hợp lệ. Sở đã chỉ định tổ chức khác tiếp nhận. Văn phòng muốn giữ hồ sơ đến hết tạm ngừng. Xử lý đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 32",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "32"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-034",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng có hai thành viên; một người chết, người còn lại muốn bổ sung CCV trong bốn tháng tiếp theo. Cơ quan đòi thu hồi ngay chỉ vì chỉ còn một người. Riêng khoản 2 Điều 33 cho phép gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 33",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "33"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-035",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "So sánh yêu cầu công chứng chưa giải quyết khi Văn phòng tự đề nghị chấm dứt và khi bị thu hồi quyết định thành lập: cách xử lý nào đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 34",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "34"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 34",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "34"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-036",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng bảo đảm lịch làm việc theo cơ quan hành chính và mở thêm sáng thứ bảy. Người kiểm tra nói vì giờ hành chính kết thúc nên không được cung cấp dịch vụ thêm. Đánh giá đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 35",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "35"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 36",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-037",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "CCV đã có nhiều năm kinh nghiệm, Văn phòng không cho tham gia bồi dưỡng hằng năm vì đang nhiều hồ sơ. Phân biệt nghĩa vụ đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 18",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm g"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "18"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 36",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 7"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-038",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "CCV đã gia nhập Hội tại nơi hành nghề nhưng nay muốn thôi hội viên và tiếp tục hành nghề ở địa phương đó. Chỉ xét khoản 2 Điều 18, nhận định đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 18",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm h"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-039",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một quy tắc do Hiệp hội ban hành trái Luật Công chứng. Chủ thể và biện pháp nào được Điều 41 giao để xử lý?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 41",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "41"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 41",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "41"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-CC-040",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cơ quan có thẩm quyền yêu cầu cung cấp thông tin đúng pháp luật phục vụ thanh tra. Văn phòng từ chối tuyệt đối vì bảo mật khách hàng, dù có căn cứ pháp luật cho yêu cầu. Hướng đánh giá đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 36",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 8"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "36"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 36",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "36"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-001",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng khai thác hợp pháp thông tin dân cư từ cơ sở dữ liệu để giải quyết hồ sơ công chứng giấy. Nhân viên định bỏ qua tài liệu kết quả vì dữ liệu vẫn còn trên hệ thống. Cách lập hồ sơ nào đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 67",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "67"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-002",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Khách hàng đủ năng lực có giấy tờ đầy đủ nhưng chưa có dự thảo hợp đồng, đề nghị công chứng viên soạn theo ý định hợp pháp của mình. Nhận định nào đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 43",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "43"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 43",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "43"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 43",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "43"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-003",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người bán không đọc được, mời một người làm chứng độc lập, không có lợi ích liên quan nhưng người này cũng không đọc được. Công chứng viên nên xử lý thế nào?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 49",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "49"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-004",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người bán là người khuyết tật nghe, không nghe được, sử dụng ngôn ngữ ký hiệu; hồ sơ khác đầy đủ. Cách kiểm tra hỗ trợ giao tiếp nào phù hợp?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 49",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "49"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 49",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "49"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-005",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Phiên dịch hợp lệ đã dịch giá và tài sản nhưng bỏ phần phạt vi phạm cùng trao đổi về nghĩa vụ thanh toán vì cho rằng quá dài. Công chứng viên nên làm gì trước khi ký?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 49",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "49"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-006",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một người làm chứng đã lưu mẫu chữ ký tại văn phòng từ giao dịch trước, nay gửi văn bản đã ký ở nhà và xin miễn có mặt. Việc có mẫu chữ ký này có đủ để áp dụng ngoại lệ ký trước không?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 50",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "50"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 50",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-007",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người yêu cầu không ký được, không sử dụng được vân tay của cả hai ngón trỏ nhưng còn vân tay ngón giữa trái. Phương án nào đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 50",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-008",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một khách hàng ký được vẫn đề nghị điểm chỉ đồng thời khi công chứng hợp đồng. Nhận định “đã ký được thì pháp luật cấm điểm chỉ thêm” được đánh giá thế nào?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 50",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "50"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-009",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Hồ sơ công chứng ngoài trụ sở vì sức khỏe có người làm chứng và phiên dịch. Lời chứng đã ghi địa điểm nhưng bỏ lý do ngoài trụ sở và thông tin làm chứng, phiên dịch. Cần xử lý thế nào?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 48",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm e"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "48"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-010",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Sau khi sửa đúng một lỗi đánh máy không ảnh hưởng quyền, nghĩa vụ, văn phòng chỉ gọi điện báo các bên. Yêu cầu còn thiếu là gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 52",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "52"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-011",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng đã công chứng đang tạm ngừng hoạt động; Sở Tư pháp đã chỉ định tổ chức X thực hiện công việc liên quan. Khách muốn sửa lỗi kỹ thuật tại văn phòng Y gần nhà, không phải X. Cách xử lý đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 52",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "52"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 32",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "32"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-012",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Xét riêng điều kiện chủ thể yêu cầu công chứng sửa đổi một văn bản là hành vi pháp lý đơn phương đã được công chứng, không thuộc ngoại lệ luật khác. Ai phải yêu cầu?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "53"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-013",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Bên bán đã ký hợp đồng công chứng yêu cầu cấp bản sao của chính hợp đồng đó. Văn phòng buộc phải có văn bản đồng ý của bên mua chỉ vì cho rằng mọi người xin bản sao đều cần sự đồng ý. Đánh giá nào đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-014",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Chủ thể yêu cầu công chứng là cá nhân đã chết. Một người có quyền, nghĩa vụ liên quan nhưng không phải bên giao dịch xin bản sao; toàn bộ người thừa kế đã được xác định đều đồng ý. Cách giải quyết đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-015",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Pháp nhân yêu cầu công chứng đã chấm dứt hoạt động và tổ chức kế thừa quyền, nghĩa vụ đã được xác định. Người liên quan xin bản sao được tổ chức kế thừa đồng ý. Giám đốc cũ phản đối với tư cách cá nhân. Xét điều kiện đồng ý, căn cứ nào quyết định?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-016",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Một bản gốc văn bản công chứng đang được lưu tại tổ chức X. Tổ chức Y chỉ giữ bản photocopy do khách mang đến. Ai có thẩm quyền cấp bản sao văn bản công chứng theo Điều 69?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 69",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "69"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-017",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cơ quan có thẩm quyền yêu cầu bằng văn bản cung cấp hồ sơ liên quan phục vụ xét xử, đồng thời đề nghị mang bản gốc sang trụ sở Tòa án để đối chiếu. Tổ chức lưu trữ nên xử lý thế nào?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 68",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "68"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-018",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Văn phòng chấm dứt hoạt động, không thỏa thuận được nơi nhận hồ sơ và không còn khả năng trả kinh phí lưu trữ. Địa phương không có Phòng công chứng. Phương án nào đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 68",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "68"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-019",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Tổ chức giữ di chúc sắp chấm dứt hoạt động, đã tìm cách nhưng không liên hệ được với người lập di chúc. Trường hợp này phải xử lý bản di chúc thế nào?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 61",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "61"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-020",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Các bên có mặt cùng công chứng viên để giao kết; công chứng viên và tổ chức dùng chữ ký số tạo văn bản công chứng điện tử. Đây là quy trình nào theo luật?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 65",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "65"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-021",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Nhận định “chỉ cần quét bản giấy đã công chứng thành PDF thì PDF luôn có giá trị như bản gốc văn bản công chứng điện tử” đúng hay sai?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 64",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "64"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-022",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Tra cứu cơ sở dữ liệu thấy cảnh báo rủi ro chưa phải quyết định ngăn chặn; nguồn gốc cảnh báo và tình trạng hiện tại chưa rõ. Bước phù hợp trước khi quyết định công chứng là gì?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 66",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "66"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 42",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "42"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-023",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Nhân viên văn phòng định xuất thông tin đời sống riêng tư của khách từ cơ sở dữ liệu công chứng để bán danh sách quảng cáo, không có căn cứ pháp luật cho mục đích này. Đánh giá nào đúng?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 66",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "66"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-024",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Công chứng viên phát hiện giao dịch mình đã công chứng có dấu hiệu vi phạm pháp luật. Muốn xử lý hiệu lực văn bản, công chứng viên có thể tự ra quyết định tuyên vô hiệu thay Tòa án không?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 54",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "54"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-QT-025",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người bán không đọc được mời người cậu làm chứng cho hợp đồng bán xe. Người cậu có năng lực đầy đủ, đọc nghe ký được, không có quyền, lợi ích, nghĩa vụ liên quan và trực tiếp chứng kiến. Chỉ quan hệ họ hàng có làm người này bị loại theo Điều 49 không?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 49",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "49"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-001",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cá nhân thuê đất Nhà nước trả tiền hằng năm, sở hữu hợp pháp nhà xưởng trên đất; muốn thế chấp cả quyền sử dụng đất và nhà xưởng. Chỉ xét loại quyền theo khoản 2 Điều 37, đối tượng nào được thế chấp?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 2",
+            "point": "Điểm đ"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-002",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cá nhân thuê lại đất trong khu công nghiệp, trả tiền một lần cho cả thời gian thuê, muốn thế chấp quyền sử dụng đất, tài sản sở hữu của mình. Chỉ xét chế độ quyền tại Điều 37, nhận định nào phù hợp?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 3",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "37"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 1",
+            "point": "Điểm g"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-003",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cá nhân được Nhà nước giao đất và miễn tiền sử dụng đất nói rằng việc miễn tiền làm mình mất toàn bộ quyền chuyển nhượng dù các điều kiện khác đều đủ. Đánh giá nào đúng theo Điều 37?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-004",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cá nhân cư trú ở tỉnh A nhận chuyển nhượng đất ở tỉnh B, không thuộc ngoại lệ Điều 45 khoản 8 hoặc Điều 48. Người này yêu cầu văn phòng ở tỉnh A công chứng hợp đồng chuyển nhượng thông thường. Phân biệt nào đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 28",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "28"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 44",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": {
+            "documentCode": "CC",
+            "article": "44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-005",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Tất cả người thừa kế quyền sử dụng đất đều là người nước ngoài thuộc trường hợp khoản 3 Điều 44, không được cấp giấy chứng nhận. Họ muốn chuyển nhượng di sản cho người đủ điều kiện. Ai đứng bên chuyển nhượng theo điều khoản này?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 44",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 3",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-006",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Tất cả người thừa kế thuộc nhóm không được cấp giấy chứng nhận tại khoản 3 Điều 44, chưa chuyển nhượng hoặc tặng cho đất thừa kế. Bước hồ sơ nào được luật quy định?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 44",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 3",
+            "point": "Điểm c"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-007",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Di sản đất có một người thừa kế trong nước được nhận quyền đất và một người gốc Việt ở nước ngoài không thuộc diện được sở hữu nhà gắn với đất ở tại Việt Nam. Sau phân chia, cách xử lý quyền và giấy chứng nhận nào đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 44",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "44"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 44",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-008",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người thừa kế thuộc trường hợp điểm c khoản 3 Điều 44 chưa bán hoặc tặng cho đất, muốn ủy quyền bằng văn bản cho người ở Việt Nam trông nom, tạm sử dụng và thực hiện nghĩa vụ đất đai. Nhận định nào đúng?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 44",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-009",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người sử dụng đất đã có giấy chứng nhận được cơ quan có thẩm quyền cho đổi tên hợp pháp, còn thửa đất và chủ thể không thay đổi. Theo danh mục Điều 133, thủ tục đất đai nào cần nhận diện?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 133",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "133"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-010",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Người để lại đất chết tháng 1; đến tháng 9 các thừa kế mới phân chia xong quyền sử dụng đất, không có bản án hoặc quyết định của Tòa án. Mốc tính thời hạn đăng ký biến động thừa kế theo Điều 133 là gì?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 133",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "133"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-011",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Vợ chồng có đất chung, đã thỏa thuận ghi riêng tên chồng làm đại diện trên giấy chứng nhận. Chồng muốn bán không có thỏa thuận bằng văn bản của vợ và không có quyền đại diện định đoạt. Phân biệt nào đúng?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 135",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "135"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 35",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+            "clause": "Khoản 2",
+            "point": "Điểm a"
+          },
+          "evidenceRef": {
+            "documentCode": "HN",
+            "article": "35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-012",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Ba người có chung quyền sử dụng một thửa đất, không yêu cầu cấp chung một giấy chứng nhận. Nguyên tắc cấp giấy tại khoản 2 Điều 135 là gì?",
+      "answer": "A",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 135",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "135"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-013",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Đo lại thấy diện tích lớn hơn giấy chứng nhận nhưng ranh giới đã dịch chuyển sang đất liền kề. Chủ đất viện dẫn quy tắc công nhận diện tích đo thực tế để đương nhiên nhận toàn bộ phần tăng. Đánh giá nào đúng?",
+      "answer": "B",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 135",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 6"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "135"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-014",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Cá nhân sử dụng đất chết, không có người nhận thừa kế, nhưng nghĩa vụ tài sản theo pháp luật dân sự chưa được thực hiện. Đề xuất thu hồi ngay theo điểm b khoản 1 Điều 82 bỏ qua nghĩa vụ đó có phù hợp không?",
+      "answer": "C",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 82",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 1",
+            "point": "Điểm b"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "82"
+          }
+        }
+      ]
+    },
+    {
+      "id": "REFIN26-DAT-015",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "competence": "Hai cá nhân trực tiếp thuê đất nông nghiệp của Nhà nước trả tiền hằng năm muốn dùng thủ tục chuyển đổi quyền sử dụng đất theo Điều 47. Họ nói cùng tỉnh là đủ. Điều gì phải phân biệt?",
+      "answer": "D",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 47",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "47"
+          }
+        },
+        {
+          "reference": {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": {
+            "documentCode": "DAT",
+            "article": "37"
+          }
+        }
+      ]
+    }
+  ]
+}

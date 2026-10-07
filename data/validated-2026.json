@@ -382,7 +382,7 @@
     "part": 2,
     "topic": "Thủ tục và nghiệp vụ công chứng",
     "type": "single",
-    "status": "active",
+    "status": "archived",
     "difficulty": "application",
     "questionForm": "workflow",
     "question": {
@@ -427,6 +427,14 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "reason": "duplicate_competence",
+      "replacedBy": [
+        "SRC26-012"
+      ],
+      "reviewedAt": "2026-10-07",
+      "note": "Cùng xử lý người không đọc được chọn bên mua làm chứng; câu giữ có giải thích tốt hơn."
     }
   },
   {
@@ -3018,7 +3026,7 @@
     "part": 2,
     "topic": "Đất đai và bất động sản",
     "type": "single",
-    "status": "active",
+    "status": "archived",
     "difficulty": "advanced",
     "questionForm": "integrated",
     "question": {
@@ -3078,6 +3086,14 @@
         "OFFICIAL-HNGD-HN25"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "reason": "duplicate_competence",
+      "replacedBy": [
+        "VER26-021"
+      ],
+      "reviewedAt": "2026-10-07",
+      "note": "Cùng xử lý chồng bán đất chung thiếu thỏa thuận văn bản hoặc đại diện của vợ; các điều kiện đất liệt kê thêm không đổi cách giải."
     }
   },
   {

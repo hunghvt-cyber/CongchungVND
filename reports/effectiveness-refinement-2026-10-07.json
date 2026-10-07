@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-07",
+  "scope": "Kiểm tra hiệu lực các căn cứ dùng cho lô REFIN26 và hai văn bản hướng dẫn có dấu hiệu hết hiệu lực một phần; không xác nhận đã rà lại toàn bộ văn bản của 583 câu trong ngày này.",
+  "documents": [
+    {
+      "document": "Luật Công chứng 46/2024/QH15 và Luật 04/2026/QH16",
+      "sources": [
+        "https://vbpl.moj.gov.vn/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=172799&Keyword=",
+        "https://congbao.chinhphu.vn/van-ban/luat-so-04-2026-qh16-469531.htm",
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+      ],
+      "decision": "REFIN26 dùng quy định đang áp dụng tháng 10/2026 trong Luật 46; không lấy sửa đổi của Luật 04 áp từ 01/01/2027 làm quy định hiện tại. Các câu cũ viện dẫn Luật 04 tiếp tục bắt buộc ghi rõ ngày áp dụng trong stem, trừ câu hỏi chính ngày hiệu lực."
+    },
+    {
+      "document": "Luật Đất đai 31/2024/QH15, đối chiếu VBHN 44/VBHN-VPQH ngày 16/03/2026",
+      "source": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+      "decision": "Dùng các Điều 28, 37, 44, 47, 82, 133, 135 được lưu trong hồ sơ điều khoản. VBHN là công cụ đọc quy định hợp nhất; không dùng ngày ban hành VBHN làm ngày luật có hiệu lực. Căn cứ mới không hỏi thẩm quyền đăng ký cấp huyện hoặc thủ tục cấp giấy đã phân cấp sau năm 2025."
+    },
+    {
+      "document": "Luật Hôn nhân và gia đình 52/2014/QH13, đối chiếu VBHN 121/2025",
+      "sources": [
+        "https://vbpl.moj.gov.vn/botuphap/Pages/vbpq-thuoctinh.aspx?ItemID=36870",
+        "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      ],
+      "status": "Còn hiệu lực",
+      "activeReference": "REFIN26-DAT-011, Điều 35 khoản 2 điểm a",
+      "decision": "Đối chiếu yêu cầu thỏa thuận bằng văn bản khi định đoạt bất động sản chung; không suy tên đại diện trên giấy chứng nhận là quyền định đoạt riêng."
+    },
+    {
+      "document": "Nghị định 104/2025/NĐ-CP",
+      "status": "Hết hiệu lực một phần",
+      "sources": [
+        "https://vbpl.moj.gov.vn/TW/Pages/vbpq-lichsu.aspx?ItemID=178104",
+        "https://congbao.cdnchinhphu.vn/180507251028987904/2026/2/24/393signed-1771902610647855041802.pdf"
+      ],
+      "specificChange": "Điều 64 bị bãi bỏ bởi Nghị định 280/2025/NĐ-CP từ 01/11/2025, theo danh mục Quyết định 393/QĐ-BTP.",
+      "activeReferences": [
+        {
+          "id": "INH26-030",
+          "article": "Điều 44"
+        },
+        {
+          "id": "INH26-032",
+          "article": "Điều 44 khoản 2, khoản 3"
+        }
+      ],
+      "decision": "Không có câu active viện dẫn Điều 64 Nghị định 104. Không loại Điều 44 chỉ vì văn bản có trạng thái hết hiệu lực một phần."
+    },
+    {
+      "document": "Nghị định 18/2026/NĐ-CP; VBHN chứng thực 753/VBHN-BTP",
+      "status": "Nghị định 18 hết hiệu lực một phần từ 01/03/2026",
+      "sources": [
+        "https://vbpl.moj.gov.vn/botuphap/Pages/vbpq-lichsu.aspx?ItemID=187582",
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/65-ndcp.signed.pdf",
+        "https://vbpl.vn/botuphap/Pages/vbpq-toanvan.aspx?ItemID=187585&dvid=41",
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf"
+      ],
+      "specificChange": "Khoản 4 điểm b Điều 21 Nghị định 65/2026/NĐ-CP bãi bỏ Điều 7 Nghị định 18/2026/NĐ-CP. Đối chiếu bản ký trang 18 (chỉ số PDF 17): phần quản tài viên và quản lý, thanh lý tài sản.",
+      "decision": "Sự thay thế này không tự làm mất các điều khoản chứng thực hợp nhất trong VBHN 753. Lô REFIN26 không viện dẫn Nghị định 18 hoặc 65; không mở rộng kết luận sang mọi điều của hai nghị định."
+    }
+  ]
+}
