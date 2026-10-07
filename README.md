@@ -14,7 +14,7 @@ Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 
 ## MVP hiện tại
 
-Web tĩnh dùng GitHub Pages. Sau lượt bổ sung tiếp ngày 07/10/2026, lưu **1.102 bản ghi: 583 active, 0 review trong data, 519 archived**. App tải 10 file với 602 bản ghi và chỉ chọn câu active. Năm file EXP cơ học vẫn không được tải. Lượt tiếp này thêm 80 câu REFIN26, ngừng dùng 3 câu trùng năng lực và giữ nguyên ID/nội dung lịch sử. Hai lô COMP26 và REFIN26 có tổng 160 câu mới lưu trữ, trong đó 159 còn active; chưa hoàn tất mục tiêu thay đủ 500 câu mở rộng. Xem [báo cáo lượt tiếp](reports/refinement-2026-10-07.md), [ma trận hiện tại](reports/matrix-refinement-2026-10-07.json), [hai đề luyện 40 câu và bài giải](reports/refinement-exams-2026-10-07.md) và [chứng cứ 80 câu mới](reports/refinement-legal-evidence-2026.json).
+Web tĩnh dùng GitHub Pages. Sau lượt bổ sung tiếp ngày 07/10/2026, lưu **1.102 bản ghi: 583 active, 0 review trong data, 519 archived**. App tải 10 file với 602 bản ghi và chỉ chọn câu active. Năm file EXP cơ học vẫn không được tải. Lượt tiếp này thêm 80 câu REFIN26, ngừng dùng 3 câu trùng năng lực và giữ nguyên ID/nội dung lịch sử. Hai lô COMP26 và REFIN26 có tổng 160 câu mới lưu trữ, trong đó 159 còn active. Tính cả VER26 và các lô nguồn cung cấp, có 482 bản ghi mới ngoài bộ CC/SRC/EXP, 476 active; con số này chưa chứng minh đã hoàn thiện riêng lô EXP hoặc đã hết trùng năng lực. Xem [báo cáo lượt tiếp](reports/refinement-2026-10-07.md), [ma trận hiện tại](reports/matrix-refinement-2026-10-07.json), [hai đề luyện 40 câu và bài giải](reports/refinement-exams-2026-10-07.md) và [chứng cứ 80 câu mới](reports/refinement-legal-evidence-2026.json).
 
 Các mục bổ sung theo ngày ở dưới là lịch sử dự án; số lượng tại các mốc cũ không phải tổng hiện tại.
 

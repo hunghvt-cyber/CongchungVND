@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-10-07T16:47:31.480141+00:00",
+  "commit": "fade4e04cec686dea5cc194dafe98e723f00a716",
+  "files": [
+    {
+      "path": "index.html",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/index.html",
+      "localSha256": "6002041c14d34f36589a11dd83721c6a9fea1680e4ca11006333a7326ecbd890",
+      "httpStatus": 200,
+      "servedSha256": "6002041c14d34f36589a11dd83721c6a9fea1680e4ca11006333a7326ecbd890",
+      "matches": true
+    },
+    {
+      "path": "app.js",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/app.js",
+      "localSha256": "75746d23ed3a8475783453c5c5bf9ee4d4bd7526779b2aa8f4a903b1a35e852c",
+      "httpStatus": 200,
+      "servedSha256": "75746d23ed3a8475783453c5c5bf9ee4d4bd7526779b2aa8f4a903b1a35e852c",
+      "matches": true
+    },
+    {
+      "path": "data/questions.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/questions.json",
+      "localSha256": "a8092fb91854426f0e5debb48bd33233a633e2b95cb07563578724fc51304bed",
+      "httpStatus": 200,
+      "servedSha256": "a8092fb91854426f0e5debb48bd33233a633e2b95cb07563578724fc51304bed",
+      "matches": true,
+      "stored": 100,
+      "active": 93
+    },
+    {
+      "path": "data/derived-questions.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/derived-questions.json",
+      "localSha256": "f5addfa8f7fa307011ccd859ae13a01c81f3fe1d77dc623eed9540d47797a6bf",
+      "httpStatus": 200,
+      "servedSha256": "f5addfa8f7fa307011ccd859ae13a01c81f3fe1d77dc623eed9540d47797a6bf",
+      "matches": true,
+      "stored": 20,
+      "active": 14
+    },
+    {
+      "path": "data/validated-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/validated-2026.json",
+      "localSha256": "ba230ad11204ab16c607d3cc7b7c4f5450eb566dac344603ce777561106e83ed",
+      "httpStatus": 200,
+      "servedSha256": "ba230ad11204ab16c607d3cc7b7c4f5450eb566dac344603ce777561106e83ed",
+      "matches": true,
+      "stored": 100,
+      "active": 98
+    },
+    {
+      "path": "data/imported-exams-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/imported-exams-2026.json",
+      "localSha256": "7687c4e6316839c278f1be13f7cd969f3c16feb5fdce29c4759e3b959038ec99",
+      "httpStatus": 200,
+      "servedSha256": "7687c4e6316839c278f1be13f7cd969f3c16feb5fdce29c4759e3b959038ec99",
+      "matches": true,
+      "stored": 126,
+      "active": 123
+    },
+    {
+      "path": "data/imported-deposit-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/imported-deposit-2026.json",
+      "localSha256": "5ea6188ff2d7d8a15ca54da53e843a17e26109d77a1ab9c1586c20576619f4ff",
+      "httpStatus": 200,
+      "servedSha256": "5ea6188ff2d7d8a15ca54da53e843a17e26109d77a1ab9c1586c20576619f4ff",
+      "matches": true,
+      "stored": 18,
+      "active": 18
+    },
+    {
+      "path": "data/imported-authorization-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/imported-authorization-2026.json",
+      "localSha256": "e4f094775e43c4a0991aab88fac87141d1b76add77193ede48194719cd58e325",
+      "httpStatus": 200,
+      "servedSha256": "e4f094775e43c4a0991aab88fac87141d1b76add77193ede48194719cd58e325",
+      "matches": true,
+      "stored": 20,
+      "active": 20
+    },
+    {
+      "path": "data/imported-family-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/imported-family-2026.json",
+      "localSha256": "1e5b3a468b9c872cba8cde362fe3699b58d8d4f7b3cd3b008fafaca8a73432bc",
+      "httpStatus": 200,
+      "servedSha256": "1e5b3a468b9c872cba8cde362fe3699b58d8d4f7b3cd3b008fafaca8a73432bc",
+      "matches": true,
+      "stored": 26,
+      "active": 26
+    },
+    {
+      "path": "data/imported-inheritance-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/imported-inheritance-2026.json",
+      "localSha256": "09ac23b1da9d57d809d77cd57c3737dd9ae3a714eb6f2a3e82ae984d116e7105",
+      "httpStatus": 200,
+      "servedSha256": "09ac23b1da9d57d809d77cd57c3737dd9ae3a714eb6f2a3e82ae984d116e7105",
+      "matches": true,
+      "stored": 32,
+      "active": 32
+    },
+    {
+      "path": "data/completion-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/completion-2026.json",
+      "localSha256": "04d4e466ff75d0085e89121203a305cdea581e3adc79e0c040ae7c9e5b87a5a6",
+      "httpStatus": 200,
+      "servedSha256": "04d4e466ff75d0085e89121203a305cdea581e3adc79e0c040ae7c9e5b87a5a6",
+      "matches": true,
+      "stored": 80,
+      "active": 79
+    },
+    {
+      "path": "data/refinement-2026.json",
+      "url": "https://hunghvt-cyber.github.io/CongchungVND/data/refinement-2026.json",
+      "localSha256": "14f96edf1642550abd51ffc1d9fbac23a7b8c068fb7f5cd678b09e53e2b7f2ae",
+      "httpStatus": 200,
+      "servedSha256": "14f96edf1642550abd51ffc1d9fbac23a7b8c068fb7f5cd678b09e53e2b7f2ae",
+      "matches": true,
+      "stored": 80,
+      "active": 80
+    }
+  ],
+  "allMatch": true,
+  "servedBankStored": 602,
+  "servedBankActive": 583,
+  "uiVerification": "HTTP và Node DOM giả lập; chưa xác nhận thao tác trình duyệt thật."
+}

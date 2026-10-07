@@ -64,7 +64,7 @@ App tải refinement-2026.json cùng chín file trước, vẫn loại archived 
 
 ## Phần chưa hoàn tất
 
-- 500 câu EXP cơ học vẫn archived; hai lô COMP26 và REFIN26 có 160 bản ghi mới, 159 còn active. Để có 500 câu mở rộng active có giá trị còn thiếu 341, không phải chỉ cần bật lại EXP.
+- 500 câu EXP cơ học vẫn archived; hai lô COMP26 và REFIN26 có 160 bản ghi mới, 159 còn active. Hai lô này không phải toàn bộ câu mới từ đầu dự án: tính thêm VER26 và các lô biên soạn từ nguồn cung cấp, có tổng 482 bản ghi mới ngoài CC/SRC/EXP, trong đó 476 active. Những số này không tự chứng minh đã hoàn thiện riêng lô EXP hoặc đã hết trùng năng lực; không được bật lại EXP để bù số lượng.
 - Các nhánh nguồn DOCX chưa chứng nhận trong báo cáo nguồn tiếp tục review ở danh mục nguồn, dù các file ngân hàng không còn status review.
 - Không cập nhật lastVerified hàng loạt cho câu cũ. 93 câu core, 79 câu COMP26 còn active và 80 câu REFIN26 có hồ sơ kiểm định ngày 07/10; các câu còn lại không được coi đã kiểm định lại toàn nội dung trong lượt này.
 - Tiếp tục cân bằng thủ tục, chứng thực, doanh nghiệp và các tình huống giao thoa khó; rà năng lực toàn bộ bộ cũ theo rubric thống nhất.
