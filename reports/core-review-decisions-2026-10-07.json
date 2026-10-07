@@ -1,0 +1,2951 @@
+{
+  "date": "2026-10-07",
+  "scope": "93 câu active trong questions.json; không cập nhật ngày kiểm định hàng loạt cho các file khác.",
+  "questions": [
+    {
+      "id": "CC-001",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Công chứng theo Luật Công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 2 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Công chứng theo Luật Công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 2",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-002",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1 và khoản 4"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 1"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 4"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-003",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 2"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-004",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Một nguyên tắc hành nghề công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 5"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Một nguyên tắc hành nghề công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 5",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-005",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 6",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-006",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Văn bản công chứng có giá trị chứng cứ như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 6 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Văn bản công chứng có giá trị chứng cứ như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 6",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-007",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Ngôn ngữ dùng trong công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 7"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Ngôn ngữ dùng trong công chứng là gì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 7",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-008",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 8 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 8",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-010",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-011",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-012",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-013",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-014",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-015",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-016",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 10 khoản 4"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-017",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời gian đào tạo nghề công chứng thông thường là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời gian đào tạo nghề công chứng thông thường là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 11",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-018",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 11 khoản 3 điểm b",
+          "Luật Thi hành án dân sự số 106/2025/QH15, Điều 114 khoản 2; Điều 115 khoản 1 (áp dụng từ 01/07/2026)"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 11",
+            "clause": "Khoản 3",
+            "point": "Điểm b",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-019",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời gian tập sự hành nghề công chứng là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời gian tập sự hành nghề công chứng là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-020",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời gian tập sự được tính từ đâu?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời gian tập sự được tính từ đâu?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-021",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-022",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-023",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 12 khoản 5"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-024",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-025",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-026",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 15",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-027",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 15 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 15",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-028",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Công chứng viên đương nhiên miễn nhiệm khi?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Công chứng viên đương nhiên miễn nhiệm khi?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-029",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 16 khoản 2 điểm đ"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm đ"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-030",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 6"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 6"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-031",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 3"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-032",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 4"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 4"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-033",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-034",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 5"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-035",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 19 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 19",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-036",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-037",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-038",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 8"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-039",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 10"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 10"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-040",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-041",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-042",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-043",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-044",
+      "changedFields": [
+        "question",
+        "answers",
+        "explanation",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, khi người yêu cầu đồng ý toàn bộ nội dung dự thảo giao dịch, họ phải ký như thế nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Ký từng trang và ký, ghi đủ họ tên; tổ chức đóng dấu vào trang cuối nếu có",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Chỉ ký trang cuối",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ điểm chỉ",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Không cần ký",
+            "correct": false
+          }
+        ],
+        "explanation": "Từ 01/01/2027, khi đã đồng ý toàn bộ dự thảo, người yêu cầu ký từng trang và ký, ghi đủ họ tên ở trang cuối; tổ chức đóng dấu nếu có. Chỉ ký trang cuối không đáp ứng nguyên tắc ký từng trang, trừ khi pháp luật có quy định áp dụng khác.",
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, người yêu cầu đồng ý toàn bộ dự thảo giao dịch giấy, không áp dụng điểm chỉ. Yêu cầu về ký và dấu của tổ chức tham gia giao dịch tại khoản 7 Điều 42 mới là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Ký từng trang; ký và ghi đủ họ tên cá nhân, đóng dấu của tổ chức (nếu có) vào trang cuối giao dịch",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Chỉ ký trang cuối",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ điểm chỉ",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Không cần ký",
+            "correct": false
+          }
+        ],
+        "explanation": "Quy tắc này nói về chữ ký người yêu cầu và dấu của tổ chức tham gia giao dịch nếu có. Phải ký từng trang, ký và ghi đủ họ tên vào trang cuối; không nhầm dấu của bên là tổ chức với dấu tổ chức hành nghề công chứng tại lời chứng. Trường hợp điểm chỉ thực hiện theo Điều 50.",
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-045",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-046",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-047",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11, khoản 7a Điều 42"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-048",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-050",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 11"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-051",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-052",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-053",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-054",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-055",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 14"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 14"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-056",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-057",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-058",
+      "changedFields": [
+        "question",
+        "answers",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Hợp đồng ủy quyền trong trường hợp hai bên ở hai tổ chức khác nhau có hiệu lực từ thời điểm nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Khi bên ủy quyền ký",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Khi bên được ủy quyền ký",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Sau 07 ngày",
+            "correct": false
+          }
+        ],
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, văn bản công chứng hợp đồng ủy quyền theo trình tự chứng nhận tại hai tổ chức có hiệu lực khi nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Khi công chứng viên của hai tổ chức ký và đóng dấu của các tổ chức; bản điện tử cần chữ ký số theo luật",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Khi bên ủy quyền ký",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Khi bên được ủy quyền ký",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Khi tổ chức chứng nhận bên ủy quyền gửi bản sao hồ sơ cho tổ chức còn lại",
+            "correct": false
+          }
+        ],
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-059",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-060",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-061",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 15"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-062",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-063",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-065",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-066",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-067",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 16"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-068",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-069",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-070",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 17"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-071",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 46"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 46",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-072",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Một trường hợp được công chứng ngoài trụ sở là gì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 46 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Một trường hợp được công chứng ngoài trụ sở là gì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 46",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-073",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-074",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thời điểm công chứng phải được ghi như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 47"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thời điểm công chứng phải được ghi như thế nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 47",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-075",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Lời chứng của công chứng viên phải ghi nội dung nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 48"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Lời chứng của công chứng viên phải ghi nội dung nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 48",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-076",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Lời chứng của công chứng viên phải có chữ ký của ai?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 48"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Lời chứng của công chứng viên phải có chữ ký của ai?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 48",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-079",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-080",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-081",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 58 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-082",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 1; Điều 44 (từ 01/01/2027 được sửa bởi Điều 1 khoản 13 Luật số 04/2026/QH16)"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 56",
+            "clause": "Khoản 1",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "clause": "Khoản 13",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-083",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 56 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 56",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-084",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 54"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 54",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-085",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-086",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-087",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-088",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 53 khoản 3"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-089",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 55"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 55",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-090",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-091",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật Công chứng số 46/2024/QH15, Điều 75"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 75",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-092",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 1"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 1"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-093",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 2"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 2"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-096",
+      "changedFields": [
+        "lastVerified"
+      ],
+      "before": {
+        "lastVerified": "2026-10-06"
+      },
+      "after": {
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-097",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Cơ sở dữ liệu công chứng địa phương được xây dựng trước 01/01/2027 được xử lý thế nào?"
+          ]
+        },
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 5"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, cơ sở dữ liệu công chứng địa phương có trước ngày này được quản lý, khai thác theo cơ chế chuyển tiếp nào?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 3",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-098",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Trong thời hạn bao lâu từ khi Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực, Chính phủ phải rà soát quy định về giao dịch phải công chứng?"
+          ]
+        },
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 3 khoản 6"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, Điều 3 khoản 6 Luật số 04/2026/QH16 dành thời hạn bao lâu, tính từ ngày luật có hiệu lực, để Chính phủ tổ chức rà soát và xử lý quy định về giao dịch phải công chứng?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 3",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 6"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-099",
+      "changedFields": [
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    },
+    {
+      "id": "CC-100",
+      "changedFields": [
+        "question",
+        "legalBasis",
+        "lastVerified"
+      ],
+      "before": {
+        "question": {
+          "variants": [
+            "Một người yêu cầu công chứng muốn công chứng giao dịch bất động sản tại một tỉnh khác với nơi tổ chức hành nghề công chứng đặt trụ sở. Theo quy định áp dụng từ 01/01/2027, cách xử lý nguyên tắc nào phù hợp?"
+          ]
+        },
+        "legalBasis": [
+          "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16, Điều 1 khoản 13"
+        ],
+        "lastVerified": "2026-10-05"
+      },
+      "after": {
+        "question": {
+          "variants": [
+            "Từ 01/01/2027, xét riêng nguyên tắc địa bàn tại khoản 1 Điều 44 mới, một giao dịch chuyển nhượng đất không thuộc ngoại lệ có đất ở tỉnh khác nơi tổ chức hành nghề công chứng đặt trụ sở. Kết luận nào phù hợp?"
+          ]
+        },
+        "legalBasis": [
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-07"
+      },
+      "decision": "Giữ active sau rà câu dẫn, đáp án và điều khoản; chuẩn hóa đường dẫn, mốc luật và phạm vi căn cứ."
+    }
+  ]
+}

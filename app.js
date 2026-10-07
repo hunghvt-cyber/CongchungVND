@@ -76,7 +76,7 @@ function bindShare(root) {
 }
 
 async function loadQuestions() {
-  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json'];
+  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json', 'completion-2026.json'];
   const batches = await Promise.all(files.map(async file => {
     const response = await fetch(`./data/${file}`, {cache: 'no-cache'});
     if (!response.ok) throw new Error(`Không thể tải ngân hàng câu hỏi (${file}).`);

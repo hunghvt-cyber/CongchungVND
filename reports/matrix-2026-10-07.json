@@ -1,0 +1,3653 @@
+{
+  "date": "2026-10-07",
+  "scope": "506 active; phân nhóm theo năng lực chính, không đổi topic trong data hay ảnh chụp lịch sử. Nhãn độ khó hiện là nhãn biên soạn, chưa hiệu chuẩn từ kết quả thí sinh.",
+  "groups": [
+    {
+      "group": "Luật Công chứng – công chứng viên – TCHNCC",
+      "count": 36,
+      "percent": 7.11,
+      "targetPercent": 15,
+      "targetCountAt400": 60,
+      "gapPercentagePoints": -7.89
+    },
+    {
+      "group": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "count": 92,
+      "percent": 18.18,
+      "targetPercent": 22.5,
+      "targetCountAt400": 90,
+      "gapPercentagePoints": -4.32
+    },
+    {
+      "group": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "count": 111,
+      "percent": 21.94,
+      "targetPercent": 13.75,
+      "targetCountAt400": 55,
+      "gapPercentagePoints": 8.19
+    },
+    {
+      "group": "Đất đai – nhà ở – kinh doanh BĐS",
+      "count": 64,
+      "percent": 12.65,
+      "targetPercent": 13.75,
+      "targetCountAt400": 55,
+      "gapPercentagePoints": -1.1
+    },
+    {
+      "group": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "count": 53,
+      "percent": 10.47,
+      "targetPercent": 8.75,
+      "targetCountAt400": 35,
+      "gapPercentagePoints": 1.72
+    },
+    {
+      "group": "Thừa kế",
+      "count": 58,
+      "percent": 11.46,
+      "targetPercent": 10,
+      "targetCountAt400": 40,
+      "gapPercentagePoints": 1.46
+    },
+    {
+      "group": "Doanh nghiệp và giao dịch liên quan",
+      "count": 25,
+      "percent": 4.94,
+      "targetPercent": 5,
+      "targetCountAt400": 20,
+      "gapPercentagePoints": -0.06
+    },
+    {
+      "group": "Chứng thực và pháp luật liên quan",
+      "count": 16,
+      "percent": 3.16,
+      "targetPercent": 3.75,
+      "targetCountAt400": 15,
+      "gapPercentagePoints": -0.59
+    },
+    {
+      "group": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "count": 19,
+      "percent": 3.75,
+      "targetPercent": 3.75,
+      "targetCountAt400": 15,
+      "gapPercentagePoints": 0.0
+    },
+    {
+      "group": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "count": 26,
+      "percent": 5.14,
+      "targetPercent": 3.75,
+      "targetCountAt400": 15,
+      "gapPercentagePoints": 1.39
+    },
+    {
+      "group": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "count": 6,
+      "percent": 1.19,
+      "targetPercent": 0,
+      "targetCountAt400": 0,
+      "gapPercentagePoints": 1.19
+    }
+  ],
+  "questions": [
+    {
+      "id": "CC-001",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-002",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-003",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-004",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-005",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-006",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-007",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-008",
+      "rawTopic": "Pháp luật công chứng",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-010",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-011",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-012",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-013",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-014",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-015",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-016",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-017",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-018",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-019",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-020",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-021",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-022",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-023",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-024",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-025",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-026",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-027",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-028",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-029",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-030",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-031",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-032",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-033",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-034",
+      "rawTopic": "Công chứng viên và tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-035",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-036",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-037",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-038",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-039",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-040",
+      "rawTopic": "Tổ chức hành nghề",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-041",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-042",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-043",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-044",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-045",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-046",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-047",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-048",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-050",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-051",
+      "rawTopic": "Thẩm quyền công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-052",
+      "rawTopic": "Thẩm quyền công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-053",
+      "rawTopic": "Thẩm quyền công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-054",
+      "rawTopic": "Thẩm quyền công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "CC-055",
+      "rawTopic": "Kỹ năng ký, điểm chỉ",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-056",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-057",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-058",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-059",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-060",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-061",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-062",
+      "rawTopic": "Cơ sở dữ liệu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-063",
+      "rawTopic": "Cơ sở dữ liệu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "CC-065",
+      "rawTopic": "Cơ sở dữ liệu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-066",
+      "rawTopic": "Cơ sở dữ liệu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-067",
+      "rawTopic": "Cơ sở dữ liệu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-068",
+      "rawTopic": "Lưu trữ và cung cấp hồ sơ",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-069",
+      "rawTopic": "Lưu trữ và cung cấp hồ sơ",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-070",
+      "rawTopic": "Lưu trữ và cung cấp hồ sơ",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-071",
+      "rawTopic": "Địa điểm công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-072",
+      "rawTopic": "Địa điểm công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-073",
+      "rawTopic": "Văn bản công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "CC-074",
+      "rawTopic": "Văn bản công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-075",
+      "rawTopic": "Lời chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-076",
+      "rawTopic": "Lời chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-079",
+      "rawTopic": "Di chúc",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-080",
+      "rawTopic": "Di chúc",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-081",
+      "rawTopic": "Di chúc",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-082",
+      "rawTopic": "Thế chấp bất động sản",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-083",
+      "rawTopic": "Thế chấp bất động sản",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-084",
+      "rawTopic": "Văn bản công chứng vô hiệu",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-085",
+      "rawTopic": "Sửa đổi giao dịch",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-086",
+      "rawTopic": "Sửa đổi giao dịch",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-087",
+      "rawTopic": "Sửa đổi giao dịch",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-088",
+      "rawTopic": "Sửa đổi giao dịch",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-089",
+      "rawTopic": "Nguyên tắc thủ tục",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-090",
+      "rawTopic": "Hiệu lực pháp luật",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-091",
+      "rawTopic": "Hiệu lực pháp luật",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-092",
+      "rawTopic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-093",
+      "rawTopic": "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-096",
+      "rawTopic": "Điều khoản chuyển tiếp",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-097",
+      "rawTopic": "Điều khoản chuyển tiếp",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-098",
+      "rawTopic": "Điều khoản chuyển tiếp",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "CC-099",
+      "rawTopic": "Kỹ năng và tình huống",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "CC-100",
+      "rawTopic": "Kỹ năng và tình huống",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "SRC26-001",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "SRC26-002",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-003",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-004",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-005",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "SRC26-006",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "SRC26-007",
+      "rawTopic": "Thẩm quyền công chứng bất động sản",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "SRC26-008",
+      "rawTopic": "Thời hạn công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-010",
+      "rawTopic": "Lời chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-011",
+      "rawTopic": "Người yêu cầu công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "SRC26-012",
+      "rawTopic": "Người làm chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "SRC26-014",
+      "rawTopic": "Hợp đồng ủy quyền",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "SRC26-018",
+      "rawTopic": "Ký văn bản công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "SRC26-020",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "direct"
+    },
+    {
+      "id": "VER26-001",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-002",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-003",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-004",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-005",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-006",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-007",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-008",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-009",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-010",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-011",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-012",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-013",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-014",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-015",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-016",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-017",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-018",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "VER26-019",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-020",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-021",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-022",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-023",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-024",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-025",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-026",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-027",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-028",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-029",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-030",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-031",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-032",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-033",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-034",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-035",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-036",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-037",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-038",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-039",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-040",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-041",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-042",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-043",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-044",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-045",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-046",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-047",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-048",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-049",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-050",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-051",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-052",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-053",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-054",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-055",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-056",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-057",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-058",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-059",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-060",
+      "rawTopic": "Đất đai và bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-061",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-062",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-063",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-064",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-065",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-066",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-067",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-068",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-069",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-070",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-071",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-072",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-073",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-074",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-075",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-076",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-077",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-078",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-079",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-080",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-081",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-082",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-083",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-084",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-085",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-086",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-087",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-088",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-089",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-090",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-091",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-092",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-093",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-094",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-095",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "VER26-096",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-097",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-098",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-099",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "VER26-100",
+      "rawTopic": "Dân sự và đại diện",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "IMP-SEP24-001",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-002",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-003",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-004",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-009",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-010",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-011",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-016",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-017",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-SEP24-019",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-020",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-022",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-025",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-028",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-030",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-033",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-SEP24-034",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-036",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-040",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-SEP24-041",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-044",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-045",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-049",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-050",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-001",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-005",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-006",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-007",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-008",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-009",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-010",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-011",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-012",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-013",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-014",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-015",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-016",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-019",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-020",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-021",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-023",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-025",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-027",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-030",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-031",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-032",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-033",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-036",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-037",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-038",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-039",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-041",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-042",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-043",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-051",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-052",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-053",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-054",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-060",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-062",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-068",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-069",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-071",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-073",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-074",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-075",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-076",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-077",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-078",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-079",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-080",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-081",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-082",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-083",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-084",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-085",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-086",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-088",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-089",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-090",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-091",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-092",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-094",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-096",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-097",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "recognition",
+      "questionForm": "direct"
+    },
+    {
+      "id": "IMP-T60-099",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "synthesis"
+    },
+    {
+      "id": "IMP-T60-100",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-005",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-006",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-008",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-012",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-013",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-018",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-031",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-035",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-039",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-046",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-047",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-002",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-004",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-017",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-029",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-044",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-050",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-057",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-063",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-064",
+      "rawTopic": "Hôn nhân và gia đình",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-065",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-067",
+      "rawTopic": "Dân sự và giao dịch",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-093",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-095",
+      "rawTopic": "Lao động và pháp luật liên quan",
+      "primaryGroup": "Ngoài 10 nhóm mục tiêu (lao động)",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-014",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-015",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-021",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-029",
+      "rawTopic": "Thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-018",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-028",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-056",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-058",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-059",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-T60-070",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-037",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "IMP-SEP24-042",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-001",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-002",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-003",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-004",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-005",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-006",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-007",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-008",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-009",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "DEP26-010",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-011",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-012",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-013",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "DEP26-014",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "DEP26-015",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "DEP26-016",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-017",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "DEP26-018",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-001",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-002",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-003",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-004",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-005",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-006",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-007",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-008",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-009",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-010",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-011",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-012",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-013",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-014",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-015",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-016",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-017",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-018",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "AUTH26-019",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "AUTH26-020",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-001",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-002",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-003",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-004",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-005",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-006",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-007",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-008",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-009",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-010",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-011",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-012",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-013",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-014",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-015",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-016",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-017",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-018",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-019",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-020",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-021",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-022",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-023",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-024",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "FAM26-025",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "FAM26-026",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-001",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-002",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-003",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-004",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-005",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-006",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-007",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-008",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-009",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-010",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-011",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-012",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-013",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-014",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-015",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-016",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-017",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-018",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-019",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-020",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-021",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-022",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-023",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-024",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-025",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-026",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-027",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-028",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-029",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "INH26-030",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-031",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "INH26-032",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-DN-001",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-DN-002",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-DN-003",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-004",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-005",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DN-006",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-007",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-DN-008",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-009",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-010",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DN-011",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-012",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DN-013",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-014",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DN-015",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DN-016",
+      "rawTopic": "Doanh nghiệp và giao dịch liên quan",
+      "primaryGroup": "Doanh nghiệp và giao dịch liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-001",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-002",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-003",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-CT-004",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-005",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-CT-006",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-007",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-CT-008",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-CT-009",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-010",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-011",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-012",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-CT-013",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-014",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-015",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-CT-016",
+      "rawTopic": "Chứng thực và pháp luật liên quan",
+      "primaryGroup": "Chứng thực và pháp luật liên quan",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DD-001",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-002",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-003",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-004",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-DD-005",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-006",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-007",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-008",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-009",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DD-010",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "advanced",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-DD-011",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DD-012",
+      "rawTopic": "Đạo đức nghề nghiệp và trách nhiệm",
+      "primaryGroup": "Đạo đức nghề nghiệp – trách nhiệm – xử lý vi phạm",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-TS-001",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-TS-002",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-TS-003",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-TS-004",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-TS-005",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-TS-006",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-TS-007",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Tập sự, kiểm tra kết quả tập sự HNCC",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-TS-008",
+      "rawTopic": "Tập sự và kiểm tra kết quả tập sự",
+      "primaryGroup": "Luật Công chứng – công chứng viên – TCHNCC",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-QT-001",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-QT-002",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-QT-003",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-QT-004",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-QT-005",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-QT-006",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-QT-007",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-QT-008",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-QT-009",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-QT-010",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-QT-011",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-QT-012",
+      "rawTopic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "primaryGroup": "Quy trình, thủ tục và nghiệp vụ công chứng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DS-001",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DS-002",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "understanding",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-DS-003",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DS-004",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DS-005",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DS-006",
+      "rawTopic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "primaryGroup": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+      "difficulty": "application",
+      "questionForm": "exception"
+    },
+    {
+      "id": "COMP26-HN-001",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-HN-002",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-HN-003",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-HN-004",
+      "rawTopic": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "primaryGroup": "Hôn nhân và gia đình – tài sản vợ chồng",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-TK-001",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-TK-002",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "workflow"
+    },
+    {
+      "id": "COMP26-TK-003",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-TK-004",
+      "rawTopic": "Thừa kế",
+      "primaryGroup": "Thừa kế",
+      "difficulty": "application",
+      "questionForm": "short_case"
+    },
+    {
+      "id": "COMP26-DAT-001",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    },
+    {
+      "id": "COMP26-DAT-002",
+      "rawTopic": "Đất đai, nhà ở và kinh doanh bất động sản",
+      "primaryGroup": "Đất đai – nhà ở – kinh doanh BĐS",
+      "difficulty": "advanced",
+      "questionForm": "integrated"
+    }
+  ],
+  "difficulty": {
+    "recognition": 89,
+    "understanding": 88,
+    "application": 257,
+    "advanced": 72
+  },
+  "questionForms": {
+    "direct": 90,
+    "short_case": 273,
+    "exception": 33,
+    "integrated": 30,
+    "synthesis": 8,
+    "workflow": 72
+  },
+  "balanced": false
+}

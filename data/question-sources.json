@@ -190,6 +190,13 @@
       "title": "Đề thi và bài giải thừa kế do Madam An cung cấp",
       "sha256": "88ff497c118ad55d540306317a9895874e7177114d44fd3a7733c5f7db5aab4c",
       "use": "Nguồn chủ đề 7 cụm đề, 45 yêu cầu lớn gồm phần đạo đức/soạn thảo; chỉ 32 câu biên soạn có chứng cứ riêng được active."
+    },
+    {
+      "id": "OFFICIAL-CT-HN26",
+      "type": "official",
+      "title": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+      "use": "Điều khoản chứng thực đã hợp nhất NĐ 07/2025, 280/2025 và 18/2026; kiểm tra riêng mốc áp dụng, không dùng ngày xác thực VBHN làm ngày hiệu lực."
     }
   ]
 }

@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-07",
+  "scope": "Sáu cặp heuristic gần câu dẫn; không phải chứng nhận đã hết mọi trùng năng lực. Rà năng lực mới đã viết lại 13 câu trước khi xuất bản.",
+  "pairs": [
+    {
+      "ids": [
+        "CC-001",
+        "CC-007"
+      ],
+      "decision": "Giữ: định nghĩa công chứng và ngôn ngữ công chứng, chỉ giống cấu trúc câu hỏi."
+    },
+    {
+      "ids": [
+        "CC-004",
+        "CC-019"
+      ],
+      "decision": "Giữ: nguyên tắc hành nghề và thời gian tập sự, không trùng kiến thức."
+    },
+    {
+      "ids": [
+        "CC-019",
+        "CC-026"
+      ],
+      "decision": "Giữ: tập sự và tạm đình chỉ, cùng đáp số nhưng khác chế định."
+    },
+    {
+      "ids": [
+        "CC-031",
+        "CC-094"
+      ],
+      "decision": "CC-094 đã archived trước lượt này; không thêm bản trùng vào bộ active."
+    },
+    {
+      "ids": [
+        "CC-071",
+        "SRC26-019"
+      ],
+      "decision": "SRC26-019 đã archived trước lượt này; không thêm bản trùng vào bộ active."
+    },
+    {
+      "ids": [
+        "CC-075",
+        "CC-076"
+      ],
+      "decision": "Giữ: nội dung lời chứng và chữ ký/dấu, kiểm tra hai yêu cầu khác nhau."
+    }
+  ]
+}

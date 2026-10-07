@@ -1,0 +1,83 @@
+{
+  "date": "2026-10-07",
+  "questions": [
+    {
+      "id": "COMP26-DN-001",
+      "before": "A góp quyền sử dụng đất vào công ty TNHH. Các bên đã ký hợp đồng hợp lệ và giao giấy chứng nhận, nhưng quyền sử dụng chưa chuyển sang công ty. Chỉ xét hoàn thành góp vốn, kết luận nào đúng?",
+      "after": "A chuyển quyền sở hữu một tài sản có đăng ký cho công ty để góp vốn hợp lệ. Người tiếp nhận cho rằng vì phải sang tên nên riêng việc chuyển tài sản góp vốn này luôn chịu lệ phí trước bạ. Chỉ xét Điều 35, phân biệt đúng?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-004",
+      "before": "Khi thành lập công ty, tổ chức thẩm định giá định giá tài sản góp vốn. Có bốn thành viên sáng lập; chỉ hai người chấp thuận kết quả. Không có kết quả định giá đồng thuận khác. Ngưỡng chấp thuận đã đủ chưa?",
+      "after": "Ba sáng lập viên tự định giá tài sản góp vốn khi thành lập, không thuê tổ chức thẩm định giá. Hai người đồng ý giá 5 tỷ, một người phản đối; họ muốn lấy biểu quyết đa số để chốt giá. Chỉ xét phương thức tự định giá này, đúng không?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-008",
+      "before": "Chủ công ty TNHH một thành viên không góp đủ vốn đúng hạn, việc này gây thiệt hại đã chứng minh. Chủ sở hữu cho rằng trách nhiệm luôn chỉ bằng vốn thực góp. Chỉ xét Điều 75, đánh giá nào đúng?",
+      "after": "Chủ công ty TNHH một thành viên cam kết 5 tỷ nhưng góp 3 tỷ, sau đó đăng ký giảm vốn đúng thủ tục. Chủ sở hữu cho rằng giảm vốn xóa trách nhiệm theo 5 tỷ đối với nghĩa vụ tài chính phát sinh trước ngày cuối cùng phải đăng ký thay đổi vốn. Chỉ xét khoản 3 Điều 75, đúng không?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-010",
+      "before": "Điều lệ công ty TNHH hai thành viên yêu cầu Hội đồng thành viên thông qua bán tài sản từ 30% tổng tài sản. Giao dịch bán bằng 40%; Giám đốc viện ngưỡng 50% trong luật để bỏ qua điều lệ. Kết luận nào đúng?",
+      "after": "Hội đồng thành viên đã thông qua hợp đồng bán tài sản thuộc thẩm quyền. Công ty chỉ có một người đại diện theo pháp luật là Giám đốc; Chủ tịch Hội đồng không được ủy quyền nhưng nói nghị quyết cho mình đương nhiên quyền ký thay công ty. Cần kiểm tra gì?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-012",
+      "before": "Công ty cổ phần bán tài sản giá trị 12% tổng tài sản cho cổ đông sở hữu 60% cổ phần có quyền biểu quyết. Điều lệ không đặt ngưỡng thấp hơn. Người soạn hồ sơ chỉ căn cứ dưới 35% để trình Hội đồng quản trị. Cần sửa gì?",
+      "after": "Giao dịch giữa công ty cổ phần và người có liên quan đã bị Tòa án tuyên vô hiệu vì ký không đúng Điều 167. Người ký và cổ đông có liên quan có lợi thu được, thiệt hại phát sinh đã được xác định. Hướng xử lý theo khoản 5 là gì?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-014",
+      "before": "Điều lệ công ty cổ phần hạn chế chuyển nhượng một loại cổ phần thông thường, không thuộc hạn chế cổ đông sáng lập; hạn chế không được nêu rõ trong cổ phiếu tương ứng. Riêng hiệu lực hạn chế điều lệ theo Điều 127 được đánh giá thế nào?",
+      "after": "Cổ đông chết; A được xác định hợp pháp là người thừa kế cổ phần nhưng thông tin của A chưa ghi đầy đủ vào sổ đăng ký cổ đông. Công ty yêu cầu A mua lại chính số cổ phần thừa kế mới được ghi nhận. Phân biệt đúng?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DN-016",
+      "before": "Chi nhánh đã chấm dứt hoạt động, còn nợ từ hợp đồng đã ký và nợ thuế. Doanh nghiệp nói chi nhánh ngừng hoạt động nên các khoản nợ tự mất. Kết luận nào đúng?",
+      "after": "Hồ sơ chấm dứt hoạt động chi nhánh có thông tin không trung thực. Người đại diện theo pháp luật của doanh nghiệp nói người đứng đầu chi nhánh tự ký nên mình không phải chịu trách nhiệm về hồ sơ. Chỉ xét khoản 2 Điều 213, đúng không?",
+      "decision": "Viết lại để kiểm tra năng lực khác với câu nhập đề hoặc cụm hiện có."
+    },
+    {
+      "id": "COMP26-DS-003",
+      "before": "Đến hạn xử lý tài sản thế chấp, hợp đồng không thỏa thuận phương thức; không có luật quy định khác. Ngân hàng định tự nhận tài sản thay trả nợ mà chưa có thỏa thuận. Phương thức mặc định là gì?",
+      "after": "Hợp đồng thế chấp đã thỏa thuận hợp lệ để bên nhận bảo đảm nhận chính tài sản thay thực hiện nghĩa vụ khi đủ điều kiện xử lý. Bên bảo đảm nói pháp luật chỉ cho bán đấu giá nên riêng phương thức đó bị cấm. Chỉ xét sự lựa chọn phương thức ở Điều 303, đúng không?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    },
+    {
+      "id": "COMP26-DS-006",
+      "before": "Hợp đồng có điều khoản vô hiệu tách được; đã xác định việc loại điều khoản đó không ảnh hưởng hiệu lực phần còn lại. Bên mua yêu cầu coi toàn hợp đồng mất hiệu lực chỉ vì có một điều khoản sai. Kết luận đúng?",
+      "after": "Giao dịch thuộc Điều 126 về nhầm lẫn, không thuộc căn cứ vô hiệu nào khác. Đã hết thời hiệu tại khoản 1 Điều 132, không có yêu cầu tuyên vô hiệu trong thời hiệu. Một bên nói nhầm lẫn làm giao dịch vĩnh viễn không có hiệu lực. Chỉ xét khoản 2, kết luận đúng?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    },
+    {
+      "id": "COMP26-HN-001",
+      "before": "A muốn bán tài sản được thừa kế riêng trong hôn nhân. Hồ sơ cho thấy hoa lợi từ tài sản là nguồn sống duy nhất của gia đình, nhưng chưa có sự đồng ý của vợ; A nói riêng thì luôn tự bán. Bước xử lý đúng?",
+      "after": "Khi ly hôn theo chế độ luật định, xác định có sự trộn lẫn tài sản riêng của vợ vào khối chung; vợ yêu cầu thanh toán phần giá trị riêng đã đóng góp, không có thỏa thuận khác. Chồng nói cứ trộn lẫn là mất mọi quyền đòi giá trị riêng. Quy tắc đúng?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    },
+    {
+      "id": "COMP26-HN-003",
+      "before": "Vợ chồng đã cùng vay nợ hợp lệ, nay yêu cầu công chứng chia hết tài sản cho vợ với mục đích đã xác định là trốn trả khoản nợ này. Cách xử lý đúng?",
+      "after": "Sau ly hôn, vợ chồng cùng chủ nợ đã có thỏa thuận hợp lệ rõ ràng để chỉ vợ tiếp tục thực hiện khoản nợ, chủ nợ giải phóng chồng khỏi nghĩa vụ. Người tư vấn nói quyền của chủ nợ luôn giữ nguyên nên không được xét thỏa thuận ba bên. Nhận định nào đúng?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    },
+    {
+      "id": "COMP26-TK-002",
+      "before": "Người chết không để lại di chúc, có vợ và một con đã sinh; một con khác đã thành thai trước khi người này chết, chưa sinh. Di sản ròng 900 triệu, không có người hàng thứ nhất khác. Khi phân chia trước lúc sinh phải làm gì?",
+      "after": "Tòa án đã hạn chế chia di sản để bảo vệ đời sống vợ còn sống. Hết ba năm từ mở thừa kế, vợ chứng minh việc chia vẫn ảnh hưởng nghiêm trọng đời sống gia đình và chưa được gia hạn lần nào. Hướng đề nghị được Điều 661 cho phép?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    },
+    {
+      "id": "COMP26-TK-004",
+      "before": "Di sản còn 300 triệu; chi phí mai táng hợp lý 30 triệu, cấp dưỡng còn thiếu 50 triệu, nợ vay không bảo đảm 300 triệu, không có khoản ưu tiên khác. Chỉ xét thứ tự và giới hạn nghĩa vụ di sản, kết quả đúng?",
+      "after": "Di sản chia theo pháp luật chỉ có một hiện vật không thể chia đều. Những người thừa kế đủ năng lực không thống nhất được định giá hoặc người nhận hiện vật, không có căn cứ hạn chế chia. Một người muốn tự giữ hiện vật và tự ấn định tiền trả người khác. Quy tắc xử lý là gì?",
+      "decision": "Thay câu trùng năng lực bằng vấn đề hoặc ngoại lệ chưa được cụm cũ kiểm tra."
+    }
+  ]
+}

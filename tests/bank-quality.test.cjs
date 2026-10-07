@@ -1,6 +1,6 @@
 const test=require('node:test');const assert=require('node:assert/strict');const fs=require('node:fs');const path=require('node:path');
 const root=path.resolve(__dirname,'..');const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
-const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json','imported-inheritance-2026.json'];
+const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json','imported-inheritance-2026.json','completion-2026.json'];
 const bank=files.flatMap(f=>read(`data/${f}`));const eligible=bank.filter(q=>['active','verified'].includes(q.status));
 test('every previously pending stored question has a specific editorial decision and linked evidence',()=>{
  const report=read('reports/pending-review-decisions-2026.json');const evidence=new Map(read('reports/pending-review-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
@@ -13,7 +13,7 @@ test('inheritance cases link specific source branches and verified current provi
  assert.equal(questions.length,32);assert.equal(source.questions.length,45);assert.equal(source.readScope.embeddedImages,24);
  for(const q of questions){assert.equal(q.lastVerified,'2026-10-06');assert.equal(q.source.id,source.sourceId);assert.equal(q.status,'active');assert.match(q.question.variants[0],/^Tháng 10\/2026:/);assert.match(q.explanation,/Gợi ý làm bài:/);assert.ok(source.questions.some(s=>s.adaptedQuestionIds.includes(q.id)),q.id);assert.deepEqual(proof.get(q.id).provisions.map(p=>p.reference),q.legalBasis);assert.ok(proof.get(q.id).provisions.every(p=>p.evidenceExcerpt.length>100));assert.doesNotMatch(JSON.stringify(q.legalBasis),/29\/2015|04\/2026/);}
  assert.ok(source.questions.filter(s=>s.decision==='review').every(s=>s.adaptedQuestionIds.length===0));
- assert.equal(eligible.length,426);
+ assert.equal(eligible.length,426+read('data/completion-2026.json').length);
 });
 test('family cases link reviewed source branches, current article evidence and independent keys',()=>{
  const questions=read('data/imported-family-2026.json');const source=read('reports/family-source-review.json');const proof=new Map(read('reports/family-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
@@ -28,7 +28,18 @@ test('authorization cases carry precise legal evidence and never duplicate the s
  const appendix=source.questions.filter(s=>s.id.startsWith('AUTH-SRC-4.'));assert.equal(appendix.length,7);assert.ok(appendix.every(s=>s.decision==='duplicate_source_review'&&s.adaptedQuestionIds.length===0));
 });
 test('all stored IDs and answer IDs are unique; single questions have exactly one key',()=>{assert.equal(new Set(bank.map(q=>q.id)).size,bank.length);for(const q of bank){assert.equal(new Set(q.answers.map(a=>a.id)).size,q.answers.length,q.id);if(q.type==='single')assert.equal(q.answers.filter(a=>a.correct===true).length,1,q.id);}});
-test('eligible questions have distinct stems, explanations, registered sources and dated future law',()=>{const seen=new Set();const sources=new Set(read('data/question-sources.json').sources.map(s=>s.id));for(const q of eligible){assert.ok(q.explanation.length>=100,q.id);assert.ok(q.legalBasis.length,q.id);assert.ok(sources.has(q.source.id),q.id);assert.match(q.lastVerified,/^\d{4}-\d{2}-\d{2}$/,q.id);assert.equal(new Date(q.lastVerified).toISOString().slice(0,10),q.lastVerified,q.id);assert.ok(q.lastVerified<='2026-10-06',q.id);assert.ok(q.difficulty&&q.questionForm,q.id);for(const v of q.question.variants){const key=v.toLocaleLowerCase('vi').replace(/[^\p{L}\p{N}]+/gu,' ').trim();assert.ok(!seen.has(key),q.id);seen.add(key);if(JSON.stringify(q.legalBasis).includes('04/2026/QH16'))assert.match(v,/2027|hiệu lực từ|có hiệu lực|thông qua|chuyển tiếp/i,q.id);}}});
+
+test('80 independently authored completion cases have exact keys and linked article evidence',()=>{
+ const questions=read('data/completion-2026.json');const proof=new Map(read('reports/completion-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
+ assert.equal(questions.length,80);assert.equal(proof.size,80);
+ for(const q of questions){assert.equal(q.lastVerified,'2026-10-07');assert.match(q.question.variants[0],/^Tháng 10\/2026:/);assert.equal(q.status,'active');assert.equal(q.source.type,'official');assert.deepEqual(q.legalBasis,proof.get(q.id).provisions.map(p=>p.reference));assert.equal(q.answers.find(a=>a.correct).id,proof.get(q.id).answer);assert.ok(proof.get(q.id).provisions.every(p=>p.evidenceExcerpt.length>100));assert.equal(new Set(q.answers.map(a=>a.text)).size,4);}
+});
+
+test('active citations are linked and future rules require an explicit application date',()=>{
+ for(const q of eligible){assert.ok(q.legalBasis.every(b=>typeof b==='object'&&/^Điều \d+/.test(b.article)&&/^https:\/\//.test(b.url)),q.id);if(JSON.stringify(q.legalBasis).includes('04/2026/QH16')&&q.id!=='CC-090')for(const v of q.question.variants)assert.ok(v.includes('01/01/2027'),q.id);}
+ const q=bank.find(q=>q.id==='CC-058');assert.match(q.question.variants[0],/^Từ 01\/01\/2027/);
+});
+test('eligible questions have distinct stems, explanations, registered sources and dated future law',()=>{const seen=new Set();const sources=new Set(read('data/question-sources.json').sources.map(s=>s.id));for(const q of eligible){assert.ok(q.explanation.length>=100,q.id);assert.ok(q.legalBasis.length,q.id);assert.ok(sources.has(q.source.id),q.id);assert.match(q.lastVerified,/^\d{4}-\d{2}-\d{2}$/,q.id);assert.equal(new Date(q.lastVerified).toISOString().slice(0,10),q.lastVerified,q.id);assert.ok(q.lastVerified<='2026-10-07',q.id);assert.ok(q.difficulty&&q.questionForm,q.id);for(const v of q.question.variants){const key=v.toLocaleLowerCase('vi').replace(/[^\p{L}\p{N}]+/gu,' ').trim();assert.ok(!seen.has(key),q.id);seen.add(key);if(JSON.stringify(q.legalBasis).includes('04/2026/QH16'))assert.match(v,/2027|hiệu lực từ|có hiệu lực|thông qua|chuyển tiếp/i,q.id);}}});
 test('new cases each carry traceable article evidence and precise references',()=>{const evidence=read('reports/legal-evidence-2026.json');const rows=new Map(evidence.questions.map(q=>[q.id,q]));for(const q of read('data/validated-2026.json')){assert.ok(q.question.variants.every(v=>v.startsWith('Tháng 10/2026:')),q.id);const e=rows.get(q.id);assert.ok(e,q.id);assert.equal(e.provisions.length,q.legalBasis.length,q.id);q.legalBasis.forEach((b,i)=>{assert.match(b.article,/^Điều \d+/);assert.match(b.url,/^https:\/\//);assert.deepEqual(e.provisions[i].reference,b,q.id);assert.ok(e.provisions[i].evidenceExcerpt.length>100,q.id);});}});
 test('mechanical expansion cannot enter practice or exams',()=>{for(const q of bank.filter(q=>q.id.startsWith('EXP26-'))){assert.equal(q.status,'archived',q.id);assert.equal(q.lastVerified,null,q.id);assert.equal(q.audit.reason,'mechanical_paraphrase',q.id);}});
 

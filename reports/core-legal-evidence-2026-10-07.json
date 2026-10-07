@@ -1,0 +1,2351 @@
+{
+  "date": "2026-10-07",
+  "scope": "93 active trong questions.json. Trích văn bản gốc và văn bản sửa đổi riêng biệt; không coi mọi điều trong bản hợp nhất là có hiệu lực tháng 10/2026. CC-090 chỉ hỏi ngày có hiệu lực.",
+  "questions": [
+    {
+      "id": "CC-001",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 2",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-002",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-003",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-004",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 5",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:5"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-005",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 6",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:6"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-006",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 6",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:6"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-007",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 7",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:7"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-008",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 8",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:8"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-010",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 9",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm c"
+          },
+          "evidenceRef": "CC46-2024:9"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-011",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 9",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm h"
+          },
+          "evidenceRef": "CC46-2024:9"
+        },
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 18",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm c"
+          },
+          "evidenceRef": "CC46-2024:18"
+        }
+      ],
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": "CC-012",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 9",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1",
+            "point": "Điểm k"
+          },
+          "evidenceRef": "CC46-2024:9"
+        }
+      ],
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": "CC-013",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 9",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3",
+            "point": "Điểm đ"
+          },
+          "evidenceRef": "CC46-2024:9"
+        }
+      ],
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": "CC-014",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:10"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-015",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:10"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-016",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 10",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": "CC46-2024:10"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-017",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 11",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:11"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-018",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 11",
+            "clause": "Khoản 3",
+            "point": "Điểm b",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:11"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-019",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:12"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-020",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:12"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-021",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:12"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-022",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:12"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-023",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": "CC46-2024:12"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-024",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 14",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:14"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-025",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 14",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": "CC46-2024:14"
+        }
+      ],
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": "CC-026",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 15",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:15"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-027",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 15",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:15"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-028",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:16"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-029",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2",
+            "point": "Điểm đ"
+          },
+          "evidenceRef": "CC46-2024:16"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-030",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 6"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-031",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-032",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 4"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-033",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-034",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-035",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 19",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:19"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-036",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-037",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-038",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 8"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-039",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 10"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-040",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-041",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-042",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-043",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+            "clause": "Khoản 11",
+            "point": "Điểm a"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": "CC-044",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-045",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-046",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+            "clause": "Khoản 11",
+            "point": "Điểm b"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": "CC-047",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-048",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-050",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 11"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-051",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-052",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-053",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-054",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-055",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 14"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-056",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-057",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-058",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-059",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-060",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-061",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 15"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-062",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-063",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+            "clause": "Khoản 16"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "B"
+      ]
+    },
+    {
+      "id": "CC-065",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-066",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-067",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 16"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-068",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-069",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-070",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 17"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-071",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 46",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:46"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-072",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 46",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:46"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-073",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 47",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:47"
+        }
+      ],
+      "answer": [
+        "C"
+      ]
+    },
+    {
+      "id": "CC-074",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 47",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:47"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-075",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 48",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:48"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-076",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 48",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:48"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-079",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:58"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-080",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:58"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-081",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 58",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:58"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-082",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 56",
+            "clause": "Khoản 1",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:56"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "clause": "Khoản 13",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-083",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 56",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:56"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-084",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 54",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:54"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-085",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC46-2024:53"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-086",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:53"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-087",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC46-2024:53"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-088",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 53",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 3"
+          },
+          "evidenceRef": "CC46-2024:53"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-089",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 55",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:55"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-090",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-091",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2026-10-07",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 75",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          "evidenceRef": "CC46-2024:75"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-092",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-093",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 2"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-096",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 3",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+            "clause": "Khoản 1"
+          },
+          "evidenceRef": "CC04-2026:3"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "D"
+      ]
+    },
+    {
+      "id": "CC-097",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 3",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 5"
+          },
+          "evidenceRef": "CC04-2026:3"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-098",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 3",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 6"
+          },
+          "evidenceRef": "CC04-2026:3"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-099",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    },
+    {
+      "id": "CC-100",
+      "verifiedAt": "2026-10-07",
+      "applicableAt": "2027-01-01",
+      "provisions": [
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 1",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+            "clause": "Khoản 13"
+          },
+          "evidenceRef": "CC04-2026:1"
+        },
+        {
+          "reference": {
+            "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+            "article": "Điều 2",
+            "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf"
+          },
+          "evidenceRef": "CC04-2026:2"
+        }
+      ],
+      "answer": [
+        "A"
+      ]
+    }
+  ],
+  "articles": {
+    "CC46-2024:2": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 2",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 2. Giải thích từ ngữ\n     Trong Luật này, các từ ngữ dưới đây được hiểu như sau:\n    1. Công chứng là dịch vụ công do công chứng viên của tổ chức hành nghề\ncông chứng thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch mà\nluật quy định phải công chứng, luật giao Chính phủ quy định phải công chứng\nhoặc cá nhân, tổ chức tự nguyện yêu cầu công chứng.\n    Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã\nhội chủ nghĩa Việt Nam ở nước ngoài được công chứng giao dịch theo quy định tại\nĐiều 73 của Luật này.\n    2. Công chứng viên là người có đủ tiêu chuẩn theo quy định của Luật này,\nđược Bộ trưởng Bộ Tư pháp bổ nhiệm để hành nghề công chứng và thực hiện một\nsố việc chứng thực theo quy định của pháp luật về chứng thực.\n    3. Người yêu cầu công chứng là cá nhân, tổ chức trong nước hoặc cá nhân, tổ\nchức nước ngoài tham gia giao dịch có yêu cầu công chứng giao dịch theo quy\nđịnh của Luật này.\n   4. Văn bản công chứng là giao dịch bằng văn bản đã được công chứng theo\nquy định của Luật này.\n   5. Hành nghề công chứng là việc công chứng viên của 01 tổ chức hành nghề\ncông chứng thực hiện việc công chứng theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n\f                  CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                          29"
+    },
+    "CC04-2026:1": {
+      "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+      "article": "Điều 1",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+      "evidenceExcerpt": "Điều 1. Sửa đổi, bổ sung một số điều của Luật Công chứng\n                1. Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 2 như sau:\n              “1. Công chứng là dịch vụ công do công chứng viên của tổ chức hành nghề\n         công chứng thực hiện để chứng nhận tính xác thực, hợp pháp của giao dịch bằng\n         văn bản (sau đây gọi là giao dịch) phải công chứng hoặc cá nhân, tổ chức tự\n         nguyện yêu cầu công chứng.\n              Cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự của nước Cộng hòa xã\n         hội chủ nghĩa Việt Nam ở nước ngoài thực hiện công chứng giao dịch theo quy\n         định tại Điều 73 của Luật này.\n               2. Công chứng viên là người có đủ tiêu chuẩn theo quy định của Luật này,\n         được Chủ tịch Ủy ban nhân dân tỉnh, thành phố (sau đây gọi là Ủy ban nhân dân\n         cấp tỉnh) bổ nhiệm để hành nghề công chứng và thực hiện một số nhiệm vụ chứng\n         thực theo quy định của pháp luật.”.\n                2. Sửa đổi, bổ sung Điều 3 như sau:\n                “Điều 3. Giao dịch phải công chứng\n              1. Giao dịch phải công chứng là giao dịch quan trọng, đòi hỏi điều kiện\n         tham gia giao dịch chặt chẽ, mức độ an toàn pháp lý cao và được luật quy định\n         phải công chứng.\n              2. Bộ Tư pháp chủ trì, phối hợp với các Bộ, ngành có liên quan rà soát, cập\n         nhật, đăng tải danh mục các giao dịch phải công chứng, chứng thực trên Cổng\n         thông tin điện tử của Bộ Tư pháp.”.\n                3. Sửa đổi, bổ sung khoản 6 Điều 11 như sau:\n                “6. Việc công nhận tương đương đối với người được đào tạo nghề công\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                             23\n\nchứng ở nước ngoài thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh nơi\nngười đó cư trú.\n     Bộ trưởng Bộ Tư pháp quy định về chương trình khung đào tạo nghề công\nchứng và hồ sơ, trình tự, thủ tục công nhận tương đương đối với người được đào\ntạo nghề công chứng ở nước ngoài.”.\n     4. Sửa đổi, bổ sung khoản 1 Điều 13 như sau:\n      “1. Người đáp ứng đủ tiêu chuẩn quy định tại Điều 10 của Luật này và không\nthuộc trường hợp không được bổ nhiệm công chứng viên quy định tại các khoản\n2, 3, 4, 5, 6, 7 và 8 Điều 14 của Luật này có quyền đề nghị Chủ tịch Ủy ban nhân\ndân cấp tỉnh nơi hoàn thành tập sự hành nghề công chứng bổ nhiệm công chứng\nviên.”.\n     5. Sửa đổi, bổ sung khoản 3 Điều 16 như sau:\n      “3. Việc miễn nhiệm công chứng viên thuộc thẩm quyền của Chủ tịch Ủy ban\nnhân dân cấp tỉnh nơi công chứng viên đang hành nghề; trường hợp công chứng\nviên đang không hành nghề tại 01 tổ chức hành nghề công chứng tại thời điểm xem\nxét miễn nhiệm công chứng viên thì việc miễn nhiệm thuộc thẩm quyền của Chủ\ntịch Ủy ban nhân dân cấp tỉnh nơi hành nghề cuối cùng của công chứng viên; trường\nhợp công chứng viên được bổ nhiệm nhưng chưa hành nghề thì việc miễn nhiệm\nthuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh nơi đã bổ nhiệm công\nchứng viên.\n     Chính phủ quy định về hồ sơ, trình tự, thủ tục miễn nhiệm công chứng viên.”.\n     6. Sửa đổi, bổ sung khoản 4 Điều 17 như sau:\n     “4. Việc bổ nhiệm lại công chứng viên thuộc thẩm quyền của Chủ tịch Ủy\nban nhân dân cấp tỉnh nơi đã miễn nhiệm công chứng viên đó.\n     Chính phủ quy định về hồ sơ, trình tự, thủ tục bổ nhiệm lại công chứng viên.”.\n     7. Sửa đổi, bổ sung Điều 19 như sau:\n     “Điều 19. Tổ chức hành nghề công chứng\n     1. Tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng\ncông chứng được tổ chức và hoạt động theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n     2. Ủy ban nhân dân cấp tỉnh có trách nhiệm ban hành Đề án quản lý, phát triển\ncác tổ chức hành nghề công chứng phù hợp với quy định của Luật này, các văn\nbản hướng dẫn thi hành và tình hình thực tiễn tại địa phương; xem xét, quyết định\nchuyển giao thẩm quyền chứng thực giao dịch của Chủ tịch Ủy ban nhân dân cấp xã\ncho tổ chức hành nghề công chứng để thực hiện công chứng giao dịch tại những địa\nbàn cấp xã đã phát triển được tổ chức hành nghề công chứng đáp ứng yêu cầu công\nchứng của cá nhân, tổ chức theo quy định của Chính phủ.”.\n\f                    CÔNG BÁO/Số 285/Ngày 27-05-2026                           24\n\n     8. Sửa đổi, bổ sung khoản 1 Điều 23 như sau:\n     “1. Văn phòng công chứng được tổ chức và hoạt động theo quy định của\nLuật này và quy định khác của pháp luật có liên quan đối với loại hình công ty\nhợp danh. Tại các đơn vị hành chính cấp xã có mật độ dân số thấp, cơ sở hạ tầng,\ndịch vụ chưa phát triển và khó khăn trong việc thành lập Văn phòng công chứng\ntheo loại hình công ty hợp danh thì được thành lập Văn phòng công chứng theo\nloại hình doanh nghiệp tư nhân. Đơn vị hành chính cấp xã không còn thuộc\ntrường hợp được thành lập Văn phòng công chứng theo loại hình doanh nghiệp\ntư nhân thì Văn phòng công chứng được tổ chức và hoạt động theo loại hình\ndoanh nghiệp tư nhân đã được thành lập trước đó vẫn được tiếp tục hoạt động.\n     Chính phủ quy định việc chuyển đổi loại hình Văn phòng công chứng được\ntổ chức và hoạt động theo loại hình doanh nghiệp tư nhân thành Văn phòng công\nchứng được tổ chức và hoạt động theo loại hình công ty hợp danh.\n    Ủy ban nhân dân cấp tỉnh quyết định danh mục đơn vị hành chính cấp xã\nđược thành lập Văn phòng công chứng được tổ chức và hoạt động theo loại hình\ndoanh nghiệp tư nhân tại địa phương mình.”.\n     9. Sửa đổi, bổ sung điểm d khoản 2 Điều 24 như sau:\n    “d) Chưa hết thời hạn 02 năm theo quy định tại khoản 6 Điều 27, khoản 5\nĐiều 30, khoản 5 Điều 31 và khoản 4 Điều 34 của Luật này.”.\n     10. Sửa đổi, bổ sung khoản 1 và khoản 2 Điều 26 như sau:\n      “1. Trong thời hạn 10 ngày kể từ ngày thay đổi một trong các nội dung quy\nđịnh tại khoản 2 Điều 25 của Luật này, Văn phòng công chứng phải đăng ký nội\ndung thay đổi tại Sở Tư pháp nơi Văn phòng công chứng đã đăng ký hoạt động.\n     Trường hợp bổ sung thành viên hợp danh hoặc công chứng viên làm việc\ntheo chế độ hợp đồng lao động của Văn phòng công chứng thì công chứng viên\nđược bổ sung được hành nghề kể từ ngày Văn phòng công chứng được Sở Tư\npháp cấp lại giấy đăng ký hoạt động hoặc ghi nhận nội dung thay đổi vào giấy\nđăng ký hoạt động của Văn phòng công chứng.\n    Việc thay đổi địa chỉ trụ sở Văn phòng công chứng phải phù hợp với Đề án\nquản lý, phát triển các tổ chức hành nghề công chứng của địa phương.\n      Việc thay đổi tên của Văn phòng công chứng phải bảo đảm yêu cầu quy định\ntại khoản 4 Điều 23 của Luật này.\n     2. Văn phòng công chứng thay đổi tên, địa chỉ trụ sở, Trưởng Văn phòng\ncông chứng thì được Sở Tư pháp cấp lại giấy đăng ký hoạt động; trường hợp thay\nđổi các nội dung đăng ký hoạt động khác thì Sở Tư pháp cấp lại giấy đăng ký hoạt\nđộng hoặc ghi nhận nội dung thay đổi vào giấy đăng ký hoạt động của Văn phòng\ncông chứng.”.\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                           25\n\n     11. Sửa đổi, bổ sung một số khoản của Điều 42 như sau:\n     a) Sửa đổi, bổ sung khoản 1 như sau:\n     “1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực\ntuyến, trực tiếp hoặc gửi qua dịch vụ bưu chính đến tổ chức hành nghề công\nchứng. Hồ sơ yêu cầu công chứng bao gồm các giấy tờ sau đây:\n     a) Dự thảo giao dịch;\n     b) Giấy tờ tùy thân của người yêu cầu công chứng, gồm thẻ căn cước hoặc\nhộ chiếu hoặc giấy tờ tùy thân khác để xác định nhân thân của người yêu cầu công\nchứng theo quy định của pháp luật;\n     c) Giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản án, quyết\nđịnh của Tòa án đã có hiệu lực pháp luật hoặc quyết định khác của cơ quan nhà\nnước có thẩm quyền về việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy\nđịnh đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử\ndụng trong trường hợp giao dịch liên quan đến tài sản đó;\n     d) Giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định phải có.\n     Các giấy tờ quy định tại các điểm b, c và d khoản này là bản sao giấy hoặc\nbản sao điện tử hoặc bản chính điện tử.”;\n     b) Sửa đổi, bổ sung khoản 7 và bổ sung khoản 7a vào sau khoản 7 như sau:\n     “7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao\ndịch thì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng\ndấu của tổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì\nthực hiện theo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người\nyêu cầu công chứng xuất trình bản chính giấy hoặc bản chính điện tử của các giấy\ntờ quy định tại các điểm b, c và d khoản 1 Điều này để kiểm tra, đối chiếu trước\nkhi ký vào lời chứng và từng trang của giao dịch; trường hợp công chứng văn bản\ntừ chối nhận di sản quy định tại Điều 60 của Luật này thì người yêu cầu công\nchứng không phải xuất trình bản chính giấy hoặc bản chính điện tử của giấy tờ\nquy định tại điểm c khoản 1 Điều này để công chứng viên kiểm tra, đối chiếu\ntrước khi ký vào lời chứng và từng trang của giao dịch; đối với các giấy tờ quy\nđịnh tại điểm d khoản 1 Điều này mà người yêu cầu công chứng không có bản\nchính giấy hoặc bản chính điện tử tại thời điểm công chứng viên ký vào lời chứng\nthì có thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực hoặc bản sao\nđiện tử được chứng thực từ bản chính.\n     7a. Trong trường hợp đã có dữ liệu về các thông tin trong thành phần hồ sơ\nyêu cầu công chứng quy định tại khoản 1 Điều này trong cơ sở dữ liệu được cơ\nquan chủ quản cơ sở dữ liệu công bố thì người yêu cầu công chứng không phải\ncung cấp giấy tờ có chứa thông tin đó mà có thể tự khai thác dữ liệu để cung cấp\ncho công chứng viên; trường hợp người yêu cầu công chứng đề nghị công chứng\nviên khai thác dữ liệu thì phải nộp phí khai thác và sử dụng thông tin trong cơ sở\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                           26\n\ndữ liệu theo quy định của pháp luật; công chứng viên tiếp nhận hồ sơ yêu cầu\ncông chứng khai thác, sử dụng thông tin đã có trong cơ sở dữ liệu quốc gia và các\ncơ sở dữ liệu khác đã được công bố để xem xét, giải quyết hồ sơ yêu cầu công\nchứng; không yêu cầu xuất trình bản chính giấy tờ để đối chiếu theo quy định tại\nkhoản 7 Điều này. Công chứng viên chỉ được yêu cầu người yêu cầu công chứng\nbổ sung giấy tờ trong thành phần hồ sơ yêu cầu công chứng trong trường hợp\nkhông khai thác được thông tin trong thời hạn giải quyết yêu cầu công chứng hoặc\nthông tin khai thác được không đầy đủ, không chính xác.”.\n     12. Sửa đổi, bổ sung khoản 3 Điều 43 như sau:\n     “3. Các thủ tục khác được thực hiện theo quy định tại các khoản 6, 7, 7a và\n8 Điều 42 của Luật này.”.\n     13. Sửa đổi, bổ sung Điều 44 như sau:\n     “Điều 44. Thẩm quyền công chứng giao dịch có đối tượng là bất động sản\n     1. Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng\ngiao dịch có đối tượng là bất động sản trong phạm vi tỉnh, thành phố nơi tổ chức\nhành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn bản từ\nchối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền về bất\nđộng sản và công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ các giao dịch\nnày theo quy định của pháp luật.\n     2. Chính phủ quy định lộ trình thực hiện thẩm quyền công chứng giao dịch\ntheo quy định tại khoản 1 Điều này trong phạm vi toàn quốc sau khi cơ sở dữ liệu\ncông chứng quy định tại Điều 66 của Luật này được vận hành và thông tin trong\ncác cơ sở dữ liệu có liên quan đã được cơ quan chủ quản cơ sở dữ liệu công bố\ntheo quy định của pháp luật.”.\n     14. Sửa đổi, bổ sung khoản 4 Điều 50 như sau:\n     “4. Việc điểm chỉ có thể được thực hiện đồng thời với việc ký theo đề nghị\ncủa người yêu cầu công chứng.”.\n     15. Sửa đổi, bổ sung Điều 57 như sau:\n    “Điều 57. Công chứng hợp đồng ủy quyền trong trường hợp bên ủy\nquyền và bên được ủy quyền không thể cùng đến 01 tổ chức hành nghề công\nchứng\n     1. Trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng\nđến 01 tổ chức hành nghề công chứng thì bên ủy quyền được yêu cầu công chứng\nviên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận việc đề\nnghị ủy quyền trong hợp đồng ủy quyền; bên được ủy quyền được yêu cầu công\nchứng viên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận tiếp\nvào bản gốc của hợp đồng ủy quyền đó để xác nhận việc chấp nhận ủy quyền,\nhoàn thành việc công chứng hợp đồng ủy quyền.\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                           27\n\n     Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được\ncông chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được\nủy quyền yêu cầu công chứng ký và đóng dấu của tổ chức hành nghề công chứng\nđó. Trường hợp là văn bản công chứng điện tử thì phải có chữ ký số của công\nchứng viên và chữ ký số của các tổ chức hành nghề công chứng đó.\n      2. Việc công chứng sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng ủy\nquyền trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng đến\n01 tổ chức hành nghề công chứng được thực hiện theo quy định tại Điều 53 của\nLuật này và khoản 1 Điều này. Văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt\nhợp đồng ủy quyền có hiệu lực theo quy định tại khoản 1 Điều này.\n     Trường hợp hai bên cùng yêu cầu công chứng việc sửa đổi, bổ sung, thỏa\nthuận chấm dứt hợp đồng ủy quyền tại một trong hai tổ chức hành nghề công\nchứng đã thực hiện việc công chứng trước đó thì tổ chức hành nghề công chứng\nnày có trách nhiệm thông báo và gửi 01 bản sao của văn bản sửa đổi, bổ sung,\nthỏa thuận chấm dứt hợp đồng cho tổ chức hành nghề công chứng còn lại trong\nthời hạn 05 ngày làm việc để lưu hồ sơ công chứng.\n     3. Việc sửa lỗi kỹ thuật của văn bản công chứng theo quy định tại khoản 1\nvà khoản 2 Điều này được thực hiện tại một trong hai tổ chức hành nghề công\nchứng đã thực hiện việc công chứng, trừ trường hợp pháp luật có quy định khác.\nCông chứng viên thực hiện việc sửa lỗi kỹ thuật theo quy định tại khoản 3 và\nkhoản 4 Điều 52 của Luật này, thông báo bằng văn bản về việc sửa lỗi kỹ thuật\ncho những người tham gia giao dịch và tổ chức hành nghề công chứng còn lại đã\nthực hiện việc công chứng trong thời hạn 05 ngày làm việc; trường hợp tổ chức\nhành nghề công chứng còn lại đã chấm dứt hoạt động thì thông báo cho tổ chức\nhành nghề công chứng lưu trữ hồ sơ công chứng của tổ chức hành nghề công\nchứng đó trong thời hạn 05 ngày làm việc.”.\n     16. Sửa đổi, bổ sung Điều 66 như sau:\n     “Điều 66. Cơ sở dữ liệu công chứng\n     1. Cơ sở dữ liệu công chứng bao gồm các dữ liệu sau đây:\n    a) Thông tin về công chứng viên, tổ chức hành nghề công chứng, giao dịch đã\nđược công chứng;\n     b) Thông tin về tình trạng giao dịch của tài sản;\n    c) Thông tin về biện pháp ngăn chặn và cảnh báo rủi ro trong hoạt động\ncông chứng;\n     d) Văn bản công chứng và tài liệu khác trong hồ sơ công chứng.\n     2. Cơ sở dữ liệu công chứng phải được cập nhật đầy đủ, chính xác, kịp thời và\nbảo đảm an ninh, an toàn theo quy định của pháp luật. Việc thu thập, cung cấp\nthông tin để đưa vào cơ sở dữ liệu công chứng và khai thác, sử dụng, chia sẻ cơ\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                              28\n\nsở dữ liệu công chứng phải tuân thủ quy định của Luật này và quy định khác của\npháp luật có liên quan về bảo mật thông tin về nội dung công chứng, bảo vệ đời\nsống riêng tư, bí mật cá nhân, bí mật gia đình.\n      Việc kết nối, chia sẻ thông tin giữa cơ sở dữ liệu công chứng với các cơ sở dữ\nliệu quốc gia, cơ sở dữ liệu của Bộ, ngành, địa phương và các cơ sở dữ liệu khác\nphải bảo đảm hiệu quả, an toàn, phù hợp với chức năng, nhiệm vụ, quyền hạn theo\nquy định của Luật này và quy định khác của pháp luật có liên quan.\n     3. Cơ sở dữ liệu công chứng được quản lý tập trung và được phân cấp quản\nlý theo trách nhiệm quản lý nhà nước về công chứng của Bộ Tư pháp và Ủy ban\nnhân dân cấp tỉnh.\n     4. Bộ Tư pháp có trách nhiệm xây dựng cơ sở dữ liệu công chứng đồng bộ,\nthống nhất từ trung ương đến địa phương theo tiêu chuẩn, quy chuẩn kỹ thuật trong\nphạm vi cả nước.\n     Bộ trưởng Bộ Tư pháp ban hành quy chế quản lý, cập nhật, khai thác, sử dụng,\nchia sẻ cơ sở dữ liệu công chứng trong phạm vi cả nước.\n     5. Kinh phí xây dựng, quản lý, vận hành, bảo trì, nâng cấp cơ sở dữ liệu công\nchứng được sử dụng từ nguồn ngân sách nhà nước và các nguồn khác theo quy\nđịnh của pháp luật.\n     6. Chính phủ quy định chi tiết các khoản 1, 2, 3 và 5 Điều này.”.\n     17. Sửa đổi, bổ sung khoản 3 Điều 68 như sau:\n      “3. Trong trường hợp cơ quan nhà nước có thẩm quyền có yêu cầu bằng văn\nbản về việc cung cấp hồ sơ công chứng phục vụ cho việc giám sát, kiểm tra, thanh\ntra, điều tra, truy tố, xét xử, thi hành án liên quan đến việc đã công chứng thì tổ\nchức hành nghề công chứng có trách nhiệm cung cấp bản sao văn bản công chứng\nvà giấy tờ khác có liên quan. Việc đối chiếu bản sao văn bản công chứng với bản\ngốc chỉ được thực hiện tại tổ chức hành nghề công chứng nơi đang lưu trữ hồ sơ\ncông chứng, trừ trường hợp cơ quan tiến hành tố tụng yêu cầu cung cấp bản gốc\nvăn bản công chứng để phục vụ việc xác minh, giám định tài liệu. Thời hạn cung\ncấp bản gốc văn bản công chứng tối đa là 10 ngày làm việc kể từ ngày bàn giao.\nCơ quan tiến hành tố tụng chịu trách nhiệm bảo quản và bàn giao lại đầy đủ, nguyên\nvẹn và đúng thời hạn bản gốc văn bản công chứng cho tổ chức hành nghề công\nchứng. Việc bàn giao bản gốc văn bản công chứng phải được lập thành văn bản có\nghi rõ thời gian bàn giao lại văn bản công chứng đó, người có trách nhiệm bàn giao\nlại và trách nhiệm trong trường hợp để mất, hư hỏng bản gốc văn bản công chứng.”.\n     18. Thay thế một số cụm từ tại một số điểm, khoản như sau:\n     a) Thay thế cụm từ “Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương\n(sau đây gọi là Ủy ban nhân dân cấp tỉnh)” bằng cụm từ “Ủy ban nhân dân cấp\ntỉnh” tại khoản 4 Điều 8;\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                             29\n\n      b) Thay thế cụm từ “thanh tra viên chính ngành tư pháp” bằng cụm từ “thanh\ntra viên chính trong lĩnh vực tư pháp” tại điểm a khoản 3 Điều 11; cụm từ “thanh\ntra viên cao cấp ngành tư pháp” bằng cụm từ “thanh tra viên cao cấp trong lĩnh\nvực tư pháp” tại điểm d khoản 3 Điều 11;\n      c) Thay thế cụm từ “xã, phường, thị trấn” bằng cụm từ “xã, phường, đặc khu”\ntại khoản 3 Điều 14;\n    d) Thay thế cụm từ “địa bàn cấp huyện” bằng cụm từ “địa bàn cấp xã” tại\nđiểm a khoản 2 Điều 20 và khoản 1 Điều 21;\n     đ) Thay thế cụm từ “tỉnh, thành phố trực thuộc trung ương” bằng cụm từ\n“tỉnh, thành phố” tại khoản 4 Điều 20, khoản 1 Điều 29, khoản 1 Điều 41 và\nkhoản 5 Điều 68."
+    },
+    "CC04-2026:2": {
+      "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+      "article": "Điều 2",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+      "evidenceExcerpt": "Điều 2. Hiệu lực thi hành\n     Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2027."
+    },
+    "CC46-2024:5": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 5",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 5. Nguyên tắc hành nghề công chứng\n     1. Tuân thủ Hiến pháp và pháp luật.\n     2. Khách quan, trung thực.\n     3. Tuân thủ Quy tắc đạo đức hành nghề công chứng.\n     4. Chịu trách nhiệm trước pháp luật về việc hành nghề công chứng."
+    },
+    "CC46-2024:6": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 6",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 6. Hiệu lực và giá trị pháp lý của văn bản công chứng\n     1. Văn bản công chứng có hiệu lực kể từ thời điểm được công chứng viên ký\nvà tổ chức hành nghề công chứng đóng dấu vào văn bản; trường hợp là văn bản\ncông chứng điện tử thì có hiệu lực theo quy định tại khoản 2 Điều 64 của Luật này.\n     2. Văn bản công chứng có hiệu lực thi hành đối với các bên liên quan, là cơ sở\nđể các bên tham gia giao dịch đề nghị cơ quan nhà nước có thẩm quyền thực hiện\ncác thủ tục liên quan đến giao dịch đã được công chứng.\n     3. Văn bản công chứng có giá trị chứng cứ; những tình tiết, sự kiện trong văn bản\ncông chứng không phải chứng minh, trừ trường hợp bị Tòa án tuyên bố là vô hiệu."
+    },
+    "CC46-2024:7": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 7",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 7. Tiếng nói và chữ viết dùng trong công chứng\n     Tiếng nói và chữ viết dùng trong công chứng là tiếng Việt; trường hợp người\nyêu cầu công chứng sử dụng tiếng nói, chữ viết không phải là tiếng Việt hoặc sử\ndụng ngôn ngữ của người khuyết tật thì phải dịch sang tiếng Việt."
+    },
+    "CC46-2024:8": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 8",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 8. Trách nhiệm quản lý nhà nước về công chứng\n     1. Chính phủ thống nhất quản lý nhà nước về công chứng.\n     2. Bộ Tư pháp chịu trách nhiệm trước Chính phủ trong việc thực hiện quản lý\nnhà nước về công chứng trên phạm vi cả nước.\n     3. Các Bộ, cơ quan ngang Bộ, trong phạm vi chức năng, nhiệm vụ, quyền hạn\ncủa mình, có trách nhiệm phối hợp với Bộ Tư pháp trong việc thực hiện quản lý\nnhà nước về công chứng.\n\f30                CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n    4. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là Ủy\nban nhân dân cấp tỉnh), trong phạm vi chức năng, nhiệm vụ, quyền hạn của mình,\nthực hiện việc quản lý nhà nước về công chứng tại địa phương."
+    },
+    "CC46-2024:9": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 9",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 9. Các hành vi bị nghiêm cấm\n     1. Nghiêm cấm công chứng viên thực hiện các hành vi sau đây:\n    a) Tiết lộ thông tin về nội dung công chứng, trừ trường hợp được người yêu\ncầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác; sử dụng\nthông tin về nội dung công chứng để xâm hại quyền, lợi ích hợp pháp của cá nhân,\ntổ chức, quyền và lợi ích của Nhà nước;\n    b) Thực hiện công chứng trong trường hợp mục đích, chủ thể hoặc nội dung\ncủa giao dịch vi phạm pháp luật, trái đạo đức xã hội; xúi giục, tạo điều kiện cho\nngười tham gia giao dịch thực hiện giao dịch giả tạo hoặc hành vi gian dối khác;\n    c) Công chứng giao dịch có liên quan đến tài sản, lợi ích của bản thân mình\nhoặc của người thân thích là vợ hoặc chồng; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha\nđẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; con đẻ, con nuôi, con dâu, con rể;\nông nội, bà nội, ông ngoại, bà ngoại; anh ruột, chị ruột, em ruột; anh ruột, chị ruột,\nem ruột của vợ hoặc chồng; cháu là con của con đẻ, con nuôi;\n    d) Sách nhiễu, gây khó khăn cho người yêu cầu công chứng; nhận, đòi hỏi tiền\nhoặc lợi ích khác từ người yêu cầu công chứng ngoài phí công chứng, phí, giá dịch\nvụ theo yêu cầu liên quan đến việc công chứng và chi phí khác đã được xác định,\nthỏa thuận; nhận, đòi hỏi tiền hoặc lợi ích khác từ người thứ ba để thực hiện hoặc\nkhông thực hiện việc công chứng;\n    đ) Ép buộc cá nhân, tổ chức sử dụng dịch vụ của mình; cấu kết, thông đồng với cá\nnhân, tổ chức làm sai lệch nội dung của hồ sơ yêu cầu công chứng, hồ sơ công chứng;\n   e) Chi tiền hoặc lợi ích khác, gây áp lực, đe dọa hoặc thực hiện hành vi vi\nphạm pháp luật, trái đạo đức xã hội để giành lợi thế trong việc công chứng;\n   g) Quảng cáo trên phương tiện thông tin đại chúng về công chứng viên và tổ\nchức hành nghề công chứng;\n     h) Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên; đồng\nthời là thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật,\nthẩm định viên về giá; làm việc theo hợp đồng làm việc hoặc hợp đồng lao động\ntại doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, cơ quan, tổ chức khác hoặc tham\ngia công việc mà thường xuyên phải làm việc trong giờ hành chính;\n   i) Tham gia quản lý doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã ngoài tổ chức\nhành nghề công chứng; thực hiện hoạt động môi giới, đại lý hoặc tham gia chia lợi\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                        31\n\nnhuận trong giao dịch mà mình công chứng; thực hiện hoạt động sản xuất, kinh doanh\nhoặc cung cấp dịch vụ ngoài phạm vi hoạt động công chứng, chứng thực;\n   k) Cho người khác sử dụng quyết định bổ nhiệm công chứng viên, thẻ công\nchứng viên của mình;\n    l) Đầu tư toàn bộ hoặc góp vốn với công chứng viên khác để thành lập, nhận\nchuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh của Văn\nphòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh mà\nkhông tham gia hợp danh vào Văn phòng công chứng đó; góp vốn, nhận góp vốn,\nhợp tác với tổ chức, cá nhân không phải là công chứng viên để thành lập, nhận\nchuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh của Văn\nphòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh; đầu\ntư để thành lập hoặc mua Văn phòng công chứng được tổ chức và hoạt động theo\nloại hình doanh nghiệp tư nhân mà không làm Trưởng Văn phòng công chứng đó.\n    2. Nghiêm cấm tổ chức hành nghề công chứng thực hiện các hành vi sau đây:\n   a) Thực hiện các hành vi quy định tại các điểm a, b, d, đ, e, g, i và l khoản 1\nĐiều này;\n    b) Mở chi nhánh, văn phòng đại diện, cơ sở, địa điểm giao dịch khác ngoài trụ\nsở của tổ chức hành nghề công chứng;\n     c) Cho người không đủ điều kiện hành nghề công chứng hoặc công chứng viên\nđang bị tạm đình chỉ hành nghề công chứng thực hiện việc công chứng, chứng thực\ntại tổ chức mình;\n   d) Cho công chứng viên thực hiện việc công chứng, chứng thực tại tổ chức\nmình khi tổ chức hành nghề công chứng bị thu hồi quyết định cho phép thành lập.\n    3. Nghiêm cấm cá nhân, tổ chức thực hiện các hành vi sau đây:\n   a) Giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng,\nngười phiên dịch;\n    b) Cung cấp thông tin, tài liệu sai sự thật; tiết lộ hoặc sử dụng thông tin mà\nmình biết được trong hoạt động công chứng theo quy định tại điểm a khoản 1 Điều\nnày; sử dụng giấy tờ, văn bản giả mạo hoặc bị tẩy xóa, sửa chữa trái pháp luật để\nyêu cầu công chứng hoặc để đề nghị bổ nhiệm, bổ nhiệm lại công chứng viên;\n   c) Có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng,\nlàm chứng, phiên dịch;\n    d) Cản trở hoạt động công chứng; từ chối cung cấp thông tin, tài liệu phục vụ\nviệc công chứng trái quy định của pháp luật; từ chối thực hiện thủ tục pháp lý liên\nquan đến giao dịch được công chứng mà không có căn cứ pháp lý;\n\f32                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n    đ) Cá nhân không phải là công chứng viên, tổ chức không phải là tổ chức hành\nnghề công chứng thực hiện các hành vi sau: đầu tư toàn bộ, góp vốn, nhận góp\nvốn, liên kết, hợp tác chia lợi nhuận trong hoạt động công chứng; cung cấp dịch vụ\ncông chứng; đặt tên tổ chức, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, treo\nbiển quảng cáo hoặc thực hiện hành vi quảng cáo khác có nội dung cung cấp dịch\nvụ công chứng hoặc nội dung dịch vụ gây nhầm lẫn với dịch vụ công chứng.\n\n                                   Chương II\n                               CÔNG CHỨNG VIÊN"
+    },
+    "CC46-2024:18": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 18",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 18. Quyền và nghĩa vụ của công chứng viên\n    1. Công chứng viên có các quyền sau đây:\n    a) Được bảo đảm quyền hành nghề công chứng;\n   b) Thành lập, tham gia thành lập Văn phòng công chứng, tham gia hợp danh\nvào Văn phòng công chứng hoặc làm việc theo chế độ hợp đồng làm việc, hợp\nđồng lao động cho tổ chức hành nghề công chứng;\n    c) Được công chứng giao dịch theo quy định của Luật này và quy định khác\ncủa pháp luật có liên quan; được chứng thực bản sao từ bản chính, chứng thực chữ\nký trong giấy tờ, văn bản, chứng thực chữ ký người dịch theo quy định của pháp\nluật về chứng thực;\n    d) Đề nghị cá nhân, cơ quan, tổ chức có liên quan cung cấp thông tin, tài liệu,\nđược khai thác, sử dụng thông tin từ các cơ sở dữ liệu theo quy định của pháp luật\nđể thực hiện việc công chứng;\n\f38               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n    đ) Quyền khác theo quy định của Luật này và quy định khác của pháp luật có\nliên quan.\n     2. Công chứng viên có các nghĩa vụ sau đây:\n     a) Tuân thủ các nguyên tắc hành nghề công chứng;\n     b) Tôn trọng và bảo vệ quyền, lợi ích hợp pháp của người yêu cầu công chứng;\n     c) Hành nghề tại 01 tổ chức hành nghề công chứng; bảo đảm thời gian làm\nviệc theo ngày, giờ làm việc của tổ chức hành nghề công chứng;\n     d) Hướng dẫn người yêu cầu công chứng thực hiện đúng các quy định về thủ\ntục công chứng và quy định của pháp luật có liên quan; giải thích cho người yêu\ncầu công chứng hiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu\nquả pháp lý của việc công chứng;\n     đ) Từ chối công chứng trong trường hợp giao dịch vi phạm pháp luật, trái đạo\nđức xã hội và các trường hợp khác theo quy định của Luật này; giải thích rõ lý do\ntừ chối công chứng;\n     e) Giữ bí mật về nội dung công chứng, trừ trường hợp được người yêu cầu\ncông chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác;\n     g) Tham gia bồi dưỡng nghiệp vụ công chứng hằng năm;\n     h) Gia nhập Hội công chứng viên tại địa phương nơi muốn hành nghề và duy\ntrì tư cách hội viên trong suốt quá trình hành nghề công chứng tại địa phương đó;\n     i) Chịu trách nhiệm trước pháp luật và trước người yêu cầu công chứng về văn\nbản công chứng mà mình thực hiện;\n     k) Chịu trách nhiệm trước pháp luật về hoạt động của Văn phòng công chứng\nmà mình là thành viên hợp danh hoặc chủ doanh nghiệp tư nhân;\n     l) Nghĩa vụ khác theo quy định của Luật này và quy định khác của pháp luật có\nliên quan.\n\n                            Chương III\n                  TỔ CHỨC HÀNH NGHỀ CÔNG CHỨNG"
+    },
+    "CC46-2024:10": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 10",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 10. Tiêu chuẩn bổ nhiệm công chứng viên\n     Người có đủ các tiêu chuẩn sau đây thì được xem xét bổ nhiệm công chứng viên:\n     1. Là công dân Việt Nam không quá 70 tuổi;\n    2. Thường trú tại Việt Nam, tuân thủ Hiến pháp và pháp luật, có phẩm chất\nđạo đức tốt và bảo đảm sức khỏe để hành nghề công chứng;\n     3. Có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật;\n    4. Có thời gian công tác pháp luật từ đủ 03 năm trở lên tại cơ quan, tổ chức sau\nkhi có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật;\n     5. Tốt nghiệp khóa đào tạo nghề công chứng;\n     6. Đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng."
+    },
+    "CC46-2024:11": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 11",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 11. Đào tạo nghề công chứng\n    1. Người có bằng cử nhân luật hoặc thạc sĩ luật hoặc tiến sĩ luật được đăng ký\ntham dự khóa đào tạo nghề công chứng tại cơ sở đào tạo nghề công chứng.\n   2. Thời gian đào tạo nghề công chứng là 12 tháng, trừ trường hợp quy định tại\nkhoản 3 Điều này.\n     3. Những người sau đây có thời gian đào tạo nghề công chứng là 06 tháng:\n    a) Người đã có thời gian từ đủ 05 năm trở lên làm thẩm phán; kiểm sát viên;\nđiều tra viên; thẩm tra viên chính ngành Tòa án; chấp hành viên trung cấp, thẩm tra\nviên chính thi hành án dân sự; kiểm tra viên chính ngành kiểm sát; trợ giúp viên\npháp lý hạng II; thanh tra viên chính ngành tư pháp; chuyên viên chính, pháp chế\nviên chính, nghiên cứu viên chính, giảng viên chính trong lĩnh vực pháp luật;\n     b) Thừa phát lại, luật sư, đấu giá viên đã hành nghề từ đủ 05 năm trở lên;\n     c) Giáo sư, phó giáo sư chuyên ngành luật; tiến sĩ luật;\n    d) Người đã là thẩm tra viên cao cấp ngành Tòa án; chấp hành viên cao cấp,\nthẩm tra viên cao cấp thi hành án dân sự; kiểm tra viên cao cấp ngành kiểm sát; trợ\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                       33\n\ngiúp viên pháp lý hạng I; thanh tra viên cao cấp ngành tư pháp; chuyên viên cao\ncấp, pháp chế viên cao cấp, nghiên cứu viên cao cấp, giảng viên cao cấp trong lĩnh\nvực pháp luật.\n   4. Người hoàn thành chương trình đào tạo nghề công chứng được cơ sở đào tạo\nnghề công chứng cấp giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng.\n   5. Chính phủ quy định về cơ sở đào tạo nghề công chứng.\n   6. Bộ trưởng Bộ Tư pháp quy định về chương trình khung đào tạo nghề công\nchứng và việc công nhận tương đương đối với người được đào tạo nghề công\nchứng ở nước ngoài."
+    },
+    "CC46-2024:12": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 12",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 12. Tập sự hành nghề công chứng\n    1. Người có giấy chứng nhận tốt nghiệp khóa đào tạo nghề công chứng liên hệ\nvới tổ chức hành nghề công chứng theo quy định tại khoản 2 Điều này để tập sự\nhành nghề công chứng; trường hợp không liên hệ tập sự được thì đề nghị Sở Tư\npháp bố trí tập sự.\n   Người tập sự phải đăng ký tập sự tại Sở Tư pháp ở địa phương nơi có tổ chức\nhành nghề công chứng nhận tập sự.\n    Thời gian tập sự hành nghề công chứng là 12 tháng, được tính từ ngày quyết\nđịnh đăng ký tập sự có hiệu lực.\n    2. Tổ chức hành nghề công chứng nhận tập sự phải có công chứng viên đủ điều\nkiện hướng dẫn tập sự theo quy định tại khoản 3 Điều này và có cơ sở vật chất bảo\nđảm cho việc tập sự.\n    3. Công chứng viên được phân công hướng dẫn tập sự phải có từ đủ 02 năm\nkinh nghiệm hành nghề công chứng trở lên. Công chứng viên bị xử lý kỷ luật,\nxử phạt vi phạm hành chính trong hoạt động hành nghề công chứng thì sau 12 tháng\nkể từ ngày chấp hành xong quyết định kỷ luật, quyết định xử phạt vi phạm hành\nchính mới được hướng dẫn tập sự hành nghề công chứng. Công chứng viên\nđang hướng dẫn tập sự mà bị xử lý kỷ luật, xử phạt vi phạm hành chính trong\nhoạt động hành nghề công chứng, bị tạm đình chỉ hành nghề công chứng, chết\nhoặc bị Tòa án tuyên bố là đã chết, mất tích thì tổ chức hành nghề công chứng\nphân công công chứng viên khác đủ điều kiện tiếp tục hướng dẫn tập sự; trường\nhợp không còn công chứng viên đủ điều kiện hướng dẫn tập sự thì tổ chức hành\nnghề công chứng báo cáo Sở Tư pháp để chỉ định tổ chức hành nghề công chứng\nkhác nhận người tập sự.\n   Tại cùng một thời điểm, 01 công chứng viên chỉ được hướng dẫn tối đa 02\nngười tập sự.\n\f34                CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\n   Công chứng viên hướng dẫn tập sự phải hướng dẫn và chịu trách nhiệm về các\ncông việc do người tập sự thực hiện theo hướng dẫn của mình.\n    4. Người tập sự hành nghề công chứng phải bảo đảm thời gian tập sự theo\nngày, giờ làm việc của tổ chức hành nghề công chứng nhận tập sự; được hướng\ndẫn các kỹ năng hành nghề và thực hiện các công việc liên quan đến công chứng,\nchứng thực do công chứng viên hướng dẫn tập sự phân công và chịu trách nhiệm\ntrước công chứng viên hướng dẫn tập sự về những công việc đó.\n   5. Người đã hoàn thành tập sự được đăng ký tham dự kiểm tra kết quả tập sự\nhành nghề công chứng; trường hợp đạt yêu cầu kiểm tra thì được cấp giấy chứng\nnhận kết quả kiểm tra tập sự hành nghề công chứng.\n    Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng không có thời\nhạn, trừ trường hợp trong thời hạn 05 năm kể từ ngày được cấp giấy chứng nhận\nkết quả kiểm tra tập sự hành nghề công chứng mà người được cấp giấy không đề\nnghị bổ nhiệm công chứng viên thì giấy chứng nhận kết quả kiểm tra tập sự hành\nnghề công chứng hết hiệu lực; người có giấy chứng nhận kết quả kiểm tra tập sự\nhành nghề công chứng hết hiệu lực muốn bổ nhiệm công chứng viên phải đăng ký\ntham dự và đạt yêu cầu kiểm tra kết quả tập sự hành nghề công chứng.\n     6. Bộ trưởng Bộ Tư pháp quy định chi tiết Điều này."
+    },
+    "CC46-2024:14": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 14",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 14. Những trường hợp không được bổ nhiệm công chứng viên\n   1. Người không đủ tiêu chuẩn bổ nhiệm công chứng viên theo quy định tại\nĐiều 10 của Luật này.\n    2. Người đang bị truy cứu trách nhiệm hình sự; người đã bị kết án về tội phạm\ndo vô ý mà chưa được xóa án tích; người đã bị kết án về tội phạm do cố ý, kể cả\ntrường hợp đã được xóa án tích.\n     3. Người đang bị áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường,\nthị trấn, đưa vào cơ sở giáo dục bắt buộc, đưa vào cơ sở cai nghiện bắt buộc.\n    4. Người bị mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân\nsự; người có khó khăn trong nhận thức, làm chủ hành vi.\n\f                  CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                         35\n\n    5. Người đang là cán bộ, công chức, viên chức, trừ viên chức của Phòng công\nchứng; đang là sĩ quan, hạ sĩ quan, chiến sĩ, quân nhân chuyên nghiệp, công nhân,\nviên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân; đang là sĩ quan, hạ sĩ\nquan, chiến sĩ, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân.\n    6. Người đang là thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên\npháp luật, thẩm định viên về giá hoặc đang thực hiện công việc theo quy định tại\nđiểm h khoản 1 Điều 9 của Luật này.\n    7. Cán bộ bị kỷ luật bằng hình thức bãi nhiệm; công chức, viên chức bị kỷ luật\nbằng hình thức buộc thôi việc; sĩ quan, hạ sĩ quan, chiến sĩ, quân nhân chuyên\nnghiệp, công nhân, viên chức trong cơ quan, đơn vị thuộc Quân đội nhân dân bị kỷ\nluật bằng hình thức tước danh hiệu quân nhân hoặc buộc thôi việc; sĩ quan, hạ sĩ\nquan, chiến sĩ, công nhân trong cơ quan, đơn vị thuộc Công an nhân dân bị kỷ luật\nbằng hình thức tước danh hiệu Công an nhân dân hoặc buộc thôi việc.\n    8. Thừa phát lại, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật,\nthẩm định viên về giá bị miễn nhiệm hoặc bị thu hồi chứng chỉ hành nghề do vi\nphạm pháp luật mà chưa hết thời hạn 03 năm kể từ ngày quyết định miễn nhiệm\nhoặc quyết định thu hồi chứng chỉ hành nghề có hiệu lực thi hành."
+    },
+    "CC46-2024:15": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 15. Tạm đình chỉ hành nghề công chứng\n   1. Công chứng viên bị tạm đình chỉ hành nghề công chứng trong các trường\nhợp sau đây:\n    a) Bị truy cứu trách nhiệm hình sự;\n    b) Bị áp dụng biện pháp xử lý hành chính theo quy định tại khoản 3 Điều 14\ncủa Luật này.\n    Trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định về việc truy\ncứu trách nhiệm hình sự hoặc quyết định áp dụng biện pháp xử lý hành chính đối\nvới công chứng viên, Sở Tư pháp nơi cấp thẻ công chứng viên ra quyết định tạm\nđình chỉ hành nghề công chứng.\n    2. Thời gian tạm đình chỉ hành nghề công chứng tối đa là 12 tháng.\n    3. Việc tạm đình chỉ hành nghề công chứng được chấm dứt trước thời hạn\ntrong các trường hợp sau đây:\n   a) Có quyết định đình chỉ điều tra, đình chỉ vụ án, bản án đã có hiệu lực của\nTòa án tuyên không có tội;\n    b) Không còn bị áp dụng biện pháp xử lý hành chính.\n   Trong thời hạn 05 ngày làm việc kể từ ngày nhận được văn bản đề nghị của\ncông chứng viên kèm theo giấy tờ chứng minh về việc chấm dứt việc tạm đình chỉ\n\f36                CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\nhành nghề công chứng, Sở Tư pháp ra quyết định chấm dứt việc tạm đình chỉ hành\nnghề công chứng.\n   4. Chính phủ quy định việc gửi và đăng tải thông tin về quyết định tạm đình chỉ\nhành nghề công chứng, quyết định chấm dứt việc tạm đình chỉ hành nghề công chứng."
+    },
+    "CC46-2024:16": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 16",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 16. Miễn nhiệm công chứng viên\n   1. Công chứng viên được miễn nhiệm theo nguyện vọng cá nhân hoặc khi\nđược chuyển làm công việc khác theo quyết định của cơ quan có thẩm quyền.\n   Công chứng viên đương nhiên miễn nhiệm khi quá 70 tuổi.\n   2. Công chứng viên bị miễn nhiệm trong các trường hợp sau đây:\n   a) Không còn đủ các tiêu chuẩn quy định tại Điều 10 của Luật này, trừ trường\nhợp đương nhiên miễn nhiệm quy định tại khoản 1 Điều này;\n   b) Thuộc trường hợp quy định tại khoản 4 Điều 14 của Luật này;\n    c) Được tuyển dụng, bổ nhiệm, điều động giữ một trong các vị trí công tác quy\nđịnh tại khoản 5 Điều 14 của Luật này, trừ trường hợp đã được miễn nhiệm theo\nquy định tại khoản 1 Điều này;\n     d) Thuộc trường hợp quy định tại điểm h khoản 1 Điều 9 của Luật này;\n    đ) Không hành nghề công chứng trong thời hạn 12 tháng kể từ ngày được bổ\nnhiệm, bổ nhiệm lại công chứng viên hoặc không hành nghề công chứng liên tục\ntừ 12 tháng trở lên, trừ trường hợp không hành nghề do bị tạm đình chỉ hành nghề\ncông chứng theo quy định tại Điều 15 của Luật này, Văn phòng công chứng bị tạm\nngừng hoạt động theo quy định tại điểm b khoản 1 Điều 32 của Luật này;\n    e) Hết thời hạn tạm đình chỉ hành nghề công chứng quy định tại khoản 2 Điều 15\ncủa Luật này mà lý do tạm đình chỉ vẫn còn;\n   g) Bị xử phạt vi phạm hành chính từ 02 lần trở lên về hoạt động hành nghề\ncông chứng trong thời hạn 12 tháng; hành nghề công chứng khi chưa đủ điều kiện\nhành nghề công chứng hoặc trong thời gian bị tạm đình chỉ hành nghề công chứng;\n   h) Bị xử lý kỷ luật từ 02 lần trở lên trong thời hạn 12 tháng hoặc bị kỷ luật\nbuộc thôi việc;\n     i) Bị kết tội bằng bản án đã có hiệu lực pháp luật của Tòa án;\n    k) Thuộc trường hợp không đủ tiêu chuẩn bổ nhiệm công chứng viên tại thời\nđiểm được bổ nhiệm.\n    3. Chính phủ quy định về hồ sơ, trình tự, thủ tục miễn nhiệm công chứng viên."
+    },
+    "CC46-2024:19": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 19",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 19. Tổ chức hành nghề công chứng\n   1. Tổ chức hành nghề công chứng bao gồm Phòng công chứng và Văn phòng\ncông chứng được tổ chức và hoạt động theo quy định của Luật này và quy định\nkhác của pháp luật có liên quan.\n    2. Bộ Tư pháp có trách nhiệm xây dựng, trình Chính phủ ban hành chiến lược\nphát triển về lĩnh vực công chứng; hướng dẫn các địa phương xây dựng Đề án\nquản lý, phát triển các tổ chức hành nghề công chứng.\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                         39\n\n    3. Ủy ban nhân dân cấp tỉnh có trách nhiệm ban hành Đề án quản lý, phát triển\ncác tổ chức hành nghề công chứng; xem xét, quyết định chuyển giao thẩm quyền\nchứng thực giao dịch từ Phòng Tư pháp cấp huyện, Ủy ban nhân dân cấp xã sang\ntổ chức hành nghề công chứng tại những địa bàn cấp huyện đã phát triển được tổ\nchức hành nghề công chứng đáp ứng yêu cầu công chứng của cá nhân, tổ chức\ntheo quy định của Chính phủ."
+    },
+    "CC46-2024:46": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 46",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 46. Địa điểm công chứng\n   1. Việc công chứng phải được thực hiện tại trụ sở của tổ chức hành nghề công\nchứng, trừ các trường hợp quy định tại khoản 2 Điều này.\n   2. Việc công chứng có thể được thực hiện ngoài trụ sở của tổ chức hành nghề\ncông chứng nếu người yêu cầu công chứng thuộc các trường hợp sau đây:\n    a) Lập di chúc tại chỗ ở theo quy định của Bộ luật Dân sự;\n    b) Không thể đi lại được vì lý do sức khỏe; đang điều trị nội trú hoặc bị cách ly\ntheo chỉ định của cơ sở y tế;\n   c) Đang bị tạm giữ, tạm giam; đang thi hành án phạt tù; đang bị áp dụng biện\npháp xử lý hành chính;\n    d) Có lý do chính đáng khác theo quy định của Chính phủ.\n\f58               CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024"
+    },
+    "CC46-2024:47": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 47",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 47. Chữ viết và cách ghi thời điểm trong văn bản công chứng\n     1. Chữ viết trong văn bản công chứng phải rõ ràng, dễ đọc, không được viết tắt\nhoặc viết bằng ký hiệu, không được viết xen dòng, viết đè dòng, không được tẩy\nxóa, không được để trống, trừ trường hợp pháp luật có quy định khác.\n     2. Thời điểm công chứng phải được ghi cụ thể ngày, tháng, năm; có thể ghi\ngiờ, phút nếu người yêu cầu công chứng đề nghị hoặc công chứng viên thấy cần\nthiết. Các con số thể hiện thời điểm công chứng phải được ghi cả bằng số và chữ,\ntrừ trường hợp pháp luật có quy định khác."
+    },
+    "CC46-2024:48": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 48",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 48. Lời chứng của công chứng viên\n     1. Lời chứng của công chứng viên đối với giao dịch phải ghi rõ các nội dung\nsau đây:\n     a) Thời điểm, địa điểm công chứng;\n     b) Họ, tên công chứng viên, tên tổ chức hành nghề công chứng;\n     c) Chứng nhận người tham gia giao dịch hoàn toàn tự nguyện, có năng lực\nhành vi dân sự theo quy định của pháp luật, mục đích, nội dung của giao dịch\nkhông vi phạm pháp luật, không trái đạo đức xã hội;\n     d) Chữ ký, dấu điểm chỉ trong giao dịch đúng là chữ ký, dấu điểm chỉ của\nngười yêu cầu công chứng, chữ ký, dấu điểm chỉ của người làm chứng, người\nphiên dịch trong trường hợp có người làm chứng, người phiên dịch và được ký,\nđiểm chỉ trước sự chứng kiến của công chứng viên hoặc được ký trước đối với\ntrường hợp đăng ký chữ ký mẫu quy định tại khoản 2 Điều 50 của Luật này;\n     đ) Trách nhiệm của công chứng viên đối với giao dịch;\n     e) Các thông tin về lý do công chứng ngoài trụ sở, việc làm chứng, phiên dịch\ntrong trường hợp công chứng ngoài trụ sở hoặc việc công chứng có người làm\nchứng, người phiên dịch.\n     2. Lời chứng phải có chữ ký của công chứng viên và đóng dấu của tổ chức\nhành nghề công chứng. Đối với văn bản công chứng điện tử thì lời chứng phải có\nchữ ký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.\n     3. Công chứng viên căn cứ quy định tại khoản 1 Điều này để soạn thảo lời\nchứng phù hợp với từng giao dịch cụ thể; không được đưa vào lời chứng những nội\ndung nhằm trốn tránh, loại trừ trách nhiệm của mình hoặc có nội dung vi phạm\npháp luật, trái đạo đức xã hội.\n     4. Bộ trưởng Bộ Tư pháp quy định chi tiết mẫu lời chứng của công chứng viên."
+    },
+    "CC46-2024:58": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 58",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 58. Công chứng di chúc\n   1. Người lập di chúc không được ủy quyền cho người khác mà phải tự mình ký\nhoặc ký và điểm chỉ vào bản di chúc được công chứng. Trường hợp người lập di\nchúc không ký được và không điểm chỉ được thì việc lập di chúc phải có người\nlàm chứng theo quy định tại khoản 2 Điều 49 của Luật này.\n    2. Trường hợp công chứng viên nhận thấy người lập di chúc có dấu hiệu bị\nmất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự, có khó khăn\ntrong nhận thức, làm chủ hành vi hoặc có căn cứ cho rằng việc lập di chúc có\ndấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép thì công chứng viên đề nghị người lập\ndi chúc làm rõ, trường hợp không làm rõ được thì công chứng viên từ chối công\nchứng di chúc đó.\n   3. Trường hợp tính mạng người lập di chúc bị cái chết đe dọa thì người lập di\nchúc không phải xuất trình đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này\nnhưng phải ghi rõ trong văn bản công chứng.\n    Sau 03 tháng kể từ thời điểm lập di chúc theo quy định tại khoản này mà người\nlập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì người lập di\nchúc phải nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này, nếu người lập\ndi chúc không nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này thì văn\nbản công chứng di chúc không có hiệu lực.\n     4. Di chúc đã được công chứng nhưng sau đó người lập di chúc muốn sửa đổi,\nbổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc thì có thể yêu cầu công\nchứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc sửa đổi,\nbổ sung, thay thế hoặc hủy bỏ đó. Trường hợp di chúc trước đó đang được lưu giữ\ntại 01 tổ chức hành nghề công chứng thì người lập di chúc phải thông báo cho tổ\nchức hành nghề công chứng đang lưu giữ di chúc biết việc sửa đổi, bổ sung, thay\nthế, hủy bỏ một phần hoặc toàn bộ di chúc đó."
+    },
+    "CC46-2024:56": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 56",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 56. Công chứng hợp đồng thế chấp bất động sản\n    1. Thẩm quyền công chứng hợp đồng thế chấp bất động sản được thực hiện\ntheo quy định tại Điều 44 của Luật này.\n    2. Trường hợp bất động sản đã được thế chấp để bảo đảm thực hiện nghĩa vụ\nvà hợp đồng thế chấp đã được công chứng mà sau đó được tiếp tục thế chấp để bảo\nđảm cho nghĩa vụ khác trong phạm vi pháp luật cho phép thì các hợp đồng thế\nchấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã công\nchứng hợp đồng thế chấp lần đầu. Trường hợp tổ chức hành nghề công chứng đã\nthực hiện việc công chứng lần đầu chấm dứt hoạt động, chuyển đổi hoặc giải thể\nthì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công\nchứng thực hiện việc công chứng hợp đồng thế chấp tiếp theo đó. Trường hợp tổ\nchức hành nghề công chứng đã thực hiện việc công chứng lần đầu tạm ngừng hoạt\nđộng thì việc công chứng hợp đồng thế chấp tiếp theo được thực hiện theo quy\nđịnh tại khoản 4 Điều 32 của Luật này.\n\f                 CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                      63"
+    },
+    "CC46-2024:54": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 54",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 54. Người có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu\n   Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng,\nngười làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ\nquan nhà nước có thẩm quyền có quyền đề nghị Tòa án tuyên bố văn bản công\nchứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật.\n\n                             Mục 2\n              THỦ TỤC CÔNG CHỨNG MỘT SỐ GIAO DỊCH,\n                      NHẬN LƯU GIỮ DI CHÚC"
+    },
+    "CC46-2024:53": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 53",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 53. Công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch\n    1. Việc công chứng văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng\nđã được công chứng chỉ được thực hiện khi có sự thỏa thuận hoặc cam kết bằng\nvăn bản của tất cả những người đã ký kết hợp đồng đó, trừ trường hợp pháp luật có\nquy định khác.\n    Việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ văn bản là hành\nvi pháp lý đơn phương được thực hiện khi có yêu cầu của người đã ký kết văn bản\nđó, trừ trường hợp pháp luật có quy định khác.\n    2. Trừ trường hợp quy định tại khoản 4 Điều 58 của Luật này, việc công chứng\nvăn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng do\ncông chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công\nchứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện\nviệc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng\n\f62                CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024\n\nviên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện.\nTrường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi,\nbổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định\ntại khoản 4 Điều 32 của Luật này.\n   3. Thủ tục công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã\nđược công chứng được thực hiện như thủ tục công chứng giao dịch quy định tại\nChương này."
+    },
+    "CC46-2024:55": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 55",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 55. Nguyên tắc thực hiện thủ tục công chứng\n    Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di\nchúc, văn bản phân chia di sản, văn bản từ chối nhận di sản được thực hiện theo\ncác quy định tại Mục 1 Chương này và các quy định tại Mục này đối với từng loại\ngiao dịch."
+    },
+    "CC46-2024:75": {
+      "document": "Luật Công chứng số 46/2024/QH15",
+      "article": "Điều 75",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "evidenceExcerpt": "Điều 75. Hiệu lực thi hành\n     1. Luật này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2025.\n    2. Luật Công chứng số 53/2014/QH13 đã được sửa đổi, bổ sung một số điều\ntheo Luật số 28/2018/QH14 và Luật số 16/2023/QH15 (sau đây gọi là Luật\n\f                  CÔNG BÁO/Số 1527 + 1528/Ngày 29-12-2024                          73\n\nCông chứng số 53/2014/QH13) hết hiệu lực kể từ ngày Luật này có hiệu lực thi\nhành, trừ trường hợp quy định tại các khoản 1, 2, 3, 6, 7, 9, 11, 12 và 14 Điều 76 của\nLuật này."
+    },
+    "CC04-2026:3": {
+      "document": "Luật số 04/2026/QH16 sửa đổi Luật Công chứng",
+      "article": "Điều 3",
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+      "evidenceExcerpt": "Điều 3. Điều khoản chuyển tiếp\n     1. Người đã được bổ nhiệm, bổ nhiệm lại công chứng viên trước ngày Luật\nnày có hiệu lực thi hành được tiếp tục hành nghề công chứng và thực hiện các\nnhiệm vụ chứng thực theo quy định của Luật Công chứng số 46/2024/QH15 đã\nđược sửa đổi, bổ sung một số điều theo Luật số 106/2025/QH15 và quy định của\nLuật này.\n    2. Việc bổ nhiệm công chứng viên đối với người đã hoàn thành tập sự hành\nnghề công chứng tại tỉnh, thành phố được sắp xếp với tỉnh, thành phố khác thuộc\nthẩm quyền của Chủ tịch Ủy ban nhân dân tỉnh, thành phố sau khi sắp xếp.\n     3. Việc miễn nhiệm công chứng viên đối với những trường hợp do Bộ trưởng\nBộ Tư pháp bổ nhiệm được thực hiện theo quy định của Luật này. Trường hợp\ncông chứng viên được Bộ trưởng Bộ Tư pháp bổ nhiệm mà chưa hành nghề thì\nviệc miễn nhiệm thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh nơi đã\nđề nghị bổ nhiệm công chứng viên đó.\n     4. Việc bổ nhiệm lại công chứng viên đối với những trường hợp đã được\nmiễn nhiệm hoặc bị miễn nhiệm trước ngày Luật này có hiệu lực thi hành được\nthực hiện theo quy định của Luật này. Trường hợp công chứng viên được Bộ\ntrưởng Bộ Tư pháp miễn nhiệm thì việc bổ nhiệm lại thuộc thẩm quyền của Chủ\ntịch Ủy ban nhân dân cấp tỉnh nơi đã đề nghị miễn nhiệm công chứng viên đó;\ntrường hợp Bộ trưởng Bộ Tư pháp tự mình miễn nhiệm công chứng viên thì việc\nbổ nhiệm lại thuộc thẩm quyền của Chủ tịch Ủy ban nhân dân cấp tỉnh nơi hành\nnghề cuối cùng của công chứng viên đó.\n     5. Cơ sở dữ liệu công chứng của các địa phương được xây dựng trước\nngày Luật này có hiệu lực thi hành được tiếp tục quản lý, khai thác, sử dụng\ntheo quy định của Luật Công chứng số 46/2024/QH15 đã được sửa đổi, bổ sung\n\f                     CÔNG BÁO/Số 285/Ngày 27-05-2026                           30\n\nmột số điều theo Luật số 106/2025/QH15 cho đến ngày cơ sở dữ liệu công chứng\nđược xây dựng theo quy định của Luật này được đưa vào vận hành, sử dụng và\ncác dữ liệu cần thiết đã được đồng bộ đầy đủ, chính xác vào cơ sở dữ liệu công\nchứng được xây dựng theo quy định của Luật này.\n     Ủy ban nhân dân cấp tỉnh có trách nhiệm chỉ đạo việc cập nhật, quản lý, khai\nthác cơ sở dữ liệu công chứng đã có tại địa phương trong thời gian xây dựng cơ sở\ndữ liệu công chứng theo quy định của Luật này; chỉ đạo việc kết nối, tích hợp các\ndữ liệu công chứng tại địa phương với cơ sở dữ liệu công chứng theo quy định của\nLuật này bảo đảm kịp thời, an toàn, đầy đủ, chính xác.\n     6. Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành, Chính\nphủ tổ chức rà soát các quy định về giao dịch phải công chứng tại các văn bản quy\nphạm pháp luật được ban hành trước ngày Luật này có hiệu lực thi hành và hoàn\nthành việc sửa đổi, bổ sung, bãi bỏ theo thẩm quyền hoặc trình cơ quan có thẩm\nquyền sửa đổi, bổ sung, bãi bỏ các quy định không đáp ứng yêu cầu về giao dịch\nphải công chứng theo quy định tại khoản 2 Điều 1 của Luật này.\n\n    Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XVI,\nKỳ họp thứ Nhất thông qua ngày 23 tháng 4 năm 2026.\n\n                                                CHỦ TỊCH QUỐC HỘI\n\n\n                                                   Trần Thanh Mẫn"
+    }
+  },
+  "documents": [
+    {
+      "code": "CC46-2024",
+      "sha256DownloadedPdf": "04ab735f08c2de548db0ff994002d3ad128a707ec8338b67886b42a77f7070b8"
+    },
+    {
+      "code": "CC04-2026",
+      "sha256DownloadedPdf": "30cce3a095020396caf078c3d4dc60d1ac06beb79e8a824ae771a74a9a4da181"
+    }
+  ]
+}

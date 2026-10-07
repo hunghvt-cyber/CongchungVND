@@ -14,7 +14,9 @@ Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 
 ## MVP hiện tại
 
-Web tĩnh dùng GitHub Pages. Sau đợt rà soát 06/10/2026, ngân hàng lưu 942 bản ghi: **426 active, 0 review trong data, 516 archived**. App tải 8 file với 442 bản ghi và chỉ chọn 426 câu đủ điều kiện vào Ôn tập/Thi thử. Năm file EXP cơ học không được tải. Đã xử lý toàn bộ 36 câu review: 26 viết lại và kiểm định, 10 archived do trùng năng lực; xem [báo cáo rà soát](reports/pending-review-2026-10-06.md). Tài liệu nguồn còn các nhánh chưa kiểm định; không đồng nhất 0 review trong data với hoàn tất toàn bộ DOCX. Ma trận chất lượng/độ khó vẫn cần cân bằng.
+Web tĩnh dùng GitHub Pages. Sau lượt 07/10/2026, lưu **1.022 bản ghi: 506 active, 0 review trong data, 516 archived**. App tải 9 file với 522 bản ghi và chọn 506 câu active. Năm file EXP cơ học vẫn không được tải. Lượt này thêm 80 câu độc lập và rà 93 câu active trong file gốc; không đồng nhất 506 tổng active với đã thay đủ 500 câu mới. Ma trận và các nhánh nguồn DOCX còn việc chưa hoàn tất. Xem [báo cáo audit và việc còn lại](reports/audit-2026-10-07.md), [ma trận từng ID](reports/matrix-2026-10-07.json) và [hồ sơ kiểm định 80 câu mới](reports/completion-legal-evidence-2026.json).
+
+Các mục bổ sung theo ngày ở dưới là lịch sử dự án; số lượng tại các mốc cũ không phải tổng hiện tại.
 
 ## Cấu trúc dữ liệu dự kiến
 
@@ -23,6 +25,8 @@ data/
   questions.json
   derived-questions.json
   validated-2026.json
+  completion-2026.json
+  imported-*-2026.json
   question-sources.json
 ```
 
@@ -40,12 +44,12 @@ Có thể dùng GitHub Pages để xuất bản trực tiếp repository này th
 - Thi thử: không hiện đáp án khi đang thi. Sau nộp bài, tất cả câu (đúng, sai, chưa trả lời) đều có lựa chọn đã làm, đáp án đúng, giải thích, căn cứ và góp ý.
 - Chấm multiple choice theo tập đáp án: phải chọn đủ đáp án đúng và không chọn đáp án sai.
 - Timer dùng mốc hết giờ thực tế; kiểm tra lại khi quay về tab và trước thao tác chọn/đi tiếp, tự nộp khi hết giờ.
-- Góp ý mới gửi tập trung về Supabase, có bản dự phòng localStorage; không tự sửa ngân hàng. Không có lịch sử thi lưu bền vững; tải lại trang sẽ mất bài đang làm.
+- Góp ý mới gửi tập trung về Supabase, có bản dự phòng localStorage; không tự sửa ngân hàng. Bài đang làm chưa được lưu; bài đã nộp có bản chụp và lịch sử theo cơ chế progress bên dưới.
 - Tên luật được ghi đầy đủ trong dữ liệu, gồm Luật Công chứng số 46/2024/QH15 và Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16. Thay đổi tên không có nghĩa là đã kiểm định toàn bộ đáp án hoặc hiệu lực áp dụng của 100 câu.
 
 ## Kiểm tra
 
-Đã bổ sung 18 câu biên soạn từ nguồn đặt cọc do Madam An cung cấp, ID DEP26-001–DEP26-018. Xem [đề luyện 18 câu và bài giải](reports/deposit-exam-2026-10-05.md), [rà soát nguồn](reports/deposit-source-review.json) và [kiểm kê ngân hàng sau bổ sung](reports/bank-audit-deposit-after.json). App tải `imported-deposit-2026.json` vào Bài 2; tổng ngân hàng đủ điều kiện hiện là 322 câu. Đây chưa phải mốc 400 câu chuẩn.
+Đã bổ sung 18 câu biên soạn từ nguồn đặt cọc do Madam An cung cấp, ID DEP26-001–DEP26-018. Xem [đề luyện 18 câu và bài giải](reports/deposit-exam-2026-10-05.md), [rà soát nguồn](reports/deposit-source-review.json) và [kiểm kê ngân hàng sau bổ sung](reports/bank-audit-deposit-after.json). App tải `imported-deposit-2026.json` vào Bài 2; tổng ngân hàng đủ điều kiện tại mốc đó là 322 câu. Đây chưa phải mốc 400 câu chuẩn.
 
 Chạy bằng Node.js 20+:
 

@@ -5,6 +5,7 @@ ROOT = pathlib.Path(__file__).resolve().parents[1]
 FILES = ['questions.json', 'derived-questions.json'] + [f'expansion-2026-batch-{i:02}.json' for i in range(1, 6)]
 FILES += [p.name for p in sorted((ROOT/'data').glob('validated-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('imported-*.json'))]
+FILES += [p.name for p in sorted((ROOT/'data').glob('completion-*.json'))]
 PREFIXES = [
  'Chọn phương án đúng theo quy định pháp luật: ',
  'Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: ',
@@ -31,14 +32,21 @@ def audit():
   flags=[]; answers=q.get('answers',[]); variants=q.get('question',{}).get('variants',[])
   if not variants or any(not isinstance(s,str) or not s.strip() for s in variants):flags.append('invalid_stem')
   if len(set(a['id'] for a in answers))!=len(answers):flags.append('duplicate_answer_id')
+  if any(type(a.get('correct')) is not bool for a in answers):flags.append('non_boolean_key')
+  if len(set(norm(a.get('text','')) for a in answers))!=len(answers):flags.append('duplicate_answer_text')
   if q.get('type')=='single' and sum(a.get('correct') is True for a in answers)!=1:flags.append('invalid_single_key')
+  if q.get('type')=='multiple' and not 1<=sum(a.get('correct') is True for a in answers)<len(answers):flags.append('invalid_multiple_key')
   if len(answers)!=4:flags.append('not_four_answers')
   if len(q.get('explanation',''))<100:flags.append('short_explanation_candidate')
   if q.get('difficulty') is None:flags.append('missing_difficulty')
   if q.get('questionForm') is None:flags.append('missing_question_form')
   basis=json.dumps(q.get('legalBasis',[]),ensure_ascii=False)
   if not q.get('legalBasis'):flags.append('missing_basis')
-  if '04/2026/QH16' in basis and not all(re.search(r'2027|hiệu lực từ|có hiệu lực|thông qua|chuyển tiếp',v,re.I) for v in variants):flags.append('future_rule_without_date_candidate')
+  # Words such as "có hiệu lực" alone do not specify the application date.
+  # CC-090 asks the publication's effective date, rather than applying a rule.
+  if '04/2026/QH16' in basis and q['id']!='CC-090' and not all('01/01/2027' in v for v in variants):flags.append('future_rule_without_date_candidate')
+  if q.get('status') in ('active','verified'):
+   if any(not isinstance(b,dict) or not b.get('article') or not b.get('url','').startswith('https://') for b in q.get('legalBasis',[])):flags.append('unstructured_or_unlinked_active_basis')
   src=q.get('source',{}); sid=src.get('id')
   if sid and sid not in sources:flags.append('unknown_source_id')
   if sid=='OFFICIAL-TT06-2025' and '06/2025/TT-BTP' not in basis:flags.append('source_basis_mismatch')
@@ -57,6 +65,6 @@ def audit():
    if matcher.quick_ratio()<.78:continue
    ratio=matcher.ratio()
    if ratio>=.78 and a!=b:near.append({'ids':[q['id'],r['id']],'similarity':round(ratio,3),'requiresEditorialReview':True})
- return {'total':len(bank),'eligible':len(eligible),'fileCounts':counts,'sha256':hashes,'status':count(bank,'status'),'part':count(bank,'part'),'topic':count(bank,'topic'),'difficultyLabelsNotCertified':count(bank,'difficulty'),'questionForm':count(bank,'questionForm'),'eligibleTopic':count(eligible,'topic'),'eligibleDifficulty':count(eligible,'difficulty'),'eligibleQuestionForm':count(eligible,'questionForm'),'basis':dict(collections.Counter(b if isinstance(b,str) else json.dumps(b,ensure_ascii=False,sort_keys=True) for q in bank for b in q.get('legalBasis',[]))),'duplicateIds':groups(bank,lambda q:q['id']),'exactStemGroups':groups(bank,lambda q:q['question']['variants'][0]),'prefixNormalizedGroups':groups(bank,lambda q:norm(q['question']['variants'][0])),'identicalAnswersExplanationBasisGroups':groups(bank,lambda q:json.dumps([q['answers'],q['explanation'],q['legalBasis']],ensure_ascii=False,sort_keys=True)),'nearStemCandidates':near,'findings':findings,'flagCounts':dict(collections.Counter(f for q in findings for f in q['flags']))}
+ return {'total':len(bank),'eligible':len(eligible),'fileCounts':counts,'sha256':hashes,'status':count(bank,'status'),'part':count(bank,'part'),'eligiblePart':count(eligible,'part'),'topic':count(bank,'topic'),'difficultyLabelsNotCertified':count(bank,'difficulty'),'questionForm':count(bank,'questionForm'),'eligibleTopic':count(eligible,'topic'),'eligibleDifficulty':count(eligible,'difficulty'),'eligibleQuestionForm':count(eligible,'questionForm'),'basis':dict(collections.Counter(b if isinstance(b,str) else json.dumps(b,ensure_ascii=False,sort_keys=True) for q in bank for b in q.get('legalBasis',[]))),'duplicateIds':groups(bank,lambda q:q['id']),'exactStemGroups':groups(bank,lambda q:q['question']['variants'][0]),'prefixNormalizedGroups':groups(bank,lambda q:norm(q['question']['variants'][0])),'identicalAnswersExplanationBasisGroups':groups(bank,lambda q:json.dumps([q['answers'],q['explanation'],q['legalBasis']],ensure_ascii=False,sort_keys=True)),'nearStemCandidates':near,'findings':findings,'flagCounts':dict(collections.Counter(f for q in findings for f in q['flags'])),'eligibleFlagCounts':dict(collections.Counter(f for q in findings if q['status'] in ('active','verified') for f in q['flags']))}
 if __name__=='__main__':
  result=audit();path=ROOT/'reports'/(sys.argv[1] if len(sys.argv)>1 else 'bank-audit-current.json');path.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps({k:result[k] for k in ['total','eligible','status','flagCounts']},ensure_ascii=False,indent=2))

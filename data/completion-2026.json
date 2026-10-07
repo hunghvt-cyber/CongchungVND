@@ -1,0 +1,4478 @@
+[
+  {
+    "id": "COMP26-DN-001",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A chuyển quyền sở hữu một tài sản có đăng ký cho công ty để góp vốn hợp lệ. Người tiếp nhận cho rằng vì phải sang tên nên riêng việc chuyển tài sản góp vốn này luôn chịu lệ phí trước bạ. Chỉ xét Điều 35, phân biệt đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phải chuyển quyền nhưng việc chuyển tài sản góp vốn không phải chịu lệ phí trước bạ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Không chịu lệ phí nên cũng không cần chuyển quyền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải chịu lệ phí vì mọi trường hợp sang tên đều giống nhau",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được miễn lệ phí khi người góp vốn là Giám đốc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm a khoản 1 Điều 35 đồng thời quy định thủ tục chuyển quyền và việc không chịu lệ phí trước bạ. Miễn khoản thu này không xóa thủ tục chuyển quyền; chức vụ của người góp vốn không phải điều kiện miễn tại điều khoản được hỏi.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 35",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 1",
+        "point": "Điểm a"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-002",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Chủ doanh nghiệp tư nhân dùng xe thuộc sở hữu của mình vào hoạt động kinh doanh của doanh nghiệp. Người tư vấn yêu cầu chuyển quyền sở hữu xe sang doanh nghiệp như góp vốn vào công ty TNHH. Chỉ xét Điều 35, nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phải chuyển quyền sang người quản lý được thuê",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Tài sản dùng vào hoạt động kinh doanh của chủ DNTN không phải làm thủ tục chuyển quyền sở hữu cho doanh nghiệp",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Luôn phải sang tên như góp vốn vào công ty TNHH",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ miễn sang tên khi xe có giá trị dưới vốn đăng ký",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 4 Điều 35 quy định riêng cho chủ doanh nghiệp tư nhân. Không áp dụng máy móc cơ chế chuyển tài sản sang công ty; người quản lý được thuê cũng không trở thành chủ tài sản chỉ vì quản lý hoạt động.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 35",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-003",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A góp máy móc không phải đăng ký quyền sở hữu vào công ty; việc góp vốn không thực hiện qua tài khoản. Các bên chỉ ghi số tiền trong sổ kế toán, chưa giao nhận máy và chưa lập biên bản. Việc cần bổ sung theo Điều 35 là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ cần định giá lại máy mỗi tháng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần đổi tên người góp vốn trên hóa đơn mua máy",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giao nhận tài sản và xác nhận bằng biên bản có nội dung luật định",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần chứng thực chữ ký của kế toán",
+        "correct": false
+      }
+    ],
+    "explanation": "Đối với tài sản không đăng ký quyền sở hữu, điều luật yêu cầu giao nhận và biên bản, trừ việc thực hiện qua tài khoản. Sổ kế toán không thay thế việc giao nhận thực tế và xác nhận của các chủ thể có thẩm quyền.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 35",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 35",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-004",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Ba sáng lập viên tự định giá tài sản góp vốn khi thành lập, không thuê tổ chức thẩm định giá. Hai người đồng ý giá 5 tỷ, một người phản đối; họ muốn lấy biểu quyết đa số để chốt giá. Chỉ xét phương thức tự định giá này, đúng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được vì hai trên ba người là đa số",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được vì chỉ người góp tài sản cần đồng ý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Được vì ngưỡng trên 50% áp dụng cho mọi phương thức định giá",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không; tự định giá của sáng lập viên phải theo nguyên tắc đồng thuận",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 2 phân biệt tự định giá theo đồng thuận với chấp thuận kết quả của tổ chức thẩm định giá theo ngưỡng trên 50%. Câu đã loại tổ chức thẩm định giá, nên không lấy ngưỡng của phương thức đó áp sang nhóm sáng lập viên tự định giá.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 36",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-005",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Tài sản góp vốn khi thành lập được các sáng lập viên cố ý định giá 6 tỷ, thực tế 4 tỷ, gây thêm thiệt hại đã chứng minh. Hướng trách nhiệm theo Điều 36 là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Liên đới góp thêm 2 tỷ chênh lệch và liên đới chịu trách nhiệm về thiệt hại do cố ý định giá cao",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ người góp tài sản phải góp thêm, những sáng lập viên khác được miễn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bồi thường thiệt hại, không phải góp thêm chênh lệch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ điều chỉnh sổ kế toán xuống 4 tỷ là đủ mọi nghĩa vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 36 tách hai hệ quả: cùng liên đới góp phần chênh lệch và liên đới chịu trách nhiệm thiệt hại do cố ý định giá cao. Điều chỉnh trên giấy không tự hoàn thành nghĩa vụ góp bổ sung hoặc bồi thường.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 36",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-006",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Chủ công ty TNHH một thành viên đang trong thời hạn góp vốn; có 20 ngày làm thủ tục hành chính chuyển quyền sở hữu tài sản góp vốn. Chỉ xét cách tính 90 ngày theo Điều 75, xử lý 20 ngày này thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tự động cộng thêm 90 ngày mới sau khi hoàn tất chuyển quyền",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không tính thời gian thực hiện thủ tục hành chính chuyển quyền sở hữu vào thời hạn góp vốn",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tính đủ vì mọi thời gian từ ngày cấp đăng ký đều phải tính",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ loại nếu tài sản được góp là tiền mặt",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật loại thời gian vận chuyển, nhập khẩu và làm thủ tục hành chính chuyển quyền sở hữu tài sản. Đây là loại trừ thời gian thực tế tương ứng, không phải cho một thời hạn 90 ngày mới tùy ý.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 75",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-007",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hết thời hạn phải góp vốn, chủ công ty TNHH một thành viên mới góp 3 tỷ trong 5 tỷ cam kết. Không có thời gian được loại trừ còn lại. Theo Điều 75, việc đăng ký cần làm là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tự gia hạn thời hạn góp vốn thêm một năm bằng quyết định chủ sở hữu",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đăng ký vốn bằng 2 tỷ chưa góp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đăng ký thay đổi vốn điều lệ bằng 3 tỷ đã góp trong 30 ngày từ ngày cuối cùng phải góp đủ",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Giữ vốn 5 tỷ đến khi có lợi nhuận bù vào",
+        "correct": false
+      }
+    ],
+    "explanation": "Đăng ký phải phản ánh giá trị thực góp, không phải phần thiếu. Việc chưa góp đủ không được khắc phục chỉ bằng quyết định tự gia hạn; nghĩa vụ tài chính phát sinh trong khoảng luật định còn phải xét theo vốn cam kết.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 75",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-008",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Chủ công ty TNHH một thành viên cam kết 5 tỷ nhưng góp 3 tỷ, sau đó đăng ký giảm vốn đúng thủ tục. Chủ sở hữu cho rằng giảm vốn xóa trách nhiệm theo 5 tỷ đối với nghĩa vụ tài chính phát sinh trước ngày cuối cùng phải đăng ký thay đổi vốn. Chỉ xét khoản 3 Điều 75, đúng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đúng vì đăng ký giảm vốn có hiệu lực xóa ngược mọi nghĩa vụ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đúng nếu chủ sở hữu không còn giữ bản đăng ký cũ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ phải chịu trách nhiệm theo 2 tỷ còn thiếu trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không; vẫn chịu trách nhiệm tương ứng vốn cam kết đối với nghĩa vụ trong khoảng thời gian luật định",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 3 duy trì trách nhiệm tương ứng phần vốn cam kết với các nghĩa vụ tài chính phát sinh trong khoảng đã nêu. Đăng ký giảm vốn phản ánh thực góp cho cơ cấu vốn nhưng không tự xóa trách nhiệm đối với nghĩa vụ trước đó.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 75",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-009",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Công ty TNHH hai thành viên bán một tài sản bằng đúng 50% tổng tài sản trong báo cáo tài chính công bố gần nhất. Điều lệ không đặt ngưỡng thấp hơn. Việc thông qua thuộc thẩm quyền nào theo Điều 55?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Hội đồng thành viên",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Giám đốc tự quyết vì chỉ trên 50% mới cần Hội đồng thành viên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Kế toán trưởng vì tài sản có trong báo cáo tài chính",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Từng thành viên tự ký riêng phần giá trị vốn của mình",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm d dùng ngưỡng từ 50%, nên trường hợp bằng đúng 50% đã thuộc quyền thông qua của Hội đồng thành viên. Quyền thông qua giao dịch phải được phân biệt với tư cách người đại diện ký hợp đồng.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 55",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2",
+        "point": "Điểm d"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-010",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hội đồng thành viên đã thông qua hợp đồng bán tài sản thuộc thẩm quyền. Công ty chỉ có một người đại diện theo pháp luật là Giám đốc; Chủ tịch Hội đồng không được ủy quyền nhưng nói nghị quyết cho mình đương nhiên quyền ký thay công ty. Cần kiểm tra gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giám đốc không được ký vì không phải Chủ tịch Hội đồng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Phân biệt chấp thuận giao dịch với đại diện ký; nghị quyết không tự biến Chủ tịch thành người có quyền đại diện",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Chủ tịch luôn được ký mọi hợp đồng đã được Hội đồng thông qua",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mỗi thành viên phải ký hợp đồng theo tỷ lệ vốn góp",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 55 quy định quyền quyết định nội bộ, còn Điều 12 xác định người đại diện thực hiện quyền, nghĩa vụ từ giao dịch. Với giả thiết chỉ Giám đốc là đại diện và không có ủy quyền, không suy quyền ký của Chủ tịch từ việc Hội đồng đã chấp thuận.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 55",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2",
+        "point": "Điểm d"
+      },
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 12",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-011",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Công ty cổ phần giao dịch với người có liên quan thuộc khoản 1 Điều 167; giá trị bằng đúng 35% tổng tài sản trong báo cáo gần nhất, điều lệ không đặt ngưỡng thấp hơn. Không thuộc ngoại lệ giao dịch đặc biệt khác. Cơ quan chấp thuận là ai?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ban kiểm soát vì đối tượng có liên quan",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Giám đốc tự chấp thuận vì là người ký",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đại hội đồng cổ đông",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Hội đồng quản trị vì ngưỡng của Hội đồng là không quá 35%",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 chỉ giao Hội đồng quản trị chấp thuận giá trị nhỏ hơn 35%. Bằng đúng 35% nằm ngoài nhóm đó và thuộc Đại hội đồng cổ đông theo khoản 3; không nhầm nhỏ hơn với không quá.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 167",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 167",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 3",
+        "point": "Điểm a"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-012",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giao dịch giữa công ty cổ phần và người có liên quan đã bị Tòa án tuyên vô hiệu vì ký không đúng Điều 167. Người ký và cổ đông có liên quan có lợi thu được, thiệt hại phát sinh đã được xác định. Hướng xử lý theo khoản 5 là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ hoàn trả lợi ích, không bao giờ bồi thường vì giao dịch vô hiệu",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Mọi cổ đông kể cả không liên quan đều tự động phải trả toàn bộ thiệt hại",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Lợi thu được vẫn thuộc người nhận nếu họ đã nộp thuế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Các chủ thể có liên quan luật định liên đới bồi thường thiệt hại và hoàn trả cho công ty khoản lợi thu được",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 5 đặt trách nhiệm lên người ký và các chủ thể có liên quan được liệt kê, không lên toàn bộ cổ đông một cách mặc định. Tòa án đã tuyên vô hiệu trong giả thiết; bồi thường thiệt hại và hoàn trả khoản lợi là hai hệ quả cần xét, việc nộp thuế không xóa chúng.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 167",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 5"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-013",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Một thành viên Hội đồng quản trị có lợi ích liên quan đến bên trong giao dịch đang xin Hội đồng chấp thuận theo khoản 2 Điều 167. Người này đề nghị vẫn biểu quyết vì đã công khai lợi ích. Cách xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không cho thành viên có lợi ích liên quan biểu quyết về giao dịch đó",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Cho biểu quyết sau khi công khai lợi ích",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cho biểu quyết nhưng mỗi phiếu chỉ tính một nửa",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Cho biểu quyết nếu là Chủ tịch Hội đồng quản trị",
+        "correct": false
+      }
+    ],
+    "explanation": "Công khai lợi ích là việc cần làm nhưng không thay điều kiện loại trừ biểu quyết. Khoản 2 quy định thành viên Hội đồng quản trị có lợi ích liên quan không có quyền biểu quyết đối với việc chấp thuận này.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 167",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-014",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Cổ đông chết; A được xác định hợp pháp là người thừa kế cổ phần nhưng thông tin của A chưa ghi đầy đủ vào sổ đăng ký cổ đông. Công ty yêu cầu A mua lại chính số cổ phần thừa kế mới được ghi nhận. Phân biệt đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "A phải làm Giám đốc trước rồi mới được ghi sổ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Thừa kế là căn cứ nhận cổ phần; cần hoàn tất ghi sổ theo luật, không phải mua lại cổ phần để tạo căn cứ nhận",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "A phải mua lại vì cổ phần không thể thừa kế",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "A chỉ được nhận tiền, không thể trở thành cổ đông",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 cho người thừa kế theo di chúc hoặc pháp luật trở thành cổ đông; khoản 6 quy định mốc ghi đủ thông tin trong sổ. Cần phân biệt căn cứ nhận cổ phần với thủ tục ghi nhận, không đặt thêm điều kiện mua lại hoặc giữ chức vụ quản lý.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 127",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 3"
+      },
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 127",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 6"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-015",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A được tặng cho cổ phần hợp lệ nhưng thông tin của A chưa được ghi đầy đủ vào sổ đăng ký cổ đông. Chỉ xét mốc trở thành cổ đông theo Điều 127, nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ trở thành cổ đông khi được bổ nhiệm làm quản lý",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ trở thành cổ đông nếu việc tặng cho có trả tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chưa đạt mốc luật định; phải ghi đầy đủ thông tin vào sổ đăng ký cổ đông",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Trở thành cổ đông ngay khi bên tặng ký dù chưa ghi sổ",
+        "correct": false
+      }
+    ],
+    "explanation": "Quyền tặng cho cổ phần không đồng nhất với mốc ghi nhận tư cách cổ đông. Khoản 6 yêu cầu thông tin của người nhận được ghi đầy đủ vào sổ đăng ký; không đặt thêm điều kiện phải giữ chức vụ quản lý hoặc trả tiền.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 127",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 5"
+      },
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 127",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 6"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DN-016",
+    "part": 2,
+    "topic": "Doanh nghiệp và giao dịch liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hồ sơ chấm dứt hoạt động chi nhánh có thông tin không trung thực. Người đại diện theo pháp luật của doanh nghiệp nói người đứng đầu chi nhánh tự ký nên mình không phải chịu trách nhiệm về hồ sơ. Chỉ xét khoản 2 Điều 213, đúng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đúng vì chỉ người đứng đầu chi nhánh chịu trách nhiệm",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đúng nếu chi nhánh ở khác tỉnh trụ sở chính",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đúng nếu doanh nghiệp đã thanh toán nợ thuế chi nhánh",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không; hai người liên đới chịu trách nhiệm về tính trung thực, chính xác của hồ sơ",
+        "correct": true
+      }
+    ],
+    "explanation": "Điều 213 tách trách nhiệm về hồ sơ khỏi trách nhiệm thực hiện hợp đồng và trả nợ. Khoản 2 quy định người đại diện doanh nghiệp và người đứng đầu chi nhánh liên đới về trung thực, chính xác; địa bàn và thanh toán thuế không tự xóa trách nhiệm này.",
+    "legalBasis": [
+      {
+        "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
+        "article": "Điều 213",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DN-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-001",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A chứng thực chữ ký trên bản khai rồi khẳng định cơ quan chứng thực đã xác nhận mọi thông tin trong bản khai là đúng. Phân biệt nào chính xác?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chứng thực chữ ký chứng minh A đã ký; A vẫn chịu trách nhiệm về nội dung bản khai",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chứng thực chữ ký làm mọi nội dung trở thành sự thật được cơ quan bảo đảm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực chữ ký chỉ xác nhận bản khai được photocopy đúng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng thực chữ ký chuyển trách nhiệm nội dung sang người tiếp nhận hồ sơ",
+        "correct": false
+      }
+    ],
+    "explanation": "Giá trị chứng thực chữ ký là chứng minh chữ ký thuộc người yêu cầu và làm căn cứ xác định trách nhiệm của người ký. Không đồng nhất với chứng thực bản sao hoặc việc cơ quan xác minh toàn bộ nội dung khai báo.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 3",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 3"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 23",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-002",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Một thủ tục chỉ quy định nộp bản sao giấy tờ. Cơ quan tiếp nhận yêu cầu mọi bản sao phải được chứng thực, không viện dẫn quy định riêng khác. Theo Điều 6, yêu cầu này đúng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đúng nếu hồ sơ có nhiều hơn một trang",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không; không được tự bắt buộc bản sao có chứng thực khi pháp luật chỉ yêu cầu bản sao",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Đúng vì mọi bản sao đều phải chứng thực trước khi nộp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đúng nếu cơ quan không có máy photocopy",
+        "correct": false
+      }
+    ],
+    "explanation": "Quy định về thành phần hồ sơ quyết định loại bản sao cần nộp. Khi chỉ cần bản sao, cơ quan có thể yêu cầu bản chính hoặc bản sao từ sổ gốc để đối chiếu, hoặc xác minh khi có căn cứ; không được tự nâng thành yêu cầu chứng thực bắt buộc.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 6",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-003",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Thủ tục yêu cầu bản sao có chứng thực; A nộp đúng loại này nhưng có dấu hiệu cụ thể bản sao giả mạo. Cơ quan có thể yêu cầu bản chính để đối chiếu không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ được yêu cầu nếu A đồng ý trước bằng văn bản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ được đối chiếu sau khi Tòa án tuyên bản sao vô hiệu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có, đây là ngoại lệ khi có căn cứ về bản sao giả mạo hoặc bất hợp pháp",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Không, bản sao đã chứng thực thì không được kiểm tra trong mọi trường hợp",
+        "correct": false
+      }
+    ],
+    "explanation": "Quy tắc không đòi bản chính khi đã nộp đúng bản sao chứng thực có ngoại lệ về giả mạo, bất hợp pháp. Phải có căn cứ thực tế; không được dùng ngoại lệ để yêu cầu bản chính một cách mặc định cho mọi hồ sơ.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 6",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-004",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Pháp luật cho phép dùng tài liệu được cấp dưới dạng điện tử; bản điện tử hợp lệ đã nộp, không có căn cứ giả mạo. Cơ quan yêu cầu in giấy rồi chứng thực để tiếp nhận. Cách xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bắt buộc in và chứng thực mọi bản điện tử",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ nhận nếu tài liệu điện tử có giá trị dưới một mức tiền",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ nhận bản điện tử để tham khảo, còn hồ sơ luôn phải giấy",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tiếp nhận và sử dụng bản điện tử; không tự yêu cầu thêm bản giấy hoặc bản sao chứng thực",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 3 Điều 6 đã được sửa đổi để cơ quan sử dụng bản điện tử theo quy định. Không có căn cứ bất hợp pháp thì không tự chuyển thành yêu cầu giấy; cần tách điều kiện hợp lệ của bản điện tử với thói quen xử lý hồ sơ giấy.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 6",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-005",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Dữ liệu giấy tờ thuộc thành phần hồ sơ chứng thực đã có trong cơ sở dữ liệu được công bố, nhưng khi khai thác thấy thiếu thông tin quyết định. Bước xử lý phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Yêu cầu bổ sung thành phần hồ sơ và đề nghị cập nhật, điều chỉnh dữ liệu theo luật",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Vẫn chứng thực ngay vì chỉ cần cơ sở dữ liệu đã được công bố",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Từ chối vĩnh viễn vì dữ liệu thiếu không được bổ sung",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu nộp lại mọi giấy tờ dù phần dữ liệu khác đã đầy đủ, chính xác",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 9 phân biệt việc không yêu cầu giấy tờ khi có dữ liệu với trường hợp không khai thác được hoặc dữ liệu thiếu, sai. Trường hợp sau cần bổ sung để giải quyết và đề nghị cập nhật dữ liệu; không chứng thực dựa trên thông tin chưa đủ.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 8"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 9"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-006",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Bản chính bằng tốt nghiệp bị rách, mất phần tên người được cấp nên không xác định được nội dung. A muốn chứng thực bản sao bằng cách tự điền tên theo trí nhớ. Xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chứng thực nhưng bỏ phần tên người được cấp",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không dùng bản chính này làm cơ sở chứng thực bản sao",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực sau khi A viết bổ sung tên bằng tay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng thực nếu có một người làm chứng xác nhận tên",
+        "correct": false
+      }
+    ],
+    "explanation": "Chứng thực bản sao phải dựa trên nội dung xác định được của bản chính. Bản chính hư hỏng không xác định nội dung thuộc Điều 22; lời nhớ hoặc người làm chứng không thay một bản chính hợp lệ làm căn cứ đối chiếu.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 22",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-007",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Bản chính không đóng dấu mật nhưng ghi rõ không được sao chụp. A cho rằng chỉ tài liệu đóng dấu mật mới bị cấm chứng thực bản sao. Theo Điều 22, kết luận nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được nếu chỉ chụp một bản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được nếu xóa dòng không được sao chụp khỏi bản sao",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Vẫn không được dùng làm cơ sở chứng thực bản sao",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được vì không có dấu mật",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 liệt kê hai trường hợp độc lập: có dấu mật, hoặc không có dấu mật nhưng ghi rõ không được sao chụp. Không được bỏ dòng hạn chế để biến tài liệu không đủ điều kiện thành bản chính dùng cho chứng thực.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 22",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-008",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giấy tờ do cơ quan nước ngoài cấp chưa hợp pháp hóa lãnh sự, nhưng đã xác định thuộc miễn theo điều ước quốc tế mà Việt Nam là thành viên. Không có trở ngại khác. Riêng thiếu hợp pháp hóa có buộc từ chối bản sao không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có; mọi giấy nước ngoài đều phải hợp pháp hóa không có ngoại lệ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Có; chỉ giấy do cá nhân tự lập mới được miễn",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không; vì hiểu ngoại ngữ tự làm mọi giấy nước ngoài được miễn",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không; phải áp dụng ngoại lệ miễn hợp pháp hóa đã xác định",
+        "correct": true
+      }
+    ],
+    "explanation": "Phải đọc khoản 1 Điều 20 cùng ngoại lệ về điều ước hoặc nguyên tắc có đi có lại. Căn cứ miễn đã được xác định trong câu; hiểu ngoại ngữ không phải căn cứ miễn, và cũng không thể bắt hợp pháp hóa bất chấp ngoại lệ luật định.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 20",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 22",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 5"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-009",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A tự lập một văn bản, chưa có xác nhận và đóng dấu của cơ quan có thẩm quyền, yêu cầu chứng thực bản sao từ văn bản này. Không phải yêu cầu chứng thực chữ ký. Xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không dùng văn bản tự lập này làm cơ sở chứng thực bản sao theo Điều 22",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chứng thực bản sao vì A là tác giả văn bản",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực bản sao nếu A ký trước mặt người tiếp nhận",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng thực bản sao nếu có người thân xác nhận chữ viết",
+        "correct": false
+      }
+    ],
+    "explanation": "Cần xác định đúng thủ tục A yêu cầu. Khoản 6 Điều 22 không cho dùng văn bản tự lập thiếu xác nhận và dấu làm bản chính để chứng thực bản sao; thủ tục chứng thực chữ ký có điều kiện và giá trị pháp lý riêng.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 22",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 6"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-010",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A có giấy tờ nhân thân hợp lệ nhưng tại thời điểm chứng thực chữ ký không nhận thức và làm chủ hành vi. Người nhà đề nghị vẫn chứng thực vì A đã ký từ hôm qua. Cách xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chứng thực vì chữ ký hôm qua được ưu tiên hơn tình trạng hiện tại",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không chứng thực chữ ký trong tình trạng đã nêu",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực vì giấy tờ nhân thân đủ thay điều kiện nhận thức",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chứng thực nếu người nhà cùng ký xác nhận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều kiện phải kiểm tra tại thời điểm chứng thực, không chỉ lúc chữ ký được viết trước đó. Giấy tờ nhân thân và cam đoan của gia đình không loại bỏ trường hợp không được chứng thực chữ ký tại khoản 1 Điều 25.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 24",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 25",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-011",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giấy ủy quyền chỉ nhờ B nhận hồ sơ, không có thù lao, không có nghĩa vụ bồi thường của B, không liên quan chuyển quyền sở hữu hay quyền sử dụng BĐS. Các điều kiện khác đều đủ. Chỉ xét loại văn bản, thủ tục nào có thể áp dụng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bắt buộc công chứng vì mọi đại diện đều phải công chứng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không được chứng thực chữ ký vì mọi giấy có nội dung ủy quyền đều bị cấm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực chữ ký trên giấy ủy quyền theo ngoại lệ luật định",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Bắt buộc coi mọi giấy ủy quyền là hợp đồng bán tài sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Ngoại lệ ở điểm d khoản 4 Điều 24 phải đáp ứng đồng thời các điều kiện đã nêu. Câu giới hạn một việc nhận hồ sơ, không biến ngoại lệ này thành cho phép chứng thực chữ ký trên mọi hợp đồng ủy quyền hoặc chuyển nhượng.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 24",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 4",
+        "point": "Điểm d"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 25",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-012",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A đề nghị chứng thực riêng chữ ký trên hợp đồng ủy quyền có thù lao cho B bán nhà; không có quy định khác cho phép chứng thực chữ ký loại hợp đồng này. Chỉ xét thủ tục được đề nghị, xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chứng thực chữ ký vì văn bản được đặt tên giấy ủy quyền",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chứng thực chữ ký nếu thù lao được trả sau",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chứng thực chữ ký nếu B chưa tìm được người mua",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không áp dụng chứng thực chữ ký; phải hướng dẫn thủ tục giao dịch phù hợp",
+        "correct": true
+      }
+    ],
+    "explanation": "Nội dung giao dịch, không phải tên gọi, quyết định cách xử lý. Hợp đồng có thù lao và liên quan chuyển quyền BĐS không thuộc ngoại lệ chứng thực chữ ký; điều kiện trả tiền sau hoặc chưa có người mua không làm thay bản chất đó.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 24",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 4",
+        "point": "Điểm d"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 25",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-013",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Một CCV cho rằng quyền chứng thực của mình chỉ có bản sao và chữ ký thông thường, nên loại mọi yêu cầu chứng thực chữ ký người dịch khỏi thẩm quyền. Chỉ xét Điều 5 hiện hành, đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "CCV còn có thẩm quyền chứng thực chữ ký người dịch theo điểm c khoản 1 được khoản 4 dẫn chiếu",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Đúng vì chữ ký người dịch chỉ thuộc cơ quan đại diện ở nước ngoài",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đúng vì dịch thuật luôn nằm ngoài mọi thủ tục chứng thực",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "CCV chỉ có thể làm nếu được Chủ tịch xã bổ nhiệm làm người dịch",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 4 dẫn chiếu cả điểm a, b và c khoản 1, gồm chữ ký người dịch. Có thẩm quyền không có nghĩa bỏ qua tiêu chuẩn người dịch hoặc các điều kiện tài liệu; cũng không cần biến CCV thành người dịch do xã bổ nhiệm.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 5",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-014",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Người dịch một ngôn ngữ không phổ biến có năng lực hành vi đầy đủ, thông thạo ngôn ngữ nhưng không có bằng đại học theo nhóm thông thường. Chỉ xét ngoại lệ tiêu chuẩn tại Điều 27, có loại chỉ vì thiếu bằng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có; ngoại lệ chỉ áp dụng cho người có bằng tiến sĩ luật",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không; ngôn ngữ không phổ biến có ngoại lệ yêu cầu thông thạo",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Có; không có bằng thì không có bất kỳ ngoại lệ nào",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không; vì mọi người có năng lực hành vi đều tự đáp ứng tiêu chuẩn dịch",
+        "correct": false
+      }
+    ],
+    "explanation": "Ngoại lệ về ngôn ngữ không phổ biến không xóa điều kiện năng lực hành vi và thông thạo. Cần xác minh đúng ngôn ngữ, khả năng dịch và thủ tục áp dụng; không thể loại chỉ vì thiếu bằng, cũng không thể mặc nhiên nhận mọi người đủ năng lực dân sự.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 27",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 27",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-015",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hồ sơ chứng thực bị từ chối. Người thực hiện chỉ nói miệng không làm, không giải thích rõ lý do bằng văn bản. Người yêu cầu đề nghị được nhận lý do. Nghĩa vụ đúng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ giải thích nếu người yêu cầu khởi kiện",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ ghi lý do vào sổ nội bộ, không cung cấp cho người yêu cầu",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Giải thích rõ lý do từ chối bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần nói miệng vì chứng thực không phải công chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 7 Điều 9 quy định rõ hình thức giải thích bằng văn bản khi từ chối chứng thực. Không lấy quy tắc giải thích trong một thủ tục khác để bỏ nghĩa vụ này; sổ nội bộ không thay việc giải thích cho người yêu cầu.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 7"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-CT-016",
+    "part": 2,
+    "topic": "Chứng thực và pháp luật liên quan",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hai cá nhân đang ở xã X xin chứng thực hợp đồng bán nhà ở xã Y; người bán không đọc được. Giả sử giao dịch thuộc thẩm quyền chứng thực cấp xã và không thuộc ngoại lệ địa bàn. Chuỗi xử lý nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đến xã nơi người bán cư trú và chỉ cần một người làm chứng theo Luật Công chứng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đến bất kỳ xã nào vì người bán đã đồng ý và không cần người làm chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đến xã nơi có nhà nhưng người mua được làm người làm chứng duy nhất",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đến UBND cấp xã nơi có nhà và bảo đảm hai người làm chứng đủ điều kiện",
+        "correct": true
+      }
+    ],
+    "explanation": "Phải áp dụng đúng thủ tục chứng thực: địa bàn theo nơi có nhà và số người làm chứng theo khoản 3 Điều 36. Không nhập yêu cầu một người làm chứng trong thủ tục công chứng vào chứng thực; bên mua có lợi ích liên quan không đủ điều kiện làm chứng.",
+    "legalBasis": [
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 5",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 6"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 35",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
+        "article": "Điều 36",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CT-HN26",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-001",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Môi giới đề nghị trả riêng tiền cho CCV để CCV từ chối hồ sơ của khách đang làm ở nơi khác. CCV cho rằng chỉ tiền khách hàng trả mới bị cấm. Chỉ xét khoản tiền môi giới, đánh giá nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bị cấm nhận lợi ích từ người thứ ba để thực hiện hoặc không thực hiện công chứng",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Được nhận vì người trả không phải người yêu cầu công chứng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Được nhận nếu CCV ghi thành giá dịch vụ soạn thảo",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Được nhận nếu chưa thu phí công chứng của khách",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm d khoản 1 Điều 9 bao gồm lợi ích từ người thứ ba, không chỉ khoản khách trả. Việc đặt tên khoản tiền thành giá dịch vụ không đổi mục đích chi trả để tác động quyết định thực hiện hoặc từ chối công chứng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm d"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-002",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV công chứng mua bán nhà và thỏa thuận hưởng 1% lợi nhuận nếu bên mua bán lại có lãi. Khoản này không phải phí, giá dịch vụ hay chi phí đã thỏa thuận cho công chứng. Đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được nếu giao dịch nhà có hiệu lực và không tranh chấp",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không được tham gia chia lợi nhuận trong giao dịch mình công chứng",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Được nếu lợi nhuận phát sinh sau khi công chứng xong",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Được nếu bên mua tự nguyện trả và không khiếu nại",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 9 cấm hoạt động môi giới, đại lý hoặc tham gia chia lợi nhuận trong giao dịch mình công chứng. Chờ lợi nhuận phát sinh về sau hoặc sự đồng ý của bên mua không loại bỏ xung đột và lệnh cấm nghề nghiệp.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm i"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-003",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Khách chỉ đồng ý miệng cho CCV đưa nội dung hồ sơ lên mạng để quảng bá; chưa có đồng ý bằng văn bản và không có quy định khác cho phép tiết lộ. Hướng xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được tiết lộ nếu hồ sơ đã công chứng xong",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được tiết lộ nếu bỏ tên tổ chức công chứng nhưng còn nhận diện khách",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không tiết lộ dựa riêng vào đồng ý miệng; ngoại lệ đồng ý phải bằng văn bản",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được tiết lộ vì đã có đồng ý miệng",
+        "correct": false
+      }
+    ],
+    "explanation": "Quy định bảo mật gắn ngoại lệ với sự đồng ý bằng văn bản hoặc căn cứ pháp luật khác. Câu đã loại căn cứ khác; việc hoàn tất hồ sơ và đổi cách đăng tải không tự tạo quyền công khai nội dung vẫn nhận diện khách hàng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 18",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm e"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-004",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Khách đã đồng ý bằng văn bản cho CCV cung cấp đúng một phần nội dung cho luật sư của khách. CCV muốn dùng giấy đó để đăng toàn bộ hồ sơ lên mạng. Đánh giá nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Mọi đồng ý bằng văn bản đều cho phép đăng toàn bộ hồ sơ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần luật sư đã nhận thì nội dung tự trở thành công khai",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có thể đăng toàn bộ nếu giao dịch có đối tượng là tài sản riêng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phải tuân thủ phạm vi đồng ý; không suy ra quyền công khai toàn bộ cho mọi người",
+        "correct": true
+      }
+    ],
+    "explanation": "Ngoại lệ đồng ý không phải giấy phép không giới hạn. Phải xác định nội dung, người nhận và mục đích trong phạm vi khách chấp thuận; loại tài sản trong giao dịch không quyết định việc được tiết lộ ra ngoài phạm vi ấy.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 18",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm e"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-005",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng công chứng muốn thuê một căn phòng khác ngoài trụ sở, treo tên điểm giao dịch và nhận khách thường xuyên tại đó. Văn phòng cho rằng không gọi là chi nhánh thì được phép. Đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bị cấm mở cơ sở hoặc địa điểm giao dịch khác ngoài trụ sở dù đặt tên gì",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Được nếu không dùng từ chi nhánh",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Được nếu chỉ nhận hồ sơ mà chưa ký công chứng tại đó",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Được nếu chủ nhà đồng ý và có hợp đồng thuê",
+        "correct": false
+      }
+    ],
+    "explanation": "Lệnh cấm bao gồm chi nhánh, văn phòng đại diện, cơ sở và địa điểm giao dịch khác ngoài trụ sở. Không thể đổi tên hoặc giới hạn hoạt động ở bước nhận khách để bỏ qua phạm vi cấm; hợp đồng thuê không tạo quyền nghề nghiệp.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm b"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-006",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV đang bị tạm đình chỉ hành nghề, văn phòng vẫn giao ký chứng nhận vì thiếu người và các bên tự nguyện. Trách nhiệm của văn phòng theo Điều 9 thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được cho ký nếu CCV không thu thù lao cá nhân",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không được cho CCV đang bị tạm đình chỉ thực hiện công chứng, chứng thực tại tổ chức",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Được cho ký nếu các bên tự nguyện và không tranh chấp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Được cho ký nếu trưởng văn phòng ký xác nhận lại",
+        "correct": false
+      }
+    ],
+    "explanation": "Tình trạng tạm đình chỉ là trở ngại hành nghề, không được bù bằng sự đồng ý của khách hoặc chữ ký trưởng văn phòng. Khoản 2 Điều 9 cấm chính tổ chức cho người đang bị đình chỉ làm công chứng, chứng thực.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm c"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 15",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-007",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng muốn thay bảo hiểm trách nhiệm nghề nghiệp bằng bản cam kết CCV tự bồi thường, được tất cả CCV ký. Chỉ xét nghĩa vụ mua bảo hiểm, xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ cần mua khi có hồ sơ bất động sản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần mua sau lần bồi thường đầu tiên",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Vẫn phải mua bảo hiểm bắt buộc cho CCV và duy trì trong suốt thời gian hoạt động",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được thay bằng cam kết nếu mọi CCV đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Bảo hiểm trách nhiệm nghề nghiệp là bắt buộc và tổ chức có nghĩa vụ mua, duy trì. Cam kết bồi thường có thể liên quan quan hệ trách nhiệm nhưng không thay nghĩa vụ bảo hiểm; pháp luật không chỉ buộc mua sau khi đã có thiệt hại.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 39",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 39",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-008",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Nhân viên văn phòng có lỗi trong quá trình công chứng, gây thiệt hại đã xác định cho một người không phải khách yêu cầu công chứng. Văn phòng vẫn hoạt động, nói chỉ bồi thường cho khách. Kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ nhân viên bồi thường vì nạn nhân không phải khách",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không ai bồi thường vì người bị thiệt hại không ký giao dịch",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ bồi thường nếu nhân viên đồng thời là CCV",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tổ chức phải bồi thường cả cho cá nhân, tổ chức khác bị thiệt hại do lỗi trong quá trình công chứng",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 1 Điều 40 bảo vệ cả người yêu cầu và cá nhân, tổ chức khác. Khi lỗi nhân viên gây thiệt hại trong quá trình công chứng đã xác định và tổ chức còn hoạt động, không thu hẹp trách nhiệm theo tư cách người ký hoặc chức danh CCV.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 40",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-009",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng X hợp nhất vào Y. Thiệt hại do lỗi CCV của X xảy ra trước hợp nhất đã xác định; Y là tổ chức kế thừa quyền, nghĩa vụ. CCV này đã nghỉ nghề. Cách phân biệt trách nhiệm đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Y bồi thường với tư cách kế thừa; người gây thiệt hại vẫn có nghĩa vụ hoàn trả theo luật dù đã nghỉ",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Khách chỉ được yêu cầu X, việc hợp nhất làm mất yêu cầu đối với Y",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Y được miễn vì CCV đã nghỉ nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Người gây thiệt hại chỉ hoàn trả nếu vẫn là CCV khi Y trả tiền",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật quy định trách nhiệm của tổ chức kế thừa khi hợp nhất và nghĩa vụ hoàn trả của người trực tiếp gây thiệt hại. Nghỉ nghề không xóa nghĩa vụ hoàn trả; cần phân biệt bồi thường cho người bị thiệt hại với hoàn trả nội bộ.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 40",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 40",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-010",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng đã chấm dứt hoạt động; nhân viên trực tiếp gây thiệt hại do lỗi trong công chứng đã nghỉ việc. Người này cho rằng hết hợp đồng lao động thì không còn trách nhiệm. Chỉ xét trường hợp tổ chức đã chấm dứt, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ người bị thiệt hại tự chịu vì nhân viên đã nghỉ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Người trực tiếp gây thiệt hại phải tự bồi thường, kể cả không còn là nhân viên tổ chức công chứng",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Mọi trách nhiệm chuyển tự động sang Hội công chứng viên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không còn người phải bồi thường vì văn phòng chấm dứt",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 40 có quy định riêng khi tổ chức giải thể hoặc chấm dứt: người trực tiếp gây thiệt hại tự bồi thường. Không nhầm với trường hợp có tổ chức kế thừa khi chuyển đổi, hợp nhất, sáp nhập; nghỉ việc không phải căn cứ miễn.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 40",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-011",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Địa phương đã ban hành mức giá tối đa cho dịch vụ soạn thảo. Văn phòng thu vượt mức đó, khách đã đồng ý vì muốn làm nhanh. Chỉ xét giá dịch vụ này, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được vượt nếu gọi khoản vượt là thưởng soạn thảo",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được vượt nếu hồ sơ không thuộc công chứng bắt buộc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không được vượt giá tối đa; còn phải niêm yết công khai và giải thích rõ",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được vượt nếu khách tự nguyện đồng ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Quyền xác định giá của tổ chức bị giới hạn bởi giá tối đa do tỉnh ban hành. Sự đồng ý hoặc đổi tên khoản thu không làm mức giá vượt trần hợp pháp; phải tách phí công chứng, giá dịch vụ và các chi phí khác đúng căn cứ.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 71",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 71",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DD-012",
+    "part": 1,
+    "topic": "Đạo đức nghề nghiệp và trách nhiệm",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Người yêu cầu đủ điều kiện công chứng ngoài trụ sở và đề nghị CCV đến bệnh viện. Văn phòng tính chi phí di chuyển theo nguyên tắc niêm yết, giải thích và thỏa thuận mức cụ thể. Chỉ xét cơ chế chi phí, nhận định đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Mọi chi phí ngoài phí công chứng đều bị cấm",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chi phí này mặc nhiên do ngân sách trả",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "CCV tự thu riêng mà không cần nguyên tắc niêm yết hoặc giải thích",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chi phí khác do người yêu cầu và tổ chức thỏa thuận theo luật, không phải mọi khoản ngoài phí đều bị cấm",
+        "correct": true
+      }
+    ],
+    "explanation": "Luật cho phép chi phí khác khi yêu cầu ngoài trụ sở, với mức thỏa thuận và nghĩa vụ niêm yết, giải thích. Không đồng nhất khoản chi đúng cơ chế này với tiền lợi ích riêng bị cấm, cũng không suy rằng trả chi phí tạo quyền công chứng ngoài trụ sở nếu chưa đủ điều kiện.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 72",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 72",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 72",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-001",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV có đủ kinh nghiệm nhưng mới chấp hành xong quyết định xử phạt vi phạm hành chính về hành nghề được 8 tháng. Tổ chức muốn giao hướng dẫn tập sự ngay. Riêng trở ngại này, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chưa đủ mốc 12 tháng từ ngày chấp hành xong để được hướng dẫn",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Được ngay vì kinh nghiệm là điều kiện duy nhất",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Được nếu người tập sự đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ phải chờ nếu xử phạt bằng tiền trên một mức nhất định",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều kiện kinh nghiệm không thay điều kiện sau xử lý kỷ luật hoặc xử phạt về hành nghề. Điều 12 tính 12 tháng từ ngày chấp hành xong, không từ ngày ra quyết định và không tùy vào mức tiền phạt do các bên tự đặt.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-002",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV hướng dẫn bị tạm đình chỉ; tổ chức còn một CCV khác đủ điều kiện và chưa vượt số người tập sự tối đa. Cách xử lý việc hướng dẫn đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Để người tập sự tự ký văn bản công chứng trong thời gian chờ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Phân công CCV đủ điều kiện khác tiếp tục hướng dẫn",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Giữ CCV bị đình chỉ hướng dẫn vì tập sự chưa phải hành nghề",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tự động hủy toàn bộ thời gian đã tập sự hợp lệ",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 dự liệu việc thay người hướng dẫn khi người cũ bị tạm đình chỉ. Việc chuyển hướng dẫn bảo đảm tập sự tiếp tục đúng điều kiện; không tự hủy thời gian hợp lệ hoặc biến người tập sự thành người có quyền công chứng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-003",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV hướng dẫn chết và tổ chức không còn CCV đủ điều kiện hướng dẫn. Người tập sự đề nghị chuyển sang một nhân viên pháp chế giàu kinh nghiệm trong văn phòng. Phương án đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cho người tập sự tự kết thúc bằng báo cáo cá nhân",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Mặc nhiên coi toàn bộ thời gian còn lại đã hoàn thành",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Tổ chức báo cáo Sở Tư pháp để chỉ định tổ chức khác nhận tập sự",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Giao nhân viên pháp chế hướng dẫn như CCV",
+        "correct": false
+      }
+    ],
+    "explanation": "Khi không còn CCV đủ điều kiện, luật quy định báo Sở để chỉ định tổ chức khác. Kinh nghiệm pháp chế không tạo tư cách CCV hướng dẫn; không được dùng khó khăn nhân sự để tự công nhận thời gian chưa tập sự.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-004",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Người tập sự đã được giao công việc liên quan công chứng nhưng muốn chỉ đến văn phòng một buổi mỗi tuần, dù lịch làm việc đã xác định nhiều ngày. Không có căn cứ điều chỉnh khác. Theo Điều 12, nghĩa vụ đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ cần nộp đủ mẫu hợp đồng, không phải bảo đảm thời gian",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Tự chọn bất kỳ số giờ nào vì chưa được bổ nhiệm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần có mặt vào ngày tổ chức kiểm tra nội bộ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Bảo đảm thời gian tập sự theo ngày, giờ làm việc của tổ chức nhận tập sự",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 4 gắn thời gian tập sự với ngày, giờ làm việc của tổ chức, không chỉ số sản phẩm giao nộp. Người tập sự chịu trách nhiệm về công việc được phân công; hoàn thành bản mẫu không tự bù thời gian không đáp ứng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-005",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A được cấp giấy chứng nhận đạt kiểm tra 6 năm trước nhưng không đề nghị bổ nhiệm trong 5 năm từ ngày cấp. Nay A muốn dùng giấy cũ để bổ nhiệm. Chỉ xét giấy này, phải làm gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đăng ký tham dự và đạt yêu cầu kiểm tra lại vì giấy đã hết hiệu lực",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Dùng giấy cũ vì cụm không có thời hạn loại mọi ngoại lệ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ xin văn phòng xác nhận đang làm việc là giấy có hiệu lực lại",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ đổi bản sao giấy sang bản điện tử để gia hạn",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 12 nêu giấy không có thời hạn nhưng có ngoại lệ hết hiệu lực nếu không đề nghị bổ nhiệm trong 5 năm. Việc đổi hình thức giấy hoặc xác nhận làm việc không thay yêu cầu đăng ký và đạt kiểm tra lại.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 5"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-006",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A đã đề nghị bổ nhiệm trong năm thứ tư từ ngày cấp giấy đạt kiểm tra. Đến năm thứ sáu, hồ sơ bị cho là dùng giấy hết hiệu lực chỉ vì quá 5 năm từ ngày cấp. Chỉ xét căn cứ hết hiệu lực này, đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Giấy phải thi lại hằng năm dù đã đề nghị đúng hạn",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không thể chỉ dựa vào tuổi giấy; ngoại lệ hỏi việc không đề nghị bổ nhiệm trong 5 năm, A đã đề nghị trong hạn",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Giấy tự hết hiệu lực sau 5 năm trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giấy chỉ được dùng nếu được bổ nhiệm xong trong 5 năm",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm quyết định là có đề nghị bổ nhiệm trong hạn hay không, không phải chỉ thời gian đã trôi qua hoặc ngày quyết định bổ nhiệm. Câu chỉ giải quyết căn cứ hết hiệu lực này; các điều kiện bổ nhiệm khác vẫn phải được kiểm tra riêng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 5"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-007",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A có bằng tiến sĩ luật, thuộc nhóm đào tạo nghề công chứng 6 tháng. A cho rằng thời gian tập sự cũng tự giảm xuống 6 tháng. Chỉ xét hai thời gian, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có tiến sĩ luật được miễn cả đào tạo và tập sự",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Tập sự chỉ còn 3 tháng nếu đã dạy luật",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đào tạo 6 tháng không tự làm giảm tập sự; Điều 12 quy định tập sự 12 tháng",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Đào tạo và tập sự đều 6 tháng vì cùng một nhóm đối tượng",
+        "correct": false
+      }
+    ],
+    "explanation": "Không đồng nhất ưu tiên thời gian đào tạo ở Điều 11 với thời gian tập sự ở Điều 12. Câu đã xác định đúng nhóm tiến sĩ luật; điều khoản này không tự tạo miễn hoặc giảm tập sự tương ứng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 11",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3",
+        "point": "Điểm c"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 12",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TS-008",
+    "part": 1,
+    "topic": "Tập sự và kiểm tra kết quả tập sự",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV không hành nghề 12 tháng vì bị tạm đình chỉ theo Điều 15. Cơ quan muốn chỉ áp căn cứ không hành nghề 12 tháng ở điểm đ khoản 2 Điều 16, chưa xét lý do đình chỉ có còn hay không. Đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Miễn nhiệm theo điểm đ trong mọi trường hợp nghỉ đủ 12 tháng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không được miễn nhiệm theo bất kỳ căn cứ nào vì đã bị đình chỉ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần khách đồng ý cho hành nghề trở lại là tránh miễn nhiệm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không áp máy móc điểm đ vì có ngoại lệ đình chỉ; phải xét căn cứ miễn nhiệm riêng khi hết đình chỉ mà lý do vẫn còn",
+        "correct": true
+      }
+    ],
+    "explanation": "Điểm đ loại thời gian không hành nghề do tạm đình chỉ; điểm e có căn cứ riêng khi hết thời hạn mà lý do vẫn còn. Phải đọc các căn cứ cùng ngoại lệ, không biến việc có ngoại lệ ở một điểm thành miễn mọi căn cứ khác.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 16",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm đ"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 16",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2",
+        "point": "Điểm e"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 15",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-001",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn bản công chứng có hai trang in trên cùng một tờ giấy, chưa có tờ thứ hai. Chỉ xét Điều 51, yêu cầu nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đánh số cả hai trang; quy tắc giáp lai giữa các tờ chưa phát sinh chỉ từ việc có hai trang",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bắt buộc giáp lai giữa hai trang dù cùng một tờ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ đánh số trang cuối vì chỉ có một tờ",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không đánh số vì chưa đủ hai tờ",
+        "correct": false
+      }
+    ],
+    "explanation": "Phải phân biệt trang với tờ: đánh số phát sinh từ hai trang, giáp lai giữa các tờ phát sinh từ hai tờ. Không suy rằng thiếu tờ thứ hai loại nghĩa vụ đánh số hoặc phải tạo giáp lai trên hai mặt cùng một tờ.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 51",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 51",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-002",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giao dịch giấy có ba trang, lời chứng thêm một trang. Văn phòng đánh số giao dịch từ 1 đến 3, rồi đánh lời chứng lại số 1. Cách sửa đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đánh số giao dịch bắt đầu từ 0 để lời chứng vẫn là 1",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đánh số liên tục từ trang thứ nhất giao dịch đến trang cuối lời chứng",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Giữ số 1 riêng cho lời chứng vì CCV là người ký phần đó",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không đánh số lời chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 51 yêu cầu chuỗi số liên tục qua cả giao dịch và lời chứng. Việc phần lời chứng do CCV lập không tạo một chuỗi đánh số độc lập; số trang giúp kiểm tra tính đầy đủ của văn bản công chứng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 51",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-003",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Lỗi kỹ thuật đúng nghĩa đã được đối chiếu hồ sơ; bên lề trang không đủ chỗ ghi nội dung sửa. Phương án được Điều 52 cho phép là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ gửi email thông báo mà không ghi sửa trong văn bản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Cho người yêu cầu tự viết sửa và ký bên lề",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ghi ở trang đính kèm đủ nội dung sửa, thời điểm, họ tên, chữ ký CCV và dấu tổ chức",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Xóa trực tiếp nội dung cũ rồi in lại bản không ghi việc sửa",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cho phép trang đính kèm khi bên lề không đủ chỗ, nhưng vẫn giữ đầy đủ dấu vết sửa lỗi. Không biến sửa kỹ thuật thành thay bản gốc không có thông tin sửa hoặc giao khách tự sửa mà thiếu CCV và dấu tổ chức.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 52",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-004",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng đã sửa lỗi kỹ thuật đúng thủ tục nhưng không thể thu hồi được một trong các bản gốc dù đã thực hiện việc thu hồi. Điều 52 yêu cầu sửa mọi bản gốc như thế nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Không được sửa bất kỳ bản nào nếu thiếu một bản gốc",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ sửa bản lưu của văn phòng trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Được bỏ nghĩa vụ thông báo vì đã sửa bản lưu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Sửa tất cả bản gốc trừ trường hợp không thể thu hồi được tất cả; vẫn phải thông báo theo luật",
+        "correct": true
+      }
+    ],
+    "explanation": "Quy tắc sửa tất cả bản gốc có ngoại lệ thực tế không thể thu hồi tất cả. Ngoại lệ này không cho mặc định chỉ sửa bản lưu và không loại nghĩa vụ thông báo bằng văn bản cho những người tham gia giao dịch.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 52",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-005",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Người lập di chúc yêu cầu văn phòng lưu giữ bản di chúc. Văn phòng định niêm phong sau khi khách về và chỉ giao biên lai thu tiền. Việc cần thực hiện đúng là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Niêm phong trước mặt người lập di chúc, ghi và giao giấy nhận lưu giữ có thông tin luật định",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ giao biên lai thu phí là đủ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ niêm phong nếu người thừa kế có mặt",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được lưu giữ nếu di chúc chưa chỉ định người quản lý di sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 61 quy định thao tác trước mặt người lập và giấy nhận lưu giữ có thông tin tổ chức, CCV niêm phong, người lập. Biên lai thu tiền không tự thay giấy nhận lưu giữ; người thừa kế không phải người bắt buộc có mặt trong thao tác này.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 61",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-006",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Tổ chức đang giữ di chúc sắp chấm dứt hoạt động, liên hệ được người lập nhưng không thỏa thuận được nơi lưu giữ mới. Xử lý di chúc và phí lưu giữ theo Điều 61?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Mở di chúc công bố cho người thân để họ chọn nơi giữ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Trả lại di chúc và phí lưu giữ cho người lập",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Tự chuyển sang bất kỳ nơi nào dù người lập không thỏa thuận",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Giữ phí và chỉ giao bản photocopy di chúc",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật phân biệt có thể liên hệ nhưng không thỏa thuận được với không liên hệ được. Trường hợp đầu phải trả di chúc và phí lưu giữ; không tự áp phương án chuyển hồ sơ cho trường hợp không liên hệ được hoặc công bố nội dung khi chưa có căn cứ.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 61",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-007",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: CCV đã có tài khoản, chữ ký số, dấu thời gian; tổ chức nơi làm việc chưa có đủ trang thiết bị để công chứng điện tử. Người phụ trách cho rằng điều kiện CCV đủ thì tổ chức không cần kiểm tra. Kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được cung cấp nếu người yêu cầu gửi email đồng ý",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được cung cấp nếu giao dịch không có bất động sản",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải kiểm tra cả điều kiện của tổ chức; điều kiện cá nhân không thay điều kiện trang thiết bị của tổ chức",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được cung cấp ngay vì chỉ xét điều kiện CCV",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 63 đặt hai nhóm điều kiện độc lập cho CCV và tổ chức. Đáp ứng chữ ký số và tài khoản ở cá nhân không thay điều kiện kỹ thuật ở tổ chức; không tự tạo ngoại lệ bằng email đồng ý hoặc loại tài sản giao dịch.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 63",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 63",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-008",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn bản công chứng điện tử mới có chữ ký số CCV, chưa có chữ ký số tổ chức. Các bên đã ký đầy đủ. Chỉ xét mốc hiệu lực văn bản tại Điều 64, nhận định đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có hiệu lực ngay khi các bên ký, chữ ký số tổ chức chỉ để lưu",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Có hiệu lực sau một ngày dù không bổ sung chữ ký số tổ chức",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Có hiệu lực nếu gửi bản PDF cho các bên",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chưa đạt mốc hiệu lực vì còn thiếu chữ ký số tổ chức hành nghề công chứng",
+        "correct": true
+      }
+    ],
+    "explanation": "Khoản 2 Điều 64 yêu cầu chữ ký số của cả CCV và tổ chức để văn bản công chứng điện tử có hiệu lực. Chữ ký các bên, việc gửi file hoặc thời gian trôi qua không thay một chữ ký số còn thiếu theo luật.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 64",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-009",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Văn phòng muốn chuyển kho hồ sơ công chứng ra ngoài trụ sở. Kho đáp ứng an ninh, phòng cháy và được chủ nhà đồng ý, nhưng chưa có đồng ý bằng văn bản của Sở Tư pháp. Riêng địa điểm lưu trữ, cần gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Có sự đồng ý bằng văn bản của Sở Tư pháp nơi tổ chức đặt trụ sở",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần chủ nhà và các CCV thống nhất",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần gửi email thông báo sau khi chuyển kho",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần kho cùng phường thì không phải xin ý kiến",
+        "correct": false
+      }
+    ],
+    "explanation": "Đáp ứng an toàn bảo quản không tự thay điều kiện cho lưu ngoài trụ sở. Điều 68 yêu cầu sự đồng ý bằng văn bản của Sở; vị trí cùng phường hoặc việc thông báo sau chuyển không tương đương với chấp thuận luật định.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 68",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-010",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hồ sơ công chứng giao dịch có đối tượng là bất động sản đã được lưu 15 năm từ ngày văn bản có hiệu lực. Văn phòng định hủy vì cho rằng mọi hồ sơ chỉ cần 10 năm. Theo Điều 68, đánh giá đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chưa đạt thời hạn tối thiểu 30 năm của nhóm bất động sản",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Đã đủ vì 10 năm áp dụng chung mọi giao dịch",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đã đủ nếu các bên nói không còn tranh chấp",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật phân biệt tối thiểu 30 năm cho bất động sản và tối thiểu 10 năm cho giao dịch khác. Không được lấy sự im lặng của các bên hoặc việc quét bản sao đơn thuần để tự bỏ thời hạn của hồ sơ thuộc nhóm bất động sản.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 68",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-011",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Một cá nhân ở nước ngoài muốn cơ quan đại diện Việt Nam công chứng hợp đồng bán căn nhà tại Việt Nam; đã chuẩn bị đủ hồ sơ. Chỉ xét loại giao dịch ở Điều 73, xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Được nếu bên mua có quốc tịch Việt Nam",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Được nếu người bán đã lập di chúc trước đó tại cơ quan đại diện",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không thuộc nhóm cơ quan đại diện được công chứng vì hợp đồng bán BĐS tại Việt Nam bị loại trừ",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Được vì mọi cơ quan công chứng đều có thẩm quyền toàn quốc",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 73 cho cơ quan đại diện thực hiện một số việc nhưng loại hợp đồng mua bán và các hợp đồng BĐS tại Việt Nam được liệt kê. Đủ giấy tờ hoặc quốc tịch bên mua không thay thẩm quyền theo loại giao dịch.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 73",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-QT-012",
+    "part": 2,
+    "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A ở nước ngoài muốn lập văn bản ủy quyền cho B bán nhà tại Việt Nam và muốn cơ quan đại diện công chứng luôn hợp đồng mua bán nhà. Phân biệt thẩm quyền đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Cả hai đều được vì cùng liên quan một nhà",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Cả hai đều bị cấm vì cứ liên quan BĐS tại Việt Nam là bị cấm",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công chứng hợp đồng bán tại cơ quan đại diện rồi giao B đăng ký là đủ thẩm quyền",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Có thể xét văn bản ủy quyền tại cơ quan đại diện; hợp đồng bán nhà tại Việt Nam không được công chứng ở đó",
+        "correct": true
+      }
+    ],
+    "explanation": "Phải tách văn bản ủy quyền khỏi hợp đồng chuyển quyền đối với nhà. Điều 73 cho công chứng các loại văn bản ủy quyền nhưng loại hợp đồng bán BĐS tại Việt Nam; giao dịch chính còn phải xét địa bàn và điều kiện theo pháp luật áp dụng.",
+    "legalBasis": [
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 73",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 44",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-CC24",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-001",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hợp đồng bảo đảm hợp lệ không thỏa thuận giới hạn phạm vi; pháp luật không có quy định giới hạn riêng. Con nợ nói chỉ gốc được bảo đảm, lãi và bồi thường đương nhiên loại. Quy tắc đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Nghĩa vụ coi như được bảo đảm toàn bộ, gồm lãi, tiền phạt và bồi thường thiệt hại",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Chỉ nợ gốc được bảo đảm trong mọi hợp đồng",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ gốc và lãi, luôn loại phạt và bồi thường",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Phạm vi tự giới hạn ở giá trị ghi trên giấy chứng nhận tài sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 293 đặt quy tắc mặc định khi không có thỏa thuận và pháp luật không quy định phạm vi. Không được tự thu hẹp về nợ gốc; giá trị tài sản bảo đảm và phạm vi nghĩa vụ là hai vấn đề cần phân biệt.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 293",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-002",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Các bên mô tả tài sản bảo đảm theo nhóm nhưng vẫn xác định được chính xác tài sản; giá trị tài sản thấp hơn nghĩa vụ. Chỉ xét hai điểm tại Điều 295, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ được nếu tài sản bảo đảm là tiền mặt",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không bị loại chỉ vì mô tả chung có thể xác định hoặc giá trị thấp hơn nghĩa vụ",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Vô hiệu vì mọi mô tả chung đều bị cấm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Vô hiệu vì giá trị luôn phải lớn hơn nghĩa vụ",
+        "correct": false
+      }
+    ],
+    "explanation": "Luật cho mô tả chung nhưng phải xác định được và cho giá trị lớn hơn, bằng hoặc nhỏ hơn nghĩa vụ. Câu không chứng nhận toàn bộ giao dịch: vẫn phải xét quyền sở hữu, hình thức và điều kiện chuyên ngành khác.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 295",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 295",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-003",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Hợp đồng thế chấp đã thỏa thuận hợp lệ để bên nhận bảo đảm nhận chính tài sản thay thực hiện nghĩa vụ khi đủ điều kiện xử lý. Bên bảo đảm nói pháp luật chỉ cho bán đấu giá nên riêng phương thức đó bị cấm. Chỉ xét sự lựa chọn phương thức ở Điều 303, đúng không?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đúng vì chỉ cơ quan Nhà nước được nhận tài sản thay nghĩa vụ",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đúng trừ khi tài sản có giá trị nhỏ hơn nghĩa vụ",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Không; luật cho phép thỏa thuận nhận chính tài sản, đấu giá là mặc định khi không thỏa thuận và không có luật khác",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Đúng vì đấu giá là phương thức duy nhất trong mọi trường hợp",
+        "correct": false
+      }
+    ],
+    "explanation": "Phải đọc danh sách phương thức có thể thỏa thuận và quy tắc mặc định ở hai khoản khác nhau. Câu đã xác định thỏa thuận hợp lệ và chỉ hỏi phương thức; vẫn phải thực hiện thủ tục, định giá, chuyển quyền hoặc điều kiện xử lý chuyên ngành tương ứng.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 303",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1",
+        "point": "Điểm c"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 303",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-004",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A đang giữ hợp pháp xe để sửa theo hợp đồng song vụ, nhưng tiền sửa chưa đến hạn. A muốn áp ngay quyền cầm giữ vì nghe tin khách có khoản nợ khác. Chỉ xét cầm giữ theo hợp đồng sửa xe, nhận định đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đã phát sinh vì A đang giữ xe và khách có bất kỳ khoản nợ nào",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đã phát sinh vì cầm giữ chỉ cần tài sản có giá trị hơn tiền công",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Đã phát sinh nếu A tự ghi chữ cầm giữ trên biên nhận",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chưa phát sinh cầm giữ vì nghĩa vụ trong hợp đồng này chưa đến hạn và chưa bị vi phạm",
+        "correct": true
+      }
+    ],
+    "explanation": "Phải đồng thời xét giữ hợp pháp tài sản là đối tượng hợp đồng song vụ và vi phạm nghĩa vụ đến hạn. Khoản nợ khác hay nhãn trên biên nhận không thay sự kiện làm phát sinh cầm giữ trong chính quan hệ sửa xe.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 346",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 347",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-005",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giao dịch bị tuyên vô hiệu. A không thể hoàn trả hiện vật đã nhận, là bên ngay tình khi thu hoa lợi; B có lỗi gây thiệt hại đã xác định. Hướng xử lý đúng theo Điều 131?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "A hoàn trả bằng tiền, không phải trả hoa lợi thu ngay tình; B bồi thường thiệt hại do lỗi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "A được giữ hiện vật và hoa lợi, B chỉ hoàn tiền giá mua",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "A phải trả cả hoa lợi ngay tình và không ai bồi thường vì hợp đồng vô hiệu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Mọi bên đều bị phạt bằng hai lần giá trị tài sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 131 phân biệt hoàn trả hiện vật hoặc tiền, ngoại lệ về hoa lợi của bên ngay tình và bồi thường theo lỗi. Vô hiệu không có nghĩa xóa mọi nghĩa vụ hoàn trả, cũng không tự tạo một mức phạt gấp đôi cho các bên.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 131",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 131",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 3"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 131",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DS-006",
+    "part": 2,
+    "topic": "Dân sự – giao dịch – đại diện – nghĩa vụ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "exception",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Giao dịch thuộc Điều 126 về nhầm lẫn, không thuộc căn cứ vô hiệu nào khác. Đã hết thời hiệu tại khoản 1 Điều 132, không có yêu cầu tuyên vô hiệu trong thời hiệu. Một bên nói nhầm lẫn làm giao dịch vĩnh viễn không có hiệu lực. Chỉ xét khoản 2, kết luận đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ chuyển thành có hiệu lực nếu có người làm chứng mới",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Giao dịch có hiệu lực theo quy định khi hết thời hiệu mà không có yêu cầu tuyên vô hiệu",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Giao dịch luôn vô hiệu dù không có yêu cầu và thời hiệu đã hết",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tự kéo dài thời hiệu thêm hai năm vì một bên đổi ý",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 132 có quy định về hiệu lực sau khi hết thời hiệu thuộc khoản 1 mà không có yêu cầu tuyên vô hiệu. Câu đã loại căn cứ khác, đặc biệt nhóm Điều 123 và 124 không hạn chế thời hiệu; không tuyệt đối hóa mọi giao dịch có nhầm lẫn thành vô hiệu vĩnh viễn.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 132",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 132",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-HN-001",
+    "part": 2,
+    "topic": "Hôn nhân và gia đình – tài sản vợ chồng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Khi ly hôn theo chế độ luật định, xác định có sự trộn lẫn tài sản riêng của vợ vào khối chung; vợ yêu cầu thanh toán phần giá trị riêng đã đóng góp, không có thỏa thuận khác. Chồng nói cứ trộn lẫn là mất mọi quyền đòi giá trị riêng. Quy tắc đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Vợ đương nhiên được nhận toàn bộ khối chung thay phần đóng góp",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ thanh toán nếu tài sản riêng là bất động sản",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Vợ được thanh toán phần giá trị tài sản riêng đã đóng góp vào khối đó",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Vợ mất mọi quyền vì đã có trộn lẫn",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 59 phân biệt quyền sở hữu tài sản riêng với trường hợp sáp nhập, trộn lẫn. Khi có yêu cầu và không có thỏa thuận khác, được thanh toán phần giá trị đã đóng góp; không suy cả khối tài sản trở thành riêng hoặc mất hoàn toàn quyền về giá trị riêng.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 59",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-HNGD-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-HN-002",
+    "part": 2,
+    "topic": "Hôn nhân và gia đình – tài sản vợ chồng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Nhà là tài sản chung vợ chồng, giấy chỉ tên chồng. Vợ từng ủy quyền chồng bán nhưng nay đã chết, quyền từ văn bản đó đã chấm dứt; chưa xử lý di sản của vợ. Chồng muốn bán toàn bộ nhà bằng giấy cũ. Xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chồng bán toàn bộ vì giấy chứng nhận chỉ tên chồng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chồng bán toàn bộ vì giấy ủy quyền còn ghi ngày hết hạn tương lai",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chuyển tên nhà sang con bất kể người thừa kế và di chúc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Tách phần quyền của chồng và di sản của vợ, xác định chủ thể có quyền; không dùng ủy quyền đã chấm dứt để bán toàn bộ",
+        "correct": true
+      }
+    ],
+    "explanation": "Tên một người không tự chứng minh toàn bộ nhà là tài sản riêng. Vợ chết làm chấm dứt quyền đại diện từ ủy quyền đã nêu; cần giải quyết quyền trong tài sản chung và thừa kế thay vì cho chồng ký cả phần của người đã chết.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 33",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 34",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 35",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 2",
+        "point": "Điểm a"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 140",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 3",
+        "point": "Điểm đ"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-HNGD-HN25",
+      "supportingSourceIds": [
+        "OFFICIAL-BLDS15"
+      ],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-HN-003",
+    "part": 2,
+    "topic": "Hôn nhân và gia đình – tài sản vợ chồng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Sau ly hôn, vợ chồng cùng chủ nợ đã có thỏa thuận hợp lệ rõ ràng để chỉ vợ tiếp tục thực hiện khoản nợ, chủ nợ giải phóng chồng khỏi nghĩa vụ. Người tư vấn nói quyền của chủ nợ luôn giữ nguyên nên không được xét thỏa thuận ba bên. Nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phải xét ngoại lệ có thỏa thuận khác của vợ chồng và người thứ ba, không áp nguyên tắc giữ nguyên nghĩa vụ máy móc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Mọi nghĩa vụ trước ly hôn tuyệt đối không thể được ba bên thỏa thuận thay đổi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ hai vợ chồng được thay nghĩa vụ, chủ nợ không cần tham gia",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ly hôn tự xóa nợ mà không cần thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 60 duy trì quyền, nghĩa vụ với người thứ ba sau ly hôn nhưng có ngoại lệ khi vợ chồng và người thứ ba thỏa thuận khác. Câu đã xác định thỏa thuận hợp lệ và chủ nợ tham gia, nên khác việc hai vợ chồng tự chuyển nợ làm mất quyền chủ nợ.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 60",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-HNGD-HN25",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-HN-004",
+    "part": 2,
+    "topic": "Hôn nhân và gia đình – tài sản vợ chồng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Cha mẹ quản lý nhà riêng của con 12 tuổi. Mẹ dự định đại diện con bán nhà cho chính mình; không có quy định khác cho phép tự giao dịch. Cha đồng ý, đã xem xét nguyện vọng con. Trở ngại vẫn cần xử lý là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Con 12 tuổi có thể tự ký để bỏ mọi điều kiện đại diện",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Xung đột do đại diện giao dịch với chính mình; các điều kiện gia đình đã đáp ứng không tự loại trở ngại này",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Không còn trở ngại vì cha đồng ý và đã hỏi nguyện vọng con",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần mẹ trả đủ giá thì không cần xét quyền đại diện",
+        "correct": false
+      }
+    ],
+    "explanation": "Sự thỏa thuận của cha mẹ và xem xét nguyện vọng là những điều kiện riêng. Khoản 3 Điều 141 vẫn cấm đại diện xác lập giao dịch với chính mình khi không có quy định khác; không dùng giá bán hoặc sự đồng ý gia đình để bỏ kiểm tra xung đột.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 73",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 3"
+      },
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 77",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 141",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 3"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-HNGD-HN25",
+      "supportingSourceIds": [
+        "OFFICIAL-BLDS15"
+      ],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TK-001",
+    "part": 2,
+    "topic": "Thừa kế",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Vợ chồng có tài sản chung 3,6 tỷ theo chế độ luật định. Chồng chết, không nợ; vợ và hai con trưởng thành có khả năng lao động là toàn bộ hàng thứ nhất, không ai từ chối hoặc bị loại. Di chúc cho người bạn toàn bộ di sản. Phần tối thiểu của vợ và phần còn cho bạn là bao nhiêu?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Vợ không hưởng di sản vì đã có 1,8 tỷ tài sản của mình",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Ba người hàng thứ nhất mỗi người nhận 600 triệu bất chấp di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Vợ nhận thêm 400 triệu từ di sản; bạn nhận 1,4 tỷ, ngoài 1,8 tỷ tài sản riêng phần vợ trong khối chung",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Vợ nhận 800 triệu từ di sản; bạn nhận 2,8 tỷ vì chia toàn bộ 3,6 tỷ",
+        "correct": false
+      }
+    ],
+    "explanation": "Trước hết tách 1,8 tỷ thuộc vợ, di sản chồng còn 1,8 tỷ. Suất theo pháp luật nếu chia là 600 triệu; vợ được hai phần ba tức 400 triệu, hai con trưởng thành có khả năng lao động không thuộc diện bắt buộc, phần 1,4 tỷ còn lại theo di chúc.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 66",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 644",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 651",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1",
+        "point": "Điểm a"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-HNGD-HN25",
+      "supportingSourceIds": [
+        "OFFICIAL-BLDS15"
+      ],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TK-002",
+    "part": 2,
+    "topic": "Thừa kế",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "workflow",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Tòa án đã hạn chế chia di sản để bảo vệ đời sống vợ còn sống. Hết ba năm từ mở thừa kế, vợ chứng minh việc chia vẫn ảnh hưởng nghiêm trọng đời sống gia đình và chưa được gia hạn lần nào. Hướng đề nghị được Điều 661 cho phép?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Tự tuyên bố giữ di sản vô thời hạn không cần Tòa án",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Yêu cầu gia hạn hằng năm không giới hạn số lần",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần một người thừa kế đồng ý để loại mọi quyền yêu cầu chia của người khác",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Yêu cầu Tòa án gia hạn một lần, không quá ba năm",
+        "correct": true
+      }
+    ],
+    "explanation": "Điều 661 quy định mốc hạn chế ban đầu và khả năng gia hạn một lần khi điều kiện ảnh hưởng nghiêm trọng vẫn được chứng minh. Đây không phải quyền tự quyết giữ di sản vô hạn; việc gia hạn do Tòa án xem xét và bị giới hạn cả số lần lẫn thời gian.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 661",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TK-003",
+    "part": 2,
+    "topic": "Thừa kế",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Cha đã biết con B, 30 tuổi có khả năng lao động, vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng mình nhưng vẫn lập di chúc hợp lệ cho B hưởng 200 triệu. B nói vì là con nên còn tự được phần bắt buộc của Điều 644. Phân biệt đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "B có thể hưởng 200 triệu theo ngoại lệ di chúc; con trưởng thành có khả năng lao động không tự thuộc diện hưởng phần bắt buộc",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "B không thể hưởng gì dù cha đã biết và vẫn cho trong di chúc",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "B đương nhiên hưởng thêm phần bắt buộc vì mọi con đều thuộc Điều 644",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "B chỉ được hưởng nếu những người thừa kế khác bỏ quyền phản đối",
+        "correct": false
+      }
+    ],
+    "explanation": "Điều 621 cho ngoại lệ khi người để lại đã biết hành vi nhưng vẫn cho theo di chúc. Phần bắt buộc là vấn đề khác: B đã thành niên và có khả năng lao động nên không thuộc nhóm con tại khoản 1 Điều 644; không suy mọi người con đều được hưởng thêm.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 621",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 621",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 644",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 1"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-TK-004",
+    "part": 2,
+    "topic": "Thừa kế",
+    "type": "single",
+    "status": "active",
+    "difficulty": "application",
+    "questionForm": "short_case",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Di sản chia theo pháp luật chỉ có một hiện vật không thể chia đều. Những người thừa kế đủ năng lực không thống nhất được định giá hoặc người nhận hiện vật, không có căn cứ hạn chế chia. Một người muốn tự giữ hiện vật và tự ấn định tiền trả người khác. Quy tắc xử lý là gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phải giữ hiện vật vĩnh viễn vì không thể chia đều",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Hiện vật được bán để chia khi không thỏa thuận được",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Người đang giữ đương nhiên được nhận hiện vật và tự ấn định giá",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Người cao tuổi nhất luôn được nhận miễn thanh toán",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 660 cho thỏa thuận định giá và người nhận khi hiện vật không thể chia đều, nhưng nếu không thỏa thuận được thì bán để chia. Việc đang giữ hoặc tuổi cao không tạo quyền tự định đoạt phần của những người khác; câu không chỉ định sẵn một thủ tục bán ngoài căn cứ luật.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 660",
+        "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+        "clause": "Khoản 2"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-BLDS15",
+      "supportingSourceIds": [],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DAT-001",
+    "part": 2,
+    "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: Tranh chấp đất đã được giải quyết bằng bản án có hiệu lực, nhưng quyền sử dụng vẫn đang bị áp dụng biện pháp khẩn cấp tạm thời. Các bên xin chuyển nhượng vì nói hết tranh chấp là đủ. Chỉ xét hai điều kiện này, xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ nếu bên mua cam kết nhận rủi ro biện pháp ngăn chặn",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Đủ nếu giá chuyển nhượng bằng giá đất Nhà nước",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Chưa đủ điều kiện chuyển nhượng vì phải kiểm tra riêng biện pháp khẩn cấp tạm thời",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Đủ ngay vì bản án giải quyết tranh chấp thay mọi điều kiện khác",
+        "correct": false
+      }
+    ],
+    "explanation": "Các điều kiện ở Điều 45 là đồng thời, không phải chọn một. Bản án có hiệu lực có thể đáp ứng điều kiện về tranh chấp nhưng không tự loại biện pháp khẩn cấp còn áp dụng; cam kết rủi ro và giá không thay điều kiện pháp luật.",
+    "legalBasis": [
+      {
+        "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+        "article": "Điều 45",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      },
+      {
+        "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+        "article": "Điều 45",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+        "clause": "Khoản 1",
+        "point": "Điểm đ"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 42",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 4"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DAT-HN26",
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  },
+  {
+    "id": "COMP26-DAT-002",
+    "part": 2,
+    "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
+    "type": "single",
+    "status": "active",
+    "difficulty": "advanced",
+    "questionForm": "integrated",
+    "question": {
+      "variants": [
+        "Tháng 10/2026: A được giao đất theo chính sách tại khoản 3 Điều 16 Luật Đất đai, muốn góp quyền sử dụng đất đó vào công ty gia đình. Việc góp vốn không thuộc ngoại lệ khoản 1 hoặc 2 Điều 48. Cách xử lý đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Công chứng vì công ty chỉ gồm người thân",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Công chứng nếu công ty không có người nước ngoài",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Công chứng nếu A đã sử dụng đất trên 10 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không công chứng góp vốn vì Điều 48 cấm ngoài các ngoại lệ đã nêu",
+        "correct": true
+      }
+    ],
+    "explanation": "Phải xác định đúng nguồn giao đất chính sách, không áp điều kiện 10 năm của quy định lịch sử hoặc quyền góp vốn thông thường. Khoản 3 Điều 48 không cho góp vốn ngoài ngoại lệ; cấu trúc công ty gia đình không tạo ngoại lệ mới.",
+    "legalBasis": [
+      {
+        "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+        "article": "Điều 48",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+        "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+        "article": "Điều 48",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+        "clause": "Khoản 3"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 9",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+        "clause": "Khoản 1",
+        "point": "Điểm b"
+      }
+    ],
+    "lastVerified": "2026-10-07",
+    "source": {
+      "type": "official",
+      "id": "OFFICIAL-DAT-HN26",
+      "supportingSourceIds": [
+        "OFFICIAL-CC24"
+      ],
+      "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+    }
+  }
+]
