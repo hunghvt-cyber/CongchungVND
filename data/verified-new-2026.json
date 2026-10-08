@@ -1,0 +1,585 @@
+[
+  {
+    "id": "VER26-NEW-01",
+    "part": 1,
+    "topic": "Hợp đồng theo mẫu",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Hợp đồng theo mẫu do doanh nghiệp A soạn có một điều khoản không rõ nghĩa. Ai chịu bất lợi khi giải thích điều khoản?",
+        "Một điều khoản trong hợp đồng theo mẫu có hai cách hiểu hợp lý. Theo Điều 405 BLDS, nguyên tắc giải thích nào áp dụng?",
+        "Khách hàng phản đối cách hiểu điều khoản mơ hồ trong hợp đồng theo mẫu do bên cung cấp soạn. Nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bên đưa ra hợp đồng theo mẫu phải chịu bất lợi",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Bên chấp nhận mẫu luôn chịu bất lợi",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Điều khoản tự động vô hiệu trong mọi trường hợp",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Hai bên bắt buộc chia đều bất lợi",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 405: bên đưa ra hợp đồng theo mẫu chịu bất lợi khi giải thích điều khoản không rõ ràng.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 405",
+        "clause": "Khoản 2",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-1",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-02",
+    "part": 1,
+    "topic": "Hợp đồng theo mẫu",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Hợp đồng theo mẫu loại bỏ quyền lợi chính đáng của bên còn lại và không có thỏa thuận khác. Hiệu lực điều khoản đó?",
+        "Doanh nghiệp soạn mẫu hợp đồng tự miễn toàn bộ trách nhiệm của mình; các bên không có thỏa thuận khác. Áp dụng Điều 405 thế nào?",
+        "Điều khoản theo mẫu tăng trách nhiệm của khách hàng, không có thỏa thuận khác. Kết luận phù hợp?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Luôn có hiệu lực do khách hàng đã ký",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không có hiệu lực, trừ trường hợp có thỏa thuận khác",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Chỉ vô hiệu khi hợp đồng được công chứng",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ vô hiệu khi có quyết định hành chính",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 3 Điều 405: điều khoản miễn trách nhiệm của bên đưa ra mẫu, tăng trách nhiệm hoặc loại bỏ quyền lợi chính đáng của bên kia không có hiệu lực, trừ trường hợp có thỏa thuận khác.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 405",
+        "clause": "Khoản 3",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-2",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-25",
+    "part": 1,
+    "topic": "Biện pháp bảo đảm – ký quỹ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "A gửi tiền vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ với B. Biện pháp bảo đảm nào?",
+        "Khoản tiền được gửi vào tài khoản phong tỏa ở tổ chức tín dụng nhằm bảo đảm thực hiện nghĩa vụ. Đây là gì?",
+        "Phân biệt với đặt cọc và ký cược: tiền bảo đảm được phong tỏa tại tổ chức tín dụng là biện pháp nào?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đặt cọc",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Ký cược",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Ký quỹ",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Cầm giữ tài sản",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 330 BLDS: ký quỹ là gửi tiền, kim khí quý, đá quý hoặc giấy tờ có giá vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm thực hiện nghĩa vụ.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 330",
+        "clause": "Khoản 1",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-25",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-28",
+    "part": 1,
+    "topic": "Biện pháp bảo đảm – ký quỹ",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "A ký quỹ tại tổ chức tín dụng để bảo đảm nghĩa vụ với B; A vi phạm nghĩa vụ. Quy tắc thanh toán, bồi thường nào đúng?",
+        "Bên có nghĩa vụ không thực hiện đúng nghĩa vụ được bảo đảm bằng ký quỹ. Bên có quyền được thanh toán thế nào?",
+        "Khi xử lý ký quỹ vì nghĩa vụ bị vi phạm, khoản chi phí dịch vụ của tổ chức tín dụng được xử lý ra sao?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Bên có quyền đương nhiên sở hữu toàn bộ tài khoản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Tổ chức tín dụng thanh toán, bồi thường sau khi trừ chi phí dịch vụ",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Khoản ký quỹ mặc nhiên biến thành đặt cọc",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ được đòi tài sản khác, không được xử lý ký quỹ",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 330: khi bên có nghĩa vụ không thực hiện hoặc thực hiện không đúng, bên có quyền được tổ chức tín dụng nơi ký quỹ thanh toán, bồi thường thiệt hại do bên có nghĩa vụ gây ra, sau khi trừ chi phí dịch vụ.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 330",
+        "clause": "Khoản 2",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-28",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-46",
+    "part": 1,
+    "topic": "Mang thai hộ vì mục đích nhân đạo",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Cơ sở y tế xác nhận người vợ vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Vợ chồng có đáp ứng điều kiện nhờ mang thai hộ?",
+        "Điều kiện y tế nào về người vợ phải được xác nhận để vợ chồng được nhờ mang thai hộ vì mục đích nhân đạo?",
+        "Vợ chồng muốn nhờ mang thai hộ chỉ vì không muốn người vợ mang thai, dù vẫn có khả năng sinh con. Đánh giá pháp lý?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đủ điều kiện nếu có văn bản đồng ý",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Không đủ điều kiện theo yêu cầu xác nhận y tế",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Đủ điều kiện nếu người mang thai hộ là người thân",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Đủ điều kiện nếu đã công chứng thỏa thuận",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm a khoản 2 Điều 95 đòi hỏi xác nhận của tổ chức y tế có thẩm quyền về việc người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 95",
+        "clause": "Khoản 2 điểm a",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-46",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-47",
+    "part": 1,
+    "topic": "Mang thai hộ vì mục đích nhân đạo",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Vợ chồng đã có con chung muốn nhờ mang thai hộ vì mục đích nhân đạo. Điều kiện nào chưa đáp ứng?",
+        "Điểm b khoản 2 Điều 95 yêu cầu tình trạng con chung của vợ chồng nhờ mang thai hộ ra sao?",
+        "Vợ chồng A đã có con chung, các điều kiện khác đều đáp ứng. Có được nhờ mang thai hộ vì mục đích nhân đạo?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Phải đang không có con chung",
+        "correct": true
+      },
+      {
+        "id": "B",
+        "text": "Phải có ít nhất một con chung",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Phải có từ hai con chung",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có điều kiện về con chung",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm b khoản 2 Điều 95 yêu cầu vợ chồng nhờ mang thai hộ đang không có con chung.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 95",
+        "clause": "Khoản 2 điểm b",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-47",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-48",
+    "part": 1,
+    "topic": "Mang thai hộ vì mục đích nhân đạo",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Vợ chồng nhờ mang thai hộ chưa được tư vấn pháp lý nhưng đã tư vấn y tế và tâm lý. Có đáp ứng điều kiện?",
+        "Những lĩnh vực tư vấn bắt buộc với vợ chồng nhờ mang thai hộ theo Điều 95 là gì?",
+        "Cơ sở chỉ tư vấn y tế cho bên nhờ mang thai hộ. Để đáp ứng điểm c khoản 2 Điều 95 còn thiếu nội dung gì?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ cần tư vấn y tế",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Chỉ cần tư vấn pháp lý",
+        "correct": false
+      },
+      {
+        "id": "C",
+        "text": "Cần tư vấn y tế, pháp lý và tâm lý",
+        "correct": true
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần tư vấn tâm lý",
+        "correct": false
+      }
+    ],
+    "explanation": "Điểm c khoản 2 Điều 95 yêu cầu đã được tư vấn về y tế, pháp lý và tâm lý.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 95",
+        "clause": "Khoản 2 điểm c",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-48",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-49",
+    "part": 1,
+    "topic": "Mang thai hộ vì mục đích nhân đạo",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Thỏa thuận mang thai hộ vì mục đích nhân đạo lập bằng văn bản nhưng không công chứng. Hình thức có đáp ứng Điều 96?",
+        "Hình thức bắt buộc của thỏa thuận mang thai hộ vì mục đích nhân đạo là gì?",
+        "Các bên chỉ ký giấy thỏa thuận mang thai hộ có người làm chứng. Yêu cầu nào vẫn chưa đáp ứng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Chỉ cần thỏa thuận miệng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Văn bản có công chứng",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Chỉ cần văn bản viết tay",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Chỉ cần xác nhận của tổ trưởng dân phố",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 96 yêu cầu thỏa thuận mang thai hộ vì mục đích nhân đạo lập thành văn bản có công chứng; trường hợp thỏa thuận đồng thời với cơ sở y tế còn có yêu cầu xác nhận riêng.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 96",
+        "clause": "Khoản 2",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-49",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-50",
+    "part": 1,
+    "topic": "Mang thai hộ vì mục đích nhân đạo",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Vợ chồng nhờ mang thai hộ ủy quyền cho luật sư là người thứ ba ký thỏa thuận. Hiệu lực việc ủy quyền?",
+        "Trong thỏa thuận mang thai hộ vì mục đích nhân đạo, vợ chồng trong cùng một bên được ủy quyền cho nhau theo hình thức nào?",
+        "Bên mang thai hộ lập giấy ủy quyền công chứng cho người ngoài gia đình ký thay thỏa thuận. Nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Ủy quyền người thứ ba luôn hợp lệ nếu công chứng",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Ủy quyền người thứ ba không có giá trị pháp lý",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Ủy quyền người thứ ba hợp lệ khi có bác sĩ đồng ý",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Ủy quyền người thứ ba hợp lệ khi có hai người làm chứng",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 2 Điều 96 cho phép vợ chồng trong từng bên ủy quyền cho nhau bằng văn bản có công chứng; ủy quyền cho người thứ ba không có giá trị pháp lý.",
+    "legalBasis": [
+      {
+        "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
+        "article": "Điều 96",
+        "clause": "Khoản 2",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-50",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-66",
+    "part": 1,
+    "topic": "Quyền hưởng dụng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "Pháp nhân được xác lập quyền hưởng dụng lần đầu trong 40 năm; không có quy định khác. Thời hạn tối đa theo BLDS?",
+        "Đối với người hưởng dụng đầu tiên là pháp nhân, thời hạn hưởng dụng tối đa bao nhiêu năm?",
+        "Công ty A lần đầu nhận quyền hưởng dụng trong 35 năm. Điều khoản nào cần điều chỉnh theo Điều 260?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "20 năm",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "30 năm",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "40 năm",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không có giới hạn",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 260: nếu người hưởng dụng đầu tiên là pháp nhân, thời hạn tối đa đến khi pháp nhân chấm dứt tồn tại nhưng không quá 30 năm.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 260",
+        "clause": "Khoản 1",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-66",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  },
+  {
+    "id": "VER26-NEW-67",
+    "part": 1,
+    "topic": "Quyền hưởng dụng",
+    "type": "single",
+    "status": "active",
+    "difficulty": "understanding",
+    "questionForm": "scenario",
+    "question": {
+      "variants": [
+        "A có quyền hưởng dụng đối với vườn cây thuộc sở hữu B. A có quyền nào theo Điều 261?",
+        "Quyền của người hưởng dụng đối với hoa lợi, lợi tức từ tài sản được quy định thế nào?",
+        "Người hưởng dụng muốn cho người khác khai thác tài sản trong phạm vi quyền hưởng dụng. Nhận định nào đúng?"
+      ]
+    },
+    "answers": [
+      {
+        "id": "A",
+        "text": "Đương nhiên trở thành chủ sở hữu tài sản",
+        "correct": false
+      },
+      {
+        "id": "B",
+        "text": "Có quyền khai thác, sử dụng và thu hoa lợi, lợi tức",
+        "correct": true
+      },
+      {
+        "id": "C",
+        "text": "Có quyền bán tài sản gốc không cần chủ sở hữu",
+        "correct": false
+      },
+      {
+        "id": "D",
+        "text": "Không được cho ai khác khai thác trong mọi trường hợp",
+        "correct": false
+      }
+    ],
+    "explanation": "Khoản 1 Điều 261 cho phép người hưởng dụng tự mình hoặc cho phép người khác khai thác, sử dụng, thu hoa lợi, lợi tức; không đồng nghĩa quyền sở hữu tài sản.",
+    "legalBasis": [
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "Điều 261",
+        "clause": "Khoản 1",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+      }
+    ],
+    "lastVerified": "2026-10-08",
+    "source": {
+      "type": "legal-review",
+      "id": "STG80-67",
+      "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    }
+  }
+]
