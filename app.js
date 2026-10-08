@@ -76,7 +76,7 @@ function bindShare(root) {
 }
 
 async function loadQuestions() {
-  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json', 'completion-2026.json', 'refinement-2026.json'];
+  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json', 'completion-2026.json', 'refinement-2026.json', 'verified-new-2026.json'];
   const batches = await Promise.all(files.map(async file => {
     const response = await fetch(`./data/${file}`, {cache: 'no-cache'});
     if (!response.ok) throw new Error(`Không thể tải ngân hàng câu hỏi (${file}).`);
@@ -127,6 +127,20 @@ function showSetup(mode) {
   });
 }
 
+// Recent-question history applies to independently generated sessions only.
+// Shared exam codes retain their exact deterministic question order.
+function chooseFreshQuestions(pool, count, part) {
+  const key = 'congchungvnd:recent-questions:' + (part === null ? 'all' : part);
+  let history = [];
+  try { const saved = JSON.parse(localStorage.getItem(key) || '[]'); if (Array.isArray(saved)) history = saved.filter(id => typeof id === 'string'); } catch (_) {}
+  const recent = new Set(history);
+  const fresh = shuffle(pool.filter(q => !recent.has(q.id)));
+  const repeats = shuffle(pool.filter(q => recent.has(q.id)));
+  const picked = [...fresh, ...repeats].slice(0, Math.min(count, pool.length));
+  try { localStorage.setItem(key, JSON.stringify([...picked.map(q => q.id), ...history.filter(id => !picked.some(q => q.id === id))].slice(0, Math.min(pool.length, Math.max(count * 3, 150))))); } catch (_) {}
+  return picked;
+}
+
 function startSession(part, count, duration, seed = null) {
   stopTimer();
   const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part));
@@ -135,10 +149,16 @@ function startSession(part, count, duration, seed = null) {
   state.reviewing = false; state.startedAt = new Date().toISOString(); state.submittedAt = '';
   state.part = part; state.current = 0; state.selected = new Set(); state.answers = {}; state.results = {}; state.score = 0; state.submitted = false;
   if (state.mode==='mock') {
-    const shared=createSharedExam(state.bank,part,count,duration,seed===null?Math.floor(Math.random()*4294967296):seed);
-    state.questions=shared.questions; state.examCode=shared.code;
+    if (seed === null) {
+      const chosen=chooseFreshQuestions(pool,count,part);
+      state.questions=chosen.map(q=>({...q,variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)],answers:shuffle(q.answers)}));
+      state.examCode=''; // Personalized anti-repeat exams cannot be reconstructed from a shared seed.
+    } else {
+      const shared=createSharedExam(state.bank,part,count,duration,seed);
+      state.questions=shared.questions; state.examCode=shared.code;
+    }
   } else {
-    state.questions=shuffle(pool).slice(0,Math.min(count,pool.length)).map(q=>({...q,answers:shuffle(q.answers),variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)]}));
+    state.questions=chooseFreshQuestions(pool,count,part).map(q=>({...q,answers:shuffle(q.answers),variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)]}));
     state.examCode='';
   }
   state.duration = duration; state.remaining = duration * 60; state.deadline = Date.now() + state.remaining * 1000;
