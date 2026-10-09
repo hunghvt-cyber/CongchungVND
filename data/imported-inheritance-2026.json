@@ -1028,7 +1028,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Sau khi Lân chết, một người bạn tặng riêng 20 triệu cho vợ Lân bằng thỏa thuận rõ và đã giao tiền, không tặng cho Lân hay cho nhóm người thừa kế. Con Lân muốn liệt kê khoản này là di sản Lân chỉ vì được trao trong đám tang. Chỉ xét khoản đã xác định này, đánh giá nào đúng?"
+        "Tháng 10/2026: Sau khi Lân chết, một người bạn tặng riêng 20 triệu cho vợ Lân bằng thỏa thuận rõ và đã giao tiền, không tặng cho Lân hay cho nhóm người thừa kế. Con Lân muốn liệt kê khoản này là di sản Lân chỉ vì được trao trong đám tang. Chỉ xét khoản đã xác định này, đánh giá nào đúng?",
+        "Tháng 10/2026: Sau khi ông Lân chết, bạn ông tặng riêng vợ ông 20 triệu đồng và đã giao tiền; ý chí tặng chỉ dành cho vợ, không phải tặng cho ông Lân hoặc cả gia đình. Việc trao tại tang lễ có tự làm khoản tiền thành di sản của ông không?",
+        "Tháng 10/2026: Người quản lý di sản đưa 20 triệu vào danh sách tài sản của ông Lân chỉ vì khoản tiền được trao khi lo tang lễ. Thực tế bạn ông tặng riêng vợ sau khi ông chết và đã chuyển tiền cho bà. Cần phân biệt thời điểm hình thành di sản và giao dịch tặng riêng như thế nào?"
       ]
     },
     "answers": [
@@ -1080,6 +1082,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {

@@ -3765,7 +3765,9 @@
     "questionForm": "true_false",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nhận định “chỉ cần quét bản giấy đã công chứng thành PDF thì PDF luôn có giá trị như bản gốc văn bản công chứng điện tử” đúng hay sai?"
+        "Tháng 10/2026: Nhận định “chỉ cần quét bản giấy đã công chứng thành PDF thì PDF luôn có giá trị như bản gốc văn bản công chứng điện tử” đúng hay sai?",
+        "Tháng 10/2026: Một bản công chứng giấy được quét thành PDF để gửi khách, chưa chứng minh đáp ứng quy định chuyển đổi. Có thể chỉ từ định dạng PDF kết luận đã có giá trị như bản gốc điện tử không?",
+        "Tháng 10/2026: Người tiếp nhận đồng nhất mọi ảnh quét văn bản công chứng với văn bản chuyển đổi hợp lệ. Nếu chưa kiểm tra điều kiện chuyển đổi và ngoại lệ luật định, nhận định nào đúng về giá trị của bản điện tử?"
       ]
     },
     "answers": [
@@ -3805,6 +3807,12 @@
       "id": "OFFICIAL-CC24",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3817,7 +3825,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tra cứu cơ sở dữ liệu thấy cảnh báo rủi ro chưa phải quyết định ngăn chặn; nguồn gốc cảnh báo và tình trạng hiện tại chưa rõ. Bước phù hợp trước khi quyết định công chứng là gì?"
+        "Tháng 10/2026: Tra cứu cơ sở dữ liệu thấy cảnh báo rủi ro chưa phải quyết định ngăn chặn; nguồn gốc cảnh báo và tình trạng hiện tại chưa rõ. Bước phù hợp trước khi quyết định công chứng là gì?",
+        "Tháng 10/2026: Cơ sở dữ liệu có cảnh báo về tài sản nhưng chưa rõ căn cứ, thời điểm cập nhật hoặc có phải quyết định ngăn chặn còn hiệu lực không. CCV nên xử lý thông tin này thế nào trước khi kết luận hồ sơ đủ điều kiện?",
+        "Tháng 10/2026: Một hồ sơ có cảnh báo chưa rõ bản chất trong cơ sở dữ liệu; khách đòi bỏ qua, còn nhân viên muốn tự coi là lệnh cấm vô thời hạn. Không có tài liệu xác định rõ hiệu lực ngăn chặn. Chọn hướng làm rõ và kiểm tra đúng."
       ]
     },
     "answers": [
@@ -3863,6 +3873,12 @@
       "id": "OFFICIAL-CC24",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3875,7 +3891,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nhân viên văn phòng định xuất thông tin đời sống riêng tư của khách từ cơ sở dữ liệu công chứng để bán danh sách quảng cáo, không có căn cứ pháp luật cho mục đích này. Đánh giá nào đúng?"
+        "Tháng 10/2026: Nhân viên văn phòng định xuất thông tin đời sống riêng tư của khách từ cơ sở dữ liệu công chứng để bán danh sách quảng cáo, không có căn cứ pháp luật cho mục đích này. Đánh giá nào đúng?",
+        "Tháng 10/2026: CCV được truy cập dữ liệu phục vụ hoạt động nghề nghiệp, nay muốn trích danh sách khách để bán cho đơn vị tiếp thị. Không có căn cứ cho việc sử dụng ngoài mục đích này. Quyền truy cập có bao gồm quyền thương mại hóa dữ liệu khách không?",
+        "Tháng 10/2026: Một tổ chức tiếp thị đề nghị mua danh sách giao dịch tra được từ cơ sở dữ liệu công chứng. CCV định viện dẫn tài khoản nghề nghiệp để cung cấp. Chọn nhận định đúng về bảo mật và phạm vi sử dụng thông tin."
       ]
     },
     "answers": [
@@ -3915,6 +3933,12 @@
       "id": "OFFICIAL-CC24",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3927,7 +3951,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên phát hiện giao dịch mình đã công chứng có dấu hiệu vi phạm pháp luật. Muốn xử lý hiệu lực văn bản, công chứng viên có thể tự ra quyết định tuyên vô hiệu thay Tòa án không?"
+        "Tháng 10/2026: Công chứng viên phát hiện giao dịch mình đã công chứng có dấu hiệu vi phạm pháp luật. Muốn xử lý hiệu lực văn bản, công chứng viên có thể tự ra quyết định tuyên vô hiệu thay Tòa án không?",
+        "Tháng 10/2026: Sau khi công chứng, CCV phát hiện dấu hiệu văn bản vi phạm pháp luật. CCV có thể tự ra quyết định tuyên vô hiệu hay phải sử dụng cơ chế yêu cầu cơ quan nào?",
+        "Tháng 10/2026: Một bên yêu cầu CCV đóng dấu tuyên văn bản công chứng vô hiệu ngay vì có dấu hiệu vi phạm. Nếu xét quyền của CCV theo Điều 54, cách xử lý nào phân biệt đúng quyền yêu cầu với quyền phán quyết?"
       ]
     },
     "answers": [
@@ -3966,6 +3992,12 @@
       "id": "OFFICIAL-CC24",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3978,7 +4010,9 @@
     "questionForm": "exception",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người bán không đọc được mời người cậu làm chứng cho hợp đồng bán xe. Người cậu có năng lực đầy đủ, đọc nghe ký được, không có quyền, lợi ích, nghĩa vụ liên quan và trực tiếp chứng kiến. Chỉ quan hệ họ hàng có làm người này bị loại theo Điều 49 không?"
+        "Tháng 10/2026: Người bán không đọc được mời người cậu làm chứng cho hợp đồng bán xe. Người cậu có năng lực đầy đủ, đọc nghe ký được, không có quyền, lợi ích, nghĩa vụ liên quan và trực tiếp chứng kiến. Chỉ quan hệ họ hàng có làm người này bị loại theo Điều 49 không?",
+        "Tháng 10/2026: Người bán xe không đọc được, chọn người chú làm chứng; người chú đủ năng lực, đọc nghe ký được, không có quyền, lợi ích hoặc nghĩa vụ liên quan và trực tiếp chứng kiến. Không phải di chúc. Quan hệ họ hàng tự nó có loại người làm chứng không?",
+        "Tháng 10/2026: Trong hợp đồng bán xe thông thường, người chú đáp ứng đầy đủ điều kiện làm chứng nhưng bị phản đối chỉ vì là họ hàng của người bán không đọc được. Không có lợi ích liên quan hoặc hạn chế khác. Nhận định nào đúng?"
       ]
     },
     "answers": [
@@ -4018,6 +4052,12 @@
       "id": "OFFICIAL-CC24",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4030,7 +4070,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền hằng năm, sở hữu hợp pháp nhà xưởng trên đất; muốn thế chấp cả quyền sử dụng đất và nhà xưởng. Chỉ xét loại quyền theo khoản 2 Điều 37, đối tượng nào được thế chấp?"
+        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền hằng năm, sở hữu hợp pháp nhà xưởng trên đất; muốn thế chấp cả quyền sử dụng đất và nhà xưởng. Chỉ xét loại quyền theo khoản 2 Điều 37, đối tượng nào được thế chấp?",
+        "Tháng 10/2026: Cá nhân được Nhà nước cho thuê đất trả tiền hằng năm, sở hữu hợp pháp nhà xưởng gắn liền trên đất. Có thể thế chấp nhà xưởng mà không coi quyền sử dụng đất thuê hằng năm là tài sản thế chấp cùng cơ chế không?",
+        "Tháng 10/2026: Một hồ sơ bảo đảm ghi đồng thời quyền sử dụng đất thuê Nhà nước trả tiền hằng năm và nhà xưởng do cá nhân sở hữu. Nếu chỉ xét quyền thế chấp tại điểm đ khoản 2 Điều 37, cần phân biệt hai đối tượng thế nào?"
       ]
     },
     "answers": [
@@ -4071,6 +4113,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4083,7 +4131,9 @@
     "questionForm": "choose_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân thuê lại đất trong khu công nghiệp, trả tiền một lần cho cả thời gian thuê, muốn thế chấp quyền sử dụng đất, tài sản sở hữu của mình. Chỉ xét chế độ quyền tại Điều 37, nhận định nào phù hợp?"
+        "Tháng 10/2026: Cá nhân thuê lại đất trong khu công nghiệp, trả tiền một lần cho cả thời gian thuê, muốn thế chấp quyền sử dụng đất, tài sản sở hữu của mình. Chỉ xét chế độ quyền tại Điều 37, nhận định nào phù hợp?",
+        "Tháng 10/2026: Cá nhân thuê lại đất trong khu công nghiệp, đã trả tiền một lần cho cả thời gian thuê. Khi xét quyền thế chấp, phải áp dụng nhánh trả một lần hay coi như thuê trả hằng năm?",
+        "Tháng 10/2026: Người thuê lại đất khu công nghiệp trả một lần toàn kỳ bị cho rằng tuyệt đối không có quyền thế chấp vì là thuê lại. Giả sử điều kiện giao dịch khác đủ, khoản 3 Điều 37 dẫn chiếu nhóm quyền nào?"
       ]
     },
     "answers": [
@@ -4131,6 +4181,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4143,7 +4199,9 @@
     "questionForm": "true_false",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân được Nhà nước giao đất và miễn tiền sử dụng đất nói rằng việc miễn tiền làm mình mất toàn bộ quyền chuyển nhượng dù các điều kiện khác đều đủ. Đánh giá nào đúng theo Điều 37?"
+        "Tháng 10/2026: Cá nhân được Nhà nước giao đất và miễn tiền sử dụng đất nói rằng việc miễn tiền làm mình mất toàn bộ quyền chuyển nhượng dù các điều kiện khác đều đủ. Đánh giá nào đúng theo Điều 37?",
+        "Tháng 10/2026: Cá nhân được giao đất có thu tiền sử dụng đất nhưng được miễn, giảm khoản tiền này. Việc miễn, giảm có tự loại các quyền, nghĩa vụ áp dụng như trường hợp không được miễn, giảm không?",
+        "Tháng 10/2026: Một người được giao đất có thu tiền và được giảm tiền sử dụng đất muốn suy ra được miễn mọi nghĩa vụ, trong khi người khác nói mất quyền giao dịch. Chỉ xét tác động của miễn, giảm theo khoản 4 Điều 37, chọn nhận định đúng."
       ]
     },
     "answers": [
@@ -4183,6 +4241,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4195,7 +4259,9 @@
     "questionForm": "synthesis",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân cư trú ở tỉnh A nhận chuyển nhượng đất ở tỉnh B, không thuộc ngoại lệ Điều 45 khoản 8 hoặc Điều 48. Người này yêu cầu văn phòng ở tỉnh A công chứng hợp đồng chuyển nhượng thông thường. Phân biệt nào đúng?"
+        "Tháng 10/2026: Cá nhân cư trú ở tỉnh A nhận chuyển nhượng đất ở tỉnh B, không thuộc ngoại lệ Điều 45 khoản 8 hoặc Điều 48. Người này yêu cầu văn phòng ở tỉnh A công chứng hợp đồng chuyển nhượng thông thường. Phân biệt nào đúng?",
+        "Tháng 10/2026: Cá nhân cư trú tỉnh A muốn nhận chuyển nhượng đất ở tỉnh B, giao dịch thông thường đủ điều kiện, không thuộc ngoại lệ hạn chế tại Điều 45 hoặc Điều 48. Nơi cư trú có ngăn nhận đất không, và địa hạt công chứng hợp đồng được xác định thế nào?",
+        "Tháng 10/2026: Các bên nhầm quyền nhận chuyển nhượng đất khác tỉnh với quyền công chứng ở bất kỳ tỉnh nào. Người mua ở A, đất ở B, không có hạn chế nhận chuyển nhượng riêng. Chọn cách phân biệt điều kiện người nhận và địa hạt công chứng."
       ]
     },
     "answers": [
@@ -4243,6 +4309,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4255,7 +4327,9 @@
     "questionForm": "exception",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tất cả người thừa kế quyền sử dụng đất đều là người nước ngoài thuộc trường hợp khoản 3 Điều 44, không được cấp giấy chứng nhận. Họ muốn chuyển nhượng di sản cho người đủ điều kiện. Ai đứng bên chuyển nhượng theo điều khoản này?"
+        "Tháng 10/2026: Tất cả người thừa kế quyền sử dụng đất đều là người nước ngoài thuộc trường hợp khoản 3 Điều 44, không được cấp giấy chứng nhận. Họ muốn chuyển nhượng di sản cho người đủ điều kiện. Ai đứng bên chuyển nhượng theo điều khoản này?",
+        "Tháng 10/2026: Tất cả người thừa kế đất là người nước ngoài thuộc trường hợp khoản 3 Điều 44, không được cấp giấy chứng nhận. Họ muốn chuyển nhượng cho người đủ điều kiện nhận. Có phải nhờ người khác đứng tên thay họ làm bên chuyển nhượng không?",
+        "Tháng 10/2026: Hồ sơ thừa kế có toàn bộ người nhận là người nước ngoài thuộc khoản 3 Điều 44. Họ chọn chuyển nhượng thay vì xin giấy chứng nhận. Trong giao dịch hợp lệ với người nhận đủ điều kiện, tư cách bên chuyển nhượng được ghi thế nào?"
       ]
     },
     "answers": [
@@ -4296,6 +4370,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4308,7 +4388,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tất cả người thừa kế thuộc nhóm không được cấp giấy chứng nhận tại khoản 3 Điều 44, chưa chuyển nhượng hoặc tặng cho đất thừa kế. Bước hồ sơ nào được luật quy định?"
+        "Tháng 10/2026: Tất cả người thừa kế thuộc nhóm không được cấp giấy chứng nhận tại khoản 3 Điều 44, chưa chuyển nhượng hoặc tặng cho đất thừa kế. Bước hồ sơ nào được luật quy định?",
+        "Tháng 10/2026: Toàn bộ người thừa kế thuộc nhóm không được cấp giấy chứng nhận tại khoản 3 Điều 44 nhưng chưa chuyển nhượng hoặc tặng cho. Ai có thể nộp hồ sơ nhận thừa kế để cập nhật sổ địa chính theo nhánh này?",
+        "Tháng 10/2026: Những người thừa kế thuộc khoản 3 Điều 44 chưa định đoạt quyền sử dụng đất và muốn thực hiện thủ tục cập nhật thừa kế. Người tiếp nhận đòi họ phải được cấp giấy chứng nhận trước. Chọn cách xử lý đúng đối với người nộp và mục đích hồ sơ."
       ]
     },
     "answers": [
@@ -4349,6 +4431,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4361,7 +4449,9 @@
     "questionForm": "synthesis",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản đất có một người thừa kế trong nước được nhận quyền đất và một người gốc Việt ở nước ngoài không thuộc diện được sở hữu nhà gắn với đất ở tại Việt Nam. Sau phân chia, cách xử lý quyền và giấy chứng nhận nào đúng?"
+        "Tháng 10/2026: Di sản đất có một người thừa kế trong nước được nhận quyền đất và một người gốc Việt ở nước ngoài không thuộc diện được sở hữu nhà gắn với đất ở tại Việt Nam. Sau phân chia, cách xử lý quyền và giấy chứng nhận nào đúng?",
+        "Tháng 10/2026: Cùng nhận thừa kế đất có người trong nước đủ điều kiện cấp giấy và người gốc Việt định cư ở nước ngoài không đủ điều kiện sở hữu nhà ở tại Việt Nam. Có thể cấp giấy như nhau cho cả hai hoặc loại quyền của người không đủ điều kiện không?",
+        "Tháng 10/2026: Một hồ sơ có đồng thừa kế thuộc hai nhóm: người đủ điều kiện cấp giấy và người gốc Việt ở nước ngoài không đủ điều kiện sở hữu nhà ở. Chọn cách áp dụng đồng thời khoản 4 và cơ chế khoản 3 Điều 44, thay vì xử lý cả nhóm như một loại."
       ]
     },
     "answers": [
@@ -4407,6 +4497,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4419,7 +4515,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thừa kế thuộc trường hợp điểm c khoản 3 Điều 44 chưa bán hoặc tặng cho đất, muốn ủy quyền bằng văn bản cho người ở Việt Nam trông nom, tạm sử dụng và thực hiện nghĩa vụ đất đai. Nhận định nào đúng?"
+        "Tháng 10/2026: Người thừa kế thuộc trường hợp điểm c khoản 3 Điều 44 chưa bán hoặc tặng cho đất, muốn ủy quyền bằng văn bản cho người ở Việt Nam trông nom, tạm sử dụng và thực hiện nghĩa vụ đất đai. Nhận định nào đúng?",
+        "Tháng 10/2026: Người thừa kế thuộc điểm c khoản 3 Điều 44 chưa chuyển nhượng, tặng cho đất. Có thể lập văn bản ủy quyền cho người chăm nom và tạm sử dụng tại Việt Nam, kèm thực hiện nghĩa vụ, mà không coi đó là chuyển quyền sở hữu không?",
+        "Tháng 10/2026: Một người thuộc nhóm thừa kế không cấp giấy theo khoản 3 Điều 44 muốn có người tại Việt Nam chăm nom đất khi chưa định đoạt. Chọn hình thức và phạm vi ủy quyền phù hợp, không biến người chăm nom thành chủ quyền sử dụng đất."
       ]
     },
     "answers": [
@@ -4459,6 +4557,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4471,7 +4575,9 @@
     "questionForm": "choose_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người sử dụng đất đã có giấy chứng nhận được cơ quan có thẩm quyền cho đổi tên hợp pháp, còn thửa đất và chủ thể không thay đổi. Theo danh mục Điều 133, thủ tục đất đai nào cần nhận diện?"
+        "Tháng 10/2026: Người sử dụng đất đã có giấy chứng nhận được cơ quan có thẩm quyền cho đổi tên hợp pháp, còn thửa đất và chủ thể không thay đổi. Theo danh mục Điều 133, thủ tục đất đai nào cần nhận diện?",
+        "Tháng 10/2026: Người sử dụng đất đổi tên hợp pháp, quyền và thửa đất không đổi, giấy chứng nhận đã cấp. Thủ tục ghi nhận tên mới thuộc đăng ký biến động hay đăng ký đất đai lần đầu?",
+        "Tháng 10/2026: Một cá nhân có giấy chứng nhận mang tên cũ sau khi đổi tên hợp pháp. Nhân viên muốn áp dụng đăng ký lần đầu hoặc chỉ cho phép đổi tên tổ chức. Chọn cách phân loại thay đổi này theo Điều 133."
       ]
     },
     "answers": [
@@ -4512,6 +4618,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4524,7 +4636,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người để lại đất chết tháng 1; đến tháng 9 các thừa kế mới phân chia xong quyền sử dụng đất, không có bản án hoặc quyết định của Tòa án. Mốc tính thời hạn đăng ký biến động thừa kế theo Điều 133 là gì?"
+        "Tháng 10/2026: Người để lại đất chết tháng 1; đến tháng 9 các thừa kế mới phân chia xong quyền sử dụng đất, không có bản án hoặc quyết định của Tòa án. Mốc tính thời hạn đăng ký biến động thừa kế theo Điều 133 là gì?",
+        "Tháng 10/2026: Người để lại đất chết tháng 1, đến tháng 9 mới phân chia xong quyền sử dụng đất thừa kế; không có bản án khác làm mốc. Thời hạn đăng ký biến động thừa kế được tính từ sự kiện nào?",
+        "Tháng 10/2026: Hồ sơ thừa kế hoàn thành việc phân chia đất tháng 9 sau cái chết tháng 1. Người nhận muốn chờ cấp giấy mới mới tính hạn, còn cán bộ tính luôn từ ngày chết. Chọn mốc riêng cho đăng ký biến động thừa kế trong trường hợp này."
       ]
     },
     "answers": [
@@ -4564,6 +4678,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4576,7 +4696,9 @@
     "questionForm": "synthesis",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng có đất chung, đã thỏa thuận ghi riêng tên chồng làm đại diện trên giấy chứng nhận. Chồng muốn bán không có thỏa thuận bằng văn bản của vợ và không có quyền đại diện định đoạt. Phân biệt nào đúng?"
+        "Tháng 10/2026: Vợ chồng có đất chung, đã thỏa thuận ghi riêng tên chồng làm đại diện trên giấy chứng nhận. Chồng muốn bán không có thỏa thuận bằng văn bản của vợ và không có quyền đại diện định đoạt. Phân biệt nào đúng?",
+        "Tháng 10/2026: Đất chung vợ chồng nhưng hai người thỏa thuận giấy chứng nhận ghi tên chồng đại diện. Không có sự đồng ý bằng văn bản của vợ hoặc đại diện hợp lệ để bán. Tên một người có tạo quyền tự định đoạt toàn bộ không?",
+        "Tháng 10/2026: Bên mua coi chồng là chủ riêng vì giấy chứng nhận chỉ tên chồng, dù hồ sơ xác định đó là đất chung và tên chồng được ghi theo thỏa thuận đại diện. Không có căn cứ đại diện định đoạt thay vợ. Nhận định nào đúng?"
       ]
     },
     "answers": [
@@ -4625,6 +4747,12 @@
         "OFFICIAL-HNGD-HN25"
       ],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4637,7 +4765,9 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ba người có chung quyền sử dụng một thửa đất, không yêu cầu cấp chung một giấy chứng nhận. Nguyên tắc cấp giấy tại khoản 2 Điều 135 là gì?"
+        "Tháng 10/2026: Ba người có chung quyền sử dụng một thửa đất, không yêu cầu cấp chung một giấy chứng nhận. Nguyên tắc cấp giấy tại khoản 2 Điều 135 là gì?",
+        "Tháng 10/2026: Ba người cùng có quyền sử dụng một thửa đất và không đề nghị cấp chung một giấy cho người đại diện. Việc cấp giấy cho mỗi người có quyền chung có đồng nghĩa phải tách thửa trước không?",
+        "Tháng 10/2026: Các đồng sử dụng đất không có yêu cầu nhận chung một giấy, nhưng cán bộ muốn chỉ cấp một giấy hoặc bắt tách đất để cấp từng người. Chỉ xét nguyên tắc cấp giấy cho quyền sử dụng chung tại khoản 2 Điều 135, lựa chọn nào đúng?"
       ]
     },
     "answers": [
@@ -4677,6 +4807,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4689,7 +4825,9 @@
     "questionForm": "exception",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đo lại thấy diện tích lớn hơn giấy chứng nhận nhưng ranh giới đã dịch chuyển sang đất liền kề. Chủ đất viện dẫn quy tắc công nhận diện tích đo thực tế để đương nhiên nhận toàn bộ phần tăng. Đánh giá nào đúng?"
+        "Tháng 10/2026: Đo lại thấy diện tích lớn hơn giấy chứng nhận nhưng ranh giới đã dịch chuyển sang đất liền kề. Chủ đất viện dẫn quy tắc công nhận diện tích đo thực tế để đương nhiên nhận toàn bộ phần tăng. Đánh giá nào đúng?",
+        "Tháng 10/2026: Đo lại thấy diện tích tăng nhưng ranh giới thực tế đã thay đổi sang phía thửa liền kề. Có thể áp dụng ngay quy tắc diện tích thực đo khi ranh giới không thay đổi và không tranh chấp không?",
+        "Tháng 10/2026: Người sử dụng muốn ghi nhận toàn bộ diện tích tăng sau đo, dù hồ sơ thể hiện ranh giới đã dịch chuyển so với khi cấp giấy. Nếu chỉ xét điều kiện áp dụng nhánh diện tích thực đo không nộp thêm tiền, cần đánh giá thế nào?"
       ]
     },
     "answers": [
@@ -4729,6 +4867,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4741,7 +4885,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân sử dụng đất chết, không có người nhận thừa kế, nhưng nghĩa vụ tài sản theo pháp luật dân sự chưa được thực hiện. Đề xuất thu hồi ngay theo điểm b khoản 1 Điều 82 bỏ qua nghĩa vụ đó có phù hợp không?"
+        "Tháng 10/2026: Cá nhân sử dụng đất chết, không có người nhận thừa kế, nhưng nghĩa vụ tài sản theo pháp luật dân sự chưa được thực hiện. Đề xuất thu hồi ngay theo điểm b khoản 1 Điều 82 bỏ qua nghĩa vụ đó có phù hợp không?",
+        "Tháng 10/2026: Người sử dụng đất là cá nhân đã chết không có người thừa kế, nhưng nghĩa vụ tài sản chưa thực hiện xong. Chỉ dựa vào việc không có người thừa kế có đủ để áp dụng ngay căn cứ thu hồi tại điểm b khoản 1 Điều 82 không?",
+        "Tháng 10/2026: Một đề xuất thu hồi ghi nhận cá nhân chết không có người thừa kế nhưng bỏ qua điều kiện hoàn thành nghĩa vụ tài sản. Nghĩa vụ vẫn chưa xong. Chọn cách xét đủ điều kiện của chính căn cứ thu hồi này."
       ]
     },
     "answers": [
@@ -4782,6 +4928,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4794,7 +4946,9 @@
     "questionForm": "exception",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai cá nhân trực tiếp thuê đất nông nghiệp của Nhà nước trả tiền hằng năm muốn dùng thủ tục chuyển đổi quyền sử dụng đất theo Điều 47. Họ nói cùng tỉnh là đủ. Điều gì phải phân biệt?"
+        "Tháng 10/2026: Hai cá nhân trực tiếp thuê đất nông nghiệp của Nhà nước trả tiền hằng năm muốn dùng thủ tục chuyển đổi quyền sử dụng đất theo Điều 47. Họ nói cùng tỉnh là đủ. Điều gì phải phân biệt?",
+        "Tháng 10/2026: Hai cá nhân muốn đổi đất nông nghiệp trong cùng tỉnh; cả hai thửa đều do Nhà nước cho thuê trả tiền hằng năm, không thuộc nguồn đất được Điều 47 liệt kê. Cùng tỉnh có đủ hợp pháp hóa chuyển đổi không?",
+        "Tháng 10/2026: Hồ sơ viện dẫn địa bàn cùng tỉnh để chuyển đổi hai thửa đất nông nghiệp thuê Nhà nước trả tiền hằng năm. Không có nguồn sử dụng đất khác thuộc Điều 47. Cần xét nguồn gốc quyền sử dụng bên cạnh điều kiện địa bàn như thế nào?"
       ]
     },
     "answers": [
@@ -4839,6 +4993,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingSourceIds": [],
       "note": "Biên soạn từng tình huống; chứng cứ điều khoản tại reports/refinement-legal-evidence-2026.json và refinement-provisions-2026.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]

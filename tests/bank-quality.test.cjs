@@ -8,7 +8,7 @@ test('60-question refinement batch retains authored variants, individual review 
  const drafts=read('editorial/refinement-variants-2026-10-09.json');
  const proofs=new Map(read('reports/refinement-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
  const ids=[...Array.from({length:40},(_,i)=>`REFIN26-CC-${String(i+1).padStart(3,'0')}`),...Array.from({length:20},(_,i)=>`REFIN26-QT-${String(i+1).padStart(3,'0')}`)];
- assert.deepEqual(Object.keys(drafts).sort(),ids.slice().sort());
+ assert.ok(ids.every(id=>Object.hasOwn(drafts,id)));
  assert.deepEqual(Object.keys(worksheet.reviews).sort(),ids.slice().sort());
  assert.ok(report.editoriallyReviewedQuestions>=343);
  assert.ok(report.remainingQuestions<=240);
@@ -25,6 +25,41 @@ test('60-question refinement batch retains authored variants, individual review 
   assert.equal(q.lastVerified,d.before.lastVerified,id);
   assert.ok(!report.remainingIds.includes(id),id);
  }
+});
+test('100-question continuation adds exactly 200 authored stems and excludes archived completion',()=>{
+ const report=read('reports/substantive-variants-2026-10-09.json');
+ const sheet=read('editorial/variant-batch-100-2026-10-09.json');
+ const ids=[...read('data/completion-2026.json').filter(q=>q.status==='active').map(q=>q.id),...Array.from({length:5},(_,i)=>`REFIN26-QT-${String(i+21).padStart(3,'0')}`),...Array.from({length:15},(_,i)=>`REFIN26-DAT-${String(i+1).padStart(3,'0')}`),'INH26-015'].sort();
+ assert.equal(ids.length,100);
+ assert.deepEqual(Object.keys(sheet.reviews).sort(),ids);
+ assert.deepEqual(Object.keys(sheet.answerKeys).sort(),ids);
+ assert.equal(report.editoriallyReviewedQuestions,443);
+ assert.equal(report.remainingQuestions,140);
+ assert.equal(report.activeCount,594);
+ assert.equal(report.activeVariantStrings,1502);
+ assert.equal(report.newlyAuthoredVariants,886);
+ assert.deepEqual(report.latestBatch.ids,ids);
+ assert.equal(report.latestBatch.authoredVariants,200);
+ const drafts={...read('editorial/completion-variants-2026-10-09.json'),...read('editorial/refinement-variants-2026-10-09.json'),...read('editorial/inheritance-variants-2026-10-09.json')};
+ const proofs=new Map(['completion','refinement','inheritance'].flatMap(g=>read(`reports/${g}-legal-evidence-2026.json`).questions).map(q=>[q.id,q]));
+ for(const id of ids){
+  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id);
+  assert.equal(q.status,'active',id);
+  assert.equal(d.before.question.variants.length,1,id);
+  assert.equal(q.question.variants[0],d.before.question.variants[0],id);
+  assert.deepEqual(q.question.variants.slice(1),drafts[id].map(v=>'Tháng 10/2026: '+v),id);
+  assert.equal(q.lastVerified,d.before.lastVerified,id);
+  assert.deepEqual(q.source,d.before.source,id);
+  assert.equal(d.editorialReasoning,sheet.reviews[id],id);
+  assert.equal(d.answerKey,sheet.answerKeys[id],id);
+  assert.deepEqual(q.legalBasis,proofs.get(id).provisions.map(p=>p.reference),id);
+  if(proofs.get(id).answer)assert.equal(d.answerKey,proofs.get(id).answer,id);
+  assert.ok(sheet.reviews[id].length>40,id);
+  assert.equal(new Set(q.question.variants).size,3,id);
+ }
+ assert.ok(!Object.hasOwn(drafts,'COMP26-DAT-002'));
+ assert.equal(bank.find(q=>q.id==='COMP26-DAT-002').question.variants.length,1);
+ assert.deepEqual(report.remainingIds.filter(id=>id.startsWith('INH26-')).sort(),Array.from({length:17},(_,i)=>`INH26-${String(i+16).padStart(3,'0')}`));
 });
 test('substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');

@@ -20,14 +20,14 @@ Giữ nguyên ID, số câu active, bốn đáp án, khóa, giải thích, căn 
 
 ## Hồ sơ và kiểm tra
 
-- [120 lời dẫn biên soạn theo ID](../editorial/refinement-variants-2026-10-09.json).
+- [120 lời dẫn biên soạn theo ID ở mốc đợt 60](https://github.com/hunghvt-cyber/CongchungVND/blob/251932916a9ea5f1422338a82bf734b3fe482960/editorial/refinement-variants-2026-10-09.json).
 - [Khóa đối chiếu, nhận xét 60 câu và nguồn chính thức](../editorial/variant-batch-60-2026-10-09.json).
-- [Hồ sơ tích lũy cùng bản trước chỉnh và 240 ID còn lại](substantive-variants-2026-10-09.json).
+- [Hồ sơ cùng bản trước chỉnh và 240 ID còn lại ở mốc đợt 60](https://github.com/hunghvt-cyber/CongchungVND/blob/251932916a9ea5f1422338a82bf734b3fe482960/reports/substantive-variants-2026-10-09.json).
 - [Chứng cứ điều khoản gốc của REFIN26](refinement-legal-evidence-2026.json) và [sổ điều khoản](refinement-provisions-2026.json).
 - [Kiểm thử ứng dụng, ngân hàng và lịch sử tiến bộ](variant-batch-60-tests-2026-10-09.tap); có thêm kiểm tra riêng cho phạm vi 60 câu, lời dẫn, khóa và hồ sơ.
 
 Đã mở bản Luật Công chứng 46/2024 công bố chính thức và kiểm tra ngày hiệu lực của Luật sửa đổi 04/2026: 01/01/2027. Lời dẫn tháng 10/2026 không được trả lời bằng sửa đổi năm 2027. Đây là rà soát biên tập và điều khoản viện dẫn, không tự gán READY hoặc chứng nhận pháp lý toàn bộ 594 câu.
 
-[Kiểm kê cập nhật](bank-audit-variants-2026-10-09.json) và [đo dung lượng](variant-payload-2026-10-09.json) được chạy lại. 11 tệp ngân hàng có 1.670.489 byte, tăng 58.511 byte so với đợt 40 câu. Gzip thử khoảng 218.366 byte; JSON được phân tích trung bình khoảng 4,34 ms trên Node cục bộ qua 50 vòng. Các số đo này không xác nhận nén máy chủ hay tốc độ mạng, điện thoại. Ứng dụng không tải tệp hồ sơ/biên tập khi làm đề.
+[Kiểm kê tại mốc đợt 60](https://github.com/hunghvt-cyber/CongchungVND/blob/251932916a9ea5f1422338a82bf734b3fe482960/reports/bank-audit-variants-2026-10-09.json) và [đo dung lượng tại mốc đó](https://github.com/hunghvt-cyber/CongchungVND/blob/251932916a9ea5f1422338a82bf734b3fe482960/reports/variant-payload-2026-10-09.json) được chạy lại. 11 tệp ngân hàng có 1.670.489 byte, tăng 58.511 byte so với đợt 40 câu. Gzip thử khoảng 218.366 byte; JSON được phân tích trung bình khoảng 4,34 ms trên Node cục bộ qua 50 vòng. Các số đo này không xác nhận nén máy chủ hay tốc độ mạng, điện thoại. Ứng dụng không tải tệp hồ sơ/biên tập khi làm đề.
 
 Kiểm thử là Node và DOM giả lập, không thay kiểm tra tương tác thực trên điện thoại. Cập nhật ngân hàng thay dấu vân tay CC2; cần tạo mã đề mới để cả nhóm sử dụng cùng phiên bản.

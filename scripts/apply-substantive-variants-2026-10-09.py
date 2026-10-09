@@ -21,6 +21,7 @@ GROUPS = [
     ('family', 'imported-family-2026.json', 'family-legal-evidence-2026.json'),
     ('inheritance', 'imported-inheritance-2026.json', 'inheritance-legal-evidence-2026.json'),
     ('refinement', 'refinement-2026.json', 'refinement-legal-evidence-2026.json'),
+    ('completion', 'completion-2026.json', 'completion-legal-evidence-2026.json'),
 ]
 
 def read(path):
@@ -41,6 +42,7 @@ prior = {row['id']: row for row in previous['decisions']}
 worksheets = [
     ('editorial/variant-batch-40-2026-10-09.json', 40),
     ('editorial/variant-batch-60-2026-10-09.json', 60),
+    ('editorial/variant-batch-100-2026-10-09.json', 100),
 ]
 batch_reviews = {}
 batch_keys = {}
@@ -68,9 +70,9 @@ for group, filename, evidence_file in GROUPS:
     expected_ids = active_ids & batch_scope if group in ('family', 'inheritance', 'refinement') else active_ids
     assert set(additions) == expected_ids, group
     if group in ('family', 'inheritance'):
-        assert len(additions) == (26 if group == 'family' else 14), group
+        assert len(additions) == (26 if group == 'family' else 15), group
     if group == 'refinement':
-        assert len(additions) == 60, group
+        assert len(additions) == 80, group
     for q in bank:
         if q['id'] not in additions:
             continue
@@ -172,7 +174,7 @@ report = {'date': DATE, 'phaseStatus': 'INCOMPLETE', 'initialScope': len(initial
           'allActiveLegallyRecertified': False, 'remainingIds': remaining, 'decisions': decisions}
 assert batch_scope <= done
 report['batches'] = [
-    {'id': 'family-inheritance-40-2026-10-09' if size == 40 else 'refinement-60-2026-10-09',
+    {'id': {40: 'family-inheritance-40-2026-10-09', 60: 'refinement-60-2026-10-09', 100: 'completion-refinement-inheritance-100-2026-10-09'}[size],
      'questions': size, 'authoredVariants': size * 2,
      'ids': sorted(read(worksheet)['reviews']), 'worksheet': worksheet}
     for worksheet, size in worksheets
