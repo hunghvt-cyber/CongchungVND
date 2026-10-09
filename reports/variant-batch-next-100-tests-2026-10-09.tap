@@ -1,0 +1,352 @@
+TAP version 13
+# Subtest: all repaired pending questions work in practice and mock; retired duplicates stay excluded
+ok 1 - all repaired pending questions work in practice and mock; retired duplicates stay excluded
+  ---
+  duration_ms: 49.556529
+  type: 'test'
+  ...
+# Subtest: only active/verified questions enter either mode, unavailable part stays in setup
+ok 2 - only active/verified questions enter either mode, unavailable part stays in setup
+  ---
+  duration_ms: 3.938275
+  type: 'test'
+  ...
+# Subtest: question variants and displayed answer order stay fixed on revisit
+ok 3 - question variants and displayed answer order stay fixed on revisit
+  ---
+  duration_ms: 2.015989
+  type: 'test'
+  ...
+# Subtest: incorrect practice answers stay locked on revisit and cannot change score
+ok 4 - incorrect practice answers stay locked on revisit and cannot change score
+  ---
+  duration_ms: 1.505549
+  type: 'test'
+  ...
+# Subtest: multiple choice scoring requires the entire correct set with no extras
+ok 5 - multiple choice scoring requires the entire correct set with no extras
+  ---
+  duration_ms: 2.670585
+  type: 'test'
+  ...
+# Subtest: results include correct, wrong and unanswered questions with explanations/basis/feedback
+ok 6 - results include correct, wrong and unanswered questions with explanations/basis/feedback
+  ---
+  duration_ms: 3.064739
+  type: 'test'
+  ...
+# Subtest: answer labels in review follow shuffled positions instead of original IDs
+ok 7 - answer labels in review follow shuffled positions instead of original IDs
+  ---
+  duration_ms: 2.099694
+  type: 'test'
+  ...
+# Subtest: deadline uses elapsed time, auto-submits once and rejects late selections
+ok 8 - deadline uses elapsed time, auto-submits once and rejects late selections
+  ---
+  duration_ms: 1.590587
+  type: 'test'
+  ...
+# Subtest: deselecting all multiple answers removes answered count, switching mode stops timer
+ok 9 - deselecting all multiple answers removes answered count, switching mode stops timer
+  ---
+  duration_ms: 1.651659
+  type: 'test'
+  ...
+# Subtest: feedback on separate answer cards sends central receipt, validates text and handles offline/local failure
+ok 10 - feedback on separate answer cards sends central receipt, validates text and handles offline/local failure
+  ---
+  duration_ms: 3.331151
+  type: 'test'
+  ...
+# Subtest: real published bank has unique IDs and only reviewed content enters either mode
+ok 11 - real published bank has unique IDs and only reviewed content enters either mode
+  ---
+  duration_ms: 144.772331
+  type: 'test'
+  ...
+# Subtest: loader loads validated bank, rejects corrupt/duplicate data, and leaves stored history intact
+ok 12 - loader loads validated bank, rejects corrupt/duplicate data, and leaves stored history intact
+  ---
+  duration_ms: 31.751784
+  type: 'test'
+  ...
+# Subtest: one shared code reproduces full exam in independent sessions with separate answers/deadlines
+ok 13 - one shared code reproduces full exam in independent sessions with separate answers/deadlines
+  ---
+  duration_ms: 322.938305
+  type: 'test'
+  ...
+# Subtest: sharing records actual capped count and supports both parts and all durations
+ok 14 - sharing records actual capped count and supports both parts and all durations
+  ---
+  duration_ms: 18.62894
+  type: 'test'
+  ...
+# Subtest: bad codes, old codes and changed bank are rejected without starting/resetting an attempt
+ok 15 - bad codes, old codes and changed bank are rejected without starting/resetting an attempt
+  ---
+  duration_ms: 2.745258
+  type: 'test'
+  ...
+# Subtest: changes to pending questions cannot change a shared eligible exam
+ok 16 - changes to pending questions cannot change a shared eligible exam
+  ---
+  duration_ms: 2.460048
+  type: 'test'
+  ...
+# Subtest: offline feedback stays pending; retry uses same UUID and duplicate acknowledgement is accepted
+ok 17 - offline feedback stays pending; retry uses same UUID and duplicate acknowledgement is accepted
+  ---
+  duration_ms: 2.186185
+  type: 'test'
+  ...
+# Subtest: server error does not falsely acknowledge feedback, local storage failure still permits central send
+ok 18 - server error does not falsely acknowledge feedback, local storage failure still permits central send
+  ---
+  duration_ms: 2.563684
+  type: 'test'
+  ...
+# Subtest: imported questions work in both parts, practice explanations and full mock scoring
+ok 19 - imported questions work in both parts, practice explanations and full mock scoring
+  ---
+  duration_ms: 102.649688
+  type: 'test'
+  ...
+# Subtest: deposit bank practices with explanations and grades a complete 18-question mock
+ok 20 - deposit bank practices with explanations and grades a complete 18-question mock
+  ---
+  duration_ms: 20.144914
+  type: 'test'
+  ...
+# Subtest: authorization bank grades all 20 cases and retains explanations in practice and mock
+ok 21 - authorization bank grades all 20 cases and retains explanations in practice and mock
+  ---
+  duration_ms: 23.55206
+  type: 'test'
+  ...
+# Subtest: family bank grades all 26 cases, explains incorrect answers and preserves saved history
+ok 22 - family bank grades all 26 cases, explains incorrect answers and preserves saved history
+  ---
+  duration_ms: 34.419541
+  type: 'test'
+  ...
+# Subtest: inheritance bank grades all 32 cases and explains wrong practice answers without modifying existing keys
+ok 23 - inheritance bank grades all 32 cases and explains wrong practice answers without modifying existing keys
+  ---
+  duration_ms: 38.964691
+  type: 'test'
+  ...
+# Subtest: completion cases load in both parts, grade correctly after shuffling, and keep prior snapshots
+ok 24 - completion cases load in both parts, grade correctly after shuffling, and keep prior snapshots
+  ---
+  duration_ms: 85.455256
+  type: 'test'
+  ...
+# Subtest: all refinement cases work in practice, mixed-answer mocks and unchanged previous history
+ok 25 - all refinement cases work in practice, mixed-answer mocks and unchanged previous history
+  ---
+  duration_ms: 81.509618
+  type: 'test'
+  ...
+# Subtest: three successive exams avoid repeats until exhausted, in both actual parts
+ok 26 - three successive exams avoid repeats until exhausted, in both actual parts
+  ---
+  duration_ms: 20529.056748
+  type: 'test'
+  ...
+# Subtest: shared joins record history but do not let history change reproduced exam
+ok 27 - shared joins record history but do not let history change reproduced exam
+  ---
+  duration_ms: 28.96064
+  type: 'test'
+  ...
+# Subtest: learner histories are isolated and all-part practice shares its recent questions with mocks
+ok 28 - learner histories are isolated and all-part practice shares its recent questions with mocks
+  ---
+  duration_ms: 23.843047
+  type: 'test'
+  ...
+# Subtest: legacy anonymous history migrates and storage corruption/unavailability cannot block an exam
+ok 29 - legacy anonymous history migrates and storage corruption/unavailability cannot block an exam
+  ---
+  duration_ms: 19.308367
+  type: 'test'
+  ...
+# Subtest: CC1 compatibility remains exact with the original generator
+ok 30 - CC1 compatibility remains exact with the original generator
+  ---
+  duration_ms: 22.048282
+  type: 'test'
+  ...
+# Subtest: CC2 rejects duplicate/out-of-range positions and wrong counts even with a valid checksum
+ok 31 - CC2 rejects duplicate/out-of-range positions and wrong counts even with a valid checksum
+  ---
+  duration_ms: 3.605664
+  type: 'test'
+  ...
+# Subtest: same legal competence is avoided where alternatives exist; balanced selection includes each topic
+ok 32 - same legal competence is avoided where alternatives exist; balanced selection includes each topic
+  ---
+  duration_ms: 4.076073
+  type: 'test'
+  ...
+# Subtest: new bank includes four answers, substantive variant review metadata and unchanged correct keys
+ok 33 - new bank includes four answers, substantive variant review metadata and unchanged correct keys
+  ---
+  duration_ms: 0.430379
+  type: 'test'
+  ...
+# Subtest: 60-question refinement batch retains authored variants, individual review and independent evidence keys
+ok 34 - 60-question refinement batch retains authored variants, individual review and independent evidence keys
+  ---
+  duration_ms: 22.122614
+  type: 'test'
+  ...
+# Subtest: 100-question continuation adds exactly 200 authored stems and excludes archived completion
+ok 35 - 100-question continuation adds exactly 200 authored stems and excludes archived completion
+  ---
+  duration_ms: 31.80675
+  type: 'test'
+  ...
+# Subtest: next 100-question batch preserves complete original records, independent keys and deferred scope
+ok 36 - next 100-question batch preserves complete original records, independent keys and deferred scope
+  ---
+  duration_ms: 33.318509
+  type: 'test'
+  ...
+# Subtest: substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register
+ok 37 - substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register
+  ---
+  duration_ms: 25.971455
+  type: 'test'
+  ...
+# Subtest: every previously pending stored question has a specific editorial decision and linked evidence
+ok 38 - every previously pending stored question has a specific editorial decision and linked evidence
+  ---
+  duration_ms: 3.301125
+  type: 'test'
+  ...
+# Subtest: inheritance cases link specific source branches and verified current provisions
+ok 39 - inheritance cases link specific source branches and verified current provisions
+  ---
+  duration_ms: 6.171101
+  type: 'test'
+  ...
+# Subtest: family cases link reviewed source branches, current article evidence and independent keys
+ok 40 - family cases link reviewed source branches, current article evidence and independent keys
+  ---
+  duration_ms: 1.994126
+  type: 'test'
+  ...
+# Subtest: authorization cases carry precise legal evidence and never duplicate the source appendix
+ok 41 - authorization cases carry precise legal evidence and never duplicate the source appendix
+  ---
+  duration_ms: 1.57875
+  type: 'test'
+  ...
+# Subtest: all stored IDs and answer IDs are unique; single questions have exactly one key
+ok 42 - all stored IDs and answer IDs are unique; single questions have exactly one key
+  ---
+  duration_ms: 1.205376
+  type: 'test'
+  ...
+# Subtest: 80 independently authored completion cases have exact keys and linked article evidence
+ok 43 - 80 independently authored completion cases have exact keys and linked article evidence
+  ---
+  duration_ms: 6.102057
+  type: 'test'
+  ...
+# Subtest: active citations are linked and future rules require an explicit application date
+ok 44 - active citations are linked and future rules require an explicit application date
+  ---
+  duration_ms: 2.08953
+  type: 'test'
+  ...
+# Subtest: 80 refinement cases resolve every reference to statutory evidence and one dated key
+ok 45 - 80 refinement cases resolve every reference to statutory evidence and one dated key
+  ---
+  duration_ms: 5.521001
+  type: 'test'
+  ...
+# Subtest: later duplicate decisions retain IDs and keys while excluding all three from new sessions
+ok 46 - later duplicate decisions retain IDs and keys while excluding all three from new sessions
+  ---
+  duration_ms: 0.483989
+  type: 'test'
+  ...
+# Subtest: eligible questions have distinct stems, explanations, registered sources and dated future law
+ok 47 - eligible questions have distinct stems, explanations, registered sources and dated future law
+  ---
+  duration_ms: 27.770276
+  type: 'test'
+  ...
+# Subtest: new cases each carry traceable article evidence and precise references
+ok 48 - new cases each carry traceable article evidence and precise references
+  ---
+  duration_ms: 5.438668
+  type: 'test'
+  ...
+# Subtest: mechanical expansion cannot enter practice or exams
+ok 49 - mechanical expansion cannot enter practice or exams
+  ---
+  duration_ms: 0.543799
+  type: 'test'
+  ...
+# Subtest: deposit cases have article evidence and linked source provenance; appendix stays review
+ok 50 - deposit cases have article evidence and linked source provenance; appendix stays review
+  ---
+  duration_ms: 1.28045
+  type: 'test'
+  ...
+# Subtest: imported exams preserve every source item and certify only linked adapted questions
+ok 51 - imported exams preserve every source item and certify only linked adapted questions
+  ---
+  duration_ms: 10.198887
+  type: 'test'
+  ...
+# Subtest: names normalize case/spacing but access uses random secret; same name on new device is isolated
+ok 52 - names normalize case/spacing but access uses random secret; same name on new device is isolated
+  ---
+  duration_ms: 2.265325
+  type: 'test'
+  ...
+# Subtest: snapshot preserves exact submitted answers, explanations and elapsed time
+ok 53 - snapshot preserves exact submitted answers, explanations and elapsed time
+  ---
+  duration_ms: 0.884493
+  type: 'test'
+  ...
+# Subtest: offline attempt remains queued with same receipt, retry duplicate ack clears queue
+ok 54 - offline attempt remains queued with same receipt, retry duplicate ack clears queue
+  ---
+  duration_ms: 1.837739
+  type: 'test'
+  ...
+# Subtest: local storage failure does not prevent central acknowledgement
+ok 55 - local storage failure does not prevent central acknowledgement
+  ---
+  duration_ms: 0.977884
+  type: 'test'
+  ...
+# Subtest: weak topics use last five attempts and include unanswered questions; HTML is escaped
+ok 56 - weak topics use last five attempts and include unanswered questions; HTML is escaped
+  ---
+  duration_ms: 14.451081
+  type: 'test'
+  ...
+# Subtest: history pagination handles more than 100 results, secret header is mandatory in every request
+ok 57 - history pagination handles more than 100 results, secret header is mandatory in every request
+  ---
+  duration_ms: 2.728602
+  type: 'test'
+  ...
+1..57
+# tests 57
+# suites 0
+# pass 57
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 21906.927699

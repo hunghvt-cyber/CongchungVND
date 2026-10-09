@@ -33,13 +33,12 @@ test('100-question continuation adds exactly 200 authored stems and excludes arc
  assert.equal(ids.length,100);
  assert.deepEqual(Object.keys(sheet.reviews).sort(),ids);
  assert.deepEqual(Object.keys(sheet.answerKeys).sort(),ids);
- assert.equal(report.editoriallyReviewedQuestions,443);
- assert.equal(report.remainingQuestions,140);
+ assert.ok(report.editoriallyReviewedQuestions>=443);
+ assert.ok(report.remainingQuestions<=140);
  assert.equal(report.activeCount,594);
- assert.equal(report.activeVariantStrings,1502);
- assert.equal(report.newlyAuthoredVariants,886);
- assert.deepEqual(report.latestBatch.ids,ids);
- assert.equal(report.latestBatch.authoredVariants,200);
+ const batch=report.batches.find(b=>b.id==='completion-refinement-inheritance-100-2026-10-09');
+ assert.deepEqual(batch.ids,ids);
+ assert.equal(batch.authoredVariants,200);
  const drafts={...read('editorial/completion-variants-2026-10-09.json'),...read('editorial/refinement-variants-2026-10-09.json'),...read('editorial/inheritance-variants-2026-10-09.json')};
  const proofs=new Map(['completion','refinement','inheritance'].flatMap(g=>read(`reports/${g}-legal-evidence-2026.json`).questions).map(q=>[q.id,q]));
  for(const id of ids){
@@ -59,7 +58,58 @@ test('100-question continuation adds exactly 200 authored stems and excludes arc
  }
  assert.ok(!Object.hasOwn(drafts,'COMP26-DAT-002'));
  assert.equal(bank.find(q=>q.id==='COMP26-DAT-002').question.variants.length,1);
- assert.deepEqual(report.remainingIds.filter(id=>id.startsWith('INH26-')).sort(),Array.from({length:17},(_,i)=>`INH26-${String(i+16).padStart(3,'0')}`));
+ assert.ok(report.remainingIds.filter(id=>id.startsWith('INH26-')).every(id=>Number(id.slice(-3))>=16));
+});
+test('next 100-question batch preserves complete original records, independent keys and deferred scope',()=>{
+ const report=read('reports/substantive-variants-2026-10-09.json');
+ const scope=read('editorial/variant-batch-next-100-scope-2026-10-09.json');
+ const sheet=read('editorial/variant-batch-next-100-2026-10-09.json');
+ const ids=scope.ids.slice().sort();
+ assert.equal(ids.length,100);assert.equal(new Set(ids).size,100);
+ assert.equal(ids.filter(id=>id.startsWith('INH26-')).length,17);
+ assert.equal(ids.filter(id=>id.startsWith('IMP-')).length,83);
+ assert.deepEqual(Object.keys(sheet.reviews).sort(),ids);
+ assert.deepEqual(Object.keys(sheet.answerKeys).sort(),ids);
+ assert.equal(report.editoriallyReviewedQuestions,543);
+ assert.equal(report.remainingQuestions,40);
+ assert.equal(report.activeCount,594);
+ assert.equal(report.activeVariantStrings,1702);
+ assert.equal(report.newlyAuthoredVariants,1086);
+ assert.equal(eligible.filter(q=>q.question.variants.length===3).length,554);
+ assert.deepEqual(report.latestBatch.ids,ids);
+ assert.equal(report.latestBatch.authoredVariants,200);
+ const drafts={...read('editorial/inheritance-variants-2026-10-09.json'),...read('editorial/exams-variants-2026-10-09.json')};
+ const proofs=new Map(['inheritance','exam'].flatMap(g=>read(`reports/${g}-legal-evidence-2026.json`).questions).map(q=>[q.id,q]));
+ for(const id of ids){
+  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id);
+  assert.equal(q.status,'active',id);assert.equal(d.before.question.variants.length,1,id);
+  assert.equal(q.question.variants[0],d.before.question.variants[0],id);
+  assert.deepEqual(q.question.variants.slice(1),drafts[id].map(v=>'Tháng 10/2026: '+v),id);
+  assert.equal(d.answerKey,sheet.answerKeys[id],id);
+  assert.equal(q.answers.find(a=>a.correct).id,sheet.answerKeys[id],id);
+  assert.equal(d.editorialReasoning,sheet.reviews[id],id);
+  assert.deepEqual(q.legalBasis,proofs.get(id).provisions.map(p=>p.reference),id);
+  assert.ok(proofs.get(id).provisions.every(p=>p.evidenceExcerpt.length>100),id);
+  const restored=structuredClone(q);restored.question.variants=d.before.question.variants;
+  const addedAudit=['variantReviewDate','variantReviewStatus','variantEvidenceReport','legalReviewStatus'];
+  for(const name of addedAudit)delete restored.audit[name];
+  Object.assign(restored.audit,d.before.audit||{});
+  if(!d.before.audit&&Object.keys(restored.audit).length===0)delete restored.audit;
+  assert.deepEqual(restored,d.before,id);
+  assert.ok(sheet.reviews[id].length>80,id);
+ }
+ assert.deepEqual(report.remainingIds.filter(id=>id.startsWith('INH26-')),[]);
+ assert.ok(report.remainingIds.includes('IMP-T60-038'));
+ assert.ok(!ids.includes('IMP-T60-038'));assert.ok(ids.includes('IMP-T60-096'));
+ assert.equal(bank.find(q=>q.id==='IMP-T60-038').question.variants.length,1);
+ const deferred=read('editorial/variant-next-100-follow-up-2026-10-09.json').items;
+ assert.equal(deferred.length,5);
+ for(const note of deferred){
+  assert.ok(!ids.includes(note.id),note.id);
+  assert.ok(report.remainingIds.includes(note.id),note.id);
+  assert.equal(bank.find(q=>q.id===note.id).question.variants.length,1,note.id);
+  assert.equal(note.appliedInThisBatch,false,note.id);
+ }
 });
 test('substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');

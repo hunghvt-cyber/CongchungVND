@@ -1100,7 +1100,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di chúc hợp pháp cho Hân riêng một căn nhà theo hiện vật. Nhà có giá 1 tỷ khi mở thừa kế, còn 800 triệu khi chia do thị trường; tiền thuê thuần phát sinh từ nhà trong thời gian chờ chia là 60 triệu, chưa chia cho ai. Không có nợ, phần bắt buộc hay thỏa thuận khác. Quyền của Hân theo cơ chế chia hiện vật là gì?"
+        "Tháng 10/2026: Di chúc hợp pháp cho Hân riêng một căn nhà theo hiện vật. Nhà có giá 1 tỷ khi mở thừa kế, còn 800 triệu khi chia do thị trường; tiền thuê thuần phát sinh từ nhà trong thời gian chờ chia là 60 triệu, chưa chia cho ai. Không có nợ, phần bắt buộc hay thỏa thuận khác. Quyền của Hân theo cơ chế chia hiện vật là gì?",
+        "Tháng 10/2026: Hân được di chúc hợp pháp cho riêng căn nhà; sau khi mở thừa kế, nhà từ 1 tỷ giảm còn 800 triệu do thị trường và sinh 60 triệu tiền thuê thuần chưa phân phối. Không có nợ, phần bắt buộc hay thỏa thuận khác. Người quản lý định giao nhà cho Hân nhưng giữ tiền thuê chia cho mọi người. Phương án nào đúng?",
+        "Tháng 10/2026: Khi lập bảng giao di sản cho Hân, cần xử lý đồng thời căn nhà được chỉ định và lợi tức của nó: giá mở thừa kế 1 tỷ, giá lúc chia 800 triệu do thị trường, tiền thuê thuần trong thời gian chờ chia 60 triệu chưa chia. Di chúc hợp pháp, không nợ, không phần bắt buộc, không thỏa thuận khác. Cách phân bổ nào phù hợp?"
       ]
     },
     "answers": [
@@ -1142,6 +1144,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1154,7 +1162,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di chúc chỉ cho Hân 1/3 tổng giá trị khối di sản, không ấn định tiền hoặc hiện vật. Giá trị ròng khi mở thừa kế 1,2 tỷ, đến khi chia còn 900 triệu do biến động giá hợp pháp. Không có người hưởng phần bắt buộc, tranh chấp hay thỏa thuận khác. Hân muốn khóa mức 400 triệu tại ngày chết. Áp dụng đúng là gì?"
+        "Tháng 10/2026: Di chúc chỉ cho Hân 1/3 tổng giá trị khối di sản, không ấn định tiền hoặc hiện vật. Giá trị ròng khi mở thừa kế 1,2 tỷ, đến khi chia còn 900 triệu do biến động giá hợp pháp. Không có người hưởng phần bắt buộc, tranh chấp hay thỏa thuận khác. Hân muốn khóa mức 400 triệu tại ngày chết. Áp dụng đúng là gì?",
+        "Tháng 10/2026: Bảng dự tính thừa kế ghi Hân được 400 triệu vì di sản ròng tại ngày chết là 1,2 tỷ. Tuy nhiên di chúc hợp pháp chỉ định Hân hưởng 1/3 giá trị di sản, không ghi khoản tiền cố định hay hiện vật; khi chia còn 900 triệu do biến động giá hợp pháp. Không phần bắt buộc, tranh chấp hoặc thỏa thuận khác. Cần chốt phần Hân thế nào?",
+        "Tháng 10/2026: Di chúc cho Hân một tỷ lệ 1/3 toàn khối di sản. Hân cho rằng phần giảm giá từ 1,2 tỷ tại ngày mở thừa kế xuống 900 triệu khi chia chỉ được trừ vào phần người khác. Không ấn định hiện vật hoặc tiền cố định, không phần bắt buộc, tranh chấp hay thỏa thuận khác. Chọn cách giải quyết yêu cầu này."
       ]
     },
     "answers": [
@@ -1196,6 +1206,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1208,7 +1224,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di chúc hợp pháp chỉ định Hân, Hoài và một người bạn nhận toàn bộ di sản, không ghi phần mỗi người. Không có người hưởng phần bắt buộc, nghĩa vụ tài sản hoặc thỏa thuận khác. Người bạn không có quan hệ gia đình. Quy tắc chia mặc định là gì?"
+        "Tháng 10/2026: Di chúc hợp pháp chỉ định Hân, Hoài và một người bạn nhận toàn bộ di sản, không ghi phần mỗi người. Không có người hưởng phần bắt buộc, nghĩa vụ tài sản hoặc thỏa thuận khác. Người bạn không có quan hệ gia đình. Quy tắc chia mặc định là gì?",
+        "Tháng 10/2026: Hân và Hoài muốn dành cho người bạn ít hơn vì người bạn không có quan hệ gia đình với người chết. Cả ba đều được di chúc hợp pháp chỉ định nhận toàn bộ di sản nhưng không ghi phần từng người; không phần bắt buộc, nợ hoặc thỏa thuận khác. Nếu không thống nhất được cách chia khác, phải chọn phương án nào?",
+        "Tháng 10/2026: Hồ sơ không thể xác định tỷ lệ riêng từ di chúc hợp pháp chỉ nêu ba người hưởng là Hân, Hoài và một người bạn không thuộc gia đình. Không có nghĩa vụ tài sản, phần bắt buộc hay thỏa thuận chia khác. Có cần thay danh sách di chúc bằng hàng thừa kế theo pháp luật để phân chia không? Chọn kết quả đúng."
       ]
     },
     "answers": [
@@ -1250,6 +1268,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1262,7 +1286,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản đã chia cho A và B, mỗi người nhận tài sản trị giá 600 triệu tại lúc chia. Sau đó C được xác định là người thừa kế bị bỏ sót, phần C đáng hưởng tại lúc chia là 400 triệu. Hiện tài sản A, B tăng gấp đôi; không có thỏa thuận khác. Phương án mặc định đúng là gì?"
+        "Tháng 10/2026: Di sản đã chia cho A và B, mỗi người nhận tài sản trị giá 600 triệu tại lúc chia. Sau đó C được xác định là người thừa kế bị bỏ sót, phần C đáng hưởng tại lúc chia là 400 triệu. Hiện tài sản A, B tăng gấp đôi; không có thỏa thuận khác. Phương án mặc định đúng là gì?",
+        "Tháng 10/2026: C đề nghị thu hồi tài sản của A và B sau khi được xác định là người thừa kế bị bỏ sót. A, B mỗi người đã nhận 600 triệu tại lần chia; phần C lẽ ra được hưởng khi đó là 400 triệu. Nay tài sản A, B tăng gấp đôi và không có thỏa thuận xử lý khác. Cơ chế thanh toán mặc định nào áp dụng?",
+        "Tháng 10/2026: Một người giữ nhà, người kia giữ tiền từ lần chia di sản: A và B đều đã nhận giá trị 600 triệu. C mới được xác định có quyền hưởng 400 triệu tính tại lần chia; tài sản hiện nay tăng gấp đôi. Không có thỏa thuận khác. Có được dồn trách nhiệm cho người giữ nhà hoặc tính lại theo giá hiện tại không? Chọn phương án đúng."
       ]
     },
     "answers": [
@@ -1304,6 +1330,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1316,7 +1348,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Sau khi chia, D bị bác bỏ quyền thừa kế bằng quyết định có hiệu lực. D đã nhận 300 triệu tiền mặt nhưng nay dùng hết; không có thỏa thuận khác về hoàn trả. D nói chỉ còn 50 triệu tài sản riêng nên chỉ hoàn 50 triệu vì Điều 615 giới hạn trách nhiệm. Nhận định nào đúng?"
+        "Tháng 10/2026: Sau khi chia, D bị bác bỏ quyền thừa kế bằng quyết định có hiệu lực. D đã nhận 300 triệu tiền mặt nhưng nay dùng hết; không có thỏa thuận khác về hoàn trả. D nói chỉ còn 50 triệu tài sản riêng nên chỉ hoàn 50 triệu vì Điều 615 giới hạn trách nhiệm. Nhận định nào đúng?",
+        "Tháng 10/2026: D đã tiêu hết 300 triệu di sản được chia trước khi có quyết định có hiệu lực bác bỏ quyền thừa kế của D. D đề nghị coi khoản phải trả là nợ của người chết và giới hạn ở 50 triệu tài sản riêng còn lại; không có thỏa thuận hoàn trả khác. Mức nghĩa vụ hoàn trả được xác định ra sao?",
+        "Tháng 10/2026: Những người thừa kế yêu cầu D hoàn lại phần hưởng trị giá 300 triệu tại thời điểm chia sau khi quyền thừa kế của D bị bác bỏ bằng quyết định có hiệu lực. D chỉ còn 50 triệu tài sản riêng vì đã dùng hết tiền nhận. Không có thỏa thuận khác. Chọn nhận định phân biệt nghĩa vụ hoàn trả với khả năng thi hành thực tế."
       ]
     },
     "answers": [
@@ -1358,6 +1392,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1370,7 +1410,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Lan là con đẻ còn sống của người chết. Gia đình xuất trình giấy chẩn đoán bệnh tâm thần, chưa có quyết định Tòa án tuyên mất năng lực; không có căn cứ loại trừ quyền hưởng di sản. Họ muốn bỏ Lan khỏi danh sách vì Lan không thể tự ký thuận lợi. Hướng xử lý đúng là gì?"
+        "Tháng 10/2026: Lan là con đẻ còn sống của người chết. Gia đình xuất trình giấy chẩn đoán bệnh tâm thần, chưa có quyết định Tòa án tuyên mất năng lực; không có căn cứ loại trừ quyền hưởng di sản. Họ muốn bỏ Lan khỏi danh sách vì Lan không thể tự ký thuận lợi. Hướng xử lý đúng là gì?",
+        "Tháng 10/2026: Trong hồ sơ thừa kế, Lan là con đẻ còn sống của người chết và không có căn cứ mất quyền hưởng. Gia đình muốn cho một người thân ký thay chỉ dựa vào giấy chẩn đoán bệnh tâm thần của Lan, chưa có quyết định tuyên mất năng lực của Tòa án. CCV cần xử lý thế nào đối với quyền hưởng và việc tham gia của Lan?",
+        "Tháng 10/2026: Bản dự thảo bỏ Lan khỏi danh sách con hưởng di sản với lý do việc ký hồ sơ sẽ khó khăn do bệnh tâm thần. Lan còn sống, không có căn cứ loại quyền hưởng; mới có giấy chẩn đoán, chưa có quyết định Tòa án tuyên mất năng lực. Chọn cách khắc phục dự thảo và làm rõ tư cách tham gia phù hợp."
       ]
     },
     "answers": [
@@ -1431,6 +1473,12 @@
         "OFFICIAL-BLDS15",
         "OFFICIAL-CC24"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1443,7 +1491,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cháu 16 tuổi được hưởng riêng một phần quyền sử dụng đất và muốn tự ký giao dịch chuyển nhượng phần đó sau khi đã hoàn tất thừa kế. Cháu có mẹ là người đại diện hợp lệ; mẹ chưa đồng ý bằng văn bản. Chỉ xét điều kiện định đoạt tài sản của người chưa thành niên, đánh giá nào đúng?"
+        "Tháng 10/2026: Cháu 16 tuổi được hưởng riêng một phần quyền sử dụng đất và muốn tự ký giao dịch chuyển nhượng phần đó sau khi đã hoàn tất thừa kế. Cháu có mẹ là người đại diện hợp lệ; mẹ chưa đồng ý bằng văn bản. Chỉ xét điều kiện định đoạt tài sản của người chưa thành niên, đánh giá nào đúng?",
+        "Tháng 10/2026: Sau khi nhận thừa kế một phần quyền sử dụng đất riêng, cháu 16 tuổi cho rằng tài sản của mình thì có thể tự ký bán. Mẹ là đại diện hợp lệ nhưng chưa có văn bản đồng ý. Chỉ đánh giá điều kiện định đoạt bất động sản của người chưa thành niên, phương án nào đúng?",
+        "Tháng 10/2026: Mẹ dự định đến buổi công chứng để nói miệng rằng đồng ý cho con 16 tuổi chuyển nhượng phần đất riêng đã hoàn tất thừa kế. Mẹ là đại diện hợp lệ, chưa đồng ý bằng văn bản. Việc tham dự và đồng ý miệng đã đủ về điều kiện định đoạt tài sản do tuổi chưa? Chọn nhận định đúng."
       ]
     },
     "answers": [
@@ -1492,6 +1542,12 @@
         "OFFICIAL-BLDS15",
         "OFFICIAL-HNGD-HN25"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1504,7 +1560,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Bích là người giám hộ hợp lệ của Lan mất năng lực và cũng là đồng thừa kế. Bích muốn nhân danh Lan thỏa thuận đổi phần tài sản của Lan lấy chính tài sản của Bích; giao dịch có liên quan tài sản Lan. Dù hồ sơ xác định lợi ích cho Lan, người giám sát chưa đồng ý. Bích nói quan hệ mẹ con đủ để bỏ giám sát. Nhận định nào đúng?"
+        "Tháng 10/2026: Bích là người giám hộ hợp lệ của Lan mất năng lực và cũng là đồng thừa kế. Bích muốn nhân danh Lan thỏa thuận đổi phần tài sản của Lan lấy chính tài sản của Bích; giao dịch có liên quan tài sản Lan. Dù hồ sơ xác định lợi ích cho Lan, người giám sát chưa đồng ý. Bích nói quan hệ mẹ con đủ để bỏ giám sát. Nhận định nào đúng?",
+        "Tháng 10/2026: Bích và Lan là đồng thừa kế. Bích là người giám hộ hợp lệ của Lan đã mất năng lực, muốn đổi tài sản thuộc phần Lan lấy tài sản của chính Bích và ký nhân danh Lan. Hồ sơ cho thấy lợi ích cho Lan nhưng người giám sát chưa đồng ý. Bích viện dẫn mình là mẹ Lan. Điều kiện giao dịch được đánh giá thế nào?",
+        "Tháng 10/2026: Một phương án chia di sản có giao dịch tài sản trực tiếp giữa Lan và Bích: Bích là mẹ, giám hộ hợp lệ và đồng thừa kế, đồng thời đại diện Lan mất năng lực. Đã xác định giao dịch vì lợi ích Lan, chưa có sự đồng ý của người giám sát. Chọn kết luận về việc có đủ ngoại lệ cho giao dịch giữa giám hộ và người được giám hộ hay chưa."
       ]
     },
     "answers": [
@@ -1546,6 +1604,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1558,7 +1622,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ông P lập di chúc cho toàn bộ 600 triệu tài sản riêng cho con A. A chết trước P, để lại con C. Khi P chết, con B còn sống; ngoài B và nhánh A không có người hưởng theo pháp luật, không có nghĩa vụ tài sản, di chúc thay thế hay người hưởng khác. C muốn nhận toàn bộ 600 triệu bằng cách “thế vị trực tiếp trong di chúc”. Kết quả đúng là gì?"
+        "Tháng 10/2026: Ông P lập di chúc cho toàn bộ 600 triệu tài sản riêng cho con A. A chết trước P, để lại con C. Khi P chết, con B còn sống; ngoài B và nhánh A không có người hưởng theo pháp luật, không có nghĩa vụ tài sản, di chúc thay thế hay người hưởng khác. C muốn nhận toàn bộ 600 triệu bằng cách “thế vị trực tiếp trong di chúc”. Kết quả đúng là gì?",
+        "Tháng 10/2026: C cho rằng tên cha mình là A trong di chúc của ông P đủ để C nhận trọn 600 triệu thay A. Di chúc hợp pháp cho toàn bộ tài sản riêng 600 triệu cho A, nhưng A chết trước P; P còn con B, A chỉ để lại con C. Không người hưởng theo pháp luật khác, không nợ hay di chúc thay thế. Kết quả phân chia nào đúng?",
+        "Tháng 10/2026: Cần xác định hiệu lực phần chỉ định trước khi chia: ông P để toàn bộ 600 triệu tài sản riêng cho con A bằng di chúc hợp pháp; A chết trước P, để lại con C, còn con B sống khi P chết. Ngoài B và nhánh A không có người hưởng theo pháp luật, không nghĩa vụ hay định đoạt khác. Chọn cách xử lý phần di chúc và quyền của B, C."
       ]
     },
     "answers": [
@@ -1619,6 +1685,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1631,7 +1703,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản tổng cộng 500 triệu, nghĩa vụ tài sản đã xác định 600 triệu. Di chúc dành 100 triệu để thờ cúng, phần còn lại cho con; không có thỏa thuận chủ nợ miễn nợ. Con đề nghị giữ nguyên 100 triệu thờ cúng rồi chỉ dùng 400 triệu trả nợ. Xử lý đúng là gì?"
+        "Tháng 10/2026: Di sản tổng cộng 500 triệu, nghĩa vụ tài sản đã xác định 600 triệu. Di chúc dành 100 triệu để thờ cúng, phần còn lại cho con; không có thỏa thuận chủ nợ miễn nợ. Con đề nghị giữ nguyên 100 triệu thờ cúng rồi chỉ dùng 400 triệu trả nợ. Xử lý đúng là gì?",
+        "Tháng 10/2026: Người quản lý muốn tách trước 100 triệu thờ cúng theo di chúc, chỉ giao 400 triệu còn lại cho chủ nợ. Tổng di sản là 500 triệu, nghĩa vụ tài sản đã xác định 600 triệu; phần còn lại trong di chúc dành cho con, không miễn nợ hay cam kết trả vượt di sản. Chọn cách xử lý khoản thờ cúng.",
+        "Tháng 10/2026: Con đề nghị giữ khoản 100 triệu thờ cúng vì đó là ý chí của người chết, dù toàn bộ di sản 500 triệu không đủ thanh toán nghĩa vụ 600 triệu đã xác định. Không chủ nợ nào miễn nợ, không ai cam kết lấy tài sản riêng bù. Di chúc dành phần còn lại cho con. Nhận định nào phù hợp về thứ tự bảo toàn khoản thờ cúng?"
       ]
     },
     "answers": [
@@ -1679,6 +1753,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1691,7 +1771,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản tổng cộng 300 triệu: di chúc ghi rõ di tặng bạn 100 triệu, 200 triệu còn lại cho người thừa kế. Nghĩa vụ tài sản của người lập di chúc là 350 triệu, không có khoản ưu tiên khác hoặc thỏa thuận miễn nợ. Sau khi dùng 200 triệu ngoài phần di tặng vẫn thiếu 150 triệu. Người được di tặng đòi giữ nguyên 100 triệu vì “di tặng không phải trả nợ”. Nhận định nào đúng?"
+        "Tháng 10/2026: Di sản tổng cộng 300 triệu: di chúc ghi rõ di tặng bạn 100 triệu, 200 triệu còn lại cho người thừa kế. Nghĩa vụ tài sản của người lập di chúc là 350 triệu, không có khoản ưu tiên khác hoặc thỏa thuận miễn nợ. Sau khi dùng 200 triệu ngoài phần di tặng vẫn thiếu 150 triệu. Người được di tặng đòi giữ nguyên 100 triệu vì “di tặng không phải trả nợ”. Nhận định nào đúng?",
+        "Tháng 10/2026: Bạn được di tặng 100 triệu viện dẫn quy tắc không phải trả nợ để yêu cầu nhận đủ. Tổng di sản 300 triệu, gồm khoản di tặng này và 200 triệu cho người thừa kế; nghĩa vụ người chết 350 triệu. Sau khi dùng 200 triệu vẫn thiếu 150 triệu, không miễn nợ hoặc khoản ưu tiên khác. Cách xử lý khoản di tặng nào đúng?",
+        "Tháng 10/2026: Khi lập bảng thanh toán nghĩa vụ 350 triệu, người quản lý đã dùng hết 200 triệu phần thừa kế và còn khoản di tặng bạn 100 triệu trong khối di sản tổng 300 triệu. Di chúc ghi rõ di tặng, không khoản ưu tiên khác, không thỏa thuận miễn nợ. Người bạn có thể giữ nguyên khoản này vì không phải người thừa kế trả nợ không? Chọn kết luận đúng."
       ]
     },
     "answers": [
@@ -1733,6 +1815,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1745,7 +1833,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chia di sản nhà ở sẽ ảnh hưởng nghiêm trọng đời sống của người vợ còn sống và gia đình; các người thừa kế không thống nhất trì hoãn. Người vợ muốn vẫn xác định phần từng người nhưng chưa chia một thời gian. Hướng yêu cầu phù hợp pháp luật là gì?"
+        "Tháng 10/2026: Chia di sản nhà ở sẽ ảnh hưởng nghiêm trọng đời sống của người vợ còn sống và gia đình; các người thừa kế không thống nhất trì hoãn. Người vợ muốn vẫn xác định phần từng người nhưng chưa chia một thời gian. Hướng yêu cầu phù hợp pháp luật là gì?",
+        "Tháng 10/2026: Các con yêu cầu chia ngay căn nhà là di sản, trong khi việc chia sẽ ảnh hưởng nghiêm trọng đời sống người vợ còn sống và gia đình. Không có sự thống nhất trì hoãn. Người vợ không muốn tước phần các con mà chỉ muốn chưa chia trong một thời gian. Cơ chế pháp lý nào phù hợp?",
+        "Tháng 10/2026: Gia đình không đồng thuận hoãn chia nhà di sản. Người vợ còn sống có chứng cứ việc chia ảnh hưởng nghiêm trọng đời sống của mình và gia đình, đề nghị xác định phần hưởng của mọi người nhưng lùi thời điểm chia. Chọn nơi và cách yêu cầu phù hợp, thay vì tự hoãn vô thời hạn."
       ]
     },
     "answers": [
@@ -1793,6 +1883,12 @@
         "OFFICIAL-BLDS15",
         "OFFICIAL-HNGD-HN25"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1805,7 +1901,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thuận không nhận con riêng của vợ làm con nuôi. Hồ sơ đã chứng minh Thuận và người con riêng chăm sóc, nuôi dưỡng nhau như cha con; Thuận chết không di chúc. Một người phản đối chỉ vì chưa đăng ký nhận con nuôi. Chỉ xét tư cách trong quan hệ này, kết luận nào đúng?"
+        "Tháng 10/2026: Thuận không nhận con riêng của vợ làm con nuôi. Hồ sơ đã chứng minh Thuận và người con riêng chăm sóc, nuôi dưỡng nhau như cha con; Thuận chết không di chúc. Một người phản đối chỉ vì chưa đăng ký nhận con nuôi. Chỉ xét tư cách trong quan hệ này, kết luận nào đúng?",
+        "Tháng 10/2026: Hồ sơ thừa kế không di chúc của Thuận chứng minh ông và con riêng của vợ đã chăm sóc, nuôi dưỡng nhau như cha con. Một người yêu cầu giấy đăng ký con nuôi mới cho ghi người con riêng vào diện hưởng. Thuận chưa nhận người này làm con nuôi. Chỉ xét căn cứ tư cách giữa họ, chọn nhận định đúng.",
+        "Tháng 10/2026: Khi xác định người hưởng di sản của Thuận chết không di chúc, cần phân biệt hai căn cứ: đăng ký con nuôi và quan hệ con riêng với bố dượng. Không có việc nhận con nuôi nhưng đã chứng minh Thuận và con riêng của vợ chăm sóc, nuôi dưỡng nhau như cha con. Phản đối chỉ vì thiếu đăng ký con nuôi được đánh giá thế nào?"
       ]
     },
     "answers": [
@@ -1846,6 +1944,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1858,7 +1962,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hân và Hoài là hai người thừa kế theo di chúc hợp pháp, ghi rõ Hân nhận tiền, Hoài nhận nhà. Họ yêu cầu công chứng văn bản phân chia đúng nội dung đó trong tháng 10/2026, các điều kiện khác đều đáp ứng. CCV bác vì “di chúc đã xác định rõ phần từng người thì không được yêu cầu loại văn bản này”. Đánh giá nào đúng?"
+        "Tháng 10/2026: Hân và Hoài là hai người thừa kế theo di chúc hợp pháp, ghi rõ Hân nhận tiền, Hoài nhận nhà. Họ yêu cầu công chứng văn bản phân chia đúng nội dung đó trong tháng 10/2026, các điều kiện khác đều đáp ứng. CCV bác vì “di chúc đã xác định rõ phần từng người thì không được yêu cầu loại văn bản này”. Đánh giá nào đúng?",
+        "Tháng 10/2026: CCV cho rằng chỉ được công chứng văn bản phân chia khi di chúc chưa ghi phần của từng người. Hân và Hoài xuất trình di chúc hợp pháp ghi Hân nhận tiền, Hoài nhận nhà và yêu cầu phân chia đúng nội dung ấy; mọi điều kiện khác đáp ứng. Áp dụng luật tháng 10/2026, nhận định về việc từ chối này thế nào?",
+        "Tháng 10/2026: Hồ sơ phân chia theo di chúc đã xác định rõ tài sản: Hân được tiền, Hoài được nhà. Di chúc hợp pháp, hai người yêu cầu công chứng việc phân chia đúng định đoạt, đủ các điều kiện khác. Trong tháng 10/2026, có cần sửa di chúc bỏ phần hưởng rõ ràng mới yêu cầu được loại văn bản này không? Chọn phương án đúng."
       ]
     },
     "answers": [
@@ -1907,6 +2013,12 @@
         "OFFICIAL-CC24",
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1919,7 +2031,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tổ chức đã nhận xác nhận hoàn thành niêm yết, chưa ký văn bản phân chia. Ngay trước lúc ký, Phương khiếu nại kèm tài liệu về việc mình là con của người chết bị bỏ sót. Các người đang xin công chứng muốn ký ngay vì hết thời gian niêm yết. Xử lý phù hợp là gì?"
+        "Tháng 10/2026: Tổ chức đã nhận xác nhận hoàn thành niêm yết, chưa ký văn bản phân chia. Ngay trước lúc ký, Phương khiếu nại kèm tài liệu về việc mình là con của người chết bị bỏ sót. Các người đang xin công chứng muốn ký ngay vì hết thời gian niêm yết. Xử lý phù hợp là gì?",
+        "Tháng 10/2026: Phương mang tài liệu chứng minh mình có thể là con bị bỏ sót đến tổ chức công chứng ngay trước lúc ký văn bản phân chia. Tổ chức đã có xác nhận niêm yết hoàn tất nhưng chưa công chứng; nhóm yêu cầu nói thời hạn phản đối đã hết. Cần xử lý hồ sơ thế nào?",
+        "Tháng 10/2026: Sau xác nhận hoàn thành niêm yết và trước khi công chứng văn bản phân chia, tổ chức nhận khiếu nại của Phương kèm tài liệu về quan hệ con với người chết bị bỏ sót. Các người yêu cầu muốn ký rồi mới giải quyết quyền Phương. Chọn phản ứng phù hợp ở thời điểm này."
       ]
     },
     "answers": [
@@ -1968,6 +2082,12 @@
         "OFFICIAL-CC24",
         "OFFICIAL-ND10425"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1980,7 +2100,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Để bỏ cha của người chết khỏi danh sách, nhóm yêu cầu chỉ nộp lý lịch tự khai ghi người cha “đã chết”, chưa có giấy chứng tử hoặc giấy tờ khác theo pháp luật chứng minh việc chết, cũng chưa xác định được chết trước hay sau. CCV chưa khai thác được dữ liệu xác thực. Họ đề nghị dùng cam đoan không bỏ sót thay mọi xác minh. Hướng xử lý đúng là gì?"
+        "Tháng 10/2026: Để bỏ cha của người chết khỏi danh sách, nhóm yêu cầu chỉ nộp lý lịch tự khai ghi người cha “đã chết”, chưa có giấy chứng tử hoặc giấy tờ khác theo pháp luật chứng minh việc chết, cũng chưa xác định được chết trước hay sau. CCV chưa khai thác được dữ liệu xác thực. Họ đề nghị dùng cam đoan không bỏ sót thay mọi xác minh. Hướng xử lý đúng là gì?",
+        "Tháng 10/2026: Nhóm yêu cầu muốn loại cha của người chết vì đến ngày làm hồ sơ ông không còn sống. Họ chỉ có lý lịch tự khai ghi đã chết, chưa có chứng cứ việc chết theo luật và chưa rõ ông chết trước hay sau con; CCV chưa khai thác được dữ liệu xác thực. Cam đoan không bỏ sót được đề nghị thay xác minh. Chọn cách xử lý.",
+        "Tháng 10/2026: Khi rà chuỗi thừa kế, CCV gặp một người cha bị bỏ khỏi danh sách dựa trên lý lịch tự khai ghi đã chết. Chưa có giấy chứng tử hay giấy tờ hợp pháp khác, chưa rõ thứ tự chết và chưa có dữ liệu xác thực; cả nhóm ký cam đoan không bỏ sót. Hồ sơ cần được giải quyết theo hướng nào?"
       ]
     },
     "answers": [
@@ -2036,6 +2158,12 @@
       "supportingSourceIds": [
         "OFFICIAL-CC24"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2048,7 +2176,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người để lại di sản có nơi thường trú cuối cùng xác định tại xã A ở Việt Nam, có nhà tại xã B và tiền gửi ngân hàng tại xã C; ba xã khác nhau. Tổ chức đã tiếp nhận hồ sơ phân chia cả nhà và tiền, hỏi nơi niêm yết theo các khoản 2, 3 Điều 44 NĐ104. Chọn phương án đúng."
+        "Tháng 10/2026: Người để lại di sản có nơi thường trú cuối cùng xác định tại xã A ở Việt Nam, có nhà tại xã B và tiền gửi ngân hàng tại xã C; ba xã khác nhau. Tổ chức đã tiếp nhận hồ sơ phân chia cả nhà và tiền, hỏi nơi niêm yết theo các khoản 2, 3 Điều 44 NĐ104. Chọn phương án đúng.",
+        "Tháng 10/2026: Danh sách nơi niêm yết dự kiến gồm xã A nơi thường trú cuối cùng ở Việt Nam, xã B nơi có nhà và xã C nơi đặt ngân hàng giữ tiền gửi của người chết. Ba xã khác nhau; hồ sơ phân chia cả nhà và tiền đã được tiếp nhận. Theo Điều 44 NĐ104, cần lựa chọn các nơi nào?",
+        "Tháng 10/2026: Tổ chức định chỉ niêm yết tại xã B vì di sản có nhà tại đây, bỏ xã A là nơi thường trú cuối cùng đã xác định ở Việt Nam. Hồ sơ còn có tiền gửi ở chi nhánh ngân hàng xã C; A, B, C khác nhau. Chọn phương án niêm yết đúng cho cả khối di sản."
       ]
     },
     "answers": [
@@ -2096,6 +2226,12 @@
       "supportingSourceIds": [
         "OFFICIAL-ND10425"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]

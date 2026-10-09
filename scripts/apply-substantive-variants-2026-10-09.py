@@ -22,6 +22,7 @@ GROUPS = [
     ('inheritance', 'imported-inheritance-2026.json', 'inheritance-legal-evidence-2026.json'),
     ('refinement', 'refinement-2026.json', 'refinement-legal-evidence-2026.json'),
     ('completion', 'completion-2026.json', 'completion-legal-evidence-2026.json'),
+    ('exams', 'imported-exams-2026.json', 'exam-legal-evidence-2026.json'),
 ]
 
 def read(path):
@@ -43,6 +44,7 @@ worksheets = [
     ('editorial/variant-batch-40-2026-10-09.json', 40),
     ('editorial/variant-batch-60-2026-10-09.json', 60),
     ('editorial/variant-batch-100-2026-10-09.json', 100),
+    ('editorial/variant-batch-next-100-2026-10-09.json', 100),
 ]
 batch_reviews = {}
 batch_keys = {}
@@ -57,6 +59,17 @@ for worksheet, size in worksheets:
         batch_keys.update(review['answerKeys'])
     worksheet_by_id.update({qid: worksheet for qid in review['reviews']})
 batch_scope = set(batch_reviews)
+next_scope = read('editorial/variant-batch-next-100-scope-2026-10-09.json')
+next_review = read('editorial/variant-batch-next-100-2026-10-09.json')
+next_ids = set(next_scope['ids'])
+assert len(next_scope['ids']) == len(next_ids) == 100
+assert next_ids == set(next_review['reviews']) == set(next_review['answerKeys'])
+assert next_ids <= set(previous['remainingIds']) | set(prior)
+assert len([qid for qid in next_ids if qid.startswith('INH26-')]) == 17
+assert len([qid for qid in next_ids if qid.startswith('IMP-')]) == 83
+assert 'IMP-T60-038' not in next_ids and 'IMP-T60-096' in next_ids
+deferred_ids = {row['id'] for row in read('editorial/variant-next-100-follow-up-2026-10-09.json')['items']}
+assert len(deferred_ids) == 5 and not (deferred_ids & next_ids)
 registry = read('reports/refinement-provisions-2026.json')
 decisions = []
 pending_writes = []
@@ -67,15 +80,18 @@ for group, filename, evidence_file in GROUPS:
     evidence = read('reports/' + evidence_file)
     proofs = {q['id']: q for q in evidence['questions']}
     active_ids = {q['id'] for q in bank if q['status'] == 'active'}
-    expected_ids = active_ids & batch_scope if group in ('family', 'inheritance', 'refinement') else active_ids
+    expected_ids = active_ids & batch_scope if group in ('family', 'inheritance', 'refinement', 'exams') else active_ids
     assert set(additions) == expected_ids, group
     if group in ('family', 'inheritance'):
-        assert len(additions) == (26 if group == 'family' else 15), group
+        assert len(additions) == (26 if group == 'family' else 32), group
     if group == 'refinement':
         assert len(additions) == 80, group
+    if group == 'exams':
+        assert len(additions) == 83, group
     for q in bank:
         if q['id'] not in additions:
             continue
+        current_before = copy.deepcopy(q)
         before = prior.get(q['id'], {}).get('before', copy.deepcopy(q))
         proof = proofs[q['id']]
         assert [p['reference'] for p in proof['provisions']] == q['legalBasis'], q['id']
@@ -123,6 +139,17 @@ for group, filename, evidence_file in GROUPS:
             'variantEvidenceReport': report_path,
             'legalReviewStatus': 'referenced_provisions_reviewed_not_global_certification',
         })
+        # Compare the full loaded record, not only the key/answer array. A dated
+        # variants-only continuation must never change the original or metadata.
+        if q['id'] in next_ids:
+            restored = copy.deepcopy(q)
+            restored['question']['variants'] = current_before['question']['variants']
+            if 'audit' in current_before:
+                restored['audit'] = current_before['audit']
+            else:
+                restored.pop('audit', None)
+            assert restored == current_before, q['id']
+            assert original == current_before['question']['variants'][0], q['id']
         decisions.append({
             'id': q['id'], 'file': 'data/' + filename,
             'reviewedAt': DATE, 'applicableAt': '2027-01-01' if prefix.startswith('Từ') else DATE,
@@ -174,12 +201,19 @@ report = {'date': DATE, 'phaseStatus': 'INCOMPLETE', 'initialScope': len(initial
           'allActiveLegallyRecertified': False, 'remainingIds': remaining, 'decisions': decisions}
 assert batch_scope <= done
 report['batches'] = [
-    {'id': {40: 'family-inheritance-40-2026-10-09', 60: 'refinement-60-2026-10-09', 100: 'completion-refinement-inheritance-100-2026-10-09'}[size],
+    {'id': {
+        'editorial/variant-batch-40-2026-10-09.json': 'family-inheritance-40-2026-10-09',
+        'editorial/variant-batch-60-2026-10-09.json': 'refinement-60-2026-10-09',
+        'editorial/variant-batch-100-2026-10-09.json': 'completion-refinement-inheritance-100-2026-10-09',
+        'editorial/variant-batch-next-100-2026-10-09.json': 'inheritance-exams-next-100-2026-10-09',
+    }[worksheet],
      'questions': size, 'authoredVariants': size * 2,
      'ids': sorted(read(worksheet)['reviews']), 'worksheet': worksheet}
     for worksheet, size in worksheets
 ]
 report['latestBatch'] = report['batches'][-1]
+assert (len(done), len(remaining), len(active)) == (543, 40, 594)
+assert report['activeVariantStrings'] == 1702
 for path, value in pending_writes:
     write(path, value)
 write(report_path, report)

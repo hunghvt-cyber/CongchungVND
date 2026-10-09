@@ -1,0 +1,218 @@
+{
+  "IMP-T60-051": {
+    "key": "D",
+    "variants": [
+      "Một bảng giải thích gộp bồi thường về đất với bố trí chỗ ở mới khi Nhà nước thu hồi. Để tách hai khái niệm, chọn định nghĩa bồi thường về đất theo Luật Đất đai.",
+      "Người có đất bị thu hồi muốn biết khoản bồi thường về đất là trả giá trị quyền sử dụng phần đất thu hồi hay khoản phạt Nhà nước. Trong các mô tả, chọn bản chất theo định nghĩa luật."
+    ],
+    "review": "Đất3(5): D giá trị QSD diện tích thu hồi. A không giá mọi tài sản; B không chỉ tái định cư; C không phạt. Không xác nhận đủ điều kiện được bồi thường cho hồ sơ cụ thể."
+  },
+  "IMP-T60-052": {
+    "key": "A",
+    "variants": [
+      "Khi tách tiền sử dụng đất khỏi tiền thuê đất và phí thủ tục, phải nhận diện các trường hợp gắn nghĩa vụ nộp tiền sử dụng đất theo luật. Nhóm trường hợp nào phù hợp?",
+      "Một bảng nghĩa vụ tài chính cho rằng mọi thế chấp và mọi cấp đổi giấy chứng nhận đều phát sinh tiền sử dụng đất. Chọn nhóm căn cứ đúng để sửa cách phân loại này."
+    ],
+    "review": "Đất3(44): A giao có thu/chuyển mục đích/các trường hợp phải nộp gồm công nhận khi có nghĩa vụ. B tiền thuê khác; C thế chấp không mọi lần; D cấp đổi không mọi lần. Không nói mọi công nhận đều phải nộp."
+  },
+  "IMP-T60-053": {
+    "key": "B",
+    "variants": [
+      "Người giữ bản giấy chứng nhận cho rằng bản giấy là tài sản riêng giúp mình sở hữu đất, bất kể người có quyền được xác nhận. Để đánh giá, chọn bản chất pháp lý của giấy chứng nhận.",
+      "Khi giải thích vai trò giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, cần phân biệt xác nhận quyền hợp pháp với quyết định giá hoặc phán quyết tranh chấp. Mô tả nào đúng?"
+    ],
+    "review": "Đất3(21): B chứng thư xác nhận quyền. A không định giá; C giữ giấy không có đất; D không bản án mọi tranh chấp. Giữ phạm vi đất+tài sản gắn đất."
+  },
+  "IMP-T60-054": {
+    "key": "C",
+    "variants": [
+      "Những người cùng huyết thống và cùng thường trú tháng 10/2026 muốn được nhận diện là hộ gia đình sử dụng đất, nhưng chưa làm rõ thời điểm có quyền đất chung. Ngoài các yếu tố khác, yếu tố thời điểm nào bắt buộc kiểm tra?",
+      "Hồ sơ chỉ lấy thông tin chủ hộ và danh sách cư trú hiện tại để xác định hộ gia đình sử dụng đất. Để áp đúng định nghĩa hiện hành, cần bổ sung kiểm tra yếu tố nào về mốc xác lập quyền chung?"
+    ],
+    "review": "Đất3(25): C quyền chung trước ngày hiệu lực tại mốc xác lập. A huyết thống/B chủ hộ/D cư trú không đủ. Không bỏ quan hệ luật định và sống chung, chỉ hỏi riêng yếu tố thời điểm."
+  },
+  "IMP-T60-060": {
+    "key": "D",
+    "variants": [
+      "Một bảng ghép giao đất, cho thuê đất, công nhận quyền với chuyển nhượng và tặng cho giữa cá nhân dưới tên Nhà nước trao quyền. Nhóm hình thức nào thực sự thuộc việc Nhà nước trao quyền sử dụng đất?",
+      "Để phân biệt vai trò đại diện chủ sở hữu đất của Nhà nước với giao dịch của người sử dụng đất, chọn nhóm hoạt động Nhà nước trao quyền thay vì chuyển quyền giữa các cá nhân."
+    ],
+    "review": "Đất13(7,8,9): D giao/thuê/công nhận. A chuyển nhượng/B tặng giữa dân/C thế chấp không Nhà nước trao. Không nhầm Nhà nước bán sở hữu đất."
+  },
+  "IMP-T60-062": {
+    "key": "A",
+    "variants": [
+      "Chủ sở hữu trình bản vẽ căn nhà sẽ xây để góp vốn và nói người nhận vốn là thân nhân nên được chấp nhận. Chỉ xét điều kiện đối tượng nhà ở góp vốn tại Điều 179(1), chọn kết luận đúng.",
+      "Một hợp đồng góp vốn dự kiến đưa căn nhà chưa xây, mới hình thành trong tương lai, vào phần vốn. Không xét điều kiện khác, yêu cầu nhà có sẵn tại Điều 179 được đáp ứng chưa?"
+    ],
+    "review": "Nhà179(1b): A có sẵn+điều kiện160. B không mọi tương lai; C bản vẽ không có sẵn; D người thân không miễn. Không đánh đồng với việc mua bán nhà tương lai."
+  },
+  "IMP-T60-068": {
+    "key": "C",
+    "variants": [
+      "Bên được bảo lãnh muốn không trả khoản thù lao đã thỏa thuận hợp pháp vì chưa vi phạm nghĩa vụ chính. Theo BLDS, bên bảo lãnh có quyền về thù lao thế nào?",
+      "Một hợp đồng bảo lãnh có thỏa thuận hợp pháp giữa bên bảo lãnh và bên được bảo lãnh về thù lao. Người tư vấn nói bảo lãnh luôn miễn phí hoặc chỉ có mức Nhà nước ấn định. Chọn nhận định đúng."
+    ],
+    "review": "337: C theo thỏa thuận hai bên. A không chỉ vi phạm; B không tự Nhà nước ấn định; D không luôn miễn. Không tự xác định ngày đến hạn trả thù lao."
+  },
+  "IMP-T60-069": {
+    "key": "D",
+    "variants": [
+      "Giám đốc công ty TNHH hai thành viên trở lên muốn tự duyệt bán tài sản trị giá 45% tổng tài sản theo báo cáo gần nhất vì dưới 50%. Điều lệ yêu cầu HĐTV thông qua từ 40%. Chọn nhận định về thẩm quyền thông qua.",
+      "Khi rà hợp đồng bán bằng 45% tổng tài sản theo báo cáo gần nhất của công ty TNHH hai thành viên trở lên, có đề nghị bỏ ngưỡng điều lệ 40% vì thấp hơn luật 50%. Chọn cách áp dụng đúng ngưỡng và cơ quan thông qua."
+    ],
+    "review": "DN55(2d): D điều lệ thấp hơn hợp lệ,45>=40. A chỉ nhìn50 sai; B thấp luôn vô hiệu sai; C100 sai. Giữ bán/TNHH2+ và cùng mốc báo cáo."
+  },
+  "IMP-T60-073": {
+    "key": "B",
+    "variants": [
+      "Bên cho thuê khoán muốn chấm dứt để cho người khác thuê giá cao hơn sau vi phạm của bên thuê. Khai thác là nguồn sống duy nhất của bên thuê, tiếp tục thuê không ảnh hưởng nghiêm trọng lợi ích bên cho thuê và bên thuê cam kết không tái phạm. Theo Điều 492(2), chọn kết luận.",
+      "Hồ sơ thuê khoán đã xác định bên thuê vi phạm nhưng có đủ ba dữ kiện: tài sản khai thác là nguồn sống duy nhất, việc tiếp tục không ảnh hưởng nghiêm trọng lợi ích bên cho thuê, cam kết không tiếp tục vi phạm. Bên cho thuê dự định báo trước ba ngày để đơn phương chấm dứt. Phương án nào đúng?"
+    ],
+    "review": "492(2): B không đơn phương trong hoàn cảnh. A giá cao/C3 ngày/D bỏ sinh kế không vượt ngoại lệ. Giữ đủ3 điều kiện, không miễn mọi vi phạm nói chung."
+  },
+  "IMP-T60-074": {
+    "key": "C",
+    "variants": [
+      "Khi nhận lại tài sản thuê đúng hạn, bên cho thuê yêu cầu bên thuê mua mới vì có hao mòn tự nhiên do sử dụng bình thường. Chỉ xét phần hao mòn này, trách nhiệm bên thuê được xác định thế nào?",
+      "Bên cho thuê muốn giữ tiền đặt cọc để bù hao mòn tự nhiên, dù tài sản được trả đúng hạn và phần đang xét chỉ là hao mòn do sử dụng bình thường. Chọn nhận định theo BLDS."
+    ],
+    "review": "479(1): C không chịu hao mòn tự nhiên. A thay mới/B mất cọc/D như phá hỏng sai. Không miễn hư hỏng khác do lỗi nếu có, câu chỉ xét hao mòn."
+  },
+  "IMP-T60-075": {
+    "key": "D",
+    "variants": [
+      "Trong tố tụng có người giữ con dấu, người cho pháp nhân vay và thành viên tự nhận đại diện. Ngoài căn cứ điều lệ hoặc luật, căn cứ nào trong bốn lựa chọn có thể xác lập người đại diện theo pháp luật của pháp nhân?",
+      "Khi cần xác định tư cách đại diện pháp luật của pháp nhân ở quá trình tố tụng tại Tòa, không thể chỉ dựa việc giữ dấu hay cho vay. Chọn một căn cứ được BLDS thừa nhận trong các phương án."
+    ],
+    "review": "137(1c): D Tòa chỉ định trong tố tụng. A giữ dấu/B chủ nợ/C tự nhận không tự đủ. Không nói Tòa chỉ định là căn cứ duy nhất."
+  },
+  "IMP-T60-076": {
+    "key": "A",
+    "variants": [
+      "Một bảng căn cứ chấm dứt quyền hưởng dụng gồm hết hạn, tài sản không còn, người hưởng trở thành chủ sở hữu và quyết định tùy ý của Sở Tư pháp không có căn cứ luật. Mục nào không thuộc căn cứ Điều 265?",
+      "Khi rà các sự kiện có thể kết thúc quyền hưởng dụng, cần phân biệt căn cứ pháp luật với quyết định không có thẩm quyền. Trong các trường hợp sau, chọn trường hợp không được Điều 265 liệt kê."
+    ],
+    "review": "265: A Sở tùy ý không căn cứ. B hết hạn/C vật không còn/D trở thành chủ đều căn cứ. Không nhầm quyết định Tòa theo khoản6 với Sở."
+  },
+  "IMP-T60-077": {
+    "key": "B",
+    "variants": [
+      "Người tư vấn nói chỉ tài sản đã tịch thu mới có thể đưa ra đấu giá và bỏ trường hợp chủ sở hữu tự lựa chọn. Theo quy tắc chung BLDS, căn cứ bán đấu giá là gì?",
+      "Một người đang giữ tài sản muốn tự quyết định đấu giá dù không được chủ sở hữu cho phép và không có căn cứ luật. Để đánh giá thẩm quyền đưa tài sản ra đấu giá, chọn nhóm căn cứ chung đúng."
+    ],
+    "review": "451: B ý chí chủ hoặc luật. A chỉ tịch thu quá hẹp; C chiếm giữ không tự quyền; D người mua không căn cứ duy nhất. Không bỏ điều kiện chung nếu đồng sở hữu, chỉ hỏi nhóm căn cứ."
+  },
+  "IMP-T60-078": {
+    "key": "C",
+    "variants": [
+      "Người nhận ủy quyền được bên ủy quyền đồng ý cho ủy quyền lại; phạm vi không vượt ban đầu, hình thức và các điều kiện khác đều phù hợp. Có thể bác chỉ vì hai bên không cùng là pháp nhân không?",
+      "Một việc ủy quyền lại đã có đồng ý của bên ủy quyền, đúng phạm vi, đúng hình thức và đủ điều kiện khác. Người tư vấn cho rằng luật tuyệt đối cấm ủy quyền lại hoặc chỉ cho khi tài sản không giá trị. Chọn kết luận đúng."
+    ],
+    "review": "564(1a): C được với đồng ý+điều kiện còn lại. A không giá trị/B pháp nhân không chung; D không tuyệt đối cấm. Không vượt phạm vi hoặc thiếu hình thức."
+  },
+  "IMP-T60-079": {
+    "key": "D",
+    "variants": [
+      "Công ty đã cấp giấy chứng nhận phần vốn góp sau khi định giá tài sản, nhưng quyền sở hữu hợp pháp tài sản chưa chuyển sang công ty. Chỉ xét Điều 35, có thể ghi phần vốn đã thanh toán xong không?",
+      "Biên bản định giá và hồ sơ đăng ký công ty đã hoàn tất; người góp tài sản có giấy chứng nhận phần vốn góp. Tuy vậy chưa chuyển quyền sở hữu hợp pháp tài sản cho công ty. Mốc hoàn thành góp vốn theo Điều 35 được đáp ứng chưa?"
+    ],
+    "review": "DN35(3): D chuyển sở hữu mới xong. A giấy vốn/B định giá/C nộp hồ sơ không thay. Giữ công ty không chuyển sang DNTN ngoại lệ."
+  },
+  "IMP-T60-080": {
+    "key": "A",
+    "variants": [
+      "Người không biết chữ muốn ghi âm ý chí phân chia tài sản và nhờ người thừa kế xác nhận làm di chúc. Theo yêu cầu hình thức riêng tại Điều 630(3), cần chọn cách lập nào?",
+      "Một bản di chúc cho người không biết chữ chỉ có điểm chỉ của người lập, chưa có việc người làm chứng lập văn bản hoặc công chứng, chứng thực. Chọn yêu cầu hình thức đặc thù cần đáp ứng."
+    ],
+    "review": "630(3): A người chứng lập văn bản+công chứng/chứng thực. B điểm chỉ tự lập/C ghi âm/D người hưởng ký không đủ. Không đồng nhất với di chúc miệng hoặc bản viết thường."
+  },
+  "IMP-T60-081": {
+    "key": "B",
+    "variants": [
+      "Chủ sở hữu công ty TNHH một thành viên không góp đủ vốn đúng hạn, gây thiệt hại, rồi đăng ký giảm vốn để xin miễn trách nhiệm về thiệt hại ấy. Theo Điều 75(4), phạm vi tài sản chịu trách nhiệm là gì?",
+      "Thiệt hại phát sinh do chủ sở hữu công ty TNHH một thành viên không góp đủ vốn đúng thời hạn. Chủ sở hữu muốn giới hạn bồi thường ở vốn đã góp hoặc phần thiếu. Chọn phạm vi trách nhiệm đối với thiệt hại theo luật."
+    ],
+    "review": "DN75(4): B toàn bộ tài sản chủ. A giảm không miễn; C thực góp/D phần chưa góp không trần thiệt hại. Chỉ hỏi thiệt hại do vi phạm vốn, không mọi nghĩa vụ bất kỳ."
+  },
+  "IMP-T60-082": {
+    "key": "C",
+    "variants": [
+      "Sau chấm dứt hoạt động chi nhánh, doanh nghiệp cho rằng khoản nợ thuế và quyền lợi người lao động phải tự mất theo chi nhánh. Theo Luật Doanh nghiệp, trách nhiệm xử lý thuộc chủ thể nào?",
+      "Một chi nhánh đã chấm dứt nhưng hợp đồng, nợ thuế và quyền lợi lao động còn chưa giải quyết. Có thể mặc nhiên yêu cầu trưởng chi nhánh trả mọi khoản bằng tài sản riêng không? Chọn chủ thể chịu trách nhiệm theo luật."
+    ],
+    "review": "DN213(3): C doanh nghiệp thực hiện hợp đồng/trả nợ/giải quyết lao động. A không tự toàn trách nhiệm trưởng; B ngân sách không trả; D không xóa. Không loại trừ trách nhiệm riêng nếu có vi phạm, chỉ hỏi quy tắc."
+  },
+  "IMP-T60-083": {
+    "key": "D",
+    "variants": [
+      "Công ty TNHH một thành viên do tổ chức sở hữu dùng mô hình Chủ tịch công ty và Giám đốc. Điều lệ bỏ trống quy định người đại diện pháp luật; người giữ dấu nói mình đương nhiên đại diện. Chọn người đại diện mặc định.",
+      "Giám đốc muốn ký với tư cách đại diện pháp luật chỉ vì điều hành công ty TNHH một thành viên do tổ chức sở hữu. Mô hình có Chủ tịch công ty và Giám đốc, điều lệ không quy định người đại diện. Theo Điều 79(3), chức danh nào là mặc định?"
+    ],
+    "review": "DN79(3): D Chủ tịch công ty trong mô hình đã chọn. A Giám đốc không mặc định; B kế toán/C giữ dấu không đủ. Giữ chủ tổ chức và điều lệ không quy định."
+  },
+  "IMP-T60-084": {
+    "key": "A",
+    "variants": [
+      "Bên cầm cố muốn tặng tài sản đang cầm cố cho người thân và dự định chỉ thông báo sau khi tặng. Không có quy định luật khác áp dụng. Điều kiện chấp thuận nào phải đáp ứng?",
+      "Người nhận tặng đã đồng ý nhận tài sản cầm cố, nhưng bên cầm cố chưa làm rõ sự đồng ý của bên nhận cầm cố. Khi không có cơ chế luật khác, chọn điều kiện cho phép việc tặng cho."
+    ],
+    "review": "312(4): A bên nhận cầm cố đồng ý. B người nhận tặng không đủ; C báo sau không thay; D không tuyệt đối cấm. Giữ cầm cố khác thế chấp."
+  },
+  "IMP-T60-086": {
+    "key": "C",
+    "variants": [
+      "Sau khi bên có nghĩa vụ thực hiện một phần, bên có quyền miễn toàn bộ phần còn lại. Người tư vấn nói nghĩa vụ vẫn tồn tại vì chưa làm đủ trên thực tế. Theo Điều 373, trạng thái nghĩa vụ là gì?",
+      "Khi chốt việc thực hiện nghĩa vụ, hồ sơ ghi phần đã thực hiện và văn bản bên có quyền cho miễn toàn bộ phần chưa thực hiện. Đây là hoàn thành, tạm ngừng hay tự chuyển bồi thường? Chọn nhận định đúng."
+    ],
+    "review": "373: C coi hoàn thành. A không tạm nghỉ tùy ý bên có quyền; B không tự bồi thường; D không đòi thực tế đủ khi miễn. Giữ miễn do bên có quyền, không tự miễn."
+  },
+  "IMP-T60-088": {
+    "key": "D",
+    "variants": [
+      "Người có lối đi hợp pháp qua thửa đất bên cạnh muốn giữ giấy chứng nhận và quản lý mọi công trình của thửa đó, chỉ dựa vào quyền đi qua. Chọn kết luận về việc quyền lối đi có tự cho chiếm hữu toàn bộ không.",
+      "Khi xác định phạm vi quyền đối với bất động sản liền kề, một người cho rằng được đi qua hợp pháp đồng nghĩa được sở hữu và chiếm hữu cả thửa chịu hưởng quyền. Riêng căn cứ lối đi có cho kết quả ấy không?"
+    ],
+    "review": "165(1),245: D chỉ lối đi không tự chiếm cả thửa. A không sở hữu; B không quản mọi công trình; C không tự giữ GCN. Không phủ nhận sử dụng phần lối đi trong phạm vi hợp pháp."
+  },
+  "IMP-T60-089": {
+    "key": "A",
+    "variants": [
+      "Một quyền khác hợp pháp đối với tài sản bị xâm phạm, chủ thể có quyền muốn yêu cầu bồi thường dù không phải chủ sở hữu. Trong các nhóm dưới đây, nhóm nào có quyền yêu cầu theo Điều 170?",
+      "Khi phân biệt người có quyền bị xâm phạm với người chỉ giữ giấy chứng nhận hoặc được lợi thực tế, phải xác định ai có thể yêu cầu người xâm phạm bồi thường. Chọn nhóm được BLDS ghi nhận."
+    ],
+    "review": "170: A chủ hoặc người quyền khác bị xâm phạm. B giữ giấy không bất kể quyền; C không chỉ cơ quan; D lợi không quyền chưa đủ. Không kết luận đã đủ chứng minh mọi yếu tố thiệt hại."
+  },
+  "IMP-T60-090": {
+    "key": "B",
+    "variants": [
+      "Cơ sở đang giữ hợp pháp tài sản là đối tượng hợp đồng song vụ muốn xác định lúc quyền cầm giữ phát sinh, khác lúc đàm phán hoặc hết thời hiệu. Trong quan hệ đủ điều kiện cầm giữ, chọn sự kiện quyết định.",
+      "Người có nghĩa vụ thực hiện không đúng khi đã đến hạn trong quan hệ đủ điều kiện cầm giữ. Bên đang giữ hợp pháp muốn biết có phải chờ người đó từ bỏ sở hữu mới có quyền cầm giữ không. Chọn mốc phát sinh quyền."
+    ],
+    "review": "347(1): B đến hạn không/không đúng. A từ bỏ/C đàm phán/D thời hiệu không mốc. Không nhầm hiệu lực đối kháng khoản2, giữ đủ điều kiện346."
+  },
+  "IMP-T60-091": {
+    "key": "C",
+    "variants": [
+      "Hợp đồng lao động xác định thời hạn đầu tiên vừa hết hạn; trong thời hạn luật cho ký tiếp, người lao động không thuộc bất kỳ ngoại lệ về ký nhiều hợp đồng xác định thời hạn. Hai bên đồng ý tiếp tục. Theo quy tắc chung, còn được ký thêm bao nhiêu hợp đồng loại này?",
+      "Người sử dụng lao động muốn lên kế hoạch nhiều lần gia hạn bằng hợp đồng xác định thời hạn sau lần đầu. Người lao động tiếp tục làm việc, không thuộc ngoại lệ và chưa quá hạn luật định để ký hợp đồng mới. Chọn số lần ký thêm được phép theo quy tắc chung."
+    ],
+    "review": "LĐ20(2c): C thêm1 rồi không xác định nếu tiếp tục. A3/D vô hạn sai; B không được thêm quá chặt. Loại ngoại lệ và quá30 ngày không ký để không đổi nhánh pháp lý."
+  },
+  "IMP-T60-092": {
+    "key": "D",
+    "variants": [
+      "Một thỏa thuận đặt tên hợp đồng dịch vụ cộng tác, nhưng người làm được trả công, tiền lương và chịu quản lý, điều hành, giám sát của bên thuê. Tên gọi có loại quan hệ này khỏi hợp đồng lao động không?",
+      "Bên thuê muốn tránh áp dụng pháp luật lao động bằng cách dùng tên hợp đồng cộng tác. Nội dung vẫn là việc làm có trả công, tiền lương, chịu sự quản lý, điều hành, giám sát của bên thuê. Chọn cách phân loại theo bản chất."
+    ],
+    "review": "LĐ13(1): D tên khác vẫn HĐLĐ với nội dung này. A tên không quyết; B công chứng/C12 tháng không tiền đề. Không chỉ dựa trả tiền mà bỏ quản lý."
+  },
+  "IMP-T60-094": {
+    "key": "A",
+    "variants": [
+      "Nhóm lao động đều từ đủ 18 tuổi nhận công việc mùa vụ dưới 12 tháng muốn cử một người trong nhóm ký thay. Để hợp đồng có hiệu lực như ký với từng người, cần hình thức và phần kèm theo nào?",
+      "Người sử dụng lao động định chỉ nhận chữ ký người được nhóm ủy quyền, không nhận danh sách. Nhóm đều đủ 18 tuổi, làm mùa vụ dưới 12 tháng và ủy quyền một người trong nhóm. Chọn yêu cầu hình thức đúng."
+    ],
+    "review": "LĐ18(2): A văn bản+danh sách thông tin/chữ ký từng người. B thiếu danh sách; C cấm ủy quyền sai; D miệng sai. Giữ mùa vụ<12 tháng và tuổi18+, không mở mọi nhóm."
+  }
+}

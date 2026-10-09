@@ -1,0 +1,226 @@
+{
+  "date": "2026-10-09",
+  "checks": [
+    {
+      "sourceId": "OFFICIAL-BLDS15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "retrievedSha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205",
+      "format": "PDF",
+      "matchesStoredPdfHash": true,
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi."
+    },
+    {
+      "sourceId": "OFFICIAL-CC24",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "retrievedSha256": "04ab735f08c2de548db0ff994002d3ad128a707ec8338b67886b42a77f7070b8",
+      "format": "PDF",
+      "matchesStoredPdfHash": true,
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi."
+    },
+    {
+      "sourceId": "OFFICIAL-DAT-HN26",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+      "retrievedSha256": "b77ce3674564e460f06aec689385f7449eecddf8c77bc2258a45c71e4de04f4b",
+      "format": "HTML",
+      "pageTitle": "Văn bản hợp nhất số 44/VBHN-VPQH hợp nhất Luật Đất đai",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/1/469129-1774926486_v1_1775005859_signed.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izw2OclhAbBLgloehksi0Zobe4XVD-kAXfM35sn2r42-T6-XbFO6f2BNyV83Nl3b84hP2LX1T0ym8r0Ic2Y4yYT7Q~~&amp;file_name=2026_174_44%2fVBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2026_174_44/VBHN-VPQH.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/1/469129-1774926486_v1_1775005859_signed.pdf",
+          "httpStatus": 200,
+          "sha256": "53a9fd698dcc8a303661a86d3222b8a16bd21fb14b50c97a34d56765705db00e",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-DN-HN25",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+      "retrievedSha256": "ade499125047706cf79303ebd83b8469dd5481be944c2c1cfa836d95a6783d1f",
+      "format": "HTML",
+      "pageTitle": "Văn bản hợp nhất số 67/VBHN-VPQH hợp nhất Luật Doanh nghiệp.",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58269-1-20251105-110667-vbhn-vpqh.pdf",
+        "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58272-1-20251107-110867-vbhn-vpqh.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRtj3pIlwJJnq663dx1rDyuCIGPHPBcSBtrEHka4oj6k5X0Q3Uay8pxMRFPAgLoNMdxpPTWEYqkG3qxsz-TxhEWw~~&amp;file_name=2025_1105&#x2B;%2b&#x2B;1106_67-VBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2025_1105 &#x2B; 1106_67-VBHN-VPQH.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRtj3pIlwJJnq663dx1rDyuNevNIet7i1BTwxqsJMrXJRxvPL3zJFEuCIl96kjUicrdEayMG7_EUWkli6aIJCekA~~&amp;file_name=2025_1107&#x2B;%2b&#x2B;1108_67-VBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2025_1107 &#x2B; 1108_67-VBHN-VPQH.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58269-1-20251105-110667-vbhn-vpqh.pdf",
+          "httpStatus": 200,
+          "sha256": "32523c2925b8710d3cdc1a85af36d6a36a6c2a8ecb8192264f36d8e104820aaf",
+          "matchesStoredPdfHash": true
+        },
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58272-1-20251107-110867-vbhn-vpqh.pdf",
+          "httpStatus": 200,
+          "sha256": "e284ab3ffc28f13570293d551fc569be2284db0928208e664690eb3968d6b0da",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-HNGD-HN25",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "retrievedSha256": "f91c4af0557b078dd376790fea9b5dfc7fa48e080c960c64f03e6cf6d2e5cb96",
+      "format": "HTML",
+      "pageTitle": "Văn bản hợp nhất số 121/VBHN-VPQH hợp nhất Luật Hôn nhân và gia đình.",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbROULUaRoHpxqn17Mys35F3TDGlrKS9xqMr5qqKGESTyo2Q5tqSsvBaBeQa489imXncghnjEluuLenduR11jn5zA~~&amp;file_name=2025_1299&#x2B;%2b&#x2B;1300_121-VBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2025_1299 &#x2B; 1300_121-VBHN-VPQH.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+          "httpStatus": 200,
+          "sha256": "e10798da4118e72e3daf13bfb128f5972cc15a7ca16d4baf09fdbf3106b93955",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-LD-HN26",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-18-vbhn-vpqh-468971/62878.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-18-vbhn-vpqh-468971/62878.htm",
+      "retrievedSha256": "b063c9db3b352f0193d504d0c53ad5bf03d1246667ebee52d06cc9c938eaf3f5",
+      "format": "HTML",
+      "pageTitle": "Văn bản hợp nhất số 18/VBHN-VPQH hợp nhất Bộ luật Lao động",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwI587zRY2fhTIuaFHAnYbnzHmwmBUWI8ZZeTO8XFW1XvAuroplEE24-K0yPrnNucqm59z6zV7E3eKQ9El9MtpLg~~&amp;file_name=2026_131_18%2fVBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-18-vbhn-vpqh-468971/2026_131_18/VBHN-VPQH.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+          "httpStatus": 200,
+          "sha256": "9f0ead44c45112ca46882b01036179c23772d1494f7af32024c07f2366a62d27",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-ND10425",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf",
+      "retrievedSha256": "4d2c72968d740e6711409e3cf837237670c4825cd7bc9926d2bb6acd65110473",
+      "format": "PDF",
+      "matchesStoredPdfHash": true,
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi."
+    },
+    {
+      "sourceId": "OFFICIAL-ND21-2021",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+      "retrievedSha256": "035363dc0e5ef3e5bccc248d57de8bbcaef47dac5c3c7b6409a58b8d09f72ced",
+      "format": "HTML",
+      "pageTitle": "Nghị định số 21/2021/NĐ-CP quy định thi hành Bộ luật Dân sự về bảo đảm thực hiện nghĩa vụ.",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2021/3/33477/35291-1-2021487-48821-2021-nd-cp.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRkVrthEpJwjdpSdEpER_PHj5C4BTM7rUzct02dkmt2DMqlS6IKHXwClveBznOM1ZDC-1y4ElJpK_oYpy-ge4seg~~&amp;file_name=2021_487&#x2B;%2b&#x2B;488_21-2021-N%c4%90-CP.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2021_487 &#x2B; 488_21-2021-N&#x110;-CP.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2021/3/33477/35291-1-2021487-48821-2021-nd-cp.pdf",
+          "httpStatus": 200,
+          "sha256": "83c5805f1fa4e048fdc12ceac9fd96217a79680ab1514bb9afa49b3cb2fb73f6",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-NHA-HN26",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+      "retrievedSha256": "54c66ad89236b2aae8abafdd0db7d9da713b7d400fa91753e2e6aa6aa3a13e8c",
+      "format": "HTML",
+      "pageTitle": "Văn bản hợp nhất số 79/VBHN-VPQH hợp nhất Luật Nhà ở",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/10/469209-1775794482_v1_1775811756_signed.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAaHMpvrqWaeHuYm7lW3HNfzTzww8Myg35dDL_fJB4izwuNdieqrdQI6-w4vONsaGuD8YJmc5wAbl9GaXtkHG0n_jD4cHm4fXAqveHDDAMayWKsgVQJlMWG1Ce_MBWQQRqg~~&amp;file_name=2026_204_79%2fVBHN-VPQH.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2026_204_79/VBHN-VPQH.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/10/469209-1775794482_v1_1775811756_signed.pdf",
+          "httpStatus": 200,
+          "sha256": "3d1d5f070accd0646983c9733bd87043f601785547469130d04420eba2a76964",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    },
+    {
+      "sourceId": "OFFICIAL-TT06-2025",
+      "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2025-tt-btp-45016.htm",
+      "checkedAt": "2026-10-09",
+      "globalEffectivityCertification": false,
+      "httpStatus": 200,
+      "finalUrl": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2025-tt-btp-45016.htm",
+      "retrievedSha256": "1c05094b86a12f6b1638423671a3de2c92945b3349de41fc1d5c86f449ac610e",
+      "format": "HTML",
+      "pageTitle": "Thông tư số 06/2025/TT-BTP quy định về tập sự hành nghề công chứng.",
+      "pdfLinks": [
+        "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/5/45016/56630-1-2025759-76006-2025-tt-btp.pdf",
+        "https://g7.cdnchinhphu.vn/api/download/stream?Url=tm-8mq6BhNw0NbrKRhTDAQWsKg3tuqaY0aWypnY78U6M2BY68Ekp0Gvvr483flbRlEeU2V4iwghenS6YcX3wz0DIgfkNcpzaXGO2dsu2Ix1jyt1yKDsSu4OAKmu3BFO4zZnyEG34OQ289q4S-6tA5g~~&amp;file_name=2025_759&#x2B;%2b&#x2B;760_06-2025-TT-BTP.pdf",
+        "https://congbao.chinhphu.vn/van-ban/2025_759 &#x2B; 760_06-2025-TT-BTP.pdf"
+      ],
+      "scope": "Nguồn công bố đã truy xuất; nội dung điều khoản đối chiếu từ hồ sơ đã lưu. Không suy ra đã kiểm tra mọi sửa đổi.",
+      "pdfRetrievals": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/5/45016/56630-1-2025759-76006-2025-tt-btp.pdf",
+          "httpStatus": 200,
+          "sha256": "1eeb16fc53ce739402827400ba334fb0394f72bb12c627e19032220ce94f56c2",
+          "matchesStoredPdfHash": true
+        }
+      ]
+    }
+  ],
+  "allActiveLegallyRecertified": false
+}

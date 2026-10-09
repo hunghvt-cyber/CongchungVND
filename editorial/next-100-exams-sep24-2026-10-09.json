@@ -1,0 +1,194 @@
+{
+  "IMP-SEP24-001": {
+    "key": "A",
+    "variants": [
+      "Hộ gia đình có quyền sử dụng đất chung từ trước khi Luật Đất đai 2024 có hiệu lực. Khi xin giấy chứng nhận ghi tên đại diện theo yêu cầu thống nhất của các thành viên, cơ quan tiếp nhận cho rằng phải ghi chủ hộ. Chọn nhận định về yêu cầu này.",
+      "Các thành viên có chung quyền sử dụng đất của hộ từ trước Luật Đất đai 2024 muốn chọn một thành viên khác chủ hộ đứng tên đại diện trên giấy chứng nhận. Họ đã thống nhất yêu cầu ghi tên đại diện. Việc khác chủ hộ có tự làm lựa chọn này không được phép không?"
+    ],
+    "review": "135(5): A ghi đại diện theo yêu cầu, không bắt chủ hộ. B/C đặt điều kiện chủ hộ/tuổi sai; D phủ nhận cơ chế đại diện. Giữ quyền chung có trước luật, không biến đại diện thành chủ duy nhất."
+  },
+  "IMP-SEP24-002": {
+    "key": "B",
+    "variants": [
+      "Bốn thành viên sáng lập thuê tổ chức thẩm định giá xác định giá máy móc góp vốn khi thành lập công ty; hai người chấp thuận, hai người không. Cần đánh giá kết quả chấp thuận giá thế nào?",
+      "Biên bản thành lập công ty ghi giá máy móc do tổ chức thẩm định giá xác định đã đạt vì đúng 50% thành viên sáng lập đồng ý. Chọn nhận định kiểm tra ngưỡng chấp thuận riêng cho phương thức định giá này."
+    ],
+    "review": "DN36(2): B trên 50%, 2/4 không đủ. A nhầm tự định giá đồng thuận; C nhầm >= với >; D ý kiến người góp không đủ. Giữ thành lập và tổ chức định giá."
+  },
+  "IMP-SEP24-003": {
+    "key": "C",
+    "variants": [
+      "Tất cả thành viên cộng đồng dân cư đồng ý lập văn bản để thừa kế quyền sử dụng đất của cộng đồng cho một cá nhân. Họ yêu cầu công chứng để bảo đảm hiệu lực. Theo phạm vi quyền tại Điều 39, nên kết luận thế nào?",
+      "Một cá nhân cùng địa bàn được cộng đồng chọn để nhận quyền sử dụng đất của cộng đồng bằng hình thức thừa kế. Người tư vấn nói cộng đồng có các quyền như cá nhân nên được thực hiện. Chọn nhận định về ngoại lệ của quy tắc này."
+    ],
+    "review": "Đất39(2): C loại quyền để thừa kế. A cùng nơi ở, B công chứng, D tất cả ký đều không mở quyền này. Không mở rộng kết luận sang mọi giao dịch khác."
+  },
+  "IMP-SEP24-004": {
+    "key": "D",
+    "variants": [
+      "Hội đồng quản trị công ty cổ phần muốn tự chấp thuận việc bán tài sản trị giá 12% tổng tài sản theo báo cáo tài chính gần nhất cho cổ đông sở hữu 51% cổ phần có quyền biểu quyết. Họ viện dẫn giao dịch nhỏ hơn 50%. Cơ quan chấp thuận theo quy tắc riêng phải là ai?",
+      "Tài sản công ty cổ phần bán theo giá thị trường cho cổ đông nắm 51% tổng cổ phần có quyền biểu quyết; giá trị bằng 12% tổng tài sản trong báo cáo tài chính gần nhất. Việc có giá thị trường có cho Giám đốc tự duyệt không? Chọn cơ quan phải chấp thuận."
+    ],
+    "review": "DN167(3b): D vì >10% và >=51%. A dùng sai ngưỡng, B giá thị trường không miễn, C người mua không thay cơ quan công ty. Giữ loại bán và hai tỷ lệ."
+  },
+  "IMP-SEP24-009": {
+    "key": "A",
+    "variants": [
+      "Hàng đã tới đúng nơi, đúng hạn nhưng người được chỉ định nhận vắng mặt. Bên vận chuyển gửi hàng tại nơi nhận gửi giữ rồi lập hóa đơn chi phí, chưa thông báo. Bước nào còn cần để hoàn thành nghĩa vụ giao theo BLDS?",
+      "Bên vận chuyển cho rằng đã hoàn thành giao hàng ngay khi gửi hàng tại nơi nhận gửi giữ do không có người nhận ở địa điểm giao đúng hạn. Chọn việc phải làm thêm để đánh giá hoàn thành nghĩa vụ này."
+    ],
+    "review": "538(3): A thông báo ngay bên thuê/người chỉ định. B hóa đơn không thay báo; C không phải đợi lấy; D không cần Tòa mọi trường hợp. Giữ đúng nơi/đúng hạn/vắng người nhận."
+  },
+  "IMP-SEP24-010": {
+    "key": "B",
+    "variants": [
+      "Khoản nợ đã thuộc trường hợp xử lý tài sản thế chấp, nhưng hợp đồng không chọn phương thức xử lý và không có quy định chuyên ngành khác. Chủ nợ muốn tự nhận tài sản thay nợ. Phương thức mặc định theo luật là gì?",
+      "Khi rà điều khoản xử lý thế chấp, hồ sơ không có thỏa thuận bán, nhận tài sản hay cách xử lý khác; cũng không thuộc ngoại lệ luật chuyên ngành. Chọn phương thức được áp dụng để lấp khoảng trống này."
+    ],
+    "review": "303(2): B đấu giá khi không thỏa thuận/không luật khác. A không chia bất kể ưu tiên; C/D không tự nhận hay tự định giá. Không thêm thỏa thuận làm đổi khóa."
+  },
+  "IMP-SEP24-011": {
+    "key": "C",
+    "variants": [
+      "Người tập sự nộp báo cáo kết quả và sổ nhật ký đều là bản sao có chứng thực trong hồ sơ đề nghị công nhận hoàn thành. Cán bộ yêu cầu đổi cả hai thành bản chính chỉ vì loại bản sao. Yêu cầu này được đánh giá thế nào?",
+      "Một hồ sơ công nhận hoàn thành tập sự không bị nghi ngờ nội dung nhưng bị trả lại vì báo cáo và sổ nhật ký là bản sao chứng thực hợp lệ. Chọn nhận định về các hình thức giấy tờ được TT06/2025 cho phép."
+    ],
+    "review": "TT11(1b): C cả hai được dùng bản chính/chứng thực/điện tử. A/D bắt chính sai; B không điều kiện 5 năm. Chỉ đánh giá lý do loại bản, không mặc định hồ sơ hoàn toàn đạt."
+  },
+  "IMP-SEP24-016": {
+    "key": "D",
+    "variants": [
+      "Một người đã bị chấm dứt tập sự theo điểm l khoản 1 Điều 9 vì tiếp tục vi phạm sau nhắc nhở và yêu cầu sửa bằng văn bản. Nay có tổ chức mới nhận và đủ các điều kiện khác. Thời gian chờ đăng ký lại phải tính theo mốc nào?",
+      "Tổ chức nhận mới muốn đăng ký lại ngay cho người từng bị chấm dứt tập sự vì vẫn vi phạm sau yêu cầu sửa chữa bằng văn bản, thuộc điểm l khoản 1 Điều 9. Chỉ xét điều kiện chờ theo điểm d khoản 3, chọn thời điểm sớm nhất khi các điều kiện còn lại đã đủ."
+    ],
+    "review": "TT9(3d): D sau 1 năm quyết định có hiệu lực; A nơi mới không miễn; B tính từ nghỉ sai; C 30 ngày sai. Giữ đúng điểm l, không coi 1 năm là quy tắc mọi chấm dứt."
+  },
+  "IMP-SEP24-017": {
+    "key": "A",
+    "variants": [
+      "Người tập sự chỉ tự ký nhật ký hàng ngày và dự định xin Sở Tư pháp xác nhận khi kết thúc. Để hoàn thiện việc xác nhận sổ theo TT06/2025, cần những chủ thể và nhịp xác nhận nào?",
+      "Tổ chức nhận tập sự đang xây quy trình kiểm tra nhật ký từ trong quá trình tập sự đến lúc kết thúc. Chọn cách phân công xác nhận đáp ứng luật thay vì chỉ xin một chữ ký ở ngày bắt đầu."
+    ],
+    "review": "TT10(1): A CCV hằng tuần+tổ chức kết thúc. B Sở không thay; C tự ký không đủ; D chỉ bắt đầu không đủ. Phân biệt người lập sổ với người xác nhận."
+  },
+  "IMP-SEP24-019": {
+    "key": "B",
+    "variants": [
+      "Cơ sở sửa chữa đủ điều kiện cầm giữ máy khi khách không thanh toán đến hạn. Người thứ ba cho rằng chưa có bản án xác nhận nợ thì chưa có hiệu lực đối kháng. Mốc phát sinh đối kháng của cầm giữ được xác định thế nào?",
+      "Khi so sánh việc thỏa thuận giá sửa, chiếm giữ máy do đủ điều kiện cầm giữ và việc kiện đòi nợ về sau, mốc nào quyết định hiệu lực đối kháng của cầm giữ với người thứ ba?"
+    ],
+    "review": "347(2): B lúc chiếm giữ theo cầm giữ. A bản án không tiền đề; C thỏa thuận giá không mốc; D đăng ký đất không áp. Nêu đủ điều kiện cầm giữ, không nhầm lúc nhận máy sửa."
+  },
+  "IMP-SEP24-020": {
+    "key": "C",
+    "variants": [
+      "Con cả yêu cầu làm giám hộ đương nhiên cho cha bị Tòa án tuyên mất năng lực vì mình trẻ hơn mẹ. Không có người giám hộ theo khoản 2 Điều 48; mẹ là vợ người mất năng lực và đủ điều kiện giám hộ, con cả cũng đủ điều kiện. Ai được xác định theo thứ tự luật?",
+      "Gia đình phải chọn giám hộ đương nhiên cho người chồng đã bị tuyên mất năng lực. Không áp người giám hộ theo khoản 2 Điều 48; vợ và con cả đều đủ điều kiện. Có thể bỏ qua vợ để giao ngay cho cha hoặc các con không? Chọn người theo luật."
+    ],
+    "review": "53(1,2): C ưu tiên vợ đủ điều kiện. A/B/D bỏ qua nhóm vợ sai. Giữ loại trừ giám hộ chọn trước và tình trạng đủ điều kiện."
+  },
+  "IMP-SEP24-022": {
+    "key": "D",
+    "variants": [
+      "Tổ chức trong nước muốn góp vốn bằng quyền sử dụng đất được giao không thu tiền sử dụng đất, cam kết doanh nghiệp cùng ngành và không đổi mục đích đất. Các cam kết này có tạo quyền góp vốn theo Điều 32 không?",
+      "Toàn bộ thành viên một tổ chức trong nước biểu quyết dùng quyền sử dụng đất được Nhà nước giao không thu tiền làm phần vốn trong doanh nghiệp. Chọn kết luận về phạm vi quyền đối với chính quyền sử dụng đất ấy."
+    ],
+    "review": "Đất32(2): D không góp vốn QSDĐ. A ngành nghề, B đồng thuận, C giữ mục đích không khắc phục. Giữ giao không thu tiền, chỉ hỏi QSDĐ không phải tài sản gắn đất."
+  },
+  "IMP-SEP24-025": {
+    "key": "A",
+    "variants": [
+      "Bên bán ghi trong thư đề nghị rằng không phản hồi sau ba ngày sẽ được hiểu là chấp thuận. Hai bên chưa thỏa thuận cơ chế này và không có thói quen tương ứng; bên nhận không trả lời. Chọn kết luận về sự im lặng.",
+      "Một đề nghị giao kết được gửi bằng văn bản, bên nhận đã đọc nhưng im lặng. Không có thỏa thuận hoặc thói quen giữa các bên coi im lặng là chấp thuận. Có thể xác định chấp nhận chỉ từ việc đã nhận văn bản không?"
+    ],
+    "review": "393(2): A đã loại cả ngoại lệ. B thời gian, C văn bản, D đơn phương quy định không đủ. Không thêm hành vi thực hiện như chấp nhận."
+  },
+  "IMP-SEP24-028": {
+    "key": "B",
+    "variants": [
+      "Hợp đồng chứa nghĩa vụ được bảo đảm bị tuyên vô hiệu trước khi các bên thực hiện bất cứ phần nào. Bên nhận bảo đảm muốn giữ hợp đồng bảo đảm để thu lợi nhuận dự kiến. Theo NĐ21/2021, chọn kết quả đối với hợp đồng bảo đảm.",
+      "Khi kiểm tra hậu quả hợp đồng chính vô hiệu, hồ sơ xác nhận các bên chưa thực hiện hợp đồng có nghĩa vụ được bảo đảm. Có cần chờ bên nhận bảo đảm đồng ý mới kết thúc hợp đồng bảo đảm không? Chọn cách xử lý đúng."
+    ],
+    "review": "NĐ21 Điều29(2a): B chấm dứt, không dùng nhánh đã thực hiện. A không chuyển mua bán; C lợi nhuận không được bảo đảm tiếp; D không phụ thuộc đồng ý. Giữ chưa thực hiện toàn bộ."
+  },
+  "IMP-SEP24-030": {
+    "key": "C",
+    "variants": [
+      "Bên nhờ mang thai hộ nhân đạo yêu cầu tiếp tục thai kỳ dù bác sĩ phát hiện đe dọa nghiêm trọng sức khỏe người mang thai hộ. Theo điều kiện luật về chăm sóc sức khỏe sinh sản, bên nào có quyền quyết định tiếp tục hay không?",
+      "Thỏa thuận mang thai hộ nhân đạo đã công chứng và bên nhờ đã trả đủ chi phí. Khi xuất hiện nguy cơ nghiêm trọng đối với tính mạng người mang thai hộ, việc quyết định tiếp tục thai kỳ phù hợp luật thuộc ai?"
+    ],
+    "review": "HNGĐ97(4): C người mang thai hộ vì lý do sức khỏe/tính mạng. A công chứng không nắm quyết định; B/D bên nhờ không độc quyền. Không mô tả quyền tùy ý bỏ điều kiện chuyên ngành."
+  },
+  "IMP-SEP24-033": {
+    "key": "D",
+    "variants": [
+      "Chủ đất muốn chấm dứt quyền bề mặt đã xác lập nhưng không xác định thời hạn, cho rằng chỉ cần báo miệng vì không có ngày hết hạn. Yêu cầu về hình thức và khoảng báo trước theo BLDS là gì?",
+      "Bên hưởng quyền bề mặt muốn dừng quan hệ không có thời hạn xác định mà không chờ bên kia đồng ý. Để thực hiện quyền chấm dứt này, chọn thủ tục thông báo mặc định theo luật."
+    ],
+    "review": "270(2): D văn bản >=6 tháng. A 30 ngày sai; B không hạn không miễn báo; C không bắt đồng ý hai bên. Giữ quyền bề mặt không chuyển thuê."
+  },
+  "IMP-SEP24-034": {
+    "key": "A",
+    "variants": [
+      "Bên nhờ mang thai hộ nhân đạo nói chưa nhận trẻ nên chưa có nghĩa vụ với trẻ dù trẻ đã sinh ra. Chọn thời điểm phát sinh quyền, nghĩa vụ của bên nhờ đối với con.",
+      "Trẻ sinh từ mang thai hộ nhân đạo còn ở cơ sở y tế, chưa giao cho bên nhờ và chưa được cấp giấy khai sinh. Mốc nào xác định bắt đầu quyền, nghĩa vụ của bên nhờ với con?"
+    ],
+    "review": "HNGĐ98(2): A sinh ra. B nhận con không trì hoãn; C khai sinh không mốc; D ký thỏa thuận trước sinh không mốc. Không nhầm mốc chế độ thai sản của mẹ nhờ."
+  },
+  "IMP-SEP24-036": {
+    "key": "B",
+    "variants": [
+      "Hai bên giao kết hợp đồng vì lợi ích người thứ ba muốn hủy trước khi thực hiện. Người thứ ba đã đồng ý hưởng lợi nhưng phản đối hủy. Chọn kết luận về quyền hủy của hai bên.",
+      "Sau khi người thứ ba chấp thuận hưởng lợi từ hợp đồng, hai bên muốn hoàn trả mọi khoản đã nhận và hủy hợp đồng mà không có sự đồng ý của người thứ ba. Cách xử lý nào phù hợp?"
+    ],
+    "review": "417: B cần đồng ý người hưởng đã chấp thuận. A hoàn trả không thay đồng ý; C không ký không tước quyền; D chưa thực hiện không miễn. Giữ chấp thuận hưởng và không đồng ý hủy."
+  },
+  "IMP-SEP24-040": {
+    "key": "C",
+    "variants": [
+      "Sở Tư pháp nhận thông báo tổ chức tập sự không còn CCV đủ điều kiện hướng dẫn. Địa phương vẫn có tổ chức khác đủ điều kiện nhận. Thời hạn Sở chỉ định nơi nhận khác từ lúc nhận thông báo là bao lâu?",
+      "CCV duy nhất đủ điều kiện hướng dẫn tại nơi tập sự không còn đáp ứng điều kiện; tổ chức đã thông báo theo Điều 6 TT06/2025. Chọn thời hạn áp dụng cho Sở Tư pháp chỉ định tổ chức khác, tính từ khi Sở nhận thông báo."
+    ],
+    "review": "TT6(2): C 7 ngày làm việc, khác 5 ngày phân công nội bộ. A15/B30/D3 sai. Giữ không còn người đủ điều kiện, không dùng nhánh còn người thay nội bộ."
+  },
+  "IMP-SEP24-041": {
+    "key": "D",
+    "variants": [
+      "Người tập sự tạm ngừng vì sức khỏe đúng thủ tục rồi trở lại, không thuộc trường hợp đăng ký lại ở khoản 3 Điều 9. Tổ chức muốn xóa thời gian đã làm trước đó như chấm dứt tập sự. Chọn cách tính đúng.",
+      "Khi cộng thời gian tập sự sau một đợt tạm ngừng hợp lệ vì sức khỏe, phải phân biệt khoảng nghỉ với thời gian đã tập sự trước nghỉ. Người này không thuộc diện đăng ký lại khoản 3 Điều 9. Phần đã tập sự trước nghỉ được xử lý thế nào?"
+    ],
+    "review": "TT8(4),9(6): D cộng thời gian trước tạm ngừng, không cộng thời gian nghỉ. A nhầm chấm dứt; B một nửa không luật; C không cần đã đủ 12 tháng. Giữ ngoại lệ đăng ký lại đã loại."
+  },
+  "IMP-SEP24-044": {
+    "key": "A",
+    "variants": [
+      "Người lập di chúc đã được công chứng theo ngoại lệ tính mạng bị cái chết đe dọa và chưa xuất trình đủ giấy tờ. Sau 3 tháng đã hết nguy hiểm nhưng vẫn không nộp đủ, cho rằng chỉ cần trả phí bổ sung. Hệ quả đối với văn bản công chứng di chúc là gì?",
+      "CCV rà hồ sơ di chúc công chứng khẩn cấp vì tính mạng bị đe dọa: đã ghi việc thiếu giấy tờ, sau 3 tháng người lập không còn nguy hiểm nhưng chưa nộp đủ giấy tờ theo luật. Chọn hệ quả được Điều 58(3) quy định."
+    ],
+    "review": "CC58(3): A văn bản không hiệu lực. B không miễn nộp sau hết nguy hiểm; C phí không chữa; D không tự chuyển di chúc miệng. Giữ 3 tháng và đã hết nguy hiểm, không dùng già yếu đơn thuần."
+  },
+  "IMP-SEP24-045": {
+    "key": "B",
+    "variants": [
+      "Người giữ giấy chứng nhận nhà nói mọi người đồng ý là đủ công chứng phân chia di sản. Để tránh nhầm tài sản của người chết và người có quyền hưởng, hai nội dung trọng tâm CCV phải kiểm tra là gì?",
+      "Một hồ sơ phân chia có đầy đủ người ký và thông tin cư trú, giá tài sản, nhưng chưa làm rõ tư cách pháp lý của tài sản và người nhận. Chọn cặp nội dung phải được CCV kiểm tra theo Điều 59(3)."
+    ],
+    "review": "CC59(3): B quyền tài sản của người chết+quyền hưởng người yêu cầu. A giữ GCN không đủ; C giá/thu nhập không cặp trọng tâm; D cư trú/số người không thay kiểm tra. Không mô tả hai mục là toàn bộ thủ tục."
+  },
+  "IMP-SEP24-049": {
+    "key": "C",
+    "variants": [
+      "Người nhận tặng cho căn nhà yêu cầu bên thuê rời đi ngay sau khi được cấp giấy chứng nhận. Hợp đồng thuê còn hạn và không có thỏa thuận xử lý khác. Quyền tiếp tục thuê được xác định thế nào?",
+      "Chủ nhà đang có hợp đồng thuê còn hạn định tặng nhà cho con. Người thuê được báo về việc tặng cho nhưng chưa thỏa thuận chấm dứt hoặc sửa hợp đồng. Việc đổi chủ có buộc ký hợp đồng mới để ở tiếp không? Chọn kết luận đúng."
+    ],
+    "review": "Nhà177(2b): C tiếp tục hết hạn trừ thỏa thuận. A/D không chấm dứt lúc cấp GCN/ký tặng; B không bắt hợp đồng mới. Không nhầm nghĩa vụ báo 30 ngày với mất quyền thuê."
+  },
+  "IMP-SEP24-050": {
+    "key": "D",
+    "variants": [
+      "Người thừa kế chủ nhà yêu cầu người ở nhờ rời nhà chỉ vì bên cho ở nhờ đã chết. Hợp đồng còn hạn, nhà tồn tại, người ở nhờ sống và không thỏa thuận chấm dứt do chủ chết. Chọn nhận định theo danh mục Điều 180(2).",
+      "Khi rà căn cứ chấm dứt cho ở nhờ, bên nhận nhà thừa kế cho rằng quy định về cá nhân chết áp dụng cả cho bên cho ở nhờ. Chủ nhà đã chết, người ở nhờ còn sống, nhà còn và hợp đồng chưa hết hạn, không thỏa thuận khác. Nhận định nào đúng?"
+    ],
+    "review": "Nhà180(2c,e): D danh mục bên mượn/ở nhờ chết, không bên cho. A mọi hợp đồng sai; B quan hệ thừa kế không ngoại lệ này; C thiếu công chứng không đổi đối tượng chết. Giữ loại trừ các căn cứ khác."
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "IMP-T60-001": {
+    "key": "A",
+    "variants": [
+      "Một doanh nghiệp muốn dùng lô hàng tiêu hao thuộc sở hữu mình, xác định được cụ thể, làm bảo đảm. Người tư vấn viện dẫn việc không được cho thuê vật tiêu hao để loại cả bảo đảm. Chọn nhận định đúng về lập luận này.",
+      "Khi phân loại tài sản bảo đảm, một lô nguyên liệu tiêu hao của bên bảo đảm đã xác định cụ thể bị đề nghị loại chỉ vì sử dụng một lần sẽ mất đi. Riêng đặc tính tiêu hao có cấm dùng làm bảo đảm không?"
+    ],
+    "review": "295(1,2): A tiêu hao không tự bị loại. B nhầm thuê/mượn; C không chỉ BĐS; D không chỉ đặc định. Chưa xác nhận mọi điều kiện khác, giữ sở hữu và xác định được."
+  },
+  "IMP-T60-005": {
+    "key": "B",
+    "variants": [
+      "Một bảng phân loại ghi tài sản, việc phải làm và việc phải kiêng làm là đối tượng nghĩa vụ, còn thỏa thuận là căn cứ phát sinh. Chọn nhóm đối tượng đầy đủ theo BLDS.",
+      "Khi thiết kế nghĩa vụ giao tài sản, thực hiện dịch vụ và không thực hiện một hành vi, cần dùng nhóm khái niệm nào cho đối tượng nghĩa vụ thay vì liệt kê nguồn phát sinh như thỏa thuận hay bản án?"
+    ],
+    "review": "276(1): B đủ tài sản/công việc làm/không làm. A căn cứ không phải nhóm đối tượng; C thiếu không làm; D quá hẹp. Không dùng hợp đồng làm đối tượng độc lập."
+  },
+  "IMP-T60-006": {
+    "key": "C",
+    "variants": [
+      "Bên cho vay nói cứ ký hợp đồng vay thì mọi biện pháp bảo đảm đều đối kháng người thứ ba, không cần xét loại bảo đảm. Quy tắc chung BLDS yêu cầu xác định căn cứ nào?",
+      "Khi so sánh các biện pháp bảo đảm, không thể chọn chung mốc ý định bảo đảm hoặc mốc vi phạm nghĩa vụ cho hiệu lực đối kháng. Chọn nhóm căn cứ làm phát sinh đối kháng với người thứ ba theo từng cơ chế."
+    ],
+    "review": "297(1): C đăng ký/nắm giữ/chiếm giữ theo loại. A vi phạm không mốc chung; B ý định không đủ; D ký vay không mốc chung. Không nói mỗi biện pháp được tùy chọn mọi cơ chế."
+  },
+  "IMP-T60-007": {
+    "key": "D",
+    "variants": [
+      "Một hợp đồng bảo đảm đã có hiệu lực giữa các bên. Do biện pháp bảo đảm chưa có hiệu lực đối kháng, bên bảo đảm đề nghị coi hợp đồng đương nhiên vô hiệu. Theo NĐ21/2021, lập luận đó được xử lý thế nào?",
+      "Trong hồ sơ bảo đảm, hiệu lực pháp luật của hợp đồng đã được xác định nhưng hiệu lực đối kháng chưa phát sinh. Việc giải ngân hay giá trị tài sản có tự làm hợp đồng thay đổi hoặc chấm dứt vì thiếu đối kháng không? Chọn nhận định đúng."
+    ],
+    "review": "NĐ21 Điều22(4): D không làm thay đổi/chấm dứt. A nhầm vô hiệu; B giải ngân không lý do; C không ngưỡng100 triệu. Tách rõ hai hiệu lực."
+  },
+  "IMP-T60-008": {
+    "key": "A",
+    "variants": [
+      "Các bên đang xem xét đăng ký hoặc giao tài sản để bảo đảm đối kháng người thứ ba. Trước khi xét cơ chế tương ứng, điều kiện nào về hợp đồng bảo đảm phải được đáp ứng theo NĐ21/2021?",
+      "Bên nhận bảo đảm cho rằng chỉ cần người thứ ba ký xác nhận biết hợp đồng, không cần kiểm tra hiệu lực hợp đồng bảo đảm. Chọn điều kiện tiền đề pháp lý của việc phát sinh hiệu lực đối kháng."
+    ],
+    "review": "NĐ21 Điều23(1): A hợp đồng đã hiệu lực là cần, chưa đủ tự tạo đối kháng. B nợ quá hạn, C bản án, D người thứ ba biết không tiền đề này."
+  },
+  "IMP-T60-009": {
+    "key": "B",
+    "variants": [
+      "Nghĩa vụ có đối tượng là căn nhà, các bên chưa thỏa thuận địa điểm thực hiện. Bên có nghĩa vụ muốn chọn nơi mình cư trú dù khác nơi có nhà. Theo quy tắc mặc định, địa điểm nào áp dụng?",
+      "Hồ sơ ghi nơi ký hợp đồng và trụ sở tổ chức công chứng ở địa phương khác với bất động sản là đối tượng nghĩa vụ. Không có thỏa thuận địa điểm thực hiện. Chọn địa điểm luật định thay cho các địa chỉ thủ tục ấy."
+    ],
+    "review": "277(2a): B nơi BĐS. A công chứng/D ký không thay; C cư trú bên nghĩa vụ sai. Giữ đối tượng BĐS và thiếu thỏa thuận."
+  },
+  "IMP-T60-010": {
+    "key": "C",
+    "variants": [
+      "Một di chúc hợp lệ thể hiện ý chí riêng người lập định đoạt tài sản sau chết, không có thỏa thuận ký với người thừa kế. Có thể xem đây là giao dịch dân sự theo loại hành vi nào?",
+      "Người tư vấn loại di chúc hợp lệ khỏi khái niệm giao dịch vì chỉ người lập thể hiện ý chí, không phải hợp đồng giữa hai bên. Chọn nhận định về phạm vi giao dịch dân sự để đánh giá lập luận này."
+    ],
+    "review": "116: C hành vi đơn phương có thể là giao dịch. A không chỉ đền bù; B người hưởng không cần chấp thuận để phân loại; D không bắt hai bên. Giữ ví dụ di chúc để khớp đáp án B."
+  },
+  "IMP-T60-011": {
+    "key": "D",
+    "variants": [
+      "Các bên muốn cho thuê một lượng nhiên liệu tiêu hao để sử dụng rồi trả lại chính vật đó. Đặc tính nào của vật tiêu hao giải thích việc không được là đối tượng thuê theo BLDS?",
+      "Người tư vấn nói cấm thuê vật tiêu hao vì không thể thuộc sở hữu cá nhân hoặc vì mọi vật cùng loại đều cấm thuê. Chọn căn cứ đúng từ tính chất sử dụng của vật tiêu hao."
+    ],
+    "review": "112(1): D mất/không giữ tính chất sau một lần. A sở hữu/B cấm lưu thông không quy tắc; C cùng loại không đồng nghĩa tiêu hao. Không lẫn với tài sản bảo đảm."
+  },
+  "IMP-T60-012": {
+    "key": "A",
+    "variants": [
+      "Bức tranh được xác định riêng mà bên bán có nghĩa vụ giao đã bị hư hỏng. Bên bán đề nghị giao mảnh tranh hoặc tự chọn tranh khác để khỏi trả giá trị. Theo BLDS, chọn cách xác định trách nhiệm về vật và thiệt hại.",
+      "Bên mua yêu cầu xử lý việc không được giao đúng bức tranh đặc định vì tranh bị hư hỏng. Cần phân biệt thanh toán giá trị vật với bồi thường thiệt hại do vi phạm. Phương án nào phản ánh đủ hai nội dung này?"
+    ],
+    "review": "356(1,3): A trả giá trị, bồi thường nếu gây thiệt hại. B thiếu giá trị; C không tự thay đặc định; D mảnh hỏng không đáp ứng. Giữ tranh và không thêm sự kiện miễn trách nhiệm."
+  },
+  "IMP-T60-013": {
+    "key": "B",
+    "variants": [
+      "Một người có quyền hưởng dụng hợp pháp còn hiệu lực đối với tài sản. Chủ sở hữu xuất trình giấy tờ sở hữu để yêu cầu lấy lại ngay, chỉ dựa vào tư cách chủ. Chọn giới hạn quyền đòi lại theo Điều 166(2).",
+      "Chủ sở hữu muốn thu hồi tài sản dù người đang chiếm hữu còn có quyền khác hợp pháp đối với tài sản ấy. Không có sự kiện chấm dứt quyền kia. Việc chủ sở hữu không muốn tiếp tục có đủ cho đòi lại ngay không?"
+    ],
+    "review": "166(2): B không đòi từ người đang có quyền khác. A phá quyền/C luôn lấy/D chứng thư không làm quyền hết. Giữ quyền khác hợp pháp đang tồn tại."
+  },
+  "IMP-T60-014": {
+    "key": "C",
+    "variants": [
+      "Khi rà phạm vi đại diện của cha mẹ, một bảng chỉ ghi con dưới 15 tuổi và bỏ con từ 15 đến dưới 18 cùng con thành niên mất năng lực. Không có giám hộ hay đại diện khác theo luật. Chọn nhóm phải được ghi theo quy tắc chung.",
+      "Một gia đình cho rằng cùng hộ khẩu đủ để cha mẹ đại diện cả con thành niên có đầy đủ năng lực. Theo Điều 73(1), khi không có người giám hộ hoặc đại diện khác, phạm vi đại diện theo pháp luật thực sự gồm nhóm nào?"
+    ],
+    "review": "HNGĐ73(1): C chưa thành niên+thành niên mất năng lực. A quá hẹp; B cư trú không đủ; D mọi con quá rộng. Giữ ngoại lệ đại diện khác đã loại."
+  },
+  "IMP-T60-015": {
+    "key": "D",
+    "variants": [
+      "Người 17 tuổi chưa kết hôn được một người khác ủy quyền thực hiện giao dịch không thuộc loại luật bắt người xác lập, thực hiện từ đủ 18 tuổi. Nếu chỉ xét tuổi, có thể bác tư cách đại diện không?",
+      "Một văn bản ủy quyền chọn người 17 tuổi làm đại diện cho người ngoài gia đình. Giao dịch không có yêu cầu luật định phải do người từ đủ 18 tuổi thực hiện. Chọn nhận định riêng về điều kiện tuổi của người đại diện."
+    ],
+    "review": "138(3): D nhóm15-<18 được ủy quyền trừ giao dịch yêu cầu18. A ngưỡng tuyệt đối sai; B không yêu cầu kết hôn; C không chỉ cha mẹ. Không thêm điều kiện chuyên ngành chưa biết."
+  },
+  "IMP-T60-016": {
+    "key": "A",
+    "variants": [
+      "Người lập di chúc đồng ý bằng văn bản cho CCV công chứng dù chính CCV được chỉ định hưởng một phần di sản trong di chúc ấy. Sự đồng ý có khắc phục điều cấm đối với CCV không?",
+      "CCV được hưởng theo di chúc dưới một nửa di sản và không quản lý di sản, muốn tự công chứng di chúc đang chỉ định mình. Chọn cách xử lý tư cách công chứng trong tình huống xung đột lợi ích này."
+    ],
+    "review": "637(1,3): A không công chứng di chúc đó. B đồng ý/C tỷ lệ/D không quản lý không ngoại lệ. Giữ CCV là người hưởng theo di chúc."
+  },
+  "IMP-T60-019": {
+    "key": "B",
+    "variants": [
+      "Một tòa chung cư trong dự án đủ điều kiện bán cho các đối tượng nước ngoài thuộc nhóm chịu hạn mức. Chủ đầu tư Việt Nam muốn bán vượt hạn với lý do người bán là doanh nghiệp Việt Nam. Tổng hạn mức sở hữu của nhóm này tính thế nào?",
+      "Khi kiểm kê phần căn hộ do đối tượng nước ngoài thuộc diện luật định sở hữu trong một tòa chung cư đủ điều kiện, cần áp ngưỡng theo số căn hộ hay số tòa nhà dự án? Chọn giới hạn đúng."
+    ],
+    "review": "Nhà19(1): B không quá30% căn từng tòa. A chủ đầu tư không miễn; C50 sai; D số tòa sai. Nêu nhóm chịu hạn mức, không mở đến cá nhân có cơ chế kết hôn riêng."
+  },
+  "IMP-T60-020": {
+    "key": "C",
+    "variants": [
+      "Một cá nhân nước ngoài được phép nhập cảnh mua căn hộ đủ điều kiện, không thuộc cơ chế sở hữu riêng do kết hôn. Hồ sơ có ngày đặt cọc, ngày ký và ngày cấp giấy chứng nhận khác nhau. Chọn thời hạn sở hữu chung và mốc bắt đầu, chưa xét gia hạn.",
+      "Hợp đồng mua căn hộ đủ điều kiện của cá nhân nước ngoài dự kiến thời hạn sở hữu dài hơn 50 năm dù không có trường hợp kết hôn hưởng cơ chế riêng. Người mua được phép nhập cảnh. Theo quy tắc chung chưa xét gia hạn, phải xác định thời hạn thế nào?"
+    ],
+    "review": "Nhà20(2c): C thỏa thuận <=50 năm từ GCN. A đặt cọc/B30 từ ký sai; D không luôn lâu dài. Giữ cá nhân đủ điều kiện, loại kết hôn/gia hạn."
+  },
+  "IMP-T60-021": {
+    "key": "D",
+    "variants": [
+      "Một hợp đồng đã lập bằng văn bản nhưng thiếu công chứng, chứng thực bắt buộc. Để yêu cầu Tòa án công nhận theo Điều 129(2), khi các điều kiện khác đủ, mức thực hiện nghĩa vụ tối thiểu nào cần kiểm tra?",
+      "Các bên muốn khắc phục vi phạm yêu cầu công chứng, chứng thực của giao dịch bằng văn bản bằng yêu cầu Tòa án công nhận. Khoản đặt cọc bất kỳ hay thực hiện một nửa chưa đương nhiên đủ. Chọn ngưỡng thực hiện nghĩa vụ mà điều luật quy định."
+    ],
+    "review": "129(2): D ít nhất2/3. A1/2 không đủ; B không bắt toàn bộ; C đặt cọc tùy ý không ngưỡng. Giữ Tòa công nhận, không tự công nhận bởi CCV."
+  },
+  "IMP-T60-025": {
+    "key": "B",
+    "variants": [
+      "Khách không trả tiền sửa máy đã đến hạn. Cơ sở đang nắm giữ hợp pháp chính máy theo hợp đồng song vụ và muốn dùng cầm giữ. Trong các tài sản liệt kê, quyền này phải gắn với tài sản nào?",
+      "Cơ sở sửa chữa định giữ một tài sản khác của khách để bảo đảm tiền sửa máy chưa trả đến hạn. Chiếc máy đang được giữ hợp pháp và là đối tượng hợp đồng song vụ. Chọn tài sản thuộc cơ chế cầm giữ của hợp đồng này."
+    ],
+    "review": "346: B chính máy thuộc hợp đồng đang giữ hợp pháp. A tiền gửi cơ sở/D tài sản cơ sở không đối tượng; C không được giữ mọi tài sản khách. Giữ đến hạn và giữ hợp pháp."
+  },
+  "IMP-T60-027": {
+    "key": "D",
+    "variants": [
+      "Những người chứng kiến ý chí cuối cùng bằng lời muốn đợi đến khi mở thừa kế mới ghi lại và xin xác nhận. Ngoài các điều kiện chung của di chúc miệng, chuỗi việc nào họ phải làm để đáp ứng tính hợp pháp?",
+      "Một người không thể lập di chúc bằng văn bản trong trường hợp luật cho phép di chúc miệng. Cần chuẩn bị số người làm chứng, việc ghi ý chí và xác nhận chữ ký/điểm chỉ thế nào, ngoài các điều kiện chung?"
+    ],
+    "review": "630(5): D >=2, ghi ngay, cùng ký/điểm chỉ, xác nhận trong5 ngày làm việc từ thể hiện ý chí. A thiếu ghi; B30 ngày sai; C1 người hưởng sai. Không đồng nhất xác nhận người chứng với công chứng nội dung miệng."
+  },
+  "IMP-T60-030": {
+    "key": "A",
+    "variants": [
+      "Một người thân được chọn giám sát giám hộ có liên quan quản lý tài sản người được giám hộ, cho rằng quan hệ thân thích miễn đăng ký. Nếu phải đăng ký theo BLDS, nơi nào có thẩm quyền?",
+      "Nơi cư trú của người được giám hộ khác nơi người giám sát làm việc và nơi người giám hộ có tài sản. Việc giám sát có liên quan quản lý tài sản. Chọn địa chỉ đăng ký người giám sát theo luật."
+    ],
+    "review": "51(1): A UBND xã nơi người được giám hộ cư trú. B nơi làm việc/C nơi tài sản người giám hộ sai; D thân nhân không miễn. Giữ điều kiện liên quan quản lý tài sản."
+  },
+  "IMP-T60-031": {
+    "key": "B",
+    "variants": [
+      "Người giám hộ muốn bán một tài sản giá trị lớn của người chưa thành niên được giám hộ vì lợi ích của người đó. Giá bán hợp lý và người mua có cam kết không thay được điều kiện kiểm soát nào?",
+      "Một phương án bán tài sản có giá trị lớn của người mất năng lực đã được xác định phục vụ lợi ích người được giám hộ. Trước khi người giám hộ thực hiện, phải có sự tham gia chấp thuận của ai theo BLDS?"
+    ],
+    "review": "59(1): B giám sát đồng ý khi giá trị lớn. A không cấm mọi bán; C tự thấy hợp lý/D cam kết người mua không đủ. Nêu chưa thành niên/mất năng lực, không dùng khó nhận thức ngoài phạm vi Tòa."
+  },
+  "IMP-T60-032": {
+    "key": "C",
+    "variants": [
+      "Người giám hộ mới dự định tự lập biên bản nhận giám hộ và tài sản khi thay người giám hộ, không mời ai chứng kiến. Theo BLDS, cần chủ thể nào chứng kiến việc chuyển giao?",
+      "Biên bản chuyển giao khi đổi người giám hộ được đề nghị chỉ có CCV hoặc một hàng xóm thay người giám sát. Để đáp ứng Điều 61(2), chọn thành phần chứng kiến đúng."
+    ],
+    "review": "61(2): C cơ quan cử/chỉ định+giám sát. A CCV không thay; B tự lập không đủ; D hàng xóm không thay giám sát. Không thay đổi nhiệm vụ lập văn bản."
+  },
+  "IMP-T60-033": {
+    "key": "D",
+    "variants": [
+      "Chủ đất hưởng quyền hợp pháp muốn mở rộng sử dụng thửa đất chịu hưởng quyền quá nhu cầu hợp lý, làm phát sinh thiệt hại không cần thiết. Có quyền hợp pháp có cho mọi yêu cầu được ưu tiên tuyệt đối không? Chọn nguyên tắc xử lý.",
+      "Khi cân nhắc cách khai thác quyền đối với bất động sản liền kề, phương án bên hưởng quyền vượt nhu cầu hợp lý và không phù hợp mục đích sử dụng hai thửa. Chọn chuẩn mực cân bằng thay vì cấm toàn bộ hoặc cho phép mọi yêu cầu."
+    ],
+    "review": "248(1,2): D hợp lý/phù hợp mục đích hai BĐS/không lạm dụng. A tuyệt đối/B cấm mọi sử dụng/C ngày GCN không chuẩn. Giữ quyền đã hợp pháp nhưng yêu cầu vượt phạm vi."
+  },
+  "IMP-T60-036": {
+    "key": "A",
+    "variants": [
+      "Một danh mục nhà ở riêng lẻ đưa cả căn hộ chung cư cùng biệt thự, nhà liền kề và nhà độc lập trên thửa đất ở riêng biệt. Loại nào cần loại khỏi danh mục theo Luật Nhà ở?",
+      "Khi phân loại hồ sơ nhà ở, phải phân biệt một đơn vị trong tòa có phần chung với nhà xây trên thửa đất ở riêng biệt. Trong bốn loại liệt kê, loại nào không thuộc nhà ở riêng lẻ?"
+    ],
+    "review": "Nhà2(2,3): A căn hộ chung cư khác riêng lẻ. B biệt thự/C liền kề/D độc lập trên đất riêng đều riêng lẻ. Không dùng sở hữu riêng căn hộ để đổi phân loại công trình."
+  },
+  "IMP-T60-037": {
+    "key": "B",
+    "variants": [
+      "Người nhận thế chấp cho rằng quyền sử dụng đất đã thuộc mình khi thế chấp được công chứng, dù chưa xử lý tài sản. Chủ đất thế chấp hợp pháp. Chọn nhận định về tác động của thế chấp đến chuyển quyền.",
+      "Một thế chấp quyền sử dụng đất hợp pháp đã ký và đăng ký. Chưa có việc xử lý hoặc giao dịch chuyển quyền nào khác. Có thể ghi bên nhận thế chấp thành người nhận chuyển quyền chỉ từ thế chấp không?"
+    ],
+    "review": "Đất3(12): B thế chấp không tự chuyển. A đăng ký/C ký/D công chứng không tự chuyển. Không phủ nhận khả năng xử lý về sau."
+  },
+  "IMP-T60-096": {
+    "key": "B",
+    "variants": [
+      "Nhóm có quyền sử dụng đất chung không thể phân chia quyền theo phần. Một thành viên cầm giấy chứng nhận muốn tự bán cả thửa. Chọn cơ chế thực hiện quyền chung phù hợp luật.",
+      "Một nhóm có quyền sử dụng đất chung không phân chia được theo phần muốn cử người thay mặt ký giao dịch. Không thể để mỗi người tự bán toàn bộ. Nhóm phải thực hiện quyền theo phương án nào?"
+    ],
+    "review": "Đất27(2b): B nhóm cùng thực hiện hoặc ủy quyền theo luật. A không chỉ chủ hộ; C không tự bán cả thửa; D giữ GCN không tạo thẩm quyền. Đây là câu thay IMP-T60-038, giữ không phân chia theo phần."
+  },
+  "IMP-T60-041": {
+    "key": "A",
+    "variants": [
+      "Bên nhờ mang thai hộ nhân đạo cho rằng không phải trả chăm sóc sức khỏe sinh sản vì đây không phải dịch vụ có tiền công. Theo luật, nghĩa vụ chi phí nào vẫn phải thực hiện?",
+      "Hồ sơ mang thai hộ nhân đạo phát sinh chi phí thực tế bảo đảm sức khỏe sinh sản của bên mang thai hộ theo quy định. Bên nhờ muốn thay bằng khoản tượng trưng mình tự chọn. Chọn nghĩa vụ đúng."
+    ],
+    "review": "HNGĐ98(1): A chi phí thực tế theo quy định. B tượng trưng/C nhân đạo miễn/D tiền công thay không đúng. Không chuyển thành mang thai hộ thương mại."
+  },
+  "IMP-T60-042": {
+    "key": "B",
+    "variants": [
+      "Tổ chức nước ngoài thuộc diện được sở hữu nhà, dự án đủ điều kiện, đang so sánh mua, thuê mua, tặng cho và thuê. Phương án nào chỉ cho sử dụng theo hợp đồng và không tự chuyển quyền sở hữu?",
+      "Tổ chức nước ngoài đủ điều kiện chọn thuê nhà thương mại trong dự án rồi cho rằng đó tương đương thuê mua về quyền sở hữu. Trong bốn hình thức liệt kê, chọn hình thức không tự tạo quyền sở hữu."
+    ],
+    "review": "Nhà17(2): B thuê không tự chuyển sở hữu. A tặng/C mua/D thuê mua có thể tạo sở hữu đúng điều kiện. Giữ tổ chức thuộc diện và dự án đủ điều kiện, không khẳng định mọi tổ chức nước ngoài."
+  },
+  "IMP-T60-043": {
+    "key": "C",
+    "variants": [
+      "Đối tượng nước ngoài thuộc diện mua nhà muốn chọn giữa căn hộ và nhà liền kề thương mại trong dự án không thuộc khu vực cần bảo đảm quốc phòng, an ninh. Phạm vi loại nhà được mua là gì?",
+      "Một bảng tư vấn chỉ cho đối tượng nước ngoài thuộc diện luật định mua căn hộ, loại toàn bộ nhà riêng lẻ dù là nhà thương mại trong dự án đủ điều kiện và ngoài khu vực quốc phòng, an ninh. Chọn phạm vi đúng để sửa bảng."
+    ],
+    "review": "Nhà17(2): C thương mại gồm căn hộ+riêng lẻ trong dự án. A mọi nhà ngoài dự án quá rộng; B chỉ xã hội sai; D chỉ căn hộ quá hẹp. Giữ điều kiện chủ thể và khu vực."
+  }
+}

@@ -1,6 +1,6 @@
 # CongchungVND
 
-Tiến độ 09/10/2026: đã xử lý biến thể cho **443/583 câu**, còn **140 câu**; chưa nghiệm thu hoặc kiểm định lại pháp lý toàn ngân hàng. Hiện có 594 câu active và 1.502 chuỗi cách hỏi. Đợt tiếp mới nhất thêm 200 lời dẫn cho 100 câu bổ sung, tinh chỉnh và thừa kế; xem [đợt 100 câu](reports/variant-batch-100-2026-10-09.md), [báo cáo tiến độ](reports/variant-progress-2026-10-09.md) và [hồ sơ từng câu](reports/substantive-variants-2026-10-09.json).
+Tiến độ 09/10/2026: đã xử lý biến thể cho **543/583 câu**, còn **40 câu**; chưa nghiệm thu hoặc kiểm định lại pháp lý toàn ngân hàng. Hiện có 594 câu active và 1.702 chuỗi cách hỏi. Đợt tiếp mới nhất thêm 200 lời dẫn cho 17 câu thừa kế và 83 câu đề nhập; xem [đợt tiếp 100/140](reports/variant-batch-next-100-2026-10-09.md), [báo cáo tiến độ](reports/variant-progress-2026-10-09.md) và [hồ sơ từng câu](reports/substantive-variants-2026-10-09.json).
 
 Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 

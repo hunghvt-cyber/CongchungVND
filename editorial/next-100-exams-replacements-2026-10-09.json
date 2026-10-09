@@ -1,0 +1,34 @@
+{
+  "IMP-T60-097": {
+    "key": "C",
+    "variants": [
+      "Người yêu cầu công chứng có thể điểm chỉ nhưng không biết ký; gia đình đề nghị một người thân viết chữ ký thay mà không có căn cứ đại diện. Biện pháp luật cho phép thay việc ký của chính người yêu cầu là gì?",
+      "Khi đến phần xác nhận ý chí trong văn bản công chứng, người yêu cầu không biết ký, còn sử dụng được vân tay theo luật. Có thể bỏ trống vì đã kiểm tra giấy tờ hay cần áp dụng biện pháp nào?"
+    ],
+    "review": "CC50(3): C điểm chỉ theo luật khi không ký được. A CCV không tự ký thay; B giấy tờ không miễn; D thân nhân không tùy ý thay. Nêu còn điểm chỉ được để không sang trường hợp không ký/không điểm chỉ."
+  },
+  "IMP-T60-099": {
+    "key": "D",
+    "variants": [
+      "Điều lệ công ty cổ phần có hạn chế chuyển nhượng, Giám đốc biết quy định này nhưng cổ phiếu tương ứng chưa thể hiện rõ. Chỉ xét hiệu lực hạn chế do điều lệ theo Điều 127(1), điều kiện nào còn cần đáp ứng?",
+      "Công ty muốn áp dụng hạn chế chuyển nhượng ghi trong điều lệ cho một loại cổ phần. Không xét hạn chế riêng của cổ đông sáng lập, chọn yêu cầu thể hiện hạn chế để quy định điều lệ có hiệu lực với cổ phần tương ứng."
+    ],
+    "review": "DN127(1): D nêu rõ trong cổ phiếu. A trao đổi miệng/B Giám đốc biết/C người mua ngoài không thay. Tách điều lệ với ngoại lệ cổ đông sáng lập120."
+  },
+  "IMP-T60-100": {
+    "key": "A",
+    "variants": [
+      "Gia súc thất lạc được người bắt nuôi giữ đúng luật và sinh con trong thời gian đó. Chủ sở hữu quay lại nhận gia súc, muốn chỉ trả chi phí nuôi mà giữ hết con sinh ra. Riêng quyền đối với số sinh ra của người nuôi giữ là gì?",
+      "Khi chủ sở hữu nhận lại gia súc bị thất lạc đã được nuôi giữ đúng luật, người bắt yêu cầu hưởng cả con mẹ lẫn số sinh ra trong lúc giữ. Chọn phần được hưởng đối với gia súc theo Điều 231(2), bên cạnh chi phí luật định."
+    ],
+    "review": "231(2): A nửa số sinh ra hoặc50% giá trị chúng. B không toàn mẹ+con; C không nửa mẹ; D không mất mọi quyền với con. Giữ chủ nhận lại đúng luật, không sang quá thời hạn xác lập sở hữu."
+  },
+  "IMP-SEP24-005": {
+    "key": "B",
+    "variants": [
+      "Các thành viên hợp danh còn lại nhất trí cho một thành viên làm chủ DNTN kinh doanh ngành khác. Thành viên này viện dẫn ngoại lệ nhất trí trong Điều 180(1). Sự đồng ý có mở quyền làm chủ DNTN không?",
+      "Một thành viên hợp danh góp vốn ít được tất cả thành viên còn lại chấp thuận cho đứng tên chủ DNTN. Cần phân biệt điều cấm làm chủ DNTN với việc hợp danh ở công ty khác. Chọn nhận định về hiệu lực riêng của sự chấp thuận này."
+    ],
+    "review": "DN180(1): B dấu chấm phẩy tách cấm DNTN khỏi ngoại lệ hợp danh công ty khác. A mức vốn/C nhất trí bỏ hết/D ngành khác không miễn cấm. Giữ tất cả đồng ý để không thiếu ngoại lệ hợp danh."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "status": "NOT_APPLIED",
+  "reason": "Hoãn vì giải thích gốc cần sửa riêng, không tính vào 200 lời dẫn áp dụng.",
+  "drafts": {
+    "IMP-T60-023": {
+      "key": "A",
+      "variants": [
+        "Người vợ sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng, từ đó phát sinh nghĩa vụ. Người chồng cho rằng việc hợp đồng chỉ vợ ký làm nghĩa vụ luôn riêng. Theo Điều 37(4), chọn phân loại đúng.",
+        "Khi phân loại một nghĩa vụ phát sinh từ sử dụng tài sản riêng nhằm phát triển khối tài sản chung vợ chồng, không thể chỉ dựa nguồn tài sản riêng để kết luận. Chọn nhóm nghĩa vụ theo Luật HNGĐ."
+      ],
+      "review": "HNGĐ37(4): A nghĩa vụ chung. B chỉ nguồn riêng không đủ; C không đòi nhập chung trước; D một người ký không luôn riêng. Giải thích gốc có chữ D lạc từ phiên cũ; kết luận đầu giải thích vẫn A, ghi riêng tồn tại này."
+    },
+    "IMP-T60-039": {
+      "key": "D",
+      "variants": [
+        "Một cá nhân nước ngoài đủ điều kiện mua nhà kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam. Người tư vấn vẫn áp trần 50 năm chỉ vì quốc tịch nước ngoài. Chọn cơ chế sở hữu của trường hợp này.",
+        "Khi rà hồ sơ mua nhà của cá nhân nước ngoài, đã xác nhận người này kết hôn công dân Việt Nam đang sống tại Việt Nam và đáp ứng điều kiện mua. Có cần từ bỏ quốc tịch hoặc chỉ được thuê không? Chọn quyền sở hữu theo cơ chế riêng."
+      ],
+      "review": "Nhà20(2c): D như công dânVN khi kết hôn người VN sống tại VN. A bỏ cơ chế riêng; B chỉ thuê/C bỏ quốc tịch không đúng. Giải thích gốc nhắc câu A phiên cũ, lưu nhận xét riêng, không làm đổi kết luận."
+    },
+    "IMP-T60-071": {
+      "key": "A",
+      "variants": [
+        "Một bảng chủ thể sử dụng đất gộp cá nhân nước ngoài với tổ chức có chức năng ngoại giao và tổ chức kinh tế có vốn đầu tư nước ngoài. Trong các lựa chọn, chủ thể nào cần loại vì không có trong danh mục Điều 4?",
+        "Khi đối chiếu Điều 4 Luật Đất đai, không thể chỉ dựa yếu tố nước ngoài để coi mọi chủ thể cùng chế độ. Trong bốn nhóm nêu dưới đây, nhóm nào không được liệt kê là người sử dụng đất?"
+      ],
+      "review": "Đất4: A cá nhân nước ngoài không liệt kê. B cá nhân trong nước/C tổ chức ngoại giao/D kinh tế vốnNN đều có. Giải thích gốc còn nhận xét phương án A phiên cũ, ghi tồn tại riêng; không đánh đồng quyền sở hữu nhà với tư cách sử dụng đất."
+    },
+    "IMP-T60-085": {
+      "key": "B",
+      "variants": [
+        "Bên bảo đảm mới nộp đơn xin giao đất và muốn dùng quyền sử dụng đất dự kiến sẽ có làm tài sản hình thành trong tương lai. Theo Điều 10(4) NĐ21/2021, cơ chế này có áp cho quyền sử dụng đất không?",
+        "Dự án dự kiến có quyền sử dụng đất về sau; người tư vấn cho rằng mọi tài sản tương lai đều được dùng bảo đảm nên bao gồm quyền này. Chọn kết luận về ngoại lệ đối với quyền sử dụng đất."
+      ],
+      "review": "NĐ21 Điều10(4): B không áp tương lai với QSDĐ. A đơn/C mọi tài sản/D dự án không vượt ngoại lệ. Giải thích gốc có nhận xét A/B/C từ bộ nhiễu cũ, lưu riêng, không lẫn nhà tương lai với đất."
+    }
+  }
+}
