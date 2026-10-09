@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-09",
+  "applicableAt": "2026-10-09",
+  "scope": "26 câu FAM26-001–026 và 14 câu INH26-001–014; hai lời dẫn mới cho mỗi câu",
+  "variantDesign": [
+    "Nhận diện quy tắc hoặc điều kiện quyết định",
+    "Áp dụng khi rà soát hồ sơ, dự thảo hoặc yêu cầu của một bên"
+  ],
+  "legalCertification": "Đối chiếu điều khoản viện dẫn và hồ sơ nguồn; không chứng nhận pháp lý toàn ngân hàng",
+  "sourceChecks": [
+    {
+      "document": "Luật Công chứng 46/2024/QH15",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "result": "Đọc bản công bố chính thức, đối chiếu Điều 42, 44, 53, 69 với chứng cứ lưu trong hồ sơ family."
+    },
+    {
+      "document": "Luật sửa đổi Công chứng 04/2026/QH16",
+      "url": "https://vanban.chinhphu.vn/?classid=1&docid=218099&pageid=27160&typegroupid=3",
+      "result": "Trang công bố ghi hiệu lực 01/01/2027; không áp dụng vào lời dẫn tháng 10/2026."
+    },
+    {
+      "document": "VBHN 121/VBHN-VPQH năm 2025 về HNGĐ",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/9/121-vbhn-vpqh.pdf",
+      "result": "Đọc văn bản hợp nhất công bố chính thức; đối chiếu giả thiết với từng điều khoản trong hồ sơ family và Điều 81 trong hồ sơ inheritance."
+    },
+    {
+      "document": "NĐ126/2014/NĐ-CP",
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-126-2014-nd-cp-4232.htm",
+      "result": "Hết hiệu lực một phần; đối chiếu phạm vi bãi bỏ với Điều 45 NĐ123/2015, không suy toàn nghị định còn hiệu lực."
+    },
+    {
+      "document": "NĐ123/2015/NĐ-CP",
+      "url": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=92897",
+      "result": "Kết quả truy xuất CSDL chính thức xác nhận phạm vi Điều 19–50 và điểm a khoản 1 Điều 63 bị bãi bỏ; các Điều 14–18 dùng ở đợt này nằm ngoài phạm vi đó. Trang toàn văn NĐ126 không mở ổn định; dùng thêm chứng cứ điều khoản đã lưu."
+    },
+    {
+      "document": "BLDS 91/2015/QH13",
+      "url": "https://chinhphu.vn/default.aspx?docid=183188&pageid=27160",
+      "result": "Kiểm tra trang công bố chính thức và kết quả CSDL TAND tối cao; mở toàn văn CSDL gặp lỗi 502. Đối chiếu từng câu với trích điều khoản đã lưu, không ghi là tải lại toàn bộ văn bản thành công."
+    }
+  ],
+  "reviews": {
+    "FAM26-001": "Người liên quan chưa có sự đồng ý của người yêu cầu còn sống; đúng A, không tự cấp hay loại vĩnh viễn. Nơi cấp vẫn lưu bản gốc.",
+    "FAM26-002": "Giữ phân loại căn cước điểm b, giấy kết hôn điểm d và loại trừ khai thác dữ liệu; chỉ ngoại lệ nhóm d áp dụng, đúng C.",
+    "FAM26-003": "A còn hoạt động và lưu hồ sơ; quy tắc nơi công chứng bao gồm chấm dứt, đúng B, không phát sinh ngoại lệ chuyển hồ sơ.",
+    "FAM26-004": "Căn cứ chia là bản án hoặc quyết định có hiệu lực; cần Tòa án công nhận chấm dứt theo Điều 41 khoản 4, đúng A.",
+    "FAM26-005": "Có thỏa thuận nhập lại rõ, đáp ứng hình thức và đăng ký; đăng ký riêng không cấm nhập chung. Đúng D; không tự động nhập khi chấm dứt.",
+    "FAM26-006": "Không có hình thức đặc biệt; ngày đang xét trước ngày 15/10 đã thỏa thuận. Mốc hiệu lực riêng được ưu tiên, đúng B.",
+    "FAM26-007": "Mục đích trốn thuế đã xác định, không suy đoán từ việc chia bình thường; đúng C theo Điều 42 khoản 2 điểm đ.",
+    "FAM26-008": "Mức ảnh hưởng nghiêm trọng đến con chưa thành niên được xác định; căn cứ khoản 1 độc lập với trốn nợ khoản 2, đúng A.",
+    "FAM26-009": "Giữ hôn nhân tồn tại và điều khoản miễn toàn bộ, không giả định đang sống chung luôn phải trả tiền cấp dưỡng; chia không xóa nghĩa vụ, đúng A.",
+    "FAM26-010": "Chia một phần trong hôn nhân, không thuộc Điều 42; luật không bắt buộc mục đích kinh doanh hoặc trả nghĩa vụ riêng, đúng B.",
+    "FAM26-011": "Giữ điều kiện không phân loại được khoản thu sau chia; không chỉ thiếu chứng cứ tài sản nguồn. Quy tắc khoản 3 Điều 14 cho sở hữu chung, đúng B.",
+    "FAM26-012": "Chế độ luật định, chỉ chia xe và không có thỏa thuận khác; lương vợ sau đó vẫn chung. Đúng A, không coi chia xe là đổi toàn chế độ.",
+    "FAM26-013": "Tiền thuê sau hiệu lực chia được thỏa thuận là chung; Điều 40 cho thỏa thuận khác, không kéo quyền sở hữu nhà trở lại chung, đúng D.",
+    "FAM26-014": "Giữ mục tiêu nhà chung và chồng tự giao dịch kinh doanh; nội dung chia riêng trái ý chí cần làm rõ, đúng D theo phân biệt Điều 36 và 38.",
+    "FAM26-015": "Nghĩa vụ liên quan trực tiếp tài sản đã nhập, không có ngoại lệ luật hay thỏa thuận; nguồn thực hiện là chung, đúng A.",
+    "FAM26-016": "Chưa có thỏa thuận trước hôn nhân; không thể gọi xác lập lần đầu là sửa đổi để hồi tố, đúng A.",
+    "FAM26-017": "Có chế độ thỏa thuận gốc hợp lệ nhưng sửa đổi chưa công chứng/chứng thực; ngày ký tại nhà chưa là mốc hiệu lực, đúng B.",
+    "FAM26-018": "Nghĩa vụ với C có trước sửa chế độ; C không chấp thuận nên hai vợ chồng không tự giải phóng chồng, đúng B.",
+    "FAM26-019": "Chỉ yêu cầu thông tin liên quan giao dịch với C; không yêu cầu đăng mạng hay tiết lộ mọi nội dung riêng tư, đúng B.",
+    "FAM26-020": "Giữ loại giao dịch là xác lập chế độ trước kết hôn, không chuyển thành chia hay mua bán nhà; thuộc ngoại lệ Điều 44 tháng 10/2026, đúng D.",
+    "FAM26-021": "Không có nguồn chung đáp ứng nhu cầu thiết yếu, chồng có khả năng; quy tắc Điều 30 áp dụng bất kể chế độ, đúng B.",
+    "FAM26-022": "Lựa chọn khi đầy đủ năng lực, văn bản công chứng, chị đủ điều kiện và đồng ý; không bỏ lựa chọn để áp đương nhiên, đúng A.",
+    "FAM26-023": "Bán hoặc cho thuê tài sản giá trị lớn vì lợi ích vợ cần đồng ý giám sát; người làm chứng không thay người giám sát. Đúng D, không kết luận mọi giao dịch này đều bị cấm.",
+    "FAM26-024": "Chồng giám hộ vợ mất năng lực; tặng tài sản của vợ cho cháu hoặc tổ chức từ thiện đều thuộc giới hạn cấm, sự đồng ý giám sát không loại bỏ cấm. Đúng B.",
+    "FAM26-025": "Mức vi phạm nghiêm trọng quyền con đã xác định; tự nguyện và đúng hình thức không loại căn cứ Điều 50 khoản 1 điểm c, đúng D.",
+    "FAM26-026": "Chung sống từ 2006, chưa đăng ký, không căn cứ đặc biệt khác; có con/cư trú không thay đăng ký, giải quyết tài sản theo Điều 16, đúng B.",
+    "INH26-001": "Mẹ sống sau Hòa nên quyền 200 triệu phát sinh dù chưa nhận. Mẹ không còn hàng thứ nhất sống; hai nhánh thế vị Hòa/Dũng mỗi nhánh 100 triệu, Hảo/Hóa 50 triệu và Thành 100 triệu, đúng D.",
+    "INH26-002": "Ba suất luật định trên 900 triệu là 300 triệu mỗi suất. Mẹ và con 12 tuổi mỗi người 2/3 suất = 200 triệu; con thành niên có khả năng không thuộc phần bắt buộc. Thảo nhận 500 triệu còn lại, đúng B.",
+    "INH26-003": "Hai con đẻ vẫn có tư cách bất kể nơi ở theo quyết định nuôi; vợ cũ đã ly hôn không hưởng với tư cách vợ. Đúng A, không suy về các thừa kế ngoài ba người được hỏi.",
+    "INH26-004": "Ba suất trên 600 triệu là 200 triệu; dành một suất cho thai nhi đã thành thai trước mở thừa kế, quyền nhận phụ thuộc còn sống khi sinh. Hai người đã sinh mỗi người 200 triệu, đúng A.",
+    "INH26-005": "Nợ vay không bảo đảm, không có khoản ưu tiên khác; 100 - 20 mai táng - 10 bảo quản = 70 trả nợ, không còn chia và không tự gánh thêm, đúng B.",
+    "INH26-006": "Từ chối không tự chỉ định phần cho riêng Hùng; muốn nhường cần thỏa thuận chia hợp pháp. Giữ ba người đủ năng lực và không trốn nghĩa vụ, đúng C.",
+    "INH26-007": "Không có người quản lý chỉ định trong di chúc; thừa kế có thể cử bằng văn bản người không có suất hưởng. Không bác chỉ vì người ngoài, đúng D.",
+    "INH26-008": "Long thuộc khoản 1 Điều 616; quyền đại diện không loại giới hạn thế chấp cần đồng ý bằng văn bản của các thừa kế. Đúng A, không suy riêng sự đồng ý đó đủ mọi điều kiện thế chấp.",
+    "INH26-009": "Hùng chỉ thuộc cơ chế tiếp tục quản lý khoản 2, thuê còn hạn, không căn cứ đại diện khác; tư cách đó không trao quyền bán, đúng C.",
+    "INH26-010": "Người quản lý được cử đã làm việc; không có thỏa thuận miễn thù lao và thương lượng mức không thành. Khoản 3 Điều 618 cho khoản hợp lý, đúng D.",
+    "INH26-011": "8 triệu được xác nhận cần thiết, hợp lý; miễn thù lao không đồng nghĩa chịu chi phí bảo quản, không có cam kết tự chịu. Đúng C.",
+    "INH26-012": "Chỉ cử quản lý, không định đoạt hay thay bảo đảm; không có căn cứ từ thế chấp để cấm tuyệt đối việc cử. Đúng D, không xác nhận văn bản tự đáp ứng mọi điều kiện công chứng.",
+    "INH26-013": "Di sản chưa chia, Long chỉ quản lý; thực hiện theo thỏa thuận trong 500 triệu di sản, không tự chịu thiếu 200 triệu khi không cam kết khác. Đúng B.",
+    "INH26-014": "Tỷ lệ phần nhận A:B = 300:100 = 3:1; nợ 200 phân 150:50, mỗi khoản không vượt phần nhận. Không có thỏa thuận khác, đúng D."
+  }
+}

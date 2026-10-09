@@ -18,6 +18,8 @@ GROUPS = [
     ('core', 'questions.json', 'core-legal-evidence-2026-10-07.json'),
     ('deposit', 'imported-deposit-2026.json', 'deposit-legal-evidence-2026.json'),
     ('authorization', 'imported-authorization-2026.json', 'authorization-legal-evidence-2026.json'),
+    ('family', 'imported-family-2026.json', 'family-legal-evidence-2026.json'),
+    ('inheritance', 'imported-inheritance-2026.json', 'inheritance-legal-evidence-2026.json'),
 ]
 
 def read(path):
@@ -35,6 +37,9 @@ def norm(text):
 report_path = 'reports/substantive-variants-2026-10-09.json'
 previous = read(report_path) if (ROOT / report_path).exists() else {'decisions': []}
 prior = {row['id']: row for row in previous['decisions']}
+batch_review = read('editorial/variant-batch-40-2026-10-09.json')
+batch_scope = set(batch_review['reviews'])
+assert len(batch_scope) == 40
 decisions = []
 pending_writes = []
 
@@ -43,7 +48,11 @@ for group, filename, evidence_file in GROUPS:
     additions = read(f'editorial/{group}-variants-{DATE}.json')
     evidence = read('reports/' + evidence_file)
     proofs = {q['id']: q for q in evidence['questions']}
-    assert set(additions) == {q['id'] for q in bank if q['status'] == 'active'}, group
+    active_ids = {q['id'] for q in bank if q['status'] == 'active'}
+    expected_ids = active_ids & batch_scope if group in ('family', 'inheritance') else active_ids
+    assert set(additions) == expected_ids, group
+    if group in ('family', 'inheritance'):
+        assert len(additions) == (26 if group == 'family' else 14), group
     for q in bank:
         if q['id'] not in additions:
             continue
@@ -104,6 +113,11 @@ for group, filename, evidence_file in GROUPS:
                                     if original_changed else None),
             'before': before, 'afterVariants': variants,
         })
+        if q['id'] in batch_scope:
+            decisions[-1].update({
+                'editorialReasoning': batch_review['reviews'][q['id']],
+                'editorialWorksheet': 'editorial/variant-batch-40-2026-10-09.json',
+            })
     pending_writes.append(('data/' + filename, bank))
 
 bank_all = []
@@ -128,6 +142,11 @@ report = {'date': DATE, 'phaseStatus': 'INCOMPLETE', 'initialScope': len(initial
           'newlyAuthoredVariants': len(done)*2, 'activeCount': len(active),
           'activeVariantStrings': sum(len(q['question']['variants']) for q in active),
           'allActiveLegallyRecertified': False, 'remainingIds': remaining, 'decisions': decisions}
+assert batch_scope <= done
+report['latestBatch'] = {'id': 'family-inheritance-40-2026-10-09',
+                        'questions': 40, 'authoredVariants': 80,
+                        'ids': sorted(batch_scope),
+                        'worksheet': 'editorial/variant-batch-40-2026-10-09.json'}
 for path, value in pending_writes:
     write(path, value)
 write(report_path, report)
