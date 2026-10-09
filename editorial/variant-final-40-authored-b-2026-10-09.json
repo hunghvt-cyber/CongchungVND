@@ -1,0 +1,162 @@
+{
+  "IMP-T60-050": {
+    "key": "C",
+    "variants": [
+      "Hai cá nhân có đất nông nghiệp từ nguồn thuộc Điều 47 muốn chuyển đổi giữa hai xã trong một tỉnh. Cán bộ bác chỉ vì không cùng xã. Nếu chỉ xét phạm vi địa giới, nhận định nào đúng theo điều luật hiện hành?",
+      "Một hồ sơ chuyển đổi đất nông nghiệp giữa cá nhân ở hai xã khác nhau nhưng cùng đơn vị hành chính cấp tỉnh bị yêu cầu phải cùng thôn hoặc cùng hộ. Nguồn gốc đất thuộc Điều 47. Chọn đánh giá riêng về các giới hạn địa giới được viện dẫn."
+    ],
+    "review": "Đất47: C cùng tỉnh, vẫn rà chủ thể/nguồn/điều kiện khác. A cùng thôn/B cùng hộ/D cùng xã không giới hạn hiện hành. Giữ chuyển đổi, không chuyển nhượng hay hai tỉnh."
+  },
+  "IMP-T60-057": {
+    "key": "D",
+    "variants": [
+      "Đất chưa có giấy chứng nhận; người lập hồ sơ muốn dùng hóa đơn xây nhà để xác định loại đất. Trong các giấy tờ dưới đây, văn bản nào là căn cứ pháp lý tại Điều 10(1)?",
+      "Một hồ sơ chưa được cấp giấy chứng nhận có hợp đồng vay ghi địa chỉ đất, cam kết của người thuê và quyết định giao đất của cơ quan có thẩm quyền. Chọn văn bản thuộc nhóm căn cứ xác định loại đất theo luật."
+    ],
+    "review": "Đất10(1c): D quyết định cơ quan có thẩm quyền khi chưaGCN. A hóa đơn/B vay/C cam kết thuê không thay căn cứ. Chỉ hỏi một căn cứ trong lựa chọn, không nói quyết định là duy nhất."
+  },
+  "IMP-T60-063": {
+    "key": "A",
+    "variants": [
+      "Chủ nhà muốn đơn phương chấm dứt ủy quyền quản lý có thù lao dù nhà vẫn còn. Người quản lý đã làm một phần công việc. Theo luật dân sự được Điều 188 Luật Nhà ở dẫn chiếu, chủ nhà có nghĩa vụ nào?",
+      "Bên ủy quyền quản lý nhà có thù lao đề nghị chấm dứt và không thanh toán phần công việc đã làm, cho rằng quyền đơn phương miễn mọi nghĩa vụ. Chọn yêu cầu về thù lao và thiệt hại theo BLDS."
+    ],
+    "review": "Nhà188 dẫn BLDS569(1): A thù lao phần đã làm+bồi thường thiệt hại theo luật. B không cấm đơn phương; C không miễn thù lao; D không đòi nhà sập. Không nhầm nhánh không thù lao báo trước hợp lý."
+  },
+  "IMP-T60-064": {
+    "key": "B",
+    "variants": [
+      "Vợ chồng muốn một người thực hiện giao dịch tài sản mà luật đòi đồng ý của cả hai, bằng ủy quyền hợp lệ từ người còn lại. Người tư vấn cấm mọi đại diện theo ủy quyền giữa vợ chồng. Chọn nhận định đúng.",
+      "Một người chồng được vợ ủy quyền hợp lệ để xác lập và thực hiện giao dịch cần sự đồng ý của cả hai. Hồ sơ không có ly hôn và chồng không phải CCV. Riêng cơ chế vợ chồng ủy quyền cho nhau có được Luật HNGĐ cho phép không?"
+    ],
+    "review": "HNGĐ24(2): B có thể ủy quyền nhau đúng luật. A không đòi CCV; C không cấm tuyệt đối; D không cần ly hôn. Giữ đồng ý cả hai và ủy quyền hợp lệ, không ký tự ý vượt phạm vi."
+  },
+  "IMP-T60-065": {
+    "key": "C",
+    "variants": [
+      "Một người thứ ba muốn đầu tư vào tài sản đang thế chấp và cho rằng chỉ cần cơ quan thuế hoặc người thuê tài sản đồng ý. Theo Điều 20(2a) NĐ 21/2021, còn phải có sự đồng ý của bên nào?",
+      "Khi rà phương án tăng giá trị tài sản thế chấp, người bỏ vốn là bên thứ ba, không phải bên thế chấp. Để áp đúng điều kiện kiểm soát riêng của trường hợp này, cần sự chấp thuận của ai?"
+    ],
+    "review": "NĐ21 Điều20(2a): C bên nhận thế chấp. A thứ ba tự quyết/B thuế/D người thuê không thay. Giữ bên thứ ba; không áp sai quy tắc chung bên thế chấp tự đầu tư mọi trường hợp."
+  },
+  "IMP-T60-067": {
+    "key": "D",
+    "variants": [
+      "Bên nhận bảo lãnh đang có khả năng bù trừ nghĩa vụ với bên được bảo lãnh nhưng yêu cầu người bảo lãnh trả toàn bộ trước. Theo Điều 339(3), người bảo lãnh phải thực hiện trong trường hợp này không?",
+      "Hồ sơ cho thấy bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh. Người tư vấn đề nghị bảo lãnh trả một nửa hoặc chờ CCV xác nhận bù trừ mới được miễn. Chọn kết luận theo khoản 3 Điều 339."
+    ],
+    "review": "339(3): D không phải thực hiện khi có thể bù trừ. A trả trước/B nửa/C xác nhận CCV không tiền đề. Giữ có thể bù trừ đã xác định, không chỉ khoản đối ứng chưa đủ điều kiện."
+  },
+  "IMP-T60-093": {
+    "key": "A",
+    "variants": [
+      "Người sử dụng muốn coi lao động vi phạm nghĩa vụ thông tin vì không tự khai tình trạng hôn nhân khi ký hợp đồng. Thông tin này không được yêu cầu và không liên quan trực tiếp giao kết. Theo Điều 16(2), kết luận nào đúng?",
+      "Một bản kiểm tra hồ sơ cho rằng mọi thông tin đời tư đều phải tự khai dù người sử dụng không yêu cầu. Trường hợp đang xét là tình trạng hôn nhân không liên quan trực tiếp giao kết hợp đồng lao động. Chọn cách đánh giá việc không cung cấp thông tin ấy."
+    ],
+    "review": "LĐ16(2): A không vi phạm chung do không tự khai thông tin này. B mọi đời tư quá rộng; C tuổi/D12 tháng không đổi. Giữ cả không yêu cầu và không liên quan, không miễn thông tin luật nêu cụ thể."
+  },
+  "IMP-T60-095": {
+    "key": "B",
+    "variants": [
+      "Lao động 16 tuổi muốn tự ký hợp đồng và chỉ có sự đồng ý miệng của anh chị. Nếu chỉ xét điều kiện đồng ý của đại diện tại Điều 18(4b), cần đáp ứng yêu cầu nào?",
+      "Người sử dụng cho rằng người 16 tuổi đã trên 15 nên không cần giấy đồng ý khi tự giao kết hợp đồng. Không xét điều kiện lao động khác, chọn yêu cầu đúng về người đại diện và hình thức đồng ý."
+    ],
+    "review": "LĐ18(4b): B đại diện pháp luật đồng ý văn bản. A không bắt giám hộ thay cha mẹ; C anh chị/miệng chưa đủ; D15 không miễn. Giữ16 tuổi, không dùng nhánh<15 cùng đại diện ký."
+  },
+  "IMP-SEP24-014": {
+    "key": "C",
+    "variants": [
+      "Cá nhân thuê đất Nhà nước đã trả tiền một lần cho cả thời gian thuê muốn để quyền đất và tài sản thuộc sở hữu gắn đất cho người thừa kế. Người tư vấn chỉ cho để lại quyền thuê trả hằng năm. Cách phân biệt loại quyền nào đúng?",
+      "Khi lập di chúc cho cá nhân thuê đất trả tiền một lần, cần tách quyền sử dụng đất với quyền thuê trong hợp đồng hình thành do trả tiền hằng năm. Chọn nhận định về quyền được để thừa kế theo điều kiện luật."
+    ],
+    "review": "Đất37(1đ),3(37): C thừa kếQSDĐ/tài sản cho nhóm một lần, khác quyền thuê hằng năm. A đồng nhất/B cấm tài sản/D chỉ tiền sai. Giữ cá nhân/một lần và điều kiện thừa kế, không bảo đảm mọi người nhận đượcGCN."
+  },
+  "IMP-SEP24-015": {
+    "key": "D",
+    "variants": [
+      "Hồ sơ giao đất nông nghiệp cho cộng đồng dân cư theo Điều 118(5) được đề nghị chuyển thành thuê trả hằng năm vì cho rằng cộng đồng không được giao đất. Theo điều khoản, hình thức thu tiền nào đúng?",
+      "Khi xác định nghĩa vụ tiền sử dụng đất của cộng đồng được giao đất nông nghiệp thuộc khoản 5 Điều 118, cần chọn hình thức giao hay thuê và có thu tiền hay không. Chọn phương án luật quy định."
+    ],
+    "review": "Đất118(5): D giao không thu tiền. A giao có thu/B chỉ thuê hằng năm/C thuê một lần sai. Không suy miễn mọi nghĩa vụ hoặc quyền giao dịch như cá nhân."
+  },
+  "IMP-SEP24-021": {
+    "key": "A",
+    "variants": [
+      "Tổ chức kinh tế có vốn đầu tư nước ngoài đủ các điều kiện khác muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp. Cán bộ dùng danh mục chỉ khu công nghiệp và khu công nghệ cao để từ chối. Chọn nhận định về danh mục hiện hành.",
+      "Một danh sách địa bàn cho tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất loại mọi cụm công nghiệp. Hồ sơ cụ thể đáp ứng điều kiện còn lại. Theo điểm c khoản 1 Điều 28, có được từ chối chỉ vì tên cụm công nghiệp không?"
+    ],
+    "review": "Đất28(1c): A có cụm công nghiệp. B danh mục thiếu/C không cá nhânNN/D tên không tự cấm. Giữ tổ chức kinh tế vốnNN và điều kiện còn lại đã đủ; không mở tới mọi khu vực."
+  },
+  "IMP-SEP24-029": {
+    "key": "B",
+    "variants": [
+      "Văn phòng công chứng muốn gửi thay cả thông báo yêu cầu rút vốn và thông báo hoàn tất rút vốn cho thành viên hợp danh. Theo Điều 27(2), hai trách nhiệm thông báo thuộc chủ thể nào?",
+      "Hồ sơ rút vốn hợp danh tại Văn phòng công chứng đang xây trình tự từ yêu cầu trước khi rút đến xác nhận đã hoàn thành. Chọn cách phân công thông báo để không bỏ trách nhiệm riêng của thành viên hoặc Văn phòng."
+    ],
+    "review": "CC27(2): B thành viên báo yêu cầu, Văn phòng báo hoàn tất choSở. A Hội không thay; C Văn phòng cả hai/D thành viên cả hai bỏ chủ thể. Giữ rút vốn, không đổi thành chuyển nhượng vốn nhánh khác."
+  },
+  "IMP-T60-018": {
+    "key": "C",
+    "variants": [
+      "Người thuộc khoản 6 Điều 76 đăng ký thuê nhà ở xã hội bị yêu cầu chứng minh điều kiện nhà ở và thu nhập như người mua. Riêng hai điều kiện khoản 1 Điều 78 có bắt buộc cho hình thức thuê này không?",
+      "Khi rà hồ sơ hỗ trợ nhà xã hội của người thuộc khoản 6 Điều 76, người này chỉ có nhu cầu thuê. Có thể áp chung hai điều kiện nhà ở, thu nhập của mua và thuê mua cho hồ sơ thuê không? Chọn nhận định đúng."
+    ],
+    "review": "Nhà78(2): C nhóm khoản6 thuê miễn hai điều kiện khoản1. A1 tháng/B phải mua/D cùng điều kiện sai. Giữ thuê, không miễn tư cách đối tượng và mọi thủ tục."
+  },
+  "IMP-T60-028": {
+    "key": "D",
+    "variants": [
+      "Hai cá nhân mua bán nhà có sẵn, hợp đồng có hiệu lực và đủ điều kiện giao dịch, không thuộc bán của chủ đầu tư và không thỏa thuận mốc sở hữu khác. Bên mua mới trả tiền đặt cọc, muốn nhận sở hữu ngay khi ký. Mốc mặc định đúng là gì?",
+      "Trong mua bán nhà có sẵn giữa hai cá nhân ngoài giao dịch chủ đầu tư, hợp đồng đã có hiệu lực, đủ điều kiện và không thỏa thuận khác về sở hữu. Bên mua nhận nhà nhưng chưa trả đủ tiền. Khi nào đáp ứng mốc sở hữu mặc định theo Điều 12?"
+    ],
+    "review": "Nhà12(2,7): D đủ tiền+nhận bàn giao. A ký/B cọc/C nhận riêng chưa đủ. Giữ hợp đồng hiệu lực/đủ điều kiện/ngoài chủ đầu tư/không thỏa thuận khác, không áp riêng mốc đăng ký thay điều luật."
+  },
+  "IMP-T60-056": {
+    "key": "A",
+    "variants": [
+      "Một dự án đúng luật xử lý ô nhiễm và phục hồi đất bị suy thoái không mở rộng diện tích. Người tư vấn nói vì không tăng diện tích nên không được khuyến khích đầu tư. Theo Điều 8, dự án thuộc hướng nào?",
+      "Kế hoạch cải tạo và bảo vệ đất ô nhiễm đúng pháp luật không chuyển đất nông nghiệp thành đất ở. Có thể chỉ vì không chuyển mục đích mà loại khỏi các hướng khuyến khích đầu tư vào sử dụng đất không?"
+    ],
+    "review": "Đất8(2): A khuyến khích bảo vệ/cải tạo/xử lý ô nhiễm. B không lấn khi đúng luật; C không bắt chuyển ở; D không bắt tăng diện tích. Giữ đúng luật, không tự cho phép hành vi vi phạm dưới tên cải tạo."
+  },
+  "IMP-T60-058": {
+    "key": "B",
+    "variants": [
+      "Người sử dụng đất không còn nhu cầu, có văn bản tự nguyện trả lại và không nêu hành vi vi phạm. Cơ quan lập hồ sơ cho rằng chỉ vi phạm mới có thu hồi. Chọn căn cứ thu hồi phù hợp dữ kiện.",
+      "Khi phân loại lý do thu hồi đất, hồ sơ có văn bản người sử dụng tự nguyện trả lại vì không còn nhu cầu. Không được mặc nhiên xếp vào vi phạm hoặc dự án quốc phòng. Chọn nhóm căn cứ đúng."
+    ],
+    "review": "Đất82(2,5e): B tự nguyện trả với văn bản. A không chỉ vi phạm; C không luôn vi phạm; D không luôn quốc phòng. Giữ ý chí người sử dụng, không nhầm từ bỏ tự động thay quyết định thu hồi."
+  },
+  "IMP-T60-059": {
+    "key": "C",
+    "variants": [
+      "Cấp tỉnh muốn đặt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân bằng 20 lần hạn mức giao từng loại đất tại khoản 1,2,3 Điều 176, viện dẫn điều kiện địa phương. Theo Điều 177, đề xuất này được đánh giá thế nào?",
+      "Một dự thảo địa phương cho cá nhân nhận chuyển quyền đất nông nghiệp tới 20 lần hạn mức giao các loại tại khoản 1,2,3 Điều 176 nếu trả phí cao hơn. Chọn nhận định về giới hạn thẩm quyền địa phương và trần luật."
+    ],
+    "review": "Đất177(1,3): C trần15,20 vượt; tỉnh phải trong phạm vi. A phí/B100/D bỏ trần sai. Giữ cá nhân/loạiđất176/nhận chuyển, không hạn mức giao hoặc nhóm tổ chức."
+  },
+  "IMP-T60-070": {
+    "key": "D",
+    "variants": [
+      "Người mua nhà ở xã hội đã trả đủ tiền 6 năm trước và có giấy chứng nhận, nay muốn bán cho người có nhu cầu theo giá thị trường. Có đề nghị vẫn buộc bán cho chủ đầu tư giá cũ. Chọn cơ chế theo Điều 89(1e).",
+      "Hồ sơ bán lại nhà xã hội có giấy chứng nhận, đã qua 6 năm từ lúc người mua thanh toán đủ tiền. Khi phân biệt hạn chế trong 5 năm với giai đoạn sau đó, phương án bán nào phù hợp và vẫn giữ nghĩa vụ luật định?"
+    ],
+    "review": "Nhà89(1e): D thị trường sau5 năm+cóGCN, nghĩa vụ theo loại nhà. A giới hạn trong5 không áp; B vĩnhviễn/C chỉ thuê sai. Giữ mua đã trả đủ6 năm, không nhầm5 từ ký hay bỏ thuế/tiền đất riêng lẻ."
+  },
+  "IMP-SEP24-037": {
+    "key": "A",
+    "variants": [
+      "Chủ đầu tư đã thu đặt cọc 5% hợp đồng bán nhà tương lai, dự định yêu cầu thêm 30% trong đợt thanh toán đầu vì muốn tách đặt cọc khỏi thanh toán. Chỉ xét trần lần đầu, đánh giá nào đúng?",
+      "Bên mua tự nguyện trả thêm 30% giá hợp đồng ở lần đầu sau khi đã đặt cọc 5% cho chủ đầu tư bán nhà hình thành trong tương lai. Việc tự nguyện có làm tổng 35% phù hợp Điều 25(1) không? Chọn kết luận."
+    ],
+    "review": "KDBĐS25(1): A tổng cọc5+thêm30=35 vượt30. B cọc tính vào/C trần không tối thiểu/D tự nguyện không miễn. Giữ5/30 và chỉ xét lần đầu, không áp trần đợt sau50/70."
+  },
+  "IMP-SEP24-042": {
+    "key": "B",
+    "variants": [
+      "Bên mua nhà ở xã hội đã thanh toán 30% và muốn chuyển nhượng hợp đồng theo Mục 2 Chương VI Luật KDBĐS như nhà thương mại tương lai. Chọn kết luận về phạm vi áp dụng cơ chế đó.",
+      "Hợp đồng mua bán nhà xã hội đã được công chứng, hai bên cho rằng vì vậy có thể áp cơ chế chuyển nhượng hợp đồng Mục 2 Chương VI Luật KDBĐS. Công chứng có khắc phục ngoại lệ tại Điều 49(2) không?"
+    ],
+    "review": "KDBĐS49(1,2): B không áp cơ chếMục2 cho mua/thuê muaXH. A công chứng/D30% không bỏ ngoại lệ; C mọi nhà tươnglai sai. Không kết luận cấm mọi bán lại nhà xã hội theo pháp luật nhà ở."
+  }
+}

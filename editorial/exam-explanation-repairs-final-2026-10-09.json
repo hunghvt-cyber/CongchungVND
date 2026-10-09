@@ -1,0 +1,358 @@
+{
+  "date": "2026-10-09",
+  "authorization": "Madam An: Sửa 5 giải thích rồi làm nốt 40 câu.",
+  "status": "APPLIED",
+  "globalLegalCertification": false,
+  "repairs": {
+    "IMP-T60-023": {
+      "answerKey": "A",
+      "reason": "Bỏ nhận xét chữ D từ bộ đáp án cũ; đối chiếu đúng cả bốn đáp án hiện có với khoản 4 Điều 37.",
+      "afterExplanation": "Đáp án đúng: A — Nghĩa vụ chung về tài sản của vợ chồng. Khoản 4 Điều 37 xác định nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung hoặc tạo nguồn thu nhập chủ yếu của gia đình là nghĩa vụ chung. B sai vì nguồn tài sản riêng không tự làm nghĩa vụ riêng; C sai vì điều khoản không đòi tài sản riêng phải được nhập vào tài sản chung trước; D sai vì việc chỉ một người ký không tự thay đổi cách phân loại nghĩa vụ nêu trong tình huống. Gợi ý làm bài: Xét mục đích sử dụng tài sản và căn cứ phát sinh nghĩa vụ, không chỉ nguồn gốc tài sản hoặc số người ký.",
+      "beforeExplanation": "Đáp án đúng: Nghĩa vụ chung về tài sản của vợ chồng. D mô tả nghĩa vụ chung từ sử dụng tài sản riêng duy trì tài sản chung hoặc tạo nguồn thu chủ yếu. Các nghĩa vụ có trước kết hôn, giao dịch không vì gia đình và vi phạm riêng thuộc nhóm phải xét Điều 45. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+      "beforeRecord": {
+        "id": "IMP-T60-023",
+        "part": 2,
+        "topic": "Hôn nhân và gia đình",
+        "type": "single",
+        "status": "active",
+        "difficulty": "application",
+        "questionForm": "short_case",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Một người dùng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng và phát sinh nghĩa vụ từ việc đó. Theo Luật HNGĐ, đây thuộc nhóm nghĩa vụ nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Nghĩa vụ chung về tài sản của vợ chồng",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Luôn là nghĩa vụ riêng vì dùng tài sản riêng",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ là nghĩa vụ chung khi tài sản riêng đã được nhập vào tài sản chung",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Luôn là nghĩa vụ riêng nếu hợp đồng chỉ do một người ký",
+            "correct": false
+          }
+        ],
+        "explanation": "Đáp án đúng: Nghĩa vụ chung về tài sản của vợ chồng. D mô tả nghĩa vụ chung từ sử dụng tài sản riêng duy trì tài sản chung hoặc tạo nguồn thu chủ yếu. Các nghĩa vụ có trước kết hôn, giao dịch không vì gia đình và vi phạm riêng thuộc nhóm phải xét Điều 45. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+        "legalBasis": [
+          {
+            "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+            "article": "Điều 37",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+            "clause": "Khoản 4"
+          }
+        ],
+        "lastVerified": "2026-10-05",
+        "source": {
+          "type": "user-provided",
+          "id": "USER-EXAM-T60",
+          "questionNumber": "23",
+          "supportingIds": [
+            "OFFICIAL-HNGD-HN25"
+          ],
+          "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+        }
+      },
+      "legalBasis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
+          "article": "Điều 37",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "clause": "Khoản 4"
+        }
+      ],
+      "evidenceFile": "reports/exam-legal-evidence-2026.json"
+    },
+    "IMP-T60-038": {
+      "answerKey": "C",
+      "reason": "Khoản 22 Điều 2 trong VBHN Nhà ở 79/2026 không quy định mức trả trước thông thường 20%; giữ đúng trần 50% và cơ chế thuê mua.",
+      "afterExplanation": "Đáp án đúng: C — Không quá 50% giá trị nhà ở thuê mua. Khoản 22 Điều 2 trong VBHN 79/VBHN-VPQH năm 2026 quy định người thuê mua thanh toán trước một tỷ lệ theo thỏa thuận nhưng không quá 50% giá trị hợp đồng thuê mua nhà ở. Điều khoản hiện hành không ấn định mức trả trước thông thường 20%. Vì vậy, ngay cả khi có khả năng trả trước cao hơn mức các bên dự kiến, vẫn phải giữ trần 50%. A yêu cầu trả trước 100% và D cho tới 70% đều vượt trần; B sai vì thỏa thuận không được bỏ giới hạn. Số tiền còn lại được trả thành tiền thuê hằng tháng trong thời hạn thỏa thuận; khi hết thời hạn và trả hết phần còn lại, người thuê mua có quyền sở hữu. Gợi ý làm bài: Phân biệt thuê mua với thuê hoặc mua trả đủ ngay; xác định trần theo giá trị hợp đồng, không áp mức 20% của giải thích cũ.",
+      "beforeExplanation": "Khoản 22 Điều 2 quy định cơ chế trả trước của thuê mua: mức thông thường là 20%; nếu có điều kiện trả trước cao hơn thì không quá 50%. Không được đồng nhất thuê mua với mua bán trả đủ ngay hoặc tự thỏa thuận vượt trần này. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+      "beforeRecord": {
+        "id": "IMP-T60-038",
+        "part": 1,
+        "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
+        "type": "single",
+        "status": "active",
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Theo định nghĩa thuê mua nhà ở, nếu bên thuê mua có điều kiện thanh toán trước cao hơn mức thông thường thì giới hạn tiền thanh toán trước là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Phải thanh toán trước 100% giá trị nhà ở",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Không có giới hạn vì do các bên tự thỏa thuận",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Không quá 50% giá trị nhà ở thuê mua",
+            "correct": true
+          },
+          {
+            "id": "D",
+            "text": "Không quá 70% giá trị nhà ở thuê mua",
+            "correct": false
+          }
+        ],
+        "explanation": "Khoản 22 Điều 2 quy định cơ chế trả trước của thuê mua: mức thông thường là 20%; nếu có điều kiện trả trước cao hơn thì không quá 50%. Không được đồng nhất thuê mua với mua bán trả đủ ngay hoặc tự thỏa thuận vượt trần này. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+        "legalBasis": [
+          {
+            "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
+            "article": "Điều 2",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+            "clause": "Khoản 22"
+          }
+        ],
+        "lastVerified": "2026-10-05",
+        "source": {
+          "type": "user-provided",
+          "id": "USER-EXAM-T60",
+          "questionNumber": "38",
+          "supportingIds": [
+            "OFFICIAL-NHA-HN26"
+          ],
+          "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+        }
+      },
+      "legalBasis": [
+        {
+          "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
+          "article": "Điều 2",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+          "clause": "Khoản 22"
+        }
+      ],
+      "evidenceFile": "reports/exam-legal-evidence-2026.json"
+    },
+    "IMP-T60-039": {
+      "answerKey": "D",
+      "reason": "Thay nhận xét câu A phiên cũ bằng nhận xét đúng phương án A hiện tại; giữ điều kiện kết hôn công dân Việt Nam đang sinh sống tại Việt Nam.",
+      "afterExplanation": "Đáp án đúng: D — Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam. Điểm c khoản 2 Điều 20 quy định cơ chế này cho cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam. Tình huống đã đáp ứng điều kiện mua nhà và đúng nhóm kết hôn này. A sai vì áp tuyệt đối giới hạn 50 năm mà bỏ cơ chế riêng; B sai vì chỉ cho thuê dù pháp luật cho sở hữu; C sai vì luật không yêu cầu từ bỏ quốc tịch nước ngoài để áp cơ chế nêu trên. Không đồng nhất với trường hợp kết hôn người Việt Nam định cư ở nước ngoài được phép nhập cảnh, vốn được điều luật quy định riêng. Gợi ý làm bài: Kiểm tra đủ tình trạng kết hôn và nơi sinh sống của công dân Việt Nam trước khi chọn cơ chế sở hữu.",
+      "beforeExplanation": "Đáp án đúng: Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam. Cá nhân nước ngoài kết hôn công dân Việt Nam đang sinh sống tại Việt Nam có quyền sở hữu như công dân Việt Nam. Câu A thiếu yếu tố đang sống tại Việt Nam; trường hợp kết hôn người Việt Nam định cư ở nước ngoài có cơ chế riêng. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+      "beforeRecord": {
+        "id": "IMP-T60-039",
+        "part": 2,
+        "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
+        "type": "single",
+        "status": "active",
+        "difficulty": "application",
+        "questionForm": "short_case",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam, đáp ứng điều kiện mua nhà. Cơ chế sở hữu nào được áp dụng?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Luôn bị giới hạn 50 năm, không xét tình trạng kết hôn",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Chỉ được thuê nhà, không được sở hữu",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ được sở hữu nếu từ bỏ quốc tịch nước ngoài",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam",
+            "correct": true
+          }
+        ],
+        "explanation": "Đáp án đúng: Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam. Cá nhân nước ngoài kết hôn công dân Việt Nam đang sinh sống tại Việt Nam có quyền sở hữu như công dân Việt Nam. Câu A thiếu yếu tố đang sống tại Việt Nam; trường hợp kết hôn người Việt Nam định cư ở nước ngoài có cơ chế riêng. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+        "legalBasis": [
+          {
+            "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
+            "article": "Điều 20",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+            "clause": "Khoản 2",
+            "point": "Điểm c"
+          }
+        ],
+        "lastVerified": "2026-10-05",
+        "source": {
+          "type": "user-provided",
+          "id": "USER-EXAM-T60",
+          "questionNumber": "39",
+          "supportingIds": [
+            "OFFICIAL-NHA-HN26"
+          ],
+          "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+        }
+      },
+      "legalBasis": [
+        {
+          "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
+          "article": "Điều 20",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+          "clause": "Khoản 2",
+          "point": "Điểm c"
+        }
+      ],
+      "evidenceFile": "reports/exam-legal-evidence-2026.json"
+    },
+    "IMP-T60-071": {
+      "answerKey": "A",
+      "reason": "Bỏ nhận xét phương án ghép và yêu cầu viết lại thuộc phiên cũ; đối chiếu danh mục người sử dụng đất hiện tại.",
+      "afterExplanation": "Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4. Gợi ý làm bài: Xác định đúng cá nhân hay tổ chức và đối chiếu từng nhóm chủ thể trong danh mục.",
+      "beforeExplanation": "Đáp án đúng: Cá nhân nước ngoài. Cá nhân nước ngoài không là người sử dụng đất theo danh mục, nhưng tổ chức nước ngoài có chức năng ngoại giao có thể thuộc. A ghép chủ thể khác chế độ; nhà đầu tư nước ngoài có thể là cá nhân hoặc tổ chức nên câu cần viết lại. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+      "beforeRecord": {
+        "id": "IMP-T60-071",
+        "part": 1,
+        "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
+        "type": "single",
+        "status": "active",
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Chủ thể nào sau đây không thuộc danh mục người sử dụng đất theo Điều 4 Luật Đất đai?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Cá nhân nước ngoài",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Cá nhân trong nước",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Tổ chức nước ngoài có chức năng ngoại giao theo luật định",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Tổ chức kinh tế có vốn đầu tư nước ngoài",
+            "correct": false
+          }
+        ],
+        "explanation": "Đáp án đúng: Cá nhân nước ngoài. Cá nhân nước ngoài không là người sử dụng đất theo danh mục, nhưng tổ chức nước ngoài có chức năng ngoại giao có thể thuộc. A ghép chủ thể khác chế độ; nhà đầu tư nước ngoài có thể là cá nhân hoặc tổ chức nên câu cần viết lại. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+        "legalBasis": [
+          {
+            "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+            "article": "Điều 4",
+            "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm"
+          }
+        ],
+        "lastVerified": "2026-10-05",
+        "source": {
+          "type": "user-provided",
+          "id": "USER-EXAM-T60",
+          "questionNumber": "71",
+          "supportingIds": [
+            "OFFICIAL-DAT-HN26"
+          ],
+          "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+        }
+      },
+      "legalBasis": [
+        {
+          "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
+          "article": "Điều 4",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm"
+        }
+      ],
+      "evidenceFile": "reports/exam-legal-evidence-2026.json"
+    },
+    "IMP-T60-085": {
+      "answerKey": "B",
+      "reason": "Bỏ các nhận xét về bảo lưu, truy đòi và nhiều biện pháp không thuộc bốn đáp án hiện tại; đối chiếu riêng ngoại lệ đối với quyền sử dụng đất.",
+      "afterExplanation": "Đáp án đúng: B — Quy định về bảo đảm bằng tài sản hình thành trong tương lai không áp dụng đối với quyền sử dụng đất. Khoản 4 Điều 10 Nghị định 21/2021/NĐ-CP quy định trực tiếp ngoại lệ này. A sai vì việc nộp đơn xin giao đất không làm mất ngoại lệ; C sai vì mở rộng cơ chế tài sản tương lai cho mọi loại tài sản; D sai vì đất nằm trong dự án không tự cho phép áp cơ chế ấy đối với quyền sử dụng đất. Đây là giới hạn của cơ chế tài sản hình thành trong tương lai, không phải kết luận rằng mọi quyền sử dụng đất hiện có đều không được dùng bảo đảm. Gợi ý làm bài: Phân biệt quyền sử dụng đất với nhà, công trình hoặc tài sản khác hình thành trong tương lai và kiểm tra đúng đối tượng của điều khoản.",
+      "beforeExplanation": "Đáp án đúng: Không; quy định này không áp dụng đối với quyền sử dụng đất. Không áp bảo đảm bằng tài sản hình thành tương lai đối với quyền sử dụng đất theo điều khoản nghị định. A ghi bảo lưu quyền sử dụng thay vì quyền sở hữu, B bỏ ngoại lệ truy đòi, C sai vì một nghĩa vụ có thể có nhiều biện pháp. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+      "beforeRecord": {
+        "id": "IMP-T60-085",
+        "part": 1,
+        "topic": "Dân sự và giao dịch",
+        "type": "single",
+        "status": "active",
+        "difficulty": "understanding",
+        "questionForm": "synthesis",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Có thể áp dụng cơ chế bảo đảm bằng tài sản hình thành trong tương lai đối với quyền sử dụng đất theo khoản 4 Điều 10 NĐ21/2021 không?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Có; chỉ cần đã nộp đơn xin giao đất",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Không; quy định này không áp dụng đối với quyền sử dụng đất",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "text": "Có; áp dụng cho mọi loại tài sản không có ngoại lệ",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Có; chỉ cần đất nằm trong dự án",
+            "correct": false
+          }
+        ],
+        "explanation": "Đáp án đúng: Không; quy định này không áp dụng đối với quyền sử dụng đất. Không áp bảo đảm bằng tài sản hình thành tương lai đối với quyền sử dụng đất theo điều khoản nghị định. A ghi bảo lưu quyền sử dụng thay vì quyền sở hữu, B bỏ ngoại lệ truy đòi, C sai vì một nghĩa vụ có thể có nhiều biện pháp. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+        "legalBasis": [
+          {
+            "document": "Nghị định số 21/2021/NĐ-CP về bảo đảm thực hiện nghĩa vụ",
+            "article": "Điều 10",
+            "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+            "clause": "Khoản 4"
+          }
+        ],
+        "lastVerified": "2026-10-05",
+        "source": {
+          "type": "user-provided",
+          "id": "USER-EXAM-T60",
+          "questionNumber": "85",
+          "supportingIds": [
+            "OFFICIAL-ND21-2021"
+          ],
+          "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+        }
+      },
+      "legalBasis": [
+        {
+          "document": "Nghị định số 21/2021/NĐ-CP về bảo đảm thực hiện nghĩa vụ",
+          "article": "Điều 10",
+          "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+          "clause": "Khoản 4"
+        }
+      ],
+      "evidenceFile": "reports/exam-legal-evidence-2026.json"
+    }
+  }
+}

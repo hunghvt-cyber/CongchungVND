@@ -70,14 +70,15 @@ test('next 100-question batch preserves complete original records, independent k
  assert.equal(ids.filter(id=>id.startsWith('IMP-')).length,83);
  assert.deepEqual(Object.keys(sheet.reviews).sort(),ids);
  assert.deepEqual(Object.keys(sheet.answerKeys).sort(),ids);
- assert.equal(report.editoriallyReviewedQuestions,543);
- assert.equal(report.remainingQuestions,40);
+ assert.ok(report.editoriallyReviewedQuestions>=543);
+ assert.ok(report.remainingQuestions<=40);
  assert.equal(report.activeCount,594);
- assert.equal(report.activeVariantStrings,1702);
- assert.equal(report.newlyAuthoredVariants,1086);
- assert.equal(eligible.filter(q=>q.question.variants.length===3).length,554);
- assert.deepEqual(report.latestBatch.ids,ids);
- assert.equal(report.latestBatch.authoredVariants,200);
+ assert.ok(report.activeVariantStrings>=1702);
+ assert.ok(report.newlyAuthoredVariants>=1086);
+ assert.ok(eligible.filter(q=>q.question.variants.length===3).length>=554);
+ const batch=report.batches.find(b=>b.id==='inheritance-exams-next-100-2026-10-09');
+ assert.deepEqual(batch.ids,ids);
+ assert.equal(batch.authoredVariants,200);
  const drafts={...read('editorial/inheritance-variants-2026-10-09.json'),...read('editorial/exams-variants-2026-10-09.json')};
  const proofs=new Map(['inheritance','exam'].flatMap(g=>read(`reports/${g}-legal-evidence-2026.json`).questions).map(q=>[q.id,q]));
  for(const id of ids){
@@ -99,32 +100,36 @@ test('next 100-question batch preserves complete original records, independent k
   assert.ok(sheet.reviews[id].length>80,id);
  }
  assert.deepEqual(report.remainingIds.filter(id=>id.startsWith('INH26-')),[]);
- assert.ok(report.remainingIds.includes('IMP-T60-038'));
  assert.ok(!ids.includes('IMP-T60-038'));assert.ok(ids.includes('IMP-T60-096'));
- assert.equal(bank.find(q=>q.id==='IMP-T60-038').question.variants.length,1);
  const deferred=read('editorial/variant-next-100-follow-up-2026-10-09.json').items;
  assert.equal(deferred.length,5);
  for(const note of deferred){
   assert.ok(!ids.includes(note.id),note.id);
-  assert.ok(report.remainingIds.includes(note.id),note.id);
-  assert.equal(bank.find(q=>q.id===note.id).question.variants.length,1,note.id);
+  // Their dated pre-application snapshot still proves these were deferred in
+  // the previous batch, even after a later authorized repair completes them.
+  assert.equal(report.decisions.find(d=>d.id===note.id).before.question.variants.length,1,note.id);
   assert.equal(note.appliedInThisBatch,false,note.id);
  }
 });
-test('substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register',()=>{
+test('substantive variant migration preserves each reviewed four-answer set and explicit legal certification limits',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');
  const reviewed=new Set(report.decisions.map(d=>d.id));
  assert.equal(reviewed.size,report.editoriallyReviewedQuestions);
  assert.equal(reviewed.size+report.remainingIds.length,report.initialScope);
  assert.equal(report.allActiveLegallyRecertified,false);
- assert.equal(report.phaseStatus,'INCOMPLETE');
+ assert.equal(report.phaseStatus,'VARIANT_SCOPE_COMPLETE_LEGAL_REVIEW_NOT_CERTIFIED');
+ const repairs=read('editorial/exam-explanation-repairs-final-2026-10-09.json').repairs;
  for(const d of report.decisions){
   const q=bank.find(q=>q.id===d.id);
   assert.ok(q,d.id);
   assert.deepEqual(q.answers,d.before.answers,d.id);
   assert.deepEqual(q.legalBasis,d.legalBasis,d.id);
   assert.equal(q.answers.find(a=>a.correct).id,d.answerKey,d.id);
-  assert.equal(q.explanation,d.before.explanation,d.id);
+  if(Object.hasOwn(repairs,d.id)){
+   assert.equal(q.explanation,repairs[d.id].afterExplanation,d.id);
+   assert.equal(d.before.explanation,repairs[d.id].beforeExplanation,d.id);
+   assert.equal(d.explanationChanged,true,d.id);
+  }else assert.equal(q.explanation,d.before.explanation,d.id);
   assert.deepEqual(q.question.variants,d.afterVariants,d.id);
   assert.equal(q.question.variants.length,3,d.id);
   assert.ok(q.audit.variantEvidenceReport,d.id);
@@ -133,6 +138,65 @@ test('substantive variant migration preserves each reviewed four-answer set and 
  }
  const scopeCase=bank.find(q=>q.id==='CC-034');
  assert.ok(scopeCase.question.variants.every(v=>/đã từng|từng hành nghề/.test(v)));
+});
+test('final 40 completes exactly the original variant scope with 80 stems and no bank expansion',()=>{
+ const report=read('reports/substantive-variants-2026-10-09.json');
+ const scope=read('editorial/variant-final-40-scope-2026-10-09.json');
+ const sheet=read('editorial/variant-final-40-2026-10-09.json');
+ const initial=read('editorial/variant-plan-2026-10-09.json');
+ const drafts=read('editorial/exams-variants-2026-10-09.json');
+ const proofs=new Map(read('reports/exam-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
+ const ids=scope.ids.slice().sort();
+ assert.equal(ids.length,40);assert.equal(new Set(ids).size,40);
+ assert.deepEqual(Object.keys(sheet.answerKeys).sort(),ids);
+ assert.deepEqual(Object.keys(sheet.reviews).sort(),ids);
+ assert.equal(report.editoriallyReviewedQuestions,583);
+ assert.deepEqual(report.decisions.map(d=>d.id).sort(),initial.scopeIds.slice().sort());
+ assert.equal(report.remainingQuestions,0);assert.deepEqual(report.remainingIds,[]);
+ assert.equal(report.activeCount,594);assert.equal(report.activeVariantStrings,1782);
+ assert.equal(report.newlyAuthoredVariants,1166);
+ assert.equal(eligible.filter(q=>q.question.variants.length===3).length,594);
+ assert.deepEqual(report.latestBatch.ids,ids);assert.equal(report.latestBatch.authoredVariants,80);
+ assert.equal(report.allActiveLegallyRecertified,false);
+ const repairs=read('editorial/exam-explanation-repairs-final-2026-10-09.json').repairs;
+ for(const id of ids){
+  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id);
+  assert.equal(q.status,'active',id);assert.equal(d.before.question.variants.length,1,id);
+  assert.equal(q.question.variants[0],d.before.question.variants[0],id);
+  assert.deepEqual(q.question.variants.slice(1),drafts[id].map(v=>'Tháng 10/2026: '+v),id);
+  assert.equal(q.answers.find(a=>a.correct).id,sheet.answerKeys[id],id);
+  assert.equal(d.answerKey,sheet.answerKeys[id],id);
+  assert.equal(d.editorialReasoning,sheet.reviews[id],id);
+  assert.deepEqual(q.legalBasis,proofs.get(id).provisions.map(p=>p.reference),id);
+  const restored=structuredClone(q);restored.question.variants=d.before.question.variants;
+  if(Object.hasOwn(repairs,id))restored.explanation=repairs[id].beforeExplanation;
+  for(const field of ['variantReviewDate','variantReviewStatus','variantEvidenceReport','legalReviewStatus','explanationReviewDate','explanationReviewStatus','explanationRepairFile'])delete restored.audit[field];
+  Object.assign(restored.audit,d.before.audit||{});
+  if(!d.before.audit&&Object.keys(restored.audit).length===0)delete restored.audit;
+  assert.deepEqual(restored,d.before,id);
+ }
+});
+test('exactly five authorized explanation repairs keep independent keys and preserve pre-repair records',()=>{
+ const report=read('reports/substantive-variants-2026-10-09.json');
+ const repairs=read('editorial/exam-explanation-repairs-final-2026-10-09.json').repairs;
+ const ids=['IMP-T60-023','IMP-T60-038','IMP-T60-039','IMP-T60-071','IMP-T60-085'];
+ assert.deepEqual(Object.keys(repairs).sort(),ids);
+ assert.deepEqual(report.decisions.filter(d=>d.explanationChanged).map(d=>d.id).sort(),ids);
+ assert.deepEqual(report.explanationRepairs.ids,ids);assert.equal(report.explanationRepairs.count,5);
+ for(const id of ids){
+  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id),r=repairs[id];
+  assert.deepEqual(d.before,r.beforeRecord,id);
+  assert.equal(q.explanation,r.afterExplanation,id);
+  assert.notEqual(q.explanation,r.beforeExplanation,id);
+  assert.deepEqual(q.answers,r.beforeRecord.answers,id);
+  assert.equal(q.answers.find(a=>a.correct).id,r.answerKey,id);
+  assert.equal(q.lastVerified,r.beforeRecord.lastVerified,id);
+  assert.deepEqual(q.legalBasis,r.legalBasis,id);
+  assert.equal(q.audit.explanationRepairFile,d.explanationRepairFile,id);
+ }
+ const rental=bank.find(q=>q.id==='IMP-T60-038');
+ assert.match(rental.explanation,/không quá 50% giá trị hợp đồng/);
+ assert.doesNotMatch(rental.explanation,/mức thông thường là 20%/);
 });
 test('every previously pending stored question has a specific editorial decision and linked evidence',()=>{
  const report=read('reports/pending-review-decisions-2026.json');const evidence=new Map(read('reports/pending-review-legal-evidence-2026.json').questions.map(q=>[q.id,q]));

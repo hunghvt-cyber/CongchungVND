@@ -2562,7 +2562,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người dùng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng và phát sinh nghĩa vụ từ việc đó. Theo Luật HNGĐ, đây thuộc nhóm nghĩa vụ nào?"
+        "Tháng 10/2026: Một người dùng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng và phát sinh nghĩa vụ từ việc đó. Theo Luật HNGĐ, đây thuộc nhóm nghĩa vụ nào?",
+        "Tháng 10/2026: Người vợ sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng và phát sinh nghĩa vụ từ việc đó. Người chồng muốn loại nghĩa vụ khỏi nhóm chung vì chỉ vợ đứng tên giao dịch. Theo Điều 37 khoản 4, chọn phân loại đúng.",
+        "Tháng 10/2026: Khi lập bảng nghĩa vụ tài sản vợ chồng, một khoản phát sinh từ sử dụng tài sản riêng nhằm duy trì khối tài sản chung bị xếp riêng vì tài sản chưa nhập vào khối chung. Chọn cách phân loại theo Luật HNGĐ."
       ]
     },
     "answers": [
@@ -2587,7 +2589,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Nghĩa vụ chung về tài sản của vợ chồng. D mô tả nghĩa vụ chung từ sử dụng tài sản riêng duy trì tài sản chung hoặc tạo nguồn thu chủ yếu. Các nghĩa vụ có trước kết hôn, giao dịch không vì gia đình và vi phạm riêng thuộc nhóm phải xét Điều 45. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: A — Nghĩa vụ chung về tài sản của vợ chồng. Khoản 4 Điều 37 xác định nghĩa vụ phát sinh từ việc sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung hoặc tạo nguồn thu nhập chủ yếu của gia đình là nghĩa vụ chung. B sai vì nguồn tài sản riêng không tự làm nghĩa vụ riêng; C sai vì điều khoản không đòi tài sản riêng phải được nhập vào tài sản chung trước; D sai vì việc chỉ một người ký không tự thay đổi cách phân loại nghĩa vụ nêu trong tình huống. Gợi ý làm bài: Xét mục đích sử dụng tài sản và căn cứ phát sinh nghĩa vụ, không chỉ nguồn gốc tài sản hoặc số người ký.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
@@ -2605,6 +2607,15 @@
         "OFFICIAL-HNGD-HN25"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "explanationReviewDate": "2026-10-09",
+      "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
     }
   },
   {
@@ -3192,7 +3203,9 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Theo định nghĩa thuê mua nhà ở, nếu bên thuê mua có điều kiện thanh toán trước cao hơn mức thông thường thì giới hạn tiền thanh toán trước là gì?"
+        "Tháng 10/2026: Theo định nghĩa thuê mua nhà ở, nếu bên thuê mua có điều kiện thanh toán trước cao hơn mức thông thường thì giới hạn tiền thanh toán trước là gì?",
+        "Tháng 10/2026: Người thuê mua nhà có khả năng trả trước 70% giá trị hợp đồng, phần còn lại trả thành tiền thuê. Chỉ xét trần thanh toán trước trong định nghĩa tại Điều 2(22) Luật Nhà ở hiện hành, giới hạn nào phải áp dụng?",
+        "Tháng 10/2026: Khi soạn hợp đồng thuê mua nhà, bên cho thuê mua muốn để tiền trả trước hoàn toàn tùy thỏa thuận vì người thuê mua có khả năng tài chính cao. Theo định nghĩa luật hiện hành, mức trả trước tối đa được chấp nhận là gì?"
       ]
     },
     "answers": [
@@ -3217,7 +3230,7 @@
         "correct": false
       }
     ],
-    "explanation": "Khoản 22 Điều 2 quy định cơ chế trả trước của thuê mua: mức thông thường là 20%; nếu có điều kiện trả trước cao hơn thì không quá 50%. Không được đồng nhất thuê mua với mua bán trả đủ ngay hoặc tự thỏa thuận vượt trần này. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Đáp án đúng: C — Không quá 50% giá trị nhà ở thuê mua. Khoản 22 Điều 2 trong VBHN 79/VBHN-VPQH năm 2026 quy định người thuê mua thanh toán trước một tỷ lệ theo thỏa thuận nhưng không quá 50% giá trị hợp đồng thuê mua nhà ở. Điều khoản hiện hành không ấn định mức trả trước thông thường 20%. Vì vậy, ngay cả khi có khả năng trả trước cao hơn mức các bên dự kiến, vẫn phải giữ trần 50%. A yêu cầu trả trước 100% và D cho tới 70% đều vượt trần; B sai vì thỏa thuận không được bỏ giới hạn. Số tiền còn lại được trả thành tiền thuê hằng tháng trong thời hạn thỏa thuận; khi hết thời hạn và trả hết phần còn lại, người thuê mua có quyền sở hữu. Gợi ý làm bài: Phân biệt thuê mua với thuê hoặc mua trả đủ ngay; xác định trần theo giá trị hợp đồng, không áp mức 20% của giải thích cũ.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -3235,6 +3248,15 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "explanationReviewDate": "2026-10-09",
+      "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
     }
   },
   {
@@ -3247,7 +3269,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam, đáp ứng điều kiện mua nhà. Cơ chế sở hữu nào được áp dụng?"
+        "Tháng 10/2026: Cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam, đáp ứng điều kiện mua nhà. Cơ chế sở hữu nào được áp dụng?",
+        "Tháng 10/2026: Một cá nhân nước ngoài đủ điều kiện mua nhà có vợ là công dân Việt Nam đang sinh sống tại Việt Nam. Người tư vấn chỉ cho thuê nếu chưa từ bỏ quốc tịch nước ngoài. Chọn cơ chế sở hữu phù hợp trường hợp kết hôn này.",
+        "Tháng 10/2026: Khi xét giấy tờ mua nhà của cá nhân nước ngoài đủ điều kiện, hồ sơ chứng minh kết hôn công dân Việt Nam đang sống tại Việt Nam. Có đề nghị vẫn áp giới hạn 50 năm cho mọi người mang quốc tịch nước ngoài. Chọn kết luận đúng."
       ]
     },
     "answers": [
@@ -3272,7 +3296,7 @@
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam. Cá nhân nước ngoài kết hôn công dân Việt Nam đang sinh sống tại Việt Nam có quyền sở hữu như công dân Việt Nam. Câu A thiếu yếu tố đang sống tại Việt Nam; trường hợp kết hôn người Việt Nam định cư ở nước ngoài có cơ chế riêng. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Đáp án đúng: D — Có quyền sở hữu nhà ở và quyền của chủ sở hữu như công dân Việt Nam. Điểm c khoản 2 Điều 20 quy định cơ chế này cho cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam. Tình huống đã đáp ứng điều kiện mua nhà và đúng nhóm kết hôn này. A sai vì áp tuyệt đối giới hạn 50 năm mà bỏ cơ chế riêng; B sai vì chỉ cho thuê dù pháp luật cho sở hữu; C sai vì luật không yêu cầu từ bỏ quốc tịch nước ngoài để áp cơ chế nêu trên. Không đồng nhất với trường hợp kết hôn người Việt Nam định cư ở nước ngoài được phép nhập cảnh, vốn được điều luật quy định riêng. Gợi ý làm bài: Kiểm tra đủ tình trạng kết hôn và nơi sinh sống của công dân Việt Nam trước khi chọn cơ chế sở hữu.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -3291,6 +3315,15 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "explanationReviewDate": "2026-10-09",
+      "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
     }
   },
   {
@@ -4058,7 +4091,9 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chủ thể nào sau đây không thuộc danh mục người sử dụng đất theo Điều 4 Luật Đất đai?"
+        "Tháng 10/2026: Chủ thể nào sau đây không thuộc danh mục người sử dụng đất theo Điều 4 Luật Đất đai?",
+        "Tháng 10/2026: Một danh sách người sử dụng đất đưa cá nhân nước ngoài cùng cá nhân trong nước, tổ chức ngoại giao theo luật và tổ chức kinh tế có vốn đầu tư nước ngoài. Chọn nhóm không có trong danh mục Điều 4 để sửa danh sách.",
+        "Tháng 10/2026: Khi nhận hồ sơ có yếu tố nước ngoài, không thể đồng nhất cá nhân với tổ chức. Trong bốn nhóm chủ thể sau, nhóm nào không được Điều 4 Luật Đất đai liệt kê là người sử dụng đất?"
       ]
     },
     "answers": [
@@ -4083,7 +4118,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Cá nhân nước ngoài. Cá nhân nước ngoài không là người sử dụng đất theo danh mục, nhưng tổ chức nước ngoài có chức năng ngoại giao có thể thuộc. A ghép chủ thể khác chế độ; nhà đầu tư nước ngoài có thể là cá nhân hoặc tổ chức nên câu cần viết lại. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4. Gợi ý làm bài: Xác định đúng cá nhân hay tổ chức và đối chiếu từng nhóm chủ thể trong danh mục.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -4100,6 +4135,15 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "explanationReviewDate": "2026-10-09",
+      "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
     }
   },
   {
@@ -4868,7 +4912,9 @@
     "questionForm": "synthesis",
     "question": {
       "variants": [
-        "Tháng 10/2026: Có thể áp dụng cơ chế bảo đảm bằng tài sản hình thành trong tương lai đối với quyền sử dụng đất theo khoản 4 Điều 10 NĐ21/2021 không?"
+        "Tháng 10/2026: Có thể áp dụng cơ chế bảo đảm bằng tài sản hình thành trong tương lai đối với quyền sử dụng đất theo khoản 4 Điều 10 NĐ21/2021 không?",
+        "Tháng 10/2026: Một người mới nộp đơn xin giao đất muốn dùng quyền sử dụng đất sẽ được xác lập sau này làm bảo đảm theo cơ chế tài sản hình thành trong tương lai. Theo Điều 10(4) NĐ 21/2021, có thể áp cơ chế ấy cho quyền này không?",
+        "Tháng 10/2026: Người tư vấn cho rằng đất thuộc dự án sẽ phát sinh quyền về sau nên được dùng bảo đảm như mọi tài sản tương lai. Chỉ xét việc áp cơ chế tài sản hình thành trong tương lai đối với quyền sử dụng đất, chọn kết luận đúng."
       ]
     },
     "answers": [
@@ -4893,7 +4939,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Không; quy định này không áp dụng đối với quyền sử dụng đất. Không áp bảo đảm bằng tài sản hình thành tương lai đối với quyền sử dụng đất theo điều khoản nghị định. A ghi bảo lưu quyền sử dụng thay vì quyền sở hữu, B bỏ ngoại lệ truy đòi, C sai vì một nghĩa vụ có thể có nhiều biện pháp. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: B — Quy định về bảo đảm bằng tài sản hình thành trong tương lai không áp dụng đối với quyền sử dụng đất. Khoản 4 Điều 10 Nghị định 21/2021/NĐ-CP quy định trực tiếp ngoại lệ này. A sai vì việc nộp đơn xin giao đất không làm mất ngoại lệ; C sai vì mở rộng cơ chế tài sản tương lai cho mọi loại tài sản; D sai vì đất nằm trong dự án không tự cho phép áp cơ chế ấy đối với quyền sử dụng đất. Đây là giới hạn của cơ chế tài sản hình thành trong tương lai, không phải kết luận rằng mọi quyền sử dụng đất hiện có đều không được dùng bảo đảm. Gợi ý làm bài: Phân biệt quyền sử dụng đất với nhà, công trình hoặc tài sản khác hình thành trong tương lai và kiểm tra đúng đối tượng của điều khoản.",
     "legalBasis": [
       {
         "document": "Nghị định số 21/2021/NĐ-CP về bảo đảm thực hiện nghĩa vụ",
@@ -4911,6 +4957,15 @@
         "OFFICIAL-ND21-2021"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "explanationReviewDate": "2026-10-09",
+      "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
     }
   },
   {
@@ -5684,7 +5739,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 tặng cho nhà gắn với đất ở cho một người không được sở hữu nhà ở tại Việt Nam. Quyền người nhận được xác định thế nào?"
+        "Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 tặng cho nhà gắn với đất ở cho một người không được sở hữu nhà ở tại Việt Nam. Quyền người nhận được xác định thế nào?",
+        "Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 muốn tặng nhà gắn đất ở cho người không được sở hữu nhà ở tại Việt Nam. Bên nhận viện dẫn việc bên tặng đủ điều kiện để xin giấy chứng nhận. Chọn quyền của bên nhận trong trường hợp này.",
+        "Tháng 10/2026: Hồ sơ tặng cho nhà gắn quyền sử dụng đất ở có bên tặng là người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44. Người nhận không thuộc diện được sở hữu nhà ở tại Việt Nam, dù có đề nghị miễn thuế tặng cho. Quyền được hưởng được xác định thế nào?"
       ]
     },
     "answers": [
@@ -5728,6 +5785,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5740,7 +5803,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 hỏi liệu pháp luật có loại trừ tuyệt đối quyền góp vốn bằng quyền sử dụng đất ở của họ không. Nhận định nào đúng?"
+        "Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 hỏi liệu pháp luật có loại trừ tuyệt đối quyền góp vốn bằng quyền sử dụng đất ở của họ không. Nhận định nào đúng?",
+        "Tháng 10/2026: Người tư vấn từ chối xem xét góp vốn bằng quyền sử dụng đất ở của người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 vì cho rằng nhóm này chỉ được chuyển nhượng. Chọn nhận định về điều cấm tuyệt đối được viện dẫn.",
+        "Tháng 10/2026: Một doanh nghiệp muốn nhận phần vốn bằng quyền sử dụng đất ở từ người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44. Trước khi rà điều kiện giao dịch, có được loại hồ sơ chỉ vì cho rằng người này chỉ có thể góp tiền mặt không?"
       ]
     },
     "answers": [
@@ -5784,6 +5849,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5796,7 +5867,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người tập sự bị áp dụng biện pháp xử lý hành chính và chấm dứt tập sự theo điểm g khoản 1 Điều 9. Khi đủ điều kiện đăng ký lại, thời gian tập sự trước khi chấm dứt có được tính không?"
+        "Tháng 10/2026: Người tập sự bị áp dụng biện pháp xử lý hành chính và chấm dứt tập sự theo điểm g khoản 1 Điều 9. Khi đủ điều kiện đăng ký lại, thời gian tập sự trước khi chấm dứt có được tính không?",
+        "Tháng 10/2026: Người tập sự từng bị chấm dứt theo điểm g khoản 1 Điều 9 vì bị áp dụng biện pháp xử lý hành chính, nay đủ điều kiện đăng ký lại. Người hướng dẫn cũ đồng ý bảo lưu thời gian đã làm. Cách tính thời gian trước chấm dứt thế nào?",
+        "Tháng 10/2026: Khi lập tổng thời gian cho một lần tập sự đăng ký lại đủ điều kiện, người tập sự muốn coi đợt bị chấm dứt do biện pháp xử lý hành chính như tạm ngừng để giữ thời gian đã làm. Theo khoản 6 Điều 9, chọn kết quả đúng."
       ]
     },
     "answers": [
@@ -5846,6 +5919,12 @@
         "OFFICIAL-TT06-2025"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5858,7 +5937,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền hằng năm muốn tặng cho quyền thuê cùng tài sản thuộc sở hữu của mình gắn với đất. Điều 37 có loại trừ tuyệt đối giao dịch này không?"
+        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền hằng năm muốn tặng cho quyền thuê cùng tài sản thuộc sở hữu của mình gắn với đất. Điều 37 có loại trừ tuyệt đối giao dịch này không?",
+        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền hằng năm muốn tặng tài sản thuộc sở hữu gắn đất cùng quyền thuê trong hợp đồng. Người tư vấn bác vì cho rằng chỉ trả tiền một lần mới được tặng. Theo Điều 37(2c), chọn nhận định về điều cấm tuyệt đối này.",
+        "Tháng 10/2026: Một hồ sơ tặng cho bao gồm tài sản thuộc sở hữu cá nhân trên đất Nhà nước cho thuê trả tiền hằng năm và quyền thuê đi cùng. Có thể loại hồ sơ vì cho rằng nhóm này chỉ được để thừa kế, mọi tặng cho đều cấm không?"
       ]
     },
     "answers": [
@@ -5902,6 +5983,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5914,7 +6001,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đất đã được cấp giấy chứng nhận; người sử dụng thực hiện chuyển nhượng dự án có sử dụng đất. Theo danh mục tại khoản 1 Điều 133, có thuộc trường hợp đăng ký biến động không?"
+        "Tháng 10/2026: Đất đã được cấp giấy chứng nhận; người sử dụng thực hiện chuyển nhượng dự án có sử dụng đất. Theo danh mục tại khoản 1 Điều 133, có thuộc trường hợp đăng ký biến động không?",
+        "Tháng 10/2026: Đất đã có giấy chứng nhận, người sử dụng chuyển nhượng dự án có sử dụng đất và cho rằng công chứng giao dịch thay được đăng ký biến động. Chọn nhận định về danh mục Điều 133(1a).",
+        "Tháng 10/2026: Cơ quan tiếp nhận dự định chỉ yêu cầu đăng ký biến động khi chuyển nhượng đất giữa cá nhân, bỏ hồ sơ chuyển nhượng dự án có sử dụng đất đã cấp giấy chứng nhận. Việc bỏ loại hồ sơ này có phù hợp danh mục luật không?"
       ]
     },
     "answers": [
@@ -5958,6 +6047,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5970,7 +6065,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân hết thời hạn thuê đất nông nghiệp thuộc điểm b khoản 1 Điều 172 và vẫn có nhu cầu sử dụng. Cách xử lý nào phù hợp?"
+        "Tháng 10/2026: Cá nhân hết thời hạn thuê đất nông nghiệp thuộc điểm b khoản 1 Điều 172 và vẫn có nhu cầu sử dụng. Cách xử lý nào phù hợp?",
+        "Tháng 10/2026: Cá nhân hết hạn thuê đất nông nghiệp theo điểm b khoản 1 Điều 172, vẫn muốn sử dụng và đề nghị tự kéo dài 99 năm. Theo nhánh đất thuê này, cách xử lý tiếp tục sử dụng nào đúng?",
+        "Tháng 10/2026: Khi rà hồ sơ đất nông nghiệp cá nhân đang thuê theo điểm b khoản 1 Điều 172 đã hết hạn, cần phân biệt với đất được giao được tiếp tục sử dụng. Cá nhân còn nhu cầu. Chọn cơ chế Nhà nước xem xét phù hợp."
       ]
     },
     "answers": [
@@ -6014,6 +6111,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6026,7 +6129,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên chuyển nhượng toàn bộ phần vốn góp trong trường hợp Điều 30 và chấm dứt tư cách hợp danh. Trong 2 năm tiếp theo, đối với nợ Văn phòng phát sinh khi còn là thành viên, trách nhiệm nào vẫn tồn tại?"
+        "Tháng 10/2026: Công chứng viên chuyển nhượng toàn bộ phần vốn góp trong trường hợp Điều 30 và chấm dứt tư cách hợp danh. Trong 2 năm tiếp theo, đối với nợ Văn phòng phát sinh khi còn là thành viên, trách nhiệm nào vẫn tồn tại?",
+        "Tháng 10/2026: CCV đã chuyển nhượng toàn bộ vốn theo Điều 30 và chấm dứt tư cách hợp danh, cho rằng nhận tiền chuyển nhượng xóa ngay nợ Văn phòng phát sinh lúc còn là thành viên. Trong 2 năm tiếp theo, trách nhiệm còn lại là gì?",
+        "Tháng 10/2026: Chủ nợ của Văn phòng công chứng yêu cầu CCV đã chuyển nhượng toàn bộ vốn trong trường hợp Điều 30 cùng chịu khoản nợ phát sinh khi còn hợp danh. Yêu cầu đặt trong 2 năm sau chấm dứt tư cách. Phạm vi trách nhiệm nào theo khoản 5?"
       ]
     },
     "answers": [
@@ -6069,6 +6174,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6081,7 +6192,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên được phân công hướng dẫn tập sự nhưng biết mình không đủ điều kiện hướng dẫn theo luật. Nghĩa vụ phù hợp theo TT06/2025 là gì?"
+        "Tháng 10/2026: Công chứng viên được phân công hướng dẫn tập sự nhưng biết mình không đủ điều kiện hướng dẫn theo luật. Nghĩa vụ phù hợp theo TT06/2025 là gì?",
+        "Tháng 10/2026: CCV biết mình không đủ điều kiện hướng dẫn tập sự nhưng người tập sự đồng ý và việc hướng dẫn không thu tiền. Khi được phân công, CCV phải thực hiện nghĩa vụ nào theo TT 06/2025?",
+        "Tháng 10/2026: Một CCV vừa được giao hướng dẫn tập sự phát hiện bản thân không đạt điều kiện luật định. CCV muốn tiếp tục cho tới khi Sở Tư pháp xử phạt. Chọn nghĩa vụ phải thực hiện ngay theo Điều 13(1)."
       ]
     },
     "answers": [
@@ -6124,6 +6237,12 @@
         "OFFICIAL-TT06-2025"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6136,7 +6255,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Văn phòng công chứng bị thu hồi quyết định cho phép thành lập. Theo khoản 3 Điều 34, Sở Tư pháp phải thu hồi giấy đăng ký hoạt động trong thời hạn nào kể từ quyết định đó?"
+        "Tháng 10/2026: Văn phòng công chứng bị thu hồi quyết định cho phép thành lập. Theo khoản 3 Điều 34, Sở Tư pháp phải thu hồi giấy đăng ký hoạt động trong thời hạn nào kể từ quyết định đó?",
+        "Tháng 10/2026: Sở Tư pháp dự định chờ Văn phòng công chứng xử lý nghĩa vụ tài sản trong 60 ngày sau thu hồi quyết định thành lập mới thu hồi giấy đăng ký hoạt động. Theo Điều 34(3), thời hạn riêng cho việc thu hồi giấy đăng ký từ quyết định là gì?",
+        "Tháng 10/2026: Quyết định cho phép thành lập Văn phòng công chứng bị thu hồi. Khi lập lịch xử lý, cần tách thời hạn Sở thu hồi giấy đăng ký hoạt động với thời hạn Văn phòng trả nợ. Chọn thời hạn áp cho Sở tính từ ngày có quyết định."
       ]
     },
     "answers": [
@@ -6179,6 +6300,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6191,7 +6318,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên bị miễn nhiệm do bị kết án về tội phạm do cố ý; sau đó đã được xóa án tích. Riêng việc xóa án tích có làm họ được bổ nhiệm lại theo Điều 17 không?"
+        "Tháng 10/2026: Công chứng viên bị miễn nhiệm do bị kết án về tội phạm do cố ý; sau đó đã được xóa án tích. Riêng việc xóa án tích có làm họ được bổ nhiệm lại theo Điều 17 không?",
+        "Tháng 10/2026: CCV đã miễn nhiệm vì bị kết án tội do cố ý, nay được xóa án tích và được một Văn phòng nhận làm việc. Riêng các dữ kiện mới có cho bổ nhiệm lại theo Điều 17 không?",
+        "Tháng 10/2026: Người bị miễn nhiệm CCV do kết án về tội phạm do cố ý cho rằng sau xóa án tích và chờ 2 năm sẽ tự được bổ nhiệm lại. Chọn nhận định về giới hạn riêng tại Điều 17(3a)."
       ]
     },
     "answers": [
@@ -6235,6 +6364,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6308,7 +6443,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên thỏa thuận rút bớt một tài sản khỏi hợp đồng bảo đảm. Riêng việc rút bớt này có phải một phương thức xử lý tài sản cầm cố, thế chấp tại Điều 303 không?"
+        "Tháng 10/2026: Các bên thỏa thuận rút bớt một tài sản khỏi hợp đồng bảo đảm. Riêng việc rút bớt này có phải một phương thức xử lý tài sản cầm cố, thế chấp tại Điều 303 không?",
+        "Tháng 10/2026: Hai bên bảo đảm thỏa thuận cho rút một tài sản khỏi phạm vi hợp đồng, không bán tài sản hoặc nhận thay nợ. Người tư vấn ghi đây là xử lý tài sản theo Điều 303. Chọn nhận định về việc rút bớt ấy.",
+        "Tháng 10/2026: Hồ sơ bảo đảm thay đổi bằng việc rút bớt tài sản theo thỏa thuận. Có thể chỉ từ sự kiện này suy ra đã đấu giá, chủ nợ tự bán hoặc nhận tài sản thay trả nợ không? Chọn cách phân loại đúng."
       ]
     },
     "answers": [
@@ -6358,6 +6495,12 @@
         "OFFICIAL-ND21-2021"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6370,7 +6513,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đã hết thời hiệu yêu cầu chia di sản theo Điều 623; không có căn cứ không tính thời gian, bắt đầu lại hay ngoại lệ khác. Một người thừa kế đang quản lý di sản. Di sản thuộc về ai theo quy tắc này?"
+        "Tháng 10/2026: Đã hết thời hiệu yêu cầu chia di sản theo Điều 623; không có căn cứ không tính thời gian, bắt đầu lại hay ngoại lệ khác. Một người thừa kế đang quản lý di sản. Di sản thuộc về ai theo quy tắc này?",
+        "Tháng 10/2026: Thời hiệu yêu cầu chia di sản theo Điều 623 đã hết, không có ngoại lệ, không có thời gian không tính hoặc căn cứ bắt đầu lại. Một người thừa kế vẫn quản lý di sản. Có phải chuyển ngay cho Nhà nước không? Chọn chủ thể theo thứ tự luật.",
+        "Tháng 10/2026: Một gia đình yêu cầu chia đều dù thời hiệu chia di sản đã hết và có người thừa kế đang quản lý. Không có căn cứ loại trừ, bắt đầu lại hay ngoại lệ thời hiệu. Theo khoản 1 Điều 623, di sản thuộc ai?"
       ]
     },
     "answers": [
@@ -6413,6 +6558,12 @@
         "OFFICIAL-BLDS15"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6425,7 +6576,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trong thuê mua nhà ở xã hội, thời hạn thanh toán tiền thuê mua tối thiểu kể từ ngày ký hợp đồng là bao lâu?"
+        "Tháng 10/2026: Trong thuê mua nhà ở xã hội, thời hạn thanh toán tiền thuê mua tối thiểu kể từ ngày ký hợp đồng là bao lâu?",
+        "Tháng 10/2026: Chủ đầu tư dự định hợp đồng thuê mua nhà ở xã hội cho trả hết tiền trong 3 năm từ ngày ký. Chỉ xét thời hạn thanh toán tối thiểu ở Điều 89(2a), phải áp mức nào?",
+        "Tháng 10/2026: Khi soạn lịch thanh toán thuê mua nhà ở xã hội, có đề xuất tính thời hạn từ ngày nhận nhà thay vì từ ngày ký. Theo Điều 89(2a), thời hạn tối thiểu kể từ ngày ký hợp đồng là bao lâu?"
       ]
     },
     "answers": [
@@ -6469,6 +6622,12 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6481,7 +6640,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên thuê khoán gia súc không có thỏa thuận khác. Gia súc sinh con trong hạn thuê và có thiệt hại do bất khả kháng. Quy tắc mặc định của BLDS là gì?"
+        "Tháng 10/2026: Các bên thuê khoán gia súc không có thỏa thuận khác. Gia súc sinh con trong hạn thuê và có thiệt hại do bất khả kháng. Quy tắc mặc định của BLDS là gì?",
+        "Tháng 10/2026: Người thuê khoán gia súc đòi nhận mọi con sinh ra trong hạn thuê nhưng không chia thiệt hại do bất khả kháng. Hợp đồng không có thỏa thuận khác. Chọn quy tắc mặc định về hưởng và chịu rủi ro.",
+        "Tháng 10/2026: Khi thanh toán hợp đồng thuê khoán gia súc, phát sinh cả con sinh ra trong hạn thuê lẫn thiệt hại do sự kiện bất khả kháng. Không có thỏa thuận điều chỉnh. Phải ghi phần hưởng và thiệt hại của bên thuê theo cách nào?"
       ]
     },
     "answers": [
@@ -6523,6 +6684,12 @@
         "OFFICIAL-BLDS15"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6535,7 +6702,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một điều khoản của hợp đồng lao động vi phạm pháp luật nhưng không ảnh hưởng các phần còn lại. Theo Điều 49, phạm vi vô hiệu là gì?"
+        "Tháng 10/2026: Một điều khoản của hợp đồng lao động vi phạm pháp luật nhưng không ảnh hưởng các phần còn lại. Theo Điều 49, phạm vi vô hiệu là gì?",
+        "Tháng 10/2026: Một điều khoản hợp đồng lao động vi phạm pháp luật có thể tách riêng mà không ảnh hưởng phần còn lại. Người sử dụng cho rằng chữ ký hai bên khiến không thể vô hiệu. Theo Điều 49, chọn phạm vi vô hiệu.",
+        "Tháng 10/2026: Khi rà hợp đồng lao động, chỉ một phần nội dung trái luật và các phần khác không bị ảnh hưởng. Có đề nghị vô hiệu toàn bộ để xử lý đơn giản. Chọn cách xác định phạm vi đúng theo khoản 2 Điều 49."
       ]
     },
     "answers": [
@@ -6578,6 +6747,12 @@
         "OFFICIAL-LD-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6590,7 +6765,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai cá nhân có đất nông nghiệp do nguồn gốc thuộc Điều 47, muốn chuyển đổi đất giữa hai xã khác nhau nhưng cùng một tỉnh. Riêng yếu tố khác xã có làm giao dịch bị cấm theo Điều 47 hiện hành không?"
+        "Tháng 10/2026: Hai cá nhân có đất nông nghiệp do nguồn gốc thuộc Điều 47, muốn chuyển đổi đất giữa hai xã khác nhau nhưng cùng một tỉnh. Riêng yếu tố khác xã có làm giao dịch bị cấm theo Điều 47 hiện hành không?",
+        "Tháng 10/2026: Hai cá nhân có đất nông nghiệp từ nguồn thuộc Điều 47 muốn chuyển đổi giữa hai xã trong một tỉnh. Cán bộ bác chỉ vì không cùng xã. Nếu chỉ xét phạm vi địa giới, nhận định nào đúng theo điều luật hiện hành?",
+        "Tháng 10/2026: Một hồ sơ chuyển đổi đất nông nghiệp giữa cá nhân ở hai xã khác nhau nhưng cùng đơn vị hành chính cấp tỉnh bị yêu cầu phải cùng thôn hoặc cùng hộ. Nguồn gốc đất thuộc Điều 47. Chọn đánh giá riêng về các giới hạn địa giới được viện dẫn."
       ]
     },
     "answers": [
@@ -6632,6 +6809,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6644,7 +6827,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đất chưa được cấp giấy chứng nhận. Văn bản nào trong các lựa chọn là một căn cứ xác định loại đất tại khoản 1 Điều 10?"
+        "Tháng 10/2026: Đất chưa được cấp giấy chứng nhận. Văn bản nào trong các lựa chọn là một căn cứ xác định loại đất tại khoản 1 Điều 10?",
+        "Tháng 10/2026: Đất chưa có giấy chứng nhận; người lập hồ sơ muốn dùng hóa đơn xây nhà để xác định loại đất. Trong các giấy tờ dưới đây, văn bản nào là căn cứ pháp lý tại Điều 10(1)?",
+        "Tháng 10/2026: Một hồ sơ chưa được cấp giấy chứng nhận có hợp đồng vay ghi địa chỉ đất, cam kết của người thuê và quyết định giao đất của cơ quan có thẩm quyền. Chọn văn bản thuộc nhóm căn cứ xác định loại đất theo luật."
       ]
     },
     "answers": [
@@ -6687,6 +6872,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6699,7 +6890,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ủy quyền quản lý nhà ở có thù lao. Bên ủy quyền muốn đơn phương chấm dứt hợp đồng. Theo quy tắc dân sự được Luật Nhà ở dẫn chiếu, nghĩa vụ nào phù hợp?"
+        "Tháng 10/2026: Ủy quyền quản lý nhà ở có thù lao. Bên ủy quyền muốn đơn phương chấm dứt hợp đồng. Theo quy tắc dân sự được Luật Nhà ở dẫn chiếu, nghĩa vụ nào phù hợp?",
+        "Tháng 10/2026: Chủ nhà muốn đơn phương chấm dứt ủy quyền quản lý có thù lao dù nhà vẫn còn. Người quản lý đã làm một phần công việc. Theo luật dân sự được Điều 188 Luật Nhà ở dẫn chiếu, chủ nhà có nghĩa vụ nào?",
+        "Tháng 10/2026: Bên ủy quyền quản lý nhà có thù lao đề nghị chấm dứt và không thanh toán phần công việc đã làm, cho rằng quyền đơn phương miễn mọi nghĩa vụ. Chọn yêu cầu về thù lao và thiệt hại theo BLDS."
       ]
     },
     "answers": [
@@ -6748,6 +6941,12 @@
         "OFFICIAL-BLDS15"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6760,7 +6959,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giao dịch về tài sản theo luật cần sự đồng ý của cả hai vợ chồng. Một người muốn ủy quyền hợp lệ cho người kia xác lập, thực hiện giao dịch. Luật HNGĐ có cho phép cơ chế này không?"
+        "Tháng 10/2026: Giao dịch về tài sản theo luật cần sự đồng ý của cả hai vợ chồng. Một người muốn ủy quyền hợp lệ cho người kia xác lập, thực hiện giao dịch. Luật HNGĐ có cho phép cơ chế này không?",
+        "Tháng 10/2026: Vợ chồng muốn một người thực hiện giao dịch tài sản mà luật đòi đồng ý của cả hai, bằng ủy quyền hợp lệ từ người còn lại. Người tư vấn cấm mọi đại diện theo ủy quyền giữa vợ chồng. Chọn nhận định đúng.",
+        "Tháng 10/2026: Một người chồng được vợ ủy quyền hợp lệ để xác lập và thực hiện giao dịch cần sự đồng ý của cả hai. Hồ sơ không có ly hôn và chồng không phải CCV. Riêng cơ chế vợ chồng ủy quyền cho nhau có được Luật HNGĐ cho phép không?"
       ]
     },
     "answers": [
@@ -6803,6 +7004,12 @@
         "OFFICIAL-HNGD-HN25"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6815,7 +7022,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một bên thứ ba muốn đầu tư vào tài sản đang thế chấp. Theo điểm a khoản 2 Điều 20 NĐ21/2021, cần sự đồng ý của ai?"
+        "Tháng 10/2026: Một bên thứ ba muốn đầu tư vào tài sản đang thế chấp. Theo điểm a khoản 2 Điều 20 NĐ21/2021, cần sự đồng ý của ai?",
+        "Tháng 10/2026: Một người thứ ba muốn đầu tư vào tài sản đang thế chấp và cho rằng chỉ cần cơ quan thuế hoặc người thuê tài sản đồng ý. Theo Điều 20(2a) NĐ 21/2021, còn phải có sự đồng ý của bên nào?",
+        "Tháng 10/2026: Khi rà phương án tăng giá trị tài sản thế chấp, người bỏ vốn là bên thứ ba, không phải bên thế chấp. Để áp đúng điều kiện kiểm soát riêng của trường hợp này, cần sự chấp thuận của ai?"
       ]
     },
     "answers": [
@@ -6859,6 +7068,12 @@
         "OFFICIAL-ND21-2021"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6871,7 +7086,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh. Theo khoản 3 Điều 339, bên bảo lãnh có phải thực hiện nghĩa vụ bảo lãnh trong trường hợp này không?"
+        "Tháng 10/2026: Bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh. Theo khoản 3 Điều 339, bên bảo lãnh có phải thực hiện nghĩa vụ bảo lãnh trong trường hợp này không?",
+        "Tháng 10/2026: Bên nhận bảo lãnh đang có khả năng bù trừ nghĩa vụ với bên được bảo lãnh nhưng yêu cầu người bảo lãnh trả toàn bộ trước. Theo Điều 339(3), người bảo lãnh phải thực hiện trong trường hợp này không?",
+        "Tháng 10/2026: Hồ sơ cho thấy bên nhận bảo lãnh có thể bù trừ nghĩa vụ với bên được bảo lãnh. Người tư vấn đề nghị bảo lãnh trả một nửa hoặc chờ CCV xác nhận bù trừ mới được miễn. Chọn kết luận theo khoản 3 Điều 339."
       ]
     },
     "answers": [
@@ -6914,6 +7131,12 @@
         "OFFICIAL-BLDS15"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6926,7 +7149,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Khi giao kết hợp đồng lao động, người sử dụng không yêu cầu cung cấp tình trạng hôn nhân và thông tin này không liên quan trực tiếp đến việc giao kết. Theo khoản 2 Điều 16, có thể coi không tự cung cấp thông tin đó là vi phạm nghĩa vụ không?"
+        "Tháng 10/2026: Khi giao kết hợp đồng lao động, người sử dụng không yêu cầu cung cấp tình trạng hôn nhân và thông tin này không liên quan trực tiếp đến việc giao kết. Theo khoản 2 Điều 16, có thể coi không tự cung cấp thông tin đó là vi phạm nghĩa vụ không?",
+        "Tháng 10/2026: Người sử dụng muốn coi lao động vi phạm nghĩa vụ thông tin vì không tự khai tình trạng hôn nhân khi ký hợp đồng. Thông tin này không được yêu cầu và không liên quan trực tiếp giao kết. Theo Điều 16(2), kết luận nào đúng?",
+        "Tháng 10/2026: Một bản kiểm tra hồ sơ cho rằng mọi thông tin đời tư đều phải tự khai dù người sử dụng không yêu cầu. Trường hợp đang xét là tình trạng hôn nhân không liên quan trực tiếp giao kết hợp đồng lao động. Chọn cách đánh giá việc không cung cấp thông tin ấy."
       ]
     },
     "answers": [
@@ -6969,6 +7194,12 @@
         "OFFICIAL-LD-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -6981,7 +7212,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người lao động 16 tuổi tự giao kết hợp đồng lao động; chỉ xét yêu cầu đồng ý của đại diện theo khoản 4 Điều 18. Điều kiện nào đúng?"
+        "Tháng 10/2026: Người lao động 16 tuổi tự giao kết hợp đồng lao động; chỉ xét yêu cầu đồng ý của đại diện theo khoản 4 Điều 18. Điều kiện nào đúng?",
+        "Tháng 10/2026: Lao động 16 tuổi muốn tự ký hợp đồng và chỉ có sự đồng ý miệng của anh chị. Nếu chỉ xét điều kiện đồng ý của đại diện tại Điều 18(4b), cần đáp ứng yêu cầu nào?",
+        "Tháng 10/2026: Người sử dụng cho rằng người 16 tuổi đã trên 15 nên không cần giấy đồng ý khi tự giao kết hợp đồng. Không xét điều kiện lao động khác, chọn yêu cầu đúng về người đại diện và hình thức đồng ý."
       ]
     },
     "answers": [
@@ -7025,6 +7258,12 @@
         "OFFICIAL-LD-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7037,7 +7276,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền một lần cho cả thời gian thuê, muốn lập di chúc đối với quyền đất và tài sản của mình. Cách phân biệt đúng với thuê trả tiền hằng năm là gì?"
+        "Tháng 10/2026: Cá nhân thuê đất Nhà nước trả tiền một lần cho cả thời gian thuê, muốn lập di chúc đối với quyền đất và tài sản của mình. Cách phân biệt đúng với thuê trả tiền hằng năm là gì?",
+        "Tháng 10/2026: Cá nhân thuê đất Nhà nước đã trả tiền một lần cho cả thời gian thuê muốn để quyền đất và tài sản thuộc sở hữu gắn đất cho người thừa kế. Người tư vấn chỉ cho để lại quyền thuê trả hằng năm. Cách phân biệt loại quyền nào đúng?",
+        "Tháng 10/2026: Khi lập di chúc cho cá nhân thuê đất trả tiền một lần, cần tách quyền sử dụng đất với quyền thuê trong hợp đồng hình thành do trả tiền hằng năm. Chọn nhận định về quyền được để thừa kế theo điều kiện luật."
       ]
     },
     "answers": [
@@ -7087,6 +7328,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7099,7 +7346,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cộng đồng dân cư được giao đất nông nghiệp theo khoản 5 Điều 118. Hình thức thu tiền sử dụng đất theo điều khoản này là gì?"
+        "Tháng 10/2026: Cộng đồng dân cư được giao đất nông nghiệp theo khoản 5 Điều 118. Hình thức thu tiền sử dụng đất theo điều khoản này là gì?",
+        "Tháng 10/2026: Hồ sơ giao đất nông nghiệp cho cộng đồng dân cư theo Điều 118(5) được đề nghị chuyển thành thuê trả hằng năm vì cho rằng cộng đồng không được giao đất. Theo điều khoản, hình thức thu tiền nào đúng?",
+        "Tháng 10/2026: Khi xác định nghĩa vụ tiền sử dụng đất của cộng đồng được giao đất nông nghiệp thuộc khoản 5 Điều 118, cần chọn hình thức giao hay thuê và có thu tiền hay không. Chọn phương án luật quy định."
       ]
     },
     "answers": [
@@ -7142,6 +7391,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7154,7 +7409,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tổ chức kinh tế có vốn đầu tư nước ngoài muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp, đáp ứng các điều kiện khác. Điều 28 có loại trừ khu vực này chỉ vì là cụm công nghiệp không?"
+        "Tháng 10/2026: Tổ chức kinh tế có vốn đầu tư nước ngoài muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp, đáp ứng các điều kiện khác. Điều 28 có loại trừ khu vực này chỉ vì là cụm công nghiệp không?",
+        "Tháng 10/2026: Tổ chức kinh tế có vốn đầu tư nước ngoài đủ các điều kiện khác muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp. Cán bộ dùng danh mục chỉ khu công nghiệp và khu công nghệ cao để từ chối. Chọn nhận định về danh mục hiện hành.",
+        "Tháng 10/2026: Một danh sách địa bàn cho tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất loại mọi cụm công nghiệp. Hồ sơ cụ thể đáp ứng điều kiện còn lại. Theo điểm c khoản 1 Điều 28, có được từ chối chỉ vì tên cụm công nghiệp không?"
       ]
     },
     "answers": [
@@ -7198,6 +7455,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7210,7 +7473,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thành viên hợp danh của Văn phòng công chứng muốn rút vốn. Ai có trách nhiệm thông báo yêu cầu rút vốn, và ai thông báo khi việc rút vốn hoàn thành?"
+        "Tháng 10/2026: Thành viên hợp danh của Văn phòng công chứng muốn rút vốn. Ai có trách nhiệm thông báo yêu cầu rút vốn, và ai thông báo khi việc rút vốn hoàn thành?",
+        "Tháng 10/2026: Văn phòng công chứng muốn gửi thay cả thông báo yêu cầu rút vốn và thông báo hoàn tất rút vốn cho thành viên hợp danh. Theo Điều 27(2), hai trách nhiệm thông báo thuộc chủ thể nào?",
+        "Tháng 10/2026: Hồ sơ rút vốn hợp danh tại Văn phòng công chứng đang xây trình tự từ yêu cầu trước khi rút đến xác nhận đã hoàn thành. Chọn cách phân công thông báo để không bỏ trách nhiệm riêng của thành viên hoặc Văn phòng."
       ]
     },
     "answers": [
@@ -7253,6 +7518,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7265,7 +7536,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thuộc khoản 6 Điều 76 có nhu cầu thuê nhà ở xã hội. Riêng điều kiện nhà ở và thu nhập tại khoản 1 Điều 78 có bắt buộc với hình thức thuê này không?"
+        "Tháng 10/2026: Người thuộc khoản 6 Điều 76 có nhu cầu thuê nhà ở xã hội. Riêng điều kiện nhà ở và thu nhập tại khoản 1 Điều 78 có bắt buộc với hình thức thuê này không?",
+        "Tháng 10/2026: Người thuộc khoản 6 Điều 76 đăng ký thuê nhà ở xã hội bị yêu cầu chứng minh điều kiện nhà ở và thu nhập như người mua. Riêng hai điều kiện khoản 1 Điều 78 có bắt buộc cho hình thức thuê này không?",
+        "Tháng 10/2026: Khi rà hồ sơ hỗ trợ nhà xã hội của người thuộc khoản 6 Điều 76, người này chỉ có nhu cầu thuê. Có thể áp chung hai điều kiện nhà ở, thu nhập của mua và thuê mua cho hồ sơ thuê không? Chọn nhận định đúng."
       ]
     },
     "answers": [
@@ -7308,6 +7581,12 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7320,7 +7599,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai cá nhân mua bán nhà có sẵn, không thuộc giao dịch giữa chủ đầu tư với người mua; hợp đồng có hiệu lực, không thỏa thuận khác về xác lập sở hữu. Mốc nào phù hợp?"
+        "Tháng 10/2026: Hai cá nhân mua bán nhà có sẵn, không thuộc giao dịch giữa chủ đầu tư với người mua; hợp đồng có hiệu lực, không thỏa thuận khác về xác lập sở hữu. Mốc nào phù hợp?",
+        "Tháng 10/2026: Hai cá nhân mua bán nhà có sẵn, hợp đồng có hiệu lực và đủ điều kiện giao dịch, không thuộc bán của chủ đầu tư và không thỏa thuận mốc sở hữu khác. Bên mua mới trả tiền đặt cọc, muốn nhận sở hữu ngay khi ký. Mốc mặc định đúng là gì?",
+        "Tháng 10/2026: Trong mua bán nhà có sẵn giữa hai cá nhân ngoài giao dịch chủ đầu tư, hợp đồng đã có hiệu lực, đủ điều kiện và không thỏa thuận khác về sở hữu. Bên mua nhận nhà nhưng chưa trả đủ tiền. Khi nào đáp ứng mốc sở hữu mặc định theo Điều 12?"
       ]
     },
     "answers": [
@@ -7369,6 +7650,12 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7381,7 +7668,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một dự án bảo vệ, cải tạo và xử lý đất bị ô nhiễm đúng pháp luật thuộc hướng đầu tư nào của Luật Đất đai?"
+        "Tháng 10/2026: Một dự án bảo vệ, cải tạo và xử lý đất bị ô nhiễm đúng pháp luật thuộc hướng đầu tư nào của Luật Đất đai?",
+        "Tháng 10/2026: Một dự án đúng luật xử lý ô nhiễm và phục hồi đất bị suy thoái không mở rộng diện tích. Người tư vấn nói vì không tăng diện tích nên không được khuyến khích đầu tư. Theo Điều 8, dự án thuộc hướng nào?",
+        "Tháng 10/2026: Kế hoạch cải tạo và bảo vệ đất ô nhiễm đúng pháp luật không chuyển đất nông nghiệp thành đất ở. Có thể chỉ vì không chuyển mục đích mà loại khỏi các hướng khuyến khích đầu tư vào sử dụng đất không?"
       ]
     },
     "answers": [
@@ -7424,6 +7713,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7436,7 +7731,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người sử dụng không còn nhu cầu và có văn bản tự nguyện trả lại đất. Có thể xếp vào căn cứ thu hồi nào theo Luật Đất đai?"
+        "Tháng 10/2026: Người sử dụng không còn nhu cầu và có văn bản tự nguyện trả lại đất. Có thể xếp vào căn cứ thu hồi nào theo Luật Đất đai?",
+        "Tháng 10/2026: Người sử dụng đất không còn nhu cầu, có văn bản tự nguyện trả lại và không nêu hành vi vi phạm. Cơ quan lập hồ sơ cho rằng chỉ vi phạm mới có thu hồi. Chọn căn cứ thu hồi phù hợp dữ kiện.",
+        "Tháng 10/2026: Khi phân loại lý do thu hồi đất, hồ sơ có văn bản người sử dụng tự nguyện trả lại vì không còn nhu cầu. Không được mặc nhiên xếp vào vi phạm hoặc dự án quốc phòng. Chọn nhóm căn cứ đúng."
       ]
     },
     "answers": [
@@ -7486,6 +7783,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7498,7 +7801,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một quy định địa phương dự kiến cho cá nhân nhận chuyển quyền đất nông nghiệp đến 20 lần hạn mức giao mỗi loại đất tại khoản 1, 2, 3 Điều 176. So với trần tại Điều 177, nhận định nào đúng?"
+        "Tháng 10/2026: Một quy định địa phương dự kiến cho cá nhân nhận chuyển quyền đất nông nghiệp đến 20 lần hạn mức giao mỗi loại đất tại khoản 1, 2, 3 Điều 176. So với trần tại Điều 177, nhận định nào đúng?",
+        "Tháng 10/2026: Cấp tỉnh muốn đặt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân bằng 20 lần hạn mức giao từng loại đất tại khoản 1,2,3 Điều 176, viện dẫn điều kiện địa phương. Theo Điều 177, đề xuất này được đánh giá thế nào?",
+        "Tháng 10/2026: Một dự thảo địa phương cho cá nhân nhận chuyển quyền đất nông nghiệp tới 20 lần hạn mức giao các loại tại khoản 1,2,3 Điều 176 nếu trả phí cao hơn. Chọn nhận định về giới hạn thẩm quyền địa phương và trần luật."
       ]
     },
     "answers": [
@@ -7547,6 +7852,12 @@
         "OFFICIAL-DAT-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7559,7 +7870,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người mua nhà ở xã hội đã thanh toán đủ tiền 6 năm, được cấp giấy chứng nhận và muốn bán lại. Theo điểm e khoản 1 Điều 89, cơ chế nào phù hợp?"
+        "Tháng 10/2026: Người mua nhà ở xã hội đã thanh toán đủ tiền 6 năm, được cấp giấy chứng nhận và muốn bán lại. Theo điểm e khoản 1 Điều 89, cơ chế nào phù hợp?",
+        "Tháng 10/2026: Người mua nhà ở xã hội đã trả đủ tiền 6 năm trước và có giấy chứng nhận, nay muốn bán cho người có nhu cầu theo giá thị trường. Có đề nghị vẫn buộc bán cho chủ đầu tư giá cũ. Chọn cơ chế theo Điều 89(1e).",
+        "Tháng 10/2026: Hồ sơ bán lại nhà xã hội có giấy chứng nhận, đã qua 6 năm từ lúc người mua thanh toán đủ tiền. Khi phân biệt hạn chế trong 5 năm với giai đoạn sau đó, phương án bán nào phù hợp và vẫn giữ nghĩa vụ luật định?"
       ]
     },
     "answers": [
@@ -7603,6 +7916,12 @@
         "OFFICIAL-NHA-HN26"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7615,7 +7934,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chủ đầu tư bán nhà hình thành trong tương lai, đã nhận đặt cọc bằng 5% giá trị hợp đồng, nay muốn thu lần đầu thêm 30% giá trị hợp đồng. Chỉ xét trần thanh toán lần đầu, nhận định nào đúng?"
+        "Tháng 10/2026: Chủ đầu tư bán nhà hình thành trong tương lai, đã nhận đặt cọc bằng 5% giá trị hợp đồng, nay muốn thu lần đầu thêm 30% giá trị hợp đồng. Chỉ xét trần thanh toán lần đầu, nhận định nào đúng?",
+        "Tháng 10/2026: Chủ đầu tư đã thu đặt cọc 5% hợp đồng bán nhà tương lai, dự định yêu cầu thêm 30% trong đợt thanh toán đầu vì muốn tách đặt cọc khỏi thanh toán. Chỉ xét trần lần đầu, đánh giá nào đúng?",
+        "Tháng 10/2026: Bên mua tự nguyện trả thêm 30% giá hợp đồng ở lần đầu sau khi đã đặt cọc 5% cho chủ đầu tư bán nhà hình thành trong tương lai. Việc tự nguyện có làm tổng 35% phù hợp Điều 25(1) không? Chọn kết luận."
       ]
     },
     "answers": [
@@ -7658,6 +7979,12 @@
         "OFFICIAL-KD-HN25"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -7670,7 +7997,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai bên muốn áp dụng cơ chế chuyển nhượng hợp đồng tại Mục 2 Chương VI Luật Kinh doanh BĐS cho hợp đồng mua bán nhà ở xã hội. Kết luận nào đúng?"
+        "Tháng 10/2026: Hai bên muốn áp dụng cơ chế chuyển nhượng hợp đồng tại Mục 2 Chương VI Luật Kinh doanh BĐS cho hợp đồng mua bán nhà ở xã hội. Kết luận nào đúng?",
+        "Tháng 10/2026: Bên mua nhà ở xã hội đã thanh toán 30% và muốn chuyển nhượng hợp đồng theo Mục 2 Chương VI Luật KDBĐS như nhà thương mại tương lai. Chọn kết luận về phạm vi áp dụng cơ chế đó.",
+        "Tháng 10/2026: Hợp đồng mua bán nhà xã hội đã được công chứng, hai bên cho rằng vì vậy có thể áp cơ chế chuyển nhượng hợp đồng Mục 2 Chương VI Luật KDBĐS. Công chứng có khắc phục ngoại lệ tại Điều 49(2) không?"
       ]
     },
     "answers": [
@@ -7719,6 +8048,12 @@
         "OFFICIAL-KD-HN25"
       ],
       "note": "Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]

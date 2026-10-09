@@ -45,6 +45,7 @@ worksheets = [
     ('editorial/variant-batch-60-2026-10-09.json', 60),
     ('editorial/variant-batch-100-2026-10-09.json', 100),
     ('editorial/variant-batch-next-100-2026-10-09.json', 100),
+    ('editorial/variant-final-40-2026-10-09.json', 40),
 ]
 batch_reviews = {}
 batch_keys = {}
@@ -70,6 +71,17 @@ assert len([qid for qid in next_ids if qid.startswith('IMP-')]) == 83
 assert 'IMP-T60-038' not in next_ids and 'IMP-T60-096' in next_ids
 deferred_ids = {row['id'] for row in read('editorial/variant-next-100-follow-up-2026-10-09.json')['items']}
 assert len(deferred_ids) == 5 and not (deferred_ids & next_ids)
+final_scope = read('editorial/variant-final-40-scope-2026-10-09.json')
+final_review = read('editorial/variant-final-40-2026-10-09.json')
+final_ids = set(final_scope['ids'])
+repair_file = 'editorial/exam-explanation-repairs-final-2026-10-09.json'
+repairs = read(repair_file)['repairs']
+assert len(final_scope['ids']) == len(final_ids) == 40
+assert final_ids == set(final_review['reviews']) == set(final_review['answerKeys'])
+assert final_ids <= set(previous['remainingIds']) | set(prior)
+assert not (final_ids & next_ids)
+assert set(repairs) == set(final_scope['explanationRepairIds']) == deferred_ids
+assert set(repairs) <= final_ids
 registry = read('reports/refinement-provisions-2026.json')
 decisions = []
 pending_writes = []
@@ -87,7 +99,7 @@ for group, filename, evidence_file in GROUPS:
     if group == 'refinement':
         assert len(additions) == 80, group
     if group == 'exams':
-        assert len(additions) == 83, group
+        assert len(additions) == 123, group
     for q in bank:
         if q['id'] not in additions:
             continue
@@ -106,6 +118,14 @@ for group, filename, evidence_file in GROUPS:
         assert len(correct) == 1 and correct == expected, q['id']
         if q['id'] in batch_keys:
             assert correct == [batch_keys[q['id']]], q['id']
+        if q['id'] in repairs:
+            repair = repairs[q['id']]
+            assert q['explanation'] in (repair['beforeExplanation'], repair['afterExplanation']), q['id']
+            assert before == repair['beforeRecord'], q['id']
+            assert q['legalBasis'] == repair['legalBasis'], q['id']
+            assert correct == [repair['answerKey']], q['id']
+            assert repair['beforeExplanation'] != repair['afterExplanation'], q['id']
+            q['explanation'] = repair['afterExplanation']
         if group == 'refinement':
             for p in proof['provisions']:
                 ref = p['evidenceRef']
@@ -139,11 +159,19 @@ for group, filename, evidence_file in GROUPS:
             'variantEvidenceReport': report_path,
             'legalReviewStatus': 'referenced_provisions_reviewed_not_global_certification',
         })
+        if q['id'] in repairs:
+            q['audit'].update({
+                'explanationReviewDate': DATE,
+                'explanationReviewStatus': 'dated_referenced_provision_and_current_answer_review',
+                'explanationRepairFile': repair_file,
+            })
         # Compare the full loaded record, not only the key/answer array. A dated
         # variants-only continuation must never change the original or metadata.
-        if q['id'] in next_ids:
+        if q['id'] in next_ids | final_ids:
             restored = copy.deepcopy(q)
             restored['question']['variants'] = current_before['question']['variants']
+            if q['id'] in repairs:
+                restored['explanation'] = current_before['explanation']
             if 'audit' in current_before:
                 restored['audit'] = current_before['audit']
             else:
@@ -175,6 +203,12 @@ for group, filename, evidence_file in GROUPS:
                 'editorialReasoning': batch_reviews[q['id']],
                 'editorialWorksheet': worksheet_by_id[q['id']],
             })
+        if q['id'] in repairs:
+            decisions[-1].update({
+                'explanationChanged': True,
+                'explanationChangeReason': repairs[q['id']]['reason'],
+                'explanationRepairFile': repair_file,
+            })
     pending_writes.append(('data/' + filename, bank))
 
 bank_all = []
@@ -194,7 +228,7 @@ for q in active:
 initial = read('editorial/variant-plan-2026-10-09.json')
 done = {q['id'] for q in decisions}
 remaining = [qid for qid in initial['scopeIds'] if qid not in done]
-report = {'date': DATE, 'phaseStatus': 'INCOMPLETE', 'initialScope': len(initial['scopeIds']),
+report = {'date': DATE, 'phaseStatus': 'VARIANT_SCOPE_COMPLETE_LEGAL_REVIEW_NOT_CERTIFIED', 'initialScope': len(initial['scopeIds']),
           'editoriallyReviewedQuestions': len(done), 'remainingQuestions': len(remaining),
           'newlyAuthoredVariants': len(done)*2, 'activeCount': len(active),
           'activeVariantStrings': sum(len(q['question']['variants']) for q in active),
@@ -206,14 +240,17 @@ report['batches'] = [
         'editorial/variant-batch-60-2026-10-09.json': 'refinement-60-2026-10-09',
         'editorial/variant-batch-100-2026-10-09.json': 'completion-refinement-inheritance-100-2026-10-09',
         'editorial/variant-batch-next-100-2026-10-09.json': 'inheritance-exams-next-100-2026-10-09',
+        'editorial/variant-final-40-2026-10-09.json': 'exams-final-40-and-five-explanation-repairs-2026-10-09',
     }[worksheet],
      'questions': size, 'authoredVariants': size * 2,
      'ids': sorted(read(worksheet)['reviews']), 'worksheet': worksheet}
     for worksheet, size in worksheets
 ]
 report['latestBatch'] = report['batches'][-1]
-assert (len(done), len(remaining), len(active)) == (543, 40, 594)
-assert report['activeVariantStrings'] == 1702
+assert done == set(initial['scopeIds'])
+assert (len(done), len(remaining), len(active)) == (583, 0, 594)
+assert report['activeVariantStrings'] == 1782
+report['explanationRepairs'] = {'count': 5, 'ids': sorted(repairs), 'worksheet': repair_file}
 for path, value in pending_writes:
     write(path, value)
 write(report_path, report)

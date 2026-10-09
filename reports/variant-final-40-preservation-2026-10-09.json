@@ -1,0 +1,299 @@
+{
+  "baseCommit": "342a1a108873b64fd82cbdba0fd1166eec99fa3c",
+  "changedQuestions": 40,
+  "addedStems": 80,
+  "changedExplanations": 5,
+  "changedExplanationIds": [
+    "IMP-T60-023",
+    "IMP-T60-038",
+    "IMP-T60-039",
+    "IMP-T60-071",
+    "IMP-T60-085"
+  ],
+  "allOtherBankRecordsUnchanged": true,
+  "prior543DecisionsUnchanged": true,
+  "finalIdsExactlyPriorRemainingIds": true,
+  "applyIdempotent": true,
+  "checks": [
+    {
+      "id": "IMP-T60-023",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": true
+    },
+    {
+      "id": "IMP-T60-038",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": true
+    },
+    {
+      "id": "IMP-T60-039",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": true
+    },
+    {
+      "id": "IMP-T60-071",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": true
+    },
+    {
+      "id": "IMP-T60-085",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": true
+    },
+    {
+      "id": "IMP-SEP24-006",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-008",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-012",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-013",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-018",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-031",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-035",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-039",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-046",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-047",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-002",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-004",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-017",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-029",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-044",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-050",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-057",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-063",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-064",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-065",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-067",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-093",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-095",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-014",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-015",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-021",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-029",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-018",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-028",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-056",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-058",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-059",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-T60-070",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-037",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    },
+    {
+      "id": "IMP-SEP24-042",
+      "file": "data/imported-exams-2026.json",
+      "originalStemPreserved": true,
+      "answersKeyStatusBasisSourceAndMetadataPreserved": true,
+      "explanationChanged": false
+    }
+  ]
+}

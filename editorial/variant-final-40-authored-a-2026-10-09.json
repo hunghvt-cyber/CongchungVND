@@ -1,0 +1,162 @@
+{
+  "IMP-T60-023": {
+    "key": "A",
+    "variants": [
+      "Người vợ sử dụng tài sản riêng để duy trì, phát triển khối tài sản chung vợ chồng và phát sinh nghĩa vụ từ việc đó. Người chồng muốn loại nghĩa vụ khỏi nhóm chung vì chỉ vợ đứng tên giao dịch. Theo Điều 37 khoản 4, chọn phân loại đúng.",
+      "Khi lập bảng nghĩa vụ tài sản vợ chồng, một khoản phát sinh từ sử dụng tài sản riêng nhằm duy trì khối tài sản chung bị xếp riêng vì tài sản chưa nhập vào khối chung. Chọn cách phân loại theo Luật HNGĐ."
+    ],
+    "review": "HNGĐ37(4): A chung vì mục đích duy trì/phát triển khối chung. B nguồn riêng không đủ; C không đòi nhập chung trước; D một người ký không luôn riêng. Hai biến thể xét hai lập luận sai khác nhau; dùng giải thích đã sửa, không nhắc D cũ."
+  },
+  "IMP-T60-038": {
+    "key": "C",
+    "variants": [
+      "Người thuê mua nhà có khả năng trả trước 70% giá trị hợp đồng, phần còn lại trả thành tiền thuê. Chỉ xét trần thanh toán trước trong định nghĩa tại Điều 2(22) Luật Nhà ở hiện hành, giới hạn nào phải áp dụng?",
+      "Khi soạn hợp đồng thuê mua nhà, bên cho thuê mua muốn để tiền trả trước hoàn toàn tùy thỏa thuận vì người thuê mua có khả năng tài chính cao. Theo định nghĩa luật hiện hành, mức trả trước tối đa được chấp nhận là gì?"
+    ],
+    "review": "Nhà2(22) VBHN79/2026: C tối đa50% giá trị hợp đồng. A100/D70 vượt; B tự do không giới hạn sai. Không dùng giả thiết mức thông thường20%; hai biến thể xét đề xuất70% và quyền tự do thỏa thuận, đều khớp giải thích mới."
+  },
+  "IMP-T60-039": {
+    "key": "D",
+    "variants": [
+      "Một cá nhân nước ngoài đủ điều kiện mua nhà có vợ là công dân Việt Nam đang sinh sống tại Việt Nam. Người tư vấn chỉ cho thuê nếu chưa từ bỏ quốc tịch nước ngoài. Chọn cơ chế sở hữu phù hợp trường hợp kết hôn này.",
+      "Khi xét giấy tờ mua nhà của cá nhân nước ngoài đủ điều kiện, hồ sơ chứng minh kết hôn công dân Việt Nam đang sống tại Việt Nam. Có đề nghị vẫn áp giới hạn 50 năm cho mọi người mang quốc tịch nước ngoài. Chọn kết luận đúng."
+    ],
+    "review": "Nhà20(2c): D cơ chế như công dânVN khi kết hôn người VN đang sống tạiVN. A tuyệt đối50 bỏ ngoại lệ; B không chỉ thuê; C không cần bỏ quốc tịch. Giữ cả kết hôn/nơi sống/điều kiện mua, giải thích mới khớp bộ nhiễu hiện có."
+  },
+  "IMP-T60-071": {
+    "key": "A",
+    "variants": [
+      "Một danh sách người sử dụng đất đưa cá nhân nước ngoài cùng cá nhân trong nước, tổ chức ngoại giao theo luật và tổ chức kinh tế có vốn đầu tư nước ngoài. Chọn nhóm không có trong danh mục Điều 4 để sửa danh sách.",
+      "Khi nhận hồ sơ có yếu tố nước ngoài, không thể đồng nhất cá nhân với tổ chức. Trong bốn nhóm chủ thể sau, nhóm nào không được Điều 4 Luật Đất đai liệt kê là người sử dụng đất?"
+    ],
+    "review": "Đất4: A cá nhân nước ngoài không trong danh mục; B khoản3/C khoản5/D khoản7 đều có. V1 rà danh sách, v2 phân loại chủ thể. Giải thích mới loại nhận xét ghép phương án lịch sử, không đồng nhất với quyền sở hữu nhà."
+  },
+  "IMP-T60-085": {
+    "key": "B",
+    "variants": [
+      "Một người mới nộp đơn xin giao đất muốn dùng quyền sử dụng đất sẽ được xác lập sau này làm bảo đảm theo cơ chế tài sản hình thành trong tương lai. Theo Điều 10(4) NĐ 21/2021, có thể áp cơ chế ấy cho quyền này không?",
+      "Người tư vấn cho rằng đất thuộc dự án sẽ phát sinh quyền về sau nên được dùng bảo đảm như mọi tài sản tương lai. Chỉ xét việc áp cơ chế tài sản hình thành trong tương lai đối với quyền sử dụng đất, chọn kết luận đúng."
+    ],
+    "review": "NĐ21 Điều10(4): B loại QSDĐ khỏi cơ chế tài sản tương lai. A đơn/D dự án không vượt ngoại lệ; C mọi tài sản bỏ ngoại lệ. Không suy thành cấm bảo đảm mọi QSDĐ hiện có; giải thích mới khớp cả4 đáp án."
+  },
+  "IMP-SEP24-006": {
+    "key": "C",
+    "variants": [
+      "Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 muốn tặng nhà gắn đất ở cho người không được sở hữu nhà ở tại Việt Nam. Bên nhận viện dẫn việc bên tặng đủ điều kiện để xin giấy chứng nhận. Chọn quyền của bên nhận trong trường hợp này.",
+      "Hồ sơ tặng cho nhà gắn quyền sử dụng đất ở có bên tặng là người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44. Người nhận không thuộc diện được sở hữu nhà ở tại Việt Nam, dù có đề nghị miễn thuế tặng cho. Quyền được hưởng được xác định thế nào?"
+    ],
+    "review": "Đất44(2b): C chỉ giá trị, không cấpGCN trong trường hợp này. A miễn thuế không sửa tư cách; B/D đủ điều kiện bên tặng/loại giao dịch không truyền quyền. Giữ nhà gắn đất ở và người nhận không đủ diện."
+  },
+  "IMP-SEP24-008": {
+    "key": "D",
+    "variants": [
+      "Người tư vấn từ chối xem xét góp vốn bằng quyền sử dụng đất ở của người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 vì cho rằng nhóm này chỉ được chuyển nhượng. Chọn nhận định về điều cấm tuyệt đối được viện dẫn.",
+      "Một doanh nghiệp muốn nhận phần vốn bằng quyền sử dụng đất ở từ người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44. Trước khi rà điều kiện giao dịch, có được loại hồ sơ chỉ vì cho rằng người này chỉ có thể góp tiền mặt không?"
+    ],
+    "review": "Đất44(2c): D có quyền góp vốn theo luật, vẫn rà điều kiện. A mọi người cấm/B chỉ chuyển/C chỉ tiền sai. Không khẳng định giao dịch cụ thể hoàn toàn đủ điều kiện."
+  },
+  "IMP-SEP24-012": {
+    "key": "A",
+    "variants": [
+      "Người tập sự từng bị chấm dứt theo điểm g khoản 1 Điều 9 vì bị áp dụng biện pháp xử lý hành chính, nay đủ điều kiện đăng ký lại. Người hướng dẫn cũ đồng ý bảo lưu thời gian đã làm. Cách tính thời gian trước chấm dứt thế nào?",
+      "Khi lập tổng thời gian cho một lần tập sự đăng ký lại đủ điều kiện, người tập sự muốn coi đợt bị chấm dứt do biện pháp xử lý hành chính như tạm ngừng để giữ thời gian đã làm. Theo khoản 6 Điều 9, chọn kết quả đúng."
+    ],
+    "review": "TT9(1g,6): A không tính trước chấm dứt. B nhầm tạm ngừng; C không nửa; D đồng ý CCV không thay luật. Giữ chấm dứt thực sự và đã đủ điều kiện đăng ký lại."
+  },
+  "IMP-SEP24-013": {
+    "key": "B",
+    "variants": [
+      "Cá nhân thuê đất Nhà nước trả tiền hằng năm muốn tặng tài sản thuộc sở hữu gắn đất cùng quyền thuê trong hợp đồng. Người tư vấn bác vì cho rằng chỉ trả tiền một lần mới được tặng. Theo Điều 37(2c), chọn nhận định về điều cấm tuyệt đối này.",
+      "Một hồ sơ tặng cho bao gồm tài sản thuộc sở hữu cá nhân trên đất Nhà nước cho thuê trả tiền hằng năm và quyền thuê đi cùng. Có thể loại hồ sơ vì cho rằng nhóm này chỉ được để thừa kế, mọi tặng cho đều cấm không?"
+    ],
+    "review": "Đất37(2c): B được tặng tài sản+quyền thuê theo luật, người nhận tiếp tục thuê mục đích xác định. A chỉ một lần/C mọi quyền/D chỉ thừa kế sai. Không tách quyền thuê đơn lẻ hoặc gọi tặng QSDĐ."
+  },
+  "IMP-SEP24-018": {
+    "key": "C",
+    "variants": [
+      "Đất đã có giấy chứng nhận, người sử dụng chuyển nhượng dự án có sử dụng đất và cho rằng công chứng giao dịch thay được đăng ký biến động. Chọn nhận định về danh mục Điều 133(1a).",
+      "Cơ quan tiếp nhận dự định chỉ yêu cầu đăng ký biến động khi chuyển nhượng đất giữa cá nhân, bỏ hồ sơ chuyển nhượng dự án có sử dụng đất đã cấp giấy chứng nhận. Việc bỏ loại hồ sơ này có phù hợp danh mục luật không?"
+    ],
+    "review": "Đất133(1a): C chuyển dự án trong danh mục đã cóGCN. A công chứng không thay; B không tự nguyện mới làm; D không chỉ giữa cá nhân. Giữ đã cấpGCN, không kết luận mọi dự án chưa cóGCN theo cùng nhánh."
+  },
+  "IMP-SEP24-031": {
+    "key": "D",
+    "variants": [
+      "Cá nhân hết hạn thuê đất nông nghiệp theo điểm b khoản 1 Điều 172, vẫn muốn sử dụng và đề nghị tự kéo dài 99 năm. Theo nhánh đất thuê này, cách xử lý tiếp tục sử dụng nào đúng?",
+      "Khi rà hồ sơ đất nông nghiệp cá nhân đang thuê theo điểm b khoản 1 Điều 172 đã hết hạn, cần phân biệt với đất được giao được tiếp tục sử dụng. Cá nhân còn nhu cầu. Chọn cơ chế Nhà nước xem xét phù hợp."
+    ],
+    "review": "Đất172(1b): D xem xét thuê tiếp <=50 năm. A không sở hữu; B không tự99; C không bắt giao không thu. Giữ cá nhân/thuê nông nghiệp/còn nhu cầu, không áp điểm a."
+  },
+  "IMP-SEP24-035": {
+    "key": "A",
+    "variants": [
+      "CCV đã chuyển nhượng toàn bộ vốn theo Điều 30 và chấm dứt tư cách hợp danh, cho rằng nhận tiền chuyển nhượng xóa ngay nợ Văn phòng phát sinh lúc còn là thành viên. Trong 2 năm tiếp theo, trách nhiệm còn lại là gì?",
+      "Chủ nợ của Văn phòng công chứng yêu cầu CCV đã chuyển nhượng toàn bộ vốn trong trường hợp Điều 30 cùng chịu khoản nợ phát sinh khi còn hợp danh. Yêu cầu đặt trong 2 năm sau chấm dứt tư cách. Phạm vi trách nhiệm nào theo khoản 5?"
+    ],
+    "review": "CC30(5): A liên đới toàn tài sản trong2 năm với nợ phát sinh khi còn hợp danh. B không giới hạn giá vốn; C không xóa khi nhận tiền; D không đòi chủ nợ từng phản đối. Giữ phạm vi nợ và mốc2 năm."
+  },
+  "IMP-SEP24-039": {
+    "key": "B",
+    "variants": [
+      "CCV biết mình không đủ điều kiện hướng dẫn tập sự nhưng người tập sự đồng ý và việc hướng dẫn không thu tiền. Khi được phân công, CCV phải thực hiện nghĩa vụ nào theo TT 06/2025?",
+      "Một CCV vừa được giao hướng dẫn tập sự phát hiện bản thân không đạt điều kiện luật định. CCV muốn tiếp tục cho tới khi Sở Tư pháp xử phạt. Chọn nghĩa vụ phải thực hiện ngay theo Điều 13(1)."
+    ],
+    "review": "TT13(1): B từ chối khi thiếu điều kiện. A không tiền/C đồng ý không thay; D không chờ phạt. Không biến việc phân công thành tự đủ điều kiện."
+  },
+  "IMP-SEP24-046": {
+    "key": "C",
+    "variants": [
+      "Sở Tư pháp dự định chờ Văn phòng công chứng xử lý nghĩa vụ tài sản trong 60 ngày sau thu hồi quyết định thành lập mới thu hồi giấy đăng ký hoạt động. Theo Điều 34(3), thời hạn riêng cho việc thu hồi giấy đăng ký từ quyết định là gì?",
+      "Quyết định cho phép thành lập Văn phòng công chứng bị thu hồi. Khi lập lịch xử lý, cần tách thời hạn Sở thu hồi giấy đăng ký hoạt động với thời hạn Văn phòng trả nợ. Chọn thời hạn áp cho Sở tính từ ngày có quyết định."
+    ],
+    "review": "CC34(3): C7 ngày làm việc từ quyết định. A5/B60/D không hạn sai;60 là nghĩa vụ Văn phòng khác. Giữ bị thu hồi thành lập, không nhánh tự chấm dứt."
+  },
+  "IMP-SEP24-047": {
+    "key": "D",
+    "variants": [
+      "CCV đã miễn nhiệm vì bị kết án tội do cố ý, nay được xóa án tích và được một Văn phòng nhận làm việc. Riêng các dữ kiện mới có cho bổ nhiệm lại theo Điều 17 không?",
+      "Người bị miễn nhiệm CCV do kết án về tội phạm do cố ý cho rằng sau xóa án tích và chờ 2 năm sẽ tự được bổ nhiệm lại. Chọn nhận định về giới hạn riêng tại Điều 17(3a)."
+    ],
+    "review": "CC17(3a): D cố ý vẫn loại kể cả xóa. A không tự khôi phục; B2 năm không vượt cấm; C nơi làm không miễn. Giữ do cố ý, không đánh đồng vô ý đã xóa."
+  },
+  "IMP-T60-002": {
+    "key": "B",
+    "variants": [
+      "Hai bên bảo đảm thỏa thuận cho rút một tài sản khỏi phạm vi hợp đồng, không bán tài sản hoặc nhận thay nợ. Người tư vấn ghi đây là xử lý tài sản theo Điều 303. Chọn nhận định về việc rút bớt ấy.",
+      "Hồ sơ bảo đảm thay đổi bằng việc rút bớt tài sản theo thỏa thuận. Có thể chỉ từ sự kiện này suy ra đã đấu giá, chủ nợ tự bán hoặc nhận tài sản thay trả nợ không? Chọn cách phân loại đúng."
+    ],
+    "review": "BLDS303(1), NĐ21 Điều22(3): B thay phạm vi, phần nội dung liên quan hết hiệu lực. A tự bán/C đấu giá/D nhận thay không tự suy. Không thêm sự kiện xử lý tài sản thực tế."
+  },
+  "IMP-T60-004": {
+    "key": "C",
+    "variants": [
+      "Thời hiệu yêu cầu chia di sản theo Điều 623 đã hết, không có ngoại lệ, không có thời gian không tính hoặc căn cứ bắt đầu lại. Một người thừa kế vẫn quản lý di sản. Có phải chuyển ngay cho Nhà nước không? Chọn chủ thể theo thứ tự luật.",
+      "Một gia đình yêu cầu chia đều dù thời hiệu chia di sản đã hết và có người thừa kế đang quản lý. Không có căn cứ loại trừ, bắt đầu lại hay ngoại lệ thời hiệu. Theo khoản 1 Điều 623, di sản thuộc ai?"
+    ],
+    "review": "623(1): C người thừa kế đang quản lý. A thu nhập/B chia bất kể hết/D Nhà nước mọi trường hợp sai. Giữ kết luận hết thời hiệu đã xác định; không tự tính các thời kỳ chuyển tiếp hoặc mất quyền vì một mốc chết đơn thuần."
+  },
+  "IMP-T60-017": {
+    "key": "D",
+    "variants": [
+      "Chủ đầu tư dự định hợp đồng thuê mua nhà ở xã hội cho trả hết tiền trong 3 năm từ ngày ký. Chỉ xét thời hạn thanh toán tối thiểu ở Điều 89(2a), phải áp mức nào?",
+      "Khi soạn lịch thanh toán thuê mua nhà ở xã hội, có đề xuất tính thời hạn từ ngày nhận nhà thay vì từ ngày ký. Theo Điều 89(2a), thời hạn tối thiểu kể từ ngày ký hợp đồng là bao lâu?"
+    ],
+    "review": "Nhà89(2a): D5 năm từ ký. A1/B3 dưới mức; C10 không tối thiểu. Giữ thuê muaXH, không nhầm thời gian5 năm không bán lại từ trả đủ."
+  },
+  "IMP-T60-029": {
+    "key": "A",
+    "variants": [
+      "Người thuê khoán gia súc đòi nhận mọi con sinh ra trong hạn thuê nhưng không chia thiệt hại do bất khả kháng. Hợp đồng không có thỏa thuận khác. Chọn quy tắc mặc định về hưởng và chịu rủi ro.",
+      "Khi thanh toán hợp đồng thuê khoán gia súc, phát sinh cả con sinh ra trong hạn thuê lẫn thiệt hại do sự kiện bất khả kháng. Không có thỏa thuận điều chỉnh. Phải ghi phần hưởng và thiệt hại của bên thuê theo cách nào?"
+    ],
+    "review": "491: A nửa con sinh+nửa thiệt hại bất khả kháng trừ thỏa thuận. B/C dồn hết sai; D không nửa mẹ hoặc toàn con. Giữ trong hạn thuê và bất khả kháng, không lỗi làm chết hoặc gia súc thất lạc."
+  },
+  "IMP-T60-044": {
+    "key": "B",
+    "variants": [
+      "Một điều khoản hợp đồng lao động vi phạm pháp luật có thể tách riêng mà không ảnh hưởng phần còn lại. Người sử dụng cho rằng chữ ký hai bên khiến không thể vô hiệu. Theo Điều 49, chọn phạm vi vô hiệu.",
+      "Khi rà hợp đồng lao động, chỉ một phần nội dung trái luật và các phần khác không bị ảnh hưởng. Có đề nghị vô hiệu toàn bộ để xử lý đơn giản. Chọn cách xác định phạm vi đúng theo khoản 2 Điều 49."
+    ],
+    "review": "LĐ49(2): B từng phần với giả thiết tách được. A không do tự nguyện thừa nhận; C không luôn toàn bộ; D chữ ký không hợp pháp hóa. Không thêm căn cứ độc lập vô hiệu toàn bộ."
+  }
+}

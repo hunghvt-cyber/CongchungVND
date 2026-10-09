@@ -1,7 +1,7 @@
 {
   "files": 11,
-  "rawBytes": 1853353,
-  "gzipBytes": 240880,
+  "rawBytes": 1892301,
+  "gzipBytes": 246707,
   "measurement": "50 iterations; local Node24; gzip estimate, not server compression; not network or phone measurement",
-  "meanParseMsInNode": 5.45427602
+  "meanParseMsInNode": 3.8189934799999996
 }

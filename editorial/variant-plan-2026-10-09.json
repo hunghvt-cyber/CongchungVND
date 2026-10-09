@@ -585,6 +585,8 @@
     "REFIN26-DAT-014",
     "REFIN26-DAT-015"
   ],
-  "status": "IN_PROGRESS",
-  "policy": "Biến thể biên soạn theo từng ID; không tự chứng nhận hiệu lực pháp luật chỉ từ đường dẫn."
+  "status": "VARIANT_SCOPE_COMPLETE",
+  "policy": "Biến thể biên soạn theo từng ID; không tự chứng nhận hiệu lực pháp luật chỉ từ đường dẫn.",
+  "completionReport": "reports/variant-final-40-2026-10-09.md",
+  "allActiveLegallyRecertified": false
 }

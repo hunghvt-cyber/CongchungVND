@@ -1,36 +1,45 @@
 {
   "date": "2026-10-09",
-  "status": "FOLLOW_UP_REQUIRED",
+  "status": "RESOLVED_BY_AUTHORIZED_EXPLANATION_REPAIRS",
   "items": [
     {
       "id": "IMP-T60-038",
       "issue": "Giải thích nói mức thông thường 20%, không có trong khoản22 Điều2 VBHN79/2026 đang lưu. Hoãn biến thể; chưa sửa câu active trong đợt này.",
       "effect": "Cần rà sửa giải thích riêng trước khi tính hoàn tất biến thể.",
-      "appliedInThisBatch": false
+      "appliedInThisBatch": false,
+      "resolutionStatus": "EXPLANATION_REPAIRED_AND_VARIANTS_APPLIED_IN_FINAL_40"
     },
     {
       "id": "IMP-T60-023",
       "issue": "Giải thích còn câu D mô tả nghĩa vụ chung trong khi khóa hiện tại A. Kết luận nội dung và khóa A khớp Điều37(4).",
       "effect": "Cần dọn tham chiếu chữ cái lịch sử, không đổi khóa. Hoãn biến thể, giữ nguyên toàn bộ câu active trong đợt này.",
-      "appliedInThisBatch": false
+      "appliedInThisBatch": false,
+      "resolutionStatus": "EXPLANATION_REPAIRED_AND_VARIANTS_APPLIED_IN_FINAL_40"
     },
     {
       "id": "IMP-T60-039",
       "issue": "Giải thích còn câu A thiếu yếu tố đang sống tại Việt Nam, không khớp bộ nhiễu hiện tại. Kết luận chính và khóa D khớp Điều20(2c).",
       "effect": "Cần dọn nhận xét nhiễu cũ. Hoãn biến thể, giữ nguyên toàn bộ câu active trong đợt này.",
-      "appliedInThisBatch": false
+      "appliedInThisBatch": false,
+      "resolutionStatus": "EXPLANATION_REPAIRED_AND_VARIANTS_APPLIED_IN_FINAL_40"
     },
     {
       "id": "IMP-T60-071",
       "issue": "Giải thích còn A ghép chủ thể và câu cần viết lại từ phiên cũ. Lời dẫn hiện tại, khóa A và Điều4 khớp.",
       "effect": "Cần dọn nhận xét nhiễu cũ. Hoãn biến thể, giữ nguyên toàn bộ câu active trong đợt này.",
-      "appliedInThisBatch": false
+      "appliedInThisBatch": false,
+      "resolutionStatus": "EXPLANATION_REPAIRED_AND_VARIANTS_APPLIED_IN_FINAL_40"
     },
     {
       "id": "IMP-T60-085",
       "issue": "Giải thích còn nhận xét A/B/C thuộc bộ nhiễu cũ. Kết luận chính và khóa B khớp NĐ21 Điều10(4).",
       "effect": "Cần dọn nhận xét nhiễu cũ. Hoãn biến thể, giữ nguyên toàn bộ câu active trong đợt này.",
-      "appliedInThisBatch": false
+      "appliedInThisBatch": false,
+      "resolutionStatus": "EXPLANATION_REPAIRED_AND_VARIANTS_APPLIED_IN_FINAL_40"
     }
-  ]
+  ],
+  "previousStatus": "FOLLOW_UP_REQUIRED",
+  "resolvedAt": "2026-10-09",
+  "resolutionFile": "editorial/exam-explanation-repairs-final-2026-10-09.json",
+  "historyNote": "issue/effect/appliedInThisBatch ghi nhận đợt100 trước; lần sửa5 giải thích và biến thể cuối40 được ghi riêng trong resolutionFile."
 }
