@@ -2,6 +2,30 @@ const test=require('node:test');const assert=require('node:assert/strict');const
 const root=path.resolve(__dirname,'..');const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json','imported-inheritance-2026.json','completion-2026.json','refinement-2026.json','verified-new-2026.json'];
 const bank=files.flatMap(f=>read(`data/${f}`));const eligible=bank.filter(q=>['active','verified'].includes(q.status));
+test('60-question refinement batch retains authored variants, individual review and independent evidence keys',()=>{
+ const report=read('reports/substantive-variants-2026-10-09.json');
+ const worksheet=read('editorial/variant-batch-60-2026-10-09.json');
+ const drafts=read('editorial/refinement-variants-2026-10-09.json');
+ const proofs=new Map(read('reports/refinement-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
+ const ids=[...Array.from({length:40},(_,i)=>`REFIN26-CC-${String(i+1).padStart(3,'0')}`),...Array.from({length:20},(_,i)=>`REFIN26-QT-${String(i+1).padStart(3,'0')}`)];
+ assert.deepEqual(Object.keys(drafts).sort(),ids.slice().sort());
+ assert.deepEqual(Object.keys(worksheet.reviews).sort(),ids.slice().sort());
+ assert.ok(report.editoriallyReviewedQuestions>=343);
+ assert.ok(report.remainingQuestions<=240);
+ const batch=report.batches.find(b=>b.id==='refinement-60-2026-10-09');
+ assert.equal(batch.questions,60);
+ assert.deepEqual(batch.ids,ids.slice().sort());
+ for(const id of ids){
+  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id);
+  assert.equal(d.editorialReasoning,worksheet.reviews[id],id);
+  assert.equal(d.answerKey,worksheet.answerKeys[id],id);
+  assert.equal(d.answerKey,proofs.get(id).answer,id);
+  assert.equal(d.before.question.variants.length,1,id);
+  assert.deepEqual(q.question.variants.slice(1),drafts[id].map(v=>'Tháng 10/2026: '+v),id);
+  assert.equal(q.lastVerified,d.before.lastVerified,id);
+  assert.ok(!report.remainingIds.includes(id),id);
+ }
+});
 test('substantive variant migration preserves each reviewed four-answer set and retains an explicit incomplete register',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');
  const reviewed=new Set(report.decisions.map(d=>d.id));

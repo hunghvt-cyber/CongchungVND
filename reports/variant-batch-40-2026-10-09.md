@@ -22,7 +22,7 @@ Giữ nguyên ID, số câu active, đáp án, khóa, giải thích và căn c�
 - [Lời dẫn hôn nhân–gia đình](../editorial/family-variants-2026-10-09.json) và [khóa đối chiếu](../editorial/family-answer-review-2026-10-09.json).
 - [Lời dẫn thừa kế](../editorial/inheritance-variants-2026-10-09.json) và [khóa đối chiếu](../editorial/inheritance-answer-review-2026-10-09.json).
 - [Nhận xét từng câu và kiểm tra nguồn](../editorial/variant-batch-40-2026-10-09.json).
-- [Hồ sơ tích lũy, bản trước chỉnh và 300 ID còn lại](substantive-variants-2026-10-09.json).
+- [Hồ sơ tích lũy, bản trước chỉnh và 300 ID còn lại tại mốc đợt 40 câu](https://github.com/hunghvt-cyber/CongchungVND/blob/923156f846d43021accacf5e300fdda3e3566c4d/reports/substantive-variants-2026-10-09.json).
 
 Một số trang CSDL toàn văn mở gặp lỗi; hồ sơ nhận xét ghi rõ nguồn nào đọc trực tiếp, nguồn nào dùng thêm chứng cứ điều khoản đã lưu. Phạm vi bãi bỏ của NĐ126 được đối chiếu riêng, không xem trạng thái hết hiệu lực một phần là toàn nghị định đã hết hoặc vẫn còn hiệu lực. Quy định sửa Luật Công chứng có hiệu lực 01/01/2027 không được dùng để trả lời câu tháng 10/2026.
 
@@ -30,6 +30,6 @@ Một số trang CSDL toàn văn mở gặp lỗi; hồ sơ nhận xét ghi rõ 
 
 Kết quả tại [bản ghi kiểm thử](variant-batch-40-tests-2026-10-09.tap); chạy bộ Node/DOM giả lập gồm ứng dụng, dữ liệu và lịch sử tiến bộ. Đây không phải kiểm thử trực tiếp trên điện thoại.
 
-[Kiểm kê cập nhật](bank-audit-variants-2026-10-09.json) xác nhận 594 active, không trùng ID hoặc lời dẫn nguyên văn; còn 300 câu được đánh dấu cần biến thể thực chất. [Đo dung lượng](variant-payload-2026-10-09.json) ghi 11 tệp ngân hàng với 1.611.978 byte, tăng 45.162 byte so với đợt trước. Gzip thử khoảng 209.892 byte; không phải xác nhận cấu hình nén máy chủ. Thời gian phân tích JSON trung bình khoảng 3,99 ms trên Node cục bộ, không phải đo mạng hay iPhone.
+[Kiểm kê tại mốc đợt 40 câu](https://github.com/hunghvt-cyber/CongchungVND/blob/923156f846d43021accacf5e300fdda3e3566c4d/reports/bank-audit-variants-2026-10-09.json) xác nhận 594 active, không trùng ID hoặc lời dẫn nguyên văn; còn 300 câu được đánh dấu cần biến thể thực chất. [Đo dung lượng tại cùng mốc](https://github.com/hunghvt-cyber/CongchungVND/blob/923156f846d43021accacf5e300fdda3e3566c4d/reports/variant-payload-2026-10-09.json) ghi 11 tệp ngân hàng với 1.611.978 byte, tăng 45.162 byte so với đợt trước. Gzip thử khoảng 209.892 byte; không phải xác nhận cấu hình nén máy chủ. Thời gian phân tích JSON trung bình khoảng 3,99 ms trên Node cục bộ, không phải đo mạng hay iPhone.
 
 Các tệp hồ sơ và biên tập không được ứng dụng tải khi làm đề. Mã CC2 của phiên bản ngân hàng trước cần được tạo lại khi dùng phiên bản dữ liệu mới theo cơ chế kiểm tra phiên bản đã có.
