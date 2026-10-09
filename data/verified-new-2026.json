@@ -36,7 +36,7 @@
         "correct": false
       }
     ],
-    "explanation": "Khoản 2 Điều 405: bên đưa ra hợp đồng theo mẫu chịu bất lợi khi giải thích điều khoản không rõ ràng.",
+    "explanation": "Khoản 2 Điều 405: bên đưa ra hợp đồng theo mẫu chịu bất lợi khi giải thích điều khoản không rõ ràng. Chỉ việc không rõ nghĩa mới kích hoạt nguyên tắc này; không mặc nhiên làm toàn bộ hợp đồng vô hiệu.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -50,6 +50,13 @@
       "type": "legal-review",
       "id": "STG80-1",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS405-2-ambiguity",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -62,9 +69,9 @@
     "questionForm": "scenario",
     "question": {
       "variants": [
-        "Hợp đồng theo mẫu loại bỏ quyền lợi chính đáng của bên còn lại và không có thỏa thuận khác. Hiệu lực điều khoản đó?",
-        "Doanh nghiệp soạn mẫu hợp đồng tự miễn toàn bộ trách nhiệm của mình; các bên không có thỏa thuận khác. Áp dụng Điều 405 thế nào?",
-        "Điều khoản theo mẫu tăng trách nhiệm của khách hàng, không có thỏa thuận khác. Kết luận phù hợp?"
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Hợp đồng theo mẫu loại bỏ quyền lợi chính đáng của bên còn lại và không có thỏa thuận khác. Hiệu lực điều khoản đó?",
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Doanh nghiệp soạn mẫu hợp đồng tự miễn toàn bộ trách nhiệm của mình; các bên không có thỏa thuận khác. Áp dụng Điều 405 thế nào?",
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Điều khoản theo mẫu tăng trách nhiệm của khách hàng, không có thỏa thuận khác. Kết luận phù hợp?"
       ]
     },
     "answers": [
@@ -103,6 +110,13 @@
       "type": "legal-review",
       "id": "STG80-2",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS405-3-unfair-terms",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -116,8 +130,8 @@
     "question": {
       "variants": [
         "A gửi tiền vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ với B. Biện pháp bảo đảm nào?",
-        "Khoản tiền được gửi vào tài khoản phong tỏa ở tổ chức tín dụng nhằm bảo đảm thực hiện nghĩa vụ. Đây là gì?",
-        "Phân biệt với đặt cọc và ký cược: tiền bảo đảm được phong tỏa tại tổ chức tín dụng là biện pháp nào?"
+        "Bên có nghĩa vụ đưa giấy tờ có giá vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm thực hiện nghĩa vụ. Theo khoản 1 Điều 330, biện pháp nào được xác lập?",
+        "Hai bên không giao tiền trực tiếp cho nhau mà thỏa thuận bên có nghĩa vụ gửi kim khí quý vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ. Biện pháp nào phù hợp với cơ chế này?"
       ]
     },
     "answers": [
@@ -156,6 +170,13 @@
       "type": "legal-review",
       "id": "STG80-25",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS330-1-definition",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -209,6 +230,13 @@
       "type": "legal-review",
       "id": "STG80-28",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS330-2-payment",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -222,7 +250,7 @@
     "question": {
       "variants": [
         "Cơ sở y tế xác nhận người vợ vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Vợ chồng có đáp ứng điều kiện nhờ mang thai hộ?",
-        "Điều kiện y tế nào về người vợ phải được xác nhận để vợ chồng được nhờ mang thai hộ vì mục đích nhân đạo?",
+        "Người vợ có xác nhận y tế rằng vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Chỉ xét điểm a khoản 2 Điều 95, vợ chồng có đủ điều kiện nhờ mang thai hộ không?",
         "Vợ chồng muốn nhờ mang thai hộ chỉ vì không muốn người vợ mang thai, dù vẫn có khả năng sinh con. Đánh giá pháp lý?"
       ]
     },
@@ -253,8 +281,9 @@
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
         "article": "Điều 95",
-        "clause": "Khoản 2 điểm a",
-        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        "clause": "Khoản 2",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "point": "Điểm a"
       }
     ],
     "lastVerified": "2026-10-08",
@@ -262,6 +291,13 @@
       "type": "legal-review",
       "id": "STG80-46",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "HNGD95-2a-medical",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -276,7 +312,7 @@
       "variants": [
         "Vợ chồng đã có con chung muốn nhờ mang thai hộ vì mục đích nhân đạo. Điều kiện nào chưa đáp ứng?",
         "Điểm b khoản 2 Điều 95 yêu cầu tình trạng con chung của vợ chồng nhờ mang thai hộ ra sao?",
-        "Vợ chồng A đã có con chung, các điều kiện khác đều đáp ứng. Có được nhờ mang thai hộ vì mục đích nhân đạo?"
+        "Vợ chồng có con riêng nhưng chưa có con chung. Chỉ xét điểm b khoản 2 Điều 95, điều kiện về con chung để nhờ mang thai hộ được xác định thế nào?"
       ]
     },
     "answers": [
@@ -301,13 +337,14 @@
         "correct": false
       }
     ],
-    "explanation": "Điểm b khoản 2 Điều 95 yêu cầu vợ chồng nhờ mang thai hộ đang không có con chung.",
+    "explanation": "Điểm b khoản 2 Điều 95 yêu cầu vợ chồng nhờ mang thai hộ đang không có con chung. Con riêng không đồng nghĩa con chung; phải phân biệt đúng quan hệ cha mẹ của người con.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
         "article": "Điều 95",
-        "clause": "Khoản 2 điểm b",
-        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        "clause": "Khoản 2",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "point": "Điểm b"
       }
     ],
     "lastVerified": "2026-10-08",
@@ -315,6 +352,13 @@
       "type": "legal-review",
       "id": "STG80-47",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "HNGD95-2b-common-child",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -327,9 +371,9 @@
     "questionForm": "scenario",
     "question": {
       "variants": [
-        "Vợ chồng nhờ mang thai hộ chưa được tư vấn pháp lý nhưng đã tư vấn y tế và tâm lý. Có đáp ứng điều kiện?",
+        "Vợ chồng đã được tư vấn y tế và tâm lý nhưng chưa tư vấn pháp lý trước khi nhờ mang thai hộ. Để đáp ứng điểm c khoản 2 Điều 95, phải bảo đảm đầy đủ nhóm tư vấn nào?",
         "Những lĩnh vực tư vấn bắt buộc với vợ chồng nhờ mang thai hộ theo Điều 95 là gì?",
-        "Cơ sở chỉ tư vấn y tế cho bên nhờ mang thai hộ. Để đáp ứng điểm c khoản 2 Điều 95 còn thiếu nội dung gì?"
+        "Bên nhờ mang thai hộ cho rằng tư vấn y tế có thể thay thế hai lĩnh vực tư vấn còn lại. Phương án nào thể hiện đầy đủ yêu cầu tại điểm c khoản 2 Điều 95?"
       ]
     },
     "answers": [
@@ -354,13 +398,14 @@
         "correct": false
       }
     ],
-    "explanation": "Điểm c khoản 2 Điều 95 yêu cầu đã được tư vấn về y tế, pháp lý và tâm lý.",
+    "explanation": "Điểm c khoản 2 Điều 95 yêu cầu đã được tư vấn về y tế, pháp lý và tâm lý. Các lĩnh vực tư vấn là yêu cầu đồng thời; đã tư vấn một hoặc hai lĩnh vực chưa đáp ứng đầy đủ điều kiện.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (VBHN 121/VBHN-VPQH năm 2025)",
         "article": "Điều 95",
-        "clause": "Khoản 2 điểm c",
-        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        "clause": "Khoản 2",
+        "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+        "point": "Điểm c"
       }
     ],
     "lastVerified": "2026-10-08",
@@ -368,6 +413,13 @@
       "type": "legal-review",
       "id": "STG80-48",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "HNGD95-2c-counselling",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -421,6 +473,13 @@
       "type": "legal-review",
       "id": "STG80-49",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "HNGD96-2-form",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -434,7 +493,7 @@
     "question": {
       "variants": [
         "Vợ chồng nhờ mang thai hộ ủy quyền cho luật sư là người thứ ba ký thỏa thuận. Hiệu lực việc ủy quyền?",
-        "Trong thỏa thuận mang thai hộ vì mục đích nhân đạo, vợ chồng trong cùng một bên được ủy quyền cho nhau theo hình thức nào?",
+        "Vợ chồng bên nhờ mang thai hộ có thể ủy quyền cho nhau, nhưng họ muốn nhờ một người thứ ba ký thay thỏa thuận. Theo khoản 2 Điều 96, kết luận nào đúng về việc ủy quyền cho người thứ ba?",
         "Bên mang thai hộ lập giấy ủy quyền công chứng cho người ngoài gia đình ký thay thỏa thuận. Nhận định nào đúng?"
       ]
     },
@@ -474,6 +533,13 @@
       "type": "legal-review",
       "id": "STG80-50",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "HNGD96-2-third-party",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -488,7 +554,7 @@
       "variants": [
         "Pháp nhân được xác lập quyền hưởng dụng lần đầu trong 40 năm; không có quy định khác. Thời hạn tối đa theo BLDS?",
         "Đối với người hưởng dụng đầu tiên là pháp nhân, thời hạn hưởng dụng tối đa bao nhiêu năm?",
-        "Công ty A lần đầu nhận quyền hưởng dụng trong 35 năm. Điều khoản nào cần điều chỉnh theo Điều 260?"
+        "Công ty A là người hưởng dụng đầu tiên, được thỏa thuận hưởng dụng 35 năm. Giả sử công ty tồn tại suốt thời gian này, giới hạn tối đa theo khoản 1 Điều 260 là bao nhiêu năm?"
       ]
     },
     "answers": [
@@ -527,6 +593,13 @@
       "type": "legal-review",
       "id": "STG80-66",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS260-1-legal-entity-term",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   },
   {
@@ -580,6 +653,13 @@
       "type": "legal-review",
       "id": "STG80-67",
       "note": "Đối chiếu ngân hàng 583 active; biến thể cùng một quy tắc pháp lý, không tính thành câu độc lập."
+    },
+    "competenceId": "BLDS261-1-exploitation",
+    "audit": {
+      "variantReviewDate": "2026-10-08",
+      "variantReviewStatus": "editorially_checked",
+      "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
     }
   }
 ]

@@ -1,0 +1,326 @@
+{
+  "testedAt": "2026-10-08",
+  "scope": "Node DOM harness, real loaded bank, three consecutive exams",
+  "measurements": [
+    {
+      "part": 1,
+      "count": 5,
+      "exam": 1,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 5,
+      "exam": 2,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 5,
+      "exam": 3,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 10,
+      "exam": 1,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 10,
+      "exam": 2,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 10,
+      "exam": 3,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 20,
+      "exam": 1,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 20,
+      "exam": 2,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 20,
+      "exam": 3,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 50,
+      "exam": 1,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 50,
+      "exam": 2,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 50,
+      "exam": 3,
+      "pool": 143,
+      "overlapWithEarlierUnion": 7,
+      "overlapWithEachEarlierExam": [
+        7,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 100,
+      "exam": 1,
+      "pool": 143,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 100,
+      "exam": 2,
+      "pool": 143,
+      "overlapWithEarlierUnion": 57,
+      "overlapWithEachEarlierExam": [
+        57
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 1,
+      "count": 100,
+      "exam": 3,
+      "pool": 143,
+      "overlapWithEarlierUnion": 100,
+      "overlapWithEachEarlierExam": [
+        100,
+        57
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 5,
+      "exam": 1,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 5,
+      "exam": 2,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 5,
+      "exam": 3,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 10,
+      "exam": 1,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 10,
+      "exam": 2,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 10,
+      "exam": 3,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 20,
+      "exam": 1,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 20,
+      "exam": 2,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 20,
+      "exam": 3,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 50,
+      "exam": 1,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 50,
+      "exam": 2,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 50,
+      "exam": 3,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 100,
+      "exam": 1,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 100,
+      "exam": 2,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0
+      ],
+      "codeReproduction": "exact"
+    },
+    {
+      "part": 2,
+      "count": 100,
+      "exam": 3,
+      "pool": 451,
+      "overlapWithEarlierUnion": 0,
+      "overlapWithEachEarlierExam": [
+        0,
+        0
+      ],
+      "codeReproduction": "exact"
+    }
+  ]
+}

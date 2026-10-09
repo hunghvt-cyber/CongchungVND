@@ -48,8 +48,30 @@ function createSharedExam(bank, part, count, duration, seed) {
   const body=`CC1-${part}-${actualCount}-${duration}-${(seed>>>0).toString(16).padStart(8,'0').toUpperCase()}-${bankVersion(pool)}`;
   return {questions,code:`${body}-${fingerprint(body).slice(0,8)}`};
 }
+// CC2 records selected pool positions; its seed fixes variants and answer order.
+// Unlike CC1, reproduction never depends on a learner's local history.
+function createSelectedExam(bank, part, selected, duration, seed) {
+  const pool=examPool(bank,part), positions=new Map(pool.map((q,i)=>[q.id,i]));
+  const indices=selected.map(q=>positions.get(q.id));
+  if (!indices.length || indices.some(i=>i===undefined) || new Set(indices).size!==indices.length) throw new Error('Bộ câu hỏi không hợp lệ.');
+  const random=seededRandom(seed);
+  const questions=indices.map(i=>{const q=pool[i];return {...q,variant:q.question.variants[Math.floor(random()*q.question.variants.length)],answers:shuffle(q.answers,random)};});
+  const body=`CC2-${part}-${indices.length}-${duration}-${(seed>>>0).toString(16).padStart(8,'0').toUpperCase()}-${bankVersion(pool)}-${indices.map(i=>i.toString(36).toUpperCase()).join('.')}`;
+  return {questions,code:`${body}-${fingerprint(body).slice(0,8)}`};
+}
 function parseExamCode(raw, bank) {
   const code=raw.trim().toUpperCase();
+  if (code.startsWith('CC2-')) {
+    const match=/^CC2-([12])-([1-9]\d{0,3})-(15|30|60|90)-([0-9A-F]{8})-([0-9A-F]{16})-([0-9A-Z]+(?:\.[0-9A-Z]+)*)-([0-9A-F]{8})$/.exec(code);
+    if (!match || code.length>8192) throw new Error('Mã đề không hợp lệ. Hãy sao chép đầy đủ mã CC2.');
+    const body=code.slice(0,code.lastIndexOf('-'));
+    if(fingerprint(body).slice(0,8)!==match[7]) throw new Error('Mã đề bị sai hoặc thiếu ký tự.');
+    const part=Number(match[1]),count=Number(match[2]),duration=Number(match[3]),seed=parseInt(match[4],16),pool=examPool(bank,part);
+    if(bankVersion(pool)!==match[5]) throw new Error('Ngân hàng câu hỏi khác phiên bản của mã đề. Người tạo cần tạo mã mới.');
+    const indices=match[6].split('.').map(x=>parseInt(x,36));
+    if(indices.length!==count || new Set(indices).size!==count || indices.some(i=>!Number.isSafeInteger(i)||i<0||i>=pool.length)) throw new Error('Mã đề chứa bộ câu hỏi không hợp lệ.');
+    return {part,count,duration,seed,indices,code};
+  }
   const match=/^CC1-([12])-([1-9]\d{0,3})-(15|30|60|90)-([0-9A-F]{8})-([0-9A-F]{16})-([0-9A-F]{8})$/.exec(code);
   if (!match) throw new Error('Mã đề không hợp lệ. Hãy sao chép đầy đủ mã CC1 mới từ người tạo đề.');
   const body=code.slice(0,code.lastIndexOf('-'));
@@ -61,7 +83,7 @@ function parseExamCode(raw, bank) {
 }
 function startSharedExam(raw) {
   const params=parseExamCode(raw,state.bank);
-  state.mode='mock'; startSession(params.part,params.count,params.duration,params.seed);
+  state.mode='mock'; startSession(params.part,params.count,params.duration,params.seed,params.indices);
 }
 function shareMarkup() {
   return `<div class="share-exam"><label>Mã đề để cùng làm<textarea class="share-code" rows="2" readonly aria-label="Mã đề để chia sẻ">${escapeHtml(state.examCode)}</textarea></label><button class="copy-code secondary-button">Sao chép mã đề</button><p class="copy-status" role="status">Gửi mã này cho nhóm. Mỗi người có thời gian riêng từ lúc bắt đầu.</p></div>`;
@@ -111,7 +133,7 @@ function showSetup(mode) {
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option>100</option></select></label>
     <label>Thời gian<select id="setupDuration"><option value="15">15 phút</option><option value="30">30 phút</option><option value="60">60 phút</option><option value="90">90 phút</option></select></label></div>
     <button id="startSetup" class="primary-button">Tạo đề mới & bắt đầu</button>
-    <div class="join-exam"><h3>Cùng làm một đề</h3><label for="joinExamCode">Mã đề người khác chia sẻ</label><input id="joinExamCode" type="text" maxlength="120" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="Dán mã CC1-... vào đây" />
+    <div class="join-exam"><h3>Cùng làm một đề</h3><label for="joinExamCode">Mã đề người khác chia sẻ</label><input id="joinExamCode" type="text" maxlength="8192" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="Dán mã CC2-... hoặc CC1-... vào đây" />
     <p>Mã quyết định bài, số câu và thời lượng. Mỗi người tự bắt đầu, rồi đối chiếu cùng số câu và đáp án để thảo luận.</p>
     <button id="joinExam" class="secondary-button">Nhập mã & bắt đầu thi</button><p id="joinStatus" role="alert"></p></div>`;
   document.querySelector('#startSetup').addEventListener('click', () => {
@@ -129,19 +151,50 @@ function showSetup(mode) {
 
 // Recent-question history applies to independently generated sessions only.
 // Shared exam codes retain their exact deterministic question order.
+function historyKey() {
+  return 'congchungvnd:recent-v2:' + (state.learnerKey || 'device');
+}
+function recentQuestionHistory(part) {
+  let history=[];
+  try {const saved=JSON.parse(localStorage.getItem(historyKey())||'[]');if(Array.isArray(saved))history=saved.filter(id=>typeof id==='string');} catch (_) {}
+  // Preserve legacy history for anonymous users, including all-part practice.
+  if (!state.learnerKey) for(const scope of new Set(['all',String(part)])) {
+    try {const old=JSON.parse(localStorage.getItem('congchungvnd:recent-questions:'+scope)||'[]');if(Array.isArray(old))history.push(...old.filter(id=>typeof id==='string'));} catch (_) {}
+  }
+  return [...new Set(history)];
+}
+function recordQuestionHistory(questions, part) {
+  const ids=questions.map(q=>q.id),picked=new Set(ids);
+  try {localStorage.setItem(historyKey(),JSON.stringify([...ids,...recentQuestionHistory(part).filter(id=>!picked.has(id))].slice(0,2000)));} catch (_) {}
+}
+function competenceKey(q) {
+  if(q.competenceId) return q.competenceId;
+  // A shared article alone is too broad: also require the same legal answer.
+  return JSON.stringify([q.legalBasis,q.answers.filter(a=>a.correct).map(a=>a.text.trim().toLocaleLowerCase('vi')).sort()]);
+}
 function chooseFreshQuestions(pool, count, part) {
-  const key = 'congchungvnd:recent-questions:' + (part === null ? 'all' : part);
-  let history = [];
-  try { const saved = JSON.parse(localStorage.getItem(key) || '[]'); if (Array.isArray(saved)) history = saved.filter(id => typeof id === 'string'); } catch (_) {}
-  const recent = new Set(history);
-  const fresh = shuffle(pool.filter(q => !recent.has(q.id)));
-  const repeats = shuffle(pool.filter(q => recent.has(q.id)));
-  const picked = [...fresh, ...repeats].slice(0, Math.min(count, pool.length));
-  try { localStorage.setItem(key, JSON.stringify([...picked.map(q => q.id), ...history.filter(id => !picked.some(q => q.id === id))].slice(0, Math.min(pool.length, Math.max(count * 3, 150))))); } catch (_) {}
+  const history=recentQuestionHistory(part),rank=new Map(history.map((id,i)=>[id,i]));
+  const picked=[],used=new Set(),topics=new Map(),levels=new Map();
+  const candidates=shuffle(pool),competences=new Map(pool.map(q=>[q.id,competenceKey(q)]));
+  const totalTopics=new Map(),totalLevels=new Map();
+  for(const q of pool){totalTopics.set(q.topic,(totalTopics.get(q.topic)||0)+1);totalLevels.set(q.difficulty,(totalLevels.get(q.difficulty)||0)+1);}
+  while(picked.length<Math.min(count,pool.length)) {
+    const fresh=candidates.filter(q=>!rank.has(q.id));
+    const available=fresh.length?fresh:candidates;
+    const distinct=available.filter(q=>!used.has(competences.get(q.id)));
+    const options=distinct.length?distinct:available;
+    options.sort((a,b)=>{
+      if(!fresh.length){const recency=(rank.get(b.id)??-1)-(rank.get(a.id)??-1);if(recency)return recency;}
+      const balance=q=>(topics.get(q.topic)||0)/totalTopics.get(q.topic)+(levels.get(q.difficulty)||0)/totalLevels.get(q.difficulty);
+      return balance(a)-balance(b);
+    });
+    const q=options[0];picked.push(q);candidates.splice(candidates.indexOf(q),1);used.add(competences.get(q.id));
+    topics.set(q.topic,(topics.get(q.topic)||0)+1);levels.set(q.difficulty,(levels.get(q.difficulty)||0)+1);
+  }
   return picked;
 }
 
-function startSession(part, count, duration, seed = null) {
+function startSession(part, count, duration, seed = null, indices = null) {
   stopTimer();
   const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part));
   if (!pool.length) { alert('Chưa có câu hỏi đủ điều kiện cho bài này.'); return; }
@@ -151,16 +204,20 @@ function startSession(part, count, duration, seed = null) {
   if (state.mode==='mock') {
     if (seed === null) {
       const chosen=chooseFreshQuestions(pool,count,part);
-      state.questions=chosen.map(q=>({...q,variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)],answers:shuffle(q.answers)}));
-      state.examCode=''; // Personalized anti-repeat exams cannot be reconstructed from a shared seed.
+      const randomSeed=crypto.getRandomValues(new Uint32Array(1))[0];
+      const shared=createSelectedExam(state.bank,part,chosen,duration,randomSeed);
+      state.questions=shared.questions; state.examCode=shared.code;
     } else {
-      const shared=createSharedExam(state.bank,part,count,duration,seed);
+      const shared=indices
+        ? createSelectedExam(state.bank,part,indices.map(i=>examPool(state.bank,part)[i]),duration,seed)
+        : createSharedExam(state.bank,part,count,duration,seed);
       state.questions=shared.questions; state.examCode=shared.code;
     }
   } else {
     state.questions=chooseFreshQuestions(pool,count,part).map(q=>({...q,answers:shuffle(q.answers),variant:q.question.variants[Math.floor(Math.random()*q.question.variants.length)]}));
     state.examCode='';
   }
+  recordQuestionHistory(state.questions,part);
   state.duration = duration; state.remaining = duration * 60; state.deadline = Date.now() + state.remaining * 1000;
   document.querySelector('#learningProgress')?.classList.add('hidden');
   els.setup.classList.add('hidden'); els.result.classList.add('hidden'); els.quiz.classList.remove('hidden');

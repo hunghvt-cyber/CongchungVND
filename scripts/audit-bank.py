@@ -7,7 +7,10 @@ FILES += [p.name for p in sorted((ROOT/'data').glob('validated-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('imported-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('completion-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('refinement-*.json'))]
+FILES += [p.name for p in sorted((ROOT/'data').glob('verified-new-*.json'))]
 PREFIXES = [
+ 'Hãy vận dụng căn cứ pháp lý để trả lời: ',
+ 'Chọn đáp án chính xác nhất cho vấn đề pháp lý sau: ',
  'Chọn phương án đúng theo quy định pháp luật: ',
  'Trong quá trình xử lý hồ sơ, cần xác định đúng vấn đề sau: ',
  'Người tập sự được yêu cầu giải quyết câu hỏi sau. Phương án nào đúng? ',
@@ -31,6 +34,8 @@ def audit():
  sources={s['id']:s for s in source['sources']}
  for q in bank:
   flags=[]; answers=q.get('answers',[]); variants=q.get('question',{}).get('variants',[])
+  if q.get('status') in ('active','verified') and len(variants)<3:flags.append('needs_substantive_variants')
+  if len(variants)>1 and len(set(norm(v) for v in variants))<len(variants):flags.append('mechanical_variant_candidate')
   if not variants or any(not isinstance(s,str) or not s.strip() for s in variants):flags.append('invalid_stem')
   if len(set(a['id'] for a in answers))!=len(answers):flags.append('duplicate_answer_id')
   if any(type(a.get('correct')) is not bool for a in answers):flags.append('non_boolean_key')

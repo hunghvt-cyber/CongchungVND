@@ -9,7 +9,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai giao dịch được đề nghị: A thuê xe và giao tiền cho chủ xe chỉ để bảo đảm trả lại xe; B thuê nhà và giao tiền để bảo đảm giao kết hợp đồng thuê. Cách phân loại phù hợp với mục đích đã nêu là gì?"
+        "Tháng 10/2026: Hai giao dịch được đề nghị: A thuê xe và giao tiền cho chủ xe chỉ để bảo đảm trả lại xe; B thuê nhà và giao tiền để bảo đảm giao kết hợp đồng thuê. Cách phân loại phù hợp với mục đích đã nêu là gì?",
+        "Tháng 10/2026: Theo Điều 328, Điều 329, tiền giao trong thuê xe chỉ để bảo đảm trả xe và tiền giao khi thuê nhà để bảo đảm giao kết được phân loại lần lượt thế nào?",
+        "Tháng 10/2026: Thỏa thuận A ghi khoản tiền thuê xe chỉ bảo đảm trả lại xe; thỏa thuận B ghi khoản tiền thuê nhà bảo đảm ký hợp đồng. Có thể gọi cả hai là ký cược chỉ vì đều có quan hệ thuê không?"
       ]
     },
     "answers": [
@@ -57,6 +59,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -69,7 +77,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A thuê xe, giao 120 triệu đồng ký cược để bảo đảm trả xe. Khi hết hạn thuê, chiếc xe đã bị tiêu hủy và không còn để trả lại; không có thỏa thuận khác về xử lý ký cược. Chỉ xét khoản ký cược, kết luận nào đúng?"
+        "Tháng 10/2026: A thuê xe, giao 120 triệu đồng ký cược để bảo đảm trả xe. Khi hết hạn thuê, chiếc xe đã bị tiêu hủy và không còn để trả lại; không có thỏa thuận khác về xử lý ký cược. Chỉ xét khoản ký cược, kết luận nào đúng?",
+        "Tháng 10/2026: Khoản 2 Điều 329 xử lý tài sản ký cược thế nào khi tài sản thuê đã không còn để trả lại và không có thỏa thuận khác?",
+        "Tháng 10/2026: Hết hạn thuê, xe bị tiêu hủy nên bên thuê không có xe để hoàn trả; đã giao 120 triệu ký cược và không thỏa thuận xử lý khác. Chỉ xét tiền ký cược, phải xử lý ra sao?"
       ]
     },
     "answers": [
@@ -111,6 +121,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -123,7 +139,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Xe thuê vẫn còn nhưng A không trả khi hết hạn. A đã ký cược 120 triệu đồng. Chủ xe nói nhận luôn khoản tiền này thì không còn quyền đòi xe nữa. Không có thỏa thuận chuyển quyền sở hữu xe, nhận định nào đúng theo quy tắc ký cược?"
+        "Tháng 10/2026: Xe thuê vẫn còn nhưng A không trả khi hết hạn. A đã ký cược 120 triệu đồng. Chủ xe nói nhận luôn khoản tiền này thì không còn quyền đòi xe nữa. Không có thỏa thuận chuyển quyền sở hữu xe, nhận định nào đúng theo quy tắc ký cược?",
+        "Tháng 10/2026: Theo khoản 2 Điều 329, xe thuê vẫn còn nhưng bên thuê không trả có làm mất quyền đòi xe chỉ vì đã nhận ký cược không?",
+        "Tháng 10/2026: Người thuê muốn giữ xe và coi 120 triệu ký cược là giá mua, xe vẫn còn và không có thỏa thuận chuyển sở hữu. Quyền đòi lại xe của chủ xe thế nào?"
       ]
     },
     "answers": [
@@ -165,6 +183,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -177,7 +201,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đã trả lại xe thuê nhưng còn nợ tiền thuê đến hạn. Không có thỏa thuận khác, A đòi chủ xe hoàn ngay toàn bộ tài sản ký cược vì đã giao xe. Điều kiện nhận lại ký cược theo BLDS là gì?"
+        "Tháng 10/2026: A đã trả lại xe thuê nhưng còn nợ tiền thuê đến hạn. Không có thỏa thuận khác, A đòi chủ xe hoàn ngay toàn bộ tài sản ký cược vì đã giao xe. Điều kiện nhận lại ký cược theo BLDS là gì?",
+        "Tháng 10/2026: Khoản 2 Điều 329 đặt những điều kiện nào để bên thuê nhận lại tài sản ký cược, không có thỏa thuận khác?",
+        "Tháng 10/2026: Bên thuê đã bàn giao xe nhưng còn nợ tiền thuê, nói hết hợp đồng là phải hoàn đủ ký cược ngay. Điều kiện hoàn ký cược cần đáp ứng là gì?"
       ]
     },
     "answers": [
@@ -219,6 +245,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -231,7 +263,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trong một giao dịch dân sự, người mua giao 300 triệu đồng đặt cọc bảo đảm giao kết hợp đồng mua nhà. Bên nhận cọc tự ý từ chối giao kết, không có căn cứ miễn trách nhiệm và không có thỏa thuận xử lý khác. Tổng số tiền bên nhận cọc phải trả theo quy tắc mặc định là bao nhiêu?"
+        "Tháng 10/2026: Trong một giao dịch dân sự, người mua giao 300 triệu đồng đặt cọc bảo đảm giao kết hợp đồng mua nhà. Bên nhận cọc tự ý từ chối giao kết, không có căn cứ miễn trách nhiệm và không có thỏa thuận xử lý khác. Tổng số tiền bên nhận cọc phải trả theo quy tắc mặc định là bao nhiêu?",
+        "Tháng 10/2026: Bên nhận cọc dân sự 300 triệu tự ý từ chối giao kết, không có thỏa thuận khác hoặc miễn trách nhiệm. Khoản 2 Điều 328 dẫn đến tổng phải trả bao nhiêu?",
+        "Tháng 10/2026: Người nhận 300 triệu cọc không ký mua bán nhà theo cam kết, đề nghị chỉ hoàn 300 triệu. Không thỏa thuận xử lý khác và không miễn trách nhiệm, tổng nghĩa vụ đúng là gì?"
       ]
     },
     "answers": [
@@ -273,6 +307,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -285,7 +325,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên trong giao dịch dân sự thỏa thuận rõ: nếu bên nhận 300 triệu đồng cọc tự ý từ chối giao kết, phải hoàn 300 triệu và trả thêm 900 triệu; không có căn cứ miễn trách nhiệm. Chỉ xét xử lý cọc theo thỏa thuận này, kết luận nào đúng?"
+        "Tháng 10/2026: Các bên trong giao dịch dân sự thỏa thuận rõ: nếu bên nhận 300 triệu đồng cọc tự ý từ chối giao kết, phải hoàn 300 triệu và trả thêm 900 triệu; không có căn cứ miễn trách nhiệm. Chỉ xét xử lý cọc theo thỏa thuận này, kết luận nào đúng?",
+        "Tháng 10/2026: Thỏa thuận dân sự ghi hoàn 300 triệu cọc và trả thêm 900 triệu khi bên nhận tự ý từ chối, không miễn trách nhiệm. Tổng phải trả và khả năng thỏa thuận khác mặc định là gì?",
+        "Tháng 10/2026: Bên nhận cọc vi phạm đề nghị dùng mức mặc định thay điều khoản đã ghi rõ hoàn 300 triệu, trả thêm 900 triệu. Chỉ xét điều khoản xử lý cọc dân sự đã nêu, kết luận đúng là gì?"
       ]
     },
     "answers": [
@@ -327,6 +369,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -339,7 +387,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A giao B 200 triệu đồng khi thỏa thuận mua tài sản. Các bên không xác định rõ khoản này là đặt cọc hay trả trước. B đòi áp dụng ngay cơ chế mất cọc. Theo quy tắc phân loại khoản tiền, phải coi khoản đã giao là gì?"
+        "Tháng 10/2026: A giao B 200 triệu đồng khi thỏa thuận mua tài sản. Các bên không xác định rõ khoản này là đặt cọc hay trả trước. B đòi áp dụng ngay cơ chế mất cọc. Theo quy tắc phân loại khoản tiền, phải coi khoản đã giao là gì?",
+        "Tháng 10/2026: Điều 37 Nghị định 21/2021 phân loại khoản tiền giao khi mua tài sản nhưng không rõ là đặt cọc hay trả trước như thế nào?",
+        "Tháng 10/2026: Biên nhận 200 triệu chỉ ghi đã giao tiền, các bên không xác định rõ cọc hay trả trước. Việc giao trước ngày ký có đủ áp cơ chế mất cọc không; khoản tiền phải coi là gì?"
       ]
     },
     "answers": [
@@ -380,6 +430,12 @@
       "supportingSourceIds": [
         "OFFICIAL-ND21-2021"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -392,7 +448,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng thuê nhà kéo dài 36 tháng. Hai bên thỏa thuận đặt cọc chỉ bảo đảm những nghĩa vụ đã xác định trong 24 tháng đầu, sau đó hoàn cọc nếu các nghĩa vụ này hoàn tất. Không có quy định chuyên ngành bắt buộc khác. CCV yêu cầu thời hạn cọc phải ít nhất 36 tháng. Đánh giá nào đúng?"
+        "Tháng 10/2026: Hợp đồng thuê nhà kéo dài 36 tháng. Hai bên thỏa thuận đặt cọc chỉ bảo đảm những nghĩa vụ đã xác định trong 24 tháng đầu, sau đó hoàn cọc nếu các nghĩa vụ này hoàn tất. Không có quy định chuyên ngành bắt buộc khác. CCV yêu cầu thời hạn cọc phải ít nhất 36 tháng. Đánh giá nào đúng?",
+        "Tháng 10/2026: Nghĩa vụ có thể được bảo đảm một phần theo Điều 293. Thuê nhà 36 tháng nhưng cọc chỉ bảo đảm nghĩa vụ xác định trong 24 tháng đầu có bị bác chỉ vì ngắn hơn không?",
+        "Tháng 10/2026: Các bên dự kiến hoàn cọc sau khi đủ nghĩa vụ 24 tháng đầu của hợp đồng thuê 36 tháng, không có quy định chuyên ngành khác. Công chứng viên bắt cọc kéo dài bằng thuê chỉ dựa chênh lệch thời hạn. Đánh giá nào đúng?"
       ]
     },
     "answers": [
@@ -440,6 +498,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -452,7 +516,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng thuê nhà đã ký và đang được thực hiện. Hai bên yêu cầu lập đặt cọc để bảo đảm việc trả tiền thuê trong 24 tháng tiếp theo. Dự thảo lại ghi cọc chỉ bảo đảm việc giao kết hợp đồng thuê và hoàn cọc ngay khi ký hợp đồng thuê. Lỗi cần sửa trước tiên là gì?"
+        "Tháng 10/2026: Hợp đồng thuê nhà đã ký và đang được thực hiện. Hai bên yêu cầu lập đặt cọc để bảo đảm việc trả tiền thuê trong 24 tháng tiếp theo. Dự thảo lại ghi cọc chỉ bảo đảm việc giao kết hợp đồng thuê và hoàn cọc ngay khi ký hợp đồng thuê. Lỗi cần sửa trước tiên là gì?",
+        "Tháng 10/2026: Đặt cọc có thể bảo đảm thực hiện hợp đồng đã giao kết. Nếu mẫu chỉ bảo đảm giao kết và hoàn ngay lúc ký, so với yêu cầu bảo đảm trả tiền thuê tương lai thì lỗi nào cần sửa?",
+        "Tháng 10/2026: Hợp đồng thuê đã ký, các bên cần giữ cọc cho nghĩa vụ trả thuê 24 tháng sau; mẫu lại cho hoàn cọc khi hợp đồng được ký. Chỉ đổi tiêu đề có đủ không; lỗi nội dung chính là gì?"
       ]
     },
     "answers": [
@@ -494,6 +560,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -506,7 +578,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A muốn dùng chính quyền sử dụng đất, không phải tiền bán đất, làm tài sản đặt cọc. A nói mọi tài sản theo BLDS đều là tài sản đặt cọc. Nhận định nào phù hợp?"
+        "Tháng 10/2026: A muốn dùng chính quyền sử dụng đất, không phải tiền bán đất, làm tài sản đặt cọc. A nói mọi tài sản theo BLDS đều là tài sản đặt cọc. Nhận định nào phù hợp?",
+        "Tháng 10/2026: Nhóm tài sản đặt cọc tại Điều 328 có bao gồm chính quyền sử dụng đất chỉ vì đó là quyền tài sản theo BLDS không?",
+        "Tháng 10/2026: Chủ đất giao giấy chứng nhận và muốn coi chính quyền sử dụng đất là tài sản cọc, không phải tiền bán đất. Phải phân biệt quyền tài sản với vật đặt cọc như thế nào?"
       ]
     },
     "answers": [
@@ -559,6 +633,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -571,7 +651,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đặt cọc bằng vàng cho B. Chưa có sự đồng ý của A, B muốn đem số vàng này cho người khác vay trong thời hạn giữ cọc. Quy tắc nào phù hợp?"
+        "Tháng 10/2026: A đặt cọc bằng vàng cho B. Chưa có sự đồng ý của A, B muốn đem số vàng này cho người khác vay trong thời hạn giữ cọc. Quy tắc nào phù hợp?",
+        "Tháng 10/2026: Điểm d khoản 2 Điều 38 Nghị định 21/2021 cho bên nhận cọc sử dụng tài sản cọc bằng vàng khi chưa có đồng ý của bên đặt không?",
+        "Tháng 10/2026: Người giữ vàng cọc định cho người khác vay rồi mua lượng vàng tương đương hoàn lại, chưa được bên đặt đồng ý. Lời hứa hoàn tương đương có tạo quyền sử dụng không?"
       ]
     },
     "answers": [
@@ -614,6 +696,12 @@
       "supportingSourceIds": [
         "OFFICIAL-ND21-2021"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -626,7 +714,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đã giao vàng đặt cọc và muốn lấy lại vàng để thay bằng tiền có giá trị tương đương. B chưa đồng ý. A cho rằng tương đương giá trị là đủ để tự thay thế. Kết luận nào đúng?"
+        "Tháng 10/2026: A đã giao vàng đặt cọc và muốn lấy lại vàng để thay bằng tiền có giá trị tương đương. B chưa đồng ý. A cho rằng tương đương giá trị là đủ để tự thay thế. Kết luận nào đúng?",
+        "Tháng 10/2026: Theo điểm b khoản 1 Điều 38 Nghị định 21/2021, bên đặt cọc thay vàng đã giao bằng tiền cần sự đồng ý của chủ thể nào?",
+        "Tháng 10/2026: Bên đặt mang tiền bằng giá trị vàng tới, muốn lấy vàng ra dù bên nhận chưa chấp thuận. Định giá tương đương có thay được điều kiện đồng ý không?"
       ]
     },
     "answers": [
@@ -669,6 +759,12 @@
       "supportingSourceIds": [
         "OFFICIAL-ND21-2021"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -681,7 +777,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nhà của B đang thế chấp ngân hàng. A dự kiến giao tiền riêng của mình làm cọc để bảo đảm ký hợp đồng mua nhà sau khi đáp ứng điều kiện giải chấp hoặc được ngân hàng đồng ý theo luật. Thư ký nói chính căn nhà đang là tài sản cọc nên bắt buộc áp dụng quy tắc một tài sản bảo đảm nhiều nghĩa vụ. Lập luận nào cần sửa?"
+        "Tháng 10/2026: Nhà của B đang thế chấp ngân hàng. A dự kiến giao tiền riêng của mình làm cọc để bảo đảm ký hợp đồng mua nhà sau khi đáp ứng điều kiện giải chấp hoặc được ngân hàng đồng ý theo luật. Thư ký nói chính căn nhà đang là tài sản cọc nên bắt buộc áp dụng quy tắc một tài sản bảo đảm nhiều nghĩa vụ. Lập luận nào cần sửa?",
+        "Tháng 10/2026: Tiền của người mua giao làm cọc và nhà đang thế chấp dự kiến mua có phải cùng một tài sản bảo đảm không; cần phân biệt thế nào?",
+        "Tháng 10/2026: Hợp đồng cọc mua căn nhà thế chấp ghi tiền riêng của người mua giao để bảo đảm ký mua bán sau khi đủ điều kiện. Có thể xem nhà là tài sản cọc và coi giao cọc đã giải chấp không?"
       ]
     },
     "answers": [
@@ -729,6 +827,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -741,7 +845,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Dự thảo ghi cả vợ chồng B cam kết bán căn nhà là tài sản chung. Chỉ chồng đến ký nhận cọc; hồ sơ chưa chứng minh ý chí của vợ hoặc quyền đại diện, nhưng chồng yêu cầu ghi vợ cũng đã cam kết. CCV nên xử lý thế nào?"
+        "Tháng 10/2026: Dự thảo ghi cả vợ chồng B cam kết bán căn nhà là tài sản chung. Chỉ chồng đến ký nhận cọc; hồ sơ chưa chứng minh ý chí của vợ hoặc quyền đại diện, nhưng chồng yêu cầu ghi vợ cũng đã cam kết. CCV nên xử lý thế nào?",
+        "Tháng 10/2026: Dự thảo ràng buộc cả vợ chồng bán nhà chung nhưng chỉ chồng đến, chưa có chứng cứ ý chí hoặc đại diện vợ. Trước công chứng cần xử lý điều gì?",
+        "Tháng 10/2026: Chồng nhận tiền cọc và xin ghi vợ cũng đã cam kết bán nhà chung dù vợ không tham gia, chưa có ủy quyền hoặc chứng cứ đồng ý. Công chứng viên có thể dựa lời chồng hay phải làm gì?"
       ]
     },
     "answers": [
@@ -797,6 +903,12 @@
         "OFFICIAL-CC24",
         "OFFICIAL-HNGD-HN25"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -809,7 +921,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Theo thỏa thuận chấm dứt giao dịch, B phải hoàn 300 triệu đồng cho A vào ngày xác định nhưng đã quá hạn và B chưa trả. Không có căn cứ miễn trách nhiệm. B nói tiền vốn là cọc nên không bao giờ có lãi chậm trả. Nhận định nào đúng?"
+        "Tháng 10/2026: Theo thỏa thuận chấm dứt giao dịch, B phải hoàn 300 triệu đồng cho A vào ngày xác định nhưng đã quá hạn và B chưa trả. Không có căn cứ miễn trách nhiệm. B nói tiền vốn là cọc nên không bao giờ có lãi chậm trả. Nhận định nào đúng?",
+        "Tháng 10/2026: Điều 357 có thể áp dụng lãi chậm trả cho nghĩa vụ hoàn cọc đã đến hạn, không miễn trách nhiệm, dù khoản ban đầu không phải vay không?",
+        "Tháng 10/2026: Theo thỏa thuận chấm dứt, hạn hoàn 300 triệu đã qua nhưng bên phải hoàn chưa trả. Người này viện dẫn cọc không có lãi khi giữ để bác mọi lãi chậm trả. Nhận định đúng là gì?"
       ]
     },
     "answers": [
@@ -857,6 +971,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -869,7 +989,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chủ đầu tư dự án bán căn hộ hình thành trong tương lai đã đủ điều kiện đưa vào kinh doanh, giá ghi rõ là 4 tỷ đồng. Chủ đầu tư đề nghị thu cọc 300 triệu và nói mức cọc hoàn toàn tự do thỏa thuận theo BLDS. Chỉ xét mức cọc, xử lý nào đúng?"
+        "Tháng 10/2026: Chủ đầu tư dự án bán căn hộ hình thành trong tương lai đã đủ điều kiện đưa vào kinh doanh, giá ghi rõ là 4 tỷ đồng. Chủ đầu tư đề nghị thu cọc 300 triệu và nói mức cọc hoàn toàn tự do thỏa thuận theo BLDS. Chỉ xét mức cọc, xử lý nào đúng?",
+        "Tháng 10/2026: Chủ đầu tư bán căn hộ hình thành trong tương lai đủ điều kiện kinh doanh giá 4 tỷ, thu cọc 300 triệu. Áp dụng trần 5% khoản 5 Điều 23 Luật KDBĐS, xử lý mức thu thế nào?",
+        "Tháng 10/2026: Chủ đầu tư viện trần thanh toán lần đầu để nhận 300 triệu cọc căn hộ tương lai đủ điều kiện giá 4 tỷ. Chỉ xét khoản cọc theo luật chuyên ngành, mức tối đa là gì?"
       ]
     },
     "answers": [
@@ -911,6 +1033,12 @@
       "supportingSourceIds": [
         "OFFICIAL-KD-HN25"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -923,7 +1051,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai bên đã đặt cọc mua nhà X. Sau đó cùng thống nhất bằng văn bản sửa thỏa thuận để mua nhà Y thay thế; đã xác định rõ nhà Y, giá, nghĩa vụ và đáp ứng các yêu cầu pháp luật, hình thức áp dụng. Một người nói không bao giờ được sửa vì ban đầu đã chọn nhà X. Đánh giá nào đúng?"
+        "Tháng 10/2026: Hai bên đã đặt cọc mua nhà X. Sau đó cùng thống nhất bằng văn bản sửa thỏa thuận để mua nhà Y thay thế; đã xác định rõ nhà Y, giá, nghĩa vụ và đáp ứng các yêu cầu pháp luật, hình thức áp dụng. Một người nói không bao giờ được sửa vì ban đầu đã chọn nhà X. Đánh giá nào đúng?",
+        "Tháng 10/2026: Các bên có được cùng thỏa thuận sửa hợp đồng cọc mua nhà X sang Y khi xác định đủ đối tượng, giá, nghĩa vụ và đáp ứng hình thức, điều kiện pháp luật không?",
+        "Tháng 10/2026: Bên mua và bán cùng ký văn bản hợp lệ thay nhà dự kiến X bằng nhà Y, đã đáp ứng các yêu cầu giao dịch. Việc từng giao cọc cho X có tạo lệnh cấm tuyệt đối sửa đổi không?"
       ]
     },
     "answers": [
@@ -971,6 +1101,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -983,7 +1119,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cọc chỉ bảo đảm giao kết hợp đồng thuê. Hợp đồng thuê đã được giao kết, hai bên đã thống nhất hoàn cọc và không chuyển cọc sang bảo đảm thực hiện. Sau đó người thuê chậm trả một kỳ tiền thuê. Chủ nhà muốn giữ khoản đang phải hoàn theo cơ chế mất cọc. Nhận định nào đúng?"
+        "Tháng 10/2026: Cọc chỉ bảo đảm giao kết hợp đồng thuê. Hợp đồng thuê đã được giao kết, hai bên đã thống nhất hoàn cọc và không chuyển cọc sang bảo đảm thực hiện. Sau đó người thuê chậm trả một kỳ tiền thuê. Chủ nhà muốn giữ khoản đang phải hoàn theo cơ chế mất cọc. Nhận định nào đúng?",
+        "Tháng 10/2026: Cọc chỉ bảo đảm giao kết đã hoàn tất, đã thỏa thuận hoàn và không chuyển sang bảo đảm thực hiện. Có tự áp mất cọc khi người thuê vi phạm tiền thuê về sau không?",
+        "Tháng 10/2026: Chủ nhà còn phải hoàn cọc giao kết theo thỏa thuận; hợp đồng đã ký, không mở rộng bảo đảm thực hiện. Người thuê trả chậm một kỳ sau đó. Phạm vi cọc và nợ thuê phải được xử lý thế nào?"
       ]
     },
     "answers": [
@@ -1031,6 +1169,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]

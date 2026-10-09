@@ -1,5 +1,7 @@
 # CongchungVND
 
+Tiến độ 09/10/2026: đã xử lý biến thể cho **243/583 câu**, còn **340 câu**; chưa nghiệm thu hoặc kiểm định lại pháp lý toàn ngân hàng. Hiện có 594 câu active và 1.102 chuỗi cách hỏi. Xem [báo cáo tiến độ](reports/variant-progress-2026-10-09.md) và [hồ sơ từng câu](reports/substantive-variants-2026-10-09.json).
+
 Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 
 ## Mục tiêu
@@ -66,7 +68,7 @@ Các kiểm tra hồi quy chạy logic và HTML sinh ra với DOM tối giản; 
 
 Trong **Thi thử**, người tạo chọn bài/số câu/thời gian, bấm **Tạo đề mới & bắt đầu**, sau đó **Sao chép mã đề** và gửi mã cho nhóm. Thành viên mở **Thi thử**, dán mã vào ô **Mã đề người khác chia sẻ**, bấm **Nhập mã & bắt đầu thi**. Cấu hình từ mã được dùng thay cho các lựa chọn tạo đề mới.
 
-Mã CC1 cố định seed, bài, số câu thực tế, thời lượng và dấu vân tay của ngân hàng đủ điều kiện trong bài đã chọn. Cùng mã/cùng phiên bản ngân hàng tạo cùng thứ tự câu, biến thể và thứ tự đáp án. Mã có phần kiểm tra lỗi nhập; không phải cơ chế bảo mật hay mã phòng thi. Mã CC cũ chỉ là nhãn nên không nhập được. Nếu ngân hàng thay đổi, mã cũ bị từ chối; tải lại trang hoặc tạo mã mới cho cả nhóm.
+Đề mới dùng mã CC2 ghi chính xác danh sách câu được chọn, seed, bài, số câu thực tế, thời lượng và dấu vân tay ngân hàng. Lịch sử riêng chỉ tác động lúc tạo đề; nhập mã luôn tái tạo đúng đề đã chia sẻ. Mã CC1 vẫn được đọc bằng thuật toán cũ khi ngân hàng khớp phiên bản. Cùng mã/cùng phiên bản ngân hàng tạo cùng thứ tự câu, biến thể và thứ tự đáp án. Mã có phần kiểm tra lỗi nhập; không phải cơ chế bảo mật hay mã phòng thi. Mã CC cũ chỉ là nhãn nên không nhập được. Nếu ngân hàng thay đổi, mã cũ bị từ chối; tải lại trang hoặc tạo mã mới cho cả nhóm.
 
 Mỗi người có đáp án, điểm và đồng hồ riêng, tính từ lúc bắt đầu. Sau nộp, mở cùng số câu trong kết quả để đối chiếu đáp án và giải thích. Không đồng bộ giờ bắt đầu, không có chat/bảng điểm chung hay phòng thi trực tiếp. Góp ý mới được gửi về Supabase để rà soát chung.
 
@@ -95,3 +97,15 @@ Cơ chế gửi không yêu cầu đăng nhập; đây là dữ liệu góp ý c
 20 câu tình huống mới đã được đối chiếu BLDS 2015, Luật Công chứng 2024 và Luật Hôn nhân và gia đình (VBHN 121/2025). Tổng active tăng từ 322 lên 342. App tải `data/imported-authorization-2026.json` cùng các file ngân hàng hiện có, giữ nguyên dữ liệu kết quả/progress.
 
 Đề luyện 35 phút và bài giải: [reports/authorization-exam-2026-10-05.md](reports/authorization-exam-2026-10-05.md). Nguồn gồm 24 câu lớn và 7 mục phụ lục trùng tài liệu đặt cọc; chỉ chứng nhận câu đã biên soạn, các nhánh chưa xác minh giữ review. Hồ sơ điều khoản: [reports/authorization-legal-evidence-2026.json](reports/authorization-legal-evidence-2026.json).
+
+## Lượt Work ngày 08/10/2026 — chưa nghiệm thu toàn bộ ngân hàng
+
+App tải 11 file, 613 bản ghi: **594 active**, 19 archived. Tính cả 500 câu EXP không được tải, repository lưu 1.113 bản ghi, 519 archived.
+
+Đã khôi phục mã chia sẻ cho đề chống trùng bằng CC2, dùng chung lịch sử ôn/thi theo mã người học trên thiết bị, ưu tiên câu chưa thấy và dùng lại câu lâu nhất khi cần. Phân bổ chủ đề/độ khó theo tỷ trọng ngân hàng; tránh trùng kiến thức khi có competenceId hoặc căn cứ + đáp án đúng giống nhau. Đây là nhận diện một phần; chưa thay thế rà soát trùng nội dung bởi người biên soạn.
+
+Kiểm thử 3 đề liên tiếp ở mỗi bài, với 5/10/20/50/100 câu. 53 kiểm thử Node đạt. Với 20 câu/đề, ba đề không lặp ở cả hai bài. Với 50 câu/đề ở Bài 1, 143 câu không đủ cho 150 lượt nên phải lặp 7 câu. Lịch sử chống trùng chưa đồng bộ giữa các thiết bị; nếu chặn lưu trữ, vẫn tạo và chia sẻ được đề nhưng không nhớ lần trước.
+
+569 câu chỉ có một biến thể; 14 câu SRC có ba chuỗi nhưng hai chuỗi chỉ thêm câu dẫn. **583 câu vẫn cần biên soạn biến thể thực chất**. Nhóm 11 câu mới có sửa lời dẫn để phù hợp bốn đáp án; không có câu mới được nâng lên active trong lượt này. Chưa chứng nhận READY hoặc kiểm định lại toàn bộ 594 câu.
+
+Xem [báo cáo lượt Work](reports/work-release-2026-10-08.md), [sổ rà soát từng câu](reports/work-review-register-2026-10-08.json) và [đo trùng đề](reports/anti-repeat-tests-2026-10-08.json).

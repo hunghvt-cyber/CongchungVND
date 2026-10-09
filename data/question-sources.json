@@ -197,6 +197,83 @@
       "title": "Nghị định số 23/2015/NĐ-CP (đối chiếu VBHN 753/VBHN-BTP ngày 04/02/2026)",
       "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
       "use": "Điều khoản chứng thực đã hợp nhất NĐ 07/2025, 280/2025 và 18/2026; kiểm tra riêng mốc áp dụng, không dùng ngày xác thực VBHN làm ngày hiệu lực."
+    },
+    {
+      "id": "STG80-1",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Hợp đồng theo mẫu",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-2",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Hợp đồng theo mẫu",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-25",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Biện pháp bảo đảm – ký quỹ",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-28",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Biện pháp bảo đảm – ký quỹ",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-46",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Mang thai hộ vì mục đích nhân đạo",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-47",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Mang thai hộ vì mục đích nhân đạo",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-48",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Mang thai hộ vì mục đích nhân đạo",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-49",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Mang thai hộ vì mục đích nhân đạo",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-50",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Mang thai hộ vì mục đích nhân đạo",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-66",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Quyền hưởng dụng",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "STG80-67",
+      "type": "legal-review",
+      "title": "Ứng viên từ bộ 80 câu: Quyền hưởng dụng",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
     }
   ]
 }

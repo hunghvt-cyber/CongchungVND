@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-08",
+  "scope": "11 existing active questions, no newly promoted questions",
+  "completionStatus": "PARTIAL",
+  "changes": [
+    {
+      "id": "VER26-NEW-02",
+      "before": [
+        "Hợp đồng theo mẫu loại bỏ quyền lợi chính đáng của bên còn lại và không có thỏa thuận khác. Hiệu lực điều khoản đó?",
+        "Doanh nghiệp soạn mẫu hợp đồng tự miễn toàn bộ trách nhiệm của mình; các bên không có thỏa thuận khác. Áp dụng Điều 405 thế nào?",
+        "Điều khoản theo mẫu tăng trách nhiệm của khách hàng, không có thỏa thuận khác. Kết luận phù hợp?"
+      ],
+      "after": [
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Hợp đồng theo mẫu loại bỏ quyền lợi chính đáng của bên còn lại và không có thỏa thuận khác. Hiệu lực điều khoản đó?",
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Doanh nghiệp soạn mẫu hợp đồng tự miễn toàn bộ trách nhiệm của mình; các bên không có thỏa thuận khác. Áp dụng Điều 405 thế nào?",
+        "Chỉ áp dụng khoản 3 Điều 405 BLDS, trong giao dịch không thuộc quan hệ tiêu dùng và không có quy định chuyên ngành khác: Điều khoản theo mẫu tăng trách nhiệm của khách hàng, không có thỏa thuận khác. Kết luận phù hợp?"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "VER26-NEW-25",
+      "before": [
+        "A gửi tiền vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ với B. Biện pháp bảo đảm nào?",
+        "Khoản tiền được gửi vào tài khoản phong tỏa ở tổ chức tín dụng nhằm bảo đảm thực hiện nghĩa vụ. Đây là gì?",
+        "Phân biệt với đặt cọc và ký cược: tiền bảo đảm được phong tỏa tại tổ chức tín dụng là biện pháp nào?"
+      ],
+      "after": [
+        "A gửi tiền vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ với B. Biện pháp bảo đảm nào?",
+        "Bên có nghĩa vụ đưa giấy tờ có giá vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm thực hiện nghĩa vụ. Theo khoản 1 Điều 330, biện pháp nào được xác lập?",
+        "Hai bên không giao tiền trực tiếp cho nhau mà thỏa thuận bên có nghĩa vụ gửi kim khí quý vào tài khoản phong tỏa tại tổ chức tín dụng để bảo đảm nghĩa vụ. Biện pháp nào phù hợp với cơ chế này?"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "VER26-NEW-46",
+      "before": [
+        "Cơ sở y tế xác nhận người vợ vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Vợ chồng có đáp ứng điều kiện nhờ mang thai hộ?",
+        "Điều kiện y tế nào về người vợ phải được xác nhận để vợ chồng được nhờ mang thai hộ vì mục đích nhân đạo?",
+        "Vợ chồng muốn nhờ mang thai hộ chỉ vì không muốn người vợ mang thai, dù vẫn có khả năng sinh con. Đánh giá pháp lý?"
+      ],
+      "after": [
+        "Cơ sở y tế xác nhận người vợ vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Vợ chồng có đáp ứng điều kiện nhờ mang thai hộ?",
+        "Người vợ có xác nhận y tế rằng vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Chỉ xét điểm a khoản 2 Điều 95, vợ chồng có đủ điều kiện nhờ mang thai hộ không?",
+        "Vợ chồng muốn nhờ mang thai hộ chỉ vì không muốn người vợ mang thai, dù vẫn có khả năng sinh con. Đánh giá pháp lý?"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "VER26-NEW-47",
+      "before": [
+        "Vợ chồng đã có con chung muốn nhờ mang thai hộ vì mục đích nhân đạo. Điều kiện nào chưa đáp ứng?",
+        "Điểm b khoản 2 Điều 95 yêu cầu tình trạng con chung của vợ chồng nhờ mang thai hộ ra sao?",
+        "Vợ chồng A đã có con chung, các điều kiện khác đều đáp ứng. Có được nhờ mang thai hộ vì mục đích nhân đạo?"
+      ],
+      "after": [
+        "Vợ chồng đã có con chung muốn nhờ mang thai hộ vì mục đích nhân đạo. Điều kiện nào chưa đáp ứng?",
+        "Điểm b khoản 2 Điều 95 yêu cầu tình trạng con chung của vợ chồng nhờ mang thai hộ ra sao?",
+        "Vợ chồng có con riêng nhưng chưa có con chung. Chỉ xét điểm b khoản 2 Điều 95, điều kiện về con chung để nhờ mang thai hộ được xác định thế nào?"
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "VER26-NEW-48",
+      "before": [
+        "Vợ chồng nhờ mang thai hộ chưa được tư vấn pháp lý nhưng đã tư vấn y tế và tâm lý. Có đáp ứng điều kiện?",
+        "Những lĩnh vực tư vấn bắt buộc với vợ chồng nhờ mang thai hộ theo Điều 95 là gì?",
+        "Cơ sở chỉ tư vấn y tế cho bên nhờ mang thai hộ. Để đáp ứng điểm c khoản 2 Điều 95 còn thiếu nội dung gì?"
+      ],
+      "after": [
+        "Vợ chồng đã được tư vấn y tế và tâm lý nhưng chưa tư vấn pháp lý trước khi nhờ mang thai hộ. Để đáp ứng điểm c khoản 2 Điều 95, phải bảo đảm đầy đủ nhóm tư vấn nào?",
+        "Những lĩnh vực tư vấn bắt buộc với vợ chồng nhờ mang thai hộ theo Điều 95 là gì?",
+        "Bên nhờ mang thai hộ cho rằng tư vấn y tế có thể thay thế hai lĩnh vực tư vấn còn lại. Phương án nào thể hiện đầy đủ yêu cầu tại điểm c khoản 2 Điều 95?"
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "VER26-NEW-50",
+      "before": [
+        "Vợ chồng nhờ mang thai hộ ủy quyền cho luật sư là người thứ ba ký thỏa thuận. Hiệu lực việc ủy quyền?",
+        "Trong thỏa thuận mang thai hộ vì mục đích nhân đạo, vợ chồng trong cùng một bên được ủy quyền cho nhau theo hình thức nào?",
+        "Bên mang thai hộ lập giấy ủy quyền công chứng cho người ngoài gia đình ký thay thỏa thuận. Nhận định nào đúng?"
+      ],
+      "after": [
+        "Vợ chồng nhờ mang thai hộ ủy quyền cho luật sư là người thứ ba ký thỏa thuận. Hiệu lực việc ủy quyền?",
+        "Vợ chồng bên nhờ mang thai hộ có thể ủy quyền cho nhau, nhưng họ muốn nhờ một người thứ ba ký thay thỏa thuận. Theo khoản 2 Điều 96, kết luận nào đúng về việc ủy quyền cho người thứ ba?",
+        "Bên mang thai hộ lập giấy ủy quyền công chứng cho người ngoài gia đình ký thay thỏa thuận. Nhận định nào đúng?"
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "VER26-NEW-66",
+      "before": [
+        "Pháp nhân được xác lập quyền hưởng dụng lần đầu trong 40 năm; không có quy định khác. Thời hạn tối đa theo BLDS?",
+        "Đối với người hưởng dụng đầu tiên là pháp nhân, thời hạn hưởng dụng tối đa bao nhiêu năm?",
+        "Công ty A lần đầu nhận quyền hưởng dụng trong 35 năm. Điều khoản nào cần điều chỉnh theo Điều 260?"
+      ],
+      "after": [
+        "Pháp nhân được xác lập quyền hưởng dụng lần đầu trong 40 năm; không có quy định khác. Thời hạn tối đa theo BLDS?",
+        "Đối với người hưởng dụng đầu tiên là pháp nhân, thời hạn hưởng dụng tối đa bao nhiêu năm?",
+        "Công ty A là người hưởng dụng đầu tiên, được thỏa thuận hưởng dụng 35 năm. Giả sử công ty tồn tại suốt thời gian này, giới hạn tối đa theo khoản 1 Điều 260 là bao nhiêu năm?"
+      ],
+      "answer": "B"
+    }
+  ],
+  "officialSources": [
+    "https://vbpl.moj.gov.vn/dongthap/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword=",
+    "https://vbpl.moj.gov.vn/toaannhandantoicao/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword=91%2F2015%2FQH13",
+    "https://vbpl.moj.gov.vn/hanam/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword=",
+    "https://vbpl.moj.gov.vn/boyte/Pages/vbpq-toanvan.aspx?ItemID=36870&Keyword="
+  ],
+  "limitations": [
+    "Some official pages fail on direct open; indexed official provision text was available.",
+    "No blanket READY certification issued.",
+    "All other bank questions still require independent variant and legal review."
+  ]
+}

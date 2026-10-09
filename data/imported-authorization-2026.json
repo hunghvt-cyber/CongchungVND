@@ -9,7 +9,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đi học xa, vẫn là người phải cấp dưỡng theo bản án. Người có quyền nhận cấp dưỡng đồng ý để B chuyển tiền của A hằng tháng; B không nhận chuyển giao nghĩa vụ cấp dưỡng. B bỏ sót một kỳ. Chỉ xét trách nhiệm cấp dưỡng của A, kết luận nào phù hợp?"
+        "Tháng 10/2026: A đi học xa, vẫn là người phải cấp dưỡng theo bản án. Người có quyền nhận cấp dưỡng đồng ý để B chuyển tiền của A hằng tháng; B không nhận chuyển giao nghĩa vụ cấp dưỡng. B bỏ sót một kỳ. Chỉ xét trách nhiệm cấp dưỡng của A, kết luận nào phù hợp?",
+        "Tháng 10/2026: Người có nghĩa vụ cấp dưỡng nhờ người thứ ba trả bằng tiền mình, bên có quyền đồng ý và không chuyển giao nghĩa vụ. Nếu người thứ ba bỏ sót kỳ trả thì trách nhiệm gốc ra sao?",
+        "Tháng 10/2026: B chỉ được nhờ chuyển tiền cấp dưỡng của A, người nhận đồng ý và B không nhận nghĩa vụ. Khi B không chuyển đúng kỳ, A có được miễn trách nhiệm theo bản án không?"
       ]
     },
     "answers": [
@@ -57,6 +59,12 @@
         "OFFICIAL-HNGD-HN25",
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -69,7 +77,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A chọn B, 30 tuổi, để nhận ủy quyền bán xe vì cho rằng chỉ cần đủ 18 tuổi. Hồ sơ có quyết định còn hiệu lực của Tòa án tuyên B mất năng lực hành vi dân sự. Chỉ xét điều kiện của B, xử lý nào đúng?"
+        "Tháng 10/2026: A chọn B, 30 tuổi, để nhận ủy quyền bán xe vì cho rằng chỉ cần đủ 18 tuổi. Hồ sơ có quyết định còn hiệu lực của Tòa án tuyên B mất năng lực hành vi dân sự. Chỉ xét điều kiện của B, xử lý nào đúng?",
+        "Tháng 10/2026: Tuổi thành niên có đủ để tự nhận, thực hiện giao dịch đại diện khi người được chọn đã bị Tòa án tuyên mất năng lực theo quyết định còn hiệu lực không?",
+        "Tháng 10/2026: Người 30 tuổi được chọn ký bán xe thay chủ, nhưng có quyết định còn hiệu lực tuyên mất năng lực. Chủ xe hứa chịu mọi rủi ro; có thể chỉ căn cứ tuổi để chấp nhận không?"
       ]
     },
     "answers": [
@@ -117,6 +127,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -129,7 +145,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: B nhận ủy quyền không có thù lao, nay muốn ngừng làm và đã báo trước A một thời gian hợp lý. A không đồng ý ký thỏa thuận chấm dứt. B yêu cầu CCV lập văn bản ghi cả hai bên đã thỏa thuận. Phân biệt nào đúng?"
+        "Tháng 10/2026: B nhận ủy quyền không có thù lao, nay muốn ngừng làm và đã báo trước A một thời gian hợp lý. A không đồng ý ký thỏa thuận chấm dứt. B yêu cầu CCV lập văn bản ghi cả hai bên đã thỏa thuận. Phân biệt nào đúng?",
+        "Tháng 10/2026: Bên được ủy quyền không thù lao đã báo trước hợp lý có quyền đơn phương chấm dứt không; điều đó có chứng minh bên kia đã thỏa thuận chấm dứt không?",
+        "Tháng 10/2026: A từ chối ký thỏa thuận chấm dứt; B làm không thù lao đã báo trước hợp lý muốn ngừng. Công chứng viên có được ghi A cùng thỏa thuận, hay phải phân biệt quyền nào?"
       ]
     },
     "answers": [
@@ -178,6 +196,12 @@
         "OFFICIAL-BLDS15",
         "OFFICIAL-CC24"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -190,7 +214,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B nhận ủy quyền có thù lao để làm thủ tục cho A. B đơn phương ngừng thực hiện; A chứng minh có thiệt hại do việc chấm dứt đó, không có căn cứ miễn trách nhiệm. B nói chỉ bên ủy quyền mới phải bồi thường. Đánh giá nào đúng?"
+        "Tháng 10/2026: B nhận ủy quyền có thù lao để làm thủ tục cho A. B đơn phương ngừng thực hiện; A chứng minh có thiệt hại do việc chấm dứt đó, không có căn cứ miễn trách nhiệm. B nói chỉ bên ủy quyền mới phải bồi thường. Đánh giá nào đúng?",
+        "Tháng 10/2026: Khoản 2 Điều 569 đặt trách nhiệm nào khi bên được ủy quyền có thù lao đơn phương chấm dứt gây thiệt hại, không có miễn trách nhiệm?",
+        "Tháng 10/2026: B nhận thù lao rồi đơn phương ngừng việc; A chứng minh thiệt hại và không có căn cứ miễn. B nói chỉ người giao việc phải bồi thường. Quyền chấm dứt và trách nhiệm của B là gì?"
       ]
     },
     "answers": [
@@ -232,6 +258,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -244,7 +276,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đã đơn phương chấm dứt ủy quyền cho B nhưng không báo bằng văn bản cho C. Sau đó B giao kết với C trong phạm vi ghi trên giấy ủy quyền cũ; C không biết và không phải biết việc chấm dứt, các điều kiện hiệu lực khác đều đủ. A đòi phủ nhận hợp đồng với C chỉ vì đã thông báo riêng cho B. Kết luận nào đúng theo Điều 569?"
+        "Tháng 10/2026: A đã đơn phương chấm dứt ủy quyền cho B nhưng không báo bằng văn bản cho C. Sau đó B giao kết với C trong phạm vi ghi trên giấy ủy quyền cũ; C không biết và không phải biết việc chấm dứt, các điều kiện hiệu lực khác đều đủ. A đòi phủ nhận hợp đồng với C chỉ vì đã thông báo riêng cho B. Kết luận nào đúng theo Điều 569?",
+        "Tháng 10/2026: A chấm dứt ủy quyền nhưng không báo bằng văn bản cho C; C không biết, không phải biết và giao dịch trong phạm vi giấy cũ, đủ điều kiện khác. Điều 569 xử lý hợp đồng với C ra sao?",
+        "Tháng 10/2026: B ký với C sau khi được A báo riêng chấm dứt. A chưa báo bằng văn bản cho C; C không biết, không phải biết, giao dịch trong phạm vi giấy cũ và đủ điều kiện khác. A có thể chỉ viện thông báo cho B để phủ nhận không?"
       ]
     },
     "answers": [
@@ -286,6 +320,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -298,7 +338,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A thu hẹp quyền của B từ bán xe xuống chỉ cho thuê và yêu cầu cập nhật cho khách hàng. B đã nhận việc sửa đổi nhưng tiếp tục đưa giấy cũ cho người giao dịch, đồng thời không báo tiến độ cho A; không có thỏa thuận miễn nghĩa vụ báo cáo. Nghĩa vụ nào B đã bỏ qua?"
+        "Tháng 10/2026: A thu hẹp quyền của B từ bán xe xuống chỉ cho thuê và yêu cầu cập nhật cho khách hàng. B đã nhận việc sửa đổi nhưng tiếp tục đưa giấy cũ cho người giao dịch, đồng thời không báo tiến độ cho A; không có thỏa thuận miễn nghĩa vụ báo cáo. Nghĩa vụ nào B đã bỏ qua?",
+        "Tháng 10/2026: Điều 565 đặt nghĩa vụ thông tin nào đối với bên ủy quyền và người thứ ba khi phạm vi được sửa đổi?",
+        "Tháng 10/2026: B đã nhận sửa quyền từ bán nhà xuống chỉ cho thuê, vẫn đưa giấy cũ cho đối tác và không báo tiến độ cho A, không có miễn báo cáo. Hai nhóm nghĩa vụ thông tin bị bỏ qua là gì?"
       ]
     },
     "answers": [
@@ -346,6 +388,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -358,7 +406,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng từ đầu quy định rõ: ủy quyền 12 tháng; nếu đến mốc đó A vẫn ở nước ngoài và công việc chưa hoàn tất thì thời hạn tự kéo dài một lần thêm 12 tháng. Hai điều kiện đều xảy ra, không có căn cứ chấm dứt khác hay quy định chuyên ngành trái với điều khoản. Nhận định nào phù hợp?"
+        "Tháng 10/2026: Hợp đồng từ đầu quy định rõ: ủy quyền 12 tháng; nếu đến mốc đó A vẫn ở nước ngoài và công việc chưa hoàn tất thì thời hạn tự kéo dài một lần thêm 12 tháng. Hai điều kiện đều xảy ra, không có căn cứ chấm dứt khác hay quy định chuyên ngành trái với điều khoản. Nhận định nào phù hợp?",
+        "Tháng 10/2026: Thời hạn ủy quyền được thỏa thuận từ đầu gồm gia hạn một lần có điều kiện; điều kiện đã đủ, không có chấm dứt khác hoặc luật chuyên ngành trái. Phải đọc thời hạn như thế nào?",
+        "Tháng 10/2026: Giấy ghi 12 tháng và gia hạn thêm một lần 12 tháng nếu A còn ở nước ngoài, việc chưa xong. Cả hai xảy ra, không có căn cứ chấm dứt khác. Có thể chỉ đọc con số 12 ban đầu không?"
       ]
     },
     "answers": [
@@ -405,6 +455,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -417,7 +473,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đồng ý cho B ủy quyền lại việc nộp hồ sơ đăng ký nhà; hợp đồng ban đầu đã công chứng và không cho quyền bán nhà. B lập giấy viết tay cho C cả quyền nộp hồ sơ lẫn bán nhà, cho rằng A đã đồng ý ủy quyền lại nên mọi điều kiện đều đủ. Đánh giá nào đúng?"
+        "Tháng 10/2026: A đồng ý cho B ủy quyền lại việc nộp hồ sơ đăng ký nhà; hợp đồng ban đầu đã công chứng và không cho quyền bán nhà. B lập giấy viết tay cho C cả quyền nộp hồ sơ lẫn bán nhà, cho rằng A đã đồng ý ủy quyền lại nên mọi điều kiện đều đủ. Đánh giá nào đúng?",
+        "Tháng 10/2026: Ngoài đồng ý ủy quyền lại, khoản 2, khoản 3 Điều 564 còn yêu cầu gì về phạm vi và hình thức so với ủy quyền ban đầu?",
+        "Tháng 10/2026: A đồng ý B giao lại việc nộp hồ sơ vốn được công chứng; B viết giấy cho C cả quyền nộp lẫn bán nhà chưa được giao. Cần xử lý đồng thời những giới hạn nào?"
       ]
     },
     "answers": [
@@ -465,6 +523,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -477,7 +541,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B nhận ủy quyền nộp hồ sơ nhưng bận công việc thường ngày. A chưa đồng ý cho ủy quyền lại; không có sự kiện bất khả kháng. B định giao toàn bộ việc cho chồng mình. Chỉ xét căn cứ được ủy quyền lại, nhận định nào đúng?"
+        "Tháng 10/2026: B nhận ủy quyền nộp hồ sơ nhưng bận công việc thường ngày. A chưa đồng ý cho ủy quyền lại; không có sự kiện bất khả kháng. B định giao toàn bộ việc cho chồng mình. Chỉ xét căn cứ được ủy quyền lại, nhận định nào đúng?",
+        "Tháng 10/2026: Không có đồng ý của bên ủy quyền hoặc căn cứ bất khả kháng, người nhận có được ủy quyền lại chỉ vì bận và người nhận lại là vợ, chồng không?",
+        "Tháng 10/2026: B bận việc thông thường, muốn chuyển công việc đại diện cho chồng; A chưa đồng ý và không có bất khả kháng. Giữ nguyên phạm vi, thời hạn có bù việc thiếu căn cứ ủy quyền lại không?"
       ]
     },
     "answers": [
@@ -520,6 +586,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -532,7 +604,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B bị cô lập do một sự kiện đã được xác định là bất khả kháng. Nếu không ủy quyền lại ngay thì mục đích thực hiện giao dịch vì lợi ích của A không thể đạt được. A không thể liên lạc; phạm vi và hình thức ủy quyền lại đều phù hợp. Điều khoản ban đầu không quy định khác. Có bắt buộc chờ A đồng ý mới được ủy quyền lại không?"
+        "Tháng 10/2026: B bị cô lập do một sự kiện đã được xác định là bất khả kháng. Nếu không ủy quyền lại ngay thì mục đích thực hiện giao dịch vì lợi ích của A không thể đạt được. A không thể liên lạc; phạm vi và hình thức ủy quyền lại đều phù hợp. Điều khoản ban đầu không quy định khác. Có bắt buộc chờ A đồng ý mới được ủy quyền lại không?",
+        "Tháng 10/2026: Điểm b khoản 1 Điều 564 cho căn cứ ủy quyền lại nào khi bất khả kháng khiến nếu không giao lại thì không đạt mục đích vì lợi ích người ủy quyền, phạm vi và hình thức đều phù hợp?",
+        "Tháng 10/2026: A không liên lạc được; B gặp sự kiện đã xác định bất khả kháng, chỉ giao lại ngay mới đạt mục đích vì lợi ích A. Không có thỏa thuận khác, đủ phạm vi và hình thức. Có phải nhất thiết chờ A đồng ý không?"
       ]
     },
     "answers": [
@@ -575,6 +649,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -587,7 +667,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng bán nhà từ H cho vợ chồng A đã hoàn tất. Nay A nhờ H chỉ nộp và nhận hồ sơ đăng ký cho A; không đàm phán lại, không ký giao dịch giữa A với H, không đại diện bên đối lập. CCV nói cứ là người bán cũ thì bị cấm nhận ủy quyền. Chỉ xét xung đột theo khoản 3 Điều 141, đánh giá nào đúng?"
+        "Tháng 10/2026: Hợp đồng bán nhà từ H cho vợ chồng A đã hoàn tất. Nay A nhờ H chỉ nộp và nhận hồ sơ đăng ký cho A; không đàm phán lại, không ký giao dịch giữa A với H, không đại diện bên đối lập. CCV nói cứ là người bán cũ thì bị cấm nhận ủy quyền. Chỉ xét xung đột theo khoản 3 Điều 141, đánh giá nào đúng?",
+        "Tháng 10/2026: Khoản 3 Điều 141 có cấm người bán cũ nhận ủy quyền thuần túy nộp, nhận hồ sơ đăng ký sau bán, không ký giao dịch với mình hoặc đại diện đối lập, chỉ vì vai trò cũ không?",
+        "Tháng 10/2026: H đã bán xong cho A, nay chỉ được nhờ nộp và nhận hồ sơ cho A, không đàm phán hoặc ký giao dịch A–H và không đại diện phía đối lập. Có thể kết luận xung đột chỉ vì H từng bán không?"
       ]
     },
     "answers": [
@@ -629,6 +711,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -641,7 +729,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A ủy quyền không có thù lao cho B làm đăng ký. B đã ứng 8 triệu đồng thuế, phí hợp lý đúng công việc, có chứng từ; không có thỏa thuận B chịu thay chi phí. A từ chối hoàn vì hợp đồng ghi không có thù lao. Nhận định nào đúng?"
+        "Tháng 10/2026: A ủy quyền không có thù lao cho B làm đăng ký. B đã ứng 8 triệu đồng thuế, phí hợp lý đúng công việc, có chứng từ; không có thỏa thuận B chịu thay chi phí. A từ chối hoàn vì hợp đồng ghi không có thù lao. Nhận định nào đúng?",
+        "Tháng 10/2026: Điều 566, Điều 567 phân biệt quyền hoàn chi phí hợp lý đúng việc với thù lao ra sao khi không có thỏa thuận bên nhận chịu thay chi phí?",
+        "Tháng 10/2026: B làm đăng ký không thù lao, ứng 8 triệu thuế, phí hợp lý đúng việc có chứng từ, không nhận chịu thay. A muốn bác hoàn tiền vì miễn thù lao. Chọn kết luận đúng?"
       ]
     },
     "answers": [
@@ -689,6 +779,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -701,7 +797,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B nhận tiền hoàn phí và giấy chứng nhận sau khi làm thủ tục cho A. Không có thỏa thuận cho B hưởng khoản hoàn phí. B muốn giữ cả tiền và giấy để dùng cho giao dịch riêng, nói rằng mình trực tiếp đi làm nên được sở hữu. Nghĩa vụ nào phù hợp?"
+        "Tháng 10/2026: B nhận tiền hoàn phí và giấy chứng nhận sau khi làm thủ tục cho A. Không có thỏa thuận cho B hưởng khoản hoàn phí. B muốn giữ cả tiền và giấy để dùng cho giao dịch riêng, nói rằng mình trực tiếp đi làm nên được sở hữu. Nghĩa vụ nào phù hợp?",
+        "Tháng 10/2026: Theo Điều 565, người nhận thay tài sản, lợi ích khi thực hiện ủy quyền phải bảo quản và giao lại thế nào, không có thỏa thuận cho hưởng?",
+        "Tháng 10/2026: B nhận giấy chứng nhận và tiền hoàn phí cho A, không được thỏa thuận hưởng; muốn giữ dùng riêng vì mình trực tiếp làm thủ tục. Nghĩa vụ của B là gì?"
       ]
     },
     "answers": [
@@ -755,6 +853,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -767,7 +871,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trong khi làm công việc ủy quyền, B biết thông tin riêng của A và tự đăng công khai để quảng bá dịch vụ, không có sự đồng ý hay căn cứ pháp luật cho phép. A bị thiệt hại được chứng minh. Chỉ xét nghĩa vụ của B theo hợp đồng ủy quyền, kết luận nào đúng?"
+        "Tháng 10/2026: Trong khi làm công việc ủy quyền, B biết thông tin riêng của A và tự đăng công khai để quảng bá dịch vụ, không có sự đồng ý hay căn cứ pháp luật cho phép. A bị thiệt hại được chứng minh. Chỉ xét nghĩa vụ của B theo hợp đồng ủy quyền, kết luận nào đúng?",
+        "Tháng 10/2026: Khoản 4, khoản 6 Điều 565 đặt nghĩa vụ bí mật và trách nhiệm gì nếu bên được ủy quyền tự tiết lộ không được phép gây thiệt hại được chứng minh?",
+        "Tháng 10/2026: B làm xong việc cho A rồi công khai thông tin riêng học được trong quá trình làm để quảng bá; không có đồng ý hoặc căn cứ luật, A bị thiệt hại. Hoàn thành việc chính có miễn nghĩa vụ nào không?"
       ]
     },
     "answers": [
@@ -815,6 +921,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -827,7 +939,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: A đã ủy quyền B làm một công việc, nay muốn trực tiếp ủy quyền thêm C nhưng không chấm dứt quyền của B. Thư ký gọi việc A giao quyền cho C là ủy quyền lại của B và cho rằng B tự mất quyền. Cần sửa điều nào?"
+        "Tháng 10/2026: A đã ủy quyền B làm một công việc, nay muốn trực tiếp ủy quyền thêm C nhưng không chấm dứt quyền của B. Thư ký gọi việc A giao quyền cho C là ủy quyền lại của B và cho rằng B tự mất quyền. Cần sửa điều nào?",
+        "Tháng 10/2026: A trực tiếp ủy quyền thêm C trong khi chưa chấm dứt quyền của B có phải B ủy quyền lại, và có tự chấm dứt đại diện B không?",
+        "Tháng 10/2026: A giao thêm công việc đại diện cho C mà B không tham gia giao quyền; giấy của B chưa chấm dứt. Phải xác định quan hệ giao quyền và quyền B theo cách nào?"
       ]
     },
     "answers": [
@@ -883,6 +997,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -895,7 +1015,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: A ủy quyền B bán xe trong 24 tháng. Sau 6 tháng A chết, chưa bán xe. B trình giấy còn ngày hết hạn trong tương lai và yêu cầu tiếp tục ký bán nhân danh A, không có căn cứ đại diện mới. Chỉ xét quyền từ giấy ủy quyền này, kết luận nào đúng?"
+        "Tháng 10/2026: A ủy quyền B bán xe trong 24 tháng. Sau 6 tháng A chết, chưa bán xe. B trình giấy còn ngày hết hạn trong tương lai và yêu cầu tiếp tục ký bán nhân danh A, không có căn cứ đại diện mới. Chỉ xét quyền từ giấy ủy quyền này, kết luận nào đúng?",
+        "Tháng 10/2026: Điểm đ khoản 3 Điều 140 quy định hệ quả khi cá nhân ủy quyền chết dù thời hạn văn bản còn lại và chưa có căn cứ đại diện mới?",
+        "Tháng 10/2026: A chết sau sáu tháng của giấy ủy quyền bán xe 24 tháng, xe chưa bán. B dùng ngày hết hạn tương lai để tiếp tục ký nhân danh A, không có quyền mới. Chỉ xét giấy cũ, kết luận là gì?"
       ]
     },
     "answers": [
@@ -938,6 +1060,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -950,7 +1078,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: A giao B mua thiết bị với giá tối đa 200 triệu đồng. B giao kết giá 220 triệu, vượt phạm vi; sau đó A biết đầy đủ và đồng ý rõ ràng với phần vượt. Các điều kiện hiệu lực khác đều đáp ứng. Chỉ xét việc vượt phạm vi, kết luận nào đúng?"
+        "Tháng 10/2026: A giao B mua thiết bị với giá tối đa 200 triệu đồng. B giao kết giá 220 triệu, vượt phạm vi; sau đó A biết đầy đủ và đồng ý rõ ràng với phần vượt. Các điều kiện hiệu lực khác đều đáp ứng. Chỉ xét việc vượt phạm vi, kết luận nào đúng?",
+        "Tháng 10/2026: Điểm a khoản 1 Điều 143 đặt ngoại lệ nào cho phần đại diện vượt hạn mức đã được người được đại diện biết đầy đủ và đồng ý, đủ điều kiện hiệu lực khác?",
+        "Tháng 10/2026: B được mua tối đa 200 triệu nhưng ký giá 220 triệu; A sau đó biết rõ và chấp thuận phần vượt, các điều kiện khác đủ. Có thể bác phần vượt chỉ vì hạn mức ban đầu không?"
       ]
     },
     "answers": [
@@ -993,6 +1123,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1005,7 +1141,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: B và C đều biết B chỉ được mua tối đa 200 triệu cho A nhưng cố ý lập giao dịch vượt quyền để gây thiệt hại cho A. Thiệt hại do sự thông đồng đã được xác định; A không đồng ý và không có căn cứ ràng buộc A đối với phần vượt. Trách nhiệm bồi thường nào phù hợp?"
+        "Tháng 10/2026: B và C đều biết B chỉ được mua tối đa 200 triệu cho A nhưng cố ý lập giao dịch vượt quyền để gây thiệt hại cho A. Thiệt hại do sự thông đồng đã được xác định; A không đồng ý và không có căn cứ ràng buộc A đối với phần vượt. Trách nhiệm bồi thường nào phù hợp?",
+        "Tháng 10/2026: Theo khoản 4 Điều 143, đại diện và đối tác cố ý thông đồng vượt phạm vi gây thiệt hại cho người được đại diện phải bồi thường theo cơ chế nào?",
+        "Tháng 10/2026: B và C đều biết hạn mức 200 triệu, cố ý ký vượt để gây thiệt hại A; A không đồng ý và không có căn cứ buộc phần vượt với A. Thiệt hại do thông đồng đã xác định, ai chịu trách nhiệm?"
       ]
     },
     "answers": [
@@ -1047,6 +1185,12 @@
       "supportingSourceIds": [
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1059,7 +1203,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nhà là tài sản chung của A và vợ B. A ủy quyền hợp lệ cho B cùng bán toàn bộ nhà cho C trong phạm vi xác định; các điều kiện chuyển nhượng khác đều đủ. Khi soạn hợp đồng mua bán, cách ghi tư cách bên bán nào phù hợp?"
+        "Tháng 10/2026: Nhà là tài sản chung của A và vợ B. A ủy quyền hợp lệ cho B cùng bán toàn bộ nhà cho C trong phạm vi xác định; các điều kiện chuyển nhượng khác đều đủ. Khi soạn hợp đồng mua bán, cách ghi tư cách bên bán nào phù hợp?",
+        "Tháng 10/2026: Nhà chung vợ chồng được A ủy quyền hợp lệ cho B cùng bán; B ký cho mình và đại diện A đúng phạm vi, đủ điều kiện khác. Bên bán phải được thể hiện thế nào?",
+        "Tháng 10/2026: B cầm ủy quyền hợp lệ của chồng A và ký bán nhà chung cho C, có cả quyền của mình và đại diện A; điều kiện chuyển nhượng đủ. Có được chỉ ghi B làm chủ duy nhất không; tư cách đúng là gì?"
       ]
     },
     "answers": [
@@ -1108,6 +1254,12 @@
         "OFFICIAL-HNGD-HN25",
         "OFFICIAL-BLDS15"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1120,7 +1272,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B tham gia giao dịch cho chính mình nhưng gãy tay phải, không ký được. B có thể điểm chỉ bằng ngón trỏ trái; các điều kiện công chứng khác đã được đáp ứng. Chồng B không có quyền đại diện nhưng đề nghị ký tên B thay. Chỉ xét cách ký hoặc điểm chỉ, phương án đúng là gì?"
+        "Tháng 10/2026: B tham gia giao dịch cho chính mình nhưng gãy tay phải, không ký được. B có thể điểm chỉ bằng ngón trỏ trái; các điều kiện công chứng khác đã được đáp ứng. Chồng B không có quyền đại diện nhưng đề nghị ký tên B thay. Chỉ xét cách ký hoặc điểm chỉ, phương án đúng là gì?",
+        "Tháng 10/2026: Khoản 3 Điều 50 cho người không ký được tự điểm chỉ theo thứ tự nào, khi chồng không có quyền đại diện xin ký tên thay?",
+        "Tháng 10/2026: B gãy tay phải nhưng dùng ngón trỏ trái để điểm chỉ được, đủ các điều kiện khác. Chồng không có quyền đại diện xin ký thay tên B. Chỉ xét cách ký, điểm chỉ, phương án đúng là gì?"
       ]
     },
     "answers": [
@@ -1162,6 +1316,12 @@
       "supportingSourceIds": [
         "OFFICIAL-CC24"
       ]
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]

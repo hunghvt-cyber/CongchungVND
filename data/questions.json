@@ -7,7 +7,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng theo Luật Công chứng là gì?"
+        "Tháng 10/2026: Công chứng theo Luật Công chứng là gì?",
+        "Tháng 10/2026: Một tổ chức hành nghề bố trí công chứng viên chứng nhận tính xác thực, hợp pháp của giao dịch theo luật. Hoạt động này mang tính chất pháp lý nào?",
+        "Tháng 10/2026: Khách hàng cho rằng thu phí khiến việc công chứng trở thành kinh doanh pháp lý thuần túy. Theo định nghĩa tại Điều 2, chọn cách phân loại đúng?"
       ]
     },
     "answers": [
@@ -48,7 +50,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-002",
@@ -58,7 +66,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?"
+        "Theo quy định áp dụng từ 01/01/2027, công chứng viên do ai bổ nhiệm?",
+        "Từ 01/01/2027: Người đủ tiêu chuẩn nộp đề nghị bổ nhiệm công chứng viên sau ngày luật sửa đổi có hiệu lực. Chủ thể nào có thẩm quyền ra quyết định bổ nhiệm?",
+        "Từ 01/01/2027: Sở Tư pháp tiếp nhận xử lý hồ sơ đề nghị bổ nhiệm nhưng người nộp nhầm cơ quan xử lý hồ sơ với người ra quyết định. Chủ thể quyết định đúng là ai?"
       ]
     },
     "answers": [
@@ -110,7 +120,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-003",
@@ -120,7 +136,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?"
+        "Từ 01/01/2027, giao dịch phải công chứng được xác định thế nào?",
+        "Từ 01/01/2027: Một giao dịch cần xác định có thuộc diện phải công chứng theo định nghĩa Điều 3 mới hay không. Tổ hợp tiêu chí nào đúng?",
+        "Từ 01/01/2027: Các bên cho rằng cứ giao dịch trị giá một tỷ đồng là bắt buộc công chứng, không cần xem luật quy định. Tiêu chí pháp lý cần thay cho ngưỡng giá tự đặt là gì?"
       ]
     },
     "answers": [
@@ -166,7 +184,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-004",
@@ -176,7 +200,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một nguyên tắc hành nghề công chứng là gì?"
+        "Tháng 10/2026: Một nguyên tắc hành nghề công chứng là gì?",
+        "Tháng 10/2026: Hai bên đều trả phí nhưng có lợi ích đối lập; công chứng viên phải tuân theo nguyên tắc nào khi đánh giá hồ sơ?",
+        "Tháng 10/2026: Khách trả phí cao xin được công chứng viên ưu tiên lập luận có lợi cho mình. Nguyên tắc hành nghề nào chi phối việc xử lý?"
       ]
     },
     "answers": [
@@ -216,7 +242,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-005",
@@ -226,7 +258,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?"
+        "Tháng 10/2026: Văn bản công chứng giấy có hiệu lực từ thời điểm nào?",
+        "Tháng 10/2026: Các bên đã ký hợp đồng giấy nhưng công chứng viên chưa ký và tổ chức chưa đóng dấu. Mốc nào làm văn bản công chứng giấy có hiệu lực?",
+        "Tháng 10/2026: Khách hàng nộp đủ phí ngay khi nộp hồ sơ và cho rằng văn bản giấy đã có hiệu lực công chứng. Cần xác định hiệu lực theo mốc nào?"
       ]
     },
     "answers": [
@@ -267,7 +301,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-006",
@@ -277,7 +317,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Văn bản công chứng có giá trị chứng cứ như thế nào?"
+        "Tháng 10/2026: Văn bản công chứng có giá trị chứng cứ như thế nào?",
+        "Tháng 10/2026: Văn bản công chứng chưa bị Tòa án tuyên vô hiệu. Giá trị chứng cứ đối với các tình tiết, sự kiện ghi trong văn bản được xác định ra sao?",
+        "Tháng 10/2026: Một bên yêu cầu phải chứng minh lại mọi tình tiết đã ghi trong văn bản công chứng dù chưa có tuyên vô hiệu. Nguyên tắc giá trị chứng cứ là gì?"
       ]
     },
     "answers": [
@@ -318,7 +360,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-007",
@@ -328,7 +376,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ngôn ngữ dùng trong công chứng là gì?"
+        "Tháng 10/2026: Ngôn ngữ dùng trong công chứng là gì?",
+        "Tháng 10/2026: Hai người nước ngoài yêu cầu công chứng giao dịch tại Việt Nam. Tiếng nói và chữ viết dùng trong công chứng theo Điều 7 là gì?",
+        "Tháng 10/2026: Các bên đều biết tiếng Anh và muốn tự chọn tiếng Anh làm ngôn ngữ công chứng. Luật quy định ngôn ngữ dùng trong công chứng là gì?"
       ]
     },
     "answers": [
@@ -368,7 +418,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-008",
@@ -378,7 +434,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?"
+        "Tháng 10/2026: Cơ quan chịu trách nhiệm trước Chính phủ về quản lý nhà nước về công chứng trên toàn quốc là?",
+        "Tháng 10/2026: Khi báo cáo Chính phủ về quản lý nhà nước đối với công chứng trên phạm vi cả nước, cơ quan nào chịu trách nhiệm chính theo Điều 8?",
+        "Tháng 10/2026: Một vấn đề quản lý công chứng vượt phạm vi một tỉnh cần xác định cơ quan chịu trách nhiệm trước Chính phủ trên toàn quốc. Chọn cơ quan nào?"
       ]
     },
     "answers": [
@@ -419,7 +477,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-009",
@@ -483,7 +547,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: CCV Lan được đề nghị công chứng việc mẹ nuôi của chồng Lan bán tài sản riêng. Các bên tự nguyện, không có tranh chấp và đề nghị Lan làm vì đã quen hồ sơ. Chỉ xét xung đột lợi ích của Lan, hướng xử lý đúng là gì?"
+        "Tháng 10/2026: CCV Lan được đề nghị công chứng việc mẹ nuôi của chồng Lan bán tài sản riêng. Các bên tự nguyện, không có tranh chấp và đề nghị Lan làm vì đã quen hồ sơ. Chỉ xét xung đột lợi ích của Lan, hướng xử lý đúng là gì?",
+        "Tháng 10/2026: Mẹ nuôi của chồng công chứng viên là bên bán tài sản riêng. Theo danh sách thân thích tại Điều 9, công chứng viên có được chứng nhận chỉ vì tài sản không thuộc mình không?",
+        "Tháng 10/2026: Công chứng viên Lan được các bên đồng ý bằng văn bản cho chứng nhận giao dịch của mẹ nuôi chồng Lan, dù không sống cùng nhà. Chỉ xét quan hệ thân thích, hướng xử lý là gì?"
       ]
     },
     "answers": [
@@ -531,7 +597,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -542,7 +612,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: CCV đang hành nghề ở X muốn tiếp tục tại X vào các ngày chẵn và ký thêm hồ sơ ở Y vào các ngày lẻ. X và Y là hai tổ chức khác nhau, đều đồng ý phân ca và không trùng giờ. Nhận định nào đúng?"
+        "Tháng 10/2026: CCV đang hành nghề ở X muốn tiếp tục tại X vào các ngày chẵn và ký thêm hồ sơ ở Y vào các ngày lẻ. X và Y là hai tổ chức khác nhau, đều đồng ý phân ca và không trùng giờ. Nhận định nào đúng?",
+        "Tháng 10/2026: Lệnh cấm hành nghề đồng thời tại hai tổ chức có bị loại bỏ khi hai tổ chức phân công công chứng viên vào các ngày khác nhau không?",
+        "Tháng 10/2026: Công chứng viên duy trì hành nghề ở X và Y, một nơi buổi sáng, một nơi buổi chiều, cả hai đồng ý. Không trùng giờ có làm đáp ứng yêu cầu một tổ chức không?"
       ]
     },
     "answers": [
@@ -597,7 +669,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -608,7 +684,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: CCV Nam nghỉ phép, giao thẻ CCV của mình cho một CCV khác để người đó sử dụng khi thực hiện nhiệm vụ. Người nhận có thẻ riêng còn hiệu lực. Đánh giá nào đúng về việc cho sử dụng thẻ của Nam?"
+        "Tháng 10/2026: CCV Nam nghỉ phép, giao thẻ CCV của mình cho một CCV khác để người đó sử dụng khi thực hiện nhiệm vụ. Người nhận có thẻ riêng còn hiệu lực. Đánh giá nào đúng về việc cho sử dụng thẻ của Nam?",
+        "Tháng 10/2026: Lệnh cấm cho sử dụng thẻ công chứng viên có ngoại lệ chỉ vì người mượn cũng có quyết định bổ nhiệm riêng không?",
+        "Tháng 10/2026: Nam cho công chứng viên khác mượn thẻ của mình để làm nhiệm vụ khi Nam vắng mặt; người mượn nói mình đủ tư cách nghề nghiệp. Việc cho mượn thẻ được đánh giá ra sao?"
       ]
     },
     "answers": [
@@ -656,7 +734,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -667,7 +749,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một cử nhân luật được khách hàng ủy quyền nộp hồ sơ, nhưng chưa được bổ nhiệm CCV. Người này quảng bá rằng giấy ủy quyền còn cho mình quyền ký chứng nhận công chứng thay CCV. Phân biệt nào đúng?"
+        "Tháng 10/2026: Một cử nhân luật được khách hàng ủy quyền nộp hồ sơ, nhưng chưa được bổ nhiệm CCV. Người này quảng bá rằng giấy ủy quyền còn cho mình quyền ký chứng nhận công chứng thay CCV. Phân biệt nào đúng?",
+        "Tháng 10/2026: Quyền đại diện khách hàng nộp hồ sơ có đồng thời tạo quyền ký chứng nhận của công chứng viên cho người chưa được bổ nhiệm không?",
+        "Tháng 10/2026: Khách ghi trong giấy ủy quyền cho cử nhân luật cả quyền nộp hồ sơ và ký lời chứng. Người đó chưa được bổ nhiệm công chứng viên; phân biệt quyền đại diện và chức danh thế nào?"
       ]
     },
     "answers": [
@@ -715,7 +799,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -726,7 +814,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?"
+        "Tháng 10/2026: Độ tuổi tối đa của người được xem xét bổ nhiệm công chứng viên theo Luật Công chứng số 46/2024/QH15 là?",
+        "Tháng 10/2026: Người chuẩn bị hồ sơ bổ nhiệm muốn xác định trần tuổi tại khoản 1 Điều 10. Độ tuổi tối đa luật quy định là bao nhiêu?",
+        "Tháng 10/2026: Cơ quan thẩm tra định dùng tuổi nghỉ hưu 65 làm trần bổ nhiệm công chứng viên. Khi đối chiếu khoản 1 Điều 10, trần tuổi cần dùng là gì?"
       ]
     },
     "answers": [
@@ -767,7 +857,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-015",
@@ -777,7 +873,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?"
+        "Tháng 10/2026: Bằng cấp nào đáp ứng yêu cầu về bằng luật để xem xét bổ nhiệm công chứng viên?",
+        "Tháng 10/2026: Người đề nghị bổ nhiệm phải chứng minh nhóm văn bằng luật nào theo Điều 10, bên cạnh các điều kiện khác?",
+        "Tháng 10/2026: Ứng viên có bằng đại học ngành khác và chứng chỉ nghiệp vụ, muốn thay điều kiện bằng luật. Nhóm văn bằng nào mới đáp ứng đúng yêu cầu luật định?"
       ]
     },
     "answers": [
@@ -818,7 +916,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-016",
@@ -828,7 +932,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?"
+        "Tháng 10/2026: Thời gian công tác pháp luật tối thiểu để xem xét bổ nhiệm công chứng viên là?",
+        "Tháng 10/2026: Sau khi có bằng luật, ứng viên cần tích lũy ít nhất bao lâu công tác pháp luật tại cơ quan, tổ chức để đạt điều kiện thời gian bổ nhiệm?",
+        "Tháng 10/2026: Ứng viên đã công tác pháp luật hai năm sau bằng luật và xin xem là đủ. Theo ngưỡng tối thiểu của Điều 10, cần đủ thời gian nào?"
       ]
     },
     "answers": [
@@ -869,7 +975,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-017",
@@ -879,7 +991,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời gian đào tạo nghề công chứng thông thường là?"
+        "Tháng 10/2026: Thời gian đào tạo nghề công chứng thông thường là?",
+        "Tháng 10/2026: Người không thuộc diện đào tạo rút ngắn đăng ký nghề công chứng. Khóa đào tạo thông thường phải có thời gian bao lâu?",
+        "Tháng 10/2026: Cơ sở đào tạo dự kiến dùng khóa sáu tháng cho mọi học viên, kể cả người không thuộc nhóm đặc biệt. Thời lượng thông thường theo luật là gì?"
       ]
     },
     "answers": [
@@ -920,7 +1034,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-018",
@@ -930,7 +1050,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?"
+        "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 quy định thời gian đào tạo 06 tháng cho luật sư đã hành nghề từ đủ bao nhiêu năm?",
+        "Tháng 10/2026: Luật sư muốn thuộc nhóm đào tạo nghề công chứng sáu tháng theo điểm b khoản 3 Điều 11. Ngưỡng thời gian hành nghề luật sư là bao nhiêu?",
+        "Tháng 10/2026: Người có thẻ luật sư muốn tính thời gian hành nghề để vào khóa công chứng rút ngắn sáu tháng. Khoản 3 Điều 11 yêu cầu hành nghề đủ mốc nào?"
       ]
     },
     "answers": [
@@ -975,7 +1097,13 @@
       ]
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-019",
@@ -985,7 +1113,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời gian tập sự hành nghề công chứng là?"
+        "Tháng 10/2026: Thời gian tập sự hành nghề công chứng là?",
+        "Tháng 10/2026: Người vừa hoàn tất đào tạo chuẩn bị tập sự công chứng. Điều 12 quy định thời lượng tập sự là bao lâu?",
+        "Tháng 10/2026: Tổ chức nhận tập sự định kết thúc sau sáu tháng theo thời lượng khóa đào tạo rút ngắn. Thời gian tập sự mà luật quy định là gì?"
       ]
     },
     "answers": [
@@ -1026,7 +1156,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-020",
@@ -1036,7 +1172,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời gian tập sự được tính từ đâu?"
+        "Tháng 10/2026: Thời gian tập sự được tính từ đâu?",
+        "Tháng 10/2026: Hợp đồng tập sự, ngày đến làm và ngày hiệu lực quyết định đăng ký không trùng nhau. Mốc tính thời gian tập sự theo luật là mốc nào?",
+        "Tháng 10/2026: Người tập sự đến văn phòng trước khi quyết định đăng ký có hiệu lực và muốn tính từ ngày đến. Căn cứ tính thời gian luật định phải dùng là gì?"
       ]
     },
     "answers": [
@@ -1077,7 +1215,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-021",
@@ -1087,7 +1231,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?"
+        "Tháng 10/2026: Công chứng viên hướng dẫn tập sự phải có kinh nghiệm hành nghề tối thiểu bao lâu?",
+        "Tháng 10/2026: Tổ chức phân công người hướng dẫn tập sự cần kiểm tra thời gian hành nghề tối thiểu của công chứng viên ở mức nào?",
+        "Tháng 10/2026: Công chứng viên hành nghề một năm được đề nghị hướng dẫn tập sự. Điều kiện thời gian kinh nghiệm theo Điều 12 yêu cầu đủ bao lâu?"
       ]
     },
     "answers": [
@@ -1128,7 +1274,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-022",
@@ -1138,7 +1290,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?"
+        "Tháng 10/2026: Một công chứng viên tại cùng thời điểm được hướng dẫn tối đa bao nhiêu người tập sự?",
+        "Tháng 10/2026: Khi phân công thêm tập sự cùng thời điểm, giới hạn số người một công chứng viên được hướng dẫn là bao nhiêu?",
+        "Tháng 10/2026: Một công chứng viên đang hướng dẫn hai người muốn nhận thêm người thứ ba đồng thời. Trần số người hướng dẫn theo luật là gì?"
       ]
     },
     "answers": [
@@ -1179,7 +1333,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-023",
@@ -1189,7 +1349,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?"
+        "Tháng 10/2026: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?",
+        "Tháng 10/2026: Người giữ giấy chứng nhận kết quả kiểm tra tập sự cần phân biệt không có thời hạn với trường hợp không đề nghị bổ nhiệm trong năm năm như thế nào?",
+        "Tháng 10/2026: Người được cấp giấy chứng nhận không nộp đề nghị bổ nhiệm suốt năm năm và viện dẫn giấy không ghi hạn. Quy tắc hiệu lực đầy đủ của giấy là gì?"
       ]
     },
     "answers": [
@@ -1230,7 +1392,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-024",
@@ -1240,7 +1408,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV đang bị truy cứu trách nhiệm hình sự, chưa có bản án kết tội. Người này viện nguyên tắc suy đoán vô tội để yêu cầu bỏ qua Điều 14. Chỉ xét trở ngại này, nhận định nào đúng?"
+        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV đang bị truy cứu trách nhiệm hình sự, chưa có bản án kết tội. Người này viện nguyên tắc suy đoán vô tội để yêu cầu bỏ qua Điều 14. Chỉ xét trở ngại này, nhận định nào đúng?",
+        "Tháng 10/2026: Khoản 2 Điều 14 có yêu cầu đã có bản án kết tội mới ngăn bổ nhiệm người đang bị truy cứu trách nhiệm hình sự không?",
+        "Tháng 10/2026: Hồ sơ đủ các tiêu chuẩn khác nhưng người đề nghị đang bị truy cứu, cam kết sẽ xin miễn nhiệm nếu sau này bị kết án. Chỉ xét trở ngại Điều 14, xử lý thế nào?"
       ]
     },
     "answers": [
@@ -1287,7 +1457,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1298,7 +1472,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV có quyết định còn hiệu lực của Tòa án tuyên bị hạn chế năng lực hành vi dân sự. Người đại diện đồng ý cho người đó hành nghề và cam kết hỗ trợ. Chỉ xét khoản 4 Điều 14, kết luận nào đúng?"
+        "Tháng 10/2026: Người đề nghị bổ nhiệm CCV có quyết định còn hiệu lực của Tòa án tuyên bị hạn chế năng lực hành vi dân sự. Người đại diện đồng ý cho người đó hành nghề và cam kết hỗ trợ. Chỉ xét khoản 4 Điều 14, kết luận nào đúng?",
+        "Tháng 10/2026: Người bị Tòa án tuyên hạn chế năng lực hành vi theo quyết định còn hiệu lực có được khắc phục trở ngại bổ nhiệm bằng đồng ý của đại diện không?",
+        "Tháng 10/2026: Đại diện hứa ký cùng mọi lời chứng để người đang bị hạn chế năng lực được bổ nhiệm. Chỉ xét khoản 4 Điều 14, sự hỗ trợ ấy có loại bỏ trở ngại không?"
       ]
     },
     "answers": [
@@ -1345,7 +1521,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1356,7 +1536,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?"
+        "Tháng 10/2026: Thời gian tạm đình chỉ hành nghề công chứng tối đa là?",
+        "Tháng 10/2026: Khi xác định thời hạn tạm đình chỉ hành nghề công chứng, trần thời gian luật cho phép là bao nhiêu?",
+        "Tháng 10/2026: Cơ quan dự kiến đặt thời gian tạm đình chỉ 18 tháng. Đối chiếu giới hạn tối đa của Điều 15, cần dùng trần nào?"
       ]
     },
     "answers": [
@@ -1397,7 +1579,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-027",
@@ -1407,7 +1595,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?"
+        "Tháng 10/2026: Sở Tư pháp ra quyết định tạm đình chỉ trong bao lâu kể từ khi nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên?",
+        "Tháng 10/2026: Sở Tư pháp đã nhận quyết định truy cứu trách nhiệm hình sự đối với công chứng viên. Thời hạn ra quyết định tạm đình chỉ theo luật là bao nhiêu?",
+        "Tháng 10/2026: Việc tiếp nhận quyết định truy cứu đã được ghi nhận; cơ quan muốn chờ mười ngày làm việc mới tạm đình chỉ. Thời hạn luật định tính từ tiếp nhận là gì?"
       ]
     },
     "answers": [
@@ -1448,7 +1638,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-028",
@@ -1458,7 +1654,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên đương nhiên miễn nhiệm khi?"
+        "Tháng 10/2026: Công chứng viên đương nhiên miễn nhiệm khi?",
+        "Tháng 10/2026: Xét riêng căn cứ tuổi, người hành nghề vượt mức nào thì thuộc trường hợp đương nhiên miễn nhiệm công chứng viên?",
+        "Tháng 10/2026: Công chứng viên đã quá trần tuổi mà vẫn khỏe và được tổ chức đề nghị tiếp tục. Căn cứ đương nhiên miễn nhiệm do tuổi là gì?"
       ]
     },
     "answers": [
@@ -1499,7 +1697,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-029",
@@ -1509,7 +1713,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?"
+        "Tháng 10/2026: Một trường hợp miễn nhiệm công chứng viên là không hành nghề trong bao lâu kể từ ngày được bổ nhiệm, bổ nhiệm lại?",
+        "Tháng 10/2026: Không hành nghề kể từ bổ nhiệm hoặc bổ nhiệm lại đến ngưỡng nào thì thuộc căn cứ miễn nhiệm được luật quy định?",
+        "Tháng 10/2026: Người vừa bổ nhiệm không đăng ký hành nghề, cho rằng có thể giữ chức danh hai năm không hoạt động. Ngưỡng không hành nghề tính từ bổ nhiệm làm phát sinh căn cứ miễn nhiệm là gì?"
       ]
     },
     "answers": [
@@ -1551,7 +1757,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-030",
@@ -1561,7 +1773,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?"
+        "Từ 01/01/2027, thẩm quyền bổ nhiệm lại công chứng viên thuộc ai?",
+        "Từ 01/01/2027: Công chứng viên đã được miễn nhiệm, nay đủ điều kiện xin bổ nhiệm lại. Cơ quan nào có thẩm quyền gắn với nơi đã miễn nhiệm?",
+        "Từ 01/01/2027: Người xin bổ nhiệm lại chuyển nơi cư trú sau miễn nhiệm; cần xác định chủ thể quyết định theo luật mới, thay vì tự chọn cơ quan theo cư trú. Chọn ai?"
       ]
     },
     "answers": [
@@ -1607,7 +1821,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-031",
@@ -1617,7 +1837,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?"
+        "Từ 01/01/2027, công nhận tương đương đào tạo nghề công chứng ở nước ngoài thuộc ai?",
+        "Từ 01/01/2027: Người được đào tạo nghề công chứng ở nước ngoài cần cơ quan nào công nhận tương đương theo địa bàn cư trú?",
+        "Từ 01/01/2027: Hồ sơ đào tạo công chứng ở nước ngoài được dùng để xin công nhận tương đương. Chủ thể có thẩm quyền quyết định theo luật mới, thay vì cơ sở đào tạo, là ai?"
       ]
     },
     "answers": [
@@ -1663,7 +1885,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-032",
@@ -1673,7 +1901,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?"
+        "Từ 01/01/2027, người đủ tiêu chuẩn đề nghị bổ nhiệm công chứng viên tại đâu?",
+        "Từ 01/01/2027: Người đã đủ tiêu chuẩn bổ nhiệm hoàn thành tập sự ở tỉnh X nhưng cư trú ở tỉnh Y. Đề nghị bổ nhiệm theo luật mới gửi chủ thể nào?",
+        "Từ 01/01/2027: Sau hoàn thành tập sự, ứng viên định gửi theo địa bàn thường trú thay vì nơi tập sự. Căn cứ địa bàn và chủ thể đề nghị đúng là gì?"
       ]
     },
     "answers": [
@@ -1719,7 +1949,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-033",
@@ -1729,7 +1965,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?"
+        "Từ 01/01/2027, ai có thẩm quyền miễn nhiệm công chứng viên đang hành nghề tại một tổ chức hành nghề công chứng?",
+        "Từ 01/01/2027: Công chứng viên hiện đang hành nghề tại một tổ chức cần được xem xét miễn nhiệm. Luật mới giao thẩm quyền cho chủ thể nào theo nơi hành nghề?",
+        "Từ 01/01/2027: Công chứng viên có nơi cư trú khác tỉnh tổ chức đang hành nghề. Khi miễn nhiệm người đang hành nghề, cơ quan có thẩm quyền được xác định ra sao?"
       ]
     },
     "answers": [
@@ -1775,7 +2013,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-034",
@@ -1785,7 +2029,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Nếu công chứng viên không đang hành nghề khi xem xét miễn nhiệm từ 01/01/2027, thẩm quyền thuộc tỉnh nào?"
+        "Từ 01/01/2027, công chứng viên đã từng hành nghề nhưng không đang hành nghề tại thời điểm xem xét miễn nhiệm. Chỉ xét nhánh thẩm quyền cho người đã từng hành nghề, thẩm quyền thuộc tỉnh nào?",
+        "Từ 01/01/2027: Công chứng viên đã từng hành nghề, hiện không hành nghề khi xem xét miễn nhiệm. Tỉnh có thẩm quyền được xác định theo địa điểm nào?",
+        "Từ 01/01/2027: Người từng hành nghề ở X nay ngừng hành nghề và chuyển cư trú về Y. Luật mới dùng địa bàn nào để xác định thẩm quyền miễn nhiệm trong trường hợp này?"
       ]
     },
     "answers": [
@@ -1831,7 +2077,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-035",
@@ -1841,7 +2093,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, tổ chức hành nghề công chứng gồm những loại nào?"
+        "Từ 01/01/2027, tổ chức hành nghề công chứng gồm những loại nào?",
+        "Tháng 10/2026: Khi phân loại tổ chức hành nghề theo Luật Công chứng mới, hệ thống có những loại hình tổ chức nào?",
+        "Tháng 10/2026: Một nhóm dự kiến đưa công ty luật và UBND vào danh sách tổ chức hành nghề công chứng. Danh sách đúng theo luật gồm những loại nào?"
       ]
     },
     "answers": [
@@ -1882,7 +2136,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-036",
@@ -1892,7 +2152,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?"
+        "Từ 01/01/2027, Văn phòng công chứng về nguyên tắc tổ chức theo loại hình nào?",
+        "Từ 01/01/2027: Không thuộc trường hợp đặc biệt cho loại hình doanh nghiệp tư nhân, Văn phòng công chứng tổ chức theo mô hình nào?",
+        "Từ 01/01/2027: Các công chứng viên định lập văn phòng tại địa bàn không có căn cứ đặc biệt cho doanh nghiệp tư nhân. Loại hình tổ chức theo nguyên tắc chung là gì?"
       ]
     },
     "answers": [
@@ -1938,7 +2200,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-037",
@@ -1948,7 +2216,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?"
+        "Trường hợp đặc biệt nào có thể thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân từ 01/01/2027?",
+        "Từ 01/01/2027: Để xét ngoại lệ thành lập Văn phòng công chứng dạng doanh nghiệp tư nhân, điều kiện đặc biệt về địa bàn cấp xã được luật mô tả thế nào?",
+        "Từ 01/01/2027: Người thành lập cho rằng mọi xã đều được dùng mô hình doanh nghiệp tư nhân. Địa bàn phải đáp ứng tổ hợp điều kiện đặc biệt nào theo luật mới?"
       ]
     },
     "answers": [
@@ -1994,7 +2264,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-038",
@@ -2004,7 +2280,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?"
+        "Từ 01/01/2027, ai quyết định danh mục đơn vị hành chính cấp xã được thành lập Văn phòng công chứng theo loại hình doanh nghiệp tư nhân?",
+        "Từ 01/01/2027: Danh mục xã được phép lập Văn phòng công chứng theo mô hình doanh nghiệp tư nhân do chủ thể nào quyết định?",
+        "Từ 01/01/2027: Một xã tự công bố mình thuộc địa bàn được lập Văn phòng công chứng doanh nghiệp tư nhân. Cần quyết định danh mục của cơ quan nào theo luật mới?"
       ]
     },
     "answers": [
@@ -2050,7 +2328,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-039",
@@ -2060,7 +2344,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?"
+        "Từ 01/01/2027, trong bao lâu Văn phòng công chứng phải đăng ký thay đổi một trong các nội dung đăng ký hoạt động?",
+        "Từ 01/01/2027: Khi một nội dung đăng ký hoạt động Văn phòng công chứng thay đổi, thời hạn phải đăng ký thay đổi theo luật mới là bao lâu?",
+        "Từ 01/01/2027: Văn phòng vừa phát sinh thay đổi nội dung đăng ký hoạt động và định đợi nửa tháng. Đối chiếu thời hạn luật mới, phải đăng ký trong khoảng nào?"
       ]
     },
     "answers": [
@@ -2106,7 +2392,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-040",
@@ -2116,7 +2408,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?"
+        "Từ 01/01/2027, người yêu cầu công chứng có thể nộp hồ sơ bằng những phương thức nào?",
+        "Từ 01/01/2027: Người chuẩn bị nộp hồ sơ công chứng được lựa chọn tập hợp phương thức nộp nào theo Điều 42 mới?",
+        "Từ 01/01/2027: Khách không thể trực tiếp đến nộp và muốn dùng dịch vụ bưu chính hoặc nộp trực tuyến. Những phương thức luật cho phép là gì?"
       ]
     },
     "answers": [
@@ -2162,7 +2456,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-041",
@@ -2172,7 +2472,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?"
+        "Từ 01/01/2027, theo quy định mới, giấy tờ tùy thân trong hồ sơ yêu cầu công chứng có thể là gì?",
+        "Từ 01/01/2027: Điều 42 mới cho phép nhóm giấy tờ tùy thân nào trong thành phần hồ sơ công chứng?",
+        "Từ 01/01/2027: Khách muốn dùng hộ chiếu, nhân viên cho rằng chỉ được thẻ căn cước. Danh mục giấy tờ tùy thân theo luật mới được xác định thế nào?"
       ]
     },
     "answers": [
@@ -2218,7 +2520,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-042",
@@ -2228,7 +2536,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?"
+        "Từ 01/01/2027, đối với tài sản phải đăng ký quyền sở hữu, quyền sử dụng, hồ sơ công chứng cần giấy tờ nào?",
+        "Từ 01/01/2027: Giao dịch liên quan tài sản phải đăng ký quyền sở hữu hoặc sử dụng cần nhóm giấy tờ tài sản nào trong hồ sơ?",
+        "Từ 01/01/2027: Người yêu cầu chỉ mang căn cước và dự thảo khi giao dịch tài sản phải đăng ký. Nhóm giấy tờ chứng minh tài sản theo Điều 42 là gì?"
       ]
     },
     "answers": [
@@ -2274,7 +2584,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-043",
@@ -2284,7 +2600,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, người yêu cầu nộp bản sao điện tử giấy tờ thuộc điểm b, c, d khoản 1 Điều 42, chưa thuộc trường hợp miễn cung cấp do khai thác dữ liệu. CCV bác ngay hồ sơ chỉ vì nhóm giấy tờ này không phải bản sao giấy. Đánh giá nào đúng?"
+        "Từ 01/01/2027, người yêu cầu nộp bản sao điện tử giấy tờ thuộc điểm b, c, d khoản 1 Điều 42, chưa thuộc trường hợp miễn cung cấp do khai thác dữ liệu. CCV bác ngay hồ sơ chỉ vì nhóm giấy tờ này không phải bản sao giấy. Đánh giá nào đúng?",
+        "Từ 01/01/2027: Theo Điều 42 mới, bản sao điện tử của nhóm giấy tờ b, c, d có bị bác chỉ vì không ở dạng giấy khi chưa miễn cung cấp theo dữ liệu không?",
+        "Từ 01/01/2027: Người yêu cầu nộp bản sao điện tử giấy tờ tài sản và nhân thân, nói được nộp điện tử thì bỏ luôn đối chiếu. Chưa có miễn cung cấp theo dữ liệu; kết luận đầy đủ nào đúng?"
       ]
     },
     "answers": [
@@ -2337,7 +2655,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2348,7 +2670,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, người yêu cầu đồng ý toàn bộ dự thảo giao dịch giấy, không áp dụng điểm chỉ. Yêu cầu về ký và dấu của tổ chức tham gia giao dịch tại khoản 7 Điều 42 mới là gì?"
+        "Từ 01/01/2027, người yêu cầu đồng ý toàn bộ dự thảo giao dịch giấy, không áp dụng điểm chỉ. Yêu cầu về ký và dấu của tổ chức tham gia giao dịch tại khoản 7 Điều 42 mới là gì?",
+        "Từ 01/01/2027: Người yêu cầu đã đồng ý dự thảo giấy nhiều trang, không điểm chỉ. Theo khoản 7 Điều 42 mới phải hoàn thiện ký và dấu bên tham gia thế nào?",
+        "Từ 01/01/2027: Một tổ chức tham gia hợp đồng giấy muốn chỉ ký trang cuối; người ký đã đồng ý toàn bộ và không điểm chỉ. Quy tắc ký từng trang, ghi tên và dấu theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -2394,7 +2718,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-045",
@@ -2404,7 +2734,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, ngoài các ngoại lệ tại khoản 7, khoản 7a Điều 42, nguyên tắc kiểm tra trước khi công chứng viên ký là gì?"
+        "Từ 01/01/2027, ngoài các ngoại lệ tại khoản 7, khoản 7a Điều 42, nguyên tắc kiểm tra trước khi công chứng viên ký là gì?",
+        "Từ 01/01/2027: Không thuộc ngoại lệ khoản 7, khoản 7a Điều 42 mới, công chứng viên phải kiểm tra, đối chiếu nhóm bản chính nào trước khi ký?",
+        "Từ 01/01/2027: Khách chỉ cung cấp bản photo giấy tờ b, c, d và không thuộc ngoại lệ; hồ sơ đến bước ký lời chứng. Yêu cầu xuất trình để kiểm tra đúng là gì?"
       ]
     },
     "answers": [
@@ -2450,7 +2782,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-046",
@@ -2460,7 +2798,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, hồ sơ là văn bản từ chối nhận di sản theo Điều 60, đã chứng minh tư cách thừa kế và việc người để lại di sản chết. Người yêu cầu không xuất trình bản chính giấy tờ tài sản ở điểm c khoản 1 Điều 42. Chỉ xét bước đối chiếu bản chính nhóm này, nhận định nào đúng?"
+        "Từ 01/01/2027, hồ sơ là văn bản từ chối nhận di sản theo Điều 60, đã chứng minh tư cách thừa kế và việc người để lại di sản chết. Người yêu cầu không xuất trình bản chính giấy tờ tài sản ở điểm c khoản 1 Điều 42. Chỉ xét bước đối chiếu bản chính nhóm này, nhận định nào đúng?",
+        "Từ 01/01/2027: Ngoại lệ đối chiếu giấy tờ tài sản tại điểm c khoản 1 Điều 42 mới áp dụng thế nào cho từ chối di sản đã đủ giấy tờ tư cách thừa kế và người chết?",
+        "Từ 01/01/2027: Người từ chối di sản đất đã chứng minh tư cách và việc người để lại di sản chết, nhưng không có bản chính giấy tờ đất để đối chiếu. Xét riêng nhóm điểm c Điều 42 mới, ngoại lệ là gì?"
       ]
     },
     "answers": [
@@ -2513,7 +2853,11 @@
     "questionForm": "exception",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2524,7 +2868,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?"
+        "Từ 01/01/2027, nếu thông tin hồ sơ đã có trong cơ sở dữ liệu được công bố, người yêu cầu công chứng có phải cung cấp giấy tờ chứa thông tin đó không?",
+        "Từ 01/01/2027: Khi thông tin hồ sơ đã nằm trong cơ sở dữ liệu được công bố theo Điều 42 mới, nghĩa vụ cung cấp giấy tờ chứa thông tin ấy được áp dụng thế nào?",
+        "Từ 01/01/2027: Khách tự khai thác thông tin trong cơ sở dữ liệu đã được công bố để cung cấp hồ sơ. Văn phòng vẫn muốn bắt nộp giấy chứa cùng thông tin trong mọi trường hợp. Quy định mới là gì?"
       ]
     },
     "answers": [
@@ -2570,7 +2916,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-048",
@@ -2580,7 +2932,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?"
+        "Từ 01/01/2027, nếu người yêu cầu đề nghị công chứng viên khai thác dữ liệu, người yêu cầu có phải nộp phí khai thác và sử dụng thông tin không?",
+        "Từ 01/01/2027: Nếu đề nghị công chứng viên khai thác dữ liệu thay mình theo Điều 42 mới, người yêu cầu có nghĩa vụ phí khai thác, sử dụng thông tin thế nào?",
+        "Từ 01/01/2027: Khách không tự khai thác dữ liệu, nhờ công chứng viên khai thác và nói mọi phí phải được miễn. Quy tắc về phí theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -2626,7 +2980,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-049",
@@ -2691,7 +3051,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, trong cơ chế khai thác dữ liệu tại khoản 7a Điều 42, công chứng viên chỉ được yêu cầu bổ sung giấy tờ trong thành phần hồ sơ khi nào?"
+        "Từ 01/01/2027, trong cơ chế khai thác dữ liệu tại khoản 7a Điều 42, công chứng viên chỉ được yêu cầu bổ sung giấy tờ trong thành phần hồ sơ khi nào?",
+        "Từ 01/01/2027: Khoản 7a Điều 42 mới giới hạn trường hợp yêu cầu bổ sung giấy tờ thành phần hồ sơ sau khai thác dữ liệu như thế nào?",
+        "Từ 01/01/2027: Văn phòng đã áp dụng cơ chế khai thác dữ liệu, định yêu cầu giấy bổ sung chỉ vì hồ sơ nhiều trang. Căn cứ nào mới cho phép yêu cầu bổ sung theo khoản 7a?"
       ]
     },
     "answers": [
@@ -2737,7 +3099,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-051",
@@ -2747,7 +3115,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?"
+        "Từ 01/01/2027, thẩm quyền công chứng giao dịch có đối tượng là bất động sản về nguyên tắc giới hạn ở đâu?",
+        "Từ 01/01/2027: Một hợp đồng về bất động sản không thuộc ngoại lệ Điều 44 mới phải tuân thủ phạm vi địa bàn theo nơi đặt trụ sở nào?",
+        "Từ 01/01/2027: Tổ chức tại tỉnh X muốn nhận công chứng mọi giao dịch bất động sản toàn quốc. Không xét ngoại lệ, phạm vi nguyên tắc theo Điều 44 mới là gì?"
       ]
     },
     "answers": [
@@ -2793,7 +3163,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-052",
@@ -2803,7 +3179,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?"
+        "Từ 01/01/2027, giao dịch nào là ngoại lệ khỏi giới hạn địa bàn bất động sản tại Điều 44?",
+        "Từ 01/01/2027: Trong các loại giao dịch được liệt kê, loại nào được Điều 44 mới cho ngoại lệ khỏi giới hạn địa bàn bất động sản?",
+        "Từ 01/01/2027: Người lập di chúc về nhà tại tỉnh X muốn công chứng ở tỉnh Y; so với mua bán, thế chấp và chuyển nhượng, loại giao dịch nào thuộc ngoại lệ?"
       ]
     },
     "answers": [
@@ -2849,7 +3227,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-053",
@@ -2859,7 +3243,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?"
+        "Từ 01/01/2027, văn bản từ chối nhận di sản có phải tuân theo giới hạn địa bàn bất động sản tại Điều 44 không?",
+        "Từ 01/01/2027: Văn bản từ chối di sản có bất động sản được Điều 44 mới đặt trong hay ngoài quy tắc giới hạn địa bàn?",
+        "Từ 01/01/2027: Người thừa kế ở tỉnh X muốn công chứng từ chối di sản nhà ở tỉnh Y. Chỉ xét Điều 44 mới, có bắt buộc công chứng tại tỉnh Y không?"
       ]
     },
     "answers": [
@@ -2905,7 +3291,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-054",
@@ -2915,7 +3307,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, A muốn lập văn bản ủy quyền thực hiện quyền về nhà ở tỉnh B tại tổ chức ở tỉnh C; sau đó người được ủy quyền định ký hợp đồng bán nhà cũng tại C. Chỉ xét ngoại lệ địa bàn được Điều 44 mới quy định, phân biệt nào đúng?"
+        "Từ 01/01/2027, A muốn lập văn bản ủy quyền thực hiện quyền về nhà ở tỉnh B tại tổ chức ở tỉnh C; sau đó người được ủy quyền định ký hợp đồng bán nhà cũng tại C. Chỉ xét ngoại lệ địa bàn được Điều 44 mới quy định, phân biệt nào đúng?",
+        "Từ 01/01/2027: Theo Điều 44 mới, ngoại lệ địa bàn của văn bản ủy quyền có tự mở rộng sang hợp đồng bán nhà do người được ủy quyền ký không?",
+        "Từ 01/01/2027: Văn bản ủy quyền quyền đối với nhà tỉnh B được công chứng ở C; bên đại diện muốn bán chính nhà ở C. Hai loại giao dịch có cùng được hưởng ngoại lệ chỉ nhờ đại diện không?"
       ]
     },
     "answers": [
@@ -2967,7 +3361,11 @@
     "questionForm": "integrated",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2978,7 +3376,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?"
+        "Từ 01/01/2027, điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?",
+        "Từ 01/01/2027: Người có thể ký vẫn muốn điểm chỉ cùng chữ ký. Luật mới cho phép dựa vào yêu cầu của ai?",
+        "Từ 01/01/2027: Khách đề nghị vừa ký vừa điểm chỉ để bảo đảm nhận diện, dù giao dịch không phải bất động sản. Căn cứ thực hiện đồng thời theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -3024,7 +3424,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-056",
@@ -3034,7 +3440,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?"
+        "Từ 01/01/2027, nếu bên ủy quyền và bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng, bên ủy quyền có thể làm gì?",
+        "Từ 01/01/2027: Không thể cùng bên được ủy quyền đến một tổ chức, bên ủy quyền có bước lựa chọn công chứng nào theo Điều 57 mới?",
+        "Từ 01/01/2027: Bên ủy quyền ở xa không thể gặp bên nhận tại cùng văn phòng. Có phải hủy việc công chứng, hay được yêu cầu bước chứng nhận nào tại nơi mình chọn?"
       ]
     },
     "answers": [
@@ -3080,7 +3488,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-057",
@@ -3090,7 +3504,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?"
+        "Từ 01/01/2027, bên được ủy quyền trong trường hợp hai bên không cùng đến một tổ chức có thể làm gì?",
+        "Từ 01/01/2027: Sau khi bên ủy quyền được chứng nhận đề nghị, bên nhận không thể cùng đến một tổ chức phải hoàn tất việc chấp nhận trên tài liệu nào?",
+        "Từ 01/01/2027: Bên nhận ủy quyền muốn ký bản photo ở tổ chức tự chọn thay vì chứng nhận tiếp bản gốc đã có bên ủy quyền. Bước đúng theo Điều 57 mới là gì?"
       ]
     },
     "answers": [
@@ -3136,7 +3552,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-058",
@@ -3146,7 +3568,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, văn bản công chứng hợp đồng ủy quyền theo trình tự chứng nhận tại hai tổ chức có hiệu lực khi nào?"
+        "Từ 01/01/2027, văn bản công chứng hợp đồng ủy quyền theo trình tự chứng nhận tại hai tổ chức có hiệu lực khi nào?",
+        "Từ 01/01/2027: Theo Điều 57 mới, mốc hiệu lực hợp đồng ủy quyền được công chứng tại hai tổ chức khác nhau được xác định thế nào?",
+        "Từ 01/01/2027: Hai bên đã ký nhưng còn thiếu ký và dấu của một trong hai tổ chức. Có thể lấy thời điểm ký của bên ủy quyền làm hiệu lực văn bản công chứng không; mốc đầy đủ là gì?"
       ]
     },
     "answers": [
@@ -3192,7 +3616,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-059",
@@ -3202,7 +3632,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?"
+        "Từ 01/01/2027, nếu hai bên cùng yêu cầu sửa đổi hợp đồng ủy quyền tại một trong hai tổ chức đã công chứng, tổ chức đó phải gửi bản sao cho tổ chức còn lại trong bao lâu?",
+        "Từ 01/01/2027: Hai bên cùng yêu cầu một trong hai tổ chức đã công chứng sửa hợp đồng ủy quyền. Theo Điều 57 mới, phải gửi bản sao sang tổ chức kia trong bao lâu?",
+        "Từ 01/01/2027: X hoàn tất chứng nhận sửa đổi hợp đồng ủy quyền theo yêu cầu chung hai bên; Y là tổ chức từng chứng nhận còn lại. Thời hạn gửi bản sao sang Y là gì?"
       ]
     },
     "answers": [
@@ -3248,7 +3680,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-060",
@@ -3258,7 +3696,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?"
+        "Từ 01/01/2027, sửa lỗi kỹ thuật của văn bản công chứng trong trường hợp Điều 57 có thể thực hiện ở đâu?",
+        "Từ 01/01/2027: Điều 57 mới cho công chứng viên sửa lỗi kỹ thuật văn bản ủy quyền chứng nhận tại hai tổ chức ở nơi nào, ngoài ngoại lệ luật định?",
+        "Từ 01/01/2027: Hợp đồng ủy quyền do X và Y công chứng theo hai bước cần sửa lỗi kỹ thuật. Không có ngoại lệ khác; có phải chọn tổ chức thứ ba bất kỳ không, hay chọn nơi nào?"
       ]
     },
     "answers": [
@@ -3304,7 +3744,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-061",
@@ -3314,7 +3760,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?"
+        "Từ 01/01/2027, thông báo bằng văn bản về sửa lỗi kỹ thuật theo Điều 57 phải thực hiện trong bao lâu?",
+        "Từ 01/01/2027: Theo Điều 57 mới, thông báo bằng văn bản cho tổ chức còn lại về sửa lỗi kỹ thuật có thời hạn bao lâu?",
+        "Từ 01/01/2027: Một trong hai tổ chức đã công chứng hoàn tất sửa lỗi kỹ thuật hợp đồng ủy quyền, định gửi thông báo sau một tuần làm việc. Thời hạn thông báo luật mới là gì?"
       ]
     },
     "answers": [
@@ -3360,7 +3808,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-062",
@@ -3370,7 +3824,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ sở dữ liệu công chứng bao gồm thông tin nào?"
+        "Từ 01/01/2027, cơ sở dữ liệu công chứng bao gồm thông tin nào?",
+        "Từ 01/01/2027: Điều 66 mới có nhóm dữ liệu về người hành nghề, tổ chức hành nghề và giao dịch nào trong cơ sở dữ liệu công chứng?",
+        "Từ 01/01/2027: Nhóm xây dựng cơ sở dữ liệu chỉ muốn lưu phí, thuế hoặc cư trú. Tập hợp thông tin nghề nghiệp và giao dịch được Điều 66 mới liệt kê là gì?"
       ]
     },
     "answers": [
@@ -3416,7 +3872,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-063",
@@ -3426,7 +3888,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thiết kế cơ sở dữ liệu công chứng chỉ lưu thông tin CCV, tổ chức và giao dịch đã công chứng; loại toàn bộ dữ liệu tình trạng giao dịch tài sản, ngăn chặn, cảnh báo rủi ro và hồ sơ vì cho rằng đó đều nằm ngoài Điều 66 mới. Đánh giá nào đúng?"
+        "Từ 01/01/2027, thiết kế cơ sở dữ liệu công chứng chỉ lưu thông tin CCV, tổ chức và giao dịch đã công chứng; loại toàn bộ dữ liệu tình trạng giao dịch tài sản, ngăn chặn, cảnh báo rủi ro và hồ sơ vì cho rằng đó đều nằm ngoài Điều 66 mới. Đánh giá nào đúng?",
+        "Từ 01/01/2027: Chỉ lưu công chứng viên, tổ chức và giao dịch đã công chứng có đủ các nhóm tại khoản 1 Điều 66 mới nếu loại tình trạng tài sản, ngăn chặn, cảnh báo và hồ sơ không?",
+        "Từ 01/01/2027: Đơn vị thiết kế loại cả cảnh báo, tình trạng giao dịch tài sản và tài liệu hồ sơ vì không phải giao dịch đã hoàn tất. Theo Điều 66 mới, thiếu những nhóm nào?"
       ]
     },
     "answers": [
@@ -3478,7 +3942,11 @@
     "questionForm": "synthesis",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3543,7 +4011,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ sở dữ liệu công chứng phải được cập nhật như thế nào?"
+        "Từ 01/01/2027, cơ sở dữ liệu công chứng phải được cập nhật như thế nào?",
+        "Từ 01/01/2027: Điều 66 mới đặt tổ hợp yêu cầu gì đối với việc cập nhật và bảo đảm dữ liệu công chứng?",
+        "Từ 01/01/2027: Cơ sở dữ liệu có thông tin đúng nhưng chỉ cập nhật cuối năm và chưa bảo đảm an toàn. Bộ yêu cầu đầy đủ theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -3589,7 +4059,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-066",
@@ -3599,7 +4075,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ sở dữ liệu công chứng được quản lý theo mô hình nào?"
+        "Từ 01/01/2027, cơ sở dữ liệu công chứng được quản lý theo mô hình nào?",
+        "Từ 01/01/2027: Mô hình quản lý cơ sở dữ liệu công chứng trong Điều 66 mới kết hợp tập trung và phân cấp theo trách nhiệm của những cơ quan nào?",
+        "Từ 01/01/2027: Một đề án muốn để từng tổ chức tự quản dữ liệu riêng, không cơ chế chung Bộ Tư pháp và tỉnh. Mô hình quản lý cần áp dụng theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -3645,7 +4123,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-067",
@@ -3655,7 +4139,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?"
+        "Từ 01/01/2027, cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất từ trung ương đến địa phương?",
+        "Từ 01/01/2027: Điều 66 mới giao cơ quan nào xây dựng cơ sở dữ liệu công chứng đồng bộ, thống nhất trung ương đến địa phương?",
+        "Từ 01/01/2027: Các tỉnh muốn xác định cơ quan chịu trách nhiệm xây dựng hệ thống đồng bộ toàn quốc, thay vì giao UBND xã hoặc Hiệp hội. Chọn cơ quan nào?"
       ]
     },
     "answers": [
@@ -3701,7 +4187,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-068",
@@ -3711,7 +4203,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?"
+        "Từ 01/01/2027, khi cơ quan nhà nước có thẩm quyền yêu cầu bằng văn bản hồ sơ công chứng để phục vụ tố tụng, tổ chức hành nghề công chứng phải cung cấp gì?",
+        "Từ 01/01/2027: Có yêu cầu bằng văn bản của cơ quan nhà nước có thẩm quyền phục vụ tố tụng, tổ chức phải cung cấp nhóm bản sao hồ sơ nào theo luật mới?",
+        "Từ 01/01/2027: Cơ quan có thẩm quyền gửi yêu cầu tố tụng bằng văn bản; văn phòng muốn chỉ cung cấp căn cước hoặc từ chối toàn bộ vì bảo mật. Nhóm tài liệu phải cung cấp là gì?"
       ]
     },
     "answers": [
@@ -3757,7 +4251,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-069",
@@ -3767,7 +4267,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?"
+        "Từ 01/01/2027, việc đối chiếu bản sao văn bản công chứng với bản gốc được thực hiện ở đâu?",
+        "Từ 01/01/2027: Luật mới quy định địa điểm đối chiếu bản sao văn bản công chứng với bản gốc và ngoại lệ tố tụng như thế nào?",
+        "Từ 01/01/2027: Cơ quan tiến hành tố tụng cần đối chiếu bản sao; chưa có yêu cầu bản gốc để xác minh, giám định. Địa điểm nguyên tắc và ngoại lệ cần áp dụng là gì?"
       ]
     },
     "answers": [
@@ -3813,7 +4315,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-070",
@@ -3823,7 +4331,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?"
+        "Từ 01/01/2027, thời hạn cung cấp bản gốc văn bản công chứng tối đa là bao lâu kể từ ngày bàn giao?",
+        "Từ 01/01/2027: Theo luật mới, thời hạn tối đa cung cấp bản gốc văn bản công chứng tính từ ngày bàn giao là bao nhiêu?",
+        "Từ 01/01/2027: Bản gốc được bàn giao theo yêu cầu tố tụng và cơ quan định giữ mười lăm ngày làm việc. Trần thời hạn cung cấp theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -3869,7 +4379,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-071",
@@ -3879,7 +4395,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Việc công chứng về nguyên tắc được thực hiện ở đâu?"
+        "Tháng 10/2026: Việc công chứng về nguyên tắc được thực hiện ở đâu?",
+        "Tháng 10/2026: Không có căn cứ ngoài trụ sở, tổ chức bố trí công chứng giao dịch tại địa điểm nào theo nguyên tắc chung Điều 46?",
+        "Tháng 10/2026: Khách muốn chọn địa điểm bất kỳ chỉ vì tiện đi lại, chưa có căn cứ ngoại lệ. Nơi công chứng theo quy tắc chung là gì?"
       ]
     },
     "answers": [
@@ -3919,7 +4437,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-072",
@@ -3929,7 +4453,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một trường hợp được công chứng ngoài trụ sở là gì?"
+        "Tháng 10/2026: Một trường hợp được công chứng ngoài trụ sở là gì?",
+        "Tháng 10/2026: Trong các tình huống liệt kê, tình huống sức khỏe nào tạo căn cứ công chứng ngoài trụ sở theo Điều 46?",
+        "Tháng 10/2026: Khách không thể đi lại do sức khỏe muốn công chứng ngoài trụ sở, trong khi các lựa chọn khác chỉ là tiện lợi hoặc giá trị giao dịch. Căn cứ đúng là gì?"
       ]
     },
     "answers": [
@@ -3970,7 +4496,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-073",
@@ -3980,7 +4512,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Dự thảo văn bản công chứng sử dụng ký hiệu viết tắt tự đặt cho nghĩa vụ bàn giao, chưa có quy định pháp luật cho phép ngoại lệ. Các bên đều hiểu ký hiệu và ký xác nhận đồng ý. Hướng xử lý nào phù hợp về cách viết?"
+        "Tháng 10/2026: Dự thảo văn bản công chứng sử dụng ký hiệu viết tắt tự đặt cho nghĩa vụ bàn giao, chưa có quy định pháp luật cho phép ngoại lệ. Các bên đều hiểu ký hiệu và ký xác nhận đồng ý. Hướng xử lý nào phù hợp về cách viết?",
+        "Tháng 10/2026: Các bên cùng hiểu ký hiệu tự đặt có tự tạo ngoại lệ cho quy tắc rõ, dễ đọc, không viết tắt trái luật trong văn bản công chứng không?",
+        "Tháng 10/2026: Công chứng viên muốn giữ ký hiệu tự đặt thay nội dung nghĩa vụ vì các bên ký đồng ý; chưa có ngoại lệ pháp luật. Cần hoàn thiện cách viết thế nào?"
       ]
     },
     "answers": [
@@ -4027,7 +4561,11 @@
     "questionForm": "short_case",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4038,7 +4576,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thời điểm công chứng phải được ghi như thế nào?"
+        "Tháng 10/2026: Thời điểm công chứng phải được ghi như thế nào?",
+        "Tháng 10/2026: Khi soạn văn bản công chứng, phải ghi thời điểm với mức cụ thể nào và khi nào có thể thêm giờ, phút?",
+        "Tháng 10/2026: Mẫu văn bản chỉ ghi năm, các bên xin thêm giờ để nhận diện. Yêu cầu đầy đủ về cách ghi thời điểm là gì?"
       ]
     },
     "answers": [
@@ -4078,7 +4618,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-075",
@@ -4088,7 +4634,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Lời chứng của công chứng viên phải ghi nội dung nào?"
+        "Tháng 10/2026: Lời chứng của công chứng viên phải ghi nội dung nào?",
+        "Tháng 10/2026: Trong các nội dung được liệt kê, lời chứng phải phản ánh nhóm thông tin nào về lúc và nơi thực hiện công chứng?",
+        "Tháng 10/2026: Giao dịch được chứng nhận ngoài trụ sở, mẫu lời chứng chỉ có tên công chứng viên và số hồ sơ. Nhóm thông tin bắt buộc nào phải được ghi?"
       ]
     },
     "answers": [
@@ -4128,7 +4676,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-076",
@@ -4138,7 +4692,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Lời chứng của công chứng viên phải có chữ ký của ai?"
+        "Tháng 10/2026: Lời chứng của công chứng viên phải có chữ ký của ai?",
+        "Tháng 10/2026: Lời chứng giao dịch phải có chữ ký của chủ thể thực hiện chứng nhận nào theo Điều 48?",
+        "Tháng 10/2026: Người yêu cầu và người phiên dịch đều đã ký, tổ chức cho rằng như vậy đủ chữ ký lời chứng. Chữ ký bắt buộc của ai còn phải có?"
       ]
     },
     "answers": [
@@ -4178,7 +4734,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-077",
@@ -4296,7 +4858,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?"
+        "Tháng 10/2026: Nếu người lập di chúc không ký được và không điểm chỉ được thì xử lý thế nào?",
+        "Tháng 10/2026: Điều 58 kết hợp Điều 49 yêu cầu gì khi người lập di chúc không thể ký và cũng không thể điểm chỉ?",
+        "Tháng 10/2026: Người lập di chúc không ký, không điểm chỉ được nhưng gia đình xin người khác ký thay. Yêu cầu về người làm chứng theo luật là gì?"
       ]
     },
     "answers": [
@@ -4337,7 +4901,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-080",
@@ -4347,7 +4917,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?"
+        "Tháng 10/2026: Nếu công chứng viên nhận thấy người lập di chúc có dấu hiệu bị lừa dối, đe dọa hoặc cưỡng ép và không làm rõ được thì?",
+        "Tháng 10/2026: Khi dấu hiệu lừa dối, đe dọa hoặc cưỡng ép đối với người lập di chúc không được làm rõ, công chứng viên phải làm gì theo Điều 58?",
+        "Tháng 10/2026: Người lập di chúc có dấu hiệu bị đe dọa; việc làm rõ không đạt, người thân xin tự chịu trách nhiệm. Hướng xử lý công chứng là gì?"
       ]
     },
     "answers": [
@@ -4388,7 +4960,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-081",
@@ -4398,7 +4976,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?"
+        "Tháng 10/2026: Khi tính mạng người lập di chúc bị cái chết đe dọa, người đó có phải xuất trình đủ giấy tờ theo khoản 1 Điều 42 không?",
+        "Tháng 10/2026: Điều 58 đặt ngoại lệ giấy tờ nào khi người lập di chúc bị cái chết đe dọa và yêu cầu ghi nhận gì trong văn bản?",
+        "Tháng 10/2026: Người đang nguy hiểm tính mạng muốn lập di chúc công chứng tại chỗ nhưng chưa đủ giấy tờ khoản 1 Điều 42. Có được áp dụng ngoại lệ và phải ghi nhận ra sao?"
       ]
     },
     "answers": [
@@ -4439,7 +5019,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-082",
@@ -4449,7 +5035,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?"
+        "Từ 01/01/2027, thủ tục công chứng hợp đồng thế chấp bất động sản thực hiện theo thẩm quyền nào?",
+        "Từ 01/01/2027: Theo Điều 56 được sửa đổi, công chứng thế chấp bất động sản phải xác định thẩm quyền theo điều luật nào?",
+        "Từ 01/01/2027: Ngân hàng chọn tổ chức chứng nhận hợp đồng thế chấp bất động sản và cần kiểm tra quy tắc địa bàn. Điều nào được quy định về thẩm quyền dẫn chiếu?"
       ]
     },
     "answers": [
@@ -4501,7 +5089,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-083",
@@ -4511,7 +5105,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?"
+        "Tháng 10/2026: Nếu bất động sản đã được thế chấp và tiếp tục thế chấp để bảo đảm nghĩa vụ khác trong phạm vi pháp luật cho phép, hợp đồng thế chấp tiếp theo phải công chứng ở đâu?",
+        "Tháng 10/2026: Bất động sản đủ điều kiện thế chấp tiếp sau hợp đồng đã công chứng; tổ chức lần đầu vẫn hoạt động. Quy tắc lựa chọn nơi chứng nhận lần tiếp là gì?",
+        "Tháng 10/2026: Các bên muốn tự chọn văn phòng mới để công chứng thế chấp tiếp tài sản đã thế chấp hợp pháp. Không có ngoại lệ tổ chức cũ, nơi cần chọn theo Điều 56 là gì?"
       ]
     },
     "answers": [
@@ -4552,7 +5148,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-084",
@@ -4562,7 +5164,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?"
+        "Tháng 10/2026: Ai có quyền đề nghị Tòa án tuyên bố văn bản công chứng vô hiệu khi có căn cứ vi phạm pháp luật?",
+        "Tháng 10/2026: Điều 54 cho những nhóm chủ thể nào quyền đề nghị Tòa án tuyên văn bản công chứng vô hiệu khi có căn cứ vi phạm?",
+        "Tháng 10/2026: Người làm chứng hoặc phiên dịch phát hiện vi phạm trong công chứng, nhưng được nói chỉ người yêu cầu mới được đề nghị vô hiệu. Danh sách chủ thể có quyền đúng là gì?"
       ]
     },
     "answers": [
@@ -4602,7 +5206,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-085",
@@ -4612,7 +5222,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?"
+        "Tháng 10/2026: Việc công chứng sửa đổi, bổ sung hợp đồng đã công chứng về nguyên tắc cần gì?",
+        "Tháng 10/2026: Không có ngoại lệ pháp luật, công chứng sửa đổi hợp đồng đã công chứng yêu cầu thỏa thuận hoặc cam kết của ai và hình thức nào?",
+        "Tháng 10/2026: Một bên đề nghị sửa hợp đồng đã công chứng vì mình trả phí; bên kia chưa đồng ý. Không có ngoại lệ, điều kiện về ý chí các người ký là gì?"
       ]
     },
     "answers": [
@@ -4653,7 +5265,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-086",
@@ -4663,7 +5281,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?"
+        "Tháng 10/2026: Việc công chứng văn bản sửa đổi giao dịch đã công chứng về nguyên tắc do ai thực hiện?",
+        "Tháng 10/2026: Tổ chức đã công chứng còn hoạt động, giao dịch không có ngoại lệ sửa đổi tại nơi khác. Chủ thể thực hiện công chứng văn bản sửa đổi là ai?",
+        "Tháng 10/2026: Các bên muốn đổi văn phòng cho tiện khi sửa giao dịch mà nơi chứng nhận cũ vẫn hoạt động, không có ngoại lệ. Theo nguyên tắc Điều 53, chọn ai thực hiện?"
       ]
     },
     "answers": [
@@ -4704,7 +5324,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-087",
@@ -4714,7 +5340,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?"
+        "Tháng 10/2026: Nếu tổ chức đã công chứng giao dịch chấm dứt hoạt động, việc sửa đổi giao dịch do ai thực hiện?",
+        "Tháng 10/2026: Tổ chức đã công chứng chấm dứt hoạt động và hồ sơ đã chuyển lưu. Theo Điều 53, chủ thể nào thực hiện công chứng sửa đổi?",
+        "Tháng 10/2026: Các bên muốn sửa hợp đồng khi văn phòng cũ đã chấm dứt; hồ sơ hiện ở tổ chức X. Quy tắc tổ chức tiếp nhận lưu trữ dẫn đến chọn ai?"
       ]
     },
     "answers": [
@@ -4755,7 +5383,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-088",
@@ -4765,7 +5399,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?"
+        "Tháng 10/2026: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?",
+        "Tháng 10/2026: Điều 53 xác định thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng theo nhóm thủ tục nào?",
+        "Tháng 10/2026: Các bên đã thống nhất văn bản sửa hợp đồng, muốn coi chứng nhận sửa là thủ tục đăng ký doanh nghiệp hoặc tố tụng. Thủ tục công chứng đúng là gì?"
       ]
     },
     "answers": [
@@ -4806,7 +5442,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-089",
@@ -4816,7 +5458,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?"
+        "Tháng 10/2026: Thủ tục công chứng hợp đồng thế chấp bất động sản, hợp đồng ủy quyền, di chúc, văn bản phân chia di sản và văn bản từ chối nhận di sản dựa trên nguyên tắc nào?",
+        "Tháng 10/2026: Khi công chứng di chúc, thế chấp, ủy quyền hoặc văn bản thừa kế, cần kết hợp quy định chung và riêng theo nguyên tắc nào?",
+        "Tháng 10/2026: Một nhân viên muốn chỉ dùng nội quy tổ chức cho mọi hợp đồng ủy quyền và di chúc. Cấu trúc quy định thủ tục phải áp dụng là gì?"
       ]
     },
     "answers": [
@@ -4856,7 +5500,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-090",
@@ -4866,7 +5516,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?"
+        "Luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 có hiệu lực từ ngày nào?",
+        "Thời điểm luật sửa đổi công chứng số 04/2026/QH16 bắt đầu có hiệu lực khác ngày thông qua. Mốc hiệu lực luật định là ngày nào?",
+        "Người học định áp dụng ngay luật 04/2026/QH16 từ ngày 23/04/2026 thông qua luật. Ngày hiệu lực cần dùng để phân biệt quy định trước và sau là gì?"
       ]
     },
     "answers": [
@@ -4906,7 +5558,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-091",
@@ -4916,7 +5574,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?"
+        "Tháng 10/2026: Luật Công chứng số 46/2024/QH15 có hiệu lực từ ngày nào?",
+        "Tháng 10/2026: Ngày thông qua Luật Công chứng 46/2024/QH15 không phải ngày bắt đầu áp dụng. Ngày có hiệu lực của luật là gì?",
+        "Tháng 10/2026: Người yêu cầu nhầm ngày 26/11/2024 ban hành là ngày luật công chứng mới có hiệu lực. Cần thay bằng mốc nào?"
       ]
     },
     "answers": [
@@ -4956,7 +5616,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-092",
@@ -4966,7 +5632,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?"
+        "Từ 01/01/2027, luật sửa đổi, bổ sung một số điều của Luật Công chứng số 04/2026/QH16 sửa định nghĩa công chứng theo hướng giao dịch phải công chứng là giao dịch bằng hình thức nào?",
+        "Từ 01/01/2027: Định nghĩa công chứng trong luật sửa đổi xác định giao dịch được công chứng là giao dịch thể hiện bằng hình thức nào?",
+        "Từ 01/01/2027: Các bên muốn coi giao dịch lời nói là đối tượng của định nghĩa công chứng mới; các lựa chọn còn có chỉ giấy hoặc chỉ điện tử. Hình thức bao quát đúng là gì?"
       ]
     },
     "answers": [
@@ -5012,7 +5680,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-093",
@@ -5022,7 +5696,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?"
+        "Từ 01/01/2027, Bộ Tư pháp có trách nhiệm gì đối với danh mục giao dịch phải công chứng, chứng thực?",
+        "Từ 01/01/2027: Luật mới giao Bộ Tư pháp nhiệm vụ gì đối với việc rà soát, cập nhật và công khai giao dịch phải công chứng, chứng thực?",
+        "Từ 01/01/2027: Đơn vị định chỉ lưu danh mục giao dịch bắt buộc ở nội bộ, không cập nhật hoặc công khai. Trách nhiệm đầy đủ của Bộ Tư pháp theo luật mới là gì?"
       ]
     },
     "answers": [
@@ -5068,7 +5744,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-094",
@@ -5178,7 +5860,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, một CCV đã được bổ nhiệm trước ngày này nói quy định chuyển tiếp cho mình tiếp tục hành nghề nên mọi nghĩa vụ hành nghề mới và căn cứ tạm đình chỉ đều không áp dụng. Chỉ xét ý nghĩa khoản 1 Điều 3, đánh giá nào đúng?"
+        "Từ 01/01/2027, một CCV đã được bổ nhiệm trước ngày này nói quy định chuyển tiếp cho mình tiếp tục hành nghề nên mọi nghĩa vụ hành nghề mới và căn cứ tạm đình chỉ đều không áp dụng. Chỉ xét ý nghĩa khoản 1 Điều 3, đánh giá nào đúng?",
+        "Từ 01/01/2027: Khoản 1 Điều 3 chuyển tiếp cho công chứng viên được bổ nhiệm trước đó tiếp tục hành nghề có tạo miễn trừ toàn bộ nghĩa vụ mới không?",
+        "Từ 01/01/2027: Công chứng viên được bổ nhiệm trước ngày hiệu lực muốn vừa tiếp tục hành nghề vừa không áp dụng căn cứ tạm đình chỉ mới. Ý nghĩa điều khoản chuyển tiếp được hiểu thế nào?"
       ]
     },
     "answers": [
@@ -5230,7 +5914,11 @@
     "questionForm": "exception",
     "audit": {
       "reason": "independently_rewritten_and_verified",
-      "reviewedAt": "2026-10-06"
+      "reviewedAt": "2026-10-06",
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5241,7 +5929,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, cơ sở dữ liệu công chứng địa phương có trước ngày này được quản lý, khai thác theo cơ chế chuyển tiếp nào?"
+        "Từ 01/01/2027, cơ sở dữ liệu công chứng địa phương có trước ngày này được quản lý, khai thác theo cơ chế chuyển tiếp nào?",
+        "Từ 01/01/2027: Dữ liệu công chứng địa phương có từ trước hiệu lực luật mới được tiếp tục khai thác đến điều kiện chuyển đổi nào theo quy định chuyển tiếp?",
+        "Từ 01/01/2027: Hệ thống mới chưa vận hành hoặc dữ liệu cần thiết chưa đồng bộ; tỉnh định xóa ngay dữ liệu cũ vì luật mới đã có hiệu lực. Cơ chế chuyển tiếp đúng là gì?"
       ]
     },
     "answers": [
@@ -5287,7 +5977,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-098",
@@ -5297,7 +5993,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, Điều 3 khoản 6 Luật số 04/2026/QH16 dành thời hạn bao lâu, tính từ ngày luật có hiệu lực, để Chính phủ tổ chức rà soát và xử lý quy định về giao dịch phải công chứng?"
+        "Từ 01/01/2027, Điều 3 khoản 6 Luật số 04/2026/QH16 dành thời hạn bao lâu, tính từ ngày luật có hiệu lực, để Chính phủ tổ chức rà soát và xử lý quy định về giao dịch phải công chứng?",
+        "Từ 01/01/2027: Khoản 6 Điều 3 luật sửa đổi dành thời hạn bao lâu tính từ hiệu lực để Chính phủ tổ chức rà soát, xử lý quy định về giao dịch phải công chứng?",
+        "Từ 01/01/2027: Cơ quan lập kế hoạch rà soát và xử lý giao dịch phải công chứng theo khoản 6 Điều 3, định dành hai năm kể từ hiệu lực. Thời hạn đúng là gì?"
       ]
     },
     "answers": [
@@ -5343,7 +6041,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "recognition",
-    "questionForm": "direct"
+    "questionForm": "direct",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-099",
@@ -5353,7 +6057,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?"
+        "Khi công chứng giao dịch bất động sản từ 01/01/2027, ngoại lệ nào vẫn được liệt kê khỏi giới hạn phạm vi tỉnh, thành phố?",
+        "Từ 01/01/2027: Điều 44 mới vẫn đặt nhóm giao dịch nào ngoài giới hạn địa bàn bất động sản trong các phương án?",
+        "Từ 01/01/2027: Nhóm hồ sơ gồm di chúc, từ chối di sản, ủy quyền quyền về bất động sản và chuyển nhượng đất. Nhóm ngoại lệ địa bàn được luật mới liệt kê là gì?"
       ]
     },
     "answers": [
@@ -5399,7 +6105,13 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   },
   {
     "id": "CC-100",
@@ -5409,7 +6121,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, xét riêng nguyên tắc địa bàn tại khoản 1 Điều 44 mới, một giao dịch chuyển nhượng đất không thuộc ngoại lệ có đất ở tỉnh khác nơi tổ chức hành nghề công chứng đặt trụ sở. Kết luận nào phù hợp?"
+        "Từ 01/01/2027, xét riêng nguyên tắc địa bàn tại khoản 1 Điều 44 mới, một giao dịch chuyển nhượng đất không thuộc ngoại lệ có đất ở tỉnh khác nơi tổ chức hành nghề công chứng đặt trụ sở. Kết luận nào phù hợp?",
+        "Từ 01/01/2027: Giao dịch chuyển nhượng đất không thuộc ngoại lệ có đối tượng ở tỉnh khác nơi tổ chức đặt trụ sở. Chỉ xét khoản 1 Điều 44 mới, đánh giá thẩm quyền thế nào?",
+        "Từ 01/01/2027: Khách hàng cho rằng văn bản có giá trị toàn quốc nên có thể công chứng chuyển nhượng đất tỉnh khác tại mọi văn phòng. Giao dịch không thuộc ngoại lệ Điều 44 mới, kết luận là gì?"
       ]
     },
     "answers": [
@@ -5455,6 +6169,12 @@
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
     "difficulty": "understanding",
-    "questionForm": "exception"
+    "questionForm": "exception",
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+    }
   }
 ]

@@ -9,7 +9,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người bán liên tục nhìn người đi cùng trước khi trả lời và nói đang bị ép bán. Công chứng viên yêu cầu làm rõ nhưng người bán từ chối xác minh, vấn đề vẫn chưa rõ. Xử lý nào phù hợp?"
+        "Tháng 10/2026: Người bán liên tục nhìn người đi cùng trước khi trả lời và nói đang bị ép bán. Công chứng viên yêu cầu làm rõ nhưng người bán từ chối xác minh, vấn đề vẫn chưa rõ. Xử lý nào phù hợp?",
+        "Tháng 10/2026: Khi dấu hiệu cưỡng ép chưa được làm rõ và người yêu cầu từ chối xác minh, khoản 4 Điều 42 buộc công chứng viên xử lý thế nào?",
+        "Tháng 10/2026: Bên chuyển nhượng báo bị đe dọa nhưng không giải trình, không chấp nhận xác minh; người mua xin chứng nhận vì đã trả tiền. Vấn đề tự nguyện vẫn chưa rõ, phải xử lý ra sao?"
       ]
     },
     "answers": [
@@ -49,6 +51,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -61,7 +69,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Dự thảo hợp đồng có điều khoản vi phạm pháp luật. Công chứng viên đã chỉ rõ nhưng các bên yêu cầu giữ nguyên và cam kết tự chịu trách nhiệm. Cách xử lý đúng là gì?"
+        "Tháng 10/2026: Dự thảo hợp đồng có điều khoản vi phạm pháp luật. Công chứng viên đã chỉ rõ nhưng các bên yêu cầu giữ nguyên và cam kết tự chịu trách nhiệm. Cách xử lý đúng là gì?",
+        "Tháng 10/2026: Khoản 5 Điều 42 yêu cầu xử lý ra sao nếu đã chỉ rõ điều khoản trái luật nhưng người yêu cầu không sửa?",
+        "Tháng 10/2026: Các bên bổ sung cam kết miễn trách nhiệm cho công chứng viên để giữ nguyên điều khoản đã được xác định trái luật. Công chứng viên có thể tiếp tục chứng nhận không?"
       ]
     },
     "answers": [
@@ -101,6 +111,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -113,7 +129,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hồ sơ chưa phù hợp quy định nên công chứng viên từ chối tiếp nhận. Người yêu cầu đề nghị được biết lý do. Công chứng viên phải làm gì?"
+        "Tháng 10/2026: Hồ sơ chưa phù hợp quy định nên công chứng viên từ chối tiếp nhận. Người yêu cầu đề nghị được biết lý do. Công chứng viên phải làm gì?",
+        "Tháng 10/2026: Theo khoản 2 Điều 42, từ chối tiếp nhận hồ sơ không phù hợp pháp luật có kèm nghĩa vụ thông báo lý do không?",
+        "Tháng 10/2026: Khách hàng chưa được tiếp nhận hồ sơ và chưa nộp phí, nhưng xin biết vì sao bị trả hồ sơ. Nghĩa vụ giải thích của công chứng viên được thực hiện thế nào?"
       ]
     },
     "answers": [
@@ -153,6 +171,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -165,7 +189,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên nói đã nhờ luật sư soạn hợp đồng nên công chứng viên không cần giải thích quyền, nghĩa vụ; một bên đề nghị được đọc lại. Cách xử lý phù hợp?"
+        "Tháng 10/2026: Các bên nói đã nhờ luật sư soạn hợp đồng nên công chứng viên không cần giải thích quyền, nghĩa vụ; một bên đề nghị được đọc lại. Cách xử lý phù hợp?",
+        "Tháng 10/2026: Dự thảo do luật sư soạn có làm mất nghĩa vụ giải thích và cho người yêu cầu đọc lại theo khoản 3, khoản 6 Điều 42 không?",
+        "Tháng 10/2026: Một bên chưa hiểu nghĩa vụ thanh toán trong mẫu do luật sư chuẩn bị, đề nghị công chứng viên đọc và giải thích trước khi ký. Công chứng viên cần làm gì?"
       ]
     },
     "answers": [
@@ -211,6 +237,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -223,7 +255,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hồ sơ được tiếp nhận hợp lệ ngày thứ nhất; quá trình có thời gian xác minh tài liệu. Khi kiểm tra thời hạn công chứng, thời gian xác minh được xử lý ra sao?"
+        "Tháng 10/2026: Hồ sơ được tiếp nhận hợp lệ ngày thứ nhất; quá trình có thời gian xác minh tài liệu. Khi kiểm tra thời hạn công chứng, thời gian xác minh được xử lý ra sao?",
+        "Tháng 10/2026: Khoản 1 Điều 45 quy định thời gian xác minh tài liệu được tính vào thời hạn công chứng như thế nào?",
+        "Tháng 10/2026: Từ tiếp nhận hợp lệ đến trả hồ sơ có ba ngày chỉ dùng để xác minh nguồn gốc giấy tờ. Khi tính thời hạn xử lý công chứng, ba ngày này được tính ra sao?"
       ]
     },
     "answers": [
@@ -263,6 +297,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -275,7 +315,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một giao dịch phức tạp đã tiếp nhận hợp lệ nhưng xảy ra trở ngại khách quan khiến không thể trả đúng thời hạn. Luật cho phép giải pháp nào về thời hạn?"
+        "Tháng 10/2026: Một giao dịch phức tạp đã tiếp nhận hợp lệ nhưng xảy ra trở ngại khách quan khiến không thể trả đúng thời hạn. Luật cho phép giải pháp nào về thời hạn?",
+        "Tháng 10/2026: Khi có trở ngại khách quan làm không thể hoàn thành đúng hạn, khoản 2 Điều 45 cho các bên sử dụng cơ chế nào về thời hạn?",
+        "Tháng 10/2026: Việc giải quyết hồ sơ bị trở ngại khách quan và cần thêm thời gian; người yêu cầu đồng ý nhưng văn phòng định chỉ ghi nhận bằng lời nói. Cơ chế đúng để xác lập thời hạn là gì?"
       ]
     },
     "answers": [
@@ -315,6 +357,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -327,7 +375,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người yêu cầu đang điều trị nội trú tại bệnh viện và đề nghị công chứng tại phòng bệnh. Hồ sơ, ý chí và năng lực đều đủ điều kiện. Đánh giá nào phù hợp?"
+        "Tháng 10/2026: Người yêu cầu đang điều trị nội trú tại bệnh viện và đề nghị công chứng tại phòng bệnh. Hồ sơ, ý chí và năng lực đều đủ điều kiện. Đánh giá nào phù hợp?",
+        "Tháng 10/2026: Công chứng cho người đang điều trị nội trú tại bệnh viện thuộc trường hợp ngoài trụ sở nào và cần phản ánh gì trong lời chứng?",
+        "Tháng 10/2026: Người 35 tuổi đang điều trị nội trú, đủ ý chí và năng lực, đề nghị chứng nhận tại giường bệnh. Tuổi còn trẻ có loại trừ căn cứ công chứng ngoài trụ sở và yêu cầu lời chứng không?"
       ]
     },
     "answers": [
@@ -375,6 +425,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -447,7 +503,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người yêu cầu không ký được nhưng vẫn điểm chỉ được, đọc và nghe được; không có căn cứ khác bắt buộc người làm chứng. Kết luận nào đúng?"
+        "Tháng 10/2026: Người yêu cầu không ký được nhưng vẫn điểm chỉ được, đọc và nghe được; không có căn cứ khác bắt buộc người làm chứng. Kết luận nào đúng?",
+        "Tháng 10/2026: Chỉ riêng việc không ký được nhưng vẫn điểm chỉ, đọc và nghe được có làm phát sinh người làm chứng bắt buộc theo khoản 2 Điều 49 không?",
+        "Tháng 10/2026: Khách hàng bị chấn thương tay nên không ký được, nhưng vẫn điểm chỉ được và đọc, nghe bình thường. Không có căn cứ khác về người làm chứng; cần áp dụng thế nào?"
       ]
     },
     "answers": [
@@ -487,6 +545,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -499,7 +563,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người yêu cầu thuộc trường hợp cần người làm chứng nhưng không mời được; công chứng viên cũng không chỉ định được người đủ điều kiện. Xử lý nào đúng?"
+        "Tháng 10/2026: Người yêu cầu thuộc trường hợp cần người làm chứng nhưng không mời được; công chứng viên cũng không chỉ định được người đủ điều kiện. Xử lý nào đúng?",
+        "Tháng 10/2026: Theo khoản 2 Điều 49, nếu bắt buộc có người làm chứng nhưng cả người yêu cầu và công chứng viên đều không tìm được người đủ điều kiện thì xử lý ra sao?",
+        "Tháng 10/2026: Người không đọc được không mời được người làm chứng; người do văn phòng dự kiến chỉ định cũng không đạt điều kiện và không có người khác. Có thể thay bằng cam đoan để tiếp tục không?"
       ]
     },
     "answers": [
@@ -539,6 +605,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -551,7 +623,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người mua không thông thạo tiếng Việt, đề nghị dùng người bán thông thạo hai ngôn ngữ làm phiên dịch. Công chứng viên nên xử lý thế nào?"
+        "Tháng 10/2026: Người mua không thông thạo tiếng Việt, đề nghị dùng người bán thông thạo hai ngôn ngữ làm phiên dịch. Công chứng viên nên xử lý thế nào?",
+        "Tháng 10/2026: Khoản 3 Điều 49 yêu cầu gì về sự độc lập của người phiên dịch khi người mua không thông thạo tiếng Việt?",
+        "Tháng 10/2026: Bên mua cần phiên dịch; bên bán đề nghị tự dịch vì nói thành thạo cả hai thứ tiếng và bên mua đồng ý. Công chứng viên phải kiểm tra điều kiện phiên dịch thế nào?"
       ]
     },
     "answers": [
@@ -591,6 +665,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -603,7 +683,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Dự thảo lời chứng ghi công chứng viên không chịu trách nhiệm về tính hợp pháp vì khách hàng tự soạn. Đánh giá nào đúng?"
+        "Tháng 10/2026: Dự thảo lời chứng ghi công chứng viên không chịu trách nhiệm về tính hợp pháp vì khách hàng tự soạn. Đánh giá nào đúng?",
+        "Tháng 10/2026: Khoản 3 Điều 48 cho phép lời chứng loại trừ trách nhiệm kiểm tra tính hợp pháp vì người yêu cầu tự soạn dự thảo không?",
+        "Tháng 10/2026: Văn phòng muốn dùng mẫu lời chứng có dòng miễn trách nhiệm công chứng viên đối với tính hợp pháp; khách hàng sẵn sàng ký chấp thuận. Dòng này có được đưa vào lời chứng không?"
       ]
     },
     "answers": [
@@ -643,6 +725,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -655,7 +743,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng ghi nhầm giá từ 3 tỷ thành 300 triệu; các bên muốn gọi đó là lỗi đánh máy và sửa theo thủ tục lỗi kỹ thuật. Lựa chọn nào phù hợp?"
+        "Tháng 10/2026: Hợp đồng ghi nhầm giá từ 3 tỷ thành 300 triệu; các bên muốn gọi đó là lỗi đánh máy và sửa theo thủ tục lỗi kỹ thuật. Lựa chọn nào phù hợp?",
+        "Tháng 10/2026: Theo khoản 1 Điều 52, nhầm số tiền làm thay đổi nghĩa vụ thanh toán có thể được xử lý như lỗi kỹ thuật không?",
+        "Tháng 10/2026: Văn bản công chứng ghi giá 300 triệu thay vì 3 tỷ; dù cả hai bên xác nhận do gõ thiếu số, sửa như vậy ảnh hưởng nghĩa vụ thanh toán. Được dùng thủ tục lỗi kỹ thuật không?"
       ]
     },
     "answers": [
@@ -695,6 +785,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -707,7 +803,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai bên đã công chứng hợp đồng; sau đó chỉ bên bán yêu cầu công chứng văn bản thỏa thuận chấm dứt, bên mua không đồng ý; không có ngoại lệ luật định. Cách xử lý đúng?"
+        "Tháng 10/2026: Hai bên đã công chứng hợp đồng; sau đó chỉ bên bán yêu cầu công chứng văn bản thỏa thuận chấm dứt, bên mua không đồng ý; không có ngoại lệ luật định. Cách xử lý đúng?",
+        "Tháng 10/2026: Không có ngoại lệ luật định, công chứng thỏa thuận chấm dứt hợp đồng đã công chứng cần sự đồng ý của các bên như thế nào theo khoản 1 Điều 53?",
+        "Tháng 10/2026: Bên mua không chấp thuận chấm dứt, nhưng bên bán đề nghị văn phòng chứng nhận thỏa thuận chấm dứt chỉ do mình ký. Dữ kiện không có ngoại lệ; đủ điều kiện chưa?"
       ]
     },
     "answers": [
@@ -747,6 +845,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -759,7 +863,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Văn phòng từng công chứng hợp đồng đã giải thể; hồ sơ đã chuyển cho tổ chức X lưu trữ. Các bên muốn công chứng sửa đổi hợp đồng. Nơi nào phù hợp theo quy tắc này?"
+        "Tháng 10/2026: Văn phòng từng công chứng hợp đồng đã giải thể; hồ sơ đã chuyển cho tổ chức X lưu trữ. Các bên muốn công chứng sửa đổi hợp đồng. Nơi nào phù hợp theo quy tắc này?",
+        "Tháng 10/2026: Theo khoản 2 Điều 53, khi tổ chức đã công chứng giải thể, tổ chức nào thực hiện công chứng sửa đổi giao dịch có hồ sơ đã chuyển lưu?",
+        "Tháng 10/2026: Hợp đồng do văn phòng A chứng nhận; A giải thể và hồ sơ chuyển sang X. Các bên muốn sửa hợp đồng tại văn phòng thuận tiện hơn. Theo quy tắc nơi lưu hồ sơ, chọn nơi nào?"
       ]
     },
     "answers": [
@@ -799,6 +905,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -811,7 +923,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Bất động sản đã thế chấp bằng hợp đồng công chứng tại X. X vẫn hoạt động; tài sản được phép thế chấp tiếp. Các bên muốn công chứng thế chấp lần hai tại Y cùng tỉnh. Lựa chọn nào đúng?"
+        "Tháng 10/2026: Bất động sản đã thế chấp bằng hợp đồng công chứng tại X. X vẫn hoạt động; tài sản được phép thế chấp tiếp. Các bên muốn công chứng thế chấp lần hai tại Y cùng tỉnh. Lựa chọn nào đúng?",
+        "Tháng 10/2026: Khoản 2 Điều 56 xác định nơi công chứng các hợp đồng thế chấp tiếp theo thế nào khi tổ chức công chứng lần đầu vẫn hoạt động?",
+        "Tháng 10/2026: Một căn nhà đủ điều kiện thế chấp tiếp đã được thế chấp công chứng tại X. Ngân hàng mới chọn Y cùng tỉnh; X vẫn hoạt động. Chỉ xét quy tắc công chứng lần tiếp theo, chọn kết luận nào?"
       ]
     },
     "answers": [
@@ -851,6 +965,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -863,7 +983,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người phiên dịch đã tham gia công chứng phát hiện việc công chứng có căn cứ vi phạm pháp luật. Người đó có thể đề nghị ai tuyên văn bản vô hiệu theo Điều 54?"
+        "Tháng 10/2026: Người phiên dịch đã tham gia công chứng phát hiện việc công chứng có căn cứ vi phạm pháp luật. Người đó có thể đề nghị ai tuyên văn bản vô hiệu theo Điều 54?",
+        "Tháng 10/2026: Người phiên dịch đã tham gia công chứng có quyền đề nghị chủ thể nào tuyên văn bản công chứng vô hiệu theo Điều 54?",
+        "Tháng 10/2026: Người phiên dịch phát hiện chứng nhận có vi phạm pháp luật, muốn yêu cầu tuyên văn bản vô hiệu thay vì xin văn phòng đóng dấu hủy. Hướng yêu cầu đúng là gì?"
       ]
     },
     "answers": [
@@ -902,6 +1024,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -914,7 +1042,9 @@
     "questionForm": "workflow",
     "question": {
       "variants": [
-        "Tháng 10/2026: Khách hàng đề nghị ghi thêm giờ, phút công chứng để phân biệt hai giao dịch cùng ngày. Đánh giá nào đúng?"
+        "Tháng 10/2026: Khách hàng đề nghị ghi thêm giờ, phút công chứng để phân biệt hai giao dịch cùng ngày. Đánh giá nào đúng?",
+        "Tháng 10/2026: Theo khoản 2 Điều 47, yêu cầu ghi thêm giờ, phút có được chấp nhận và có thay phần ngày, tháng, năm không?",
+        "Tháng 10/2026: Hai giao dịch được công chứng cùng ngày nên khách hàng muốn ghi giờ, phút để xác định thứ tự. Thời điểm phải được ghi thế nào?"
       ]
     },
     "answers": [
@@ -954,6 +1084,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -966,7 +1102,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên được phân công công chứng hợp đồng bán nhà của cha vợ mình. Các bên tự nguyện và hồ sơ hợp lệ. Lựa chọn đúng là gì?"
+        "Tháng 10/2026: Công chứng viên được phân công công chứng hợp đồng bán nhà của cha vợ mình. Các bên tự nguyện và hồ sơ hợp lệ. Lựa chọn đúng là gì?",
+        "Tháng 10/2026: Cha đẻ của vợ có thuộc người thân thích làm công chứng viên bị cấm công chứng giao dịch liên quan tài sản của họ theo Điều 9 không?",
+        "Tháng 10/2026: Người bán là cha đẻ của vợ công chứng viên; bên mua nói không khiếu nại nên xin chính người này chứng nhận. Hồ sơ hợp lệ và các bên tự nguyện. Áp dụng lệnh cấm thế nào?"
       ]
     },
     "answers": [
@@ -1007,6 +1145,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1019,7 +1163,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Khách quen gọi xin bản sao nội dung giao dịch của người khác, nói sẽ giữ kín. Không có sự đồng ý bằng văn bản hay căn cứ pháp luật cho cung cấp. Cách xử lý đúng?"
+        "Tháng 10/2026: Khách quen gọi xin bản sao nội dung giao dịch của người khác, nói sẽ giữ kín. Không có sự đồng ý bằng văn bản hay căn cứ pháp luật cho cung cấp. Cách xử lý đúng?",
+        "Tháng 10/2026: Không có đồng ý bằng văn bản hoặc căn cứ pháp luật khác, công chứng viên có được cung cấp nội dung giao dịch cho khách quen không?",
+        "Tháng 10/2026: Một người từng sử dụng dịch vụ xin thông tin hợp đồng của hàng xóm và hứa không tiết lộ. Không có quyền tiếp cận theo luật hay đồng ý bằng văn bản; phải xử lý thế nào?"
       ]
     },
     "answers": [
@@ -1067,6 +1213,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1079,7 +1231,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng áp dụng chế độ tài sản luật định, mua đất bằng tiền lương trong hôn nhân; giấy chứng nhận chỉ ghi tên chồng. Chồng muốn bán một mình, không có ủy quyền. Kết luận phù hợp?"
+        "Tháng 10/2026: Vợ chồng áp dụng chế độ tài sản luật định, mua đất bằng tiền lương trong hôn nhân; giấy chứng nhận chỉ ghi tên chồng. Chồng muốn bán một mình, không có ủy quyền. Kết luận phù hợp?",
+        "Tháng 10/2026: Theo chế độ luật định, đất mua bằng tiền lương trong hôn nhân nhưng chỉ ghi tên chồng có được tự coi là riêng khi chồng bán không?",
+        "Tháng 10/2026: Vợ chồng dùng thu nhập trong hôn nhân mua đất, chưa chia tài sản; chồng đứng tên giấy và tự đến bán, không được vợ ủy quyền. Yêu cầu về tài sản và thỏa thuận là gì?"
       ]
     },
     "answers": [
@@ -1132,6 +1286,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1144,7 +1304,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ được cha mẹ tặng cho riêng thửa đất trong hôn nhân; văn bản ghi rõ cho riêng, chưa nhập vào tài sản chung, không thuộc ngoại lệ hạn chế định đoạt. Tính chất tài sản là gì?"
+        "Tháng 10/2026: Vợ được cha mẹ tặng cho riêng thửa đất trong hôn nhân; văn bản ghi rõ cho riêng, chưa nhập vào tài sản chung, không thuộc ngoại lệ hạn chế định đoạt. Tính chất tài sản là gì?",
+        "Tháng 10/2026: Đất được tặng cho riêng vợ trong hôn nhân, chưa nhập chung, được phân loại thế nào theo khoản 1 Điều 43?",
+        "Tháng 10/2026: Văn bản cha mẹ tặng đất ghi chỉ cho con gái; cấp giấy trong thời kỳ hôn nhân và chồng giúp làm thủ tục. Chưa nhập chung và không có ngoại lệ hạn chế. Tài sản thuộc loại nào?"
       ]
     },
     "answers": [
@@ -1190,6 +1352,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1202,7 +1370,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ bán tài sản riêng, dùng toàn bộ tiền đó mua đất; nguồn tiền riêng được chứng minh, không có thỏa thuận nhập chung. Đất mới được xác định thế nào?"
+        "Tháng 10/2026: Vợ bán tài sản riêng, dùng toàn bộ tiền đó mua đất; nguồn tiền riêng được chứng minh, không có thỏa thuận nhập chung. Đất mới được xác định thế nào?",
+        "Tháng 10/2026: Theo khoản 2 Điều 43, tài sản mua hoàn toàn từ tài sản riêng có nguồn gốc được chứng minh và chưa nhập chung được xác định thế nào?",
+        "Tháng 10/2026: Vợ bán đất được cho riêng rồi dùng đúng khoản tiền đó mua thửa khác, có đủ chứng từ và không thỏa thuận nhập chung. Mua trong hôn nhân có làm thửa mới thành chung không?"
       ]
     },
     "answers": [
@@ -1248,6 +1418,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1260,7 +1436,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ có căn hộ riêng trước hôn nhân. Tiền cho thuê phát sinh trong hôn nhân, chưa chia tài sản chung, không có chế độ thỏa thuận khác. Tiền cho thuê thuộc loại nào?"
+        "Tháng 10/2026: Vợ có căn hộ riêng trước hôn nhân. Tiền cho thuê phát sinh trong hôn nhân, chưa chia tài sản chung, không có chế độ thỏa thuận khác. Tiền cho thuê thuộc loại nào?",
+        "Tháng 10/2026: Trong chế độ luật định chưa chia tài sản chung, lợi tức từ căn hộ riêng phát sinh trong hôn nhân thuộc loại tài sản nào?",
+        "Tháng 10/2026: Chồng sở hữu căn hộ trước kết hôn và thu tiền thuê trong hôn nhân; vợ chồng chưa chia chung, không có chế độ thỏa thuận khác. Phân loại riêng khoản tiền thuê ra sao?"
       ]
     },
     "answers": [
@@ -1306,6 +1484,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1318,7 +1502,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng tranh chấp quyền sở hữu một tài sản; không bên nào chứng minh được là riêng. Theo quy tắc chứng minh của Luật HNGĐ, tài sản được coi là gì?"
+        "Tháng 10/2026: Vợ chồng tranh chấp quyền sở hữu một tài sản; không bên nào chứng minh được là riêng. Theo quy tắc chứng minh của Luật HNGĐ, tài sản được coi là gì?",
+        "Tháng 10/2026: Khoản 3 Điều 33 đặt suy đoán nào khi tài sản đang tranh chấp không được chứng minh là tài sản riêng?",
+        "Tháng 10/2026: Vợ giữ giấy chứng nhận, chồng cho rằng mình kiếm tiền mua nhưng cả hai không chứng minh được nguồn riêng của tài sản đang tranh chấp. Luật đặt giả định tài sản nào?"
       ]
     },
     "answers": [
@@ -1358,6 +1544,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1370,7 +1562,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ muốn bán xe ô tô là tài sản chung; chồng chỉ đồng ý miệng, chưa có thỏa thuận văn bản. Yêu cầu pháp lý nào phù hợp?"
+        "Tháng 10/2026: Vợ muốn bán xe ô tô là tài sản chung; chồng chỉ đồng ý miệng, chưa có thỏa thuận văn bản. Yêu cầu pháp lý nào phù hợp?",
+        "Tháng 10/2026: Định đoạt ô tô là động sản chung phải đăng ký sở hữu cần hình thức thỏa thuận nào theo khoản 2 Điều 35?",
+        "Tháng 10/2026: Ô tô là tài sản chung chỉ đứng tên chồng; vợ đồng ý bán qua điện thoại, chưa có văn bản. Khi bán xe, yêu cầu thỏa thuận cần đáp ứng là gì?"
       ]
     },
     "answers": [
@@ -1411,6 +1605,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1423,7 +1623,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Máy sản xuất là tài sản chung, không thuộc loại phải đăng ký sở hữu nhưng đang tạo thu nhập chủ yếu cho gia đình. Một người muốn bán máy. Yêu cầu về thỏa thuận là gì?"
+        "Tháng 10/2026: Máy sản xuất là tài sản chung, không thuộc loại phải đăng ký sở hữu nhưng đang tạo thu nhập chủ yếu cho gia đình. Một người muốn bán máy. Yêu cầu về thỏa thuận là gì?",
+        "Tháng 10/2026: Tài sản chung không phải đăng ký nhưng là nguồn tạo thu nhập chủ yếu của gia đình cần hình thức thỏa thuận nào khi định đoạt?",
+        "Tháng 10/2026: Vợ muốn bán máy làm nghề của gia đình; máy không phải đăng ký nhưng tạo thu nhập chủ yếu. Chỉ chồng đồng ý miệng, hình thức thỏa thuận phải thế nào?"
       ]
     },
     "answers": [
@@ -1464,6 +1666,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1476,7 +1684,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng đã thỏa thuận bằng văn bản cho chồng đưa tài sản chung vào kinh doanh; giao dịch đang xét thuộc phạm vi thỏa thuận. Quyền giao dịch của chồng theo Điều 36 ra sao?"
+        "Tháng 10/2026: Vợ chồng đã thỏa thuận bằng văn bản cho chồng đưa tài sản chung vào kinh doanh; giao dịch đang xét thuộc phạm vi thỏa thuận. Quyền giao dịch của chồng theo Điều 36 ra sao?",
+        "Tháng 10/2026: Điều 36 quy định quyền giao dịch của người được vợ chồng thỏa thuận bằng văn bản đưa tài sản chung vào kinh doanh như thế nào trong phạm vi thỏa thuận?",
+        "Tháng 10/2026: Vợ được văn bản thỏa thuận giao đưa tài sản chung vào kinh doanh, nay ký giao dịch thuộc đúng phạm vi đó. Có cần coi tài sản thành riêng hay bắt chồng ký từng giao dịch không?"
       ]
     },
     "answers": [
@@ -1515,6 +1725,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1527,7 +1743,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chồng có tài sản riêng nhưng lợi tức từ tài sản đó là nguồn sống duy nhất của gia đình. Muốn định đoạt tài sản, chồng phải lưu ý gì?"
+        "Tháng 10/2026: Chồng có tài sản riêng nhưng lợi tức từ tài sản đó là nguồn sống duy nhất của gia đình. Muốn định đoạt tài sản, chồng phải lưu ý gì?",
+        "Tháng 10/2026: Quyền định đoạt tài sản riêng bị hạn chế ra sao khi hoa lợi, lợi tức của nó là nguồn sống duy nhất của gia đình theo khoản 4 Điều 44?",
+        "Tháng 10/2026: Vợ có xưởng riêng; lợi tức xưởng là nguồn sống duy nhất của gia đình. Vợ muốn bán xưởng và nói tài sản riêng nên tự quyết. Điều kiện cần xét là gì?"
       ]
     },
     "answers": [
@@ -1567,6 +1785,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1579,7 +1803,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Căn nhà riêng của vợ là nơi ở duy nhất của vợ chồng; vợ dự định bán và chưa có phương án bảo đảm chỗ ở. Nhận định nghiệp vụ phù hợp nhất?"
+        "Tháng 10/2026: Căn nhà riêng của vợ là nơi ở duy nhất của vợ chồng; vợ dự định bán và chưa có phương án bảo đảm chỗ ở. Nhận định nghiệp vụ phù hợp nhất?",
+        "Tháng 10/2026: Điều 31 yêu cầu chủ sở hữu riêng lưu ý điều gì khi giao dịch nhà là nơi ở duy nhất của vợ chồng?",
+        "Tháng 10/2026: Chồng có nhà riêng nhưng cả hai vợ chồng chỉ ở nhà đó; khi bán, chồng chưa có phương án chỗ ở cho gia đình. Nội dung nào phải làm rõ?"
       ]
     },
     "answers": [
@@ -1624,6 +1850,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1636,7 +1868,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng muốn chia một phần tài sản chung trong hôn nhân, không thuộc trường hợp vô hiệu. Hình thức thỏa thuận theo Điều 38 là gì?"
+        "Tháng 10/2026: Vợ chồng muốn chia một phần tài sản chung trong hôn nhân, không thuộc trường hợp vô hiệu. Hình thức thỏa thuận theo Điều 38 là gì?",
+        "Tháng 10/2026: Khoản 2 Điều 38 yêu cầu hình thức gì cho thỏa thuận chia tài sản chung trong hôn nhân, khi không thuộc trường hợp vô hiệu?",
+        "Tháng 10/2026: Vợ chồng thống nhất chia một phần tài sản chung, định nói miệng trước người thân và cho rằng chỉ Tòa án mới lập văn bản. Cần áp dụng yêu cầu hình thức nào?"
       ]
     },
     "answers": [
@@ -1676,6 +1910,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1688,7 +1928,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng vay chung rồi thỏa thuận chia hết tài sản cho vợ. Chủ nợ không đồng ý miễn nghĩa vụ cho chồng. Hệ quả đúng là gì?"
+        "Tháng 10/2026: Vợ chồng vay chung rồi thỏa thuận chia hết tài sản cho vợ. Chủ nợ không đồng ý miễn nghĩa vụ cho chồng. Hệ quả đúng là gì?",
+        "Tháng 10/2026: Chia tài sản chung trong hôn nhân có tự thay đổi quyền, nghĩa vụ đã xác lập với người thứ ba không?",
+        "Tháng 10/2026: Vợ chồng cùng có khoản nợ, sau đó chuyển hết tài sản chung cho chồng bằng thỏa thuận chia. Chủ nợ chưa đồng ý miễn nghĩa vụ cho vợ. Quyền đòi nợ bị ảnh hưởng thế nào?"
       ]
     },
     "answers": [
@@ -1734,6 +1976,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1746,7 +1994,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Sau khi chia tài sản chung hợp pháp, căn hộ được chia riêng cho vợ và phát sinh tiền thuê; không có thỏa thuận khác. Tiền thuê sau chia được xác định thế nào?"
+        "Tháng 10/2026: Sau khi chia tài sản chung hợp pháp, căn hộ được chia riêng cho vợ và phát sinh tiền thuê; không có thỏa thuận khác. Tiền thuê sau chia được xác định thế nào?",
+        "Tháng 10/2026: Theo khoản 1 Điều 40, lợi tức từ tài sản riêng sau chia tài sản chung được xác định thế nào nếu không có thỏa thuận khác?",
+        "Tháng 10/2026: Vợ chồng chia chung hợp pháp, căn hộ thành riêng của chồng. Tiền thuê phát sinh sau chia và không có thỏa thuận khác. Còn hôn nhân có khiến tiền thuê mặc nhiên là chung không?"
       ]
     },
     "answers": [
@@ -1786,6 +2036,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1798,7 +2054,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ chồng chấm dứt hiệu lực thỏa thuận chia tài sản chung nhưng không thỏa thuận nhập lại tài sản đã chia riêng. Tài sản đã chia được xử lý thế nào?"
+        "Tháng 10/2026: Vợ chồng chấm dứt hiệu lực thỏa thuận chia tài sản chung nhưng không thỏa thuận nhập lại tài sản đã chia riêng. Tài sản đã chia được xử lý thế nào?",
+        "Tháng 10/2026: Chấm dứt hiệu lực chia tài sản chung có tự nhập lại tài sản đã chia riêng theo khoản 2 Điều 41 không?",
+        "Tháng 10/2026: Hai người lập văn bản chấm dứt hiệu lực thỏa thuận chia chung nhưng không ghi nhập lại căn hộ đã chia cho vợ. Căn hộ đã chia được xác định thế nào?"
       ]
     },
     "answers": [
@@ -1838,6 +2096,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1850,7 +2114,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chồng muốn nhập quyền sử dụng đất riêng vào tài sản chung; giao dịch về tài sản này phải tuân thủ hình thức luật định. Yêu cầu nào đúng?"
+        "Tháng 10/2026: Chồng muốn nhập quyền sử dụng đất riêng vào tài sản chung; giao dịch về tài sản này phải tuân thủ hình thức luật định. Yêu cầu nào đúng?",
+        "Tháng 10/2026: Điều 46 yêu cầu gì đối với thỏa thuận nhập tài sản riêng vào chung khi loại tài sản phải tuân thủ hình thức luật định?",
+        "Tháng 10/2026: Vợ muốn nhập thửa đất riêng vào chung và giao giấy chứng nhận cho chồng giữ. Nếu giao dịch về đất có yêu cầu hình thức, việc nhập chung cần thực hiện thế nào?"
       ]
     },
     "answers": [
@@ -1896,6 +2162,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1908,7 +2180,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai người chưa kết hôn lựa chọn chế độ tài sản theo thỏa thuận. Họ lập văn bản nhưng không công chứng, chứng thực rồi đăng ký kết hôn. Điều kiện hình thức còn thiếu là gì?"
+        "Tháng 10/2026: Hai người chưa kết hôn lựa chọn chế độ tài sản theo thỏa thuận. Họ lập văn bản nhưng không công chứng, chứng thực rồi đăng ký kết hôn. Điều kiện hình thức còn thiếu là gì?",
+        "Tháng 10/2026: Điều 47 yêu cầu văn bản lựa chọn chế độ tài sản lập trước kết hôn phải đáp ứng hình thức gì?",
+        "Tháng 10/2026: Hai người ký thỏa thuận chế độ tài sản trước hôn nhân, chỉ có chữ ký người làm chứng, không công chứng hoặc chứng thực. Sau đó kết hôn; yêu cầu hình thức nào còn thiếu?"
       ]
     },
     "answers": [
@@ -1947,6 +2221,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -1959,7 +2239,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai bên lập thỏa thuận chế độ tài sản có công chứng ngày 01/10, đăng ký kết hôn ngày 20/10. Chế độ theo thỏa thuận được xác lập từ khi nào?"
+        "Tháng 10/2026: Hai bên lập thỏa thuận chế độ tài sản có công chứng ngày 01/10, đăng ký kết hôn ngày 20/10. Chế độ theo thỏa thuận được xác lập từ khi nào?",
+        "Tháng 10/2026: Thỏa thuận chế độ tài sản được công chứng ngày 01/10 và đăng ký kết hôn ngày 20/10. Theo Điều 47, chế độ này được xác lập khi nào?",
+        "Tháng 10/2026: Ngày 01/10 hai người hoàn tất công chứng thỏa thuận trước hôn nhân, đến 20/10 mới đăng ký kết hôn. Một bên muốn áp dụng chế độ tài sản ngay từ 01/10. Mốc đúng là gì?"
       ]
     },
     "answers": [
@@ -1998,6 +2280,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2010,7 +2298,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chế độ tài sản theo thỏa thuận không nói rõ cách xử lý một giao dịch. Hướng áp dụng luật phù hợp?"
+        "Tháng 10/2026: Chế độ tài sản theo thỏa thuận không nói rõ cách xử lý một giao dịch. Hướng áp dụng luật phù hợp?",
+        "Tháng 10/2026: Theo khoản 2 Điều 48, chế độ tài sản theo thỏa thuận có nội dung thiếu hoặc chưa rõ thì dùng cơ chế bổ sung nào?",
+        "Tháng 10/2026: Văn bản thỏa thuận hợp lệ chưa xác định việc giải quyết một vấn đề tài sản đang phát sinh. Vợ chồng không có thỏa thuận bổ sung; nhóm quy định nào được áp dụng?"
       ]
     },
     "answers": [
@@ -2050,6 +2340,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2062,7 +2358,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chồng chết; căn nhà 4 tỷ là tài sản chung theo chế độ luật định, không có thỏa thuận khác, chưa xét nghĩa vụ tài sản. Phần giá trị của chồng đưa vào chia thừa kế là bao nhiêu?"
+        "Tháng 10/2026: Chồng chết; căn nhà 4 tỷ là tài sản chung theo chế độ luật định, không có thỏa thuận khác, chưa xét nghĩa vụ tài sản. Phần giá trị của chồng đưa vào chia thừa kế là bao nhiêu?",
+        "Tháng 10/2026: Theo khoản 2 Điều 66, chồng chết để lại phần trong nhà chung 4 tỷ; không có thỏa thuận khác và chưa xét nghĩa vụ. Giá trị phần của chồng để chia thừa kế là bao nhiêu?",
+        "Tháng 10/2026: Vợ còn sống trong căn nhà chung luật định trị giá 4 tỷ, chồng vừa chết. Trước khi tính suất thừa kế, không có thỏa thuận khác và chưa trừ nghĩa vụ, cần đưa phần giá trị nào vào di sản của chồng?"
       ]
     },
     "answers": [
@@ -2102,6 +2400,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2114,7 +2418,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ quản lý tài sản chung sau khi chồng chết và cho rằng mình đương nhiên được sở hữu toàn bộ. Nhận định đúng?"
+        "Tháng 10/2026: Vợ quản lý tài sản chung sau khi chồng chết và cho rằng mình đương nhiên được sở hữu toàn bộ. Nhận định đúng?",
+        "Tháng 10/2026: Điều 66 phân biệt quyền quản lý của vợ còn sống với quyền hưởng toàn bộ và quyền yêu cầu hạn chế chia di sản như thế nào?",
+        "Tháng 10/2026: Vợ giữ, quản lý toàn bộ tài sản chung sau khi chồng chết; việc chia có thể ảnh hưởng nghiêm trọng đời sống gia đình. Điều này có làm vợ thành chủ toàn bộ, hay cần dùng cơ chế nào?"
       ]
     },
     "answers": [
@@ -2160,6 +2466,12 @@
       "id": "OFFICIAL-HNGD-HN25",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2172,7 +2484,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đất đang có tranh chấp chưa được cơ quan có thẩm quyền giải quyết; bên bán có giấy chứng nhận và đề nghị công chứng chuyển nhượng, nói bên mua biết tranh chấp. Kết luận nào đúng?"
+        "Tháng 10/2026: Đất đang có tranh chấp chưa được cơ quan có thẩm quyền giải quyết; bên bán có giấy chứng nhận và đề nghị công chứng chuyển nhượng, nói bên mua biết tranh chấp. Kết luận nào đúng?",
+        "Tháng 10/2026: Theo điểm b khoản 1 Điều 45 Luật Đất đai, đất đang tranh chấp chưa được giải quyết có đáp ứng điều kiện chuyển nhượng chỉ nhờ có giấy chứng nhận không?",
+        "Tháng 10/2026: Bên mua nhận giá thấp và biết đất đang tranh chấp chưa được giải quyết, đồng ý tự chịu rủi ro. Có giấy chứng nhận có đủ để khắc phục điều kiện tranh chấp không?"
       ]
     },
     "answers": [
@@ -2213,6 +2527,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2225,7 +2545,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tranh chấp đất đã được Tòa án giải quyết bằng bản án có hiệu lực; các điều kiện khác đều đáp ứng. Có thể chỉ vì từng có tranh chấp mà kết luận không chuyển nhượng được không?"
+        "Tháng 10/2026: Tranh chấp đất đã được Tòa án giải quyết bằng bản án có hiệu lực; các điều kiện khác đều đáp ứng. Có thể chỉ vì từng có tranh chấp mà kết luận không chuyển nhượng được không?",
+        "Tháng 10/2026: Điểm b khoản 1 Điều 45 Luật Đất đai đánh giá đất đã được giải quyết tranh chấp bằng bản án có hiệu lực thế nào nếu các điều kiện khác đều đáp ứng?",
+        "Tháng 10/2026: Công chứng viên thấy hồ sơ có bản án giải quyết tranh chấp đất đã có hiệu lực; không còn thiếu điều kiện nào khác. Có được loại giao dịch chỉ vì lịch sử từng tranh chấp không?"
       ]
     },
     "answers": [
@@ -2266,6 +2588,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2278,7 +2606,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Quyền sử dụng đất bị kê biên bảo đảm thi hành án; chủ đất đề nghị bán để có tiền trả nợ, chưa có quyết định giải tỏa. Đánh giá đúng?"
+        "Tháng 10/2026: Quyền sử dụng đất bị kê biên bảo đảm thi hành án; chủ đất đề nghị bán để có tiền trả nợ, chưa có quyết định giải tỏa. Đánh giá đúng?",
+        "Tháng 10/2026: Đất đang bị kê biên bảo đảm thi hành án, chưa giải tỏa, có đáp ứng điều kiện chuyển nhượng tại khoản 1 Điều 45 không?",
+        "Tháng 10/2026: Người mua nhận trả nợ thay chủ đất để đổi lấy thửa đang bị kê biên; chưa có giải tỏa. Mục đích trả nợ có loại bỏ điều kiện không bị kê biên không?"
       ]
     },
     "answers": [
@@ -2319,6 +2649,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2331,7 +2667,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tòa án đang áp dụng biện pháp khẩn cấp tạm thời đối với quyền sử dụng đất; các bên vẫn yêu cầu công chứng tặng cho. Điều kiện nào chưa đáp ứng?"
+        "Tháng 10/2026: Tòa án đang áp dụng biện pháp khẩn cấp tạm thời đối với quyền sử dụng đất; các bên vẫn yêu cầu công chứng tặng cho. Điều kiện nào chưa đáp ứng?",
+        "Tháng 10/2026: Khoản 1 Điều 45 Luật Đất đai yêu cầu gì về biện pháp khẩn cấp tạm thời khi thực hiện quyền tặng cho đất?",
+        "Tháng 10/2026: Cha muốn tặng cho con quyền sử dụng đất đang bị áp dụng biện pháp khẩn cấp tạm thời; cho rằng không thu tiền thì không bị hạn chế. Điều kiện nào đang thiếu?"
       ]
     },
     "answers": [
@@ -2372,6 +2710,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2384,7 +2728,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tổ chức sử dụng đất thương mại, dịch vụ có thời hạn; thời hạn đã hết, chưa được gia hạn và không thuộc trường hợp tự tiếp tục sử dụng. Tổ chức muốn chuyển nhượng ngay. Lựa chọn đúng?"
+        "Tháng 10/2026: Tổ chức sử dụng đất thương mại, dịch vụ có thời hạn; thời hạn đã hết, chưa được gia hạn và không thuộc trường hợp tự tiếp tục sử dụng. Tổ chức muốn chuyển nhượng ngay. Lựa chọn đúng?",
+        "Tháng 10/2026: Đất thương mại có thời hạn đã hết, chưa gia hạn, không được tự tiếp tục sử dụng phải được kiểm tra điều kiện nào trước chuyển nhượng?",
+        "Tháng 10/2026: Giấy chứng nhận đất thương mại chưa bị thu hồi nhưng thời hạn đã hết, chưa gia hạn và không thuộc trường hợp tiếp tục sử dụng. Bên mua hứa tự gia hạn sau. Hướng kiểm tra đúng là gì?"
       ]
     },
     "answers": [
@@ -2425,6 +2771,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2437,7 +2789,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người nhận thừa kế đất chưa có giấy chứng nhận nhưng đủ điều kiện được cấp; muốn thực hiện quyền theo khoản 4 Điều 45. Kết luận phù hợp?"
+        "Tháng 10/2026: Người nhận thừa kế đất chưa có giấy chứng nhận nhưng đủ điều kiện được cấp; muốn thực hiện quyền theo khoản 4 Điều 45. Kết luận phù hợp?",
+        "Tháng 10/2026: Khoản 4 Điều 45 Luật Đất đai đặt điều kiện giấy chứng nhận thế nào cho người nhận thừa kế thực hiện quyền khi đủ điều kiện được cấp giấy?",
+        "Tháng 10/2026: Người thừa kế chứng minh đất đủ điều kiện cấp giấy nhưng chưa nhận giấy, muốn thực hiện quyền theo khoản 4 Điều 45. Có thể áp dụng ngoại lệ với yêu cầu nào?"
       ]
     },
     "answers": [
@@ -2477,6 +2831,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2489,7 +2849,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người sử dụng đất được ghi nợ nghĩa vụ tài chính, muốn thế chấp quyền sử dụng đất trước khi trả nợ; chưa có căn cứ ngoại lệ. Yêu cầu nào đúng?"
+        "Tháng 10/2026: Người sử dụng đất được ghi nợ nghĩa vụ tài chính, muốn thế chấp quyền sử dụng đất trước khi trả nợ; chưa có căn cứ ngoại lệ. Yêu cầu nào đúng?",
+        "Tháng 10/2026: Không có ngoại lệ, người được ghi nợ nghĩa vụ tài chính phải thực hiện nghĩa vụ vào thời điểm nào trước khi thế chấp đất theo khoản 5 Điều 45?",
+        "Tháng 10/2026: Ngân hàng đồng ý nhận thế chấp đất còn ghi nợ nghĩa vụ tài chính và cho chủ đất trả sau. Chưa có ngoại lệ pháp luật, sự đồng ý ngân hàng có thay điều kiện luật định không?"
       ]
     },
     "answers": [
@@ -2529,6 +2891,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2541,7 +2909,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hai cá nhân chuyển nhượng quyền sử dụng đất, không thuộc ngoại lệ kinh doanh BĐS. Yêu cầu hình thức hợp đồng nào phù hợp?"
+        "Tháng 10/2026: Hai cá nhân chuyển nhượng quyền sử dụng đất, không thuộc ngoại lệ kinh doanh BĐS. Yêu cầu hình thức hợp đồng nào phù hợp?",
+        "Tháng 10/2026: Hợp đồng chuyển nhượng đất giữa hai cá nhân, không thuộc ngoại lệ kinh doanh bất động sản, cần hình thức nào theo khoản 3 Điều 27?",
+        "Tháng 10/2026: Hai cá nhân định mua bán đất bằng giấy ký trước người làm chứng, không thuộc ngoại lệ. Để đáp ứng yêu cầu hình thức luật đất đai, lựa chọn nào đúng?"
       ]
     },
     "answers": [
@@ -2582,6 +2952,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2594,7 +2970,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng cho thuê quyền sử dụng đất thuộc điểm b khoản 3 Điều 27, các bên hỏi có bắt buộc công chứng theo riêng điều khoản này không?"
+        "Tháng 10/2026: Hợp đồng cho thuê quyền sử dụng đất thuộc điểm b khoản 3 Điều 27, các bên hỏi có bắt buộc công chứng theo riêng điều khoản này không?",
+        "Tháng 10/2026: Riêng điểm b khoản 3 Điều 27 quy định công chứng, chứng thực hợp đồng thuê quyền sử dụng đất theo cơ chế nào?",
+        "Tháng 10/2026: Hai bên thuê đất thuộc điểm b khoản 3 Điều 27, chưa có yêu cầu công chứng. Chỉ dựa điều khoản này, có thể coi thiếu công chứng là vi phạm bắt buộc không?"
       ]
     },
     "answers": [
@@ -2635,6 +3013,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2647,7 +3031,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng chuyển nhượng đất và tài sản gắn liền với đất có một bên là tổ chức hoạt động kinh doanh BĐS, thuộc đúng ngoại lệ điểm b khoản 3 Điều 27. Theo riêng điều khoản này, nhận định nào đúng?"
+        "Tháng 10/2026: Hợp đồng chuyển nhượng đất và tài sản gắn liền với đất có một bên là tổ chức hoạt động kinh doanh BĐS, thuộc đúng ngoại lệ điểm b khoản 3 Điều 27. Theo riêng điều khoản này, nhận định nào đúng?",
+        "Tháng 10/2026: Khi một bên là tổ chức kinh doanh bất động sản và hợp đồng thuộc đúng ngoại lệ điểm b khoản 3 Điều 27, công chứng hoặc chứng thực được thực hiện theo cơ chế nào?",
+        "Tháng 10/2026: Doanh nghiệp kinh doanh bất động sản chuyển nhượng đất và tài sản gắn liền, đủ giả thiết ngoại lệ điểm b khoản 3 Điều 27. Khách hàng muốn tự nguyện công chứng. Riêng điều khoản này áp dụng ra sao?"
       ]
     },
     "answers": [
@@ -2688,6 +3074,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2700,7 +3092,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đất được giao theo chính sách tại khoản 3 Điều 16; chủ đất là người dân tộc thiểu số muốn bán cho người không thuộc hàng thừa kế. Người mua cũng thuộc hộ nghèo dân tộc thiểu số. Đủ điều kiện Điều 48 chưa?"
+        "Tháng 10/2026: Đất được giao theo chính sách tại khoản 3 Điều 16; chủ đất là người dân tộc thiểu số muốn bán cho người không thuộc hàng thừa kế. Người mua cũng thuộc hộ nghèo dân tộc thiểu số. Đủ điều kiện Điều 48 chưa?",
+        "Tháng 10/2026: Đối với đất giao theo khoản 3 Điều 16, người nhận là hộ nghèo dân tộc thiểu số nhưng không thuộc hàng thừa kế của người được giao có đủ điều kiện Điều 48 không?",
+        "Tháng 10/2026: Người được giao đất chính sách định bán cho hàng xóm là người dân tộc thiểu số nghèo ở vùng thuộc chính sách, nhưng hàng xóm không thuộc hàng thừa kế. Còn điều kiện nào thiếu?"
       ]
     },
     "answers": [
@@ -2746,6 +3140,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2758,7 +3158,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đất được giao theo khoản 3 Điều 16; chủ đất muốn tặng cho con ruột, nhưng người con không thuộc đối tượng khoản 2 Điều 16. Kết luận phù hợp?"
+        "Tháng 10/2026: Đất được giao theo khoản 3 Điều 16; chủ đất muốn tặng cho con ruột, nhưng người con không thuộc đối tượng khoản 2 Điều 16. Kết luận phù hợp?",
+        "Tháng 10/2026: Theo Điều 48, tư cách thuộc hàng thừa kế có đủ để nhận tặng cho đất khoản 3 Điều 16 khi người nhận không thuộc đối tượng khoản 2 Điều 16 không?",
+        "Tháng 10/2026: Người được giao đất chính sách muốn cho con; người con thuộc hàng thừa kế nhưng không thuộc đối tượng hỗ trợ tại khoản 2 Điều 16. Không thu tiền có giúp đáp ứng Điều 48 không?"
       ]
     },
     "answers": [
@@ -2804,6 +3206,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2816,7 +3224,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân có đất được giao theo khoản 3 Điều 16 muốn thế chấp. Chủ thể nhận thế chấp được ngoại lệ Điều 48 ghi nhận là ai?"
+        "Tháng 10/2026: Cá nhân có đất được giao theo khoản 3 Điều 16 muốn thế chấp. Chủ thể nhận thế chấp được ngoại lệ Điều 48 ghi nhận là ai?",
+        "Tháng 10/2026: Điều 48 cho phép thế chấp đất giao theo khoản 3 Điều 16 tại chủ thể nào?",
+        "Tháng 10/2026: Chủ đất chính sách chọn nơi vay nhận thế chấp, cần xác định đúng bên nhận trong ngoại lệ Điều 48 thay vì mọi người cho vay. Chọn chủ thể nào?"
       ]
     },
     "answers": [
@@ -2862,6 +3272,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2874,7 +3290,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người sử dụng đất chính sách khoản 3 Điều 16 chết, không có người thừa kế thuộc hàng thừa kế đồng thời là đối tượng khoản 2 Điều 16. Hướng xử lý luật định?"
+        "Tháng 10/2026: Người sử dụng đất chính sách khoản 3 Điều 16 chết, không có người thừa kế thuộc hàng thừa kế đồng thời là đối tượng khoản 2 Điều 16. Hướng xử lý luật định?",
+        "Tháng 10/2026: Người được giao đất khoản 3 Điều 16 chết, không có người thừa kế đáp ứng đồng thời hai nhóm điều kiện Điều 48. Luật quy định xử lý đất và tài sản gắn liền thế nào?",
+        "Tháng 10/2026: Các người thừa kế đều không thuộc đối tượng khoản 2 Điều 16, trong khi di sản gồm đất giao theo khoản 3 Điều 16 và tài sản trên đất. Theo Điều 48, có thể chia quyền đất như đất thông thường không?"
       ]
     },
     "answers": [
@@ -2914,6 +3332,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2926,7 +3350,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chủ đất được giao theo khoản 3 Điều 16 muốn góp vốn vào công ty bằng quyền sử dụng đất, viện dẫn mình có giấy chứng nhận. Nhận định đúng?"
+        "Tháng 10/2026: Chủ đất được giao theo khoản 3 Điều 16 muốn góp vốn vào công ty bằng quyền sử dụng đất, viện dẫn mình có giấy chứng nhận. Nhận định đúng?",
+        "Tháng 10/2026: Khoản 3 Điều 48 có cho dùng quyền sử dụng đất giao theo khoản 3 Điều 16 để góp vốn vào công ty không?",
+        "Tháng 10/2026: Doanh nghiệp chấp nhận đất chính sách làm vốn góp vì chủ đất có giấy chứng nhận; công ty có thành viên dân tộc thiểu số. Theo Điều 48, đề nghị góp vốn có được không?"
       ]
     },
     "answers": [
@@ -2966,6 +3392,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -2978,7 +3410,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân không sinh sống trong khu vực rừng phòng hộ muốn nhận tặng cho đất ở trong khu vực đó. Các bên có giấy tờ đầy đủ. Điều kiện nhận tài sản được đánh giá thế nào?"
+        "Tháng 10/2026: Cá nhân không sinh sống trong khu vực rừng phòng hộ muốn nhận tặng cho đất ở trong khu vực đó. Các bên có giấy tờ đầy đủ. Điều kiện nhận tài sản được đánh giá thế nào?",
+        "Tháng 10/2026: Cá nhân không sống trong khu vực rừng phòng hộ có được nhận tặng cho đất ở trong khu vực ấy theo điểm b khoản 8 Điều 45 không?",
+        "Tháng 10/2026: Người sống ngoài khu rừng phòng hộ nhận tặng cho đất ở trong khu vực và hứa chuyển vào sau khi công chứng. Tại thời điểm nhận, điều kiện theo điểm b khoản 8 Điều 45 thế nào?"
       ]
     },
     "answers": [
@@ -3019,6 +3453,12 @@
       "id": "OFFICIAL-DAT-HN26",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3106,7 +3546,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Vợ được giao đất theo chính sách khoản 3 Điều 16; hồ sơ xác định đó là tài sản riêng. Vợ cho rằng tài sản riêng nên có thể bán cho bất kỳ người nào. Đánh giá đúng?"
+        "Tháng 10/2026: Vợ được giao đất theo chính sách khoản 3 Điều 16; hồ sơ xác định đó là tài sản riêng. Vợ cho rằng tài sản riêng nên có thể bán cho bất kỳ người nào. Đánh giá đúng?",
+        "Tháng 10/2026: Tính chất tài sản riêng có loại bỏ điều kiện chuyển nhượng đặc thù đối với đất được giao theo khoản 3 Điều 16 không?",
+        "Tháng 10/2026: Vợ chứng minh đất giao theo chính sách là riêng và xin bán cho người bất kỳ; chồng còn ký đồng ý. Cần xét Điều 48 thế nào ngoài vấn đề riêng, chung?"
       ]
     },
     "answers": [
@@ -3154,6 +3596,12 @@
         "OFFICIAL-HNGD-HN25"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3166,7 +3614,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Bất động sản từng được thế chấp hợp pháp tại X nhưng nay bị kê biên. Chủ đất xin công chứng thế chấp tiếp tại X, cho rằng đã đúng nơi. Lựa chọn phù hợp?"
+        "Tháng 10/2026: Bất động sản từng được thế chấp hợp pháp tại X nhưng nay bị kê biên. Chủ đất xin công chứng thế chấp tiếp tại X, cho rằng đã đúng nơi. Lựa chọn phù hợp?",
+        "Tháng 10/2026: Tuân thủ đúng nơi công chứng thế chấp tiếp tại Điều 56 có khắc phục điều kiện đất không bị kê biên tại Điều 45 không?",
+        "Tháng 10/2026: Ngân hàng nhận thế chấp lần hai biết đất hiện bị kê biên nhưng đề nghị chứng nhận tại đúng văn phòng lần đầu. Chọn cách đánh giá kết hợp hai điều luật?"
       ]
     },
     "answers": [
@@ -3215,6 +3665,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3227,7 +3683,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hồ sơ phân chia di sản là quyền sử dụng đất chưa có giấy chứng nhận; người thừa kế nói ngoại lệ thừa kế cho phép không cần bất cứ giấy tờ tài sản nào. Nhận định nào đúng?"
+        "Tháng 10/2026: Hồ sơ phân chia di sản là quyền sử dụng đất chưa có giấy chứng nhận; người thừa kế nói ngoại lệ thừa kế cho phép không cần bất cứ giấy tờ tài sản nào. Nhận định nào đúng?",
+        "Tháng 10/2026: Ngoại lệ về giấy chứng nhận trong thừa kế đất có miễn chứng minh quyền tài sản của người để lại di sản khi công chứng phân chia không?",
+        "Tháng 10/2026: Những người thừa kế chỉ có giấy chứng tử, không cung cấp căn cứ quyền đất của người chết và viện dẫn ngoại lệ chưa có giấy chứng nhận. Yêu cầu chứng minh còn phải đáp ứng thế nào?"
       ]
     },
     "answers": [
@@ -3283,6 +3741,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3295,7 +3759,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người chết có 600 triệu tài sản riêng và sở hữu 40% một tài sản chung trị giá 500 triệu với bạn; không có nghĩa vụ tài sản. Tổng giá trị di sản là bao nhiêu?"
+        "Tháng 10/2026: Người chết có 600 triệu tài sản riêng và sở hữu 40% một tài sản chung trị giá 500 triệu với bạn; không có nghĩa vụ tài sản. Tổng giá trị di sản là bao nhiêu?",
+        "Tháng 10/2026: Theo Điều 612 BLDS, cộng tài sản riêng 600 triệu và phần 40% trong tài sản chung 500 triệu, không có nghĩa vụ, di sản trị giá bao nhiêu?",
+        "Tháng 10/2026: Người lập hồ sơ đưa cả tài sản chung 500 triệu vào di sản, ngoài 600 triệu riêng. Người chết chỉ sở hữu 40% tài sản chung với bạn và không có nghĩa vụ. Giá trị đúng cần dùng là bao nhiêu?"
       ]
     },
     "answers": [
@@ -3334,6 +3800,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3346,7 +3818,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đứa trẻ sinh ra còn sống sau khi cha chết, đã thành thai trước thời điểm cha chết. Khi xác định tư cách người thừa kế, nhận định đúng là gì?"
+        "Tháng 10/2026: Đứa trẻ sinh ra còn sống sau khi cha chết, đã thành thai trước thời điểm cha chết. Khi xác định tư cách người thừa kế, nhận định đúng là gì?",
+        "Tháng 10/2026: Điều 613 đánh giá điều kiện thời điểm của trẻ đã thành thai trước khi cha chết và sinh ra còn sống sau đó như thế nào?",
+        "Tháng 10/2026: Cha chết trước ngày con chào đời; con đã thành thai khi cha còn sống và sinh ra còn sống. Việc chưa sinh tại thời điểm mở thừa kế có loại tư cách thừa kế của trẻ không?"
       ]
     },
     "answers": [
@@ -3385,6 +3859,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3397,7 +3877,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người đã nhận 200 triệu di sản; không thỏa thuận gánh thêm nghĩa vụ. Người chết còn nợ và chủ nợ đòi người này phải dùng tài sản riêng trả vượt phần đã nhận. Giới hạn theo Điều 615 là gì?"
+        "Tháng 10/2026: Một người đã nhận 200 triệu di sản; không thỏa thuận gánh thêm nghĩa vụ. Người chết còn nợ và chủ nợ đòi người này phải dùng tài sản riêng trả vượt phần đã nhận. Giới hạn theo Điều 615 là gì?",
+        "Tháng 10/2026: Không có thỏa thuận khác, người được chia 200 triệu di sản phải thực hiện nghĩa vụ tài sản của người chết trong giới hạn nào theo khoản 3 Điều 615?",
+        "Tháng 10/2026: Sau chia, chủ nợ đòi người nhận 200 triệu di sản phải dùng thêm tiền riêng trả nợ người chết. Người này không nhận gánh nghĩa vụ vượt phần hưởng. Giới hạn trách nhiệm là gì?"
       ]
     },
     "answers": [
@@ -3437,6 +3919,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3449,7 +3937,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cha và con có quyền thừa kế của nhau chết trong tai nạn, không xác định ai chết trước. Nguyên tắc về việc họ hưởng di sản của nhau là gì?"
+        "Tháng 10/2026: Cha và con có quyền thừa kế của nhau chết trong tai nạn, không xác định ai chết trước. Nguyên tắc về việc họ hưởng di sản của nhau là gì?",
+        "Tháng 10/2026: Điều 619 xử lý quyền thừa kế lẫn nhau ra sao nếu cha và con chết mà không xác định được người chết trước?",
+        "Tháng 10/2026: Cha và con cùng chết trong tai nạn; hồ sơ không xác định thứ tự tử vong. Gia đình muốn mặc định người con trẻ hơn chết sau. Nguyên tắc và ngoại lệ cần áp dụng là gì?"
       ]
     },
     "answers": [
@@ -3493,6 +3983,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3505,7 +4001,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản đã được phân chia xong, một người muốn lập văn bản từ chối để chuyển phần đã nhận cho người khác. Nhận định phù hợp?"
+        "Tháng 10/2026: Di sản đã được phân chia xong, một người muốn lập văn bản từ chối để chuyển phần đã nhận cho người khác. Nhận định phù hợp?",
+        "Tháng 10/2026: Khoản 3 Điều 620 có cho sử dụng thủ tục từ chối nhận di sản sau khi di sản đã được phân chia không?",
+        "Tháng 10/2026: Người đã nhận nhà theo văn bản phân chia nay muốn chuyển cho em bằng văn bản từ chối di sản thay vì giao dịch chuyển quyền. Có thể dùng cơ chế từ chối vào thời điểm này không?"
       ]
     },
     "answers": [
@@ -3545,6 +4043,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3557,7 +4061,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thừa kế đang có nghĩa vụ trả nợ; hồ sơ xác định việc từ chối di sản nhằm trốn tránh nghĩa vụ tài sản với chủ nợ của chính mình. Cách đánh giá đúng?"
+        "Tháng 10/2026: Người thừa kế đang có nghĩa vụ trả nợ; hồ sơ xác định việc từ chối di sản nhằm trốn tránh nghĩa vụ tài sản với chủ nợ của chính mình. Cách đánh giá đúng?",
+        "Tháng 10/2026: Khoản 1 Điều 620 đặt giới hạn gì khi từ chối di sản nhằm trốn nghĩa vụ tài sản của chính người thừa kế với người khác?",
+        "Tháng 10/2026: Chủ nợ đang đòi nợ người thừa kế; hồ sơ xác định người này từ chối phần hưởng để tránh trả khoản nợ của mình. Các đồng thừa kế đồng ý có làm việc từ chối được phép không?"
       ]
     },
     "answers": [
@@ -3597,6 +4103,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3609,7 +4121,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người để lại di sản biết rõ hành vi khiến con thuộc khoản 1 Điều 621 nhưng vẫn cho con hưởng theo di chúc hợp pháp. Theo ngoại lệ khoản 2, kết luận nào đúng?"
+        "Tháng 10/2026: Người để lại di sản biết rõ hành vi khiến con thuộc khoản 1 Điều 621 nhưng vẫn cho con hưởng theo di chúc hợp pháp. Theo ngoại lệ khoản 2, kết luận nào đúng?",
+        "Tháng 10/2026: Khoản 2 Điều 621 đặt ngoại lệ gì cho người không có quyền hưởng nhưng người lập di chúc biết rõ hành vi và vẫn cho họ hưởng?",
+        "Tháng 10/2026: Cha biết hành vi của con thuộc khoản 1 Điều 621 nhưng vẫn lập di chúc hợp pháp cho con phần tài sản. Có thể loại phần hưởng theo di chúc chỉ vì hành vi ấy không?"
       ]
     },
     "answers": [
@@ -3649,6 +4163,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3661,7 +4181,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người 17 tuổi muốn lập di chúc bằng văn bản về tài sản của mình, cha mẹ hoặc người giám hộ chưa đồng ý việc lập. Điều kiện nào cần kiểm tra bổ sung?"
+        "Tháng 10/2026: Người 17 tuổi muốn lập di chúc bằng văn bản về tài sản của mình, cha mẹ hoặc người giám hộ chưa đồng ý việc lập. Điều kiện nào cần kiểm tra bổ sung?",
+        "Tháng 10/2026: Theo khoản 2 Điều 625 và khoản 2 Điều 630, người 17 tuổi tự lập di chúc văn bản cần sự đồng ý về việc lập của ai?",
+        "Tháng 10/2026: Người 17 tuổi có tài sản riêng, tự viết di chúc; người được hưởng đã đồng ý nhưng cha mẹ hoặc người giám hộ chưa đồng ý việc lập. Điều kiện nào cần bổ sung?"
       ]
     },
     "answers": [
@@ -3707,6 +4229,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3719,7 +4247,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người lập di chúc miệng khi nguy hiểm tính mạng. Sau ba tháng người đó vẫn sống, minh mẫn, sáng suốt. Di chúc miệng được xử lý thế nào?"
+        "Tháng 10/2026: Một người lập di chúc miệng khi nguy hiểm tính mạng. Sau ba tháng người đó vẫn sống, minh mẫn, sáng suốt. Di chúc miệng được xử lý thế nào?",
+        "Tháng 10/2026: Khoản 2 Điều 629 quy định hệ quả nào khi qua ba tháng kể từ di chúc miệng, người lập vẫn sống, minh mẫn, sáng suốt?",
+        "Tháng 10/2026: Người lập di chúc miệng đã qua nguy hiểm và sau ba tháng vẫn sống minh mẫn; người làm chứng muốn giữ lời di chúc mãi. Di chúc miệng được xử lý thế nào?"
       ]
     },
     "answers": [
@@ -3759,6 +4289,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3771,7 +4307,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thành niên tự viết và ký di chúc, đáp ứng đầy đủ điều kiện nội dung, hình thức và ý chí luật định nhưng không công chứng. Chỉ vì thiếu công chứng có thể kết luận di chúc vô hiệu không?"
+        "Tháng 10/2026: Người thành niên tự viết và ký di chúc, đáp ứng đầy đủ điều kiện nội dung, hình thức và ý chí luật định nhưng không công chứng. Chỉ vì thiếu công chứng có thể kết luận di chúc vô hiệu không?",
+        "Tháng 10/2026: Di chúc do người thành niên tự viết, ký, đủ điều kiện luật định có bắt buộc công chứng mới hợp pháp theo Điều 630, Điều 633 không?",
+        "Tháng 10/2026: Người thừa kế phản đối bản di chúc không công chứng, dù xác định người thành niên đã tự viết, ký và đủ nội dung, hình thức, ý chí hợp pháp. Chỉ lý do thiếu công chứng có đủ kết luận vô hiệu không?"
       ]
     },
     "answers": [
@@ -3816,6 +4354,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3828,7 +4372,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người lập thay thế di chúc cũ bằng di chúc mới hợp pháp về cùng tài sản. Một người hưởng theo bản cũ cho rằng phải giữ cả hai vì bản cũ đã công chứng. Nhận định đúng?"
+        "Tháng 10/2026: Người lập thay thế di chúc cũ bằng di chúc mới hợp pháp về cùng tài sản. Một người hưởng theo bản cũ cho rằng phải giữ cả hai vì bản cũ đã công chứng. Nhận định đúng?",
+        "Tháng 10/2026: Khoản 3 Điều 640 quy định hiệu lực di chúc trước ra sao khi người lập thay bằng di chúc mới hợp pháp về cùng tài sản?",
+        "Tháng 10/2026: Di chúc nhà đã công chứng được người lập thay thế bằng di chúc mới hợp pháp cùng nhà. Người hưởng bản trước không đồng ý. Bản trước được xử lý thế nào?"
       ]
     },
     "answers": [
@@ -3868,6 +4414,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3880,7 +4432,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một phần di chúc không hợp pháp nhưng không ảnh hưởng hiệu lực các phần còn lại. Cách xử lý đúng?"
+        "Tháng 10/2026: Một phần di chúc không hợp pháp nhưng không ảnh hưởng hiệu lực các phần còn lại. Cách xử lý đúng?",
+        "Tháng 10/2026: Khoản 4 Điều 643 quy định phạm vi không có hiệu lực khi chỉ một phần di chúc không hợp pháp và không ảnh hưởng các phần khác?",
+        "Tháng 10/2026: Di chúc có hai phần độc lập; một phần không hợp pháp, phần còn lại hợp pháp và không bị ảnh hưởng. Có phải đưa toàn bộ di chúc vào diện không có hiệu lực không?"
       ]
     },
     "answers": [
@@ -3920,6 +4474,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3932,7 +4492,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di sản ròng 900 triệu; nếu chia theo pháp luật có ba người: vợ và hai con thành niên có khả năng lao động. Di chúc hợp pháp cho toàn bộ người khác; vợ không từ chối và không thuộc Điều 621. Mức tối thiểu của vợ là bao nhiêu?"
+        "Tháng 10/2026: Di sản ròng 900 triệu; nếu chia theo pháp luật có ba người: vợ và hai con thành niên có khả năng lao động. Di chúc hợp pháp cho toàn bộ người khác; vợ không từ chối và không thuộc Điều 621. Mức tối thiểu của vợ là bao nhiêu?",
+        "Tháng 10/2026: Theo Điều 644, suất luật định của vợ là 300 triệu trong di sản ròng 900 triệu; vợ không từ chối, không thuộc Điều 621 và bị di chúc bỏ qua. Mức tối thiểu là bao nhiêu?",
+        "Tháng 10/2026: Di chúc để hết di sản ròng 900 triệu cho bạn; hàng thừa kế thứ nhất chỉ có vợ và hai con thành niên có khả năng lao động. Vợ đủ điều kiện Điều 644, không từ chối. Phần tối thiểu dành cho vợ là gì?"
       ]
     },
     "answers": [
@@ -3985,6 +4547,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -3997,7 +4565,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Con đã thành niên, có khả năng lao động, không được di chúc cho hưởng. Chỉ với tư cách con, người này có thuộc nhóm được bảo vệ tại Điều 644 không?"
+        "Tháng 10/2026: Con đã thành niên, có khả năng lao động, không được di chúc cho hưởng. Chỉ với tư cách con, người này có thuộc nhóm được bảo vệ tại Điều 644 không?",
+        "Tháng 10/2026: Điều 644 có bảo vệ mọi người con thành niên có khả năng lao động chỉ vì quan hệ con khi bị di chúc bỏ qua không?",
+        "Tháng 10/2026: Con cả đã thành niên và có khả năng lao động không được cho tài sản trong di chúc, đòi hai phần ba suất chỉ vì là con. Điều kiện bảo vệ theo Điều 644 được đánh giá thế nào?"
       ]
     },
     "answers": [
@@ -4038,6 +4608,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4050,7 +4626,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di chúc hợp pháp chỉ định đoạt căn nhà, không định đoạt khoản tiền còn lại của người chết. Khoản tiền được xử lý thế nào?"
+        "Tháng 10/2026: Di chúc hợp pháp chỉ định đoạt căn nhà, không định đoạt khoản tiền còn lại của người chết. Khoản tiền được xử lý thế nào?",
+        "Tháng 10/2026: Điểm a khoản 2 Điều 650 quy định cách chia phần tài sản không được di chúc hợp pháp định đoạt như thế nào?",
+        "Tháng 10/2026: Di chúc chỉ cho A nhà, bỏ sót tiền tiết kiệm và vẫn hợp pháp. A muốn nhận luôn tiền vì mình được chỉ định trong di chúc. Riêng phần tiền phải xử lý ra sao?"
       ]
     },
     "answers": [
@@ -4091,6 +4669,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4103,7 +4687,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người chết không có di chúc; hàng thứ nhất chỉ gồm một con đẻ và một con nuôi hợp pháp, cả hai đủ điều kiện hưởng. Phần di sản của họ thế nào?"
+        "Tháng 10/2026: Người chết không có di chúc; hàng thứ nhất chỉ gồm một con đẻ và một con nuôi hợp pháp, cả hai đủ điều kiện hưởng. Phần di sản của họ thế nào?",
+        "Tháng 10/2026: Theo Điều 651, con đẻ và con nuôi hợp pháp cùng hàng thứ nhất, đủ điều kiện hưởng, được xác định phần di sản theo pháp luật ra sao?",
+        "Tháng 10/2026: Người chết không di chúc, hàng thứ nhất chỉ có con nuôi hợp pháp và con đẻ. Con đẻ đòi phần gấp đôi, cả hai đủ điều kiện. Tỷ lệ phần hưởng đúng là gì?"
       ]
     },
     "answers": [
@@ -4150,6 +4736,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4162,7 +4754,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người chết có di sản 600 triệu, không di chúc; có vợ, con A còn sống, con B chết trước để lại hai con. Không có người hàng thứ nhất khác, mọi người đủ điều kiện. Hai cháu thế vị nhận tổng bao nhiêu?"
+        "Tháng 10/2026: Người chết có di sản 600 triệu, không di chúc; có vợ, con A còn sống, con B chết trước để lại hai con. Không có người hàng thứ nhất khác, mọi người đủ điều kiện. Hai cháu thế vị nhận tổng bao nhiêu?",
+        "Tháng 10/2026: Di sản 600 triệu chia ba suất luật định: vợ, con A và nhánh con B chết trước để lại hai con. Mọi người đủ điều kiện, hai cháu thế vị hưởng tổng và từng phần bao nhiêu?",
+        "Tháng 10/2026: Gia đình muốn chia đều 600 triệu cho vợ, A và từng cháu của B. B chết trước người để lại di sản, chỉ có hai con; không có người hàng thứ nhất khác và đủ điều kiện. Phần đúng của nhánh B là bao nhiêu?"
       ]
     },
     "answers": [
@@ -4207,6 +4801,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4219,7 +4819,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Con B của người chết vẫn sống nhưng từ chối nhận di sản hợp lệ. Con của B xin nhận thế vị chỉ vì B từ chối. Nhận định đúng?"
+        "Tháng 10/2026: Con B của người chết vẫn sống nhưng từ chối nhận di sản hợp lệ. Con của B xin nhận thế vị chỉ vì B từ chối. Nhận định đúng?",
+        "Tháng 10/2026: Điều 652 có làm phát sinh thế vị chỉ vì người con còn sống từ chối di sản hợp lệ không?",
+        "Tháng 10/2026: Con của người chết còn sống nhưng từ chối; cháu muốn nhận đúng suất cha mình theo thế vị, chỉ viện dẫn việc từ chối. Căn cứ này có làm phát sinh thế vị không?"
       ]
     },
     "answers": [
@@ -4258,6 +4860,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4270,7 +4878,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hồ sơ thừa kế theo pháp luật chỉ có một người thừa kế. Người đó yêu cầu bỏ niêm yết vì không có ai để chia cùng. Theo Điều 59, xử lý đúng?"
+        "Tháng 10/2026: Hồ sơ thừa kế theo pháp luật chỉ có một người thừa kế. Người đó yêu cầu bỏ niêm yết vì không có ai để chia cùng. Theo Điều 59, xử lý đúng?",
+        "Tháng 10/2026: Theo khoản 4, khoản 5 Điều 59, hồ sơ nhận thừa kế theo pháp luật chỉ có một người có được miễn niêm yết chỉ vì không phải chia với ai không?",
+        "Tháng 10/2026: Người thừa kế duy nhất xin cam đoan không còn ai thay thủ tục niêm yết. Xét riêng lý do chỉ có một người theo Điều 59, công chứng viên xử lý thế nào?"
       ]
     },
     "answers": [
@@ -4316,6 +4926,12 @@
       "id": "OFFICIAL-CC24",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4328,7 +4944,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Di chúc đã công chứng tại X. Người lập đủ năng lực muốn thay thế tại Y; bản trước đang được X lưu giữ. Cách xử lý đúng?"
+        "Tháng 10/2026: Di chúc đã công chứng tại X. Người lập đủ năng lực muốn thay thế tại Y; bản trước đang được X lưu giữ. Cách xử lý đúng?",
+        "Tháng 10/2026: Khoản 4 Điều 58 cho phép thay thế di chúc tại tổ chức khác và đặt nghĩa vụ thông báo nào đối với nơi giữ bản trước?",
+        "Tháng 10/2026: Người đủ năng lực lập di chúc mới thay bản công chứng tại X, chọn Y chứng nhận; X giữ bản cũ. Có thể chọn Y và phải thực hiện yêu cầu nào với X?"
       ]
     },
     "answers": [
@@ -4376,6 +4994,12 @@
         "OFFICIAL-BLDS15"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4388,7 +5012,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Khách hàng có đủ giấy tờ nhưng biểu hiện không hiểu giao dịch. Công chứng viên nhận định giấy tờ đầy đủ chưa đủ kết luận. Nội dung cần làm rõ là gì?"
+        "Tháng 10/2026: Khách hàng có đủ giấy tờ nhưng biểu hiện không hiểu giao dịch. Công chứng viên nhận định giấy tờ đầy đủ chưa đủ kết luận. Nội dung cần làm rõ là gì?",
+        "Tháng 10/2026: Giấy tờ hồ sơ đầy đủ có thay việc làm rõ năng lực phù hợp và tự nguyện theo Điều 117 BLDS, khoản 4 Điều 42 Luật Công chứng không?",
+        "Tháng 10/2026: Khách hàng mang đầy đủ giấy nhưng trả lời cho thấy chưa hiểu giao dịch; người đi cùng xin ký ngay vì đã đủ hồ sơ. Nội dung nào vẫn cần làm rõ?"
       ]
     },
     "answers": [
@@ -4436,6 +5062,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4448,7 +5080,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người bị bệnh tâm thần nhưng chưa có quyết định Tòa án tuyên mất năng lực; hồ sơ cho thấy cần làm rõ khả năng nhận thức. Nhận định đúng?"
+        "Tháng 10/2026: Một người bị bệnh tâm thần nhưng chưa có quyết định Tòa án tuyên mất năng lực; hồ sơ cho thấy cần làm rõ khả năng nhận thức. Nhận định đúng?",
+        "Tháng 10/2026: Chưa có quyết định Tòa án, công chứng viên có thể tự tuyên người có bệnh tâm thần mất năng lực hay phải làm rõ điều kiện giao dịch?",
+        "Tháng 10/2026: Người yêu cầu có bệnh tâm thần nhưng chưa bị Tòa án tuyên mất năng lực, khả năng nhận thức trong hồ sơ còn nghi ngờ. Người thân đòi công chứng ngay vì chưa có quyết định. Xử lý đúng thế nào?"
       ]
     },
     "answers": [
@@ -4496,6 +5130,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4508,7 +5148,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người có khó khăn trong nhận thức đã được Tòa án chỉ định người giám hộ và xác định quyền, nghĩa vụ. Khi lập giao dịch, công chứng viên cần căn cứ gì để xác định đại diện?"
+        "Tháng 10/2026: Người có khó khăn trong nhận thức đã được Tòa án chỉ định người giám hộ và xác định quyền, nghĩa vụ. Khi lập giao dịch, công chứng viên cần căn cứ gì để xác định đại diện?",
+        "Tháng 10/2026: Với người khó khăn trong nhận thức được Tòa án chỉ định giám hộ, căn cứ nào xác định quyền đại diện và phạm vi của người giám hộ?",
+        "Tháng 10/2026: Người giám hộ đem quyết định Tòa án tới ký giao dịch cho người khó khăn nhận thức; gia đình nói cứ là giám hộ thì có mọi quyền. Công chứng viên cần dựa vào đâu?"
       ]
     },
     "answers": [
@@ -4554,6 +5196,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4566,7 +5214,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người bị Tòa án tuyên hạn chế năng lực muốn bán tài sản; không phải giao dịch phục vụ sinh hoạt hằng ngày và không có quy định ngoại lệ. Điều kiện nào cần xem xét?"
+        "Tháng 10/2026: Người bị Tòa án tuyên hạn chế năng lực muốn bán tài sản; không phải giao dịch phục vụ sinh hoạt hằng ngày và không có quy định ngoại lệ. Điều kiện nào cần xem xét?",
+        "Tháng 10/2026: Khoản 2 Điều 24 yêu cầu gì khi người bị hạn chế năng lực thực hiện giao dịch tài sản ngoài nhu cầu sinh hoạt hằng ngày, không có ngoại lệ?",
+        "Tháng 10/2026: Người bị Tòa án tuyên hạn chế năng lực muốn bán tài sản giá trị lớn, không phục vụ sinh hoạt hằng ngày. Người mua đồng ý nhưng chưa có đồng ý của đại diện; điều kiện cần xét là gì?"
       ]
     },
     "answers": [
@@ -4606,6 +5256,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4618,7 +5274,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên gửi thông điệp dữ liệu đáp ứng luật giao dịch điện tử và cho rằng vì được coi là văn bản nên đã đủ mọi yêu cầu công chứng bắt buộc. Nhận định đúng?"
+        "Tháng 10/2026: Các bên gửi thông điệp dữ liệu đáp ứng luật giao dịch điện tử và cho rằng vì được coi là văn bản nên đã đủ mọi yêu cầu công chứng bắt buộc. Nhận định đúng?",
+        "Tháng 10/2026: Theo Điều 119, thông điệp dữ liệu được coi là văn bản có tự miễn yêu cầu công chứng, chứng thực hoặc đăng ký bắt buộc không?",
+        "Tháng 10/2026: Hai bên ký điện tử thông điệp dữ liệu đáp ứng luật giao dịch điện tử; giao dịch thuộc loại phải công chứng. Việc có văn bản điện tử tự đáp ứng mọi hình thức bắt buộc chưa?"
       ]
     },
     "answers": [
@@ -4664,6 +5322,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4676,7 +5340,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên yêu cầu công chứng hợp đồng tặng cho giả tạo để che giấu mua bán; mục đích giả tạo được xác định rõ. Cách đánh giá phù hợp?"
+        "Tháng 10/2026: Các bên yêu cầu công chứng hợp đồng tặng cho giả tạo để che giấu mua bán; mục đích giả tạo được xác định rõ. Cách đánh giá phù hợp?",
+        "Tháng 10/2026: Điều 124 xử lý giao dịch giả tạo che giấu giao dịch khác và việc đánh giá giao dịch bị che giấu như thế nào khi yêu cầu công chứng?",
+        "Tháng 10/2026: Hai bên thống nhất ghi tặng cho nhà để che giấu mua bán; công chứng viên xác định rõ sự giả tạo. Việc các bên tự nguyện có cho phép chứng nhận tặng cho, và mua bán bị che giấu được đánh giá ra sao?"
       ]
     },
     "answers": [
@@ -4725,6 +5391,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4737,7 +5409,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Con nợ lập giao dịch giả tạo chuyển tài sản cho người quen nhằm trốn nghĩa vụ với chủ nợ. Giao dịch được đánh giá thế nào?"
+        "Tháng 10/2026: Con nợ lập giao dịch giả tạo chuyển tài sản cho người quen nhằm trốn nghĩa vụ với chủ nợ. Giao dịch được đánh giá thế nào?",
+        "Tháng 10/2026: Khoản 2 Điều 124 quy định hiệu lực giao dịch giả tạo để trốn nghĩa vụ với người thứ ba như thế nào?",
+        "Tháng 10/2026: Người mắc nợ lập hợp đồng chuyển tài sản giả tạo cho bạn nhằm tránh chủ nợ; ghi giá ngang thị trường. Giá bán ấy có làm giao dịch giả tạo hợp pháp không?"
       ]
     },
     "answers": [
@@ -4777,6 +5451,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4789,7 +5469,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Các bên phát hiện nhầm lẫn và có thể khắc phục ngay để mục đích giao dịch vẫn đạt được. Có phải mọi nhầm lẫn đều dẫn đến vô hiệu không?"
+        "Tháng 10/2026: Các bên phát hiện nhầm lẫn và có thể khắc phục ngay để mục đích giao dịch vẫn đạt được. Có phải mọi nhầm lẫn đều dẫn đến vô hiệu không?",
+        "Tháng 10/2026: Khoản 2 Điều 126 đặt ngoại lệ nào khi nhầm lẫn có thể khắc phục ngay để mục đích giao dịch đạt được?",
+        "Tháng 10/2026: Hai bên phát hiện ghi nhầm nhưng cùng có thể sửa ngay để mục đích giao dịch vẫn đạt được. Có được kết luận cứ có nhầm lẫn là giao dịch vô hiệu không?"
       ]
     },
     "answers": [
@@ -4829,6 +5511,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4841,7 +5529,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thứ ba cố ý lừa một bên hiểu sai đối tượng để ký hợp đồng; bên còn lại nói mình không trực tiếp lừa nên không thể yêu cầu vô hiệu. Nhận định nào đúng?"
+        "Tháng 10/2026: Người thứ ba cố ý lừa một bên hiểu sai đối tượng để ký hợp đồng; bên còn lại nói mình không trực tiếp lừa nên không thể yêu cầu vô hiệu. Nhận định nào đúng?",
+        "Tháng 10/2026: Theo Điều 127, lừa dối do người thứ ba gây ra có thể tạo quyền yêu cầu Tòa án tuyên giao dịch vô hiệu không?",
+        "Tháng 10/2026: Người môi giới cố ý khiến bên mua hiểu sai đối tượng để ký; người bán nói không tự lừa nên bên mua không có quyền yêu cầu vô hiệu. Nhận định đúng là gì?"
       ]
     },
     "answers": [
@@ -4880,6 +5570,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4892,7 +5588,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người có năng lực hành vi dân sự đã ký đúng thời điểm không nhận thức, làm chủ được hành vi. Nhận định về quyền yêu cầu đúng?"
+        "Tháng 10/2026: Người có năng lực hành vi dân sự đã ký đúng thời điểm không nhận thức, làm chủ được hành vi. Nhận định về quyền yêu cầu đúng?",
+        "Tháng 10/2026: Điều 128 cho người có năng lực nhưng xác lập giao dịch đúng lúc không nhận thức, làm chủ hành vi quyền yêu cầu nào?",
+        "Tháng 10/2026: Người ký chưa từng bị tuyên mất năng lực nhưng chứng minh ngay lúc ký không nhận thức, làm chủ hành vi. Chỉ vì căn cước còn hạn có thể bác quyền yêu cầu của họ không?"
       ]
     },
     "answers": [
@@ -4931,6 +5629,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4943,7 +5647,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giao dịch bằng văn bản vi phạm công chứng bắt buộc; một bên đã thực hiện ít nhất hai phần ba nghĩa vụ và yêu cầu công nhận. Chủ thể có thẩm quyền công nhận theo Điều 129 là ai?"
+        "Tháng 10/2026: Giao dịch bằng văn bản vi phạm công chứng bắt buộc; một bên đã thực hiện ít nhất hai phần ba nghĩa vụ và yêu cầu công nhận. Chủ thể có thẩm quyền công nhận theo Điều 129 là ai?",
+        "Tháng 10/2026: Khoản 2 Điều 129 giao cho ai thẩm quyền công nhận giao dịch văn bản vi phạm công chứng bắt buộc khi đủ điều kiện hai phần ba nghĩa vụ và có yêu cầu?",
+        "Tháng 10/2026: Một bên đã thực hiện ít nhất hai phần ba nghĩa vụ hợp đồng văn bản thiếu công chứng bắt buộc và muốn công nhận hiệu lực. Cơ quan nào có thể giải quyết theo Điều 129?"
       ]
     },
     "answers": [
@@ -4983,6 +5689,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -4995,7 +5707,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một điều khoản giao dịch vô hiệu nhưng không ảnh hưởng các phần còn lại. Cách xử lý nguyên tắc?"
+        "Tháng 10/2026: Một điều khoản giao dịch vô hiệu nhưng không ảnh hưởng các phần còn lại. Cách xử lý nguyên tắc?",
+        "Tháng 10/2026: Điều 130 áp dụng nguyên tắc nào khi một phần giao dịch vô hiệu không ảnh hưởng hiệu lực phần còn lại?",
+        "Tháng 10/2026: Hợp đồng có điều khoản vô hiệu nhưng các phần khác độc lập và không bị ảnh hưởng. Có phải coi toàn bộ vô hiệu hoặc tự giữ điều khoản sai không?"
       ]
     },
     "answers": [
@@ -5034,6 +5748,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5046,7 +5766,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giao dịch bị xác định vô hiệu; bên nhận tài sản không thể hoàn trả bằng hiện vật và có lỗi gây thiệt hại. Hướng giải quyết nào phù hợp?"
+        "Tháng 10/2026: Giao dịch bị xác định vô hiệu; bên nhận tài sản không thể hoàn trả bằng hiện vật và có lỗi gây thiệt hại. Hướng giải quyết nào phù hợp?",
+        "Tháng 10/2026: Theo Điều 131, không hoàn trả hiện vật được và có lỗi gây thiệt hại khi giao dịch vô hiệu thì hướng xử lý hoàn trả, bồi thường là gì?",
+        "Tháng 10/2026: Bên nhận theo giao dịch vô hiệu đã làm mất hiện vật và có lỗi gây thiệt hại; xin miễn hoàn trả vì không còn vật. Luật đặt cơ chế nào?"
       ]
     },
     "answers": [
@@ -5092,6 +5814,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5104,7 +5832,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giao dịch giả tạo đã được xác lập lâu hơn hai năm. Một bên nói mọi yêu cầu vô hiệu đều hết thời hiệu hai năm. Nhận định đúng?"
+        "Tháng 10/2026: Giao dịch giả tạo đã được xác lập lâu hơn hai năm. Một bên nói mọi yêu cầu vô hiệu đều hết thời hiệu hai năm. Nhận định đúng?",
+        "Tháng 10/2026: Khoản 3 Điều 132 quy định thời hiệu yêu cầu vô hiệu do giả tạo thuộc Điều 124 như thế nào?",
+        "Tháng 10/2026: Hợp đồng giả tạo được xác lập hơn hai năm trước; bị đơn nói mọi căn cứ vô hiệu đều hết thời hiệu. Riêng căn cứ Điều 124 được xử lý ra sao?"
       ]
     },
     "answers": [
@@ -5144,6 +5874,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5156,7 +5892,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: A chỉ ủy quyền B cho thuê nhà, B đến ký hợp đồng bán nhà nhân danh A. Chưa có căn cứ mở rộng phạm vi hoặc chấp thuận. Điều phải xử lý là gì?"
+        "Tháng 10/2026: A chỉ ủy quyền B cho thuê nhà, B đến ký hợp đồng bán nhà nhân danh A. Chưa có căn cứ mở rộng phạm vi hoặc chấp thuận. Điều phải xử lý là gì?",
+        "Tháng 10/2026: Ủy quyền chỉ cho thuê nhà có đủ phạm vi để người đại diện ký bán nhà nếu chưa có chấp thuận hoặc mở rộng quyền không?",
+        "Tháng 10/2026: Văn bản giao B quyền cho thuê nhà còn hạn; B muốn bán nhân danh A và hứa chuyển tiền cho A. Chưa có mở rộng phạm vi hoặc chấp thuận, vấn đề pháp lý là gì?"
       ]
     },
     "answers": [
@@ -5203,6 +5941,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5215,7 +5959,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: B được A ủy quyền bán nhà; B dự định nhân danh A bán cho chính B, không có ngoại lệ pháp luật. Kết luận phù hợp?"
+        "Tháng 10/2026: B được A ủy quyền bán nhà; B dự định nhân danh A bán cho chính B, không có ngoại lệ pháp luật. Kết luận phù hợp?",
+        "Tháng 10/2026: Không có ngoại lệ pháp luật, khoản 3 Điều 141 có cho người được ủy quyền bán tài sản tự mua tài sản ấy trong giao dịch nhân danh chủ sở hữu không?",
+        "Tháng 10/2026: B đại diện A bán nhà và muốn đứng phía mua chính nhà đó, cho rằng trả đúng giá thị trường là đủ. Không có ngoại lệ pháp luật, hạn chế đại diện áp dụng thế nào?"
       ]
     },
     "answers": [
@@ -5255,6 +6001,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5267,7 +6019,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Văn bản ủy quyền còn thời hạn ghi trên giấy nhưng công việc cụ thể đã hoàn thành. B muốn dùng lại để thực hiện tiếp công việc mới không được ủy quyền. Nhận định đúng?"
+        "Tháng 10/2026: Văn bản ủy quyền còn thời hạn ghi trên giấy nhưng công việc cụ thể đã hoàn thành. B muốn dùng lại để thực hiện tiếp công việc mới không được ủy quyền. Nhận định đúng?",
+        "Tháng 10/2026: Theo khoản 3 Điều 140, hoàn thành công việc được ủy quyền có làm chấm dứt đại diện dù thời hạn ghi trên giấy chưa hết không?",
+        "Tháng 10/2026: B đã hoàn tất công việc A giao, muốn dùng giấy còn thời hạn cho công việc mới chưa được ủy quyền. Có thể chỉ dựa ngày hết hạn còn xa để tiếp tục quyền không?"
       ]
     },
     "answers": [
@@ -5315,6 +6069,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5327,7 +6087,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ủy quyền không xác định với giao dịch cụ thể và cũng không xác định được thời hạn theo các căn cứ khoản 1 Điều 140. Thời hạn mặc định là gì?"
+        "Tháng 10/2026: Ủy quyền không xác định với giao dịch cụ thể và cũng không xác định được thời hạn theo các căn cứ khoản 1 Điều 140. Thời hạn mặc định là gì?",
+        "Tháng 10/2026: Khoản 2 Điều 140 quy định thời hạn mặc định nào khi ủy quyền không gắn giao dịch cụ thể và không xác định được thời hạn theo khoản 1?",
+        "Tháng 10/2026: Văn bản giao đại diện không chỉ rõ giao dịch hay thời hạn; không có căn cứ khác ở khoản 1 Điều 140. Người đại diện muốn tính hạn từ lần dùng đầu tiên. Mốc và thời lượng luật định là gì?"
       ]
     },
     "answers": [
@@ -5375,6 +6137,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5387,7 +6155,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Pháp nhân có nhiều người đại diện theo pháp luật. Khách hàng cho rằng bất kỳ người nào cũng ký mọi hợp đồng mà không cần đọc điều lệ. Cách kiểm tra đúng?"
+        "Tháng 10/2026: Pháp nhân có nhiều người đại diện theo pháp luật. Khách hàng cho rằng bất kỳ người nào cũng ký mọi hợp đồng mà không cần đọc điều lệ. Cách kiểm tra đúng?",
+        "Tháng 10/2026: Theo Điều 137, Điều 141, pháp nhân có nhiều đại diện theo pháp luật cần căn cứ nào để xác định phạm vi quyền ký giao dịch?",
+        "Tháng 10/2026: Công ty có hai đại diện theo pháp luật; một người xuất trình danh thiếp để ký mọi hợp đồng, không cung cấp điều lệ. Cách xác định quyền đại diện đúng là gì?"
       ]
     },
     "answers": [
@@ -5434,6 +6204,12 @@
       "id": "OFFICIAL-BLDS15",
       "supportingIds": [],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   },
   {
@@ -5446,7 +6222,9 @@
     "questionForm": "integrated",
     "question": {
       "variants": [
-        "Tháng 10/2026: A có văn bản ủy quyền rộng cho B xử lý tài sản. B yêu cầu lập và ký di chúc thay A, cho rằng quyền xử lý tài sản bao gồm di chúc. Kết luận đúng?"
+        "Tháng 10/2026: A có văn bản ủy quyền rộng cho B xử lý tài sản. B yêu cầu lập và ký di chúc thay A, cho rằng quyền xử lý tài sản bao gồm di chúc. Kết luận đúng?",
+        "Tháng 10/2026: Quyền đại diện xử lý tài sản có cho người được ủy quyền lập và ký di chúc thay người ủy quyền theo Điều 134 và Điều 58 Luật Công chứng không?",
+        "Tháng 10/2026: A giao B toàn quyền quản lý tài sản; B muốn lập di chúc thay A và nói mình biết ý định của A. Quyền này có thể thực hiện thông qua đại diện không?"
       ]
     },
     "answers": [
@@ -5494,6 +6272,12 @@
         "OFFICIAL-CC24"
       ],
       "note": "Tình huống tự biên soạn; đối chiếu điều khoản chính thức theo mốc tháng 10/2026."
+    },
+    "audit": {
+      "variantReviewDate": "2026-10-09",
+      "variantReviewStatus": "substantive_editorial_review",
+      "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
     }
   }
 ]
