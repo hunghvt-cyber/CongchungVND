@@ -201,4 +201,3 @@ D. Cả I và III, vì doanh nghiệp chỉ được góp vốn bằng chuyển 
 Căn cứ: [Thông tư 09/2015/TT-BTC](https://vanban.chinhphu.vn/?docid=178947&pageid=27160), Điều 1, Điều 2; khoản 1 và khoản 3 Điều 3; [Nghị định 222/2013/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=171625), Khoản 1 Điều 6.
 
 Điểm mới: Thay một giao dịch bằng ba hồ sơ đổi chủ thể/phương thức; chỉ kết luận phạm vi quy định đang hỏi, không khẳng định II hợp pháp trong mọi hoàn cảnh.
-
