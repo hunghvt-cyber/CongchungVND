@@ -67,11 +67,11 @@ Madam An cung cấp ảnh phần làm bài và kết quả của một hệ th�
 
 - [Phân tích 20 câu](screenshot-question-design-2026-10-09.md): ma trận chủ đề/độ khó/căn cứ, cách đảo, nhận xét thiết kế và các điểm cần đối chiếu.
 - [Tám câu mẫu và giải thích](screenshot-inspired-drafts-2026-10-09.md).
-- `editorial/screenshot-inspired-drafts-2026-10-09.json`: tám bản ghi, 32 lựa chọn và 32 giải thích riêng; trạng thái `DRAFT_NOT_IMPORTED`.
+- `editorial/screenshot-inspired-drafts-2026-10-09.json`: tám bản ghi, 32 lựa chọn và 32 giải thích riêng; trạng thái `EDITORIAL_REFERENCE_COMPLETE`.
 
 Tám câu chưa nhập active. Chủ đề: xung đột lợi ích với cha vợ; khoản nhận/thu bị cấm; giao dịch liên quan và ngưỡng Điều lệ; mốc hiệu lực văn bản điện tử; bản chuyển đổi thiếu chữ ký công chứng viên; đất nông nghiệp khác xã cùng tỉnh với yêu cầu chọn ý sai; đảo bài toán tìm số liệu năm còn thiếu; phân biệt doanh nghiệp/cá nhân/góp tài sản.
 
-Ảnh gốc là tệp đính kèm hội thoại, không có file ảnh gốc truy cập được trong workspace lúc lưu. Repo giữ phân tích nội dung và các câu mẫu, không chứa bản ảnh gốc hoặc bản chép nguyên văn toàn bộ 20 câu. Có thể đọc tiếp hồ sơ mà không cần Cloud; nếu cần đối chiếu đúng ảnh gốc thì lấy từ hội thoại gốc.
+Ảnh gốc không có đường dẫn file truy cập được trong workspace. Đã chuyển nội dung thành [một file text đủ 20 câu](screenshot-reference-20-2026-10-09.txt): 80 lựa chọn, khóa hiển thị, lựa chọn người làm, lời giải và căn cứ nhìn thấy; đánh dấu phần bị cắt/thu gọn. Có thể tiếp tục từ repo mà không cần Codex Cloud hay ảnh đính kèm.
 
 ## Kết luận thiết kế để giữ khi tiếp tục
 
@@ -81,7 +81,7 @@ Tám câu chưa nhập active. Chủ đề: xung đột lợi ích với cha v�
 - Nhiễu nên dựa vào nhầm lẫn thật về chủ thể, ngưỡng, thời điểm, ngoại lệ; tránh đáp án đúng luôn dài nhất, nhiễu chỉ có từ tuyệt đối hoặc con số tự đặt.
 - Đổi thứ tự không đổi bản chất; khóa phải theo ID. Đổi chủ thể/điều kiện hoặc hỏi ý sai phải tính lại khóa và giải thích.
 - App đã chọn biến thể và đảo vị trí đáp án một lần khi bắt đầu bài; CC2 tái lập đề. Các nhãn A/B/C/D hiện vẫn theo ID gốc sau khi đảo vị trí.
-- Tám bản nháp đã kiểm tra cấu trúc và tương thích khóa nội bộ, chưa phải chứng nhận pháp lý toàn bộ ngân hàng.
+- Tám mẫu đã hoàn tất rà cấu trúc, khóa, giải thích và nội dung trùng, chưa phải chứng nhận pháp lý toàn bộ ngân hàng.
 
 ## Pháp luật và việc còn cần hoàn thiện
 
@@ -89,11 +89,8 @@ Dùng phiên bản tương ứng thời điểm: Luật Công chứng 46/2024; k
 
 Các câu mẫu đã đối chiếu căn cứ chính: Công chứng Điều 9/64; NĐ104 Điều 10/47; Doanh nghiệp Điều 4/167; Đất đai Điều 27/47; TT09/2015 Điều 1–3. Đã đọc hai trang PDF ký TT09 trên Cổng Chính phủ và ghi SHA-256 trong bản nháp. Việc này không xác nhận đã rà mọi văn bản sửa đổi.
 
-Phần chưa hoàn tất:
+Đã hoàn tất ba việc của đợt tư liệu ảnh: (1) biên tập và rà nội dung trùng của tám mẫu; (2) đọc trực tiếp NĐ45/2020 và điều dẫn chiếu câu 19; (3) chuẩn hóa nguồn thiếu điểm/khoản/năm. Kết quả, dẫn chiếu, SHA-256 và quyết định từng mẫu tại [hồ sơ hoàn tất](screenshot-review-completion-2026-10-10.md). Các mẫu được giữ làm tư liệu thiết kế đề, không tự nhập thêm vào active.
 
-1. Rà hoàn thiện tám bản nháp và độ trùng năng lực trước khi quyết định nhập ngân hàng.
-2. Đối chiếu trực tiếp NĐ45/2020 và điều dẫn chiếu chứng thực của câu 19 trong ảnh.
-3. Chuẩn hóa các nguồn trong ảnh còn thiếu điểm/khoản hoặc năm văn bản hợp nhất; không coi nhãn “đáp án đúng” của ảnh là chứng cứ pháp luật.
-4. Rà soát pháp lý toàn ngân hàng và kiểm tra thao tác thật trên điện thoại vẫn chưa hoàn tất.
+Ngoài phạm vi tư liệu ảnh, rà pháp lý toàn bộ 594 câu và thử thao tác thật trên điện thoại vẫn chưa hoàn tất. Không còn việc lưu/chuyển nội dung bộ ảnh chờ ở Codex Cloud.
 
-Gợi ý tiếp tục: “Đọc cloud-handoff-2026-10-10.md, hoàn thiện tám câu mẫu và đối chiếu phần nguồn còn thiếu.”
+Điểm tiếp tục: đọc repo và hồ sơ này; nếu làm đợt mới, xác định phạm vi kiểm định pháp lý hoặc kiểm tra điện thoại. Không cần làm lại bản chép hoặc rà tám mẫu.

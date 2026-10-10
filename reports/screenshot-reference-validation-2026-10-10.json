@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-10",
+  "transcript": {
+    "file": "reports/screenshot-reference-20-2026-10-09.txt",
+    "questions": 20,
+    "options": 80,
+    "displayedKeys": 20,
+    "explanations": 20,
+    "sourceSections": 20,
+    "sha256": "10367c478969600ee7c657edee56f90a137e8590ec0cabb862277af154ef1044",
+    "visibleSourceCutOffQuestions": [
+      6
+    ],
+    "collapsedOptionExplanationsNotInvented": true
+  },
+  "editorial": {
+    "questions": 8,
+    "options": 32,
+    "keysMatchCorrectFlags": true,
+    "status": "EDITORIAL_REFERENCE_COMPLETE"
+  },
+  "dataFilesChanged": false,
+  "allActiveLegallyRecertified": false
+}

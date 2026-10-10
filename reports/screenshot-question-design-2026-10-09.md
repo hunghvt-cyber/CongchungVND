@@ -23,9 +23,9 @@ Các dữ kiện như “tặng cho thật”, “không thuộc diện miễn�
 |---:|---|---|---|---|
 | 1 | Người nước ngoài nhận tặng cho căn hộ: phân biệt với mua từ chủ đầu tư | Tốt nhất | Khá | Nhà ở 27/2023, điểm b khoản 2 Điều 17; khoản 3 Điều 18; khoản 1 Điều 19; đất đai chỉ dùng đúng phạm vi |
 | 2 | Tài trợ có điều kiện giành độc quyền nguồn việc | Nhiều ý | Trung bình | Công chứng 46/2024, điểm e khoản 1, điểm a khoản 2 Điều 9 |
-| 3 | Trích lục khai sinh điện tử hợp lệ và khả năng xác thực | Nhiều ý | Trung bình | Công chứng Điều 42, 59; Giao dịch điện tử 20/2023 và quy định hộ tịch cần ghi cụ thể điều khoản |
+| 3 | Trích lục khai sinh điện tử hợp lệ và khả năng xác thực | Nhiều ý | Trung bình | Công chứng Điều 42, 59; GDĐT Điều 8, khoản 1 Điều 9, Điều 10–11; NĐ87/2020 khoản 6 Điều 12, khoản 1 Điều 13 |
 | 4 | Giá quyền nhận chuyển đổi từ trung bình ba năm | Nhiều ý | Dễ | Khoản 1 Điều 10 NĐ104/2025; khoản 3 tách tài sản Nhà nước |
-| 5 | Lợi ích từ người thứ ba để làm/không làm công chứng | Một ý | Dễ | Điểm d khoản 1 Điều 9 Công chứng; kiểm tra phiên bản VBHN50 theo thời điểm |
+| 5 | Lợi ích từ người thứ ba để làm/không làm công chứng | Một ý | Dễ | Điểm d khoản 1 Điều 9 Công chứng; đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026 |
 | 6 | Chuyển đổi đất nông nghiệp: nguồn gốc và hình thức | Một ý | Trung bình | Điều 47; điểm b khoản 3 Điều 27 Đất đai, đọc VBHN44/2026; Công chứng Điều 42 |
 | 7 | Hồ sơ đầy đủ không hợp pháp hóa mục đích vi phạm | Một ý | Dễ | Điểm b khoản 1 Điều 9 Công chứng |
 | 8 | Chấp thuận giao dịch với người có liên quan trong công ty cổ phần | Nhiều ý | Dễ | Điều 167 Doanh nghiệp, phân khoản theo cơ quan/ngưỡng/người có lợi ích |
@@ -34,7 +34,7 @@ Các dữ kiện như “tặng cho thật”, “không thuộc diện miễn�
 | 11 | Nghĩa vụ nghề nghiệp: phương án đáp ứng đủ bốn nhóm | Tốt nhất | Trung bình | Điểm b, d, g, h, i khoản 2 Điều 18 Công chứng |
 | 12 | Bản chuyển đổi giấy sang điện tử: đúng chủ thể ký số | Tốt nhất | Trung bình | Khoản 1 Điều 47 NĐ104/2025; khoản 4 Điều 64 Công chứng; quy định chuyển đổi GDĐT |
 | 13 | Di sản đất chưa có GCN: quyền người chết và điều kiện được cấp | Nhiều ý | Khá | Khoản 4 Điều 45, Điều 137–140 Đất đai theo loại hồ sơ; Điều 59, 42 Công chứng |
-| 14 | Công việc thường xuyên trong giờ hành chính không cần hợp đồng viết | Tốt nhất | Trung bình | Điểm h khoản 1 Điều 9 Công chứng; kiểm tra phiên bản VBHN50 theo thời điểm |
+| 14 | Công việc thường xuyên trong giờ hành chính không cần hợp đồng viết | Tốt nhất | Trung bình | Điểm h khoản 1 Điều 9 Công chứng; đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026 |
 | 15 | Ba căn cứ đưa giao dịch vào phạm vi công chứng theo bản 2024 | Một ý | Dễ | Khoản 1 Điều 2 Công chứng 46/2024; chú ý sửa đổi 04/2026 có hiệu lực 01/01/2027 |
 | 16 | Tổ chức bồi thường và người gây thiệt hại hoàn trả sau chuyển việc | Tốt nhất | Trung bình | Khoản 1 và khoản 2 Điều 40 Công chứng |
 | 17 | Mốc hiệu lực văn bản công chứng điện tử | Một ý | Dễ | Khoản 2 Điều 64 Công chứng |
@@ -88,8 +88,10 @@ CongchungVND hiện đã chọn câu, lời dẫn và đảo vị trí đáp án
 
 ## Căn cứ đã dùng để viết mẫu
 
-Đã đọc hồ sơ điều khoản trong repo và truy xuất lại trang chính thức: [Luật Công chứng 46/2024](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf), [NĐ104/2025](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf), [Doanh nghiệp VBHN67/2025](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm), [Đất đai VBHN44/2026](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm). Về góp vốn, tham khảo [TT09/2015/TT-BTC](https://vanban.chinhphu.vn/?docid=178947&pageid=27160) và [NĐ222/2013/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=171625). Đã đọc trực tiếp Điều 1–3 TT09 từ PDF ký trên Cổng Chính phủ, cùng điểm đ khoản 23 và khoản 24 Điều 4 Doanh nghiệp về vợ Tổng giám đốc. NĐ45/2020 và điều dẫn chiếu của câu 19 mới được lập danh sách cần đối chiếu, chưa kiểm tra trực tiếp trong lượt này. Bản nguồn/hồ sơ dùng để đối chiếu từng căn cứ, không đồng nhất việc có link với việc đã rà mọi văn bản sửa đổi.
+Đã đọc hồ sơ điều khoản trong repo và truy xuất lại trang chính thức: [Luật Công chứng 46/2024](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf), [NĐ104/2025](https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf), [Doanh nghiệp VBHN67/2025](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm), [Đất đai VBHN44/2026](https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm). Về góp vốn, tham khảo [TT09/2015/TT-BTC](https://vanban.chinhphu.vn/?docid=178947&pageid=27160) và [NĐ222/2013/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=171625). Đã đọc trực tiếp Điều 1–3 TT09 từ PDF ký trên Cổng Chính phủ, cùng điểm đ khoản 23 và khoản 24 Điều 4 Doanh nghiệp về vợ Tổng giám đốc. Đã hoàn tất đọc trực tiếp điểm a, b khoản 3 Điều 10 NĐ45/2020 và đối chiếu khoản 1 Điều 20, khoản 5 Điều 22 quy định chứng thực trong VBHN753/2026; xem hồ sơ hoàn tất ngày 10/10/2026. Bản nguồn/hồ sơ dùng để đối chiếu từng căn cứ, không đồng nhất việc có link với việc đã rà mọi văn bản sửa đổi.
 
-Một số điểm cần chuẩn hóa khi học mẫu: câu 3 chưa ghi điều/khoản cụ thể của luật hộ tịch và GDĐT; câu 7/15 chỉ ghi tên luật ở phần nguồn; câu 18 cần hiện bản hợp nhất chứng thực và ngoại lệ thay vì khiến người đọc chỉ thấy NĐ23 nguyên thủy; VBHN50 trong câu 5/14 cần ngày/năm và mốc áp dụng. Không kết luận các khóa sai chỉ vì tên nguồn chưa đầy đủ. Riêng Điều 2 Công chứng phải phân biệt tình huống tháng 10/2026 với sửa đổi có hiệu lực từ 01/01/2027.
+Các điểm đã được chuẩn hóa trong hồ sơ bổ sung ngày 10/10/2026: câu 3 chưa ghi điều/khoản cụ thể của luật hộ tịch và GDĐT; câu 7/15 chỉ ghi tên luật ở phần nguồn; câu 18 cần hiện bản hợp nhất chứng thực và ngoại lệ thay vì khiến người đọc chỉ thấy NĐ23 nguyên thủy; VBHN50 trong câu 5/14 cần ngày/năm và mốc áp dụng. Không kết luận các khóa sai chỉ vì tên nguồn chưa đầy đủ. Riêng Điều 2 Công chứng phải phân biệt tình huống tháng 10/2026 với sửa đổi có hiệu lực từ 01/01/2027.
 
-Tám câu mới và giải thích từng lựa chọn ở [screenshot-inspired-drafts-2026-10-09.md](screenshot-inspired-drafts-2026-10-09.md); dữ liệu biên tập tại `editorial/screenshot-inspired-drafts-2026-10-09.json`. Chỉ tạo hồ sơ phân tích/bản nháp; ngân hàng active, trạng thái pháp lý, mã và website không thay đổi.
+Tám câu mới và giải thích từng lựa chọn ở [screenshot-inspired-drafts-2026-10-09.md](screenshot-inspired-drafts-2026-10-09.md); dữ liệu biên tập tại `editorial/screenshot-inspired-drafts-2026-10-09.json`. Đã hoàn tất hồ sơ phân tích và tám mẫu tham khảo; ngân hàng active, trạng thái pháp lý, mã và website không thay đổi.
+
+[Bản chép đầy đủ 20 câu trong một file text](screenshot-reference-20-2026-10-09.txt). [Kết quả hoàn thiện nguồn và biên tập](screenshot-review-completion-2026-10-10.md).

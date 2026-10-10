@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "status": "DRAFT_NOT_IMPORTED",
+  "status": "EDITORIAL_REFERENCE_COMPLETE",
   "scope": "Tám câu mới học cấu trúc từ bộ ảnh 20 câu; không sao chép nguyên văn và không thêm vào ngân hàng active.",
   "baseBankCommit": "e77a8afa1744c108c560e78b2fce93b0b2cfe469",
   "allActiveLegallyRecertified": false,
@@ -8,7 +8,7 @@
   "questions": [
     {
       "id": "IMG-DRAFT-01",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một phương án xử lý phù hợp nhất",
       "estimatedDifficulty": "trung bình",
@@ -46,14 +46,26 @@
         {
           "document": "Luật Công chứng 46/2024/QH15",
           "provision": "Điểm c khoản 1 Điều 9",
-          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "versionReference": "Đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026, áp dụng tình huống tháng 10/2026."
         }
       ],
-      "substantiveDifference": "Chuyển từ khoản tài trợ giành nguồn việc sang xung đột lợi ích và phân biệt cá nhân công chứng viên với cả văn phòng."
+      "substantiveDifference": "Chuyển từ khoản tài trợ giành nguồn việc sang xung đột lợi ích và phân biệt cá nhân công chứng viên với cả văn phòng.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "VER26-019"
+        ],
+        "disposition": "same_competence_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-02",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn tất cả hành vi bị cấm theo điểm d khoản 1 Điều 9",
       "estimatedDifficulty": "trung bình",
@@ -92,14 +104,26 @@
         {
           "document": "Luật Công chứng 46/2024/QH15",
           "provision": "Điểm d khoản 1 Điều 9",
-          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "versionReference": "Đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026, áp dụng tình huống tháng 10/2026."
         }
       ],
-      "substantiveDifference": "Bốn tình huống thu/nhận độc lập; phải phân biệt người trả, mục đích và loại khoản tiền/lợi ích."
+      "substantiveDifference": "Bốn tình huống thu/nhận độc lập; phải phân biệt người trả, mục đích và loại khoản tiền/lợi ích.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "COMP26-DD-001"
+        ],
+        "disposition": "same_rule_multi_answer_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-03",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một đáp án đúng",
       "estimatedDifficulty": "khá",
@@ -140,11 +164,22 @@
           "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm"
         }
       ],
-      "substantiveDifference": "Thêm dữ kiện Điều lệ đặt ngưỡng thấp hơn và buộc tính tỷ lệ, thay cho chỉ nhớ tên cơ quan."
+      "substantiveDifference": "Thêm dữ kiện Điều lệ đặt ngưỡng thấp hơn và buộc tính tỷ lệ, thay cho chỉ nhớ tên cơ quan.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "COMP26-DN-011"
+        ],
+        "disposition": "related_rule_expanded_case_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-04",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một đáp án đúng",
       "estimatedDifficulty": "trung bình",
@@ -182,14 +217,26 @@
         {
           "document": "Luật Công chứng 46/2024/QH15",
           "provision": "Khoản 2 Điều 64",
-          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "versionReference": "Đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026, áp dụng tình huống tháng 10/2026."
         }
       ],
-      "substantiveDifference": "Đổi câu hỏi thiếu chữ ký thành xác định mốc hiệu lực qua chuỗi thời gian; tách mã kỹ thuật khỏi điều kiện pháp lý."
+      "substantiveDifference": "Đổi câu hỏi thiếu chữ ký thành xác định mốc hiệu lực qua chuỗi thời gian; tách mã kỹ thuật khỏi điều kiện pháp lý.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "COMP26-QT-008"
+        ],
+        "disposition": "same_rule_timeline_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-05",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một phương án xử lý phù hợp nhất",
       "estimatedDifficulty": "trung bình",
@@ -232,14 +279,26 @@
         {
           "document": "Luật Công chứng 46/2024/QH15",
           "provision": "Khoản 4 Điều 64",
-          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "versionReference": "Đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026, áp dụng tình huống tháng 10/2026."
         }
       ],
-      "substantiveDifference": "Đảo yếu tố thiếu: tổ chức đã ký, công chứng viên chưa ký; phân biệt chữ ký với công cụ tham chiếu."
+      "substantiveDifference": "Đảo yếu tố thiếu: tổ chức đã ký, công chứng viên chưa ký; phân biệt chữ ký với công cụ tham chiếu.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "REFIN26-QT-021"
+        ],
+        "disposition": "related_conversion_expanded_case_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-06",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một nhận định SAI",
       "estimatedDifficulty": "trung bình",
@@ -282,14 +341,26 @@
         {
           "document": "Luật Công chứng 46/2024/QH15",
           "provision": "Khoản 2, khoản 4, khoản 5 Điều 42",
-          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "versionReference": "Đối chiếu VBHN50/VBHN-VPQH ngày 17/03/2026, áp dụng tình huống tháng 10/2026."
         }
       ],
-      "substantiveDifference": "Đổi nguồn gốc đất, thêm hai xã và hỏi nhận định sai; đáp án đúng là lựa chọn chứa nhận định sai, không phải nhận định đúng về pháp luật."
+      "substantiveDifference": "Đổi nguồn gốc đất, thêm hai xã và hỏi nhận định sai; đáp án đúng là lựa chọn chứa nhận định sai, không phải nhận định đúng về pháp luật.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [
+          "IMP-T60-050"
+        ],
+        "disposition": "same_competence_negative_question_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-07",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một đáp án đúng",
       "estimatedDifficulty": "trung bình",
@@ -330,11 +401,20 @@
           "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf"
         }
       ],
-      "substantiveDifference": "Đảo bài toán: tìm dữ kiện năm còn thiếu từ giá quyền nhận chuyển đổi và hai năm đã biết; không chỉ đổi các con số của câu gốc."
+      "substantiveDifference": "Đảo bài toán: tìm dữ kiện năm còn thiếu từ giá quyền nhận chuyển đổi và hai năm đã biết; không chỉ đổi các con số của câu gốc.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [],
+        "disposition": "reverse_calculation_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     },
     {
       "id": "IMG-DRAFT-08",
-      "status": "DRAFT_NOT_IMPORTED",
+      "status": "EDITORIAL_REFERENCE_COMPLETE",
       "applicableAt": "2026-10-09",
       "answerMode": "Chọn một đáp án đúng",
       "estimatedDifficulty": "trung bình",
@@ -380,7 +460,16 @@
           "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=171625"
         }
       ],
-      "substantiveDifference": "Thay một giao dịch bằng ba hồ sơ đổi chủ thể/phương thức; chỉ kết luận phạm vi quy định đang hỏi, không khẳng định II hợp pháp trong mọi hoàn cảnh."
+      "substantiveDifference": "Thay một giao dịch bằng ba hồ sơ đổi chủ thể/phương thức; chỉ kết luận phạm vi quy định đang hỏi, không khẳng định II hợp pháp trong mọi hoàn cảnh.",
+      "editorialReview": {
+        "reviewedAt": "2026-10-10",
+        "keyChecked": true,
+        "optionsAndExplanationsChecked": true,
+        "relatedActiveIds": [],
+        "disposition": "subject_and_payment_scope_reference",
+        "imported": false,
+        "note": "Hoàn thiện làm tư liệu thiết kế đề; không tự tăng câu độc lập hoặc thay bộ đáp án active."
+      }
     }
   ],
   "sourceReviewNotes": [
@@ -397,6 +486,13 @@
     {
       "source": "NĐ104/2025",
       "review": "Đọc trực tiếp PDF Điều 10 và Điều 47 cho câu mẫu; đối chiếu Điều 37 cho câu 9 trong ảnh."
+    },
+    {
+      "source": "Nguồn và kết luận biên tập đợt ảnh",
+      "report": "reports/screenshot-review-completion-2026-10-10.md",
+      "review": "Đã hoàn thiện dẫn chiếu còn thiếu, khóa 8 câu và rà các câu active liên quan. Phạm vi là tư liệu biên tập, không chứng nhận pháp lý toàn ngân hàng."
     }
-  ]
+  ],
+  "reviewedAt": "2026-10-10",
+  "completionReport": "reports/screenshot-review-completion-2026-10-10.md"
 }
