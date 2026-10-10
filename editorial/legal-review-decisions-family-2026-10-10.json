@@ -1,0 +1,370 @@
+{
+  "date": "2026-10-10",
+  "scope": 26,
+  "reviews": {
+    "FAM26-001": {
+      "answer": "A",
+      "conclusion": "Người liên quan cần sự đồng ý của người yêu cầu công chứng còn sống và nơi lưu bản gốc.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "ab84ba61748cd6915b1a2614e0b93f13e1e042ab6264360ebeda357b3142d497"
+    },
+    "FAM26-002": {
+      "answer": "C",
+      "conclusion": "Ngoại lệ bản sao chứng thực chỉ nhóm điểm d; căn cước điểm b vẫn đối chiếu bản chính khi chưa khai thác dữ liệu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "06e94c20e17932585730681ded413d32e7579c813f8a5ca32b79dd74cb24d75a"
+    },
+    "FAM26-003": {
+      "answer": "B",
+      "conclusion": "A hoạt động bình thường, chấm dứt giao dịch đã công chứng phải tại A; ngoại lệ lưu trữ chưa phát sinh.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "711e4ef84ed2778a3dc0a88983012bb76ee979dca9ef5d8b1a5e247d27b4ab82"
+    },
+    "FAM26-004": {
+      "answer": "A",
+      "conclusion": "Chia bằng bản án có hiệu lực: thỏa thuận chấm dứt phải được Tòa án công nhận.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "3b503f3c7b22f9a1f728f79e0fdca881b73e3b2e15ef660f0af3cc8dffc76329"
+    },
+    "FAM26-005": {
+      "answer": "D",
+      "conclusion": "Điều 41.2 cho thỏa thuận khác về tài sản đã chia; nhập nhà cần hình thức và đăng ký phù hợp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b9cb342c44580b3f69c7a9f90220f08fe5cc70cc32c565defc298ce964c199e4"
+    },
+    "FAM26-006": {
+      "answer": "B",
+      "conclusion": "Ưu tiên mốc 15/10 đã thỏa thuận, không áp mặc định ngày lập văn bản.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b65750f1714f81f2defc52f5694fd7bdac6d04a914ce5d6deb1dd0bfb455cbd4"
+    },
+    "FAM26-007": {
+      "answer": "C",
+      "conclusion": "Mục đích trốn thuế xác định thuộc Điều 42.2.đ, tự nguyện/chưa kê biên không loại trừ vô hiệu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "ccb1dac3c32ec710e10d49f31f673e5b48fafae9ffc84ec2bd56995711ada36d"
+    },
+    "FAM26-008": {
+      "answer": "A",
+      "conclusion": "Ảnh hưởng nghiêm trọng con chưa thành niên là căn cứ độc lập, không cần trốn nợ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "e98edba44cbf99d97194dd81aa8fb0125d03bafcf9c2a971f463a5aa69c3ddea"
+    },
+    "FAM26-009": {
+      "answer": "A",
+      "conclusion": "Chia tài sản không chấm dứt hôn nhân hoặc miễn toàn bộ chăm sóc/cấp dưỡng trong mọi trường hợp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a920d0cf5b6d346c84535467f386fa236aa3bfc1c7ea85518aa87b398f4c3efb"
+    },
+    "FAM26-010": {
+      "answer": "B",
+      "conclusion": "Có quyền chia một phần hoặc toàn bộ, không bị giới hạn chỉ kinh doanh/trả nghĩa vụ riêng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d4a588bafd63394c637010558e800fbdddfcfb498c7faf4d917880f77ddd6c34"
+    },
+    "FAM26-011": {
+      "answer": "B",
+      "conclusion": "Không phân định được thu nhập và lợi tức sau chia: sở hữu chung theo ND126 Điều 14.3.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9e4f1951d98199fc26b0978a8b9b1e442f410a4bcf103958a8d133400c60b804"
+    },
+    "FAM26-012": {
+      "answer": "A",
+      "conclusion": "Chia xe không chấm dứt chế độ luật định; lương lao động mới vẫn chung.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "eb29eed314ed475ccea55c0d2919270ccaf158a4a870cf071d191395bbd30ae7"
+    },
+    "FAM26-013": {
+      "answer": "D",
+      "conclusion": "Có thỏa thuận tiền thuê chung nên không áp mặc định lợi tức riêng; nhà không tự nhập chung.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "317888024f2b2df26a934ea0176737224484a0cff109e1e5dd6bf3453ec9610c"
+    },
+    "FAM26-014": {
+      "answer": "D",
+      "conclusion": "Giữ nhà chung nhưng giao quyền kinh doanh khác chia nhà riêng; chọn Điều 36 đúng mục tiêu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9454bd8cc2b8deaa7fabce245d4dc0d0098ef7cff2f1527b800703de43fe2187"
+    },
+    "FAM26-015": {
+      "answer": "A",
+      "conclusion": "Nghĩa vụ liên quan tài sản riêng nhập chung được trả bằng tài sản chung nếu không có ngoại lệ; không tự đổi người có nghĩa vụ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "13d914e3343b38fa7d9e76e06c6edc53786eab55a88a5cdc1a6ec75a40444225"
+    },
+    "FAM26-016": {
+      "answer": "A",
+      "conclusion": "Điều 49 không cho xác lập lần đầu chế độ Điều 47 sau kết hôn hoặc hồi tố.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b05a7e04fab13a603feabce6032cab7cd49aa40baf22e7c34dfd36a399ead23a"
+    },
+    "FAM26-017": {
+      "answer": "B",
+      "conclusion": "Sửa chế độ hợp lệ cần công chứng/chứng thực; hiệu lực từ ngày đó theo ND126 Điều 18.1.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "fc3daf4e12b66e275e996413f15768a0213bcd2a897fa591f9f6eb7568514dbd"
+    },
+    "FAM26-018": {
+      "answer": "B",
+      "conclusion": "Nghĩa vụ với chủ nợ trước sửa vẫn tồn tại; phân bổ nội bộ không tự giải phóng người có nghĩa vụ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "2f7d18b824f227a280b975e91837f14cf0526d9b84e8a65014e45d09a6dadce4"
+    },
+    "FAM26-019": {
+      "answer": "B",
+      "conclusion": "Phải cung cấp thông tin chế độ tài sản liên quan giao dịch cho C, không cần công khai toàn mạng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "528e7b62e70d5730d27a15e16dd022dc8493d8a1eecea06c2b8a84ea9c8ef22c"
+    },
+    "FAM26-020": {
+      "answer": "D",
+      "conclusion": "Xác lập chế độ tài sản về bất động sản thuộc ngoại lệ địa bàn Điều 44; không mở rộng mọi giao dịch vợ chồng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "40c9534c7922211733fe8f6478a62ed2f782abba517f6e47bb0c322463c9b115"
+    },
+    "FAM26-021": {
+      "answer": "B",
+      "conclusion": "Không có tài sản chung vẫn phải góp tài sản riêng theo khả năng để đáp ứng nhu cầu thiết yếu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9956c7516e0de9a1acb63d2f51e4a91ac87a0b2428a317bb94d93e4c82b47609"
+    },
+    "FAM26-022": {
+      "answer": "A",
+      "conclusion": "Lựa chọn giám hộ hợp lệ theo Điều 48.2 được xét trước thứ tự giám hộ đương nhiên Điều 53.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b65ffc0e94f45be2d60b12881eee62f2ea76a2a6c936c282bfd95db9eacf6087"
+    },
+    "FAM26-023": {
+      "answer": "D",
+      "conclusion": "Giao dịch tài sản lớn cần đồng ý giám sát; người làm chứng không thay chức năng đó.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "3696eaa4cfdfa0ac27200d2046ac2404b4d8c6135570a99f14909ef6971aedef"
+    },
+    "FAM26-024": {
+      "answer": "B",
+      "conclusion": "Cấm giám hộ tặng tài sản người được giám hộ; giám sát đồng ý không tạo ngoại lệ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "21840d689f0d27f3267e606d528a2e5f160310f13ea20c3fa66068f553fbe374"
+    },
+    "FAM26-025": {
+      "answer": "D",
+      "conclusion": "Vi phạm nghiêm trọng cấp dưỡng/thừa kế của con là căn cứ Tòa án tuyên vô hiệu, không chỉ hình thức.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9086a3a3f43603a6cb3709dc4a84272f633ff27869361102b33acddc93cb3a30"
+    },
+    "FAM26-026": {
+      "answer": "B",
+      "conclusion": "Chung sống từ 2006 không đăng ký và không ngoại lệ không tự thành hôn nhân; tài sản theo Điều 16.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/family-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "e7ca121e0b8573af490bb6dddd04bd31fe2be378ff299812b00806f11f9f1ca7"
+    }
+  }
+}

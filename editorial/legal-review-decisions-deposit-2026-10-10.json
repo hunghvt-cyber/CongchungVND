@@ -1,0 +1,258 @@
+{
+  "date": "2026-10-10",
+  "scope": 18,
+  "reviews": {
+    "DEP26-001": {
+      "answer": "A",
+      "conclusion": "Phân biệt thuê động sản bảo đảm trả lại tài sản với cọc bảo đảm giao kết thuê nhà; ba lời dẫn cùng dữ kiện, chỉ A đúng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6e41ffd008a662b7c51f133d14c1434f4e840f20f30125b593e9cb6a0ebf8f00"
+    },
+    "DEP26-002": {
+      "answer": "B",
+      "conclusion": "Tài sản thuê không còn để trả: ký cược thuộc bên cho thuê. Câu chỉ xét ký cược, không xác định đã thanh toán mọi thiệt hại.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d49cd2b7f5834aff9892d073dd2858a939c0ae7e69724f899d1599b5d228c173"
+    },
+    "DEP26-003": {
+      "answer": "C",
+      "conclusion": "Xe vẫn còn: giữ quyền đòi lại xe; không chuyển quyền sở hữu từ việc không trả hoặc nhận ký cược.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a060432d0554e1d5e18c63299b051412aa552fd601690652ea72464b0aa8d5c1"
+    },
+    "DEP26-004": {
+      "answer": "D",
+      "conclusion": "Hoàn ký cược gắn với trả lại tài sản thuê và trả tiền thuê; các nhiễu bỏ một điều kiện hoặc thay bằng hết hạn đều sai.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "fde50de5605e116582feaf301588780e9df46ed23b49088e6acda121bf1fffe3"
+    },
+    "DEP26-005": {
+      "answer": "A",
+      "conclusion": "Khoản trả lại 300 triệu cộng khoản tương đương 300 triệu = 600 triệu; giả thiết loại thỏa thuận khác và miễn trách nhiệm.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "7d228060b9c92ebaa36679af0ddc61e345ad8491b955d388cf3447aed27397e3"
+    },
+    "DEP26-006": {
+      "answer": "B",
+      "conclusion": "Khoản 2 Điều 328 cho thỏa thuận khác. 300 triệu hoàn cộng 900 triệu trả thêm = 1,2 tỷ; không áp trần phạt thương mại cho câu dân sự này.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "09ffeaba4fad07e5c92ca2b66bb036524fed180bf5f984ac1b27e3c1351648a9"
+    },
+    "DEP26-007": {
+      "answer": "C",
+      "conclusion": "Điều 37 NĐ21 coi tiền không xác định rõ cọc hay trả trước là trả trước. Thời điểm giao trước không thay thỏa thuận bảo đảm.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "556ef557d7afcdf6254529f1c0d47cf0dc559eb44e51f230f82031c4643cccf1"
+    },
+    "DEP26-008": {
+      "answer": "D",
+      "conclusion": "Điều 293 cho bảo đảm một phần; Điều 328 cho cọc trong một thời hạn. Không có căn cứ bắt thời gian cọc bằng toàn bộ hợp đồng thuê.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "00adff275064c293eb46d406e4ce14352422c1ef9f04b04643e0569f7dd9708e"
+    },
+    "DEP26-009": {
+      "answer": "A",
+      "conclusion": "Mục đích giao kết đã xảy ra khác mục đích bảo đảm thực hiện tiền thuê tương lai; phải sửa nội dung bảo đảm và hoàn cọc, không chỉ tiêu đề.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "05aa33c93ac4c8f23c4e1931343c6f5d2f8e0d96fa71fb2e475362c235981c52"
+    },
+    "DEP26-010": {
+      "answer": "B",
+      "conclusion": "Điều 105/115 phân biệt quyền sử dụng đất là quyền tài sản với vật. Điều 328 không liệt kê quyền tài sản trong tài sản đặt cọc; giao giấy chứng nhận không chuyển bản chất quyền.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9b0b9941b68f0eaa96377d22c3b785c530c4c42ce9baea01a756238597e3b7df"
+    },
+    "DEP26-011": {
+      "answer": "C",
+      "conclusion": "Điểm d khoản 2 Điều 38 NĐ21 cấm tự giao dịch, khai thác, sử dụng vàng cọc khi chưa được bên đặt đồng ý; hứa hoàn vàng không tạo ngoại lệ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b71d2267554cd840d14b7525c198aa073ce140d525182dadb91d8411708f055d"
+    },
+    "DEP26-012": {
+      "answer": "D",
+      "conclusion": "Điểm b khoản 1 Điều 38 NĐ21 yêu cầu bên nhận đồng ý trao đổi, thay tài sản cọc; tương đương giá trị hoặc giấy định giá không thay đồng ý.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6223997338fd57022996004c4c1615d5f0ffc898b84030ad17285fffbe8611aa"
+    },
+    "DEP26-013": {
+      "answer": "A",
+      "conclusion": "Tài sản bảo đảm cọc là tiền A, không phải nhà B đang thế chấp. Điều 321 khoản 5 phải kiểm tra riêng; không suy từ cọc ra giải chấp hay đủ mọi điều kiện mua bán.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d987d9b35b482a15d05b1b6d11449d171c3541a8570a0188eff3fd805b6e0415"
+    },
+    "DEP26-014": {
+      "answer": "B",
+      "conclusion": "Dự thảo ràng buộc vợ chưa chứng minh ý chí/đại diện: Điều 42 khoản 4 phải làm rõ; Điều 35 HNGD không cho ghi thay cam kết chỉ bằng lời chồng. Không kết luận mọi cọc một người ký vô hiệu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6625fd2353190e1aee5cf2c7fcca7172b1413250f8beb19729b1426865dd4bae"
+    },
+    "DEP26-015": {
+      "answer": "C",
+      "conclusion": "Điều 357 áp dụng nghĩa vụ trả tiền đã đến hạn, không chỉ tiền vay. Mốc chậm trả là mốc phải hoàn; không tính lãi tự động từ ngày giao cọc.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "16a048aaf6e958a5648aa01d5e546163feac8e2ed7d6e193d43f666e2240b2e7"
+    },
+    "DEP26-016": {
+      "answer": "D",
+      "conclusion": "Khoản 5 Điều 23 KDBĐS: chủ đầu tư, căn hộ tương lai đủ điều kiện, giá rõ 4 tỷ; 5% = 200 triệu. 300 triệu vượt trần dù thấp hơn trần thanh toán lần đầu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "dd13f772c05dda040d96edc01ee14240aa82913271cb6c4dd6a7431e8dfa5881"
+    },
+    "DEP26-017": {
+      "answer": "A",
+      "conclusion": "Điều 3 và 421 cho cùng thỏa thuận sửa hợp đồng, giữ điều kiện và hình thức tương ứng. Không biến quyền sửa theo đồng thuận thành quyền một bên tự thay nhà.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "7b5eb0fe94417e1000fb3d21c4455d76fcd902839f465f79d84f76107cb0c8a1"
+    },
+    "DEP26-018": {
+      "answer": "B",
+      "conclusion": "Cọc chỉ bảo đảm giao kết đã hoàn thành và phải hoàn theo thỏa thuận; không tự áp mất cọc cho tiền thuê ngoài phạm vi bảo đảm. Nợ thuê xử lý riêng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/deposit-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "65906b9d0f94459d0eda85f2b1fd757587303c234cf4b6d7f17dbad2cd6d5be2"
+    }
+  }
+}

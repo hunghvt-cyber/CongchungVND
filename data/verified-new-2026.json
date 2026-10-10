@@ -202,7 +202,7 @@
       },
       {
         "id": "B",
-        "text": "Tổ chức tín dụng thanh toán, bồi thường sau khi trừ chi phí dịch vụ",
+        "text": "Bên có quyền được tổ chức tín dụng nơi ký quỹ thanh toán và bồi thường thiệt hại do bên có nghĩa vụ gây ra, sau khi trừ chi phí dịch vụ",
         "correct": true
       },
       {
@@ -625,7 +625,7 @@
       },
       {
         "id": "B",
-        "text": "Có quyền khai thác, sử dụng và thu hoa lợi, lợi tức",
+        "text": "Có quyền tự mình hoặc cho phép người khác khai thác, sử dụng và thu hoa lợi, lợi tức",
         "correct": true
       },
       {

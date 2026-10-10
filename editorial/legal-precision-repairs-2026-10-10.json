@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-10",
+  "repairs": [
+    {
+      "id": "VER26-NEW-28",
+      "answerId": "B",
+      "before": "Tổ chức tín dụng thanh toán, bồi thường sau khi trừ chi phí dịch vụ",
+      "after": "Bên có quyền được tổ chức tín dụng nơi ký quỹ thanh toán và bồi thường thiệt hại do bên có nghĩa vụ gây ra, sau khi trừ chi phí dịch vụ",
+      "reason": "Clarify the correct option to answer every existing stem directly; preserve key and legal conclusion."
+    },
+    {
+      "id": "VER26-NEW-67",
+      "answerId": "B",
+      "before": "Có quyền khai thác, sử dụng và thu hoa lợi, lợi tức",
+      "after": "Có quyền tự mình hoặc cho phép người khác khai thác, sử dụng và thu hoa lợi, lợi tức",
+      "reason": "Clarify the correct option to answer every existing stem directly; preserve key and legal conclusion."
+    }
+  ]
+}

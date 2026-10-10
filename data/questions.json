@@ -1349,9 +1349,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?",
-        "Tháng 10/2026: Người giữ giấy chứng nhận kết quả kiểm tra tập sự cần phân biệt không có thời hạn với trường hợp không đề nghị bổ nhiệm trong năm năm như thế nào?",
-        "Tháng 10/2026: Người được cấp giấy chứng nhận không nộp đề nghị bổ nhiệm suốt năm năm và viện dẫn giấy không ghi hạn. Quy tắc hiệu lực đầy đủ của giấy là gì?"
+        "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?",
+        "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Người giữ giấy chứng nhận kết quả kiểm tra tập sự cần phân biệt không có thời hạn với trường hợp không đề nghị bổ nhiệm trong năm năm như thế nào?",
+        "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Người được cấp giấy chứng nhận không nộp đề nghị bổ nhiệm suốt năm năm và viện dẫn giấy không ghi hạn. Quy tắc hiệu lực đầy đủ của giấy là gì?"
       ]
     },
     "answers": [
@@ -1376,16 +1376,22 @@
         "correct": false
       }
     ],
-    "explanation": "Giấy chứng nhận không có thời hạn cố định, nhưng hết hiệu lực nếu trong năm năm kể từ ngày cấp người được cấp không đề nghị bổ nhiệm. Phải phân biệt không có thời hạn ghi trên giấy với trường hợp pháp luật quy định mất hiệu lực do không sử dụng trong thời gian nêu trên.",
+    "explanation": "Giấy chứng nhận không có thời hạn cố định, nhưng hết hiệu lực nếu trong năm năm kể từ ngày cấp người được cấp không đề nghị bổ nhiệm. Phải phân biệt không có thời hạn ghi trên giấy với trường hợp pháp luật quy định mất hiệu lực do không sử dụng trong thời gian nêu trên. Giấy chứng nhận đã được cấp theo Luật Công chứng 2014 thuộc quy tắc chuyển tiếp tại khoản 2 Điều 76: mốc kết thúc năm năm tính từ ngày 01/07/2025, không tự tính năm năm từ ngày cấp theo khoản 5 Điều 12.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
         "article": "Điều 12",
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
         "clause": "Khoản 5"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 76",
+        "clause": "Khoản 2",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
       }
     ],
-    "lastVerified": "2026-10-07",
+    "lastVerified": "2026-10-10",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
@@ -1397,7 +1403,8 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
     }
   },
   {
@@ -1654,9 +1661,9 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Công chứng viên đương nhiên miễn nhiệm khi?",
-        "Tháng 10/2026: Xét riêng căn cứ tuổi, người hành nghề vượt mức nào thì thuộc trường hợp đương nhiên miễn nhiệm công chứng viên?",
-        "Tháng 10/2026: Công chứng viên đã quá trần tuổi mà vẫn khỏe và được tổ chức đề nghị tiếp tục. Căn cứ đương nhiên miễn nhiệm do tuổi là gì?"
+        "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Công chứng viên đương nhiên miễn nhiệm khi?",
+        "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Xét riêng căn cứ tuổi, người hành nghề vượt mức nào thì thuộc trường hợp đương nhiên miễn nhiệm công chứng viên?",
+        "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Công chứng viên đã quá trần tuổi mà vẫn khỏe và được tổ chức đề nghị tiếp tục. Căn cứ đương nhiên miễn nhiệm do tuổi là gì?"
       ]
     },
     "answers": [
@@ -1681,16 +1688,22 @@
         "correct": false
       }
     ],
-    "explanation": "Quá 70 tuổi làm phát sinh đương nhiên miễn nhiệm. Người đúng 70 tuổi chưa thuộc trường hợp này chỉ vì tuổi; việc miễn nhiệm theo nguyện vọng cá nhân hoặc bị miễn nhiệm do vi phạm là các căn cứ khác.",
+    "explanation": "Đối với người không thuộc diện chuyển tiếp tại khoản 5 Điều 76, quá 70 tuổi là căn cứ đương nhiên miễn nhiệm theo khoản 1 Điều 16; đúng 70 tuổi chưa thuộc căn cứ này. Người đã quá 70 tuổi và đang hành nghề tại ngày 01/07/2025 được tiếp tục hai năm từ ngày đó; người từ đủ 68 đến đủ 70 tuổi tại ngày 01/07/2025 được hành nghề đến đủ 72 tuổi. Vì vậy, không áp trần 70 tuổi máy móc cho mọi công chứng viên trong tháng 10/2026.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
         "article": "Điều 16",
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
         "clause": "Khoản 1"
+      },
+      {
+        "document": "Luật Công chứng số 46/2024/QH15",
+        "article": "Điều 76",
+        "clause": "Khoản 5",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
       }
     ],
-    "lastVerified": "2026-10-07",
+    "lastVerified": "2026-10-10",
     "source": {
       "type": "official",
       "id": "OFFICIAL-CC24",
@@ -1702,7 +1715,8 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
     }
   },
   {

@@ -1,0 +1,286 @@
+{
+  "date": "2026-10-10",
+  "scope": 20,
+  "reviews": {
+    "AUTH26-001": {
+      "answer": "D",
+      "conclusion": "Nghĩa vụ cấp dưỡng không chuyển giao; có thể nhờ người thứ ba trả với sự đồng ý nhưng A vẫn chịu trách nhiệm.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "4abec1b0ddbcb60d5205357b07d255dd155d68ff2f2f54a3feef3182dc2aa13e"
+    },
+    "AUTH26-002": {
+      "answer": "D",
+      "conclusion": "Tuổi 30 không tự phục hồi năng lực khi quyết định Tòa án còn hiệu lực; đại diện phải đủ năng lực phù hợp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "c86749eb565dd52f4193949489921be4828f5b98dba1526491213433d9fdbdda"
+    },
+    "AUTH26-003": {
+      "answer": "D",
+      "conclusion": "Ủy quyền không thù lao được đơn phương chấm dứt với báo trước hợp lý; không giả định có thỏa thuận chấm dứt để công chứng theo Điều 53.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "8178df98e417b2b636052a7aca9a565880c6011e7154cbf82953affe081b1af5"
+    },
+    "AUTH26-004": {
+      "answer": "D",
+      "conclusion": "Bên nhận ủy quyền có thù lao được chấm dứt; bồi thường thiệt hại chứng minh được.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d3f4e9a0d05f2eff589f7f5c00b24113920b140282803d81e2632ccfc9e5d352"
+    },
+    "AUTH26-005": {
+      "answer": "D",
+      "conclusion": "A chưa báo C bằng văn bản, C không biết/phải biết: giao dịch trong phạm vi vẫn có hiệu lực với điều kiện khác đã đáp ứng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "af00cad741155bc206fe1bc78b628fcf6d21b73ff0b7d7bd6b44110b35cfddd3"
+    },
+    "AUTH26-006": {
+      "answer": "A",
+      "conclusion": "B phải thông báo A về công việc và C về thời hạn, phạm vi, sửa đổi ủy quyền.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "98cd95d12b4ea5bca2a90f5f01d3d5431b3d43bae92bd37815edf925cd46f9e8"
+    },
+    "AUTH26-007": {
+      "answer": "D",
+      "conclusion": "Điều khoản gia hạn một lần có đủ hai điều kiện; thời hạn xác định theo toàn bộ thỏa thuận, không mặc định hết sau 12 tháng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "3e106f24e0d417b95ecb4336cb344744f01a26665cba72e6538fb76adfef03e5"
+    },
+    "AUTH26-008": {
+      "answer": "C",
+      "conclusion": "Ủy quyền lại phải đúng phạm vi và hình thức ban đầu; không thêm quyền bán vào quyền nộp hồ sơ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "4d04d6601b2111d623eeef739f56a98395b7e1af8251f80bc87d205411edea2c"
+    },
+    "AUTH26-009": {
+      "answer": "C",
+      "conclusion": "Vợ chồng và bận công việc không thay thế sự đồng ý hoặc bất khả kháng đủ điều kiện để ủy quyền lại.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "36c358c6fe7c9d178916606563470fa30ff3f7eb1aa541ccd9b4b50ab45dfbaa"
+    },
+    "AUTH26-010": {
+      "answer": "A",
+      "conclusion": "Bất khả kháng và cần thiết để đạt mục đích của A cho phép ủy quyền lại khi đúng phạm vi, hình thức.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "74bc3dd67207555af156972675551743b4f8d94fbefd87245b0382fd62e34384"
+    },
+    "AUTH26-011": {
+      "answer": "B",
+      "conclusion": "Thực hiện đăng ký sau giao dịch đã hoàn thành không tự thành giao dịch với chính mình theo Điều 141.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a6d6c75e1ee52d28b09471ed847e4762959437b38458333350b79048a164ff59"
+    },
+    "AUTH26-012": {
+      "answer": "D",
+      "conclusion": "Không thù lao vẫn phải thanh toán chi phí hợp lý 8 triệu đã chứng minh, không có thỏa thuận loại trừ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "8035bf6b56d47fb1538036f24536d88677bf8c4681908bd8c71528cda1cccc0a"
+    },
+    "AUTH26-013": {
+      "answer": "B",
+      "conclusion": "Phải giữ tài liệu và trả tài sản, lợi ích cho A; không có thỏa thuận cho giữ lợi ích.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "564bf294dd6edde33085cdfb3740b5bfa9f658b053852465033415cc81f1e012"
+    },
+    "AUTH26-014": {
+      "answer": "D",
+      "conclusion": "Nghĩa vụ giữ bí mật không bị loại vì đã xong công việc; vi phạm gây thiệt hại phải bồi thường.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "911454216652b0f516e0824a8f6a048003f0940444205416fcc3018915c4d0e0"
+    },
+    "AUTH26-015": {
+      "answer": "D",
+      "conclusion": "A trực tiếp ủy quyền C là ủy quyền mới, không phải B ủy quyền lại; không tự chấm dứt quyền B.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "8ec796b48ee7bafc2eceec8ab37a0f3a3700338fd7b90e410f4dca60700f7868"
+    },
+    "AUTH26-016": {
+      "answer": "A",
+      "conclusion": "A chết làm chấm dứt đại diện dù thời hạn 24 tháng còn; không tự đại diện người thừa kế.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "eeb41479e419add6e2bdf1178a9c5b899bf0b208e3c386072f5f1c0f1188ce08"
+    },
+    "AUTH26-017": {
+      "answer": "C",
+      "conclusion": "Phần giá vượt 200 lên 220 được A đồng ý nên thuộc ngoại lệ Điều 143.1.a.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "5330ebb887901d2d193b18f2ae9b5892e5b4e0196400afe5ebe2e7c4e6fe75a5"
+    },
+    "AUTH26-018": {
+      "answer": "A",
+      "conclusion": "Đại diện và đối tác cố ý vượt quyền gây thiệt hại: trách nhiệm liên đới, không có sự chấp thuận của A.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "10f7f683bf95bcd07d7e381b6d2e2786c3ab74c91b9aa3fa3d016ce1e20c97ac"
+    },
+    "AUTH26-019": {
+      "answer": "C",
+      "conclusion": "Hai vợ chồng cùng là bên bán, B ký cho mình và đại diện A đúng ủy quyền; không coi tài sản chỉ thuộc B.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "32fb33a033ad5a928d828f68c8f9c684990c881c793dcaa14a957a1b1e088bc6"
+    },
+    "AUTH26-020": {
+      "answer": "D",
+      "conclusion": "Không dùng được ngón trỏ phải thì dùng ngón trỏ trái; vợ không được ký giả thay, không bắt buộc người làm chứng nếu tự đọc và điểm chỉ được.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/authorization-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "f8983fbf0c97a3947d27c9de77ef7e1021ceecb289ad6c0da26c34f3c81142fb"
+    }
+  }
+}

@@ -2,6 +2,10 @@ const test=require('node:test');const assert=require('node:assert/strict');const
 const root=path.resolve(__dirname,'..');const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const files=['questions.json','derived-questions.json',...Array.from({length:5},(_,i)=>`expansion-2026-batch-0${i+1}.json`),'validated-2026.json','imported-exams-2026.json','imported-deposit-2026.json','imported-authorization-2026.json','imported-family-2026.json','imported-inheritance-2026.json','completion-2026.json','refinement-2026.json','verified-new-2026.json'];
 const bank=files.flatMap(f=>read(`data/${f}`));const eligible=bank.filter(q=>['active','verified'].includes(q.status));
+const legalRepairs=new Map(read('editorial/legal-transition-repairs-2026-10-10.json').repairs.map(r=>[r.id,r]));
+// Historical editorial evidence stays immutable. Later statutory repairs must
+// match their complete approved after-snapshot before using the old version.
+const atEditorialReview=q=>{const r=legalRepairs.get(q.id);if(!r)return q;assert.deepEqual(q,r.after,q.id);return r.before;};
 test('60-question refinement batch retains authored variants, individual review and independent evidence keys',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');
  const worksheet=read('editorial/variant-batch-60-2026-10-09.json');
@@ -42,7 +46,7 @@ test('100-question continuation adds exactly 200 authored stems and excludes arc
  const drafts={...read('editorial/completion-variants-2026-10-09.json'),...read('editorial/refinement-variants-2026-10-09.json'),...read('editorial/inheritance-variants-2026-10-09.json')};
  const proofs=new Map(['completion','refinement','inheritance'].flatMap(g=>read(`reports/${g}-legal-evidence-2026.json`).questions).map(q=>[q.id,q]));
  for(const id of ids){
-  const q=bank.find(q=>q.id===id),d=report.decisions.find(d=>d.id===id);
+  const q=atEditorialReview(bank.find(q=>q.id===id)),d=report.decisions.find(d=>d.id===id);
   assert.equal(q.status,'active',id);
   assert.equal(d.before.question.variants.length,1,id);
   assert.equal(q.question.variants[0],d.before.question.variants[0],id);
@@ -120,7 +124,7 @@ test('substantive variant migration preserves each reviewed four-answer set and 
  assert.equal(report.phaseStatus,'VARIANT_SCOPE_COMPLETE_LEGAL_REVIEW_NOT_CERTIFIED');
  const repairs=read('editorial/exam-explanation-repairs-final-2026-10-09.json').repairs;
  for(const d of report.decisions){
-  const q=bank.find(q=>q.id===d.id);
+  const q=atEditorialReview(bank.find(q=>q.id===d.id));
   assert.ok(q,d.id);
   assert.deepEqual(q.answers,d.before.answers,d.id);
   assert.deepEqual(q.legalBasis,d.legalBasis,d.id);
@@ -226,7 +230,7 @@ test('authorization cases carry precise legal evidence and never duplicate the s
 test('all stored IDs and answer IDs are unique; single questions have exactly one key',()=>{assert.equal(new Set(bank.map(q=>q.id)).size,bank.length);for(const q of bank){assert.equal(new Set(q.answers.map(a=>a.id)).size,q.answers.length,q.id);if(q.type==='single')assert.equal(q.answers.filter(a=>a.correct===true).length,1,q.id);}});
 
 test('80 independently authored completion cases have exact keys and linked article evidence',()=>{
- const questions=read('data/completion-2026.json');const proof=new Map(read('reports/completion-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
+ const questions=read('data/completion-2026.json').map(atEditorialReview);const proof=new Map(read('reports/completion-legal-evidence-2026.json').questions.map(q=>[q.id,q]));
  assert.equal(questions.length,80);assert.equal(proof.size,80);
  for(const q of questions){assert.equal(q.lastVerified,'2026-10-07');assert.match(q.question.variants[0],/^Tháng 10\/2026:/);assert.equal(q.status,q.id==='COMP26-DAT-002'?'archived':'active');assert.equal(q.source.type,'official');assert.deepEqual(q.legalBasis,proof.get(q.id).provisions.map(p=>p.reference));assert.equal(q.answers.find(a=>a.correct).id,proof.get(q.id).answer);assert.ok(proof.get(q.id).provisions.every(p=>p.evidenceExcerpt.length>100));assert.equal(new Set(q.answers.map(a=>a.text)).size,4);}
 });
@@ -252,7 +256,7 @@ test('later duplicate decisions retain IDs and keys while excluding all three fr
  for(const d of report.decisions){const q=bank.find(q=>q.id===d.id);assert.equal(q.status,'archived');assert.equal(q.audit.reason,'duplicate_competence');assert.deepEqual(q.audit.replacedBy,d.replacedBy);assert.ok(d.replacedBy.every(id=>eligible.some(q=>q.id===id)));assert.equal(q.answers.filter(a=>a.correct).length,1);assert.ok(q.question.variants.length&&q.legalBasis.length);}
  assert.equal(eligible.length,594);
 });
-test('eligible questions have distinct stems, explanations, registered sources and dated future law',()=>{const seen=new Set();const sources=new Set(read('data/question-sources.json').sources.map(s=>s.id));for(const q of eligible){assert.ok(q.explanation.length>=100,q.id);assert.ok(q.legalBasis.length,q.id);assert.ok(sources.has(q.source.id),q.id);assert.match(q.lastVerified,/^\d{4}-\d{2}-\d{2}$/,q.id);assert.equal(new Date(q.lastVerified).toISOString().slice(0,10),q.lastVerified,q.id);assert.ok(q.lastVerified<='2026-10-08',q.id);assert.ok(q.difficulty&&q.questionForm,q.id);for(const v of q.question.variants){const key=v.toLocaleLowerCase('vi').replace(/[^\p{L}\p{N}]+/gu,' ').trim();assert.ok(!seen.has(key),q.id);seen.add(key);if(JSON.stringify(q.legalBasis).includes('04/2026/QH16'))assert.match(v,/2027|hiệu lực từ|có hiệu lực|thông qua|chuyển tiếp/i,q.id);}}});
+test('eligible questions have distinct stems, explanations, registered sources and dated future law',()=>{const seen=new Set();const sources=new Set(read('data/question-sources.json').sources.map(s=>s.id));for(const q of eligible){assert.ok(q.explanation.length>=100,q.id);assert.ok(q.legalBasis.length,q.id);assert.ok(sources.has(q.source.id),q.id);assert.match(q.lastVerified,/^\d{4}-\d{2}-\d{2}$/,q.id);assert.equal(new Date(q.lastVerified).toISOString().slice(0,10),q.lastVerified,q.id);assert.ok(q.lastVerified<='2026-10-10',q.id);assert.ok(q.difficulty&&q.questionForm,q.id);for(const v of q.question.variants){const key=v.toLocaleLowerCase('vi').replace(/[^\p{L}\p{N}]+/gu,' ').trim();assert.ok(!seen.has(key),q.id);seen.add(key);if(JSON.stringify(q.legalBasis).includes('04/2026/QH16'))assert.match(v,/2027|hiệu lực từ|có hiệu lực|thông qua|chuyển tiếp/i,q.id);}}});
 test('new cases each carry traceable article evidence and precise references',()=>{const evidence=read('reports/legal-evidence-2026.json');const rows=new Map(evidence.questions.map(q=>[q.id,q]));for(const q of read('data/validated-2026.json')){assert.ok(q.question.variants.every(v=>v.startsWith('Tháng 10/2026:')),q.id);const e=rows.get(q.id);assert.ok(e,q.id);assert.equal(e.provisions.length,q.legalBasis.length,q.id);q.legalBasis.forEach((b,i)=>{assert.match(b.article,/^Điều \d+/);assert.match(b.url,/^https:\/\//);assert.deepEqual(e.provisions[i].reference,b,q.id);assert.ok(e.provisions[i].evidenceExcerpt.length>100,q.id);});}});
 test('mechanical expansion cannot enter practice or exams',()=>{for(const q of bank.filter(q=>q.id.startsWith('EXP26-'))){assert.equal(q.status,'archived',q.id);assert.equal(q.lastVerified,null,q.id);assert.equal(q.audit.reason,'mechanical_paraphrase',q.id);}});
 
@@ -268,4 +272,19 @@ test('imported exams preserve every source item and certify only linked adapted 
  assert.equal(source.questions.length,151);assert.equal(new Set(source.questions.map(q=>q.id)).size,151);assert.equal(source.questions.filter(q=>q.sourceDocument==='Đề tháng 9/2024').length,50);assert.equal(source.questions.filter(q=>q.sourceDocument!=='Đề tháng 9/2024').length,101);
  for(const q of imported){const original=origins.get(q.id);assert.ok(original,q.id);assert.match(original.sourceSha256,/^[a-f0-9]{64}$/);assert.ok(original.originalBlock,q.id);assert.ok([1,2].includes(q.part),q.id);assert.equal(q.source.questionNumber,original.sourceQuestionNumber);assert.equal(q.source.type,'user-provided');assert.deepEqual(evidence.get(q.id).provisions.map(p=>p.reference),q.legalBasis);assert.ok(evidence.get(q.id).provisions.every(p=>p.evidenceExcerpt.length>100));assert.match(q.explanation,/Gợi ý làm bài:/);if(q.status==='active')assert.equal(original.decision,'adapted_active');else {assert.equal(q.status,'archived');assert.equal(original.decision,'duplicate_bank');}}
  for(const original of source.questions.filter(q=>q.decision==='review'))assert.ok(!imported.some(q=>q.id===original.id&&q.status==='active'),original.id);
+});
+
+test('October legal audit seals all 594 questions and applies old-certificate, age and archive transitions',()=>{
+ const crypto=require('node:crypto');
+ const canonical=v=>v===null||typeof v!=='object'?JSON.stringify(v):Array.isArray(v)?'['+v.map(canonical).join(', ')+']':'{'+Object.keys(v).sort().map(k=>JSON.stringify(k)+': '+canonical(v[k])).join(', ')+'}';
+ const digest=v=>crypto.createHash('sha256').update(canonical(v)).digest('hex');
+ const audit=read('reports/legal-review-register-2026-10-10.json');
+ assert.equal(audit.questions.length,594);assert.equal(audit.counts.stems,1782);
+ assert.equal(audit.counts.freshFullComponentReviews,112);assert.equal(audit.counts.existingLegalDossiersRevalidated,482);
+ assert.equal(audit.allActiveLegallyRecertified,false);
+ for(const r of audit.questions){const q=eligible.find(q=>q.id===r.id);assert.ok(q,r.id);assert.equal(digest(q),r.questionHash,r.id);assert.equal(digest(q),r.legalReviewDecision.reviewedQuestionHash,r.id);assert.deepEqual(q.answers.filter(a=>a.correct).map(a=>a.id),r.key,r.id);}
+ const get=id=>eligible.find(q=>q.id===id);
+ const certificate=get('COMP26-TS-005');assert.ok(certificate.question.variants.every(v=>v.includes('2020')));assert.match(certificate.answers.find(a=>a.correct).text,/chưa hết hiệu lực/);assert.ok(certificate.legalBasis.some(b=>b.article==='Điều 76'&&b.clause==='Khoản 2'));
+ const archive=get('COMP26-QT-010');assert.match(archive.answers.find(a=>a.correct).text,/20 năm/);assert.doesNotMatch(archive.answers.find(a=>a.correct).text,/30 năm/);assert.ok(archive.legalBasis.some(b=>b.article==='Điều 76'&&b.clause==='Khoản 12'));
+ assert.ok(get('CC-028').question.variants.every(v=>v.includes('không thuộc diện chuyển tiếp')));
 });

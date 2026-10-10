@@ -1,0 +1,454 @@
+{
+  "date": "2026-10-10",
+  "scope": 32,
+  "reviews": {
+    "INH26-001": {
+      "answer": "D",
+      "conclusion": "Hai lần mở thừa kế: mẹ có quyền 200 triệu; hai nhánh thế vị 100 triệu/nhánh, Hảo/Hóa 50, Thành 100.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a8afe9a49bda16c794d170b4616908a7defd8dbcf2c5e12ea2cde96cb76cd769"
+    },
+    "INH26-002": {
+      "answer": "B",
+      "conclusion": "Ba suất pháp luật 300 triệu; mẹ và con 12 tuổi mỗi 200, Thảo theo di chúc 500; con 25 tuổi có khả năng lao động không phần bắt buộc.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6a7de61bb80d3e8ba9c94a3af6d0ea28237a4da69293a7885a7d8787d318934a"
+    },
+    "INH26-003": {
+      "answer": "A",
+      "conclusion": "Giao nuôi sau ly hôn không mất quan hệ cha con; cả hai con hưởng, vợ cũ không hưởng tư cách vợ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b52b496a7891dd0ce124e62be4689e934cb849ff4729e1774ee09c25bbbac1bc"
+    },
+    "INH26-004": {
+      "answer": "A",
+      "conclusion": "Dành một suất bằng nhau cho thai nhi đã thành thai: 200 triệu; hưởng khi sinh còn sống.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "b461fc37a7bbac74167a4360849fcee53e370f3b5846186cd2e6f91249388859"
+    },
+    "INH26-005": {
+      "answer": "B",
+      "conclusion": "Thứ tự mai táng20, bảo quản10, nợ thường70 trong di sản100; không tự lấy tiền riêng bù.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "e6666e136557dfbf4f821de5f64b19df14eb64dafe5c4cccfcef499016648da9"
+    },
+    "INH26-006": {
+      "answer": "C",
+      "conclusion": "Từ chối không cho chỉ định người nhận riêng; mục tiêu nhường riêng Hùng cần thỏa thuận phân chia hợp pháp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "f6d0481ff3a8c7db382279395e8072d3be2abe8b2d28fce13f88cf23b6565d5c"
+    },
+    "INH26-007": {
+      "answer": "D",
+      "conclusion": "Người được các thừa kế cử quản lý không bắt buộc có suất hưởng; thỏa thuận bằng văn bản.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6fb3ac345ae07f53f94ac3bd730c98d55610ad2cfeb3ca80c26a80d9d535a05b"
+    },
+    "INH26-008": {
+      "answer": "A",
+      "conclusion": "Quyền đại diện người quản lý không thay đồng ý bằng văn bản của các thừa kế để thế chấp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "f406c0fb3bfdedcc4cc450b132c7f3c7d48a1bc1bbab3bcf24494c15baf8a56d"
+    },
+    "INH26-009": {
+      "answer": "C",
+      "conclusion": "Người thuê tiếp tục quản lý theo 616.2 không tự có quyền đại diện bán.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d9f48d784f4bb90dc43db1e69368034bafde5c26b99e91b24807d845fdb997cf"
+    },
+    "INH26-010": {
+      "answer": "D",
+      "conclusion": "Không thỏa thuận được mức thù lao: khoản hợp lý, không tự ấn định tùy ý.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "d75f65571b643244ed460633df5156e4d0b2acd3062c98ded499b7c604e40cab"
+    },
+    "INH26-011": {
+      "answer": "C",
+      "conclusion": "Miễn thù lao khác miễn hoàn chi phí; 8 triệu bảo quản đã xác định được hoàn.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "606cc38bb9636f5429e249b2111c9ad7ba7be32b6d0bae563498e079803422fc"
+    },
+    "INH26-012": {
+      "answer": "D",
+      "conclusion": "Cử quản lý không định đoạt/chuyển quyền/xóa thế chấp; không cấm tuyệt đối vì đang thế chấp.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "11f6a48a9749b3b7719f811376fa8a364031b6484f797d98984cb294c027f853"
+    },
+    "INH26-013": {
+      "answer": "B",
+      "conclusion": "Người quản lý trả nợ theo thỏa thuận trong phạm vi500, không tự chịu thiếu200 bằng tiền riêng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "c0faa29d5b4c6d22a208fe73935427687c81586d91f6809cdd96a93f608aa25c"
+    },
+    "INH26-014": {
+      "answer": "D",
+      "conclusion": "Di sản đã chia tỷ lệ3:1: nợ200 phân bổ150/50 trong giới hạn mỗi phần.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "203cc9ea7b302770f72ade43fd29c1ce3720b71b18588ea6f2d7ddf50de9ff77"
+    },
+    "INH26-015": {
+      "answer": "C",
+      "conclusion": "Tặng riêng vợ sau chết không thành di sản chỉ vì trao tại tang lễ; không khái quát tất cả tiền phúng viếng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "ff7c5b31301bb8922b188ffac4cf787c43b4c8e00c14c41c0a93e793a5d12db6"
+    },
+    "INH26-016": {
+      "answer": "D",
+      "conclusion": "Chia hiện vật: nhận nhà và lợi tức60, chịu giảm giá thị trường, không tự đòi bù200.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "00a2f15c32fa72155b94968bb691e511166ee7a64457ee6b2c92123735454e4d"
+    },
+    "INH26-017": {
+      "answer": "B",
+      "conclusion": "Chia tỷ lệ1/3 tính giá trị còn tại lúc chia900:300, không khóa400 tại ngày chết.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "1c19fbbb409229f3dec42f48baf571c78ce4c1f898fd1d3cba5431c2dda63984"
+    },
+    "INH26-018": {
+      "answer": "D",
+      "conclusion": "Di chúc không rõ phần: chia đều ba người chỉ định, kể cả bạn không thuộc hàng pháp luật.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "e8be7c641845e2a849c99b30c5e76bcfa80d64d8ebb090800e8727655afa9451"
+    },
+    "INH26-019": {
+      "answer": "A",
+      "conclusion": "Người mới400 được thanh toán theo tỷ lệ phần đã nhận1:1: mỗi người200; không bắt chia lại hiện vật.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "4e70acfd1857292c18e26af5cf99e9d17ec07e8d3de569e38dc1c8fab8945f0d"
+    },
+    "INH26-020": {
+      "answer": "C",
+      "conclusion": "Bị bác bỏ quyền: hoàn300 theo lúc chia; tiêu hết và tài sản còn50 không làm giảm nghĩa vụ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "2059823b56165be26601cba60f0fbcc425fda4602e67261a3966697d3f2104d2"
+    },
+    "INH26-021": {
+      "answer": "C",
+      "conclusion": "Chẩn đoán bệnh không thay quyết định Tòa án, không mất quyền hưởng; cần xác định năng lực và đại diện.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "c69cf92b8c4aee042020867e23a529e8fdf0fb48bc6500024c4fc3617c64b2d8"
+    },
+    "INH26-022": {
+      "answer": "A",
+      "conclusion": "Con16 định đoạt đất riêng cần sự đồng ý bằng văn bản, không chỉ miệng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "746e4a1ad8f5dbd25f02035b65c8c3e3f1ad6dd0e44e65e642bde4d849f768bf"
+    },
+    "INH26-023": {
+      "answer": "B",
+      "conclusion": "Giao dịch giám hộ với người được giám hộ cần vì lợi ích và đồng ý giám sát; mẹ con không miễn.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "eba4b6d9a4164201d6fab23f0aaa73c5ddd8945ae45f51612b5fdfbe1e872513"
+    },
+    "INH26-024": {
+      "answer": "D",
+      "conclusion": "A chết trước: phần chỉ định không hiệu lực, chia pháp luật hai nhánh, B300 C thế vị300.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "9974747845c2567fe97c459bdd7344bc1c82ba4ecf2f1669c36a1fb3687d80ca"
+    },
+    "INH26-025": {
+      "answer": "D",
+      "conclusion": "Toàn di sản500 không đủ nợ600: không dành riêng100 thờ cúng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "e3ffdbb7688b0569f100e402065f5e4cb5fd3e10759d5ca543641159c88933b6"
+    },
+    "INH26-026": {
+      "answer": "B",
+      "conclusion": "Di sản300 thiếu nợ350: di tặng100 cũng dùng trả phần còn lại, không buộc tiền riêng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "6f92d845026f432f385bd464bcb2567b6fc3b280a1974de865fc94f76f44465e"
+    },
+    "INH26-027": {
+      "answer": "D",
+      "conclusion": "Chia ảnh hưởng nghiêm trọng gia đình: yêu cầu Tòa án xác định phần nhưng chưa chia có thời hạn, không tự hoãn vô hạn.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "41315d07226e7bb5b4d08ec39885044a602cdfb9ad7ee0e789bfc81a08187ea0"
+    },
+    "INH26-028": {
+      "answer": "A",
+      "conclusion": "Chăm sóc nuôi dưỡng như cha con đã chứng minh đủ căn cứ Điều654 dù chưa nhận con nuôi.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a46a016257c2dfd4bfd878cfb964e14cfae117ce9489f54e8cfb19e3d82db0d2"
+    },
+    "INH26-029": {
+      "answer": "B",
+      "conclusion": "CC2024 Điều59 không giới hạn yêu cầu chia theo di chúc chỉ khi chưa rõ phần; bác vì đã rõ là sai.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "a4e2fe4d5292d0aae24970d21ce15fd2372191d0e222341fbf4b1acfb5d47b06"
+    },
+    "INH26-030": {
+      "answer": "C",
+      "conclusion": "Khiếu nại sau xác nhận niêm yết nhưng trước công chứng: tạm dừng xử lý thông tin theo ND104 Điều44.6.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "0377e9ff957d35a7c2eba98d10e2ef62351aace52599a2218e57643d7d5ea69f"
+    },
+    "INH26-031": {
+      "answer": "B",
+      "conclusion": "Phải chứng minh và làm rõ thứ tự chết của cha; cam đoan không thay kiểm tra chuỗi thừa kế.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "80f7fcd0609b6639c488f3d5a7f7dac17ce9b62b34e54c2ed1ecf89edab82d41"
+    },
+    "INH26-032": {
+      "answer": "D",
+      "conclusion": "Niêm yết tại thường trú cuối A và nơi có bất động sản B; không tự thêm nơi chi nhánh ngân hàng C.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "sourceEvidence": "reports/inheritance-legal-evidence-2026.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions"
+      ],
+      "evidenceMethod": "Read stored provision excerpts; original PDF identity rechecked through fresh official downloads in reports/legal-source-retrieval-2026-10-10.json. BLDS excerpts originate from earlier OCR, not a new OCR run.",
+      "reviewedQuestionHash": "2216e235a32cc1c5e653661b9709f0adcef884bc71df429b14bb158d688b5a93"
+    }
+  }
+}

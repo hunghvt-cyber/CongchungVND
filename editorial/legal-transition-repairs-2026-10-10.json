@@ -1,0 +1,661 @@
+{
+  "date": "2026-10-10",
+  "repairs": [
+    {
+      "id": "CC-023",
+      "file": "data/questions.json",
+      "reason": "Apply transitional rules in Article 76; do not automatically apply the general rule to old certificates, old files or transitional age groups.",
+      "before": {
+        "id": "CC-023",
+        "part": 1,
+        "topic": "Công chứng viên và tập sự",
+        "type": "single",
+        "status": "active",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?",
+            "Tháng 10/2026: Người giữ giấy chứng nhận kết quả kiểm tra tập sự cần phân biệt không có thời hạn với trường hợp không đề nghị bổ nhiệm trong năm năm như thế nào?",
+            "Tháng 10/2026: Người được cấp giấy chứng nhận không nộp đề nghị bổ nhiệm suốt năm năm và viện dẫn giấy không ghi hạn. Quy tắc hiệu lực đầy đủ của giấy là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "05 năm trong mọi trường hợp",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "03 năm",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "10 năm",
+            "correct": false
+          }
+        ],
+        "explanation": "Giấy chứng nhận không có thời hạn cố định, nhưng hết hiệu lực nếu trong năm năm kể từ ngày cấp người được cấp không đề nghị bổ nhiệm. Phải phân biệt không có thời hạn ghi trên giấy với trường hợp pháp luật quy định mất hiệu lực do không sử dụng trong thời gian nêu trên.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          }
+        ],
+        "lastVerified": "2026-10-07",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+        },
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+        }
+      },
+      "after": {
+        "id": "CC-023",
+        "part": 1,
+        "topic": "Công chứng viên và tập sự",
+        "type": "single",
+        "status": "active",
+        "question": {
+          "variants": [
+            "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Giấy chứng nhận kết quả kiểm tra tập sự hành nghề công chứng có thời hạn như thế nào?",
+            "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Người giữ giấy chứng nhận kết quả kiểm tra tập sự cần phân biệt không có thời hạn với trường hợp không đề nghị bổ nhiệm trong năm năm như thế nào?",
+            "Tháng 10/2026, xét giấy chứng nhận được cấp theo Luật Công chứng 2024, không thuộc giấy cũ chuyển tiếp tại khoản 2 Điều 76: Người được cấp giấy chứng nhận không nộp đề nghị bổ nhiệm suốt năm năm và viện dẫn giấy không ghi hạn. Quy tắc hiệu lực đầy đủ của giấy là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Không có thời hạn, nhưng hết hiệu lực nếu trong 05 năm từ ngày cấp người được cấp không đề nghị bổ nhiệm công chứng viên",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "05 năm trong mọi trường hợp",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "03 năm",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "10 năm",
+            "correct": false
+          }
+        ],
+        "explanation": "Giấy chứng nhận không có thời hạn cố định, nhưng hết hiệu lực nếu trong năm năm kể từ ngày cấp người được cấp không đề nghị bổ nhiệm. Phải phân biệt không có thời hạn ghi trên giấy với trường hợp pháp luật quy định mất hiệu lực do không sử dụng trong thời gian nêu trên. Giấy chứng nhận đã được cấp theo Luật Công chứng 2014 thuộc quy tắc chuyển tiếp tại khoản 2 Điều 76: mốc kết thúc năm năm tính từ ngày 01/07/2025, không tự tính năm năm từ ngày cấp theo khoản 5 Điều 12.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          },
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 76",
+            "clause": "Khoản 2",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-10",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+        },
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+          "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
+        }
+      }
+    },
+    {
+      "id": "CC-028",
+      "file": "data/questions.json",
+      "reason": "Apply transitional rules in Article 76; do not automatically apply the general rule to old certificates, old files or transitional age groups.",
+      "before": {
+        "id": "CC-028",
+        "part": 1,
+        "topic": "Công chứng viên và tập sự",
+        "type": "single",
+        "status": "active",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Công chứng viên đương nhiên miễn nhiệm khi?",
+            "Tháng 10/2026: Xét riêng căn cứ tuổi, người hành nghề vượt mức nào thì thuộc trường hợp đương nhiên miễn nhiệm công chứng viên?",
+            "Tháng 10/2026: Công chứng viên đã quá trần tuổi mà vẫn khỏe và được tổ chức đề nghị tiếp tục. Căn cứ đương nhiên miễn nhiệm do tuổi là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Quá 70 tuổi",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Đủ 60 tuổi",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Có 10 năm hành nghề",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Chuyển nơi cư trú",
+            "correct": false
+          }
+        ],
+        "explanation": "Quá 70 tuổi làm phát sinh đương nhiên miễn nhiệm. Người đúng 70 tuổi chưa thuộc trường hợp này chỉ vì tuổi; việc miễn nhiệm theo nguyện vọng cá nhân hoặc bị miễn nhiệm do vi phạm là các căn cứ khác.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          }
+        ],
+        "lastVerified": "2026-10-07",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+        },
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+        }
+      },
+      "after": {
+        "id": "CC-028",
+        "part": 1,
+        "topic": "Công chứng viên và tập sự",
+        "type": "single",
+        "status": "active",
+        "question": {
+          "variants": [
+            "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Công chứng viên đương nhiên miễn nhiệm khi?",
+            "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Xét riêng căn cứ tuổi, người hành nghề vượt mức nào thì thuộc trường hợp đương nhiên miễn nhiệm công chứng viên?",
+            "Tháng 10/2026, đối với công chứng viên không thuộc diện chuyển tiếp về tuổi tại khoản 5 Điều 76: Công chứng viên đã quá trần tuổi mà vẫn khỏe và được tổ chức đề nghị tiếp tục. Căn cứ đương nhiên miễn nhiệm do tuổi là gì?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Quá 70 tuổi",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Đủ 60 tuổi",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Có 10 năm hành nghề",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Chuyển nơi cư trú",
+            "correct": false
+          }
+        ],
+        "explanation": "Đối với người không thuộc diện chuyển tiếp tại khoản 5 Điều 76, quá 70 tuổi là căn cứ đương nhiên miễn nhiệm theo khoản 1 Điều 16; đúng 70 tuổi chưa thuộc căn cứ này. Người đã quá 70 tuổi và đang hành nghề tại ngày 01/07/2025 được tiếp tục hai năm từ ngày đó; người từ đủ 68 đến đủ 70 tuổi tại ngày 01/07/2025 được hành nghề đến đủ 72 tuổi. Vì vậy, không áp trần 70 tuổi máy móc cho mọi công chứng viên trong tháng 10/2026.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 16",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 1"
+          },
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 76",
+            "clause": "Khoản 5",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-10",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
+        },
+        "difficulty": "recognition",
+        "questionForm": "direct",
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+          "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
+        }
+      }
+    },
+    {
+      "id": "COMP26-TS-005",
+      "file": "data/completion-2026.json",
+      "reason": "Apply transitional rules in Article 76; do not automatically apply the general rule to old certificates, old files or transitional age groups.",
+      "before": {
+        "id": "COMP26-TS-005",
+        "part": 1,
+        "topic": "Tập sự và kiểm tra kết quả tập sự",
+        "type": "single",
+        "status": "active",
+        "difficulty": "understanding",
+        "questionForm": "exception",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: A được cấp giấy chứng nhận đạt kiểm tra 6 năm trước nhưng không đề nghị bổ nhiệm trong 5 năm từ ngày cấp. Nay A muốn dùng giấy cũ để bổ nhiệm. Chỉ xét giấy này, phải làm gì?",
+            "Tháng 10/2026: Người có giấy chứng nhận kết quả kiểm tra tập sự đã để quá 5 năm mà không đề nghị bổ nhiệm; nay giấy đã cấp 6 năm. Khi muốn đề nghị bổ nhiệm, cần xử lý điều kiện kết quả kiểm tra ra sao?",
+            "Tháng 10/2026: Một hồ sơ bổ nhiệm dùng giấy kết quả kiểm tra cấp 6 năm trước, trong 5 năm kể từ ngày cấp không có đề nghị bổ nhiệm nào. Người nộp cho rằng giấy không bao giờ hết giá trị. Lựa chọn nào đúng?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Đăng ký tham dự và đạt yêu cầu kiểm tra lại vì giấy đã hết hiệu lực",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Dùng giấy cũ vì cụm không có thời hạn loại mọi ngoại lệ",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ xin văn phòng xác nhận đang làm việc là giấy có hiệu lực lại",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Chỉ đổi bản sao giấy sang bản điện tử để gia hạn",
+            "correct": false
+          }
+        ],
+        "explanation": "Điều 12 nêu giấy không có thời hạn nhưng có ngoại lệ hết hiệu lực nếu không đề nghị bổ nhiệm trong 5 năm. Việc đổi hình thức giấy hoặc xác nhận làm việc không thay yêu cầu đăng ký và đạt kiểm tra lại.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          }
+        ],
+        "lastVerified": "2026-10-07",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+        }
+      },
+      "after": {
+        "id": "COMP26-TS-005",
+        "part": 1,
+        "topic": "Tập sự và kiểm tra kết quả tập sự",
+        "type": "single",
+        "status": "active",
+        "difficulty": "understanding",
+        "questionForm": "exception",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: A được cấp giấy chứng nhận kiểm tra kết quả tập sự năm 2020 theo Luật Công chứng 2014, chưa từng đề nghị bổ nhiệm. Cơ quan yêu cầu thi lại chỉ vì đã quá năm năm từ ngày cấp. Chỉ xét căn cứ hết hiệu lực này, nhận định nào đúng?",
+            "Tháng 10/2026: Giấy kết quả kiểm tra tập sự của A được cấp năm 2020 theo Luật Công chứng 2014; A chưa đề nghị bổ nhiệm. Có thể lấy năm năm từ ngày cấp để kết luận giấy đã hết hiệu lực, bỏ qua khoản 2 Điều 76 Luật Công chứng 2024 không?",
+            "Tháng 10/2026: Hồ sơ đề nghị bổ nhiệm có giấy kết quả kiểm tra năm 2020 thuộc Luật Công chứng 2014. A chưa từng đề nghị bổ nhiệm và bị yêu cầu thi lại vì giấy sáu năm tuổi. Áp dụng quy định chuyển tiếp, đánh giá nào đúng về riêng lý do này?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Không; giấy cũ chưa hết hiệu lực chỉ vì sáu năm tuổi, phải áp dụng mốc chuyển tiếp năm năm từ ngày 01/07/2025",
+            "correct": true
+          },
+          {
+            "id": "B",
+            "text": "Dùng giấy cũ vì cụm không có thời hạn loại mọi ngoại lệ",
+            "correct": false
+          },
+          {
+            "id": "C",
+            "text": "Chỉ xin văn phòng xác nhận đang làm việc là giấy có hiệu lực lại",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Chỉ đổi bản sao giấy sang bản điện tử để gia hạn",
+            "correct": false
+          }
+        ],
+        "explanation": "Giấy cấp năm 2020 theo Luật Công chứng 2014 thuộc khoản 2 Điều 76. Nếu từ ngày cấp đến hết thời hạn năm năm kể từ ngày 01/07/2025 không đề nghị bổ nhiệm thì giấy hết hiệu lực. Trong tháng 10/2026 chưa đến mốc kết thúc này, nên không buộc thi lại chỉ vì giấy đã sáu năm tuổi. Không áp trực tiếp khoản 5 Điều 12 để tính năm năm từ ngày cấp cho giấy cũ; cũng không kết luận giấy có hiệu lực vô hạn hoặc bỏ các điều kiện bổ nhiệm khác.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 76",
+            "clause": "Khoản 2",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "clause": "Khoản 5",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-10",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+          "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
+        }
+      }
+    },
+    {
+      "id": "COMP26-TS-006",
+      "file": "data/completion-2026.json",
+      "reason": "Apply transitional rules in Article 76; do not automatically apply the general rule to old certificates, old files or transitional age groups.",
+      "before": {
+        "id": "COMP26-TS-006",
+        "part": 1,
+        "topic": "Tập sự và kiểm tra kết quả tập sự",
+        "type": "single",
+        "status": "active",
+        "difficulty": "application",
+        "questionForm": "exception",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: A đã đề nghị bổ nhiệm trong năm thứ tư từ ngày cấp giấy đạt kiểm tra. Đến năm thứ sáu, hồ sơ bị cho là dùng giấy hết hiệu lực chỉ vì quá 5 năm từ ngày cấp. Chỉ xét căn cứ hết hiệu lực này, đánh giá đúng?",
+            "Tháng 10/2026: Giấy kết quả kiểm tra đã cấp 6 năm, nhưng người đạt đã đề nghị bổ nhiệm hợp lệ trong năm thứ tư. Có thể kết luận giấy hết hiệu lực chỉ từ tuổi giấy, bỏ qua việc đã đề nghị trong 5 năm không?",
+            "Tháng 10/2026: Cơ quan xem xét hồ sơ thấy kết quả kiểm tra hơn 5 năm và định yêu cầu thi lại tự động. Hồ sơ chứng minh người này đã đề nghị bổ nhiệm năm thứ tư. Nhánh hết hiệu lực tại khoản 5 Điều 12 phải xét thêm điều kiện nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Giấy phải thi lại hằng năm dù đã đề nghị đúng hạn",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Không thể chỉ dựa vào tuổi giấy; ngoại lệ hỏi việc không đề nghị bổ nhiệm trong 5 năm, A đã đề nghị trong hạn",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "text": "Giấy tự hết hiệu lực sau 5 năm trong mọi trường hợp",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Giấy chỉ được dùng nếu được bổ nhiệm xong trong 5 năm",
+            "correct": false
+          }
+        ],
+        "explanation": "Điểm quyết định là có đề nghị bổ nhiệm trong hạn hay không, không phải chỉ thời gian đã trôi qua hoặc ngày quyết định bổ nhiệm. Câu chỉ giải quyết căn cứ hết hiệu lực này; các điều kiện bổ nhiệm khác vẫn phải được kiểm tra riêng.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 5"
+          }
+        ],
+        "lastVerified": "2026-10-07",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+        }
+      },
+      "after": {
+        "id": "COMP26-TS-006",
+        "part": 1,
+        "topic": "Tập sự và kiểm tra kết quả tập sự",
+        "type": "single",
+        "status": "active",
+        "difficulty": "application",
+        "questionForm": "exception",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: A có giấy kết quả kiểm tra tập sự cấp năm 2020 theo Luật Công chứng 2014, đã đề nghị bổ nhiệm hợp lệ năm 2024. Cơ quan yêu cầu thi lại chỉ vì giấy đã sáu năm tuổi. Xét căn cứ hết hiệu lực và quy định chuyển tiếp, đánh giá nào đúng?",
+            "Tháng 10/2026: Giấy kết quả kiểm tra tập sự theo Luật Công chứng 2014 được cấp năm 2020; người đạt đã đề nghị bổ nhiệm hợp lệ năm 2024. Có thể chỉ dựa vào việc giấy quá năm năm để tự động yêu cầu thi lại không?",
+            "Tháng 10/2026: Hồ sơ có kết quả kiểm tra năm 2020 thuộc Luật Công chứng 2014 và chứng cứ đã đề nghị bổ nhiệm hợp lệ năm 2024. Khi cơ quan định coi giấy tự hết hiệu lực sau năm năm, cần áp dụng nhận định nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Giấy phải thi lại hằng năm dù đã đề nghị đúng hạn",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Không thể kết luận hết hiệu lực chỉ từ tuổi giấy; phải áp dụng chuyển tiếp đối với giấy cũ và xét việc A đã đề nghị bổ nhiệm hợp lệ",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "text": "Giấy tự hết hiệu lực sau 5 năm trong mọi trường hợp",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Giấy chỉ được dùng nếu được bổ nhiệm xong trong 5 năm",
+            "correct": false
+          }
+        ],
+        "explanation": "Giấy năm 2020 theo Luật Công chứng 2014 thuộc khoản 2 Điều 76, không tự hết hiệu lực sau năm năm từ ngày cấp theo khoản 5 Điều 12. Quy tắc chuyển tiếp xét việc không đề nghị bổ nhiệm từ ngày cấp đến hết thời hạn năm năm kể từ ngày 01/07/2025; A đã đề nghị hợp lệ năm 2024. Không bắt thi lại chỉ vì giấy sáu năm tuổi; các điều kiện bổ nhiệm khác vẫn phải được kiểm tra riêng.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 76",
+            "clause": "Khoản 2",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 12",
+            "clause": "Khoản 5",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          }
+        ],
+        "lastVerified": "2026-10-10",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+          "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
+        }
+      }
+    },
+    {
+      "id": "COMP26-QT-010",
+      "file": "data/completion-2026.json",
+      "reason": "Apply transitional rules in Article 76; do not automatically apply the general rule to old certificates, old files or transitional age groups.",
+      "before": {
+        "id": "COMP26-QT-010",
+        "part": 2,
+        "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+        "type": "single",
+        "status": "active",
+        "difficulty": "understanding",
+        "questionForm": "short_case",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Hồ sơ công chứng giao dịch có đối tượng là bất động sản đã được lưu 15 năm từ ngày văn bản có hiệu lực. Văn phòng định hủy vì cho rằng mọi hồ sơ chỉ cần 10 năm. Theo Điều 68, đánh giá đúng?",
+            "Tháng 10/2026: Hồ sơ công chứng giao dịch bất động sản đã lưu 15 năm. Có thể dùng thời hạn tối thiểu 10 năm của nhóm hồ sơ khác để tiêu hủy hồ sơ này không?",
+            "Tháng 10/2026: Kho chật nên tổ chức muốn hủy hồ sơ giao dịch bất động sản 15 năm tuổi, với lý do đã quá 10 năm. Chỉ xét thời hạn lưu trữ tối thiểu theo nhóm hồ sơ, lựa chọn nào đúng?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Chưa đạt thời hạn tối thiểu 30 năm của nhóm bất động sản",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "text": "Đã đủ vì 10 năm áp dụng chung mọi giao dịch",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Đã đủ nếu các bên nói không còn tranh chấp",
+            "correct": false
+          }
+        ],
+        "explanation": "Luật phân biệt tối thiểu 30 năm cho bất động sản và tối thiểu 10 năm cho giao dịch khác. Không được lấy sự im lặng của các bên hoặc việc quét bản sao đơn thuần để tự bỏ thời hạn của hồ sơ thuộc nhóm bất động sản.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 68",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+            "clause": "Khoản 2"
+          }
+        ],
+        "lastVerified": "2026-10-07",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+        }
+      },
+      "after": {
+        "id": "COMP26-QT-010",
+        "part": 2,
+        "topic": "Quy trình, thủ tục và nghiệp vụ công chứng",
+        "type": "single",
+        "status": "active",
+        "difficulty": "understanding",
+        "questionForm": "short_case",
+        "question": {
+          "variants": [
+            "Tháng 10/2026: Hồ sơ công chứng bất động sản được lập và lưu từ tháng 10/2016 theo Luật Công chứng 2014, chưa hết thời hạn lưu trữ tại ngày 01/07/2025. Văn phòng định hủy vì đã lưu mười năm. Áp dụng khoản 12 Điều 76 Luật Công chứng 2024, nhận định nào đúng?",
+            "Tháng 10/2026: Một hồ sơ công chứng bất động sản đã lưu mười năm theo Luật Công chứng 2014 và chưa hết thời hạn lưu tại ngày Luật Công chứng 2024 có hiệu lực. Có thể lấy thời hạn mười năm của nhóm giao dịch khác trong luật mới để hủy hồ sơ cũ này không?",
+            "Tháng 10/2026: Kho muốn hủy hồ sơ bất động sản được công chứng và lưu năm 2016 theo Luật Công chứng 2014. Hồ sơ chưa hết thời hạn lưu vào ngày 01/07/2025; nay đã lưu mười năm. Quy định chuyển tiếp dẫn tới kết luận nào?"
+          ]
+        },
+        "answers": [
+          {
+            "id": "A",
+            "text": "Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử",
+            "correct": false
+          },
+          {
+            "id": "B",
+            "text": "Chưa được hủy; tiếp tục thời hạn lưu trữ ít nhất 20 năm theo Luật Công chứng 2014",
+            "correct": true
+          },
+          {
+            "id": "C",
+            "text": "Đã đủ vì 10 năm áp dụng chung mọi giao dịch",
+            "correct": false
+          },
+          {
+            "id": "D",
+            "text": "Đã đủ nếu các bên nói không còn tranh chấp",
+            "correct": false
+          }
+        ],
+        "explanation": "Khoản 12 Điều 76 Luật Công chứng 2024 giữ thời hạn theo Luật Công chứng 2014 đối với hồ sơ đã lưu theo luật cũ mà chưa hết thời hạn tại ngày 01/07/2025. Khoản 2 Điều 64 Luật Công chứng 2014 quy định ít nhất 20 năm. Hồ sơ năm 2016 mới lưu mười năm nên chưa đủ; không áp tự động mức 30 năm cho bất động sản hoặc 10 năm cho giao dịch khác của Điều 68 luật mới. Quét bản sao hay sự đồng ý của các bên không tự cho phép hủy sớm.",
+        "legalBasis": [
+          {
+            "document": "Luật Công chứng số 46/2024/QH15",
+            "article": "Điều 76",
+            "clause": "Khoản 12",
+            "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf"
+          },
+          {
+            "document": "Luật Công chứng số 53/2014/QH13 (áp dụng thời hạn lưu trữ theo khoản 12 Điều 76 Luật Công chứng 2024)",
+            "article": "Điều 64",
+            "clause": "Khoản 2",
+            "url": "https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm"
+          }
+        ],
+        "lastVerified": "2026-10-10",
+        "source": {
+          "type": "official",
+          "id": "OFFICIAL-CC24",
+          "supportingSourceIds": [],
+          "note": "Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json."
+        },
+        "audit": {
+          "variantReviewDate": "2026-10-09",
+          "variantReviewStatus": "substantive_editorial_review",
+          "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
+          "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+          "legalReviewReport": "reports/legal-review-register-2026-10-10.json"
+        }
+      }
+    }
+  ]
+}

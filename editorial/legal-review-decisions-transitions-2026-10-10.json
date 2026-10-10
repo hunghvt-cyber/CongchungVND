@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-10",
+  "scope": 5,
+  "reviews": {
+    "CC-023": {
+      "answer": "A",
+      "decision": "PASS_AFTER_TRANSITION_REPAIR",
+      "conclusion": "Giới hạn rõ giấy được cấp theo luật2024; giấy cũ áp dụng chuyển tiếp76.2.",
+      "sourceEvidence": "reports/legal-effectivity-checks-2026-10-10.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions",
+        "transitionalRules"
+      ],
+      "reviewedQuestionHash": "fa256f8ea3691e07ce468a870c558ca97af2a783e7593f94c871093c02e8b145",
+      "evidenceMethod": "Fresh official CC46/2024 and CC53/2014 PDF text; Article76 and preserved old rules independently read."
+    },
+    "CC-028": {
+      "answer": "A",
+      "decision": "PASS_AFTER_TRANSITION_REPAIR",
+      "conclusion": "Loại trừ diện tuổi chuyển tiếp76.5 khỏi câu về trần70; giải thích đủ hai nhánh tiếp tục hành nghề.",
+      "sourceEvidence": "reports/legal-effectivity-checks-2026-10-10.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions",
+        "transitionalRules"
+      ],
+      "reviewedQuestionHash": "83f39fd6f2dfb29c14aa94036df6752ffac5be158ef9c543518d25b38a75577e",
+      "evidenceMethod": "Fresh official CC46/2024 and CC53/2014 PDF text; Article76 and preserved old rules independently read."
+    },
+    "COMP26-TS-005": {
+      "answer": "A",
+      "decision": "PASS_AFTER_TRANSITION_REPAIR",
+      "conclusion": "Sửa kết luận sai về giấy2020: năm2026 chưa hết mốc chuyển tiếp năm năm từ01/07/2025.",
+      "sourceEvidence": "reports/legal-effectivity-checks-2026-10-10.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions",
+        "transitionalRules"
+      ],
+      "reviewedQuestionHash": "a04ad979178b333f8a584763f60cf0579a21bbe6eed99ad0bfacb438efb6b0b9",
+      "evidenceMethod": "Fresh official CC46/2024 and CC53/2014 PDF text; Article76 and preserved old rules independently read."
+    },
+    "COMP26-TS-006": {
+      "answer": "B",
+      "decision": "PASS_AFTER_TRANSITION_REPAIR",
+      "conclusion": "Giữ kết quả không bắt thi lại, sửa lý do theo chuyển tiếp76.2 và việc đã đề nghị hợp lệ năm2024.",
+      "sourceEvidence": "reports/legal-effectivity-checks-2026-10-10.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions",
+        "transitionalRules"
+      ],
+      "reviewedQuestionHash": "4ef103b098c5485bf5fed06c31558f9fead0cebd54c5516257a7d2a5ae041124",
+      "evidenceMethod": "Fresh official CC46/2024 and CC53/2014 PDF text; Article76 and preserved old rules independently read."
+    },
+    "COMP26-QT-010": {
+      "answer": "B",
+      "decision": "PASS_AFTER_TRANSITION_REPAIR",
+      "conclusion": "Sửa áp nhầm30 năm cho hồ sơ cũ; xác định hồ sơ2016, tiếp tục thời hạn20 năm theo76.12 vàCC2014 Điều64.2.",
+      "sourceEvidence": "reports/legal-effectivity-checks-2026-10-10.json",
+      "reviewedComponents": [
+        "threeStems",
+        "fourOptions",
+        "explanation",
+        "citedProvisions",
+        "transitionalRules"
+      ],
+      "reviewedQuestionHash": "d4583559c3faa6ca62c0f448efd242cd51d4dae4351431cd1e581cef0cada637",
+      "evidenceMethod": "Fresh official CC46/2024 and CC53/2014 PDF text; Article76 and preserved old rules independently read."
+    }
+  }
+}

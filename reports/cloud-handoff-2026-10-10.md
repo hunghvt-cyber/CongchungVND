@@ -91,6 +91,6 @@ Các câu mẫu đã đối chiếu căn cứ chính: Công chứng Điều 9/64
 
 Đã hoàn tất ba việc của đợt tư liệu ảnh: (1) biên tập và rà nội dung trùng của tám mẫu; (2) đọc trực tiếp NĐ45/2020 và điều dẫn chiếu câu 19; (3) chuẩn hóa nguồn thiếu điểm/khoản/năm. Kết quả, dẫn chiếu, SHA-256 và quyết định từng mẫu tại [hồ sơ hoàn tất](screenshot-review-completion-2026-10-10.md). Các mẫu được giữ làm tư liệu thiết kế đề, không tự nhập thêm vào active.
 
-Ngoài phạm vi tư liệu ảnh, rà pháp lý toàn bộ 594 câu và thử thao tác thật trên điện thoại vẫn chưa hoàn tất. Không còn việc lưu/chuyển nội dung bộ ảnh chờ ở Codex Cloud.
+Cập nhật sau bàn giao: đã hoàn tất kiểm định nội bộ căn cứ viện dẫn của 594 hồ sơ, gồm 112 câu đọc lại đầy đủ và 482 câu đối chiếu lại lập luận cùng hồ sơ biến thể đã kiểm tra. Sửa 7 câu, giữ nguyên khóa đúng; 60/60 kiểm thử đạt. Đọc [báo cáo kiểm định 594 câu](legal-audit-594-2026-10-10.md) và [sổ quyết định](legal-review-register-2026-10-10.json). Đây không phải chứng nhận pháp lý chuyên môn độc lập; trường chứng nhận rộng `allActiveLegallyRecertified` vẫn là `false`. Thử thao tác thật trên điện thoại vẫn chưa hoàn tất. Không còn việc lưu/chuyển nội dung bộ ảnh chờ ở Codex Cloud.
 
 Điểm tiếp tục: đọc repo và hồ sơ này; nếu làm đợt mới, xác định phạm vi kiểm định pháp lý hoặc kiểm tra điện thoại. Không cần làm lại bản chép hoặc rà tám mẫu.

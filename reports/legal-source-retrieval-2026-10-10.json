@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-10",
+  "purpose": "Source identity and retrieval checks only; downloading a document does not certify a question or establish absence of subsequent amendments.",
+  "sources": [
+    {
+      "url": "https://chinhphu.vn/?classid=1&docid=216651&pageid=27160&typegroupid=4",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/18-ndcp.signed.pdf",
+          "sha256": "2b9bf8fa4fe5916a76e15f5aa2a1cbe36e9113640d56728522c82734277faa18",
+          "textChars": 189
+        }
+      ]
+    },
+    {
+      "url": "https://chinhphu.vn/?classid=1&docid=218099&orggroupid=1&pageid=27160",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/04-qh.signed.pdf",
+          "sha256": "e991e4fbc4b9c510ffbfec5848c9eae0ee35a4b248eb8956b44329ead3d1fd33",
+          "textChars": 158
+        }
+      ]
+    },
+    {
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+          "sha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205",
+          "textChars": 241
+        },
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91_.pdf",
+          "sha256": "dd2c45f8dee4e0d7b0416786b236e9588092863edcef64db07ef2b74954bba50",
+          "textChars": 78
+        }
+      ]
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-21-2021-nd-cp-33477.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2021/3/33477/35291-1-2021487-48821-2021-nd-cp.pdf",
+          "sha256": "83c5805f1fa4e048fdc12ceac9fd96217a79680ab1514bb9afa49b3cb2fb73f6",
+          "textChars": 67651
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/thong-tu-so-06-2025-tt-btp-45016.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/5/45016/56630-1-2025759-76006-2025-tt-btp.pdf",
+          "sha256": "1eeb16fc53ce739402827400ba334fb0394f72bb12c627e19032220ce94f56c2",
+          "textChars": 108611
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-06-vbhn-vpqh-44399.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/2/44399/55348-1-2025493-49406-vbhn-vpqh.pdf",
+          "sha256": "bd64ed0b976598f88204513418850f5825fa8afce3397d3ce044b1dc0e48b3c4",
+          "textChars": 152562
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+          "sha256": "e10798da4118e72e3daf13bfb128f5972cc15a7ca16d4baf09fdbf3106b93955",
+          "textChars": 95930
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-18-vbhn-vpqh-468971/62878.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/3/5/468971-1772684381_v1_1772690833_signed.pdf",
+          "sha256": "9f0ead44c45112ca46882b01036179c23772d1494f7af32024c07f2366a62d27",
+          "textChars": 209746
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/1/469129-1774926486_v1_1775005859_signed.pdf",
+          "sha256": "53a9fd698dcc8a303661a86d3222b8a16bd21fb14b50c97a34d56765705db00e",
+          "textChars": 590824
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58269-1-20251105-110667-vbhn-vpqh.pdf",
+          "sha256": "32523c2925b8710d3cdc1a85af36d6a36a6c2a8ecb8192264f36d8e104820aaf",
+          "textChars": 218125
+        },
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/45865/58272-1-20251107-110867-vbhn-vpqh.pdf",
+          "sha256": "e284ab3ffc28f13570293d551fc569be2284db0928208e664690eb3968d6b0da",
+          "textChars": 148939
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-79-vbhn-vpqh-469209.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/4/10/469209-1775794482_v1_1775811756_signed.pdf",
+          "sha256": "3d1d5f070accd0646983c9733bd87043f601785547469130d04420eba2a76964",
+          "textChars": 369701
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/27/469531-1779268200_v1_1779843033_signed.pdf",
+          "sha256": "30cce3a095020396caf078c3d4dc60d1ac06beb79e8a824ae771a74a9a4da181",
+          "textChars": 22715
+        }
+      ]
+    },
+    {
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/29/469574-1780040189_v1_1780044652_signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/5/29/469574-1780040189_v1_1780044652_signed.pdf",
+          "sha256": "ce51e684e33f9ee4a208ddefc25a2ee558a249eb3eccf0818345513aaeb2ed53",
+          "textChars": 132082
+        }
+      ]
+    },
+    {
+      "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+          "sha256": "e10798da4118e72e3daf13bfb128f5972cc15a7ca16d4baf09fdbf3106b93955",
+          "textChars": 95930
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2015/01/126-nd.signed.pdf",
+          "sha256": "0011d2b58da62d01eaae0319f8279cfa16ae69902b10ea4f88df5033f0b6eaa3",
+          "textChars": 185
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+          "sha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205",
+          "textChars": 241
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf",
+          "sha256": "04ab735f08c2de548db0ff994002d3ad128a707ec8338b67886b42a77f7070b8",
+          "textChars": 114251
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/5/104-ndcp.signed.pdf",
+          "sha256": "4d2c72968d740e6711409e3cf837237670c4825cd7bc9926d2bb6acd65110473",
+          "textChars": 197
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/121cp.signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/6/121cp.signed.pdf",
+          "sha256": "6e43d66053028f1f206b21676bfdf897c550ee8499ee6d8dab86b997f86a617e",
+          "textChars": 185
+        }
+      ]
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/106-qh15-2025.signed.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/106-qh15-2025.signed.pdf",
+          "sha256": "f543d9871a248d113de055debb5ef01407624e637f0c65b44a4d0dd5e8c21850",
+          "textChars": 237
+        }
+      ]
+    },
+    {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/753-vbhn-btp.pdf",
+          "sha256": "f90527020016496908f56ac8d763757adcdc16aae0c7f352be1f21fca012c26d",
+          "textChars": 159731
+        }
+      ]
+    },
+    {
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "retrievedAt": "2026-10-10",
+      "result": "downloaded",
+      "files": [
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+          "sha256": "d2f9e486faa8aa205dff952c813251acb82475a614b388d2a52449a05dd37205",
+          "textChars": 241
+        },
+        {
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91_.pdf",
+          "sha256": "dd2c45f8dee4e0d7b0416786b236e9588092863edcef64db07ef2b74954bba50",
+          "textChars": 78
+        }
+      ],
+      "priorOriginalPdfIdentityMatches": true
+    },
+    {
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542",
+      "retrievedAt": "2026-10-10",
+      "result": "unavailable",
+      "files": [],
+      "error": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "url": "https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm",
+      "retrievedAt": "2026-10-10",
+      "result": "official_pdf_downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2014/6/8751/7345-1-2014681-682-532014qh13pdf",
+          "sha256": "c0316d014b5dd8a42788e599b73b5ce6188bab6f4eb19ff184a75509fb96efaf",
+          "textChars": 83224
+        }
+      ]
+    },
+    {
+      "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/29/18signed-1769674108244123996285.pdf",
+      "retrievedAt": "2026-10-10",
+      "result": "official_pdf_downloaded",
+      "files": [
+        {
+          "url": "https://congbaocdn.chinhphu.vn/180507251028987904/2026/1/29/18signed-1769674108244123996285.pdf",
+          "sha256": "c75d72ff811a794004f71c7246aa989c335c3522eaa28e91eedfb5538374c134",
+          "textChars": 93419
+        }
+      ]
+    }
+  ]
+}

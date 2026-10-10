@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-10",
+  "scope": "11 active questions outside the 583 variant decisions; all three stems, all four options and explanations read in this review. Conclusions limited to the stated facts and cited provisions, not a certification of the other 583 questions.",
+  "sources": {
+    "BLDS": [
+      "https://vbpl.moj.gov.vn/toaannhandantoicao/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword=91%2F2015%2FQH13",
+      "https://vbpl.vn/bothongtin/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword=",
+      "https://vietlaw.quochoi.vn/Pages/vbpq-print.aspx?ItemID=27892",
+      "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
+    ],
+    "HNGD": [
+      "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf"
+    ]
+  },
+  "reviews": {
+    "VER26-NEW-01": {
+      "answer": "A",
+      "article": "405.2 BLDS",
+      "conclusion": "Ba lời dẫn cùng hỏi cách giải thích điều khoản không rõ ràng của hợp đồng theo mẫu. Bên đưa ra mẫu chịu bất lợi; các nhiễu chuyển bất lợi, tự động vô hiệu hoặc chia đều đều không được điều khoản quy định.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "6708f86e65e632bf57c45dcfa503e7482e49e54343c569a561fe9dd338c321a4"
+    },
+    "VER26-NEW-02": {
+      "answer": "B",
+      "article": "405.3 BLDS",
+      "conclusion": "Ba lời dẫn tương ứng loại bỏ quyền lợi chính đáng, miễn trách nhiệm, tăng trách nhiệm; đều loại trừ thỏa thuận khác, quan hệ tiêu dùng và luật chuyên ngành. Khóa B giữ đúng ngoại lệ của Điều 405. Không mở rộng kết luận này sang hợp đồng tiêu dùng.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "e6be92cac2c2c6f15155e3524eaa29459fd98f8cf377f74406f820c81dba2c91"
+    },
+    "VER26-NEW-25": {
+      "answer": "C",
+      "article": "330.1 BLDS",
+      "conclusion": "Tiền, giấy tờ có giá và kim khí quý đều thuộc tài sản ký quỹ luật định; cả ba lời dẫn nêu tài khoản phong tỏa tại tổ chức tín dụng. Không nhầm với giao tài sản trực tiếp cho bên nhận đặt cọc, ký cược hoặc cầm giữ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "3a30de22cf4047d198f8218683611b9db5f92d2fb11a9283d9fed3d38c6cb537"
+    },
+    "VER26-NEW-28": {
+      "answer": "B",
+      "article": "330.2 BLDS",
+      "conclusion": "Khóa đúng cơ chế thanh toán và bồi thường thiệt hại do bên có nghĩa vụ gây ra, sau khi trừ chi phí dịch vụ. Cần làm rõ câu chữ đáp án để tránh hiểu tổ chức tín dụng tự chịu mọi thiệt hại bằng tài sản riêng ngoài cơ chế ký quỹ.",
+      "decision": "PASS_AFTER_PRECISION_REPAIR",
+      "reviewedQuestionHash": "d5f02bae4eaa8f592951dda24699798409e21a5a04b5915fd459bc7422c139b2"
+    },
+    "VER26-NEW-46": {
+      "answer": "B",
+      "article": "95.2.a HNGD",
+      "conclusion": "Cả ba giả thiết không đáp ứng yêu cầu người vợ không thể mang thai và sinh con ngay cả khi áp dụng kỹ thuật hỗ trợ sinh sản. Đồng ý, quan hệ thân thích hoặc công chứng không thay thế điều kiện y tế này.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "55a61841e065c4b09208b38a125bc55dce3ece9e1ffe89dbf1df5fb200118922"
+    },
+    "VER26-NEW-47": {
+      "answer": "A",
+      "article": "95.2.b HNGD",
+      "conclusion": "Khóa nêu điều kiện đang không có con chung, phù hợp cả câu hỏi điều kiện bị thiếu lẫn câu hỏi điều kiện cần đáp ứng. Biến thể có con riêng không được hiểu là đủ mọi điều kiện mang thai hộ; lời dẫn chỉ xét điểm b.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "af9d1a176fad69db0c87c5e976953616733cdea89ec729b0e67d52cf760d35d3"
+    },
+    "VER26-NEW-48": {
+      "answer": "C",
+      "article": "95.2.c HNGD",
+      "conclusion": "Ba nhóm tư vấn là yêu cầu đồng thời. Chỉ một hoặc hai nhóm không đáp ứng; thứ tự liệt kê không thay đổi yêu cầu.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "7aeca41e11ba5d11d11a9c23051fd75065de5a7ad9a92abc3e587b49bec5faf9"
+    },
+    "VER26-NEW-49": {
+      "answer": "B",
+      "article": "96.2 HNGD",
+      "conclusion": "Thỏa thuận phải lập thành văn bản có công chứng. Giấy viết tay hoặc người làm chứng không thay công chứng. Giải thích đã giữ yêu cầu xác nhận của cơ sở y tế khi lập đồng thời với thỏa thuận của cơ sở y tế.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "b8997f339edf503fae9808eb864f723626bfd8df643f3372e576b417391ffc7e"
+    },
+    "VER26-NEW-50": {
+      "answer": "B",
+      "article": "96.2 HNGD",
+      "conclusion": "Điều khoản cho vợ chồng trong từng bên ủy quyền cho nhau bằng văn bản có công chứng nhưng phủ nhận giá trị pháp lý của ủy quyền người thứ ba. Công chứng giấy ủy quyền, bác sĩ đồng ý hay người làm chứng không tạo ngoại lệ.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "e0f4870c8a9a8081f8e712f43be84983efee1882a9ee8d02c3b729897159fb1f"
+    },
+    "VER26-NEW-66": {
+      "answer": "B",
+      "article": "260.1 BLDS",
+      "conclusion": "Cả ba câu xét người hưởng dụng đầu tiên là pháp nhân. Trần 30 năm không loại bỏ căn cứ chấm dứt khi pháp nhân chấm dứt tồn tại; giải thích đã phân biệt hai giới hạn.",
+      "decision": "PASS_REFERENCED_PROVISIONS",
+      "reviewedQuestionHash": "1aa7be1bb765b77d97762206b8a358d522392e679f1d8dec6b793940f0425364"
+    },
+    "VER26-NEW-67": {
+      "answer": "B",
+      "article": "261.1 BLDS",
+      "conclusion": "Được tự mình hoặc cho phép người khác khai thác, sử dụng, thu hoa lợi, lợi tức; không trở thành chủ sở hữu hay được bán tài sản gốc. Cần ghi rõ quyền cho phép người khác trong đáp án chung để trả lời trực tiếp biến thể thứ ba.",
+      "decision": "PASS_AFTER_PRECISION_REPAIR",
+      "reviewedQuestionHash": "a4ff6f7db28b7f6b4d7608d1b9e8d15554d5e807c19e2361dc7505492b9382a7"
+    }
+  }
+}
