@@ -2,6 +2,8 @@
 
 Tiến độ 09/10/2026: đã hoàn tất **583/583 câu trong phạm vi biến thể**, không còn ID chờ bổ sung; **chưa chứng nhận kiểm định pháp lý toàn ngân hàng**. Hiện có 594 câu active, mỗi câu có ba lời dẫn, tổng 1.782 chuỗi cách hỏi. Đợt cuối sửa đúng 5 giải thích đã ghi nhận và thêm 80 lời dẫn cho 40 câu còn lại; xem [đợt cuối 40 câu](reports/variant-final-40-2026-10-09.md), [báo cáo tiến độ](reports/variant-progress-2026-10-09.md) và [hồ sơ từng câu](reports/substantive-variants-2026-10-09.json).
 
+Hồ sơ chuyển khỏi Codex Cloud ngày 10/10/2026: [bối cảnh và việc còn dang dở](reports/cloud-handoff-2026-10-10.md), [phân tích bộ ảnh 20 câu](reports/screenshot-question-design-2026-10-09.md) và [8 câu mẫu đang ở bản nháp](reports/screenshot-inspired-drafts-2026-10-09.md). Các câu mẫu chưa nhập ngân hàng active.
+
 Web app nhóm nhỏ ôn thi tập sự hành nghề công chứng 2027.
 
 ## Mục tiêu
