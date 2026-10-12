@@ -137,15 +137,15 @@ function showSetup(mode) {
     <div class="join-exam"><h3>Cùng làm một đề</h3><label for="joinExamCode">Mã đề người khác chia sẻ</label><input id="joinExamCode" type="text" maxlength="8192" autocomplete="off" autocapitalize="characters" spellcheck="false" placeholder="Dán mã CC2-... hoặc CC1-... vào đây" />
     <p>Mã quyết định bài, số câu và thời lượng. Mỗi người tự bắt đầu, rồi đối chiếu cùng số câu và đáp án để thảo luận.</p>
     <button id="joinExam" class="secondary-button">Nhập mã & bắt đầu thi</button><p id="joinStatus" role="alert"></p></div>`;
-  document.querySelector('#startSetup').addEventListener('click', () => {
-    if (mode==='mock' && window.ExamProgress && !window.ExamProgress.captureName(state)) return;
+  document.querySelector('#startSetup').addEventListener('click', async () => {
+    if (mode==='mock' && window.ExamProgress && !await window.ExamProgress.captureName(state)) return;
     const part = document.querySelector('#setupPart').value;
     const count = Number(document.querySelector('#setupCount').value);
     const duration = mode === 'mock' ? Number(document.querySelector('#setupDuration').value) : 0;
     startSession(part === 'all' ? null : Number(part), count, duration);
   });
-  if (mode==='mock') document.querySelector('#joinExam').addEventListener('click',()=>{
-    try { if(window.ExamProgress && !window.ExamProgress.captureName(state))return; startSharedExam(document.querySelector('#joinExamCode').value); }
+  if (mode==='mock') document.querySelector('#joinExam').addEventListener('click',async()=>{
+    try { if(window.ExamProgress && !await window.ExamProgress.captureName(state))return; startSharedExam(document.querySelector('#joinExamCode').value); }
     catch(error) { document.querySelector('#joinStatus').textContent=error.message; }
   });
 }
