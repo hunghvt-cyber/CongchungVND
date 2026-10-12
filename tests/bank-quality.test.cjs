@@ -6,6 +6,35 @@ const legalRepairs=new Map(read('editorial/legal-transition-repairs-2026-10-10.j
 // Historical editorial evidence stays immutable. Later statutory repairs must
 // match their complete approved after-snapshot before using the old version.
 const atEditorialReview=q=>{const r=legalRepairs.get(q.id);if(!r)return q;assert.deepEqual(q,r.after,q.id);return r.before;};
+test('100 harder scenarios replace every stem and distractor while preserving independent keys and linked legal evidence',()=>{
+ const names=['calibration-20-2026','calibration-40-2026','calibration-next-40-2026'];
+ const current=names.flatMap(n=>read(`data/${n}.json`));
+ const commit='18a5deaa69096772ae5318b7d8162e740a9f19ed';
+ const before=names.flatMap(n=>JSON.parse(require('node:child_process').execFileSync('git',['show',`${commit}:data/${n}.json`],{cwd:root,encoding:'utf8'})));
+ const legal=read('reports/difficulty-upgrade-100-legal-review-2026-10-12.json');
+ const report=read('reports/difficulty-upgrade-100-2026-10-12.json');
+ assert.equal(current.length,100);assert.equal(report.questions.length,100);assert.equal(legal.questions.length,100);
+ for(let i=0;i<100;i++){
+  const q=current[i],old=before[i];assert.equal(q.id,old.id);assert.equal(q.part,old.part);assert.equal(q.type,old.type);
+  assert.deepEqual(q.answerKey,old.answerKey,q.id);assert.deepEqual(q.answers.map(a=>a.correct),old.answers.map(a=>a.correct),q.id);
+  assert.notDeepEqual(q.question.variants,old.question.variants,q.id);
+  for(let j=0;j<4;j++)if(!q.answers[j].correct){assert.notEqual(q.answers[j].text,old.answers[j].text,q.id);assert.ok(q.answers[j].explanation);}
+  assert.equal(q.difficulty,'advanced');assert.equal(q.empiricallyCalibrated,false);
+  assert.equal(q.audit.evidenceFile,'reports/difficulty-upgrade-100-legal-review-2026-10-12.json');
+  const decision=legal.questions.find(x=>x.id===q.id);assert.deepEqual(decision.answerKey,q.answerKey);
+  assert.ok(decision.evidenceKeys.length&&decision.evidenceKeys.every(k=>legal.evidence[k]?.excerpt.length>80),q.id);
+ }
+ const answer=n=>current.find(q=>q.id===`CAL26-${String(n).padStart(3,'0')}`).answers.filter(a=>a.correct).map(a=>a.text).join(' ');
+ assert.match(answer(5),/09:20/);assert.match(answer(11),/300 triệu/);assert.match(answer(12),/30, 10, 3 năm/);
+ assert.match(answer(21),/Giá mới.*sửa đổi.*tên đường.*kỹ thuật/);
+ assert.match(answer(25),/Y.*bồi thường.*Z.*tự bồi thường/);
+ assert.match(answer(63),/di chúc và phí lưu giữ/);
+ assert.match(answer(72),/20 năm.*văn bản.*sáu tháng/);
+ assert.match(answer(89),/Không đáp ứng tự viết/);
+ assert.match(answer(93),/200 triệu.*giá lúc chia/);
+ const checks=read('reports/difficulty-upgrade-100-checks-2026-10-12.json');
+ assert.ok(checks.correctStrictlyLongestSingleAfter<=20);assert.equal(checks.multipleSubsetsChecked,640);
+});
 test('60-question refinement batch retains authored variants, individual review and independent evidence keys',()=>{
  const report=read('reports/substantive-variants-2026-10-09.json');
  const worksheet=read('editorial/variant-batch-60-2026-10-09.json');

@@ -3,12 +3,12 @@
     "id": "CAL26-001",
     "part": 1,
     "topic": "Xung đột lợi ích của công chứng viên",
-    "difficulty": "recognition",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Công chứng viên N được đề nghị công chứng việc bán căn nhà riêng của cha vợ mình. Cha vợ đã ủy quyền hợp lệ cho một người không có quan hệ thân thích với N ký hợp đồng; các bên đều đồng ý để N thực hiện. Chỉ xét điều cấm về người thân thích, N phải xử lý thế nào?"
+        "Hồ sơ bán nhà đứng tên cha vợ của công chứng viên N; người ký bán là đại diện không có quan hệ với N. N dự định chỉ kiểm tra hồ sơ rồi ký lời chứng, còn đồng nghiệp M không có quan hệ thân thích sẽ tiếp khách. Các bên đề nghị làm vậy để khỏi đổi lịch. Cách xử lý nào khắc phục đúng xung đột lợi ích?"
       ]
     },
     "answerKey": [
@@ -17,27 +17,27 @@
     "answers": [
       {
         "id": "A",
-        "text": "N được công chứng vì người trực tiếp ký không phải cha vợ N.",
+        "text": "Để M tiếp khách, N ký lời chứng vì người ký bán không phải cha vợ N.",
         "correct": false,
-        "explanation": "Người đại diện ký không làm thay đổi chủ sở hữu và lợi ích liên quan."
+        "explanation": "Đổi người tiếp khách không loại việc N trực tiếp công chứng giao dịch về tài sản người thân."
       },
       {
         "id": "B",
-        "text": "N không trực tiếp công chứng vì tài sản vẫn thuộc cha vợ N.",
+        "text": "N không trực tiếp công chứng; có thể để M trực tiếp thực hiện nếu M đủ điều kiện và không có xung đột.",
         "correct": true,
-        "explanation": "Điều cấm hướng đến tài sản, lợi ích của người thân thích; cha vợ thuộc danh sách luật định."
+        "explanation": "Cha vợ vẫn là chủ sở hữu; đại diện không xóa xung đột. Quan hệ của N không tự cấm M."
       },
       {
         "id": "C",
-        "text": "N được công chứng sau khi các bên lập văn bản chấp thuận xung đột lợi ích.",
+        "text": "Để N ký nếu đại diện và bên mua xác nhận không có tranh chấp về giá.",
         "correct": false,
-        "explanation": "Sự chấp thuận của các bên không tạo ngoại lệ cho điều cấm."
+        "explanation": "Đồng thuận về giá không tạo ngoại lệ với điều cấm về tài sản người thân."
       },
       {
         "id": "D",
-        "text": "Mọi công chứng viên trong cùng văn phòng đều bị cấm thực hiện vì văn phòng đã tiếp nhận hồ sơ của N.",
+        "text": "Chuyển hồ sơ sang tổ chức khác, vì quan hệ của N làm mọi công chứng viên cùng văn phòng đều bị cấm.",
         "correct": false,
-        "explanation": "Quan hệ của N không tự động trở thành quan hệ thân thích của công chứng viên khác."
+        "explanation": "Điều cấm của N không tự áp cho M; M có thể trực tiếp thực hiện khi đủ điều kiện."
       }
     ],
     "legalBasis": [
@@ -47,11 +47,11 @@
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
-    "difficultyRationale": "Áp dụng trực tiếp điều cấm, phân biệt chủ sở hữu với người đại diện ký.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt người ký giao dịch, người ký lời chứng và chủ thể có lợi ích; chọn biện pháp xử lý đúng phạm vi điều cấm.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Áp dụng trực tiếp điều cấm, phân biệt chủ sở hữu với người đại diện ký.",
+    "explanation": "Phân biệt người ký giao dịch, người ký lời chứng và chủ thể có lợi ích; chọn biện pháp xử lý đúng phạm vi điều cấm.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -63,19 +63,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-002",
     "part": 1,
     "topic": "Hiệu lực của di chúc",
-    "difficulty": "recognition",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Ông P lập một di chúc hợp pháp, đã công chứng, định đoạt tài sản cho con. Ông vẫn còn sống và chưa thay thế hoặc hủy bỏ di chúc. Người con cho rằng có thể yêu cầu giao tài sản ngay vì di chúc đã được đóng dấu. Chỉ xét thời điểm hiệu lực của di chúc, nhận định nào đúng?"
+        "P lập di chúc công chứng cho con H căn nhà, rồi giao H một bản gốc để giữ. P vẫn sống và chưa thay đổi di chúc; không có hợp đồng tặng cho, mua bán hoặc giao quyền sở hữu khác. H dùng bản gốc yêu cầu đăng ký sang tên, viện dẫn văn bản công chứng đã có hiệu lực. Kết luận nào giải quyết đúng hai loại hiệu lực?"
       ]
     },
     "answerKey": [
@@ -84,27 +87,27 @@
     "answers": [
       {
         "id": "A",
-        "text": "Di chúc có hiệu lực thừa kế từ ngày tổ chức hành nghề công chứng đóng dấu.",
+        "text": "H được yêu cầu sang tên từ ngày công chứng, còn việc P chết chỉ quyết định thời điểm nhận bàn giao.",
         "correct": false,
-        "explanation": "Nhầm hiệu lực của văn bản công chứng với hiệu lực định đoạt thừa kế của di chúc."
+        "explanation": "Nhầm hiệu lực văn bản công chứng với hiệu lực định đoạt thừa kế của di chúc."
       },
       {
         "id": "B",
-        "text": "Di chúc có hiệu lực thừa kế từ ngày người con nhận bản sao.",
+        "text": "H được sang tên từ ngày nhận bản gốc nếu P chưa lập văn bản hủy di chúc.",
         "correct": false,
-        "explanation": "Nhận bản sao không phải thời điểm mở thừa kế."
+        "explanation": "Việc giữ bản gốc không làm thừa kế mở khi P còn sống."
       },
       {
         "id": "C",
-        "text": "Di chúc có hiệu lực thừa kế từ ngày người con đồng ý nhận tài sản.",
+        "text": "H được sang tên sau khi xác nhận chấp nhận di sản bằng văn bản, dù P còn sống.",
         "correct": false,
-        "explanation": "Sự đồng ý của người con không thay thế thời điểm mở thừa kế."
+        "explanation": "Chấp nhận không tạo thời điểm mở thừa kế hoặc giao dịch chuyển quyền khác."
       },
       {
         "id": "D",
-        "text": "Di chúc có hiệu lực từ thời điểm mở thừa kế.",
+        "text": "Chưa có hiệu lực thừa kế để H sang tên bằng di chúc; hiệu lực định đoạt thừa kế bắt đầu khi mở thừa kế.",
         "correct": true,
-        "explanation": "Kết hợp khoản 1 Điều 643 với khoản 1 Điều 611 để xác định mốc hiệu lực."
+        "explanation": "P còn sống; không có giao dịch chuyển quyền khác. Chứng nhận hợp pháp không làm mở thừa kế trước hạn."
       }
     ],
     "legalBasis": [
@@ -114,11 +117,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Phân biệt hai mốc hiệu lực; không cần tính toán hoặc giải quyết tranh chấp.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Tách hiệu lực chứng nhận với thời điểm phát sinh thừa kế; không suy sang tên từ việc nắm bản gốc.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Phân biệt hai mốc hiệu lực; không cần tính toán hoặc giải quyết tranh chấp.",
+    "explanation": "Tách hiệu lực chứng nhận với thời điểm phát sinh thừa kế; không suy sang tên từ việc nắm bản gốc.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -130,19 +133,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-003",
     "part": 1,
     "topic": "Thẩm quyền công chứng bất động sản",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Văn phòng công chứng đặt trụ sở tại tỉnh X nhận ba yêu cầu về một thửa đất tại tỉnh Y: lập di chúc; ủy quyền thực hiện quyền đối với đất; tặng cho đất. Hồ sơ đều đáp ứng các điều kiện khác. Chỉ xét giới hạn địa bàn tại Điều 44 Luật Công chứng, chọn tất cả nhận định đúng."
+        "Văn phòng tại X nhận ba hồ sơ về đất tại Y: di chúc định đoạt đất; ủy quyền người khác bán đất; hợp đồng tặng cho đất có hiệu lực giữa các bên trước khi đăng ký. Các bên đều cư trú tại X. Nếu chỉ kiểm tra địa hạt công chứng, kết luận nào đúng?"
       ]
     },
     "answerKey": [
@@ -158,9 +164,9 @@
       },
       {
         "id": "B",
-        "text": "Hợp đồng tặng cho cũng là ngoại lệ nếu bên nhận đang cư trú tại tỉnh X.",
+        "text": "Hợp đồng tặng cho thuộc ngoại lệ vì các bên cùng cư trú tại X và chưa đăng ký chuyển quyền.",
         "correct": false,
-        "explanation": "Nơi cư trú của bên nhận không tạo ngoại lệ cho hợp đồng tặng cho đất."
+        "explanation": "Ngoại lệ không căn cứ nơi cư trú hoặc thời điểm đăng ký; tặng cho không thuộc danh sách này."
       },
       {
         "id": "C",
@@ -170,9 +176,9 @@
       },
       {
         "id": "D",
-        "text": "Tặng cho và ủy quyền đều được công chứng tại X vì đều chưa làm đăng ký sang tên ngay.",
+        "text": "Có thể nhận cả ba hồ sơ vì ủy quyền và tặng cho đều chưa trực tiếp làm thay đổi đăng ký đất.",
         "correct": false,
-        "explanation": "Việc đăng ký diễn ra sau không phải tiêu chí xác định thẩm quyền địa bàn."
+        "explanation": "Phải phân loại văn bản theo ngoại lệ luật định, không theo hệ quả đăng ký tại thời điểm ký."
       }
     ],
     "legalBasis": [
@@ -182,11 +188,11 @@
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
-    "difficultyRationale": "Phân loại ba giao dịch trên cùng tài sản, tránh suy rộng ngoại lệ.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt quyền định đoạt trực tiếp, đại diện thực hiện quyền và định đoạt sau chết; loại dữ kiện nơi cư trú, đăng ký không quyết định địa hạt.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Phân loại ba giao dịch trên cùng tài sản, tránh suy rộng ngoại lệ.",
+    "explanation": "Phân biệt quyền định đoạt trực tiếp, đại diện thực hiện quyền và định đoạt sau chết; loại dữ kiện nơi cư trú, đăng ký không quyết định địa hạt.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -198,19 +204,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-004",
     "part": 1,
     "topic": "Công chứng ngoài trụ sở",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Văn phòng nhận hai đề nghị công chứng ngoài trụ sở: ông A đang điều trị nội trú tại bệnh viện; bà B khỏe mạnh, đi lại bình thường nhưng bận họp, chỉ muốn công chứng tại nhà. Bà B không thuộc bất kỳ lý do chính đáng khác được Chính phủ quy định. Các điều kiện về năng lực, tự nguyện, giao dịch và thẩm quyền đã được bảo đảm. Chọn tất cả nhận định đúng."
+        "A đang điều trị nội trú nhưng đi lại được trong bệnh viện; muốn công chứng hợp đồng bán tài sản tại giường bệnh. B khỏe mạnh, đã đặt xe nhưng bận lịch họp nên muốn công chứng cùng hợp đồng tại nhà. B không thuộc lý do chính đáng khác được Chính phủ quy định. Hai hồ sơ đủ điều kiện khác. Những kết luận nào đúng?"
       ]
     },
     "answerKey": [
@@ -220,9 +229,9 @@
     "answers": [
       {
         "id": "A",
-        "text": "Sự đồng ý của văn phòng đủ để thực hiện cả hai đề nghị ngoài trụ sở.",
+        "text": "Cả A và B đều được công chứng ngoài trụ sở nếu cùng thanh toán chi phí đi lại đã thỏa thuận.",
         "correct": false,
-        "explanation": "Không thể thay điều kiện luật định bằng sự đồng ý cung cấp dịch vụ."
+        "explanation": "Chi phí đi lại không tạo căn cứ công chứng ngoài trụ sở."
       },
       {
         "id": "B",
@@ -232,9 +241,9 @@
       },
       {
         "id": "C",
-        "text": "Ông A phải chứng minh không thể đi lại thì mới được công chứng tại bệnh viện, dù đang điều trị nội trú.",
+        "text": "Chỉ tiếp nhận A ngoài trụ sở sau khi có chứng cứ A hoàn toàn không thể đi lại.",
         "correct": false,
-        "explanation": "Không thể ghép điều kiện không đi lại được vào mọi trường hợp điều trị nội trú."
+        "explanation": "Điều trị nội trú là nhánh căn cứ riêng; không buộc cộng thêm không thể đi lại."
       },
       {
         "id": "D",
@@ -250,11 +259,11 @@
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
-    "difficultyRationale": "Đọc các điều kiện thay thế, không biến chúng thành điều kiện phải đồng thời có.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt căn cứ sức khỏe độc lập với thuận tiện cá nhân và chi phí; không cộng điều kiện của hai nhánh luật.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Đọc các điều kiện thay thế, không biến chúng thành điều kiện phải đồng thời có.",
+    "explanation": "Phân biệt căn cứ sức khỏe độc lập với thuận tiện cá nhân và chi phí; không cộng điều kiện của hai nhánh luật.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -266,19 +275,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-005",
     "part": 1,
     "topic": "Hiệu lực văn bản công chứng điện tử",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Một giao dịch đủ điều kiện được công chứng điện tử: các bên hoàn tất chữ ký điện tử lúc 09 giờ 05; công chứng viên ký số lúc 09 giờ 12; tổ chức hành nghề công chứng ký số lúc 09 giờ 20; khách hàng tải tệp lúc 09 giờ 30. Các chữ ký đều hợp lệ. Văn bản công chứng điện tử có hiệu lực từ thời điểm nào?"
+        "Các bên ký điện tử hợp lệ lúc 09:05; tổ chức ký số lúc 09:10; công chứng viên ký số lúc 09:20; tệp được gửi cho khách lúc 09:30. Tệp này đủ điều kiện công chứng điện tử, không thiếu chữ ký bắt buộc nào khác. Chọn mốc bắt đầu hiệu lực văn bản, phân biệt hoàn tất chứng nhận với gửi nhận tệp."
       ]
     },
     "answerKey": [
@@ -287,27 +299,27 @@
     "answers": [
       {
         "id": "A",
-        "text": "09 giờ 20, khi tổ chức hoàn tất chữ ký số.",
+        "text": "09:20, khi đã có đầy đủ chữ ký số của công chứng viên và tổ chức.",
         "correct": true,
-        "explanation": "Đến 09 giờ 20 mới đủ cả hai chữ ký số mà khoản 2 Điều 64 yêu cầu."
+        "explanation": "Không phụ thuộc bên nào ký trước; đến 09:20 mới đủ hai chữ ký chứng nhận."
       },
       {
         "id": "B",
-        "text": "09 giờ 12, khi công chứng viên hoàn tất chữ ký số nghiệp vụ.",
+        "text": "09:10, vì chữ ký số tổ chức hoàn tất trước là mốc đóng dấu điện tử.",
         "correct": false,
-        "explanation": "Chữ ký số của công chứng viên là cần nhưng chưa đủ."
+        "explanation": "Lúc 09:10 còn thiếu chữ ký số công chứng viên."
       },
       {
         "id": "C",
-        "text": "09 giờ 05, khi các bên hoàn tất việc ký và thể hiện ý chí.",
+        "text": "09:05, vì từ đó ý chí các bên đã được xác nhận bằng chữ ký điện tử.",
         "correct": false,
-        "explanation": "Chữ ký của các bên chưa thay thế việc hoàn thành công chứng điện tử."
+        "explanation": "Hoàn tất ý chí các bên chưa đủ chữ ký chứng nhận của công chứng viên và tổ chức."
       },
       {
         "id": "D",
-        "text": "09 giờ 30, khi tệp được chuyển giao để người yêu cầu sử dụng.",
+        "text": "09:30, vì trước khi nhận tệp khách chưa có khả năng sử dụng văn bản.",
         "correct": false,
-        "explanation": "Thời điểm tải tệp không quyết định hiệu lực văn bản."
+        "explanation": "Gửi nhận tệp không phải điều kiện xác định hiệu lực tại Điều 64."
       }
     ],
     "legalBasis": [
@@ -317,11 +329,11 @@
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
-    "difficultyRationale": "Phân biệt bốn sự kiện trong một quy trình, xác định mốc hoàn tất điều kiện.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Xác định chữ ký bắt buộc hoàn tất sau cùng khi thứ tự tổ chức và công chứng viên bị đảo.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Phân biệt bốn sự kiện trong một quy trình, xác định mốc hoàn tất điều kiện.",
+    "explanation": "Xác định chữ ký bắt buộc hoàn tất sau cùng khi thứ tự tổ chức và công chứng viên bị đảo.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -333,19 +345,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-006",
     "part": 1,
     "topic": "Đặt cọc bảo đảm thực hiện hợp đồng",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A giao B 200 triệu đồng đặt cọc để bảo đảm việc giao kết và thực hiện hợp đồng mua bán một tài sản. Sau khi ký hợp đồng, B nhận thêm một khoản thanh toán; số tiền đặt cọc vẫn được các bên thỏa thuận giữ để bảo đảm việc bàn giao tài sản. B sau đó tự ý từ chối bàn giao, không có căn cứ miễn trách nhiệm và không có thỏa thuận khác về xử lý cọc. Chỉ xét khoản tiền cọc, nhận định nào đúng?"
+        "Giá tài sản 1 tỷ đồng. A đặt cọc 200 triệu để bảo đảm cả giao kết và bàn giao; sau khi ký hợp đồng A thanh toán thêm 300 triệu, nhưng hai bên giữ 200 triệu ở chế độ đặt cọc cho đến bàn giao. B từ chối bàn giao do lỗi mình. Chưa xét hoàn trả 300 triệu hay thiệt hại khác, không có thỏa thuận xử lý cọc riêng. Riêng cơ chế đặt cọc làm phát sinh số tiền B phải trả nào?"
       ]
     },
     "answerKey": [
@@ -354,15 +369,15 @@
     "answers": [
       {
         "id": "A",
-        "text": "Cọc chỉ được trả lại 200 triệu đồng vì hợp đồng đã được ký.",
+        "text": "200 triệu; khoản tương đương cọc không áp dụng vì đã ký hợp đồng và đã thanh toán một phần.",
         "correct": false,
-        "explanation": "Bỏ qua mục đích bảo đảm thực hiện vẫn được duy trì theo thỏa thuận."
+        "explanation": "Cọc còn bảo đảm thực hiện theo thỏa thuận; ký hợp đồng không tự chấm dứt bảo đảm này."
       },
       {
         "id": "B",
-        "text": "Cọc đã chuyển thành tiền thanh toán ngay khi ký nên không còn cơ chế xử lý cọc.",
+        "text": "700 triệu; cộng 200 triệu cọc, 200 triệu tương đương và 300 triệu đã thanh toán.",
         "correct": false,
-        "explanation": "Đề bài xác định rõ cọc chưa chuyển thành tiền thanh toán."
+        "explanation": "Đề chỉ hỏi riêng cơ chế đặt cọc, không cộng khoản thanh toán có căn cứ xử lý khác."
       },
       {
         "id": "C",
@@ -372,9 +387,9 @@
       },
       {
         "id": "D",
-        "text": "B chỉ phải trả thêm 200 triệu đồng, còn tiền cọc đã nhận được giữ để bù chi phí.",
+        "text": "500 triệu; tính khoản tương đương theo toàn bộ tiền B đang nắm ngoài khoản cọc phải trả.",
         "correct": false,
-        "explanation": "Khoản tương đương là khoản thêm vào, không thay thế nghĩa vụ trả lại tài sản cọc."
+        "explanation": "Khoản tương đương căn cứ giá trị cọc 200 triệu, không căn cứ khoản thanh toán hoặc tổng tiền đã giao."
       }
     ],
     "legalBasis": [
@@ -384,11 +399,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Phân biệt giao kết với thực hiện và cọc với khoản thanh toán tiếp theo.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Tách hai dòng tiền và phạm vi bảo đảm; không nhầm ký hợp đồng với chấm dứt chế độ cọc.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Phân biệt giao kết với thực hiện và cọc với khoản thanh toán tiếp theo.",
+    "explanation": "Tách hai dòng tiền và phạm vi bảo đảm; không nhầm ký hợp đồng với chấm dứt chế độ cọc.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -400,19 +415,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-007",
     "part": 1,
     "topic": "Ủy quyền lại",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A ủy quyền cho B quản lý và cho thuê nhà bằng hợp đồng có công chứng. A đồng ý bằng văn bản cho B ủy quyền lại cho C quản lý và cho thuê, nhưng không cho phép bán nhà. Chọn tất cả nhận định đúng về việc ủy quyền lại."
+        "A công chứng ủy quyền B quản lý, cho thuê nhà; văn bản không cho bán nhà. A sau đó đồng ý bằng văn bản cho B ủy quyền lại C thực hiện đúng công việc. B dự định dùng giấy ủy quyền lại để C ký thuê và thêm quyền bán khi cần chi tiền sửa nhà. Những nhận định nào đúng?"
       ]
     },
     "answerKey": [
@@ -429,9 +447,9 @@
       },
       {
         "id": "B",
-        "text": "B có thể bổ sung quyền bán nhà cho C vì C là người trực tiếp xử lý công việc.",
+        "text": "C được bán nhà trong phạm vi tiền cần sửa, vì đó là việc phụ trợ cho quyền quản lý được ủy quyền lại.",
         "correct": false,
-        "explanation": "Người ủy quyền lại không được trao thêm quyền mà mình không được trao."
+        "explanation": "Mục đích sửa nhà không tự tạo quyền bán ngoài phạm vi ban đầu."
       },
       {
         "id": "C",
@@ -453,11 +471,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Kiểm tra đồng thời căn cứ, phạm vi và hình thức; không chọn một điều kiện thay toàn bộ.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Kiểm tra riêng căn cứ ủy quyền lại, phạm vi việc được giao và hình thức; không suy quyền định đoạt từ việc quản lý.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Kiểm tra đồng thời căn cứ, phạm vi và hình thức; không chọn một điều kiện thay toàn bộ.",
+    "explanation": "Kiểm tra riêng căn cứ ủy quyền lại, phạm vi việc được giao và hình thức; không suy quyền định đoạt từ việc quản lý.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -469,19 +487,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-008",
     "part": 1,
     "topic": "Nhà riêng là nơi ở duy nhất của vợ chồng",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Vợ được thừa kế riêng căn nhà; vợ chồng không nhập nhà vào tài sản chung. Đây là nơi ở duy nhất của họ. Vợ muốn bán nhà nhưng chưa bảo đảm chỗ ở cho vợ chồng; các vấn đề khác không có tranh chấp. Chỉ xét Điều 31 và Điều 43 Luật Hôn nhân và gia đình, hướng nhận định phù hợp nhất là gì?"
+        "Vợ có chứng cứ thừa kế riêng căn nhà, vợ chồng chưa nhập vào tài sản chung. Nhà là nơi ở duy nhất; người chồng đồng ý giá bán và dự định tự tìm chỗ ở sau. Hồ sơ chưa chứng minh việc bảo đảm chỗ ở cho vợ chồng. Nhận định nào xử lý đồng thời nguồn tài sản và điều kiện nơi ở duy nhất đúng?"
       ]
     },
     "answerKey": [
@@ -490,21 +511,21 @@
     "answers": [
       {
         "id": "A",
-        "text": "Phải coi nhà là tài sản chung vì vợ chồng cùng ở đó sau khi kết hôn.",
+        "text": "Nhà phải xác định lại là tài sản chung vì chồng cùng sử dụng và tham gia thỏa thuận giá.",
         "correct": false,
-        "explanation": "Việc cùng sử dụng không tự biến tài sản được thừa kế riêng thành tài sản chung."
+        "explanation": "Sử dụng chung và thỏa thuận giá không tự nhập tài sản thừa kế riêng vào khối chung."
       },
       {
         "id": "B",
-        "text": "Có thể bỏ qua điều kiện chỗ ở vì nguồn gốc thừa kế riêng đã được chứng minh.",
+        "text": "Nguồn tài sản riêng đã rõ nên có thể kết thúc kiểm tra việc bảo đảm chỗ ở.",
         "correct": false,
-        "explanation": "Điều kiện bảo đảm chỗ ở áp dụng cả khi nhà là tài sản riêng."
+        "explanation": "Tài sản riêng không loại điều kiện bảo đảm chỗ ở đối với nhà duy nhất."
       },
       {
         "id": "C",
-        "text": "Chỉ cần chữ ký của chồng là đủ, không cần làm rõ việc bảo đảm chỗ ở.",
+        "text": "Văn bản đồng ý giá của chồng thay được việc làm rõ bảo đảm chỗ ở sau chuyển nhượng.",
         "correct": false,
-        "explanation": "Một chữ ký không tự chứng minh điều kiện về chỗ ở đã được đáp ứng."
+        "explanation": "Đồng ý giá và bảo đảm chỗ ở là hai vấn đề khác nhau; đề chưa chứng minh điều kiện chỗ ở."
       },
       {
         "id": "D",
@@ -520,11 +541,11 @@
         "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
       }
     ],
-    "difficultyRationale": "Kết hợp nguồn gốc tài sản với hạn chế khi định đoạt nơi ở duy nhất.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt sự đồng ý giá, nhập tài sản và bảo đảm chỗ ở; không dùng một dữ kiện thay cả ba điều kiện.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Kết hợp nguồn gốc tài sản với hạn chế khi định đoạt nơi ở duy nhất.",
+    "explanation": "Phân biệt sự đồng ý giá, nhập tài sản và bảo đảm chỗ ở; không dùng một dữ kiện thay cả ba điều kiện.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -536,19 +557,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-009",
     "part": 1,
     "topic": "Người thừa kế không phụ thuộc di chúc",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Ông M có di chúc hợp pháp để lại toàn bộ di sản cho bạn. Tại thời điểm M chết: con N 17 tuổi; con P 25 tuổi không có khả năng lao động; con Q 28 tuổi có khả năng lao động; vợ M đã từ chối nhận di sản hợp lệ. Cha mẹ M đã chết. N, P, Q không từ chối và không thuộc trường hợp không có quyền hưởng di sản. Chọn những nhận định đúng về người được bảo vệ theo Điều 644."
+        "Di chúc của M cho bạn toàn bộ di sản. Khi M chết, N còn 17 tuổi, P 25 tuổi không có khả năng lao động, Q 28 tuổi có khả năng lao động. Vợ M từ chối nhận di sản bằng văn bản hợp lệ trước khi phân chia, không nhằm trốn nợ; cha mẹ M đã chết. N, P, Q đủ quyền hưởng và không từ chối. Chọn những người vẫn được bảo vệ về phần bắt buộc; không đồng nhất hàng thừa kế với nhóm bảo vệ."
       ]
     },
     "answerKey": [
@@ -570,15 +594,15 @@
       },
       {
         "id": "C",
-        "text": "Q cũng được bảo vệ như N vì cả ba đều là con của M.",
+        "text": "Q được phần bắt buộc bằng N vì thuộc cùng hàng thừa kế và không bị truất quyền hưởng.",
         "correct": false,
-        "explanation": "Quan hệ là con chưa đủ; con thành niên có khả năng lao động không thuộc nhóm này."
+        "explanation": "Cùng hàng quyết định suất giả định, không tự làm con thành niên có khả năng lao động thuộc nhóm bắt buộc."
       },
       {
         "id": "D",
-        "text": "Vợ M vẫn được hưởng phần bắt buộc dù đã từ chối nhận di sản hợp lệ.",
+        "text": "Vợ được phần bắt buộc vì việc từ chối chỉ loại phần chia theo pháp luật, không loại quyền theo di chúc.",
         "correct": false,
-        "explanation": "Khoản 2 Điều 644 loại trường hợp từ chối nhận di sản hợp lệ."
+        "explanation": "Từ chối hợp lệ thuộc ngoại lệ không áp dụng bảo vệ tại khoản 2 Điều 644."
       }
     ],
     "legalBasis": [
@@ -588,11 +612,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Phân biệt tuổi, khả năng lao động và ngoại lệ từ chối nhận di sản.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Lọc tư cách theo tuổi, khả năng lao động và từ chối hợp lệ trước khi xét suất; tránh đồng nhất hàng thừa kế với phần bắt buộc.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Phân biệt tuổi, khả năng lao động và ngoại lệ từ chối nhận di sản.",
+    "explanation": "Lọc tư cách theo tuổi, khả năng lao động và từ chối hợp lệ trước khi xét suất; tránh đồng nhất hàng thừa kế với phần bắt buộc.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -604,19 +628,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-010",
     "part": 1,
     "topic": "Chấm dứt ủy quyền và người thứ ba",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A đơn phương chấm dứt một hợp đồng ủy quyền không có thù lao và đã báo trước cho B một thời gian hợp lý. A không báo bằng văn bản cho C. C không biết, không phải biết việc chấm dứt và vẫn giao dịch với B trong phạm vi ủy quyền cũ. Các điều kiện hiệu lực khác đều được đáp ứng. Theo khoản 1 Điều 569, nhận định nào đúng?"
+        "A chấm dứt ủy quyền không thù lao với B, đã báo trước B hợp lý. Thư thông báo bằng văn bản cho C bị hoàn lại, C không nhận, không biết và không phải biết việc chấm dứt. Sau đó C ký với B trong phạm vi ủy quyền cũ; giao dịch đủ điều kiện khác. Nhận định nào đúng về giao dịch với C?"
       ]
     },
     "answerKey": [
@@ -625,9 +652,9 @@
     "answers": [
       {
         "id": "A",
-        "text": "Giao dịch với C mất hiệu lực ngay khi A đã báo cho B.",
+        "text": "Giao dịch không ràng buộc A từ ngày A đã gửi thư, dù thư chưa đến C.",
         "correct": false,
-        "explanation": "Thông báo giữa A và B không tự thay nghĩa vụ thông báo cho người thứ ba."
+        "explanation": "Đề nêu C không biết, không phải biết; việc gửi thư không làm điều kiện bảo vệ người thứ ba biến mất."
       },
       {
         "id": "B",
@@ -637,15 +664,15 @@
       },
       {
         "id": "C",
-        "text": "Giao dịch chỉ có hiệu lực nếu A thanh toán thù lao cho B sau khi chấm dứt.",
+        "text": "Giao dịch chỉ ràng buộc A nếu C chứng minh mình đã yêu cầu A xác nhận trước khi ký.",
         "correct": false,
-        "explanation": "Hợp đồng ủy quyền không có thù lao; thù lao không phải căn cứ nêu tại đây."
+        "explanation": "Luật không đặt nghĩa vụ xin xác nhận lại trong nhánh C không biết, không phải biết."
       },
       {
         "id": "D",
-        "text": "Giao dịch phải chuyển toàn bộ sang nghĩa vụ riêng của B vì C chưa hỏi lại A.",
+        "text": "Giao dịch chuyển thành nghĩa vụ riêng của B vì quan hệ ủy quyền A–B đã chấm dứt hợp lệ.",
         "correct": false,
-        "explanation": "Không thể suy đoán C biết việc chấm dứt chỉ vì không hỏi lại."
+        "explanation": "Chấm dứt nội bộ không tự loại quy tắc bảo vệ người thứ ba tại Điều 569."
       }
     ],
     "legalBasis": [
@@ -655,11 +682,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Tách hiệu lực chấm dứt giữa hai bên khỏi hiệu lực đối với người thứ ba.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Tách chấm dứt nội bộ, gửi thông báo và nhận thức của đối tác; không coi chứng từ gửi là đủ loại bảo vệ người thứ ba.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Tách hiệu lực chấm dứt giữa hai bên khỏi hiệu lực đối với người thứ ba.",
+    "explanation": "Tách chấm dứt nội bộ, gửi thông báo và nhận thức của đối tác; không coi chứng từ gửi là đủ loại bảo vệ người thứ ba.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -671,19 +698,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-011",
     "part": 1,
     "topic": "Thỏa thuận khác về xử lý đặt cọc",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A đặt cọc cho B 200 triệu đồng. Hai bên thỏa thuận hợp pháp bằng văn bản: nếu B từ chối giao kết do nguyên nhân thuộc B, B trả lại tiền cọc và trả thêm 100 triệu đồng. B từ chối đúng trường hợp đã thỏa thuận. Không có khoản bồi thường hoặc nghĩa vụ tiền nào khác đang được yêu cầu. Tổng số tiền B phải trả riêng theo cơ chế xử lý cọc này là bao nhiêu?"
+        "A đặt cọc 200 triệu. Hợp đồng quy định hợp pháp nếu B từ chối giao kết do lỗi B thì hoàn cọc và trả thêm 100 triệu, thay mức trả thêm mặc định. B vi phạm đúng trường hợp; A đã nhận lại 50 triệu như một phần thực hiện nghĩa vụ xử lý cọc. Chọn tổng nghĩa vụ xử lý cọc phát sinh trước khi trừ khoản đã trả, không tính thiệt hại khác."
       ]
     },
     "answerKey": [
@@ -698,21 +728,21 @@
       },
       {
         "id": "B",
-        "text": "400 triệu đồng, vì khoản tương đương giá trị cọc không được thỏa thuận thay đổi.",
+        "text": "250 triệu, vì phải trừ 50 triệu đã trả rồi mới xác định tổng nghĩa vụ phát sinh.",
         "correct": false,
-        "explanation": "Bỏ qua ngoại lệ có thỏa thuận khác."
+        "explanation": "250 triệu là số còn phải trả, không phải tổng nghĩa vụ đề đang hỏi."
       },
       {
         "id": "C",
-        "text": "500 triệu đồng, gồm trả cọc, khoản tương đương và khoản 100 triệu đồng.",
+        "text": "450 triệu, vì cọc 200 triệu, khoản tương đương 200 triệu và khoản 100 triệu được cộng rồi trừ 50 triệu.",
         "correct": false,
-        "explanation": "Cộng đồng thời hai cơ chế mà các bên đã thỏa thuận thay thế."
+        "explanation": "Không cộng khoản mặc định với khoản thay thế; đề cũng không hỏi số còn phải trả."
       },
       {
         "id": "D",
-        "text": "100 triệu đồng, vì khoản trả thêm đã thay thế toàn bộ nghĩa vụ trả lại cọc.",
+        "text": "400 triệu, vì mức trả thêm theo thỏa thuận không được dùng khi lỗi thuộc bên nhận cọc.",
         "correct": false,
-        "explanation": "Đề bài quy định trả lại tiền cọc và trả thêm, không phải chỉ trả một khoản duy nhất."
+        "explanation": "Điều 328 cho phép thỏa thuận khác; dữ kiện xác nhận thỏa thuận hợp pháp."
       }
     ],
     "legalBasis": [
@@ -722,11 +752,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Đọc ngoại lệ thỏa thuận khác và tránh cộng trùng khoản phải trả.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt tổng nghĩa vụ và số dư còn trả; kiểm tra điều khoản thay thế chế tài mặc định.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Đọc ngoại lệ thỏa thuận khác và tránh cộng trùng khoản phải trả.",
+    "explanation": "Phân biệt tổng nghĩa vụ và số dư còn trả; kiểm tra điều khoản thay thế chế tài mặc định.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -738,19 +768,22 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
     "id": "CAL26-012",
     "part": 1,
     "topic": "Các thời hiệu liên quan đến thừa kế",
-    "difficulty": "application",
+    "difficulty": "advanced",
     "status": "active",
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Một hồ sơ phát sinh ba yêu cầu: chia di sản là nhà ở; xác nhận quyền thừa kế; yêu cầu người thừa kế thực hiện nghĩa vụ tài sản của người chết. Giả định không có căn cứ không tính thời gian, tạm ngừng hoặc bắt đầu lại thời hiệu. Chọn bộ thời hạn tương ứng, tính từ thời điểm mở thừa kế."
+        "Thừa kế mở ngày 12/10/2017. Đến 12/10/2026, ba yêu cầu độc lập được nêu: chia di sản nhà ở; xác nhận quyền thừa kế; buộc người thừa kế thực hiện nghĩa vụ tài sản của người chết. Không có thời gian loại trừ, bắt đầu lại hay quy định chuyển tiếp khác. Chọn bộ thời hiệu theo thứ tự để kiểm tra yêu cầu, chưa xét việc Tòa án áp dụng thời hiệu."
       ]
     },
     "answerKey": [
@@ -759,27 +792,27 @@
     "answers": [
       {
         "id": "A",
-        "text": "30 năm; 30 năm; 10 năm.",
+        "text": "30 năm; 30 năm; 3 năm — cả hai yêu cầu đầu cùng liên quan nhà nên cùng thời hiệu.",
         "correct": false,
-        "explanation": "Nhầm thời hiệu xác nhận quyền và thời hiệu yêu cầu thực hiện nghĩa vụ."
+        "explanation": "Thời hiệu xác nhận quyền không chuyển thành 30 năm vì di sản là bất động sản."
       },
       {
         "id": "B",
-        "text": "10 năm; 10 năm; 03 năm.",
+        "text": "10 năm; 10 năm; 3 năm — chia nhà và xác nhận quyền thừa kế đều dùng thời hiệu 10 năm.",
         "correct": false,
-        "explanation": "Nhà ở là bất động sản, không áp dụng thời hạn chia động sản."
+        "explanation": "Chia di sản bất động sản có thời hiệu 30 năm."
       },
       {
         "id": "C",
-        "text": "30 năm; 10 năm; 03 năm.",
+        "text": "30, 10, 3 năm; còn thời hiệu hai yêu cầu đầu, đã hết ở yêu cầu thứ ba.",
         "correct": true,
-        "explanation": "Ba khoản của Điều 623 quy định ba loại yêu cầu khác nhau với ba thời hạn tương ứng."
+        "explanation": "Từ 12/10/2017 đến 12/10/2026 là chín năm; ba loại yêu cầu có thời hiệu khác nhau, chưa xét việc Tòa áp dụng."
       },
       {
         "id": "D",
-        "text": "30 năm; 03 năm; 10 năm.",
+        "text": "30 năm; 3 năm; 10 năm — yêu cầu xác nhận và yêu cầu trả nghĩa vụ dùng mốc đảo nhau.",
         "correct": false,
-        "explanation": "Đảo thời hạn giữa xác nhận quyền thừa kế và yêu cầu thực hiện nghĩa vụ tài sản."
+        "explanation": "Điều 623 quy định xác nhận 10 năm, thực hiện nghĩa vụ 3 năm."
       }
     ],
     "legalBasis": [
@@ -789,11 +822,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Phân loại theo yêu cầu pháp lý, không gộp mọi việc thừa kế vào một thời hạn.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân loại mục đích rồi đối chiếu chín năm đã trôi qua; không dùng loại tài sản cho mọi yêu cầu thừa kế.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Phân loại theo yêu cầu pháp lý, không gộp mọi việc thừa kế vào một thời hạn.",
+    "explanation": "Phân loại mục đích rồi đối chiếu chín năm đã trôi qua; không dùng loại tài sản cho mọi yêu cầu thừa kế.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -805,7 +838,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -817,7 +853,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A ủy quyền B mua một máy với giá không quá 800 triệu đồng. B ký mua giá 900 triệu đồng; bên bán đã được thông báo giới hạn 800 triệu đồng. Sau đó A biết đầy đủ nội dung và có văn bản đồng ý toàn bộ giao dịch 900 triệu đồng. Không có vi phạm về nội dung hoặc hình thức; chỉ xét hậu quả vượt phạm vi đại diện. Phương án nào đúng?"
+        "Giới hạn ủy quyền mua máy của A cho B là 800 triệu. B ký giá 900 triệu, bên bán biết giới hạn; A sau đó đọc đầy đủ hợp đồng và ký văn bản chấp thuận toàn bộ giá 900 triệu, không đặt điều kiện. Hợp đồng không có lỗi hình thức, nội dung. Cách xác định nghĩa vụ nào đúng?"
       ]
     },
     "answerKey": [
@@ -826,21 +862,21 @@
     "answers": [
       {
         "id": "A",
-        "text": "A chỉ bị ràng buộc 800 triệu đồng; 100 triệu đồng còn lại luôn là nghĩa vụ riêng của B.",
+        "text": "A chịu 800 triệu, B chịu 100 triệu vì bên bán biết giới hạn nên việc A chấp thuận sau không khắc phục được.",
         "correct": false,
-        "explanation": "Bỏ qua trường hợp người được đại diện đồng ý đối với phần vượt phạm vi."
+        "explanation": "Sự đồng ý là ngoại lệ riêng tại Điều 143, không bị loại chỉ vì đối tác biết giới hạn."
       },
       {
         "id": "B",
-        "text": "Toàn bộ hợp đồng không thể ràng buộc A vì bên bán đã biết giới hạn ủy quyền.",
+        "text": "A chỉ chịu 100 triệu vượt phạm vi vì văn bản sau chỉ có tác dụng xác nhận phần vượt.",
         "correct": false,
-        "explanation": "Việc bên bán biết phạm vi không loại trường hợp A sau đó đồng ý theo điểm a khoản 1 Điều 143."
+        "explanation": "Đề xác nhận A đồng ý toàn bộ; không tách phần hợp đồng hợp lệ thành nghĩa vụ không ràng buộc."
       },
       {
         "id": "C",
-        "text": "Phải lập hợp đồng ủy quyền mới trước khi ký thì mới có thể làm phát sinh nghĩa vụ của A.",
+        "text": "Phải ký lại ủy quyền nâng mức trước khi có thể công nhận hợp đồng với bên bán.",
         "correct": false,
-        "explanation": "Điều 143 dự liệu sự đồng ý; không giới hạn vào việc sửa ủy quyền trước khi ký."
+        "explanation": "Điều 143 cho ràng buộc bằng sự đồng ý, không bắt buộc hồi tố một ủy quyền mới."
       },
       {
         "id": "D",
@@ -856,11 +892,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Nhận diện vượt phạm vi, kiến thức của bên bán và sự đồng ý sau giao dịch; dữ kiện sau đảo kết luận ban đầu.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Áp dụng ngoại lệ đồng ý sau giao dịch; phân biệt giới hạn ủy quyền với phạm vi nghĩa vụ đã được chấp thuận.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Nhận diện vượt phạm vi, kiến thức của bên bán và sự đồng ý sau giao dịch; dữ kiện sau đảo kết luận ban đầu.",
+    "explanation": "Áp dụng ngoại lệ đồng ý sau giao dịch; phân biệt giới hạn ủy quyền với phạm vi nghĩa vụ đã được chấp thuận.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -872,7 +908,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -884,7 +923,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Hai pháp nhân X và Y dự định giao kết một hợp đồng mua bán tài sản. Cả hai đều ủy quyền hợp lệ cho cùng cá nhân K trực tiếp ký hợp đồng nhân danh mình. Không có quy định pháp luật khác cho phép K ký cả hai phía trong giao dịch này. Chọn tất cả nhận định đúng theo Điều 141 Bộ luật Dân sự."
+        "X và Y ủy quyền K ký một hợp đồng mua bán giữa hai pháp nhân. Mỗi ủy quyền đủ phạm vi và còn hạn; cả hai cơ quan quản lý đã duyệt giá. Không có quy định pháp luật riêng cho phép K ký hai phía. Đề xuất thay người phía Y nhưng giữ K phía X được đưa ra. Những nhận định nào đúng?"
       ]
     },
     "answerKey": [
@@ -913,9 +952,9 @@
       },
       {
         "id": "D",
-        "text": "Nếu X và Y cùng đồng ý giá mua bán thì K được ký cả hai phía mà không cần căn cứ khác.",
+        "text": "Duyệt giá của cả hai pháp nhân đã loại xung đột nên K có thể ký hai phía theo hai ủy quyền riêng.",
         "correct": false,
-        "explanation": "Sự đồng ý về giá không phải ngoại lệ pháp luật mà khoản 3 dự liệu."
+        "explanation": "Đủ phạm vi và đồng thuận giá không thay ngoại lệ pháp luật cho việc đại diện hai bên cùng giao dịch."
       }
     ],
     "legalBasis": [
@@ -925,11 +964,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Hai ủy quyền đều hợp lệ riêng lẻ nhưng cách thực hiện giao dịch vẫn gặp giới hạn pháp luật.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Tách hợp lệ của từng ủy quyền và điều cấm ở cùng giao dịch; đánh giá biện pháp thay người thay vì phủ nhận mọi đại diện nhiều chủ thể.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Hai ủy quyền đều hợp lệ riêng lẻ nhưng cách thực hiện giao dịch vẫn gặp giới hạn pháp luật.",
+    "explanation": "Tách hợp lệ của từng ủy quyền và điều cấm ở cùng giao dịch; đánh giá biện pháp thay người thay vì phủ nhận mọi đại diện nhiều chủ thể.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -941,7 +980,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -953,7 +995,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Vợ chồng M và N có 6 tỷ đồng tài sản chung, thuộc chế độ tài sản theo luật, không có thỏa thuận chia khác. M chết, cha mẹ M đã chết; M có ba người con: P 17 tuổi, Q thành niên có khả năng lao động, R thành niên không có khả năng lao động. Đây là toàn bộ người thừa kế theo pháp luật; tất cả đều đủ quyền hưởng và không từ chối. Không có nợ, chi phí phải trừ hoặc tài sản riêng. Di chúc hợp pháp của M để lại toàn bộ phần tài sản của M cho bạn H. Chọn tất cả nhận định đúng."
+        "Tài sản chung M–N trị giá 6 tỷ, không có tài sản riêng hoặc nghĩa vụ cần trừ; không có thỏa thuận chia khác. M chết, cha mẹ đã chết. Ba con là P 17 tuổi, Q thành niên có khả năng lao động, R thành niên không có khả năng lao động; N và các con không từ chối, không mất quyền hưởng. Di chúc cho bạn H toàn bộ phần M. Chọn các kết luận đúng sau khi tách khối tài sản và bảo vệ người bắt buộc."
       ]
     },
     "answerKey": [
@@ -970,9 +1012,9 @@
       },
       {
         "id": "B",
-        "text": "N, P, Q, R đều được hưởng tối thiểu 500 triệu đồng từ di sản vì đều thuộc hàng thứ nhất.",
+        "text": "N, P, R mỗi người 1 tỷ và H không còn phần, vì lấy hai phần ba suất từ toàn bộ khối 6 tỷ.",
         "correct": false,
-        "explanation": "Q thành niên có khả năng lao động không thuộc nhóm được bảo vệ tại Điều 644."
+        "explanation": "Khối di sản chỉ 3 tỷ sau tách phần N; lấy khối chung làm di sản khiến tính phần bắt buộc gấp đôi."
       },
       {
         "id": "C",
@@ -999,11 +1041,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Ba bước: tách tài sản chung, xác định suất giả định, bảo đảm đúng nhóm thừa kế bắt buộc.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Ba bước: tách tài sản chung, đếm suất giả định gồm cả Q, rồi lọc người nhận phần bắt buộc.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Ba bước: tách tài sản chung, xác định suất giả định, bảo đảm đúng nhóm thừa kế bắt buộc.",
+    "explanation": "Ba bước: tách tài sản chung, đếm suất giả định gồm cả Q, rồi lọc người nhận phần bắt buộc.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1015,7 +1057,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -1027,7 +1072,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "M để lại 900 triệu đồng di sản sau khi đã trừ mọi nghĩa vụ. M có vợ N, con Q thành niên có khả năng lao động; con P chết trước M và có một con K thành niên có khả năng lao động. Cha mẹ M đã chết, không có người thừa kế khác. Di chúc hợp pháp để lại toàn bộ di sản cho H. Mọi người đều đủ quyền hưởng, không ai từ chối. Phương án nào xác định đúng việc phân chia theo các dữ kiện này?"
+        "Di sản ròng M là 900 triệu. M có vợ N, con Q thành niên có khả năng lao động; con P đã chết trước M, để lại con K thành niên có khả năng lao động. Cha mẹ đã chết, không có người hưởng khác; không ai từ chối hoặc mất quyền. Di chúc cho H toàn bộ. Hồ sơ yêu cầu xác định vừa suất giả định vừa phần thực nhận. Phương án nào đúng?"
       ]
     },
     "answerKey": [
@@ -1042,21 +1087,21 @@
       },
       {
         "id": "B",
-        "text": "N và K mỗi người hưởng 200 triệu đồng; H hưởng 500 triệu đồng; Q không có phần bắt buộc.",
+        "text": "N nhận 300 triệu, H 600 triệu; bỏ nhánh P vì P không còn sống nên suất giả định chỉ có N, Q.",
         "correct": false,
-        "explanation": "Thừa kế thế vị không tự biến cháu thành người thừa kế bắt buộc khi có di chúc hợp pháp."
+        "explanation": "Nhánh P được K thế vị khi xác định chia theo pháp luật; không bỏ khỏi số suất giả định."
       },
       {
         "id": "C",
-        "text": "N, Q, K mỗi người hưởng 300 triệu đồng vì thế vị làm toàn bộ di chúc không còn hiệu lực.",
+        "text": "N và K mỗi người 200 triệu, H 500 triệu; thế vị tự làm K có phần bắt buộc giống con chưa thành niên.",
         "correct": false,
-        "explanation": "Thế vị không tự hủy di chúc hợp pháp để chuyển toàn bộ sang thừa kế theo pháp luật."
+        "explanation": "K thành niên có khả năng lao động không tự được phần bắt buộc vì là người thế vị."
       },
       {
         "id": "D",
-        "text": "N hưởng 300 triệu đồng; H hưởng 600 triệu đồng vì vợ phải nhận đủ một suất theo pháp luật.",
+        "text": "N nhận 200 triệu, Q và K mỗi người 300 triệu, H 100 triệu; bảo vệ N rồi chia theo pháp luật phần còn lại.",
         "correct": false,
-        "explanation": "Điều 644 bảo đảm hai phần ba suất theo pháp luật, không tự bảo đảm toàn bộ một suất."
+        "explanation": "Di chúc hợp pháp vẫn chi phối phần còn lại; không chuyển phần còn lại sang chia theo pháp luật."
       }
     ],
     "legalBasis": [
@@ -1066,11 +1111,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Dùng thế vị để tính suất giả định nhưng không đồng nhất người thế vị với người thừa kế bắt buộc.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Giữ nhánh thế vị trong suất giả định nhưng không biến người thế vị thành người hưởng bắt buộc; áp dụng di chúc cho phần còn lại.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Dùng thế vị để tính suất giả định nhưng không đồng nhất người thế vị với người thừa kế bắt buộc.",
+    "explanation": "Giữ nhánh thế vị trong suất giả định nhưng không biến người thế vị thành người hưởng bắt buộc; áp dụng di chúc cho phần còn lại.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1082,7 +1127,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -1094,7 +1142,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A thuê B thực hiện dịch vụ theo tháng. B vi phạm nghiêm trọng nghĩa vụ, đủ căn cứ để A đơn phương chấm dứt theo Điều 428; không có tranh chấp về căn cứ này. A gửi thông báo ngày 10/10/2026, B nhận ngày 12/10/2026. Hai bên đã có phần dịch vụ thực hiện hợp lệ trước thời điểm chấm dứt và chưa thanh toán. Chọn tất cả nhận định đúng, chỉ xét cơ chế đơn phương chấm dứt."
+        "Hợp đồng dịch vụ đã có phần thực hiện hợp lệ chưa thanh toán. B vi phạm nghiêm trọng, A có đủ căn cứ đơn phương chấm dứt. A gửi thông báo 10/10, B nhận 12/10; điều khoản phạt, bồi thường và giải quyết tranh chấp đã có. Không xét căn cứ hủy bỏ riêng. Những nhận định nào đúng về hiệu lực và quyết toán?"
       ]
     },
     "answerKey": [
@@ -1117,9 +1165,9 @@
       },
       {
         "id": "C",
-        "text": "Cơ chế này tự làm hợp đồng mất hiệu lực từ lúc giao kết và buộc hoàn trả toàn bộ mọi lợi ích đã nhận.",
+        "text": "Chấm dứt từ 12/10 nhưng buộc hoàn trả mọi lợi ích đã nhận từ ngày ký theo cơ chế vô hiệu hồi tố.",
         "correct": false,
-        "explanation": "Nhầm hậu quả hủy bỏ tại Điều 427 với đơn phương chấm dứt tại Điều 428."
+        "explanation": "Thời điểm nhận đúng nhưng hệ quả hồi tố sai; phải phân biệt đơn phương chấm dứt với hủy bỏ, vô hiệu."
       },
       {
         "id": "D",
@@ -1135,11 +1183,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Phân biệt hai chế tài, hai mốc thông báo và phần nghĩa vụ đã thực hiện.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Một phương án có phần thời điểm đúng nhưng hệ quả sai; tách hiệu lực tương lai, công việc đã làm và điều khoản được giữ.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Phân biệt hai chế tài, hai mốc thông báo và phần nghĩa vụ đã thực hiện.",
+    "explanation": "Một phương án có phần thời điểm đúng nhưng hệ quả sai; tách hiệu lực tương lai, công việc đã làm và điều khoản được giữ.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1151,7 +1199,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -1163,7 +1214,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "B nợ A 1 tỷ đồng gốc, 100 triệu đồng lãi và 50 triệu đồng phạt. C có thỏa thuận bảo lãnh hợp pháp, chỉ bảo lãnh tối đa 600 triệu đồng tiền gốc, loại trừ lãi và phạt. Nợ đã đến hạn, B không thanh toán; không có thỏa thuận chỉ đòi C khi B mất khả năng thực hiện, cũng không có căn cứ bù trừ. Chỉ xét phạm vi và điều kiện bảo lãnh, A được yêu cầu C thực hiện nghĩa vụ nào?"
+        "B nợ A gốc 1 tỷ, lãi 100 triệu, phạt 50 triệu. C bảo lãnh hợp pháp tối đa 600 triệu tiền gốc, không lãi, phạt. Nợ đến hạn; B không trả nhưng còn khả năng trả. Không thỏa thuận chỉ gọi bảo lãnh khi mất khả năng, không có bù trừ. A chưa kiện B. Yêu cầu nào đúng với C?"
       ]
     },
     "answerKey": [
@@ -1172,15 +1223,15 @@
     "answers": [
       {
         "id": "A",
-        "text": "Toàn bộ 1,15 tỷ đồng vì khi đến hạn, phạm vi bảo lãnh mở rộng bằng toàn bộ khoản nợ.",
+        "text": "750 triệu, vì phạm vi gốc được giới hạn nhưng lãi và phạt vẫn đi theo nghĩa vụ bảo lãnh.",
         "correct": false,
-        "explanation": "Đến hạn làm phát sinh điều kiện yêu cầu, không tự mở rộng phạm vi đã thỏa thuận."
+        "explanation": "Thỏa thuận đã loại lãi và phạt; không dùng phạm vi mặc định thay thỏa thuận."
       },
       {
         "id": "B",
-        "text": "750 triệu đồng gồm 600 triệu đồng gốc và toàn bộ lãi, phạt theo phạm vi mặc định.",
+        "text": "600 triệu gốc sau khi A có bản án buộc B trả mà B không thi hành.",
         "correct": false,
-        "explanation": "Khoản 2 Điều 336 cho phép thỏa thuận khác về phạm vi lãi, phạt và khoản liên quan."
+        "explanation": "Nhánh thông thường không buộc phải kiện hoặc có bản án trước khi gọi bảo lãnh."
       },
       {
         "id": "C",
@@ -1190,9 +1241,9 @@
       },
       {
         "id": "D",
-        "text": "Chưa được yêu cầu C trả gì cho đến khi có bản án xác định B mất khả năng thanh toán.",
+        "text": "Chưa gọi bảo lãnh vì B vẫn có khả năng trả, dù đã vi phạm nghĩa vụ đến hạn.",
         "correct": false,
-        "explanation": "Đề bài đã loại thỏa thuận chỉ thực hiện khi B mất khả năng; luật không đặt điều kiện phải kiện trước trong trường hợp này."
+        "explanation": "Không có thỏa thuận giới hạn gọi bảo lãnh theo khả năng thực hiện; áp dụng vi phạm nghĩa vụ đến hạn."
       }
     ],
     "legalBasis": [
@@ -1202,11 +1253,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Tách giới hạn số tiền khỏi điều kiện yêu cầu thực hiện, tránh áp dụng máy móc phạm vi mặc định.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Kết hợp giới hạn về khoản bảo lãnh và điều kiện gọi; không đưa điều kiện mất khả năng hoặc kiện trước vào nhánh thông thường.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Tách giới hạn số tiền khỏi điều kiện yêu cầu thực hiện, tránh áp dụng máy móc phạm vi mặc định.",
+    "explanation": "Kết hợp giới hạn về khoản bảo lãnh và điều kiện gọi; không đưa điều kiện mất khả năng hoặc kiện trước vào nhánh thông thường.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1218,7 +1269,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -1230,7 +1284,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "A đang thế chấp một ô tô thuộc sở hữu mình cho ngân hàng B; xe không phải hàng hóa luân chuyển trong sản xuất, kinh doanh. Hợp đồng không hạn chế thêm quyền cho thuê. A muốn cho C thuê xe, sau đó tặng xe cho D; ngân hàng chưa đồng ý việc tặng cho và không có ngoại lệ luật khác. Chọn tất cả nhận định đúng theo Điều 321."
+        "A thế chấp xe cá nhân không phải hàng hóa luân chuyển cho B. Hợp đồng cho phép cho thuê theo quy định luật. A thông báo B về dự định thuê và dự định tặng xe, nhưng chưa thông báo người thuê C về thế chấp; B chưa trả lời việc tặng. Không có ngoại lệ luật khác. Chọn các kết luận đúng về việc còn phải hoàn tất."
       ]
     },
     "answerKey": [
@@ -1241,9 +1295,9 @@
     "answers": [
       {
         "id": "A",
-        "text": "Cả việc cho thuê và tặng cho đều chỉ được thực hiện sau khi ngân hàng đồng ý.",
+        "text": "Văn bản thông báo B về cả hai giao dịch đủ thay chấp thuận tặng cho nếu B chưa phản đối trong ba ngày.",
         "correct": false,
-        "explanation": "Khoản 6 quy định quyền cho thuê kèm nghĩa vụ thông báo; không được tự ghép điều kiện đồng ý tại khoản 5 cho việc cho thuê trong dữ kiện đã cho."
+        "explanation": "Không có căn cứ mặc định im lặng ba ngày là chấp thuận định đoạt tài sản thế chấp."
       },
       {
         "id": "B",
@@ -1271,11 +1325,11 @@
         "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
       }
     ],
-    "difficultyRationale": "Xử lý kế tiếp hai giao dịch khác bản chất trên cùng tài sản và kiểm tra đầy đủ chủ thể được thông báo.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Phân biệt thông báo hai phía khi thuê với chấp thuận khi tặng; im lặng trước thông báo không tự đáp ứng điều kiện định đoạt.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "multiple",
-    "explanation": "Xử lý kế tiếp hai giao dịch khác bản chất trên cùng tài sản và kiểm tra đầy đủ chủ thể được thông báo.",
+    "explanation": "Phân biệt thông báo hai phía khi thuê với chấp thuận khi tặng; im lặng trước thông báo không tự đáp ứng điều kiện định đoạt.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1287,7 +1341,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   },
   {
@@ -1299,7 +1356,7 @@
     "applicableAt": "2026-10-12",
     "question": {
       "variants": [
-        "Ngày 12/06/2026, M bị cái chết đe dọa nhưng vẫn minh mẫn, tự nguyện. Công chứng viên thực hiện công chứng di chúc theo khoản 3 Điều 58, chưa yêu cầu xuất trình đủ giấy tờ và đã ghi rõ điều đó trong văn bản. Ngày 12/09/2026, M đã bình phục, không còn nguy hiểm đến tính mạng. Đến ngày 12/10/2026 M vẫn không nộp đủ giấy tờ theo khoản 1 Điều 42. Chỉ xét hiệu lực văn bản công chứng di chúc trong cơ chế đặc biệt này, nhận định nào đúng?"
+        "M lập di chúc công chứng ngày 12/06/2026 trong tình trạng nguy hiểm tính mạng, còn minh mẫn; thiếu giấy tờ được ghi rõ trong văn bản theo thủ tục đặc biệt. M hồi phục trước 12/09; đến 12/10 vẫn không nộp đủ giấy tờ. Người hưởng đề nghị giữ nguyên vì di chúc chưa phát sinh thừa kế và mốc ba tháng phải tính từ hồi phục. Nhận định nào đúng về văn bản công chứng?"
       ]
     },
     "answerKey": [
@@ -1308,9 +1365,9 @@
     "answers": [
       {
         "id": "A",
-        "text": "Văn bản vẫn có hiệu lực vì việc thiếu giấy tờ đã được ghi rõ khi công chứng.",
+        "text": "Văn bản vẫn có hiệu lực đến ngày M chết; thiếu giấy tờ chỉ cần khắc phục khi phân chia di sản.",
         "correct": false,
-        "explanation": "Điều kiện đặc biệt ban đầu không loại nghĩa vụ bổ sung khi tình trạng nguy hiểm đã chấm dứt sau mốc luật định."
+        "explanation": "Nhầm thời điểm hiệu lực thừa kế với điều kiện riêng của văn bản công chứng đặc biệt."
       },
       {
         "id": "B",
@@ -1320,15 +1377,15 @@
       },
       {
         "id": "C",
-        "text": "Phải chờ M chết mới xét việc thiếu giấy tờ, vì di chúc chỉ phát sinh hiệu lực khi mở thừa kế.",
+        "text": "Văn bản vẫn có hiệu lực đến ba tháng sau ngày hồi phục vì mốc bổ sung bắt đầu từ hồi phục.",
         "correct": false,
-        "explanation": "Mốc mở thừa kế không thay thế điều kiện hiệu lực riêng của văn bản công chứng trong khoản 3."
+        "explanation": "Mốc luật định tính từ lập di chúc, không từ hồi phục."
       },
       {
         "id": "D",
-        "text": "M chỉ cần chờ thêm ba tháng tính từ ngày bình phục, chưa phải bổ sung giấy tờ vào tháng 10.",
+        "text": "Văn bản trở thành di chúc miệng và được giữ hiệu lực nếu còn hai người biết nội dung.",
         "correct": false,
-        "explanation": "Ba tháng được tính từ thời điểm lập di chúc theo cơ chế này, không từ ngày bình phục."
+        "explanation": "Không có cơ chế tự chuyển loại văn bản do không bổ sung giấy tờ."
       }
     ],
     "legalBasis": [
@@ -1338,11 +1395,11 @@
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
-    "difficultyRationale": "Kết hợp miễn xuất trình ban đầu, mốc thời gian, tình trạng sức khỏe sau đó và hậu quả pháp lý chính xác.",
-    "reviewStatus": "CONTENT_REVIEWED_FOR_CALIBRATION",
+    "difficultyRationale": "Tách thời điểm lập, hồi phục và mở thừa kế; áp dụng đúng hệ quả của văn bản công chứng đặc biệt thay vì cơ chế di chúc miệng.",
+    "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "type": "single",
-    "explanation": "Kết hợp miễn xuất trình ban đầu, mốc thời gian, tình trạng sức khỏe sau đó và hậu quả pháp lý chính xác.",
+    "explanation": "Tách thời điểm lập, hồi phục và mở thừa kế; áp dụng đúng hệ quả của văn bản công chứng đặc biệt thay vì cơ chế di chúc miệng.",
     "lastVerified": "2026-10-12",
     "questionForm": "scenario",
     "batch": "calibration-20-2026-10-12",
@@ -1354,7 +1411,10 @@
     "audit": {
       "legalReviewStatus": "selected_provisions_checked",
       "difficultyStatus": "estimated_pending_group_trial",
-      "evidenceFile": "reports/calibration-20-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "difficultyReview": "hard_scenario_estimated_pending_trial",
+      "previousEvidenceFile": "reports/calibration-20-legal-review-2026-10-12.json",
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
     }
   }
 ]

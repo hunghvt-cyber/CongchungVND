@@ -1,0 +1,2619 @@
+{
+  "date": "2026-10-12",
+  "beforeCommit": "18a5deaa69096772ae5318b7d8162e740a9f19ed",
+  "scope": "CAL26-001 through CAL26-100; 100 stems rewritten and option sets substantively revised; no expansion of eligible bank.",
+  "difficulty": "100 advanced scenario targets; estimated, not empirically calibrated. A longer stem alone is not counted as improvement.",
+  "answerPolicy": "Preserved question IDs, part, single/multiple type and original correct sets. Each changed distractor has a matched explanation; true text updated where the tested factual branch changed.",
+  "questions": [
+    {
+      "id": "CAL26-001",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "ea425ae46e0c882bd7ddac03e1822cec685a0fe35a2fb90f35ee3544acc49f53",
+      "afterSHA256": "e14a243567eb07421d3599694ca0bcda8469adb8221a79da5516c4af7df98e9e",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt người ký giao dịch, người ký lời chứng và chủ thể có lợi ích; chọn biện pháp xử lý đúng phạm vi điều cấm.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Điểm c khoản 1 Điều 9",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-002",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "5b9980e266c2c5182bdd7ece6593658a2fd85191a3e6395dab7c82935839d953",
+      "afterSHA256": "825d814f7737bbd53296086f20f56ba465950c38862d5bfcfae620dd36cfde3c",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách hiệu lực chứng nhận với thời điểm phát sinh thừa kế; không suy sang tên từ việc nắm bản gốc.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 Điều 611; khoản 1 Điều 643",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-003",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "f7776562872905c0605454e631ca0f67dfa837e6787627ee398830e3ace34976",
+      "afterSHA256": "f2ca9308c51733f089aa955917b9a88eef3b3d568f7f49b4a47757a058f58816",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt quyền định đoạt trực tiếp, đại diện thực hiện quyền và định đoạt sau chết; loại dữ kiện nơi cư trú, đăng ký không quyết định địa hạt.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Điều 44",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-004",
+      "answerKeyBefore": [
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "b6f27c987e9177e157e9fa5d26c78e42668b58a114cafa517af2319fd88979c4",
+      "afterSHA256": "9754e642a2841d6763fa5e05a7848e5e5cbcc12df6ecc1f03bb1e31998b4ca53",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C"
+      ],
+      "cognitiveTask": "Phân biệt căn cứ sức khỏe độc lập với thuận tiện cá nhân và chi phí; không cộng điều kiện của hai nhánh luật.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1; điểm b, d khoản 2 Điều 46",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-005",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "72c2a3fc553b653930047fdcf679dab444f2e37c03878f46eb4736a6d6a44ab2",
+      "afterSHA256": "7df4b1bca8687fa76a14b8ebd570d421a8ceb768423685423fc21fe5380f1ae8",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Xác định chữ ký bắt buộc hoàn tất sau cùng khi thứ tự tổ chức và công chứng viên bị đảo.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2 Điều 64",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-006",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "93edce9a60cb937139beadfc79eb8c7b9787b5feaa7a131774da2e06dbc6c353",
+      "afterSHA256": "c8ba066d5f8c4d02356eeed2aaa64af18e29c4836faf41540185d79ff97c6d6f",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Tách hai dòng tiền và phạm vi bảo đảm; không nhầm ký hợp đồng với chấm dứt chế độ cọc.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1, khoản 2 Điều 328",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-007",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "9cfc3d3f9f47b391a440a427ed023facd77ad936e90a27cde33c20268ef6cb55",
+      "afterSHA256": "5269cf46eeab21cfe36c6b039631f246e94ebb533b251fef6ee73d48046a43b4",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Kiểm tra riêng căn cứ ủy quyền lại, phạm vi việc được giao và hình thức; không suy quyền định đoạt từ việc quản lý.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điểm a khoản 1; khoản 2, khoản 3 Điều 564",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-008",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "cdaaf8ae291688b96c0903ef3bd62ae2201c9a4857dc810ec4889f4680fd8b7a",
+      "afterSHA256": "007060a2465a82dba3f5a4207591c4f5561b04466359cf7ffdeb42c182c53313",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Phân biệt sự đồng ý giá, nhập tài sản và bảo đảm chỗ ở; không dùng một dữ kiện thay cả ba điều kiện.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 31; khoản 1 Điều 43",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-009",
+      "answerKeyBefore": [
+        "A",
+        "B"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B"
+      ],
+      "beforeSHA256": "0729d9f22682502647034a0602cc84300519d295b5685fe1fdc1b7753462aa46",
+      "afterSHA256": "097e563a601f7b82764fef88417b638dfa0c19838b9322e201c5c618f6ca91a8",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Lọc tư cách theo tuổi, khả năng lao động và từ chối hợp lệ trước khi xét suất; tránh đồng nhất hàng thừa kế với phần bắt buộc.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điểm a, b khoản 1; khoản 2 Điều 644",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-010",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "18c22e19dc53821e3f681d45622a509002c03c6274b818f4c4ebf65b42f21746",
+      "afterSHA256": "6453d5028f5d19aea64aeb867c7e841f6181fb9938aea8ebfd3546aa6249182f",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách chấm dứt nội bộ, gửi thông báo và nhận thức của đối tác; không coi chứng từ gửi là đủ loại bảo vệ người thứ ba.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 Điều 569",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-011",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "b150e9f2237388007ab10d1b3928baeb2c33a88932b601ce552692297750f845",
+      "afterSHA256": "015fbf4cba6027ab868dc676c9b7efa2327485254d81867782092191d3bf8f04",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt tổng nghĩa vụ và số dư còn trả; kiểm tra điều khoản thay thế chế tài mặc định.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 328",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-012",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "71259dfee9d44f1e07b2f415afd9a1232324a0c54dff106bcc7568135c0b582c",
+      "afterSHA256": "1f715d458a412df2f27045549d54ec7ad87b8739dbae34f19b553200eb5711c6",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân loại mục đích rồi đối chiếu chín năm đã trôi qua; không dùng loại tài sản cho mọi yêu cầu thừa kế.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1, khoản 2, khoản 3 Điều 623",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-013",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "fd929f7eb6bc3419890e5682b752d2d6115d6dac0f59fc77fb76a83f340da3c8",
+      "afterSHA256": "babe8bad709dd32658c76999eb89eaab2708d408c4134d8859a1fae47baed72c",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Áp dụng ngoại lệ đồng ý sau giao dịch; phân biệt giới hạn ủy quyền với phạm vi nghĩa vụ đã được chấp thuận.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1, khoản 4 Điều 141; điểm a khoản 1 Điều 143",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-014",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "09305715e41a9a853ebf5e61f5c9d5e2b65c43e1d03ec492a3395f91282adf5a",
+      "afterSHA256": "d3be49bb4e789004069c7509ab696e05bf0c4b536dbd7781f0e148dfd3efc7d5",
+      "stemRewritten": true,
+      "changedOptions": [
+        "D"
+      ],
+      "cognitiveTask": "Tách hợp lệ của từng ủy quyền và điều cấm ở cùng giao dịch; đánh giá biện pháp thay người thay vì phủ nhận mọi đại diện nhiều chủ thể.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1; khoản 3 Điều 141",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-015",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "842c081afa0682dfffd2c2461d87082a5bf3f81240ecc98357b4f77cdfc5c2ef",
+      "afterSHA256": "d122bdceef4aad18f18fb7bd51dd9353e440a04c790f7404c369747ef7cd341e",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Ba bước: tách tài sản chung, đếm suất giả định gồm cả Q, rồi lọc người nhận phần bắt buộc.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Khoản 2 Điều 66",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điểm a khoản 1; khoản 2 Điều 651; khoản 1 Điều 644",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-016",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "2c6b076bdde652dc6581351d0a5eea303b0d9ed5c49a5c0da78e419b534e32d6",
+      "afterSHA256": "705bcb639502a1127c1bcf3ec552818237213d14769d899a19336ea76f472445",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Giữ nhánh thế vị trong suất giả định nhưng không biến người thế vị thành người hưởng bắt buộc; áp dụng di chúc cho phần còn lại.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 652; điểm a khoản 1, khoản 2 Điều 651; khoản 1 Điều 644",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-017",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "73a1deaab31756b6b7c4f70036a33329fcac48f5b6c102ae8ab6ee364336dde7",
+      "afterSHA256": "d803bdf5fbd5e6ce6c170fd09b86707e00545cd448875a8d6f33dc67c8c559c2",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Một phương án có phần thời điểm đúng nhưng hệ quả sai; tách hiệu lực tương lai, công việc đã làm và điều khoản được giữ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1, khoản 2, khoản 3 Điều 428; khoản 1 Điều 427",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-018",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "0267b8c8ae9839bdc88b49fa7922501f6b1b5eee52713fda58caa4bb9b0bd779",
+      "afterSHA256": "8b31f5614ca239507df71ac31a90e82786730ad9919f644f15454f92844d1dee",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Kết hợp giới hạn về khoản bảo lãnh và điều kiện gọi; không đưa điều kiện mất khả năng hoặc kiện trước vào nhánh thông thường.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1, khoản 2 Điều 336; khoản 1, khoản 2, khoản 3 Điều 339",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-019",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "abb4d66d90277887e5a8f7b08582e24082e2524ea6d96c7e6b619a0533c0ea39",
+      "afterSHA256": "af10c22e171ad948b36908cae940b49a63a4870be75a8140eae3186678024d33",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Phân biệt thông báo hai phía khi thuê với chấp thuận khi tặng; im lặng trước thông báo không tự đáp ứng điều kiện định đoạt.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 5, khoản 6 Điều 321",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-020",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "397e7b6b39ed3e65d23d81a168c590ced40bf68ff9107d11a760f57a231b0568",
+      "afterSHA256": "594b5a195614fe6646b41a67f9cc1e5b8bf8cdb2d7503fc68b2332cd011f6e90",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách thời điểm lập, hồi phục và mở thừa kế; áp dụng đúng hệ quả của văn bản công chứng đặc biệt thay vì cơ chế di chúc miệng.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 3 Điều 58; khoản 1 Điều 42",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-021",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "12e19b586a0fe05516861a7158f696fad26c711bf0d0d678f4ad56921c388c12",
+      "afterSHA256": "3809d29f71c8db8758d5309c91efd3125b6e573b60fa1a516970388296e4b5f9",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân loại đồng thời hai nội dung; tránh dùng cùng một thủ tục cho sửa ý chí và sửa ghi chép.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 Điều 52; khoản 1 Điều 53",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-022",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "83be5e4771a5601c4833c4e32745b6cbac073a37daee2dc2c259e7206703f0ce",
+      "afterSHA256": "184328c49dfe114c5e05e485a962cb4f326723fa1129b22161ecfeb4b16f13e2",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Kiểm tra cả nhánh im lặng và nội dung phản hồi có điều kiện; không suy chấp nhận từ một phần nội dung.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 393",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-023",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "cdffdcab8de835ffed0c225bc8d6f287e9f12242114f885327348797f3e3a9e9",
+      "afterSHA256": "db09e90da3d39e9a0bd435ced4783af0e1dfd6c63e32b564c680f54357307e18",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Chọn đúng mốc xác lập, loại mốc chứng nhận/giao nhận và không suy kéo dài từ việc còn bản gốc.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 563",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-024",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "9dc4f3e2135cbb169cac332fde41431c57a48f44f59ced349891651bc974b0c6",
+      "afterSHA256": "fa56b0228bc0c8d6ee961423d37075a84a8bb80e82c1bf3e4d1d06b3cabd46f9",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt từ chối, nhận rồi chuyển tài sản và giai đoạn công bố; dùng mốc thủ tục thực tế thay số tháng.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 620",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-025",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "06ae7936d56a81e902af9fcd6b415695f985d18aca75180594e03b4e0e1d2a7b",
+      "afterSHA256": "869f54fbca684dbaa2d1960405e47595da63b388100ca64738c50f09784fe362",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đối chiếu hai cơ chế chấm dứt tổ chức và quan hệ hoàn trả, không dùng nghỉ việc làm điều kiện loại trách nhiệm.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Điều 40",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-026",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "79c50713aefcf295c8c7c2406db6a1862c2ddd5782cab09cf2090a4f8db7ac9b",
+      "afterSHA256": "74a447bc783967a5eb478e09cd55026bd241048faf05178e30a5a04920f03c59",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Kiểm tra căn cứ phải có chứng và lợi ích gián tiếp của người được mời; xử lý nhánh chỉ định khi không mời được.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2 Điều 49",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-027",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "018af6b58acbf3d6ff1d65f317074cab4608b200214b9ec8c0f01f909eede905",
+      "afterSHA256": "9cc682bf9246b4cae99d2aa93fc5840dc55f81578c7857e2305cbec50f3d0c0b",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đối chiếu hai nhánh ký kèm điểm chỉ và điểm chỉ thay ký; không cộng yêu cầu ngón trỏ thành điều cấm ngón khác.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 và khoản 3 Điều 50",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-028",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "41dc0355604b1bf38ea5d59aa5c0d0921556299f8fa55a5f44264726da3c432c",
+      "afterSHA256": "90de44ee659e39277299e907a815d687dea9ee3b42d8dfecbbe57738b2499958",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Tách ba điều kiện: đồng thuận, hồ sơ và nơi thực hiện; không dùng ngoại lệ di chúc hoặc bản gốc để thay thẩm quyền.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Điều 53",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-029",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "35e7ea1aaf5d02ad8d4798058e75a15a8867328013c7b8dab72b44661fd31b9b",
+      "afterSHA256": "36b81869b4173cfa3b11d79676d059ef26fe9eeaf4a431e727debdca597fdb7e",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Theo dõi tính liên tục của bản gốc và bản lưu tại hai tổ chức; không đánh đồng bản chứng thực với bản gốc hợp đồng.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 Điều 57",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-030",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "068d42077ae7a4b025d171adb9713ab3b46583e3eb7b7c701cbef4c0deb52c59",
+      "afterSHA256": "937d7ae1f79b666aa067d7dfc50c84caa4b2bdc122a6eae205ea516cab3b0402",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Kiểm tra ba tiêu chí độc lập: hiện hữu, xác định được và giá trị; không suy một giới hạn không có từ tổ hợp dữ kiện.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 295",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-031",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "c9a1104bac3c5d33a16715494518e806d56643c078b8822bb197770e61461dcc",
+      "afterSHA256": "b3a52211b1a7300d155aed201bc25d70ddd403d480be1d8d3f34531aaa4acea2",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Phân biệt ngưỡng thực hiện, quyết định công nhận và chữa lỗi hình thức; không biến điều kiện đủ yêu cầu thành công chứng hồi tố.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 117; khoản 2 Điều 129",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-032",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "54055acddac66f0f1b68763302cdf89b6fccf7a5c8bcd3f5f377e3cf48f68303",
+      "afterSHA256": "8e70317a5d77a797aed3bd5c665a929c5313faf286036d33e17839fa3f7c4094",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Xác định quan hệ giữa khắc phục và mục đích giao kết; không dùng hoàn tất giao tài sản hoặc hình thức từ bỏ làm điều kiện thay.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 126",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-033",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "b3ad9b98753dbef02202e8eb731fba468bcf9bf06a4c99cc5f7ef62d4c1b6681",
+      "afterSHA256": "ed6118cd59f303d9099445a1f8bd04d2ed853ae43cd2566540686d374590d229",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá hai lập luận cùng sai và chọn mốc nhận thức; không nhầm giả tạo với lừa dối trong giao kết.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điểm b khoản 1 và khoản 3 Điều 132",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-034",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "519cc831ba3bfb4128047c3377550db17cbc07d991db8f454f3de2690931e3f9",
+      "afterSHA256": "3570ec1471135c73307d5fc2bfba162af7742e8933d3742677815cf62b1cb4db",
+      "stemRewritten": true,
+      "changedOptions": [
+        "D"
+      ],
+      "cognitiveTask": "Tách ba dòng xử lý: hoàn trả tài sản, hoa lợi ngay tình và thiệt hại có lỗi; không bù trừ bằng cách nhập mọi khoản.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 131",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-035",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "8de205c33573fbdf587717e9672c135310025f2702785d0200097052f8f17471",
+      "afterSHA256": "7ec88809376ae129977822118d01e9faf5c26a81d0cb0c8fd6560faf433dbfd5",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Phân loại nhóm tuổi và tính chất tài sản thay vì giá trị hoặc công dụng; không mở rộng kết luận sang xe phải đăng ký.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 và khoản 4 Điều 21",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-036",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "687c241da94a8ab9f93fd5d19913b83293434d8cd1e38b2aa1a0550995911479",
+      "afterSHA256": "41b01d1c6203b2e0b0aae34d69df90ac22b4ba52870c08f4e34cad4ebda96a30",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Kiểm tra nguồn sở hữu và loại dòng tài sản; không gộp lợi tức với tài sản hình thành từ nguồn riêng.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Khoản 1 Điều 33; Điều 43",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-037",
+      "answerKeyBefore": [
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "b87b42ccecd5a7894e600d116fc7d0d8d41a4891622bbb3b604335cc2ae75049",
+      "afterSHA256": "74dc21cc7738d6e74673044a82768fcb89c8daea6080859c3ac4523c199d6fac",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá thỏa thuận về phạm vi kinh doanh và tư cách ký; không đồng nhất quyền giao dịch với chuyển sở hữu.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 35; Điều 36",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-038",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "a42b540746461f8226be3b5eadbe9db96c84ba1ada61fb367a1a4bca4cb05b50",
+      "afterSHA256": "3163056c9f1af6de26cd0574c2e28773981c579d7b0032070e6a6458052c654e",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Giữ ranh giới sở hữu nội bộ và nghĩa vụ bên ngoài; không lấy bảo vệ chủ nợ để phủ nhận việc chia hợp pháp.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 40",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-039",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "419a1602d77e7c9bfd021eb38ef748a1df6297fee86a64811c5578f46121d7c4",
+      "afterSHA256": "faef6b06f528a67ef358582c0fc8db6adc5443a41e7f15310484a7435831ae33",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Tách căn cứ vô hiệu do mục đích khỏi đăng ký bảo đảm, thời điểm khởi kiện và người đứng tên khoản nợ.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 38; điểm d khoản 2 Điều 42",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-040",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "4db85255f490ef9694d6b6bf347f4dc0d522effb5f1ce8635881302f20896565",
+      "afterSHA256": "9684285e2c59a00997a7d1c33fe8b7148059bd32ab1101ac5515a297bc328909",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Kiểm tra ý chí, hình thức nhập và khối tài sản chịu nghĩa vụ; không nhầm nhập tài sản với xóa hoặc tái lập khoản nợ.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 46",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-041",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "76c9088bc0e490438513bb9a321b0d33ab231b3a71f8a26001e293f08891fad1",
+      "afterSHA256": "a0d4ebafc9b952ba307735b981c5ca0257334b1bd59887c959aa05ff5c89ce9d",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt sự đồng ý về cách thực hiện và thay chủ thể nghĩa vụ; giữ trách nhiệm với bên có quyền.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 283",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-042",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "cb279502fa5b74da4dcc6bc6316d107a2a71d5be15855b15596f06ca341ba53a",
+      "afterSHA256": "aaf00f8f034fb30e9abeac31dc8ea9b74d5a23250bf78a1052ef24a786494e98",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Kiểm tra cả nguồn nắm giữ, đối tượng hợp đồng và mốc đến hạn; không mở rộng quyền sang mọi vật đang giữ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 346; Điều 347",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-043",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "0066a1b8be98db9ff521f988c9a7a905ca888e1280b422f48c505290ae11606f",
+      "afterSHA256": "0a682edfbd65c0b70600d319a845374720460a8b5c3980fc11e55ad86603fe6c",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách ký cược, tiền thuê và bồi thường; không nhập chế tài đặt cọc hoặc kiện trước vào nhánh mất tài sản thuê.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 329",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-044",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "4e0da66b4862ff0dc4c38a30f67272a278e76db74c8f4f05a22e2c021707c340",
+      "afterSHA256": "835337391b94b7dd49a61a2441a1088e9f999b2b8f6b894eacc31428df8875b6",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Tách đến hạn, vi phạm và khả năng thực hiện; không coi chưa đáp ứng lần đầu là chấm dứt hẳn bảo lãnh.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 2 Điều 339",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-045",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "3d0e296b880b87ddbf2df1e70cefec01586d0203b5e32a4ee43a1aca3ca703fe",
+      "afterSHA256": "62fd55a2318050d593f3a81ac4e8d273e68237a4104072d4ec924f6b7dd5bad9",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Xác định loại văn bản sau và phạm vi mâu thuẫn; phân biệt bổ sung với thay thế, không chuyển sang chia pháp luật quá sớm.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 640",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-046",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "6c977a8ada92b406774306d5893c2a21b8c4edd31ee932dc9f56595dc51b6bab",
+      "afterSHA256": "8ed552a0ff8ff8d8e7cc24cb6a2924e35a88ef1dbb2d333921f64fbd30d6947c",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Kiểm tra điều kiện tồn tại ở từng phần và tránh suy người nhận còn lại tự hưởng phần không hiệu lực.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 643",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 650",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-047",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "575bf0f73d5a975c4b9bbe3a7e07d57a6650325ee6e96e67bda30a6422b83d8f",
+      "afterSHA256": "bf45b114680787b4b8254bfe0df3ed597d53f10c3b767e0f221e8e50fe215efe",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Kết hợp tương ứng theo tỷ lệ và trần trách nhiệm; không dùng tỷ lệ để mở sang tài sản riêng.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 3 Điều 615",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-048",
+      "answerKeyBefore": [
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "20715732fba5fcc7b670370a2138fb4cf31d08c7dd7d25e5191afcd7f4248d4f",
+      "afterSHA256": "a380597ba03b12da89b61b64a0eaedd3c62203bc3cc3f808b8ffbc7a60154ea4",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "D"
+      ],
+      "cognitiveTask": "Nhận diện lợi ích qua người thân và người ký chứng nhận; không lấy phần hưởng nhỏ hoặc chưa nhận thực tế để loại điều cấm.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 637",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-049",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "f1417905983c8f9400156933b5ab9c4801c94678b9334e341f092fa568a6d451",
+      "afterSHA256": "caf70d28242c9d21621fa3c5669d603256b13f7cc89c0352f9b01a1d7f4ec26d",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách đồng ý về việc lập, hình thức bắt buộc và ý chí định đoạt; không suy cơ chế đại diện từ quyền của cha mẹ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 2 Điều 630",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-050",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "8bbe2afe47815332c56c4b744ea054a2572814a64b679e115d01a230ddbd478b",
+      "afterSHA256": "1d8d2bf12e5045a56b632d460e676596b882d4eabd0fe6590caceb79e1e922dc",
+      "stemRewritten": true,
+      "changedOptions": [
+        "D"
+      ],
+      "cognitiveTask": "Kết hợp hoàn cảnh đặc biệt, thời hạn làm việc và cơ chế hủy khi sống minh mẫn; không lấy chết sớm thay điều kiện hình thức.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 629; khoản 5 Điều 630",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-051",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "d49c2311edc625eccb6077e42abe8e10ffeca32458f2598ccb7ed25f60b4c089",
+      "afterSHA256": "dd3471d9c2e2068f17218ab8309ceb3f6d8d1bc696bee7fb4395833aa1f291e0",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Chọn cơ sở định giá và phương thức phân bổ hao hụt; không giữ một phần ở giá cũ rồi dồn giảm cho người khác.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 Điều 659",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-052",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "02d2cd3be8bf0bdeb46fc488f74cad14c2025db533ab119dc36a240ef6efb9d5",
+      "afterSHA256": "65c0f7281914f1f48c739ea57ee05282118964316b81009b08a6df12b6252d59",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt dành phần bắt buộc trước phân chia với cam kết tặng lại; tính suất có điều kiện, không chiết giảm vì chưa sinh.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 613; Điều 651; khoản 1 Điều 660",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-053",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "7ebb722f689282ca66fcb71d6ab2d14e06cd00c4bddb97b5aa834782067c5d8d",
+      "afterSHA256": "1c570e90a32c925b3596fed48df522412262050ed39944316bb5739afd1c108b",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách phạm vi di chúc còn hiệu lực, xác định phần chuyển sang pháp luật rồi áp thế vị; không chọn hai yêu cầu cực đoan.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 643; khoản 2 Điều 650; Điều 651; Điều 652",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-054",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "b3805b6a23c57f5c699b53b9a62e20b84f09c16645845280a04e37880ff9ff40",
+      "afterSHA256": "b6cd04faf252ecda9c6cdbd27ca8e3aeab98121628b7bf9b94c0f33f9f97f137",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Xác định phạm vi ngoại lệ và điều kiện di chúc, không biến sự tha thứ thành khôi phục quyền hưởng không giới hạn.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 621; Điều 630",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-055",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "daec2aebc16e2642ce87bb45074316832049369a962bde3bc42160b839979b36",
+      "afterSHA256": "7ad37969ba4c0421ed02eafc06245aab86c9ed3e3491e773a0d3c8916e6506d9",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Sắp xếp khoản theo thứ tự trước khi tính thiếu hụt; phân biệt ưu tiên theo luật với tỷ lệ và thứ tự gửi yêu cầu.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 658",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-056",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "5e1052456d54f3b9a0e3665200e7ea25439c0f9d4273f27812d9fe0b63a8678d",
+      "afterSHA256": "f087856e82cdf6c89e90cb9621323fd30d10c5379ebd535d23ba1e859ac9144c",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Đánh giá độc lập giao dịch giả và giao dịch bị che; không dùng mức thực hiện chữa căn cứ vô hiệu do giả tạo.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 117; Điều 124",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-057",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "ac33d291d0ee7d56277ab3fb3961ee039d36069a4a71e7d24a75f763f9528a14",
+      "afterSHA256": "e9021b0dde9aa23fd93842d161ffee16f7c0b7a2b3d5e35c72deba2a2f52653b",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Giữ phạm vi kết luận của ngoại lệ nhận thức, tránh cả ràng buộc chủ thể ủy quyền và miễn mọi trách nhiệm của đại diện.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 2 Điều 143",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-058",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "93d19824821b6aced19cfd0a297e5435270bda4b9b52e2217a3e11f3075a37da",
+      "afterSHA256": "423f89d23d313829a44a206b659f91898af1132e372a8af6dcf35414aef63bb1",
+      "stemRewritten": true,
+      "changedOptions": [
+        "D"
+      ],
+      "cognitiveTask": "Nhận diện đúng chủ thể và sự kiện pháp lý; không dùng cái chết của người trong tổ chức thay sự chấm dứt pháp nhân.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 Điều 140",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-059",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "fd84bd886ff97604fede1f3068426aac67927fd24611b37f749ac14528a60c1a",
+      "afterSHA256": "f275d5f018a0b2848b183348ed3542f7ba4b743c419fb2fed451a868a1230f60",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá hai lập luận đối lập cùng sai; tách thời gian trôi qua và thời hạn tính, không áp điều kiện phức tạp không có.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 và khoản 2 Điều 45",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-060",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "cdcc4ca54acd13b0b695d94b2ce2dd9ef677ae8fe1c12f46c8609cde01ef8c56",
+      "afterSHA256": "6306764193833bca1acb7f43a721f468738396653d1d1446e7d06c71a19980ca",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Kiểm tra đồng thời chủ thể kế tiếp, việc thu hồi bản gốc và mốc thông báo; không dùng một bước thay hai bước khác.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2 và khoản 3 Điều 52",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-061",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "13a833a89b0f6f31fa1db7102eb515c93de7d840738eeb3337fb15c148069e66",
+      "afterSHA256": "03e76eba8598eb63bb5658d5c9cf84f14b7e30dcd0a75d89fc1d5380f5c0ed6d",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Xử lý hai cấu hình in, phân biệt tiêu chí trang với tờ; không áp cùng một yêu cầu cho cả hai.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 và khoản 2 Điều 51",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-062",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "5f7c33f580a7cf9cef5b5ea43d78c7c5e9462104267e91977ad1e0ef0f7248e5",
+      "afterSHA256": "45ebfb4a2b3219e390be88cfeebc88a0c26aa825effcdc94423dce064b926059",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá hai hồ sơ: hình thức lựa chọn và sự đồng ý khi phát sinh giám hộ là điều kiện độc lập.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 2 Điều 48",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-063",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "0d57bcada843207f0893d07420ccb72b8155558233a4ee6b503a91dba16508a3",
+      "afterSHA256": "abf35962490a8768d95a6dd4a8488dc4c5622318242adb0631e1b2450dcf51b3",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt không thỏa thuận được với không liên hệ được; không áp một cơ chế chuyển hồ sơ cho mọi trường hợp.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 Điều 61",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        },
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2 Điều 61",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-064",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "634809defdf997e643e516ace3acdb828d259644fba3986267a4ec22bf02a994",
+      "afterSHA256": "36eb6f954cd6a5eca45ae6a10214aef33af2b5bd67bbe0fd6b17d55aaa58ccc9",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách thời điểm lập văn bản và xác lập chế độ; không lẫn xác lập ban đầu với sửa thỏa thuận về sau.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 47",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-065",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "2438d2111d9140c00f061ef3ecde8b8bd37f20e3b2ee5d437097b1810bb358a0",
+      "afterSHA256": "6d6df6ddae9a0aa93df7717d767a54e8cf73967c571c0860f5d5f48f5f921078",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt quyền truy cập và kết quả khai thác; giữ đúng phạm vi ngoại lệ hồ sơ và phí.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 1 Điều 42",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-066",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "b8cdc061639a06ac95dc617b248e211c73bc3b5ca4cb29316477863b7147130c",
+      "afterSHA256": "1d4808e5bd0aba6b726f3ceaeb7a6491950bb0b39e8e681f7960bcdcc5a94780",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Hai căn cứ từ chối độc lập không bị một lời xác nhận thay thế; phải kiểm tra nội dung và ý chí riêng.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 3, khoản 4 và khoản 5 Điều 42",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-067",
+      "answerKeyBefore": [
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "cf302608b8bb93fd4962f218528cff97cc5c4240c552c59f897a18dae2eb6371",
+      "afterSHA256": "eb12e57d6c31e8d5e934b0de3dd0ca8a5ead6cf795397757495391257eb0d02a",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C"
+      ],
+      "cognitiveTask": "Phân biệt tư cách yêu cầu độc lập và thẩm quyền quyết định; không suy quyền từ cùng nghề hoặc cần ủy quyền người ký.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Điều 54",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-068",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "30ed0822b5a6e5630276f5757bab12ee40a99f1c878ec5f93568492d9654ac83",
+      "afterSHA256": "be38d95bdb13a0e63290b74cfa05aaa1ffab9ece9d89e41ffc0a6985e0ffe9c0",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Kết hợp địa hạt và quy tắc nơi lần đầu; không dùng lưu hồ sơ hoặc quy trình ủy quyền tạo ngoại lệ.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2 Điều 56",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-069",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "b172a83e20fea17e18110e813e4cf9a5d35f0c298fcd99eef5bce7f669fd776e",
+      "afterSHA256": "94c23f5dc559fb7b7fa76287e5c64ce0b51210f439eede933fe2535707b39bd3",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách chứng cứ hồi phục, sự đồng ý đại diện và quyết định làm thay đổi tình trạng pháp lý.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 22",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-070",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "C"
+      ],
+      "beforeSHA256": "ac79d20e893a34798d61162c5af4b73027f9da64ff9c08d200e8749992b6a705",
+      "afterSHA256": "fca7299ac96a6af361c513e5678177bf01919381a0ff6fe5335cbd88d81054f2",
+      "stemRewritten": true,
+      "changedOptions": [
+        "D"
+      ],
+      "cognitiveTask": "Ba giao dịch có cơ chế khác nhau: chấp thuận, điều cấm và ngoại lệ có hai điều kiện; không dùng đồng ý làm chìa khóa chung.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 Điều 59",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-071",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "600fa1ae42f9d4ba8a2a3f33f776f1e9322c495d32bb017bdd1bd3a02fed56ac",
+      "afterSHA256": "0b8ebdb133585b16503544f7ec468bb21e1f39fc46f5aa12f4881b6603a49a74",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Đọc phạm vi quyết định và phân biệt hai tình trạng nhận thức; không suy mọi quyền từ tên giấy giám hộ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 23; khoản 2 Điều 59",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-072",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "267cdca889e542d328da4e321c965494d9ac785a7a4614fa9b3dc94dca5232c5",
+      "afterSHA256": "1862c4ae46851bbb5bf08c16111820e4863ec5b1aba2c352d3306e0aa4002f36",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá hai phương án, không lấy đúng giới hạn tài sản nền để bỏ yêu cầu của nhánh không xác định hạn.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 Điều 270",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 270",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-073",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "c9e8cfb5feed812c4009e639cd1eb66ad3f81690bc16424d726a2b3d0dd81867",
+      "afterSHA256": "3deeff38600bd599afeba233377b5a61bbf639f40e77172dbf5fe4c00579804d",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách căn cứ chấm dứt độc lập và thời hạn còn lại; không suy bảo lưu quyền cho chủ cũ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 Điều 265",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-074",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "29fb8f91b7424a20f4006d77dafd9ba74f43d2eab4e4917de26a46b4660b4aa7",
+      "afterSHA256": "176eb556b30d67fcc49b6f8922b3fe278874e4ac4b334a86ffb6083fcb7144f6",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Phân biệt mặc định phạm vi và mức thu tài sản; không tự chia các khoản phụ thành nhóm được, không được bảo đảm.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 293",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-075",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "0ddc1d8bbf06e720a661cea517c06ed5178f41b6493321762fd18282add401bc",
+      "afterSHA256": "ff83223166c98a906af2721c23d52b9c719db004c0c84e66ec9a903241dabd40",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Tách quyền sửa của người lập, ngoại lệ về nơi và thông báo nơi lưu; không suy người hưởng cũ có quyền phủ quyết.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 4 Điều 58",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-076",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "8de57a17c64e67e2afdf8115443c7d3df53b098f6e17fa198a6a7fe5eb02325d",
+      "afterSHA256": "dca76bcc6d232427f55fb424fd3d7a99f45e151ec003c700750ebcf23e31316e",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Không đồng nhất giấy chứng nhận, việc giữ bản gốc và quyền định đoạt; phân biệt điều kiện ký với thông tin đăng ký.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 34; khoản 2 Điều 35",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-077",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "80b9cb6ec7ece2270d4600d169929bf0ca6ad94d5688d631758b34a9f027947e",
+      "afterSHA256": "b6ace1c84e3349e5b355318f852af0735c1bf8d0be6ec45b0231b7140d6955be",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Theo dõi căn cứ Tòa chia, yêu cầu công nhận và phần tài sản đã chia; không suy hồi tố hoặc nhập tự động.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Điều 41",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-078",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "e02a10f4793106eacbeb1232bd62cc18ed386120eacf030f17e57d2514bbcbfc",
+      "afterSHA256": "a5d226f372b1e7be74b7ba56bbcca2bb6e2028bd298e22a35924689a73d986a2",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt nhận thanh toán với chấp thuận đổi nghĩa vụ; không dùng phân công nội bộ hoặc tỷ lệ tài sản thay quyền chủ nợ.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Khoản 1 Điều 60",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-079",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "de3aa5e56a36d5901cda93124cafb96fc445e039bf7051e22e69beaf4085fda4",
+      "afterSHA256": "9c618eb3a3ddc6bc388fe5e801c0f68a6544040b69b839fcf7d9dde6d31793ee",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách căn cứ, định giá và quyền chọn phương thức; không lấy một bước thẩm định chữa thiếu thỏa thuận.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 303",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-080",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "287611ac41aecd18428c7c6a918569690d41b906eeb1f74c7392cf330ab9a98a",
+      "afterSHA256": "cd92974a504b899e4ab1afa44e4a6f2622d18bf823a62a9703ffed4a22c6f116",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Đối chiếu quyền sở hữu, điều kiện định đoạt và quyền đòi trả lại khi nghĩa vụ chấm dứt; không gộp các thời điểm.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 312",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-081",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "265ee1e8dbc8e753c879742a3626c121a220ac38e53e745a98e6fd8c21f70eaa",
+      "afterSHA256": "717e417d0700200de6cc00c7daf28dac986a71bfcc07ea62fbb390ea1df46ed0",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Kiểm tra đồng thời người đại diện, loại tài sản, lợi ích và tuổi xét nguyện vọng; không lấy một yếu tố đáp ứng thay tất cả.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Khoản 3 Điều 73; khoản 1 Điều 77",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-082",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "e26e08bc08d7dd394022b9d1686f1c379be11bcd35960eeee9f53402c82d7558",
+      "afterSHA256": "d3bf92cd640e9abefabd9c093249c4ceb702a56071efa09a81b1df211ae13ea8",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Tách ngoại lệ theo tài sản và theo mục đích; không dùng tính chất tiền để bỏ yêu cầu kinh doanh hoặc hình thức.",
+      "basis": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "Khoản 2 Điều 77",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-083",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "69432037567d609d243caac400260bd16f263d9884dc83daa649909b258c508b",
+      "afterSHA256": "908324d0c03a55e9edcafc72a85a6a74e59aa83951c656a16b09d0e8c3cacb27",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Phân loại vật và hai dòng trách nhiệm; không nhập giá trị vật, chênh lệch bản thay và thiệt hại khác.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 3 Điều 356",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-084",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "c09894b1ef9000e08202963f84ed390c5941e476f414d4fd854802c9aa779c8b",
+      "afterSHA256": "bcc1319a415e6d0d0f4ed0c9f4210b0d6f8ac161c9b97f896ca9f46790b807fb",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đọc bản chất và hiệu lực miễn thay vì số trên biên nhận; phân biệt hoàn thành, hoãn và vô hiệu.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 373",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-085",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "00a33188562f51dc57139a8ba33998596bf1e2e3b58ea2188e6fa9718e216ef5",
+      "afterSHA256": "59a7c0111fd05e5c6bcd95e99a382dc72164751a35d1def8d713277adf2831b7",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt chưa thống nhất cử, chưa xác định người thừa kế và quyền sở hữu; chọn đúng nhánh quản lý đang có.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 616",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-086",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "5dc38cc041415b4bc613cb74a18d47390035f9315edc0f99a4547fed0814bdaa",
+      "afterSHA256": "fe9145fde7c39f5346e6745f62b7988a249776b2cc923f46c716de906a0f5af7",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Tách cử quản lý, chấp thuận bán và trách nhiệm vi phạm; không dùng khả năng bồi thường như quyền tự định đoạt.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 Điều 617",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-087",
+      "answerKeyBefore": [
+        "B"
+      ],
+      "answerKeyAfter": [
+        "B"
+      ],
+      "beforeSHA256": "169ebfd943834498b4b41141bf492095d627752e7fb652ec1f241a94a6015ffb",
+      "afterSHA256": "b2201efeb5cd8a8b7982284d94ad1e85871b271c00e03d7863dd789752c7eb79",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt hoàn chi phí với trả công và mức hợp lý với tự định mức; không đưa điều kiện tư cách thừa kế không có.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 Điều 618",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-088",
+      "answerKeyBefore": [
+        "A",
+        "B"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B"
+      ],
+      "beforeSHA256": "b76ce40c07f5f1c20d36df816a8ef20b4db7a64e0bb302e62592ba2690a38f57",
+      "afterSHA256": "96412f614ceaab3a4e169ac850ee36cd677434ba822efdcd4579d6ce4b9348ee",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tách hình thức chung của thỏa thuận, hình thức giao dịch chuyên biệt và quyền người không tham dự; không dùng ghi âm hoặc biên bản thay tất cả.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 656",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-089",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "299bc87ec9ece82923bc2d31e0edfed0b1d9e7a43c561b6a495608980800bfbf",
+      "afterSHA256": "74e411df738260abb499d014b7b4b4d57021ad689bce248c4c334e1a47571be5",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đánh giá đúng hình thức đang viện dẫn và giới hạn kết luận; không dùng ý chí đúng chữa yêu cầu tự viết hoặc phủ nhận mọi hình thức không công chứng.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 633; khoản 4 Điều 630",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-090",
+      "answerKeyBefore": [
+        "A",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "2af58ff804df50de8970a8250696ccf7254c5638b0e56d4b98b76a1df6a5ecf1",
+      "afterSHA256": "74526b3f8f5ad96652cff924119ec3cf4767ddecee855f8fdc7f7f106968684a",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B"
+      ],
+      "cognitiveTask": "Kiểm tra đủ tài sản trả nghĩa vụ trước khi áp quản lý thờ cúng; không nhầm đổi người quản lý với chia phần đó.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 645",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-091",
+      "answerKeyBefore": [
+        "A"
+      ],
+      "answerKeyAfter": [
+        "A"
+      ],
+      "beforeSHA256": "e8700da40cd754460435cc49f0b212e5fd66f643f372e47250307ea645aa5dc1",
+      "afterSHA256": "78a003331560280cf5332bf117d40c11a2c40c15fecebee03b58502f82361f07",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Tính thiếu hụt rồi áp ngoại lệ di tặng và trần trách nhiệm; tránh cả miễn tuyệt đối lẫn bù thiếu bằng tài sản riêng.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 3 Điều 646; Điều 615",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-092",
+      "answerKeyBefore": [
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "d021e48bcda8ec5ebdc3f1a9c6abca07e39fb3fdc425536af807dfe03eafcb54",
+      "afterSHA256": "ca495217f05d353ab2fe35e4a072142aef8dc56960680d01a045a5dec50ffcf8",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "C"
+      ],
+      "cognitiveTask": "Tách hai khối di sản và đường hưởng thế vị, không giả định thứ tự chết hoặc nhập di sản qua người đã chết.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 619; Điều 652",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-093",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "26921df3ee1f45adb4e6a696046cd0432728863b82d1d66497631d91d482bceb",
+      "afterSHA256": "0544976d61c447c973e348f3b309238c9f120192813bdb81de62469a0601f68d",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Đọc đúng thời điểm giá trị, tỷ lệ đã nhận và dạng tài sản; không dùng giá tăng hoặc hiện vật để chuyển toàn nghĩa vụ.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 651; khoản 1 Điều 662",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-094",
+      "answerKeyBefore": [
+        "A",
+        "C"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "C"
+      ],
+      "beforeSHA256": "e0c8ee750ff84515f94214c4a272f9d5a7d498a4131a5662974528cbbeb84c32",
+      "afterSHA256": "e2a6c6b5d00bf02a418358958580eb86146c1c4d678de4a1c3835c5270529570",
+      "stemRewritten": true,
+      "changedOptions": [
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Phân biệt hai quan hệ pháp lý và chứng cứ thực tế; không lấy giấy con nuôi hoặc địa chỉ/hôn nhân làm điều kiện thay.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 654",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-095",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "597968a92aec661c5019db6f2958bc275392a7b1496f0ce50eb0c591899d9032",
+      "afterSHA256": "52d7f9dd542d321d5a3fd057fd2097726c4a13a1757313bf9994c4ed63676ea3",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Tách mốc mở thừa kế, ngày yêu cầu, ngày quyết định và giai đoạn gia hạn có điều kiện.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 611; Điều 661",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-096",
+      "answerKeyBefore": [
+        "A",
+        "B",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "A",
+        "B",
+        "D"
+      ],
+      "beforeSHA256": "2da3dccc454fe479b7042f2bb79568a03b81aeaaa682940d39c2039f934f542b",
+      "afterSHA256": "8de75990d9c752e39a37ff33eccaa7790aa5a7511388d6c110fa40fb09527f16",
+      "stemRewritten": true,
+      "changedOptions": [
+        "C"
+      ],
+      "cognitiveTask": "Không đồng nhất hồ sơ đủ, ít người hưởng và chưa có khiếu nại với đã hoàn thành niêm yết.",
+      "basis": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "Khoản 2, khoản 3, khoản 4 và khoản 5 Điều 59",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-097",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "c53c4f932bd87898c580c2f3044863176b6362554f3b619e94684e179f1e301e",
+      "afterSHA256": "7edfc5c06915d13fddbbaa155a54c6723d9fe5ea2b4bc43e2d53b5f616f06afb",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "D"
+      ],
+      "cognitiveTask": "Áp quy tắc riêng trước quyền sửa chung; đánh giá sửa và hủy, không lấy chưa nhận thực tế để xóa quyền của C.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 417",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-098",
+      "answerKeyBefore": [
+        "B",
+        "C",
+        "D"
+      ],
+      "answerKeyAfter": [
+        "B",
+        "C",
+        "D"
+      ],
+      "beforeSHA256": "bba71e8f2ee3ecfa0dee7d924a656bd4f408c986cf53a9e4a64b011e21cd166f",
+      "afterSHA256": "cf13f2b6a4e3e92fa0d322593fb93eb0f8b42dccb42057dc5191bf985e0f5a7f",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A"
+      ],
+      "cognitiveTask": "Tách nghĩa vụ báo cáo, giao tài sản và giữ bí mật; không coi một nghĩa vụ đã làm đủ thay hai nghĩa vụ khác.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Điều 565; Điều 568",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-099",
+      "answerKeyBefore": [
+        "D"
+      ],
+      "answerKeyAfter": [
+        "D"
+      ],
+      "beforeSHA256": "3b1cad83df40463e2fa9739de76c9889f68d539e273494f159978a3508675b61",
+      "afterSHA256": "ec5bac7556717fcc46bd0c90bda5a1fc9e40867b0e5f4c476bfc5c8b5fcb7bd4",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C"
+      ],
+      "cognitiveTask": "Phân biệt căn cứ hoàn phí và tiền công; không dùng giá trị A hưởng hoặc người trực tiếp chi thay thỏa thuận thù lao.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 2 Điều 566; khoản 3 Điều 567",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-100",
+      "answerKeyBefore": [
+        "C"
+      ],
+      "answerKeyAfter": [
+        "C"
+      ],
+      "beforeSHA256": "b6a6f28e2b66e29cfe4657f9353befc6a766443be166d220170a0df0afafde7a",
+      "afterSHA256": "1c1a9c97f4e8e1a9f05f0c040a5bb25a6cdfea69f6c2388d43b75f15a5729dd7",
+      "stemRewritten": true,
+      "changedOptions": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "cognitiveTask": "Xác định đúng nhánh thay, thời hạn và nội dung bàn giao; phân biệt quản lý với sở hữu, không bỏ chứng kiến vì đồng thuận.",
+      "basis": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "Khoản 1 và khoản 2 Điều 61",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160"
+        }
+      ]
+    }
+  ]
+}
