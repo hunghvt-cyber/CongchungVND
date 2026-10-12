@@ -1,0 +1,812 @@
+{
+  "date": "2026-10-12",
+  "newQuestions": 100,
+  "existingEligibleBefore": 694,
+  "eligibleAfterExpected": 794,
+  "single": 60,
+  "multiple": 40,
+  "part": {
+    "2": 40,
+    "1": 60
+  },
+  "distinctProvisions": 90,
+  "crossStatuteQuestions": 49,
+  "minimumAppliedProvisions": 3,
+  "minimumReasoningSteps": 3,
+  "singleKeyDistribution": {
+    "B": 15,
+    "D": 15,
+    "C": 15,
+    "A": 15
+  },
+  "multipleKeySizes": {
+    "3": 13,
+    "2": 27
+  },
+  "correctStrictlyLongestSingle": 16,
+  "correctStrictlyShortestSingle": 4,
+  "multipleSubsetsToVerify": 640,
+  "difficulty": "Estimated integrated difficulty; no empirical trial calibration.",
+  "independentArithmetic": [
+    {
+      "id": "HARD26-001",
+      "formula": "(6−1.2)/2 + ((6−1.2)/2 + .6−.3)/3*2/3",
+      "expectedBillions": 3.0
+    },
+    {
+      "id": "HARD26-002",
+      "formula": "Invalid bequest .9 split into two branches; deceased-child branch split into two grandchildren.",
+      "expectedMillions": {
+        "X": 900,
+        "C": 450,
+        "B1": 225,
+        "B2": 225
+      }
+    },
+    {
+      "id": "HARD26-005",
+      "formula": "(1200−60−90−30−420)/3",
+      "expectedMillions": 200
+    },
+    {
+      "id": "HARD26-009",
+      "formula": "1200−(1200+400)/2",
+      "expectedMillions": 400
+    },
+    {
+      "id": "HARD26-010",
+      "formula": "600−1200/3",
+      "expectedMillionsPerEarlierHeir": 200
+    },
+    {
+      "id": "HARD26-013",
+      "formula": "(1500−300)/3*2/3−100",
+      "expectedMillions": "166 2/3"
+    },
+    {
+      "id": "HARD26-043",
+      "formula": "min(300,250); interest and penalty contractually excluded.",
+      "expectedMillions": 250
+    },
+    {
+      "id": "HARD26-045",
+      "formula": "100+100; exclude unauthorized advance payment.",
+      "expectedMillions": 200
+    },
+    {
+      "id": "HARD26-047",
+      "formula": "400+20+10",
+      "expectedMillions": 430
+    },
+    {
+      "id": "HARD26-081",
+      "formula": "Mandatory spouse total 2000/2*2/3; receives 500 from undevised portion; deficiency 166 2/3.",
+      "expectedMandatoryTotalMillions": "666 2/3"
+    },
+    {
+      "id": "HARD26-092",
+      "formula": "Rent 200/2/2; inherited principal excluded.",
+      "expectedInheritedRentMillions": 50
+    },
+    {
+      "id": "HARD26-100",
+      "formula": "(1800+600−600)/2",
+      "expectedEqualizationMillions": 900
+    }
+  ],
+  "tests": {
+    "command": "node --test tests/*.test.cjs",
+    "passed": 73,
+    "failed": 0,
+    "multipleSubsetsVerified": 640,
+    "flows": "All 100 questions graded in practice and mock; shared-code identity; loader 15 files."
+  },
+  "bankAudit": {
+    "totalInventory": 1313,
+    "eligible": 794,
+    "duplicateIds": [],
+    "exactStemGroups": [],
+    "newFindings": [
+      {
+        "id": "HARD26-001",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-002",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-003",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-004",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-005",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-006",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-007",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-008",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-009",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-010",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-011",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-012",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-013",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-014",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-015",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-016",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-017",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-018",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-019",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-020",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-021",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-022",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-023",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-024",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-025",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-026",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-027",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-028",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-029",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-030",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-031",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-032",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-033",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-034",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-035",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-036",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-037",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-038",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-039",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-040",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-041",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-042",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-043",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-044",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-045",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-046",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-047",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-048",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-049",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-050",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-051",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-052",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-053",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-054",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-055",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-056",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-057",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-058",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-059",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-060",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-061",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-062",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-063",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-064",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-065",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-066",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-067",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-068",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-069",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-070",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-071",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-072",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-073",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-074",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-075",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-076",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-077",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-078",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-079",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-080",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-081",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-082",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-083",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-084",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-085",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-086",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-087",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-088",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-089",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-090",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-091",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-092",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-093",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-094",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-095",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-096",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-097",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-098",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-099",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      },
+      {
+        "id": "HARD26-100",
+        "status": "active",
+        "flags": [
+          "needs_substantive_variants"
+        ]
+      }
+    ]
+  }
+}

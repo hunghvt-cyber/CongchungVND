@@ -317,3 +317,29 @@ test('October legal audit seals all 594 questions and applies old-certificate, a
  const archive=get('COMP26-QT-010');assert.match(archive.answers.find(a=>a.correct).text,/20 năm/);assert.doesNotMatch(archive.answers.find(a=>a.correct).text,/30 năm/);assert.ok(archive.legalBasis.some(b=>b.article==='Điều 76'&&b.clause==='Khoản 12'));
  assert.ok(get('CC-028').question.variants.every(v=>v.includes('không thuộc diện chuyển tiếp')));
 });
+
+test('100 new integrated cases link every applied provision and avoid answer-length and key-position shortcuts',()=>{
+ const q=read('data/hard-integrated-100-2026.json');const legal=read('reports/hard-integrated-100-legal-review-2026-10-12.json');
+ assert.equal(q.length,100);assert.equal(new Set(q.map(x=>x.id)).size,100);assert.equal(legal.questions.length,100);
+ const older=['calibration-20-2026','calibration-40-2026','calibration-next-40-2026'].flatMap(n=>read(`data/${n}.json`));
+ assert.ok(q.every(x=>!older.some(y=>y.id===x.id||y.question.variants[0]===x.question.variants[0])));
+ const source=read('data/question-sources.json').sources.find(x=>x.id==='HARD100-20261012');assert.ok(source);
+ for(const x of q){
+  assert.equal(x.status,'active');assert.equal(x.empiricallyCalibrated,false);assert.equal(x.question.variants.length,1);
+  assert.ok(x.rulesApplied.length>=3);assert.ok(x.integrationSteps.length>=3);assert.equal(new Set(x.rulesApplied).size,x.rulesApplied.length);
+  assert.equal(x.answers.length,4);assert.equal(new Set(x.answers.map(a=>a.text)).size,4);assert.ok(x.answers.every(a=>a.explanation.length>=12));
+  assert.deepEqual(x.answers.filter(a=>a.correct).map(a=>a.id),x.answerKey);
+  assert.equal(x.type==='single'?x.answerKey.length===1:x.answerKey.length>=2&&x.answerKey.length<=3,true);
+  const row=legal.questions.find(y=>y.id===x.id);assert.deepEqual(row.evidenceKeys,x.rulesApplied);assert.deepEqual(row.answerKey,x.answerKey);
+  for(const k of x.rulesApplied){const e=legal.evidence[k];assert.ok(e&&e.excerpt.length>80,k);assert.ok(x.legalBasis.some(r=>r.document===e.document&&r.article===e.article&&r.url===e.url));}
+ }
+ const singles=q.filter(x=>x.type==='single');assert.equal(singles.length,60);
+ for(const k of ['A','B','C','D'])assert.equal(singles.filter(x=>x.answerKey[0]===k).length,15);
+ const longest=singles.filter(x=>{const right=x.answers.find(a=>a.correct).text.length;return right>Math.max(...x.answers.filter(a=>!a.correct).map(a=>a.text.length));});assert.ok(longest.length<=20);
+ const text=n=>q.find(x=>x.id===`HARD26-${String(n).padStart(3,'0')}`).answers.filter(a=>a.correct).map(a=>a.text).join(' ');
+ // Independent arithmetic/branch expectations, not just the boolean answer flags.
+ assert.match(text(1),/3 tỷ.*2,4 tỷ.*600 triệu/);assert.match(text(2),/900.*450.*225/);assert.match(text(3),/1,2 tỷ từ B/);
+ assert.match(text(5),/200 triệu/);assert.match(text(9),/400 triệu/);assert.match(text(10),/200 triệu.*giá lúc chia/);
+ assert.match(text(13),/166⅔ triệu/);assert.match(text(43),/250 triệu/);assert.match(text(45),/200 triệu/);assert.match(text(47),/430 triệu/);
+ assert.match(text(81),/500 triệu/);assert.match(text(92),/100 triệu.*50 triệu/);assert.match(text(95),/200 triệu/);assert.match(text(100),/900 triệu/);
+});

@@ -1,0 +1,3421 @@
+{
+  "date": "2026-10-12",
+  "scope": "100 câu mới HARD26-001–100; đối chiếu các điều khoản được sử dụng, không chứng nhận lại toàn ngân hàng.",
+  "difficultyLimit": "Độ khó dự kiến theo số bước pháp lý; chưa hiệu chỉnh bằng dữ liệu người làm.",
+  "retrievalLimits": "Tái sử dụng trích điều khoản đã lưu từ nguồn chính thức trong đợt đối chiếu trước; kiểm tra lại nguồn hợp nhất Công chứng, Hôn nhân gia đình và nguồn BLDS chính thức; bổ sung Điều 632,634,625 và Điều 44 HNGĐ. Không coi trích xuất OCR là bản gốc.",
+  "evidence": {
+    "CC:40": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "40",
+      "excerpt": "Điều 40. Bồi thường thiệt hại trong hoạt động công chứng\n     1. Tổ chức hành nghề công chứng phải bồi thường thiệt hại cho người yêu\ncầu công chứng và cá nhân, tổ chức khác do lỗi của công chứng viên, nhân viên\ncủa tổ chức mình gây ra trong quá trình công chứng.\n     Trường hợp tổ chức hành nghề công chứng đã chuyển đổi, hợp nhất, sáp\nnhập thì tổ chức hành nghề công chứng kế thừa quyền và nghĩa vụ của tổ chức\nhành nghề công chứng đó có trách nhiệm bồi thường thiệt hại; trường hợp tổ chức\nhành nghề công chứng đã giải thể, chấm dứt hoạt động thì công chứng viên, nhân\nviên trực tiếp gây thiệt hại phải tự mình bồi thường thiệt hại, kể cả trường hợp\nngười đó không còn là công chứng viên hoặc nhân viên của 01 tổ chức hành nghề\ncông chứng.\n      2. Công chứng viên, nhân viên trực tiếp gây thiệt hại phải hoàn trả cho tổ\nchức hành nghề công chứng khoản tiền mà tổ chức đã bồi thường cho người bị\nthiệt hại theo quy định của pháp luật, kể cả trường hợp người đó không còn là\ncông chứng viên hoặc nhân viên của 01 tổ chức hành nghề công chứng; trường\nhợp công chứng viên, nhân viên trực tiếp gây thiệt hại không hoàn trả thì tổ chức\nhành nghề công chứng có quyền yêu cầu Tòa án giải quyết.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:42": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "42",
+      "excerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n     1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực\ntuyến, trực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng.\nHồ sơ yêu cầu công chứng bao gồm các giấy tờ sau đây:\n     a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn\ncước hoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu\ncông chứng theo quy định của pháp luật;\n      c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản\nán, quyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm\nquyền về việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với\ntài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong\ntrường hợp giao dịch liên quan đến tài sản đó;\n     d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n     Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy\nđịnh của pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n     2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng,\nnếu hồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường\nhợp từ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có\nnêu rõ lý do cho người yêu cầu công chứng.\n\f                                       28\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng\nhiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý\ncủa việc tham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối\ntượng của giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người\nyêu cầu công chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu\ngiám định theo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu\ncông chứng không làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc\nđã xác minh, giám định nhưng vẫn không làm rõ được thì công chứng viên từ chối\ncông chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch\ncó điều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch\nkhông phù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho\nngười yêu cầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng\nkhông sửa chữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao\ndịch thì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng\ndấu của tổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì\nthực hiện theo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người\nyêu cầu công chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b,\nc và d khoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang\ncủa giao dịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người\nyêu cầu công chứng không có bản chính tại thời điểm công chứng viên ký vào lời\nchứng thì có thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng\nvà lưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định\nkhác của pháp luật có liên quan.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:44": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "44",
+      "excerpt": "Điều 44. Thẩm quyền công chứng giao dịch về bất động sản\n     Công chứng viên của tổ chức hành nghề công chứng chỉ được công chứng\ngiao dịch về bất động sản trong phạm vi tỉnh, thành phố trực thuộc trung ương nơi\ntổ chức hành nghề công chứng đặt trụ sở, trừ trường hợp công chứng di chúc, văn\nbản từ chối nhận di sản, văn bản ủy quyền liên quan đến việc thực hiện các quyền\nđối với bất động sản, thỏa thuận xác lập chế độ tài sản của vợ chồng về bất động\nsản và công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ các giao dịch này theo\nquy định của pháp luật.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:45": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "45",
+      "excerpt": "Điều 45. Thời hạn công chứng\n     1. Thời hạn công chứng được tính từ ngày công chứng viên tiếp nhận hồ sơ\nyêu cầu công chứng hợp lệ được ghi nhận trong sổ yêu cầu công chứng đến ngày\ntrả kết quả công chứng. Thời gian xác minh, giám định nội dung liên quan đến\ngiao dịch, niêm yết việc tiếp nhận công chứng văn bản phân chia di sản không\ntính vào thời hạn công chứng.\n     2. Thời hạn công chứng không quá 02 ngày làm việc; đối với giao dịch có nội\ndung phức tạp thì thời hạn công chứng có thể kéo dài hơn nhưng không quá 10\nngày làm việc. Trong trường hợp có sự kiện bất khả kháng hoặc trở ngại khách\nquan hoặc do nguyên nhân từ phía người yêu cầu công chứng dẫn đến không bảo\nđảm thời hạn theo quy định tại khoản này thì người yêu cầu công chứng có quyền\nthỏa thuận bằng văn bản với tổ chức hành nghề công chứng về thời hạn công chứng.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:46": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "46",
+      "excerpt": "Điều 46. Địa điểm công chứng\n    1. Việc công chứng phải được thực hiện tại trụ sở của tổ chức hành nghề\ncông chứng, trừ các trường hợp quy định tại khoản 2 Điều này.\n    2. Việc công chứng có thể được thực hiện ngoài trụ sở của tổ chức hành nghề\ncông chứng nếu người yêu cầu công chứng thuộc các trường hợp sau đây:\n     a) Lập di chúc tại chỗ ở theo quy định của Bộ luật Dân sự;\n     b) Không thể đi lại được vì lý do sức khỏe; đang điều trị nội trú hoặc bị cách\nly theo chỉ định của cơ sở y tế;\n    c) Đang bị tạm giữ, tạm giam; đang thi hành án phạt tù; đang bị áp dụng biện\npháp xử lý hành chính;\n     d) Có lý do chính đáng khác theo quy định của Chính phủ.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:49": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "49",
+      "excerpt": "Điều 49. Người yêu cầu công chứng, người làm chứng, người phiên dịch\n    1. Người yêu cầu công chứng là cá nhân phải có năng lực hành vi dân sự phù\nhợp với giao dịch mà mình thực hiện.\n    Người yêu cầu công chứng là tổ chức thì việc yêu cầu công chứng được thực\n\f                                       31\n\nhiện thông qua người đại diện theo pháp luật hoặc người đại diện theo ủy quyền\ncủa tổ chức đó.\n     Người yêu cầu công chứng phải xuất trình đủ giấy tờ cần thiết liên quan đến\nviệc công chứng và chịu trách nhiệm về tính chính xác, tính hợp pháp của các\ngiấy tờ đó.\n     2. Trường hợp người yêu cầu công chứng không đọc được hoặc không nghe\nđược hoặc không ký được và không điểm chỉ được hoặc trong trường hợp khác\ndo pháp luật quy định thì việc công chứng phải có người làm chứng.\n     Người làm chứng do người yêu cầu công chứng mời hoặc do công chứng\nviên chỉ định nếu người yêu cầu công chứng không mời được; trường hợp công\nchứng viên không chỉ định được người làm chứng thì từ chối công chứng.\n     Người làm chứng phải là người có năng lực hành vi dân sự đầy đủ, không\nthuộc trường hợp phải có người làm chứng theo quy định tại khoản này và không\ncó quyền, lợi ích hoặc nghĩa vụ liên quan đến việc công chứng.\n    Người làm chứng phải trực tiếp chứng kiến việc công chứng và chịu trách\nnhiệm trước pháp luật về việc làm chứng của mình.\n     3. Trường hợp người yêu cầu công chứng không thông thạo tiếng Việt hoặc\nlà người khuyết tật nhìn, người khuyết tật nghe, nói thì phải có người phiên dịch.\n     Người phiên dịch do người yêu cầu công chứng mời và phải chịu trách nhiệm\ntrước pháp luật về việc phiên dịch của mình.\n      Người phiên dịch phải là người có năng lực hành vi dân sự đầy đủ, thông\nthạo tiếng Việt và ngôn ngữ mà người yêu cầu công chứng sử dụng hoặc là người\nbiết chữ của người khuyết tật nhìn hoặc biết nghe, nói bằng ngôn ngữ, ký hiệu của\nngười khuyết tật nghe, nói và không có quyền, lợi ích hoặc nghĩa vụ liên quan đến\nviệc công chứng.\n     Người phiên dịch phải dịch đủ, chính xác nội dung giao dịch, nội dung trao\nđổi của công chứng viên với người yêu cầu công chứng về quyền, lợi ích hợp pháp\nvà nghĩa vụ của các bên khi tham gia giao dịch.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:50": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "50",
+      "excerpt": "Điều 50. Ký, điểm chỉ trong văn bản công chứng\n      1. Người yêu cầu công chứng, người làm chứng, người phiên dịch phải ký\nvào từng trang của giao dịch trước sự chứng kiến trực tiếp của công chứng viên,\ntrừ trường hợp quy định tại khoản 2 Điều này và trường hợp người yêu cầu công\nchứng không ký được và không điểm chỉ được. Việc ký văn bản công chứng điện\ntử thực hiện theo quy định của Chính phủ.\n    Việc ký văn bản công chứng trước sự chứng kiến của công chứng viên phải\nđược chụp ảnh và lưu trữ trong hồ sơ công chứng.\n     2. Trong trường hợp người có thẩm quyền giao kết giao dịch của tổ chức tín\n\f                                         32\n\ndụng, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đã đăng ký chữ ký mẫu tại\ntổ chức hành nghề công chứng thì người đó có thể ký trước vào văn bản giao dịch;\ncông chứng viên phải đối chiếu chữ ký của họ trong văn bản giao dịch với chữ ký\nmẫu trước khi thực hiện việc công chứng.\n     Việc đăng ký chữ ký mẫu được thực hiện trực tiếp tại tổ chức hành nghề công\nchứng hoặc bằng văn bản chính thức có chữ ký trực tiếp của người đăng ký và đóng\ndấu của tổ chức tín dụng, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã đó.\n     3. Việc điểm chỉ được thay thế việc ký trong trường hợp người yêu cầu công\nchứng, người làm chứng, người phiên dịch không ký được. Khi điểm chỉ, người\nyêu cầu công chứng, người làm chứng, người phiên dịch sử dụng vân tay của ngón\ntrỏ phải; nếu không sử dụng được vân tay của ngón trỏ phải thì sử dụng vân tay\ncủa ngón trỏ trái; trường hợp không thể sử dụng vân tay của 02 ngón trỏ đó thì sử\ndụng vân tay của ngón khác và công chứng viên phải ghi rõ trong lời chứng việc\nngười yêu cầu công chứng, người làm chứng, người phiên dịch sử dụng vân tay\ncủa ngón nào, của bàn tay nào để điểm chỉ.\n     4. Việc điểm chỉ có thể được thực hiện đồng thời với việc ký trong những\ntrường hợp sau đây:\n     a) Công chứng di chúc;\n     b) Theo đề nghị của người yêu cầu công chứng;\n    c) Công chứng viên thấy cần thiết để bảo vệ quyền lợi cho người yêu cầu\ncông chứng.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:51": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "51",
+      "excerpt": "Điều 51. Việc đánh số trang, đóng dấu giáp lai trong văn bản công chứng\n     1. Văn bản công chứng có từ 02 trang trở lên thì từng trang phải được đánh\nsố thứ tự, bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang\ncuối cùng của lời chứng.\n     2. Văn bản công chứng có từ 02 tờ trở lên phải được đóng dấu giáp lai giữa\ncác tờ.\n     3. Việc đánh số trang, xác nhận tính toàn vẹn của văn bản công chứng điện\ntử thực hiện theo quy định của Chính phủ.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:52": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "52",
+      "excerpt": "Điều 52. Sửa lỗi kỹ thuật trong văn bản công chứng\n    1. Lỗi kỹ thuật là lỗi do sai sót trong khi ghi chép, đánh máy, in ấn văn bản\ncông chứng mà việc sửa lỗi đó không làm ảnh hưởng đến quyền và nghĩa vụ của\nngười tham gia giao dịch.\n     2. Việc sửa lỗi kỹ thuật trong văn bản công chứng được thực hiện tại tổ chức\nhành nghề công chứng nơi đã thực hiện việc công chứng đó; trường hợp tổ chức\nhành nghề công chứng đã thực hiện việc công chứng chấm dứt hoạt động, chuyển\nđổi hoặc giải thể thì công chứng viên của tổ chức hành nghề công chứng đang lưu\ntrữ hồ sơ công chứng thực hiện việc sửa lỗi kỹ thuật. Trường hợp tổ chức hành\n\f                                       33\n\nnghề công chứng tạm ngừng hoạt động thì việc sửa lỗi kỹ thuật trong văn bản\ncông chứng thực hiện theo quy định tại khoản 4 Điều 32 của Luật này.\n     3. Công chứng viên thực hiện việc sửa lỗi kỹ thuật có trách nhiệm đối chiếu\ntừng lỗi cần sửa với các giấy tờ trong hồ sơ công chứng, gạch chân chỗ cần sửa,\nsau đó ghi chữ, dấu hoặc con số đã được sửa vào bên lề của trang được sửa lỗi kỹ\nthuật, ghi thời điểm sửa lỗi kỹ thuật kèm theo họ, tên, chữ ký của mình và đóng\ndấu của tổ chức hành nghề công chứng; trường hợp khoảng trống bên lề không đủ\nchỗ để ghi nội dung sửa lỗi kỹ thuật thì có thể ghi vào trang đính kèm có đủ các\nnội dung nêu trên.\n     Công chứng viên có trách nhiệm sửa lỗi kỹ thuật đối với tất cả các bản gốc\ncủa văn bản công chứng, trừ trường hợp không thể thu hồi được tất cả các bản\ngốc. Việc sửa lỗi kỹ thuật phải được thông báo bằng văn bản cho những người\ntham gia giao dịch trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành việc\nsửa lỗi kỹ thuật.\n     4. Việc sửa lỗi kỹ thuật trong văn bản công chứng điện tử thực hiện theo quy\nđịnh của Chính phủ.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:53": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "53",
+      "excerpt": "Điều 53. Công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch\n     1. Việc công chứng văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng\nđã được công chứng chỉ được thực hiện khi có sự thỏa thuận hoặc cam kết bằng\nvăn bản của tất cả những người đã ký kết hợp đồng đó, trừ trường hợp pháp luật\ncó quy định khác.\n      Việc công chứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ văn bản là hành\nvi pháp lý đơn phương được thực hiện khi có yêu cầu của người đã ký kết văn bản\nđó, trừ trường hợp pháp luật có quy định khác.\n      2. Trừ trường hợp quy định tại khoản 4 Điều 58 của Luật này, việc công\nchứng văn bản sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng\ndo công chứng viên của tổ chức hành nghề công chứng nơi đã thực hiện việc công\nchứng đó tiến hành; trường hợp tổ chức hành nghề công chứng nơi đã thực hiện\nviệc công chứng chấm dứt hoạt động, chuyển đổi hoặc giải thể thì công chứng\nviên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ công chứng thực hiện.\nTrường hợp tổ chức hành nghề công chứng tạm ngừng hoạt động thì việc sửa đổi,\nbổ sung, chấm dứt, hủy bỏ giao dịch đã được công chứng thực hiện theo quy định\ntại khoản 4 Điều 32 của Luật này.\n    3. Thủ tục công chứng việc sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã\nđược công chứng được thực hiện như thủ tục công chứng giao dịch quy định tại\nChương này.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:54": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "54",
+      "excerpt": "Điều 54. Người có quyền đề nghị Tòa án tuyên bố văn bản công chứng\nvô hiệu\n     Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng,\n\f                                      34\n\nngười làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ\nquan nhà nước có thẩm quyền có quyền đề nghị Tòa án tuyên bố văn bản công\nchứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật.\n\n                                    Mục 2\n            THỦ TỤC CÔNG CHỨNG MỘT SỐ GIAO DỊCH,\n                        NHẬN LƯU GIỮ DI CHÚC",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:56": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "56",
+      "excerpt": "Điều 56. Công chứng hợp đồng thế chấp bất động sản\n     1. Thẩm quyền công chứng hợp đồng thế chấp bất động sản được thực hiện\ntheo quy định tại Điều 44 của Luật này.\n     2. Trường hợp bất động sản đã được thế chấp để bảo đảm thực hiện nghĩa vụ\nvà hợp đồng thế chấp đã được công chứng mà sau đó được tiếp tục thế chấp để\nbảo đảm cho nghĩa vụ khác trong phạm vi pháp luật cho phép thì các hợp đồng\nthế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã\ncông chứng hợp đồng thế chấp lần đầu. Trường hợp tổ chức hành nghề công chứng\nđã thực hiện việc công chứng lần đầu chấm dứt hoạt động, chuyển đổi hoặc giải\nthể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ\ncông chứng thực hiện việc công chứng hợp đồng thế chấp tiếp theo đó. Trường\nhợp tổ chức hành nghề công chứng đã thực hiện việc công chứng lần đầu tạm\nngừng hoạt động thì việc công chứng hợp đồng thế chấp tiếp theo được thực hiện\ntheo quy định tại khoản 4 Điều 32 của Luật này.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:57": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "57",
+      "excerpt": "Điều 57. Công chứng hợp đồng ủy quyền trong trường hợp bên ủy quyền\nvà bên được ủy quyền không thể cùng đến một tổ chức hành nghề công chứng\n     1. Trong trường hợp bên ủy quyền và bên được ủy quyền không thể cùng\nđến một tổ chức hành nghề công chứng thì bên ủy quyền được yêu cầu công chứng\nviên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận việc đề\nnghị ủy quyền trong hợp đồng ủy quyền; bên được ủy quyền được yêu cầu công\nchứng viên của tổ chức hành nghề công chứng mà mình lựa chọn chứng nhận tiếp\nvào bản gốc của hợp đồng ủy quyền đó để xác nhận việc chấp nhận ủy quyền,\nhoàn thành việc công chứng hợp đồng ủy quyền và gửi 01 bản gốc của văn bản\ncông chứng đó cho tổ chức hành nghề công chứng mà bên ủy quyền đã công\nchứng để lưu hồ sơ công chứng.\n    Văn bản công chứng hợp đồng ủy quyền có hiệu lực kể từ thời điểm được\ncông chứng viên của tổ chức hành nghề công chứng mà bên ủy quyền và bên được\n\f                                      35\n\nủy quyền yêu cầu công chứng ký và đóng dấu của tổ chức hành nghề công chứng\nđó. Trường hợp là văn bản công chứng điện tử thì phải có chữ ký số của công\nchứng viên và chữ ký số của các tổ chức hành nghề công chứng đó.\n     2. Việc công chứng sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng ủy quyền\nquy định tại khoản 1 Điều này được thực hiện theo quy định tại Điều 53 của Luật\nnày. Bên ủy quyền và bên được ủy quyền có thể thỏa thuận để bên ủy quyền yêu\ncầu công chứng viên của tổ chức hành nghề công chứng đã công chứng việc ủy\nquyền thực hiện công chứng việc sửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng\nủy quyền, sau đó gửi bản gốc văn bản sửa đổi, bổ sung, thỏa thuận chấm dứt hợp\nđồng ủy quyền cho bên được ủy quyền để yêu cầu công chứng viên của tổ chức\nhành nghề công chứng đã công chứng việc nhận ủy quyền công chứng tiếp việc\nsửa đổi, bổ sung, thỏa thuận chấm dứt hợp đồng ủy quyền và gửi 01 bản gốc của\nvăn bản công chứng đó cho tổ chức hành nghề công chứng mà bên ủy quyền đã\ncông chứng để lưu hồ sơ công chứng.\n      Trường hợp hai bên cùng yêu cầu công chứng tại một trong hai tổ chức hành\nnghề công chứng đã thực hiện việc công chứng trước đó thì tổ chức hành nghề\ncông chứng này có trách nhiệm thông báo và gửi 01 bản sao của văn bản sửa đổi,\nbổ sung, thỏa thuận chấm dứt hợp đồng cho tổ chức hành nghề công chứng còn\nlại để lưu hồ sơ công chứng.\n     3. Việc sửa lỗi kỹ thuật của văn bản công chứng theo quy định tại khoản 1\nĐiều này được thực hiện tại tổ chức hành nghề công chứng đã thực hiện việc công\nchứng, trừ trường hợp pháp luật có quy định khác. Công chứng viên thực hiện\nviệc sửa lỗi kỹ thuật theo quy định tại khoản 3 và khoản 4 Điều 52 của Luật này,\nthông báo về việc sửa lỗi kỹ thuật cho tổ chức hành nghề công chứng còn lại đã\nthực hiện việc công chứng trong thời hạn 03 ngày làm việc kể từ ngày hoàn thành\nviệc sửa lỗi kỹ thuật.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:58": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "58",
+      "excerpt": "Điều 58. Công chứng di chúc\n     1. Người lập di chúc không được ủy quyền cho người khác mà phải tự mình\nký hoặc ký và điểm chỉ vào bản di chúc được công chứng. Trường hợp người lập\ndi chúc không ký được và không điểm chỉ được thì việc lập di chúc phải có người\nlàm chứng theo quy định tại khoản 2 Điều 49 của Luật này.\n     2. Trường hợp công chứng viên nhận thấy người lập di chúc có dấu hiệu bị\nmất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự, có khó khăn\ntrong nhận thức, làm chủ hành vi hoặc có căn cứ cho rằng việc lập di chúc có dấu\nhiệu bị lừa dối, đe dọa hoặc cưỡng ép thì công chứng viên đề nghị người lập di\nchúc làm rõ, trường hợp không làm rõ được thì công chứng viên từ chối công\nchứng di chúc đó.\n     3. Trường hợp tính mạng người lập di chúc bị cái chết đe dọa thì người lập\ndi chúc không phải xuất trình đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật\nnày nhưng phải ghi rõ trong văn bản công chứng.\n\f                                       36\n\n     Sau 03 tháng kể từ thời điểm lập di chúc theo quy định tại khoản này mà\nngười lập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì người\nlập di chúc phải nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này, nếu\nngười lập di chúc không nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật\nnày thì văn bản công chứng di chúc không có hiệu lực.\n     4. Di chúc đã được công chứng nhưng sau đó người lập di chúc muốn sửa\nđổi, bổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc thì có thể yêu cầu\ncông chứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc\nsửa đổi, bổ sung, thay thế hoặc hủy bỏ đó. Trường hợp di chúc trước đó đang được\nlưu giữ tại 01 tổ chức hành nghề công chứng thì người lập di chúc phải thông báo\ncho tổ chức hành nghề công chứng đang lưu giữ di chúc biết việc sửa đổi, bổ sung,\nthay thế, hủy bỏ một phần hoặc toàn bộ di chúc đó.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:59": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "59",
+      "excerpt": "Điều 59. Công chứng văn bản phân chia di sản\n    1. Người thừa kế theo pháp luật hoặc theo di chúc có quyền yêu cầu công\nchứng văn bản phân chia di sản.\n      Công chứng viên có trách nhiệm kiểm tra, bảo đảm việc phân chia di sản\nđược thực hiện theo quy định của Bộ luật Dân sự và quy định khác của pháp luật\ncó liên quan.\n     2. Ngoài các giấy tờ quy định tại khoản 1 Điều 42 hoặc khoản 1 Điều 43 của\nLuật này, hồ sơ yêu cầu công chứng văn bản phân chia di sản còn phải có các giấy\ntờ sau đây:\n    a) Giấy chứng tử hoặc giấy tờ khác theo quy định của pháp luật chứng minh\nngười để lại di sản đã chết;\n     b) Di chúc trong trường hợp thừa kế theo di chúc; giấy tờ chứng minh quan\nhệ giữa người để lại di sản và người được hưởng di sản trong trường hợp thừa kế\ntheo pháp luật và trường hợp người thừa kế không phụ thuộc vào nội dung của di\nchúc theo quy định của Bộ luật Dân sự;\n     c) Giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản của người\nđể lại di sản trong trường hợp di sản là quyền sử dụng đất hoặc tài sản pháp luật\nquy định phải đăng ký quyền sở hữu.\n     3. Công chứng viên kiểm tra để xác định người để lại di sản đúng là người\ncó quyền sử dụng đất, quyền sở hữu tài sản và những người yêu cầu công chứng\nđúng là người được hưởng di sản; nếu thấy chưa rõ thì công chứng viên yêu cầu\nlàm rõ hoặc tiến hành xác minh, yêu cầu giám định theo quy định tại khoản 4 Điều\n42 của Luật này.\n     4. Tổ chức hành nghề công chứng có trách nhiệm niêm yết việc tiếp nhận\ncông chứng văn bản phân chia di sản. Công chứng viên chỉ được công chứng văn\nbản phân chia di sản sau khi có xác nhận về việc đã hoàn thành việc niêm yết và\nkhông nhận được khiếu nại, tố cáo nào liên quan đến việc phân chia đó.\n\f                                      37\n\n     Chính phủ quy định chi tiết thủ tục niêm yết việc tiếp nhận công chứng văn\nbản phân chia di sản quy định tại khoản này.\n     5. Thủ tục công chứng văn bản phân chia di sản theo quy định tại các khoản\n2, 3 và 4 Điều này cũng áp dụng đối với trường hợp thừa kế theo di chúc hoặc\nthừa kế theo pháp luật mà chỉ có 01 người thừa kế.\n     6. Văn bản phân chia di sản đã được công chứng là căn cứ để cơ quan nhà\nnước có thẩm quyền đăng ký việc chuyển quyền sử dụng đất, quyền sở hữu tài\nsản cho người được hưởng di sản.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:61": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "61",
+      "excerpt": "Điều 61. Gửi giữ di chúc và công bố di chúc được lưu giữ\n     1. Người lập di chúc có thể yêu cầu tổ chức hành nghề công chứng nhận lưu\ngiữ di chúc của mình. Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong\nbản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người\nlập di chúc. Giấy nhận lưu giữ di chúc phải có thông tin về tổ chức hành nghề\ncông chứng nhận lưu giữ di chúc, công chứng viên niêm phong di chúc, người lập\ndi chúc.\n     2. Đối với di chúc đã được tổ chức hành nghề công chứng nhận lưu giữ nhưng\nsau đó tổ chức này chấm dứt hoạt động, chuyển đổi hoặc giải thể thì trước khi\nchấm dứt hoạt động, chuyển đổi hoặc giải thể, tổ chức hành nghề công chứng phải\nthỏa thuận với người lập di chúc về việc chuyển cho tổ chức hành nghề công\nchứng khác lưu giữ di chúc. Trường hợp không có thỏa thuận hoặc không thỏa\nthuận được thì di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di\nchúc. Trường hợp không liên hệ được với người lập di chúc thì di chúc được\nchuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành\nnghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể.\n     3. Việc công bố di chúc lưu giữ tại tổ chức hành nghề công chứng được thực\nhiện theo quy định của Chính phủ.\n\f                                       38\n\n                                     Mục 3\n                          CÔNG CHỨNG ĐIỆN TỬ",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:64": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "64",
+      "excerpt": "Điều 64. Văn bản công chứng điện tử\n     1. Văn bản công chứng điện tử là chứng thư điện tử được tạo lập theo nguyên\ntắc và phạm vi quy định tại Điều 62 của Luật này.\n     2. Văn bản công chứng điện tử có hiệu lực kể từ thời điểm được ký bằng chữ\nký số của công chứng viên và chữ ký số của tổ chức hành nghề công chứng.\n     3. Văn bản công chứng điện tử có giá trị pháp lý theo quy định tại khoản 2\nvà khoản 3 Điều 6 của Luật này.\n\f                                        39\n\n    4. Việc chuyển đổi hình thức giữa văn bản công chứng điện tử và văn bản\ncông chứng giấy được thực hiện theo quy định của pháp luật về giao dịch điện tử.\n     Văn bản công chứng được chuyển đổi có giá trị như bản gốc khi đáp ứng đủ\ncác điều kiện theo quy định của pháp luật về giao dịch điện tử, trừ trường hợp\npháp luật quy định loại văn bản đó được chuyển giao quyền sở hữu và chỉ được\ntồn tại dưới một hình thức duy nhất.",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "CC:9": {
+      "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "article": "9",
+      "excerpt": "Điều 9. Các hành vi bị nghiêm cấm\n     1. Nghiêm cấm công chứng viên thực hiện các hành vi sau đây:\n     a) Tiết lộ thông tin về nội dung công chứng, trừ trường hợp được người yêu\ncầu công chứng đồng ý bằng văn bản hoặc pháp luật có quy định khác; sử dụng\nthông tin về nội dung công chứng để xâm hại quyền, lợi ích hợp pháp của cá nhân,\ntổ chức, quyền và lợi ích của Nhà nước;\n     b) Thực hiện công chứng trong trường hợp mục đích, chủ thể hoặc nội dung\ncủa giao dịch vi phạm pháp luật, trái đạo đức xã hội; xúi giục, tạo điều kiện cho\nngười tham gia giao dịch thực hiện giao dịch giả tạo hoặc hành vi gian dối khác;\n     c) Công chứng giao dịch có liên quan đến tài sản, lợi ích của bản thân mình\nhoặc của người thân thích là vợ hoặc chồng; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi;\ncha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; con đẻ, con nuôi, con dâu,\ncon rể; ông nội, bà nội, ông ngoại, bà ngoại; anh ruột, chị ruột, em ruột; anh ruột,\nchị ruột, em ruột của vợ hoặc chồng; cháu là con của con đẻ, con nuôi;\n     d) Sách nhiễu, gây khó khăn cho người yêu cầu công chứng; nhận, đòi hỏi\ntiền hoặc lợi ích khác từ người yêu cầu công chứng ngoài phí công chứng, phí,\ngiá dịch vụ theo yêu cầu liên quan đến việc công chứng và chi phí khác đã được\nxác định, thỏa thuận; nhận, đòi hỏi tiền hoặc lợi ích khác từ người thứ ba để thực\nhiện hoặc không thực hiện việc công chứng;\n     đ) Ép buộc cá nhân, tổ chức sử dụng dịch vụ của mình; cấu kết, thông đồng\nvới cá nhân, tổ chức làm sai lệch nội dung của hồ sơ yêu cầu công chứng, hồ sơ\ncông chứng;\n    e) Chi tiền hoặc lợi ích khác, gây áp lực, đe dọa hoặc thực hiện hành vi vi\nphạm pháp luật, trái đạo đức xã hội để giành lợi thế trong việc công chứng;\n    g) Quảng cáo trên phương tiện thông tin đại chúng về công chứng viên và tổ\nchức hành nghề công chứng;\n\f                                            4\n\n      h) Đồng thời hành nghề tại 02 tổ chức hành nghề công chứng trở lên; đồng\nthời là thừa hành viên2, luật sư, đấu giá viên, quản tài viên, tư vấn viên pháp luật,\nthẩm định viên về giá; làm việc theo hợp đồng làm việc hoặc hợp đồng lao động\ntại doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, cơ quan, tổ chức khác hoặc\ntham gia công việc mà thường xuyên phải làm việc trong giờ hành chính;\n    i) Tham gia quản lý doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã ngoài tổ chức\nhành nghề công chứng; thực hiện hoạt động môi giới, đại lý hoặc tham gia chia lợi\nnhuận trong giao dịch mà mình công chứng; thực hiện hoạt động sản xuất, kinh\ndoanh hoặc cung cấp dịch vụ ngoài phạm vi hoạt động công chứng, chứng thực;\n    k) Cho người khác sử dụng quyết định bổ nhiệm công chứng viên, thẻ công\nchứng viên của mình;\n      l) Đầu tư toàn bộ hoặc góp vốn với công chứng viên khác để thành lập, nhận\nchuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh của Văn\nphòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh mà\nkhông tham gia hợp danh vào Văn phòng công chứng đó; góp vốn, nhận góp vốn,\nhợp tác với tổ chức, cá nhân không phải là công chứng viên để thành lập, nhận\nchuyển nhượng toàn bộ phần vốn góp của toàn bộ thành viên hợp danh của Văn\nphòng công chứng được tổ chức và hoạt động theo loại hình công ty hợp danh; đầu\ntư để thành lập hoặc mua Văn phòng công chứng được tổ chức và hoạt động theo\nloại hình doanh nghiệp tư nhân mà không làm Trưởng Văn phòng công chứng đó.\n     2. Nghiêm cấm tổ chức hành nghề công chứng thực hiện các hành vi sau đây:\n    a) Thực hiện các hành vi quy định tại các điểm a, b, d, đ, e, g, i và l khoản 1\nĐiều này;\n      b) Mở chi nhánh, văn phòng đại diện, cơ sở, địa điểm giao dịch khác ngoài\ntrụ sở của tổ chức hành nghề công chứng;\n     c) Cho người không đủ điều kiện hành nghề công chứng hoặc công chứng\nviên đang bị tạm đình chỉ hành nghề công chứng thực hiện việc công chứng, chứng\nthực tại tổ chức mình;\n    d) Cho công chứng viên thực hiện việc công chứng, chứng thực tại tổ chức\nmình khi tổ chức hành nghề công chứng bị thu hồi quyết định cho phép thành lập.\n     3. Nghiêm cấm cá nhân, tổ chức thực hiện các hành vi sau đây:\n    a) Giả mạo công chứng viên, người yêu cầu công chứng, người làm chứng,\nngười phiên dịch;\n    b) Cung cấp thông tin, tài liệu sai sự thật; tiết lộ hoặc sử dụng thông tin mà\nmình biết được trong hoạt động công chứng theo quy định tại điểm a khoản 1 Điều\n\n     2\n       Cụm từ “Thừa phát lại” được thay thế bằng cụm từ “Thừa hành viên” theo quy định tại\nkhoản 2 Điều 114 của Luật Thi hành án dân sự số 106/2025/QH15, có hiệu lực kể từ ngày 01\ntháng 7 năm 2026.\n\f                                         5\n\nnày; sử dụng giấy tờ, văn bản giả mạo hoặc bị tẩy xóa, sửa chữa trái pháp luật để\nyêu cầu công chứng hoặc để đề nghị bổ nhiệm, bổ nhiệm lại công chứng viên;\n     c) Có hành vi gian dối, không trung thực trong quá trình yêu cầu công chứng,\nlàm chứng, phiên dịch;\n      d) Cản trở hoạt động công chứng; từ chối cung cấp thông tin, tài liệu phục\nvụ việc công chứng trái quy định của pháp luật; từ chối thực hiện thủ tục pháp lý\nliên quan đến giao dịch được công chứng mà không có căn cứ pháp lý;\n      đ) Cá nhân không phải là công chứng viên, tổ chức không phải là tổ chức hành\nnghề công chứng thực hiện các hành vi sau: đầu tư toàn bộ, góp vốn, nhận góp vốn,\nliên kết, hợp tác chia lợi nhuận trong hoạt động công chứng; cung cấp dịch vụ công\nchứng; đặt tên tổ chức, doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã, treo biển\nquảng cáo hoặc thực hiện hành vi quảng cáo khác có nội dung cung cấp dịch vụ\ncông chứng hoặc nội dung dịch vụ gây nhầm lẫn với dịch vụ công chứng.\n\n\n                                   Chương II\n                             CÔNG CHỨNG VIÊN",
+      "origin": "official VBHN 50/2026 PDF",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+    },
+    "DS:117": {
+      "excerpt": "Điều 117. Điều kiện có hiệu lực của giao dịch dân sự\n\n1. Giao dịch dân sự có hiệu lực khi có đủ các điều kiện sau đây:\n\na) Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp\nvới giao dịch dân sự được xác lập;\n\nb) Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện;\n\ne) Mục đích và nội dung của giao dịch dân sự không vi phạm điều cấm\ncủa luật, không trái đạo đức xã hội.\n\n2. Hình thức của giao dịch dân sự là điều kiện có hiệu lực của giao dịch\ndân sự trong trường hợp luật có quy định.\n\nđ¡\n\n34",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "117"
+    },
+    "DS:124": {
+      "excerpt": "Điều 124. Giao dịch dân sự vô hiệu do giã tạo\n\n1. Khi các bên xác lập giao địch đân sự một cách giả tạo nhằm che giấu\nmột giao dịch dân sự khác thì giao dịch dân sự giả tạo vô hiệu, còn giao dịch dân\nsự bị che giấu vẫn có hiệu lực, trừ trường hợp giao dịch đó cũng vô hiệu theo\nquy định của Bộ luật này hoặc luật khác có liên quan.\n\n2. Trường hợp xác lập giao dịch dân sự giả tạo nhằm trốn tránh nghĩa vụ\nvới người thứ ba thì giao dịch dân sự đó vô hiệu.",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "124"
+    },
+    "DS:126": {
+      "excerpt": "Điều 126. Giao dịch dân sự vô hiệu do bị nhầm lẫn\n\n1. Trường hợp giao dịch dân sự được xác lập có sự nhằm lẫn làm cho một\nbên hoặc các bên không đạt được mục đích của việc xác lập giao dịch thì bên bị\nnhằm lẫn có quyển yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu, trừ trường\nhợp quy định tại khoản 2 Điều này.\n\n2. Giao dịch đân sự được xác lập có sự nhằm lẫn không vô hiệu trong trường\nhợp mục đích xác lập giao dịch dân sự của các bên đã đạt được hoặc các bên có thê\nkhắc phục ngay được sự nhâm lấn làm cho mục đích của việc xác lập giao dịch dân\nsự vẫn đạt được.\n\n36",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "126"
+    },
+    "DS:129": {
+      "excerpt": "Điều 129. Giao dịch dân sự vô hiệu do không tuân thủ quy định về\nhình thức\n\nGiao dịch dân sự vi phạm quy định điều kiện có hiệu lực về hình thức thì\nvô hiệu, trừ trường hợp sau đây:\n\n1. Giao địch dân sự đã được xác lập theo quy định phải bằng văn bản\nnhưng văn bản không đúng quy định của luật mà một bên hoặc các bên đã thực\n\nhiện ít nhất hai phần ba nghĩa vụ trong giao dịch thì theo yêu cầu của một bên\nhoặc các bên, Tòa án ra quyết định công nhận hiệu lực của giao dịch đó;\n\n2. Giao dịch dân sự đã được xác lập bằng văn bản nhưng vi phạm quy\nđịnh bắt buộc về công chứng, chứng thực mà một bên hoặc các bên đã thực hiện\nít nhất hai phần ba nghĩa vụ trong giao dịch thì theo yêu cầu của một bên hoặc\ncác bên, Tòa án ra quyết định công nhận hiệu lực của giao dịch đó. Trong trường\nhợp này, các bên không phải thực hiện việc công chứng, chứng thực.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "129"
+    },
+    "DS:132": {
+      "excerpt": "Điều 132. Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu\n\n1. Thời hiệu yêu cầu Tòa án tuyên bố giao địch dân sự vô hiệu quy định\ntại các điều 125, 126, 127, 128 và 129 của Bộ luật này là 02 năm, kể từ ngày:\n\na) Người đại diện của người chưa thành niên, người mất năng lực hành vì\ndân sự, người có khó khăn trong nhận thức, làm chủ hành vi, người bị hạn chế\nnăng lực hành vi dân sự biết hoặc phải biết người được đại diện tự mình xác lập,\nthực hiện giao dịch;\n\nb) Người bị nhằm lẫn, bị lừa dối biết hoặc phải biết giao dịch được xác\nlập do bị nhằm lẫn, do bị lừa dối;\n\n©) Người có hành vi đe dọa, cưỡng ép chấm dứt hành vi đe dọa, cưỡng ép;\n\nđ) Người không nhận thức và làm chủ được hành vi của mình xác lập\ngiao dịch;\n\nđ) Giao dịch dân sự được xác lập trong trường hợp giao dịch dân sự\nkhông tuân thủ quy định về hình thức.\n\n__ 2 Hết thời hiệu quy định tại khoản l Điều này mà không có yêu cầu tuyên\n\nbồ giao dịch dân sự vô hiệu thì giao dịch dân sự có hiệu lực.\n\n3. Đối với Bao, dịch dân sự quy định tại Điều 123 và Điều 124 của Bộ luật\nnày thì thời hiệu yêu cầu Tòa án tuyên bố giao dịch đân sự vô hiệu không bị hạn chế.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "132"
+    },
+    "DS:140": {
+      "excerpt": "Điều 140. Thời hạn đại diện\n\n1. Thời hạn đại diện được xác định theo văn bản ủy quyền, theo quyết\nđịnh của cơ quan có thẩm quyền, theo điều lệ của pháp nhân hoặc theo quy định\ncủa pháp luật.\n\n2. Trường hợp không xác định được thời hạn đại diện theo quy định tại\nkhoản I Điêu này thì thời hạn đại điện được xác định như sau:\n\na) Nếu quyền đại diện được xác định theo giao dịch dân sự cụ thể thì thời\nhạn đại diện được tính đến thời điểm chấm dứt giao dịch dân sự đó;\n\nb) Nếu quyền đại điện không được xác định với giao dịch dân sự cụ thể\nthì thời hạn đại diện là 01 năm, kế từ thời điểm phát sinh quyền đại diện.\n\n3. Đại diện theo ủy quyền chấm dứt trong trường hợp sau đây:\n\na) Theo thỏa thuận;\n\nb) Thời hạn ủy quyền đã hết;\n\nc) Công việc được uỷ quyền đã hoàn thành;\n\n⁄2\n\n40\n\nd) Người được đại diện hoặc người đại diện đơn phương chấm dứt thực\nhiện việc ủy quyền;\n\nđ) Người được đại diện, người đại điện là cá nhân chết; người được đại\ndiện, người đại điện là pháp nhân chấm dứt tồn tại;\n\ne) Người đại diện không còn đủ điều kiện quy định tại khoản 3 Điều 134\ncủa Bộ luật này;\n\nø) Căn cứ khác làm cho việc đại diện không thể thực hiện được.\n4. Đại diện theo pháp luật chấm dứt trong trường hợp sau đây:\n\na) Người được đại diện là cá nhân đã thành niên hoặc năng lực hành vi\ndân sự đã được khôi phục;\n\nb) Người được đại diện là cá nhân chết;\n\nc) Người được đại điện là pháp nhân chấm dứt tồn tại;\n\nd) Căn cứ khác theo quy định của Bộ luật này hoặc luật khác có liên quan.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "140"
+    },
+    "DS:141": {
+      "excerpt": "Điều 141. Phạm vi đại diện\n\n1. Người đại diện chỉ được xác lập, thực hiện giao dịch dân sự trong phạm\nvi đại diện theo căn cứ sau đây:\n\na) Quyết định của cơ quan có thâm quyền;\n\nb) Điều lệ của pháp nhân;\n\ne) Nội dung ủy quyền;\nđ) Quy định khác của pháp luật.\n\n2. Trường hợp không xác định được cụ thể phạm vi đại diện theo quy\nđịnh tại khoản 1 Điêu này thì người đại điện theo pháp luật có quyền xác lập,\nthực hiện mọi giao dịch dân sự vì lợi ích của người được đại diện, trừ trường\nhợp pháp luật có quy định khác.\n\n3. Một cá nhân, pháp nhân có thể đại diện cho nhiều cá nhân hoặc pháp\nnhân khác nhau nhưng không được nhân danh người được đại diện để xác lập,\nthực hiện giao dịch dân sự với chính mình hoặc với bên thứ ba mà mình cũng là\nngười đại điện của người đó, trừ trường hợp pháp luật có quy định khác.\n\n4. Người đại diện phải thông báo cho bên giao dịch biết về phạm vi đại\ndiện của mình.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "141"
+    },
+    "DS:143": {
+      "excerpt": "Điều 143. Hậu quả của giao dịch dân sự do người đại diện xác lập,\nthực hiện vượt quá phạm vi đại diện\n\n1. Giao dịch dân sự do người đại diện xác lập, thực hiện vượt quá phạm vi\nđại điện không làm phát sinh quyên, nghĩa vụ của người được đại diện đổi với\nphần giao dịch được thực hiện vượt quá phạm vi đại điện, trừ một trong các\ntrường hợp sau đây:\n\na) Người được đại diện đồng ý;\nb) Người được đại diện biết mà không phản đối trong một thời hạn hợp lý;\nc) Người được đại diện có lỗi dẫn đến việc người đã giao dịch không biết\n\nhoặc không thể biết về việc người đã xác lập, thực hiện giao dịch dân sự với\nmình vượt quá phạm vi đại diện.\n\n2. Trường hợp giao dịch dân sự do người. đại diện xác lập, thực hiện vượt\nquá phạm vi đại diện không làm phát sinh quyền, nghĩa vụ của người được đại\ndiện đối với phần giao dịch được xác lập, thực hiện vượt quá. phạm vi đại diện\nthì người đại diện phải thực hiện nghĩa vụ đối với người đã giao dịch với mình\nvề ` phần giao dịch vượt quá phạm vi đại diện, trừ trường hợp I người đã giao dịch\nbiết hoặc phải biết về việc vượt quá phạm vi đại diện mà vẫn giao dịch.\n\n3. Người đã giao dịch với người đại diện có quyền đơn phương chấm\ndứt thực hiện hoặc huỷ bỏ giao dịch dân sự đôi với phần vượt quá phạm vi đại\ndiện hoặc toàn bộ giao dịch dân sự và yêu cầu bồi thường thiệt hại, trừ trường\nhợp người đó biết hoặc phải biết về việc vượt quá phạm vi đại diện mà vẫn\ngiao dịch hoặc trường hợp quy định tại điểm a khoản 1 Điều này.\n\n4. Trường hợp người đại diện và người giao dịch với người đại diện cỗ\ný xác lập, thực hiện giao dịch dân sự vượt quá phạm vi đại diện mà gây thiệt\nhại cho người được đại diện thì phải chịu trách nhiệm liên đới bồi thường\nthiệt hại.\n\nMộ)\n\n42\n\nCHƯƠNG X\n'THỜI HẠN VÀ THỜI HIỆU\nMục 1\nTHỜI HẠN",
+      "origin": "reports/authorization-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "143"
+    },
+    "DS:21": {
+      "excerpt": "Điều 21. Người chưa thành niên\n\n1. Người chưa thành niên là người chưa đủ mười tám tuổi.\n\n2. Giao dịch dân sự của người chưa đủ sáu tuổi do người đại diện theo\npháp luật của người đó xác lập, thực hiện.\n\n3. Người từ đủ sáu tuổi đến chưa đủ mười lăm tuổi khi xác lập, thực hiện\ngiao dịch dân sự phải được người đại điện theo pháp luật đồng ý, trừ giao dịch\ndân sự phục vụ nhu câu sinh hoạt hàng ngày phù hợp với lứa tuôi.\n\n4. Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi tự mình xác lập,\nthực hiện giao dịch dân sự, trừ giao dịch dân sự liên quan đến bất động sản,\nđộng sản phải đăng ký và giao dịch dân sự khác theo quy định của luật phải\nđược người đại diện theo pháp luật đồng ý.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "21"
+    },
+    "DS:22": {
+      "excerpt": "Điều 22. MẤt năng lực hành vi dân sự\n\n1. Khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể\nnhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyên, lợi ích\nliên quan hoặc của cơ ; quan, tổ chức hữu quan, Tòa án ra quyết định tuyên bố\nngười này là người mắt năng lực hành vi dân sự trên cơ sở kết luận giám định\npháp y tâm thần.\n\nKhi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì\ntheo yêu câu của chính người đó hoặc của người có quyền, lợi ích liên quan\nhoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định huỷ bỏ quyết định\ntuyên bố mắt năng lực hành vi dân sự.\n\n2. Giao dịch dân sự của người mắt năng lực hành vi dân sự phải do người\nđại diện theo pháp luật xác lập, thực hiện.",
+      "origin": "reports/authorization-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "22"
+    },
+    "DS:283": {
+      "excerpt": "Điều 283. Thực hiện nghĩa vụ thông qua người thứ ba\n\nKhi được bên có quyền đồng ý, bên có nghĩa vụ có thể uỷ quyền cho\nngười thứ ba thay mình thực hiện nghĩa vụ nhưng vẫn phải chịu trách nhiệm với\nbên có quyền, nêu người thứ ba không thực hiện hoặc thực hiện không đúng\nnghĩa vụ.",
+      "origin": "reports/authorization-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "283"
+    },
+    "DS:293": {
+      "excerpt": "Điều 293. Phạm vi nghĩa vụ được bảo đảm\n\ng mạ min he\n\n1, Nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận\nhoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không\nquy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả\nnghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại.\n\n2. Nghĩa vụ được bảo, đảm có thể là nghĩa vụ hiện tại, nghĩa vụ trong\ntương lai hoặc nghĩa vụ có điều kiện.\n\n3. Trường hợp bảo đảm nghĩa vụ trong tương lai thì nghĩa vụ được hình\nthành trong thời hạn bảo đảm là nghĩa vụ được bảo đảm, trừ trường hợp có thỏa\nthuận khác.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "293"
+    },
+    "DS:295": {
+      "excerpt": "Điều 295. Tài sản bảo đảm\n\n,L. Tài sản bảo đảm phải thuộc quyền sở hữu của bên bảo đảm, trừ trường\nhợp cầm giữ tài sản, bảo lưu quyền sở hữu.\n\n2. Tài sản bảo đảm có thể được mô tả chung, nhưng phải xác định được.\n\n3. Tài sản bảo đảm có thể là tài sản hiện có hoặc tải sản hình thành trong\ntương lai.\n\n4. Giá trị của tài sản bảo đảm có thê lớn hơn, bằng hoặc nhỏ hơn giá trị\nnghĩa vụ được bảo đảm.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "295"
+    },
+    "DS:303": {
+      "excerpt": "Điều 303. Phương thức xử lý tài sản cầm cố, thế chấp\n\n1. Bên bảo đám và bên nhận bảo đảm có quyền thỏa thuận một trong các\nphương thức xử lý tài sản cầm có, thế chấp sau đây:\n\na) Bán đầu giá tải sản;\n\nb) Bên nhận bảo đảm tự bán tài sản;\n\ne) Bên nhận bảo đảm nhận chính tài sản để thay thế cho việc thực hiện\nnghĩa vụ của bên bảo đảm;\n\nđ) Phương thức khác.\n\n2. Trường hợp không có thỏa thuận về phương thức xử lý tài sản bảo đảm\ntheo quy định tại khoản 1 Điều nảy thì tài sản được bán đấu giá, trừ trường hợp\nluật có quy định khác.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "303"
+    },
+    "DS:321": {
+      "excerpt": "Điền 321. Quyền của bên thế chấp\n\n1. Khai thác công dụng, hưởng hoa lợi, lợi tức từ tài sản thế chấp, trừ\ntrường hợp hoa lợi, lợi tức cũng là tài sản thê châp theo thoả thuận.\n\n2. Đầu tư để làm tăng giá trị của tài sản thế chấp.\n\n3. Nhận lại tài sản thế chấp do người thứ ba giữ và giấy tờ liên quan đến\n\ntài sản thế chấp do bên nhận thế chấp giữ khi nghĩa vụ được bảo đảm bằng thế\nchấp chấm đứt hoặc được thay thế bằng biện pháp bảo đảm khác.\n\n4. Được bán, thay thế, trao đổi tài sản thể chấp, nếu tài sản đó là hàng hoá\nluân chuyển trong quá trình sản xuất, kinh doanh. Trong, trường hợp này, uyền\nyêu câu bên mua thanh toán tiền, số tiền thu được, tài sản hình thành từ sô tiền\nthu được, tài sản được thay thế hoặc được trao đổi trở thành tài sản thế chấp.\n\nTrường hợp tài sản thế chấp là kho hàng thì bên thế chấp được quyền thay\nthế hàng hóa trong kho, nhưng phải bảo đảm giá trị của hàng hóa trong kho đúng\nnhư thỏa thuận.\n\nqé\n\n85\n\n5. Được bán, trao đổi, tặng cho tài sản thế chấp không phải là hàng hóa\nluân chuyển trong quá trình sản xuất, kinh doanh, nếu được bên nhận thế chấp\nđồng ý hoặc theo quy định của luật.\n\n6. Được cho thuê, cho mượn tài sản thế chấp nhưng phải thông báo cho\nbên thuê, bên mượn biết về việc tài sản cho thuê, cho mượn đang được dùng để\nthế chấp và phải thông báo cho bên nhận thế chấp biết.",
+      "origin": "reports/deposit-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "321"
+    },
+    "DS:328": {
+      "excerpt": "Điều 328. Đặt cọc\n\n1. Đặt cọc là việc một bên (sau đây gọi là bên đặt cọc) giao cho bên kia\n(sau đây gọi là bên nhận đặt cọc) một khoản tiên hoặc kim khí quý, đá quý hoặc\n\n$*\n\n87\n\nvật có giá trị khác (sau đây gọi chung là tài sản đặt cọc) trong một thời hạn để\nbảo đảm giao kết hoặc thực hiện hợp đồng.\n\n2. Trường hợp hợp đồng được giao kết, thực hiện thì tài sản đặt cọc được\ntrả lại cho bên đặt cọc hoặc được trừ để thực hiện nghĩa vụ trả tiền; nếu bên đặt\ncọc từ chối việc giao kết, thực hiện hợp đồng thì tài sản đặt cọc thuộc về bên\nnhận đặt cọc; nếu bên nhận đặt cọc từ chối việc giao kết, thực hiện hợp đồng thì\nphải trả cho bên đặt cọc tài sản đặt cọc và một khoản tiền tương đương giá trị tài\nsản đặt cọc, trừ trường hợp có thoả thuận khác.",
+      "origin": "reports/deposit-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "328"
+    },
+    "DS:329": {
+      "excerpt": "Điều 329. Ký cược\n1. Ký cược là việc bên thuê tải sản là động sản giao cho bên cho thuê một\n\nkhoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác (sau đây gọi chung\nlà tài sản ký cược) trong một thời hạn để bảo đảm việc trả lại tài sản thuê.\n\n2. Trường hợp tài sản thuê được trả lại thì bên thuê được nhận lại tài sản\nký cược SAU khi trả tiền thuê; nếu bên thuê không trả lại tài sản thuê thì bên cho\nthuê có quyền đòi lại tài sản thuê; nếu tài sản thuê không còn để trả lại thì tài sản\nký cược thuộc về bên cho thuê.",
+      "origin": "reports/deposit-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "329"
+    },
+    "DS:336": {
+      "excerpt": "1. Bên bảo lãnh có thể cam kết bảo lãnh một phần hoặc toàn bộ nghĩa vụ cho bên được bảo lãnh.\n2. Nghĩa vụ bảo lãnh bao gồm cả tiền lãi trên nợ gốc, tiền phạt, tiền bồi thường thiệt hại, lãi trên số tiền chậm trả, trừ trường hợp có thoả thuận khác.",
+      "origin": "reports/calibration-20-legal-review-2026-10-12.json",
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=95942&dvid=13",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "336"
+    },
+    "DS:339": {
+      "excerpt": "Điều 339. Quan hệ giữa bên bảo lãnh và bên nhận bảo lãnh\n\n1. Trường hợp bên được bảo lãnh không thực hiện hoặc thực hiện không\nđúng nghĩa vụ của mình thì bên nhận bảo lãnh có quyền yêu cầu bên bảo lãnh\nphải thực hiện nghĩa vụ bảo lãnh, trừ trường hợp các bên có thỏa thuận bên bảo\nlãnh chỉ phải thực hiện nghĩa vụ thay cho bên được bảo lãnh trong trường hợp\nbên được bảo lãnh không có khả năng thực hiện nghĩa vụ.\n\n2. Bên nhận bảo lãnh không được yêu cầu bên bảo lãnh thực hiện nghĩa\nvụ thay cho bên được bảo lãnh khi nghĩa vụ chưa đên hạn.\n\n3. Bên bảo lãnh không phải thực hiện nghĩa vụ bảo lãnh trong trường hợp\nbên nhận bảo lãnh có thê bù trừ nghĩa vụ với bên được bảo lãnh.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "339"
+    },
+    "DS:346": {
+      "excerpt": "Điều 346. Cầm giữ tài sản\n„ Cầm giữ tải sản là việc bên có quyển (sau đây gọi là bên cầm giữ) đang\nnắm giữ hợp pháp tài sản là đối tượng của hợp đồng song vụ được chiếm giữ tài\nsản trong trường hợp bên có nghĩa vụ không thực hiện hoặc thực hiện không\nđúng nghĩa vụ.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "346"
+    },
+    "DS:347": {
+      "excerpt": "Điều 347. Xác lập cầm giữ tài sản\n\n1. Cầm giữ tải sản phát sinh từ thời điểm đến hạn thực hiện nghĩa vụ mà\nbên có nghĩa vụ không thực hiện hoặc thực hiện không đúng nghĩa vụ.\n\n2, Cầm giữ tài sản phát sinh hiệu lực đối kháng với người thứ ba kể từ\nthời điểm bên cầm giữ chiêm giữ tài sản.\n\n%\n\n9",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "347"
+    },
+    "DS:417": {
+      "excerpt": "Điều 417. Không được sửa đổi hoặc huỷ bỏ hợp đồng vì lợi ích của\nngười thứ ba\n\nKhi người thứ ba đã đồng ý ý hưởng lợi ích thì dù hợp đồng chưa được thực\nhiện, các bên giao kết hợp đồng cũng không được sửa đổi hoặc huỷ bỏ hợp\nđồng, trừ trường hợp được người thứ ba đồng ý.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "417"
+    },
+    "DS:427": {
+      "excerpt": "1. Khi hợp đồng bị hủy bỏ thì hợp đồng không có hiệu lực từ thời điểm giao kết, các bên không phải thực hiện nghĩa vụ đã thỏa thuận, trừ thỏa thuận về phạt vi phạm, bồi thường thiệt hại và thỏa thuận về giải quyết tranh chấp.",
+      "origin": "reports/calibration-20-legal-review-2026-10-12.json",
+      "url": "https://vbpl.moj.gov.vn/tuyenquang/Pages/vbpq-print.aspx?ItemID=95942",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "427"
+    },
+    "DS:428": {
+      "excerpt": "1. Một bên có quyền đơn phương chấm dứt thực hiện hợp đồng và không phải bồi thường thiệt hại khi bên kia vi phạm nghiêm trọng nghĩa vụ trong hợp đồng hoặc các bên có thỏa thuận hoặc pháp luật có quy định.\n2. Bên đơn phương chấm dứt thực hiện hợp đồng phải thông báo ngay cho bên kia biết về việc chấm dứt hợp đồng, nếu không thông báo mà gây thiệt hại thì phải bồi thường.\n3. Khi hợp đồng bị đơn phương chấm dứt thực hiện thì hợp đồng chấm dứt kể từ thời điểm bên kia nhận được thông báo chấm dứt. Các bên không phải tiếp tục thực hiện nghĩa vụ, trừ thỏa thuận về phạt vi phạm, bồi thường thiệt hại và thỏa thuận về giải quyết tranh chấp. Bên đã thực hiện nghĩa vụ có quyền yêu cầu bên kia thanh toán phần nghĩa vụ đã thực hiện.",
+      "origin": "reports/calibration-20-legal-review-2026-10-12.json",
+      "url": "https://vbpl.moj.gov.vn/tuyenquang/Pages/vbpq-print.aspx?ItemID=95942",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "428"
+    },
+    "DS:563": {
+      "excerpt": "Điều 563. Thời hạn ủy quyền\n\nThời hạn ủy quyền do các bên thoá thuận hoặc do pháp luật quy định; nếu\nkhông có thoả thuận và pháp luật không có quy định thì hợp đồng ủy quyền có\nhiệu lực 01 năm, kế từ ngày xác lập việc ủy quyền.",
+      "origin": "reports/authorization-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "563"
+    },
+    "DS:564": {
+      "excerpt": "Điều 564. Ủy quyền lại\n\n1. Bên được ủy quyền được ủy quyền lại cho người khác trong trường hợp\nsau đây:\n\na) Có sự đồng ý của bên ủy quyền;\n\nb) Do sự kiện bất khả kháng nếu không á áp dụng ủ ủy quyền lại thì mục đích\nxác lập, thực hiện giao địch dân sự vì lợi ích của người ủy quyền không thể thực\nhiện được.\n\n2. Việc ủy quyền lại không được vượt quá phạm vi ủy quyền ban đầu.\n\n.3. Hình thức hợp đồng ủy quyền lại phải phù hợp với hình thức ủy quyền\nban đâu.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "564"
+    },
+    "DS:565": {
+      "excerpt": "Điều 565. Nghĩa vụ của bên được uỷ quyền\n\n1. Thực hiện công việc theo uỷ quyền và báo cho bên uỷ quyền về việc\nthực hiện công việc đó.\n\n2. Báo cho người thứ ba trong quan hệ thực hiện tỷ quyền về thời hạn,\nphạm vỉ uỷ quyền và việc sửa đổi, bỗ sung phạm vỉ uỷ quyền.\n\n4\n\n140\n\n3. Bảo quản, giữ gìn tài liệu và phương tiện được giao để thực hiện việc\nuỷ quyền.\n\n4. Giữ bí mật thông tin mà mình biết được trong khi thực hiện việc uỷ quyền.\n\n5. Giao lại cho bên uỷ quyền tài sản đã nhận và những lợi ích thu được\ntrong khi thực hiện việc uỷ quyển theo thoả thuận hoặc theo quy định của\npháp luật.\n\n6. Bồi thường thiệt hại đo vi phạm nghĩa vụ quy định tại Điều này.",
+      "origin": "reports/authorization-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "565"
+    },
+    "DS:569": {
+      "excerpt": "Điều 569. Đơn phương chấm dứt thực hiện hợp đồng uÿ quyền\n\n1. Trường hợp uỷ quyền có thù lao, bên uỷ quyền có quyền đơn phương\nchấm dứt thực hiện hợp đồng bất cứ lúc nào, nhưng phải trả thù lao cho bên\nđược uỷ quyền tương ứng với công việc mà bên được uỷ quyền đã thực hiện và\nbồi thường thiệt hại; nêu uỷ quyền không có thù lao thì bên uỷ quyền có thể\nchấm đứt thực hiện hợp đồng bắt cứ lúc nào, nhưng phải báo trước cho bên được\nuỷ quyền một thời gian hợp lý.\n\nBên uỷ quyền phải báo bằng văn bản cho người thứ ba biết về việc bên uỷ\nquyền chấm dứt thực hiện hợp đồng; nếu không báo thì hợp đồng với người thứ\n\nba vẫn có hiệu lực, trừ trường hợp người thứ ba biết hoặc phải biết về việc hợp\nđồng uỷ quyền đã bị chấm dứt.\n\nAtW\n\n141\n\n2. Trường hợp uỷ quyền không có thờ lao, bên được uỷ quyền có quyền\nđơn phương châm dứt thực hiện hợp đồng bất cứ lúc nào, nhưng phải báo trước\ncho bên uỷ quyền biết. một thời gian hợp lý; nếu uỷ quyền có thù lao thì bên\nđược uỷ quyên có quyền đơn phương chấm dứt thực hiện hợp đồng bắt cứ lúc\nnào và phải bồi thường thiệt hại cho bên uỷ quyển, nếu có.\n\nCHƯƠNG XVII\nHỨA THƯỞNG, THI CÓ GIẢI",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "569"
+    },
+    "DS:59": {
+      "excerpt": "Điều 59. Quản lý tài sản của người được giám hộ\n\n1. Người giám hộ của người chưa thành niên, người mắt năng lực hành vi\ndân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của\nchính mình; được thực hiện giao địch dân sự liên quan đến tài sản của người\nđược giám hộ vì lợi ích của người được giám hộ.\n\nViệc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm có, thế chấp, đặt cọc\nvà giao dịch dân sự khác đôi với tài sản có giá trị lớn của người được giám hộ\nphải được sự đông ý của người giám sát việc giám hộ.\n\nNgười giám hộ không được đem tài sản của người được giám hộ tặng cho\nngười khác. Các giao dịch dân sự giữa người giám hộ với người được giám hộ\ncó liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp\ngiao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của\nngười giám sát việc giám hộ.\n\n^8\n\n19\n\n2. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành\nvi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án\ntrong phạm vỉ được quy định tại khoản 1 Điều này.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "59"
+    },
+    "DS:611": {
+      "excerpt": "Điều 611. Thời điểm, địa điểm mở thừa kế\n\n1. Thời điểm mở thừa kế là thời điểm người có tài sản chết. Trường hợp\n\nTòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác\nđịnh tại khoản 2 Điêu 71 của Bộ luật này.\n\nZ9\n\n152\n\n2, Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản;\nnếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có\ntoàn bộ di sản hoặc nơi có phần lớn di sản.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "611"
+    },
+    "DS:613": {
+      "excerpt": "Điều 613. Người thừa kế\n\nNgười thừa kế là cá nhân phải là người còn sống vào thời điểm mở thừa\nkế hoặc sinh ra và còn sống sau thời điểm mở thừa kế nhưng đã thành thai trước\nkhi người để lại di sản chết. Trường hợp người thừa kế theo di chúc không là cá\nnhân thì phải tồn tại vào thời điểm mở thừa kế.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "613"
+    },
+    "DS:615": {
+      "excerpt": "Điều 615. Thực hiện nghĩa vụ tài sản do người chết để lại\n\n1. Những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản\ntrong phạm vi di sản đo người chết để lại, trừ trường hợp có thoả thuận khác.\n\n2. Trường hợp di sản chưa được chia thì nghĩa vụ tài sản do người chết để\nlại được người quản lý di sản thực hiện theo thoả thuận của những người thừa kế\ntrong phạm vì di sản do người chết để lại.\n\n3. Trường hợp di sản đã được chia thì mỗi người thừa kế thực hiện nghĩa\nvụ tài sản do người chết để lại tương ứng nhưng không vượt quá phần tài sản mà\nmình đã nhận, trừ trường hợp có thoả thuận khác.\n\n4. Trường hợp người thừa kế không phải là cá nhân hưởng di sản theo di\nchúc thì cũng phải thực hiện nghĩa vụ tài sản do người chết để lại như người\nthừa kế là cá nhân.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "615"
+    },
+    "DS:616": {
+      "excerpt": "Điều 616. Người quản lý di sản\n\n1. Người quản lý đi sản là người được chỉ định trong di chúc hoặc do\nnhững người thừa kê thoả thuận cử ra.\n\n2. Trường hợp di chúc không chỉ định người quản lý đi sản và những\nngười thừa kế chưa cử được người quản lý di sản thì người đang chiếm hữu, sử\ndụng, quản lý di sản tiếp tục quản lý di sản đó cho đến khi những người thừa kế\ncử được người quản lý di sản.\n\n3. Trường hợp chưa xác định được người thừa kế và di sản chưa có người\nquản lý theo quy định tại khoản 1 và khoản 2 Điều này thì di sản do cơ quan nhà\nnước có thẩm quyền quản lý.\n\nÁGÐ\n\n153",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "616"
+    },
+    "DS:617": {
+      "excerpt": "Điều 617. Nghĩa vụ của người quản lý di sản\n1. Người quản lý di sản quy định tại khoản 1 và khoản 3 Điều 616 của Bộ\nluật này có nghĩa vụ sau đây:\n\na) Lập danh mục đi sản; thu hồi tài sản thuộc di sản của người chết mà\nngười khác đang chiêm hữu, trừ trường hợp pháp luật có quy định khác;\n\nb) Bảo quản đi sản; không được bán, trao đổi, tặng cho, cằm cố, thế chấp\nhoặc định đoạt tài sản bằng hình thức khác, nếu không được những người thừa\nkế đồng ý bằng văn bản;\n\nc) Thông báo về tình trạng di sản cho những người thừa kế;\n\nd) Bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại;\n\nđ) Giao lại di sản theo yêu cầu của người thừa kế.\n\n-% Người đang chiếm hữu, sử dụng, quản lý di sản quy định tại khoản 2\n\nĐiêu 616 của Bộ luật này có nghĩa vụ sau đây:\n\na) Bảo quản đi sản; không được bán, trao đổi, tặng cho, cầm có, thế chấp\nhoặc định đoạt tài sân bằng hình thức khác;\n\nb) Thông báo về di sản cho những người thừa kế;\n\nc) Bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại;\n\nđ) Giao lại đi sản theo thoả thuận trong hợp đồng với người để lại di sản\nhoặc theo yêu câu của người thừa kê.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "617"
+    },
+    "DS:618": {
+      "excerpt": "Điều 618. Quyền của người quản lý di sản\n\n1. Người quản lý di sản quy định tại khoản 1 và khoản 3 Điều 616 của Bộ\nluật này có quyền sau đây:\n\n3) Đại diện cho những người thừa kế trong quan hệ với người thứ ba liên\nquan đến di sản thừa kế;\n\nb) Được hưởng thù lao theo thoả thuận với những người thừa kế;\n\n©) Được thanh toán chỉ phí bảo quản di sản.\n\n2. Người đang chiếm hữu, sử dụng, quản lý di sản quy định tại khoản 2\nĐiều 616 của Bộ luật này có quyền sau đây:\n\na) Được tiếp tục sử dụng di sản theo thoả thuận trong hợp đồng với người\nđể lại di sản hoặc được sự đồng ý của những người thừa kế;\n\nb) Được hưởng thù lao theo thoả thuận với những người thừa kế;\n\nc) Được thanh toán chỉ phí bảo quản di sản.\n\n3. Trường hợp không đạt được thỏa thuận với những người thừa kế về\nmức thù lao thì người quản lý di sản được hưởng một khoản thù lao hợp lý.\n\n“£u\n\n1⁄4",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "618"
+    },
+    "DS:619": {
+      "excerpt": "Điều 619. Việc thừa kế của những người có quyền thừa kế di sản của\nnhau mà chết cùng thời điểm\n\nTrường hợp những người có quyền thừa kế đi sản của nhau đều chết cùng\nthời điểm hoặc được coi là chết cùng thời điểm do không thể xác định được\nngười nào chết trước (sau đây gọi chung là chêt cùng thời điểm) thì họ không\nđược thừa kế đi sản của nhau và đi sản của mỗi người do người thừa kế của\nngười đó hưởng, trừ trường hợp thừa kế thế vị theo quy định tại Điều 652 của\nBộ luật này.",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "619"
+    },
+    "DS:620": {
+      "excerpt": "Điều 620. Từ chối nhận di sản\n\n1. Người thừa kế có quyền từ chối nhận di sản, trừ trường hợp việc từ chối\nnhằm trốn tránh việc thực hiện nghĩa vụ tài sản của mình đối với người khác.\n\n2. Việc từ chối nhận đi sản phải được lập thành văn bản và gửi đến người\nquản lý đi sản, những người thừa kế khác, người được giao nhiệm vụ phân chia\ndi sản để biết.\n\n3. Việc từ chối nhận di sản phải được thể hiện trước thời điểm phân chia\nđi sản.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "620"
+    },
+    "DS:621": {
+      "excerpt": "Điều 621. Người không được quyền hưởng di sản\n\n1. Những người sau đây không được quyền hưởng di sản:\n\na) Người bị kết án về hành vi có ý xâm phạm tính mạng, sức khoẻ hoặc về\nhành vi ngược đãi nghiêm trọng, hành hạ người để lại di sản, xâm phạm nghiêm\ntrọng danh dự, nhân phẩm của người đó;\n\nb) Người vi phạm nghiêm trọng nghĩa vụ nuôi dưỡng người để lại di sản;\n\nc) Người bị kết án về hành vi cố ý xâm phạm tính mạng người thừa kế\nkhác nhằm hưởng một phần hoặc toàn bộ phần đi sản mà người thừa kế đó có\nquyền hưởng;\n\nđ) Người có hành vi lừa dối, cưỡng ép hoặc ngăn cản người để lại đi sản\ntrong việc lập di chúc; giả mạo di chúc, sửa chữa di chúc, huỷ di chúc, che giấu\ndi chúc nhằm hưởng một phần hoặc toàn bộ di sản trái với ý chí của người để lại\nđi sản.\n\n2. Những người quy định tại khoản 1 Điều này vẫn được hưởng di sản,\nnếu người để lại di sản đã biết hành vi của những người đó, nhưng vẫn cho họ\nhưởng di sản theo di chúc.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "621"
+    },
+    "DS:623": {
+      "excerpt": "Điều 623. Thời hiệu thừa kế\n1. Thời hiệu để người thừa kế yêu cầu chia di sản là 30 năm đối với bất\nđộng sản, 10 năm đối với động sản, kể từ thời điểm mở thừa kế. Hết thời hạn\nnày thì di sản thuộc về người thừa kế đang quản lý di sản đó. Trường hợp không\ncó người thừa kế đang quản lý di sản thì di sản được giải quyết như sau:\n8) Di sản thuộc quyền sở hữu của người đang chiếm hữu theo quy định tại\nĐiều 236 của Bộ luật này;\n.b) Di sản thuộc về Nhà nước, nếu không có người chiếm hữu quy định tại\nđiêm a khoản này.\n2. Thời hiệu để người thừa kế yêu cầu xác nhận quyền thừa kế của mình\nhoặc bác bỏ quyền thừa kế của người khác là 10 năm, kể từ thời điểm mở thừa kế.\n3. Thời hiệu yêu cầu người thừa. kế thực hiện nghĩa vụ về tài sản của\nngười chết đề lại là 03 năm, kể từ thời điểm mở thừa kế.\n\nCHƯƠNG XXII\nTHỪA KÉ THEO Dĩ CHÚC",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "623"
+    },
+    "DS:625": {
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "625",
+      "excerpt": "Điều 625. Người lập di chúc\n1. Người thành niên có đủ điều kiện theo quy định tại điểm a khoản 1 Điều 630 của Bộ luật này có quyền lập di chúc để định đoạt tài sản của mình.\n2. Người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi được lập di chúc, nếu được cha, mẹ hoặc người giám hộ đồng ý về việc lập di chúc.",
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=95942&dvid=13",
+      "origin": "Nguồn BLDS chính thức ItemID=95942; kết quả tìm kiếm điều khoản 12/10/2026. Mở toàn trang trả 502; không tuyên bố tải toàn văn thành công."
+    },
+    "DS:629": {
+      "excerpt": "Điều 629. Di chúc miệng\n\n1. Trường hợp tính mạng một người bị cái chết đe dọa và không thể lập di\nchúc bằng văn bản thì có thể lập di chúc miệng.\n\n2. Sau 03 tháng, kê từ thời điểm di chúc miệng mà người lập di chúc còn\nsống, minh mẫn, sáng suốt thì di chúc miệng mặc nhiên bị huỷ bỏ.",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "629"
+    },
+    "DS:630": {
+      "excerpt": "Điều 630. Di chúc hợp pháp\n\n1. Di chúc hợp pháp phải có đủ các điều kiện sau đây:\n\na) Người lập di chúc minh mẫn, sáng suốt trong khi lập đi chúc; không bị\nlừa dối, đe doạ, cưỡng ép;\n\nb) Nội dung của di chúc không vi phạm điều cấm của luật, không trái đạo\nđức xã hội; hình thức di chúc không trái quy định của luật.\n\n2. Di chúc của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi phải\nđược lập thành văn bản và phải được cha, mẹ hoặc người giám hộ đồng ý về\nviệc lập đi chúc.\n\n3. Di chúc của người bị hạn chế về thể chất hoặc của người không biết chữ\nphải được người làm chứng lập thành văn bản và có công chứng hoặc chứng thực.\n\n4.Di chúc bằng văn bản không có công chứng, chứng thực chỉ được coi là\nhợp pháp, nếu có đủ các điều kiện được quy định tại khoản 1 Điều này.\n\n5. Di chúc miệng được coi là hợp pháp nếu người di chúc miệng thể hiện\ný chí cuối cùng của mình trước mặt ít nhất hai người làm chứng và ngay sau khi\nngười di chúc miệng thể hiện ý chí cuối cùng, người làm chứng ghỉ chép lại,\ncùng ký tên hoặc điểm chỉ. Trong thời hạn 05 ngày làm việc, kế từ ngày người di\nchúc miệng thể hiện ý chí cuối cùng thì di chúc phải được công chứng viên hoặc\ncơ quan có thẩm quyền chứng thực xác nhận chữ ký hoặc điểm chỉ của người\nlàm chứng.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "630"
+    },
+    "DS:632": {
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "632",
+      "excerpt": "Điều 632. Người làm chứng cho việc lập di chúc\nMọi người đều có thể làm chứng cho việc lập di chúc, trừ những người sau đây:\n1. Người thừa kế theo di chúc hoặc theo pháp luật của người lập di chúc;\n2. Người có quyền, nghĩa vụ tài sản liên quan tới nội dung di chúc;\n3. Người chưa thành niên, người mất năng lực hành vi dân sự, người có khó khăn trong nhận thức, làm chủ hành vi.",
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=95942&dvid=13",
+      "origin": "Nguồn BLDS chính thức ItemID=95942; kết quả tìm kiếm điều khoản 12/10/2026. Mở toàn trang trả 502; không tuyên bố tải toàn văn thành công."
+    },
+    "DS:633": {
+      "excerpt": "Điều 633. Di chúc bằng văn bản không có người làm chứng\n\nNgười lập di chúc phải tự viết và ký vào bản di chúc.\n\nViệc lập di chúc bằng văn bản không có người làm chứng phải tuân theo\nquy định tại Điều 631 của Bộ luật này.",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "633"
+    },
+    "DS:634": {
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "634",
+      "excerpt": "Điều 634. Di chúc bằng văn bản có người làm chứng\nTrường hợp người lập di chúc không tự mình viết bản di chúc thì có thể tự mình đánh máy hoặc nhờ người khác viết hoặc đánh máy bản di chúc, nhưng phải có ít nhất là hai người làm chứng. Người lập di chúc phải ký hoặc điểm chỉ vào bản di chúc trước mặt những người làm chứng; những người làm chứng xác nhận chữ ký, điểm chỉ của người lập di chúc và ký vào bản di chúc.\nViệc lập di chúc bằng văn bản có người làm chứng phải tuân theo quy định tại Điều 631 và Điều 632 của Bộ luật này.",
+      "url": "https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=95942&dvid=13",
+      "origin": "Nguồn BLDS chính thức ItemID=95942; kết quả tìm kiếm điều khoản 12/10/2026. Mở toàn trang trả 502; không tuyên bố tải toàn văn thành công."
+    },
+    "DS:637": {
+      "excerpt": "Điều 637. Người không được công chứng, chứng thực đi chúc\n\nCông chứng viên, người có thâm quyền của Uỷ ban nhân dân cấp xã\nkhông được công chứng, chứng thực đối với di chúc nếu thuộc một trong các\ntrường hợp sau đây:\n\n1. Người thừa kế theo đi chúc hoặc theo pháp luật của người lập di chúc;\n\n2. Người có cha, mẹ, vợ hoặc chồng, con là người thừa kế theo di chúc\nhoặc theo pháp luật;\n\n3. Người có quyền, nghĩa vụ về tài sản liên quan tới nội dung di chúc.",
+      "origin": "reports/exam-legal-evidence-2026.json",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "637"
+    },
+    "DS:640": {
+      "excerpt": "Điều 640. Sửa đỗi, bỗ sung, thay thế, huỷ bỏ đi chúc\n\n1. Người lập di chúc có thể sửa đổi, bổ sung, thay thế, huỷ bỏ di chúc đã\nlập vào bất cứ lúc nào.\n\n2. Trường hợp người lập di chúc bổ sung di chúc thì di chúc đã lập và\n\nphần bổ sung có hiệu lực pháp luật như nhau; nêu một phần của di chúc đã lập\nvà phần bể sung mâu thuẫn nhau thì chỉ phần bỗ sung có hiệu lực pháp luật.\n\n3. Trường hợp người lập di chúc thay thế đi chúc bằng di chúc mới thì di\nchúc trước bị huý bỏ.",
+      "origin": "reports/legal-evidence-2026.json",
+      "url": "https://chinhphu.vn/?docid=183188&pageid=27160",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "640"
+    },
+    "DS:643": {
+      "excerpt": "Điều 643. Hiệu lực của di chúc\n\n1. Di chúc có hiệu lực từ thời điểm mở thừa kế.\n\n2. Di chúc không có hiệu lực toàn bộ hoặc một phần trong trường hợp sau đây:\n\na) Người thừa kế theo di chúc chết trước hoặc chết cùng thời điểm với\nngười lập di chúc;\n\nb) Cơ quan, tổ chức được chỉ định là người thừa kế không còn tổn tại vào\nthời điểm mở thừa kế.\n\n42\n\n160\n\nTrường hợp có nhiều người thừa kế theo di chúc mà có người chết trước\nhoặc chết cùng thời điểm với người lập di chúc, một trong nhiêu cơ quan, tô\nchức được 4 chỉ định hưởng thừa kế theo di chúc _không còn tôn tại vào thời điểm\nmở thừa kế thì chỉ phần di chúc có liên quan đến cá nhân, cơ quan, tổ chức này\nkhông có hiệu lực.\n\n3. Di chúc không có hiệu lực, nếu di sản để lại cho người thừa kế không\ncòn vào thời điểm mở thừa kế; nếu di sản để lại cho người thừa kế chỉ còn một\nphần thì phần di chúc về phần đi sản còn lại vẫn có hiệu lực.\n\n4A. Khi di chúc có phần không hợp pháp mà không ảnh hưởng đến hiệu lực\ncủa các phần còn lại thì chỉ phần đó không có hiệu lực.\n\n5. Khi một người để lại nhiều bản di chúc đối với một tài sản thì chỉ bản\ndi chúc sau cùng có hiệu lực.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "643"
+    },
+    "DS:644": {
+      "excerpt": "Điều 644. Người thừa kế không phụ thuộc vào nội dung của di chúc\n\n1. Những người sau đây vẫn được hưởng phần di sản bằng hai phần ba\nsuất của một người thừa kế theo pháp luật nếu di sản được chia theo pháp luật,\n\ntrong trường hợp họ không được người lập di chúc cho hưởng di sản hoặc chỉ\ncho hưởng phân di sản ít hơn hai phân ba suất đó:\n\na) Con chưa thành niên, cha, mẹ, vợ, chồng;\nb) Con thành niên mà không có khả năng lao động.\n\n2. Quy định tại khoản 1 Điều này không áp dụng đối với người từ chối\nnhận đi sản theo quy định tại Điều 620 hoặc họ là những người không có quyền\nhưởng đi sản theo quy định tại khoản 1 Điều 621 của Bộ luật này.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "644"
+    },
+    "DS:645": {
+      "excerpt": "Điều 645. Di sản dùng vào việc thờ cúng\n\n1. Trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ\ncúng thì phần đi sản đó không được 4 chia thừa kế và được giaO ‹ cho người đã\nđược chỉ định trong di chúc quản lý để thực hiện việc thờ cúng; nếu người được\nchỉ định không thực hiện đúng di chúc hoặc không theo thoả thuận của những\nngười thừa kế thì những người thừa kế có quyền giao phần đi sản dùng vào việc\nthờ cúng cho người khác quản lý để thờ cúng.\n\nTrường hợp người để lại đi sản không chỉ định người quản lý di sản thờ\ncúng thì những người thừa kê cử người quản lý di sản thờ cúng.\n\nTrường hợp tất cả những người thừa kế theo di chúc đều đã chết thì phần\ndị sản dùng để thờ cúng thuộc về ) người đang quản lý hợp pháp di sản đó trong\nsố những người thuộc diện thừa kế theo pháp luật.\n\n2. Trường hợp toàn bộ di sản của người chết không đủ để thanh toán\nnghĩa vụ tài sản của người đó thì không được dành một phân di sản dùng vào\nviệc thờ cúng.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "645"
+    },
+    "DS:646": {
+      "excerpt": "Điều 646. Di tặng\n\n1, Di tặng là việc người lập di chúc dành một phần đi sản để tặng cho\nngười khác. Việc di tặng phải được ghi rõ trong di chúc.\n\nÑ€⁄⁄\n\n161\n\n2. Người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế\nhoặc sinh ra và còn sông sau thời điểm mở thừa kê nhưng đã thành thai trước khi\nngười đê lại di sản chết. Trường hợp người được di tặng không phải là cá nhân\nthì phải tồn tại vào thời điểm mở thừa kế.\n\n3. Người được di tặng không phải thực hiện nghĩa vụ tài sản đối với phần\nđược di tặng, trừ trường hợp toàn bộ di sản không đủ đề thanh toán nghĩa vụ tài\nsản của người lập di chúc thì phân di tặng cũng được dùng để thực hiện phân\nnghĩa vụ còn lại của người này.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "646"
+    },
+    "DS:650": {
+      "excerpt": "Điều 650. Những trường hợp thừa kế theo pháp luật\n\n1. Thừa kế theo pháp luật được áp dụng trong trường hợp sau đây:\n\na) Không có đi chúc;\n\nb) Di chúc không hợp pháp;\n\nc) Những người thừa kế theo đi chúc chết trước hoặc chết cùng thời điểm\n\nvới người lập đi chúc; cơ quan, tổ chức được hưởng thừa kế theo đi chúc không\ncòn tôn tại vào thời điểm mở thừa kế;\n\nd) Những người được chỉ định làm người thừa kế theo di chúc mà không\ncó quyên hưởng di sản hoặc từ chối nhận đi sản.\n\n2. Thừa kế theo pháp luật cũng được áp dụng đối với các phần di sản\nsau đây:\n\na) Phần di sản không được định đoạt trong đi chúc;\n\nb) Phần di sản có liên quan đến phần của di chúc không có hiệu lực\npháp luật;\n\nc) Phần đ sản có liên quan đến người được thừa kế theo di chúc nhưng họ\nkhông có quyền hưởng di sản, từ chối nhận di sản, chết trước hoặc chết cùng\n\nthời điểm với người lập đi chúc; liên quan đến cơ quan, tổ chức được hưởng di\nsản theo di chúc, nhưng không còn tồn tại vào thời điểm mở thừa kế.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "650"
+    },
+    "DS:651": {
+      "excerpt": "Điều 651. Người thừa kế theo pháp luật\n1. Những người thừa kế theo pháp luật được quy định theo thứ tự sau đây:\n\n3) Hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ\nnuôi, con đẻ, con nuôi của người chết;\n\nb) Hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, Anh\nruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là\nông nội, bà nội, ông ngoại, bà ngoại;\n\nc) Hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác uột,\nchú ruột, cậu ruột, cô ruột, đì ruột của người chết; cháu ruột của người chết mà\nngười chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chất ruột của người\nchết mà người chết là cụ nội, cụ ngoại.\n\n2. Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau.\n\n3. Những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu khôi\ncòn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất\nquyền hưởng di sản hoặc từ chối nhận di sản.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "651"
+    },
+    "DS:652": {
+      "excerpt": "Điều 652. Thừa kế thế vị\n\nTrường hợp con của người để lại di sản chết trước hoặc cùng một thời\nđiểm với người để lại đi sản thì cháu được hưởng phần ‹ di sản mà cha hoặc mẹ\ncủa cháu được hưởng nếu còn sống; nếu cháu cũng chết trước hoặc cùng một\n\n4G)\n\n163\n\nthời điểm với người để lại di sản thì chất được hưởng phần di sản mà cha hoặc\nmẹ của chặt được hưởng nêu còn sông.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "652"
+    },
+    "DS:654": {
+      "excerpt": "Điều 654. Quan hệ thừa kế giữa con riêng và bố đượng, mẹ kế\n\nCon riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau\nnhư cha con, mẹ con thì được thừa kế di sản của nhau và còn được thừa kê di\nsản theo quy định tại Điêu 652 và Điêu 653 của Bộ luật này.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "654"
+    },
+    "DS:656": {
+      "excerpt": "Điều 656. Họp mặt những người thừa kế\n\n1. Sau khi có thông báo về việc mở thừa kế hoặc di chúc được công bố,\nnhững người thừa kê có thê họp mặt đê thoả thuận những việc sau đây:\n\na) Cử người quản lý di sản, người phân chia di sản, xác định quyền, nghĩa\nvụ của những người này, nếu người để lại di sản không chỉ định trong di chúc;\n\nb) Cách thức phân chia di sản.\n\n2. Mọi thoả thuận của những người thừa kế phải được lập thành văn bản.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "656"
+    },
+    "DS:658": {
+      "excerpt": "Điều 658. Thứ tự ưu tiên thanh toán\n\nCác nghĩa vụ tài sản và các khoản chỉ phí liên quan đến thừa kế được\nthanh toán theo thứ tự sau đây:\n\n1. Chi phí hợp lý theo tập quán cho việc mai táng;\n\n2. Tiền cấp dưỡng còn thiếu;\n\n3. Chi phí cho việc bảo quản di sản;\n\n4. Tiền trợ cấp cho người sống nương nhờ;\n\n5. Tiền công lao động;\n\n6. Tiền bồi thường thiệt hại;\n\n7. Thuế và các khoản phải nộp khác vào ngân sách nhà nước;\n\n8. Các khoản nợ khác đối với cá nhân, pháp nhân;\n\n9. Tiền phạt;\n\n10. Các chí phí khác.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "658"
+    },
+    "DS:659": {
+      "excerpt": "Điều 659. Phân chia di sẵn theo đi chúc\n\n1. Việc phân chia di sản được thực hiện theo ý chí của người để lại di\nchúc; nếu di chúc không xác định rõ phần của từng người thừa kế thì di sản\nđược chia đều cho những người được chỉ định trong di chúc, trừ trường hợp có\nthoả thuận khác.\n\n2. Trường hợp di chúc xác định phân chia di sản theo hiện vật thì người\nthừa kế được nhận hiện vật kèm theo hoa lợi, lợi tức thu được từ hiện vật đó\nhoặc phải chịu phần giá trị của hiện vật bị giảm sút tính đến thời điểm phân chia\ndi sản; nếu hiện vật bị tiêu huỹ do lỗi của người khác thì người thừa kế có quyền\nyêu cầu bồi thường thiệt hại.\n\n3. Trường hợp di chúc chỉ xác định phân chia đi sản theo tỷ lệ đối với\ntổng giá trị khối đi sản thì tỷ lệ này được tính trên giá trị khối đi sản đang còn\nvào thời điểm phân chia di sản.",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "659"
+    },
+    "DS:660": {
+      "excerpt": "Điều 660. Phân chia di sản theo pháp luật\n\n1. Khi phân chia di sản, nếu có người thừa kế cùng hàng đã thành thai\nnhưng chưa sỉnh ra thì phải dành lại một phần di sản bằng phần mà người thừa\nkế khác được hưởng để nếu người thừa kế đó còn sống khi sinh ra được hưởng;\nnếu chết trước khi sinh ra thì những người thừa kế khác được hưởng.\n\n2. Những người thừa kế có quyền yêu cầu phân chia di sản bằng hiện vật;\nnếu không thể chia đều bằng hiện vật thì những người thừa kế có thể thoả thuận\nvề việc định giá hiện vật và thoả thuận về người nhận hiện vật; nếu không thoả\nthuận được thì hiện vật được bán để chia.\n\n⁄\n\nA©S5\n\n165",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "660"
+    },
+    "DS:661": {
+      "excerpt": "Điều 661. Hạn chế phân chia di sản\n\nTrường hợp theo ý ý chí của người lập di chúc hoặc theo thoả thuận của tất\ncả những người thừa kê, di sản chỉ được phân chia sau một thời hạn nhất định\nthì chỉ khi đã hết thời hạn đó di sản mới được đem chia.\n\nTrường hợp yêu cầu chia di sản thừa kế mà việc chia di sản ảnh hưởng\nnghiêm trọng đến đời sống của bên vợ hoặc chồng còn sống và gia đình thì bên\ncòn sống có quyền yêu cầu Tòa án xác định phần di sản mà những người thừa kế\nđược hưởng nhưng chưa cho chia di sản trong một thời hạn nhất định. Thời hạn\nnày không quá 03 năm, kể từ thời điểm mở thừa kế. Hết thời hạn 03 năm mà bên\ncòn sông chứng minh được việc chia di sản vẫn ảnh hưởng nghiêm trọng đến\nđời sông của gia đình họ thì có quyền yêu cầu Tòa án gia hạn một lần nhưng\nkhông quá 03 năm.",
+      "origin": "reports/completion-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "661"
+    },
+    "DS:662": {
+      "excerpt": "Điều 662. Phân chia di sản trong trường hợp có người thừa kế mới\nhoặc có người thừa kế bị bác bỏ quyền thừa kế\n\n1. Trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì\nkhông thực hiện việc phân chia lại di sản bằng hiện vật, nhưng những người\nthừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiên\ntương ứng với phân đi sản của người đó tại thời điểm chia thừa kế theo tỷ lệ\ntương ứng với phần di sản đã nhận, trừ trường hợp có thoả thuận khác.\n\n2. Trường hợp đã phân chia di sản mà có người thừa kế bị bác bỏ quyền\nthừa kế thì người đó phải trả lại di sản hoặc thanh toán một khoản tiền tương\nđương ` với giá trị di sản được hưởng tại thời điểm chia thừa kế cho những người\nthừa kế, trừ trường hợp có thoả thuận khác.\n\nPHÀN THỨ NĂM\nPHÁP LUẬT ÁP DỤNG ĐÓI VỚI QUAN HỆ ĐÂN SỰ\nCÓ YẾU TÓ NƯỚC NGOÀI\nCHƯƠNG XXV\nQUY ĐỊNH CHUNG",
+      "origin": "reports/inheritance-legal-evidence-2026.json",
+      "url": "https://vanban.chinhphu.vn/?pageid=27160&docid=183188",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "662"
+    },
+    "HN:31": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "31",
+      "excerpt": "Điều 31. Giao dịch liên quan đến nhà là nơi ở duy nhất của vợ chồng\n    Việc xác lập, thực hiện, chấm dứt các giao dịch liên quan đến nhà là nơi ở\nduy nhất của vợ chồng phải có sự thỏa thuận của vợ chồng. Trong trường hợp\nnhà ở thuộc sở hữu riêng của vợ hoặc chồng thì chủ sở hữu có quyền xác lập,\nthực hiện, chấm dứt giao dịch liên quan đến tài sản đó nhưng phải bảo đảm chỗ\nở cho vợ chồng.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:33": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "33",
+      "excerpt": "Điều 33. Tài sản chung của vợ chồng\n    1. Tài sản chung của vợ chồng gồm tài sản do vợ, chồng tạo ra, thu nhập do lao\nđộng, hoạt động sản xuất, kinh doanh, hoa lợi, lợi tức phát sinh từ tài sản riêng và\nthu nhập hợp pháp khác trong thời kỳ hôn nhân, trừ trường hợp được quy định tại\nkhoản 1 Điều 40 của Luật này; tài sản mà vợ chồng được thừa kế chung hoặc được\ntặng cho chung và tài sản khác mà vợ chồng thỏa thuận là tài sản chung.\n    Quyền sử dụng đất mà vợ, chồng có được sau khi kết hôn là tài sản chung của\nvợ chồng, trừ trường hợp vợ hoặc chồng được thừa kế riêng, được tặng cho riêng\nhoặc có được thông qua giao dịch bằng tài sản riêng.\n   2. Tài sản chung của vợ chồng thuộc sở hữu chung hợp nhất, được dùng để bảo\nđảm nhu cầu của gia đình, thực hiện nghĩa vụ chung của vợ chồng.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                          64\n\n     3. Trong trường hợp không có căn cứ để chứng minh tài sản mà vợ, chồng đang\ncó tranh chấp là tài sản riêng của mỗi bên thì tài sản đó được coi là tài sản chung.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:35": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "35",
+      "excerpt": "Điều 35. Chiếm hữu, sử dụng, định đoạt tài sản chung\n    1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.\n   2. Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ\nchồng trong những trường hợp sau đây:\n    a) Bất động sản;\n    b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu;\n    c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:40": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "40",
+      "excerpt": "Điều 40. Hậu quả của việc chia tài sản chung trong thời kỳ hôn nhân\n    1. Trong trường hợp chia tài sản chung của vợ chồng thì phần tài sản được\nchia, hoa lợi, lợi tức phát sinh từ tài sản riêng của mỗi bên sau khi chia tài sản\nchung là tài sản riêng của vợ, chồng, trừ trường hợp vợ chồng có thỏa thuận khác.\nPhần tài sản còn lại không chia vẫn là tài sản chung của vợ chồng.\n   2. Thỏa thuận của vợ chồng quy định tại khoản 1 Điều này không làm thay đổi\nquyền, nghĩa vụ về tài sản được xác lập trước đó giữa vợ, chồng với người thứ ba.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                        66",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:41": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "41",
+      "excerpt": "Điều 41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ\nhôn nhân\n    1. Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa\nthuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận\nđược thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.\n    2. Kể từ ngày thỏa thuận của vợ chồng quy định tại khoản 1 Điều này có\nhiệu lực thì việc xác định tài sản chung, tài sản riêng của vợ chồng được thực\nhiện theo quy định tại Điều 33 và Điều 43 của Luật này. Phần tài sản mà vợ,\nchồng đã được chia vẫn thuộc sở hữu riêng của vợ, chồng, trừ trường hợp vợ\nchồng có thỏa thuận khác.\n    3. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của\nviệc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.\n    4. Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực\nhiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu\nlực của việc chia tài sản chung phải được Tòa án công nhận.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:42": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "42",
+      "excerpt": "Điều 42. Chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu\n    Việc chia tài sản chung trong thời kỳ hôn nhân bị vô hiệu khi thuộc một trong\ncác trường hợp sau đây:\n    1. Ảnh hưởng nghiêm trọng đến lợi ích của gia đình; quyền, lợi ích hợp pháp\ncủa con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc\nkhông có khả năng lao động và không có tài sản để tự nuôi mình;\n    2. Nhằm trốn tránh thực hiện các nghĩa vụ sau đây:\n    a) Nghĩa vụ nuôi dưỡng, cấp dưỡng;\n    b) Nghĩa vụ bồi thường thiệt hại;\n    c) Nghĩa vụ thanh toán khi bị Tòa án tuyên bố phá sản;\n    d) Nghĩa vụ trả nợ cho cá nhân, tổ chức;\n    đ) Nghĩa vụ nộp thuế hoặc nghĩa vụ tài chính khác đối với Nhà nước;\n    e) Nghĩa vụ khác về tài sản theo quy định của Luật này, Bộ luật Dân sự và quy\nđịnh khác của pháp luật có liên quan.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:43": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "43",
+      "excerpt": "Điều 43. Tài sản riêng của vợ, chồng\n     1. Tài sản riêng của vợ, chồng gồm tài sản mà mỗi người có trước khi kết hôn;\ntài sản được thừa kế riêng, được tặng cho riêng trong thời kỳ hôn nhân; tài sản\nđược chia riêng cho vợ, chồng theo quy định tại các điều 38, 39 và 40 của Luật\n\f                   CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                           67\n\nnày; tài sản phục vụ nhu cầu thiết yếu của vợ, chồng và tài sản khác mà theo quy\nđịnh của pháp luật thuộc sở hữu riêng của vợ, chồng.\n    2. Tài sản được hình thành từ tài sản riêng của vợ, chồng cũng là tài sản riêng của\nvợ, chồng. Hoa lợi, lợi tức phát sinh từ tài sản riêng trong thời kỳ hôn nhân được thực\nhiện theo quy định tại khoản 1 Điều 33 và khoản 1 Điều 40 của Luật này.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:44": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "44",
+      "excerpt": "Điều 44. Chiếm hữu, sử dụng, định đoạt tài sản riêng\n   1. Vợ, chồng có quyền chiếm hữu, sử dụng, định đoạt tài sản riêng của mình;\nnhập hoặc không nhập tài sản riêng vào tài sản chung.\n    2. Trong trường hợp vợ hoặc chồng không thể tự mình quản lý tài sản riêng và\ncũng không ủy quyền cho người khác quản lý thì bên kia có quyền quản lý tài sản\nđó. Việc quản lý tài sản phải bảo đảm lợi ích của người có tài sản.\n   3. Nghĩa vụ riêng về tài sản của mỗi người được thanh toán từ tài sản riêng của\nngười đó.\n    4. Trong trường hợp vợ, chồng có tài sản riêng mà hoa lợi, lợi tức từ tài sản\nriêng đó là nguồn sống duy nhất của gia đình thì việc định đoạt tài sản này phải có\nsự đồng ý của chồng, vợ.",
+      "url": "https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf",
+      "origin": "VBHN 121/VBHN-VPQH, bản PDF nguồn chính thức đã tải và trích văn bản trong phiên."
+    },
+    "HN:46": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "46",
+      "excerpt": "Điều 46. Nhập tài sản riêng của vợ, chồng vào tài sản chung\n    1. Việc nhập tài sản riêng của vợ, chồng vào tài sản chung được thực hiện theo\nthỏa thuận của vợ chồng.\n    2. Tài sản được nhập vào tài sản chung mà theo quy định của pháp luật, giao\ndịch liên quan đến tài sản đó phải tuân theo hình thức nhất định thì thỏa thuận phải\nbảo đảm hình thức đó.\n\f                   CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                           68\n\n     3. Nghĩa vụ liên quan đến tài sản riêng đã nhập vào tài sản chung được thực\nhiện bằng tài sản chung, trừ trường hợp vợ chồng có thỏa thuận khác hoặc pháp\nluật có quy định khác.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:66": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "66",
+      "excerpt": "Điều 66. Giải quyết tài sản của vợ chồng trong trường hợp một bên chết\nhoặc bị Tòa án tuyên bố là đã chết\n   1. Khi một bên vợ, chồng chết hoặc bị Tòa án tuyên bố là đã chết thì bên còn\nsống quản lý tài sản chung của vợ chồng, trừ trường hợp trong di chúc có chỉ định\nngười khác quản lý di sản hoặc những người thừa kế thỏa thuận cử người khác\nquản lý di sản.\n    2. Khi có yêu cầu về chia di sản thì tài sản chung của vợ chồng được chia đôi,\ntrừ trường hợp vợ chồng có thỏa thuận về chế độ tài sản. Phần tài sản của vợ,\nchồng chết hoặc bị Tòa án tuyên bố là đã chết được chia theo quy định của pháp\nluật về thừa kế.\n    3. Trong trường hợp việc chia di sản ảnh hưởng nghiêm trọng đến đời sống của\nvợ hoặc chồng còn sống, gia đình thì vợ, chồng còn sống có quyền yêu cầu Tòa án\nhạn chế phân chia di sản theo quy định của Bộ luật Dân sự.\n   4. Tài sản của vợ chồng trong kinh doanh được giải quyết theo quy định tại các\nkhoản 1, 2 và 3 Điều này, trừ trường hợp pháp luật về kinh doanh có quy định khác.\n\f                 CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                       74",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    },
+    "HN:77": {
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+      "article": "77",
+      "excerpt": "Điều 77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành\nniên mất năng lực hành vi dân sự\n     1. Trường hợp cha mẹ hoặc người giám hộ quản lý tài sản riêng của con dưới\n15 tuổi thì có quyền định đoạt tài sản đó vì lợi ích của con, nếu con từ đủ 09 tuổi\ntrở lên thì phải xem xét nguyện vọng của con.\n\f                 CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                      78\n\n    2. Con từ đủ 15 tuổi đến dưới 18 tuổi có quyền định đoạt tài sản riêng, trừ\ntrường hợp tài sản là bất động sản, động sản có đăng ký quyền sở hữu, quyền sử\ndụng hoặc dùng tài sản để kinh doanh thì phải có sự đồng ý bằng văn bản của cha\nmẹ hoặc người giám hộ.\n    3. Trong trường hợp con đã thành niên mất năng lực hành vi dân sự thì việc\nđịnh đoạt tài sản riêng của con do người giám hộ thực hiện.",
+      "origin": "official VBHN 121/2025 PDF",
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm"
+    }
+  },
+  "questions": [
+    {
+      "id": "HARD26-001",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "HN:66",
+        "DS:615",
+        "DS:651",
+        "DS:644"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách khối chung sau nợ đã thống nhất"
+        },
+        {
+          "order": 2,
+          "application": "Tính di sản ròng"
+        },
+        {
+          "order": 3,
+          "application": "Tính suất giả định và phần bắt buộc"
+        }
+      ],
+      "reasoning": "Khối chung ròng 4,8 tỷ, W sở hữu 2,4 tỷ. Di sản ròng của H là 2,4 + 0,6 − 0,3 = 2,7 tỷ. Suất pháp luật giả định 900 triệu; W được hai phần ba, tức 600 triệu. Tổng W 3 tỷ.",
+      "contentSha256": "d6c61ed8e83c058f007ebdd913309d7bec8f50615c9fafe9ea19d4b8a59ef527"
+    },
+    {
+      "id": "HARD26-002",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:643",
+        "DS:650",
+        "DS:651",
+        "DS:652"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Khoanh phần di chúc mất hiệu lực"
+        },
+        {
+          "order": 2,
+          "application": "Chuyển riêng phần đó sang pháp luật"
+        },
+        {
+          "order": 3,
+          "application": "Chia theo nhánh thế vị"
+        }
+      ],
+      "reasoning": "Phần 900 triệu chỉ định B mất hiệu lực và chuyển sang chia theo pháp luật. Nhánh B và C mỗi nhánh 450 triệu; B1, B2 thế vị chia phần nhánh B. Phần X 900 triệu giữ nguyên.",
+      "contentSha256": "7f09b9e443ab6f9446f6a0b23e745a78febbfbaf361ebc11c620a25a83c049f6"
+    },
+    {
+      "id": "HARD26-003",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "HN:66",
+        "DS:619",
+        "DS:651",
+        "DS:652",
+        "DS:654"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách quyền sở hữu vợ chồng"
+        },
+        {
+          "order": 2,
+          "application": "Loại thừa kế giữa người chết đồng thời"
+        },
+        {
+          "order": 3,
+          "application": "Chia từng di sản theo quan hệ và nhánh"
+        }
+      ],
+      "reasoning": "A và B mỗi người có di sản 1,2 tỷ, không thừa kế lẫn nhau. Di sản A đi theo nhánh C, C1 và C2 mỗi người 600 triệu; di sản B thuộc D 1,2 tỷ. Không có căn cứ quan hệ con riêng–cha dượng theo Điều 654.",
+      "contentSha256": "dfc7d9c3fe6e03141a6bdc59d137de9012003b0efb86f629e24faae71b50e376"
+    },
+    {
+      "id": "HARD26-004",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:620",
+        "DS:651",
+        "DS:644"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra từ chối không trốn nghĩa vụ"
+        },
+        {
+          "order": 2,
+          "application": "Xác định người thực nhận nếu chia pháp luật"
+        },
+        {
+          "order": 3,
+          "application": "Áp tỷ lệ bắt buộc cho B"
+        }
+      ],
+      "reasoning": "W từ chối hợp lệ và không thuộc diện nhận phần bắt buộc. Nếu chia pháp luật thì chỉ B và C nhận, mỗi suất 450 triệu; mức của B là 300 triệu. C có khả năng lao động nên không có phần bắt buộc.",
+      "contentSha256": "d97888ee3cc584c31e4d334f9fe7bfbc27a69c5626a9769a5e013294b5f9af03"
+    },
+    {
+      "id": "HARD26-005",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:658",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định nghĩa vụ thuộc di sản"
+        },
+        {
+          "order": 2,
+          "application": "Thanh toán trước khi chia"
+        },
+        {
+          "order": 3,
+          "application": "Chia đều người cùng hàng"
+        }
+      ],
+      "reasoning": "Tổng nghĩa vụ 60 + 90 + 30 + 420 = 600 triệu theo thứ tự Điều 658. Di sản còn 600 triệu chia đều ba người hàng thứ nhất, mỗi người 200 triệu; trách nhiệm nghĩa vụ giới hạn di sản.",
+      "contentSha256": "c578e02579eb8870df859d321b72a1a21b9d0170b7eb05a77382585a4967dde4"
+    },
+    {
+      "id": "HARD26-006",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:651",
+        "DS:658"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định phần mỗi người nhận"
+        },
+        {
+          "order": 2,
+          "application": "Áp trần trách nhiệm sau chia"
+        },
+        {
+          "order": 3,
+          "application": "Không xóa nợ do đã phân chia"
+        }
+      ],
+      "reasoning": "Suất pháp luật của B và C bằng nhau. Sau chia, mỗi người thực hiện nghĩa vụ tương ứng nhưng không vượt 300 triệu đã nhận. Nợ đứng trước phân chia lợi ích; thiếu tài sản không buộc tự bù tiền riêng.",
+      "contentSha256": "5ff436c4c8ea2e6d3017ec30ed955a580413df5503899664aa6fa9bebc998a51"
+    },
+    {
+      "id": "HARD26-007",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "HN:46",
+        "HN:66",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định hiệu lực nhập tài sản riêng"
+        },
+        {
+          "order": 2,
+          "application": "Tách phần sở hữu người còn sống"
+        },
+        {
+          "order": 3,
+          "application": "Chia phần người chết theo hàng"
+        }
+      ],
+      "reasoning": "Nhập chung hợp lệ làm thay đổi tính chất tài sản. Khi A chết, tách W 2 tỷ; di sản A 2 tỷ chia cho W và B mỗi người 1 tỷ. W tổng 3 tỷ.",
+      "contentSha256": "7fe07f36f9975651b6bdd3812f9066b22ffaad3af4ee94beb80353d162eecc57"
+    },
+    {
+      "id": "HARD26-008",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:640",
+        "DS:643",
+        "DS:659"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định phạm vi bản sửa đổi"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra tài sản còn tại mở thừa kế"
+        },
+        {
+          "order": 3,
+          "application": "Không tự quy đổi hiện vật đã mất"
+        }
+      ],
+      "reasoning": "Bản sau cùng thay phần tiền cho B bằng X. Phần nhà trong bản trước không bị sửa nhưng tài sản đã mất toàn bộ tại mở thừa kế nên phần đó không có hiệu lực thực hiện; không có tài sản thay thế theo dữ kiện.",
+      "contentSha256": "a8f589f84a207f7e9b682598da54d0233d0668a08a7c9b604b3b557139133d05"
+    },
+    {
+      "id": "HARD26-009",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:651",
+        "DS:660"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Dùng tổng di sản ròng"
+        },
+        {
+          "order": 2,
+          "application": "Tính suất cùng hàng"
+        },
+        {
+          "order": 3,
+          "application": "Bù chênh lệch hiện vật"
+        }
+      ],
+      "reasoning": "Tổng ròng 1,6 tỷ, mỗi suất 800 triệu. B nhận nhà 1,2 tỷ, vượt 400 triệu; C nhận tiền 400 triệu, thiếu 400 triệu. Điều 660 cho phép thỏa thuận hiện vật và thanh toán chênh lệch.",
+      "contentSha256": "bbe518cdc4fa77ae2b711688025a1c6ef067cc15c9953daca1304958f0d3ad9a"
+    },
+    {
+      "id": "HARD26-010",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:651",
+        "DS:660",
+        "DS:662"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định thêm người cùng hàng"
+        },
+        {
+          "order": 2,
+          "application": "Tính lại suất trên giá lúc chia"
+        },
+        {
+          "order": 3,
+          "application": "Hoàn trả tương ứng bằng tiền"
+        }
+      ],
+      "reasoning": "Ba người cùng hàng có suất 400 triệu theo tổng 1,2 tỷ lúc chia. B và C mỗi người đã nhận vượt 200 triệu; mỗi người thanh toán D 200 triệu, không bắt buộc chia lại hiện vật.",
+      "contentSha256": "978fd4449abeb724532c1bafeb2a00ddcac357da07816a8d44f60fefaad3eda3"
+    },
+    {
+      "id": "HARD26-011",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:645",
+        "DS:615",
+        "DS:658"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra đủ tài sản trả nghĩa vụ"
+        },
+        {
+          "order": 2,
+          "application": "Loại khoản thờ cúng khi không đủ"
+        },
+        {
+          "order": 3,
+          "application": "Áp giới hạn trách nhiệm người hưởng"
+        }
+      ],
+      "reasoning": "Tổng di sản nhỏ hơn nghĩa vụ nên Điều 645 không cho dành phần thờ cúng. Dùng toàn bộ 800 triệu thanh toán; Điều 615 giới hạn trách nhiệm, không tự buộc B bỏ thêm 100 triệu.",
+      "contentSha256": "159f8c0c1e0f406d0aaec73ee8b4a361d7d5ec8925e609a166a3387e1bf0bf7f"
+    },
+    {
+      "id": "HARD26-012",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:646",
+        "DS:615",
+        "DS:658"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "So tổng di sản với tổng nghĩa vụ"
+        },
+        {
+          "order": 2,
+          "application": "Áp ngoại lệ trách nhiệm di tặng"
+        },
+        {
+          "order": 3,
+          "application": "Giữ trần tài sản đã nhận"
+        }
+      ],
+      "reasoning": "Ngoại lệ Điều 646 áp dụng vì toàn di sản 500 triệu nhỏ hơn nợ 650 triệu. Cả phần cho B và phần di tặng X đều tham gia thanh toán; không có cam kết bổ sung nên không tự truy tiền riêng.",
+      "contentSha256": "e933c9ab382f4044397981fc39237f1ff3b150b93992f6cc37d9bf147b6b84a6"
+    },
+    {
+      "id": "HARD26-013",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:651",
+        "DS:644"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Trừ nghĩa vụ trước tính suất"
+        },
+        {
+          "order": 2,
+          "application": "Tính hai phần ba suất pháp luật"
+        },
+        {
+          "order": 3,
+          "application": "Trừ phần đã được di chúc cho"
+        }
+      ],
+      "reasoning": "Di sản ròng 1,2 tỷ; suất giả định 400 triệu; mức bắt buộc 266⅔ triệu. W đã được 100 triệu nên thiếu 166⅔ triệu. B cũng có quyền bắt buộc nhưng đề chỉ hỏi phần bổ sung W.",
+      "contentSha256": "9db6ea771855c253905d3816601432b0a13f8af8548c8a36791a1861044e5cb4"
+    },
+    {
+      "id": "HARD26-014",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:644",
+        "DS:650",
+        "DS:652"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt con với cháu trong phần bắt buộc"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra có phần phải chia pháp luật hay không"
+        },
+        {
+          "order": 3,
+          "application": "Giới hạn cơ chế thế vị"
+        }
+      ],
+      "reasoning": "Nếu chia pháp luật thì có nhánh B thế vị và C. Nhưng toàn di chúc hợp pháp cho X vẫn hiệu lực; B1 là cháu, không thuộc nhóm người bắt buộc nêu tại Điều 644 chỉ dựa vào tuổi.",
+      "contentSha256": "a7e259be4e07d54fb4d996d9911f50a6327a03b060dbe5f78297548b5f97d680"
+    },
+    {
+      "id": "HARD26-015",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:621",
+        "DS:616",
+        "DS:617"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Áp ngoại lệ cho người từng bị loại"
+        },
+        {
+          "order": 2,
+          "application": "Tách quyền hưởng khỏi quyền quản lý"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra đồng ý định đoạt di sản"
+        }
+      ],
+      "reasoning": "Ngoại lệ khoản 2 Điều 621 bảo vệ việc A biết mà vẫn cho B trong di chúc. Quản lý phải theo việc cử/chỉ định; ngay người quản lý cũng không được bán nếu không có đồng ý bằng văn bản của những người thừa kế.",
+      "contentSha256": "58bed44f1831a783145d06517bc2f1e33e9bb9e8d5a3377251e5f7491d066441"
+    },
+    {
+      "id": "HARD26-016",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:625",
+        "DS:630",
+        "DS:632",
+        "DS:634"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra điều kiện tuổi và đồng ý"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt tự viết với nhờ người viết"
+        },
+        {
+          "order": 3,
+          "application": "Không dùng người hưởng lợi để thay chứng kiến hợp lệ"
+        }
+      ],
+      "reasoning": "Người 15 đến dưới 18 tuổi cần văn bản và đồng ý cha mẹ/giám hộ. Vì không tự viết, phải có ít nhất hai người làm chứng theo Điều 634; người được hưởng trong di chúc không được làm chứng theo Điều 632.",
+      "contentSha256": "edc6fcd9dba8f649700df78404a3ad8738aa0a249f635b8d432c0ba702b83806"
+    },
+    {
+      "id": "HARD26-017",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:629",
+        "DS:630",
+        "DS:650",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra hiệu lực ban đầu"
+        },
+        {
+          "order": 2,
+          "application": "Áp mốc hồi phục sau ba tháng"
+        },
+        {
+          "order": 3,
+          "application": "Chuyển sang chia pháp luật"
+        }
+      ],
+      "reasoning": "Di chúc miệng dù đủ thủ tục ban đầu vẫn bị hủy khi sau ba tháng A còn sống, minh mẫn. Không có di chúc khác nên chia pháp luật cho W, B bằng nhau.",
+      "contentSha256": "67c5835e3aa9614138408da43c4dd86b57809150e5c83199ca529ddc1e3ef36f"
+    },
+    {
+      "id": "HARD26-018",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:611",
+        "DS:613",
+        "DS:651",
+        "DS:660"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Chốt thời điểm mở thừa kế"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra thai đã thành và sinh sống"
+        },
+        {
+          "order": 3,
+          "application": "Dành lại suất cùng hàng"
+        }
+      ],
+      "reasoning": "Điều 613 xác định C đủ điều kiện sau khi sinh ra sống. Theo Điều 660 phải dành lại phần bằng người cùng hàng khi còn thai. Khi sinh sống, ba người hàng thứ nhất nhận 300 triệu mỗi người.",
+      "contentSha256": "9388264ac6de812ec03b9ed2798168d4a1d05289afa2872feca1626407c6c7e0"
+    },
+    {
+      "id": "HARD26-019",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:616",
+        "DS:617",
+        "DS:618"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định tư cách quản lý theo di chúc"
+        },
+        {
+          "order": 2,
+          "application": "Tách chi phí khỏi thù lao"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra đồng ý định đoạt bằng văn bản"
+        }
+      ],
+      "reasoning": "Quyền quản lý theo Điều 616 bị giới hạn bởi Điều 617 khi định đoạt. Điều 618 cho thanh toán chi phí bảo quản và thù lao thỏa thuận; nếu không thỏa thuận được, thù lao hợp lý, không tự lấy mức 10%.",
+      "contentSha256": "8a60e134e9cad546a9b79a666edb3e012c8380e7871fdbd5186a8bc5510645e1"
+    },
+    {
+      "id": "HARD26-020",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:66",
+        "DS:643",
+        "CC:59"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách phần sở hữu khỏi di sản"
+        },
+        {
+          "order": 2,
+          "application": "Áp hiệu lực di chúc đối với phần A"
+        },
+        {
+          "order": 3,
+          "application": "Giữ thủ tục niêm yết dù chỉ một người hưởng"
+        }
+      ],
+      "reasoning": "Điều 66 tách quyền sở hữu W khỏi phần A. Di chúc quyết định người nhận phần A, không làm cả nhà thành di sản. Điều 59 vẫn yêu cầu kiểm tra quyền, hồ sơ và niêm yết khi chỉ có một người thừa kế.",
+      "contentSha256": "62e3383fb73692f94b42ced532861e8625ba8bad6eb00997fb549dd1bbfe5243"
+    },
+    {
+      "id": "HARD26-021",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "HN:33",
+        "HN:35",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định tính chung thay vì chỉ nhìn tên"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra đồng ý định đoạt của cả vợ chồng"
+        },
+        {
+          "order": 3,
+          "application": "Đối chiếu phạm vi đại diện và hồ sơ"
+        }
+      ],
+      "reasoning": "Không chứng minh riêng thì tài sản có tranh chấp được coi chung theo Điều 33. Định đoạt bất động sản chung cần thỏa thuận bằng văn bản Điều 35. K chỉ hành động trong phạm vi ủy quyền; công chứng viên phải làm rõ quyền và hồ sơ.",
+      "contentSha256": "2c850269c31998913d1a28314dfea25887f455f06b111e120df8a11b4d6f82f8"
+    },
+    {
+      "id": "HARD26-022",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "HN:43",
+        "HN:31",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Giữ nguồn gốc riêng của nhà"
+        },
+        {
+          "order": 2,
+          "application": "Áp điều kiện nhà ở duy nhất"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra quyền ký đại diện"
+        }
+      ],
+      "reasoning": "Điều 43 giữ tính riêng; Điều 31 cho chủ riêng giao dịch nhà duy nhất nhưng phải bảo đảm chỗ ở cho vợ chồng. Điều 141 giới hạn K vào quyền được ủy; người đại diện không làm mất điều kiện gắn với chủ tài sản.",
+      "contentSha256": "9faeefe119a64f532ac229c42127b14294eb9af9b065927218ebf9b54fc184c9"
+    },
+    {
+      "id": "HARD26-023",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "HN:46",
+        "HN:35",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định hệ quả nhập chung"
+        },
+        {
+          "order": 2,
+          "application": "Áp điều kiện thế chấp tài sản chung"
+        },
+        {
+          "order": 3,
+          "application": "Không mở rộng ủy quyền một người sang người kia"
+        }
+      ],
+      "reasoning": "Điều 46 điều chỉnh việc nhập riêng vào chung. Tài sản chung là bất động sản được định đoạt theo thỏa thuận bằng văn bản Điều 35; quyền K xuất phát từ A không tự bao trùm quyền W.",
+      "contentSha256": "467a7cee49ec83cadbc94ece98b8b2e85645f019473aa99da235fbb340504c7d"
+    },
+    {
+      "id": "HARD26-024",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "HN:40",
+        "HN:42",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Giữ nghĩa vụ với chủ nợ có trước"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt có nợ và mục đích trốn nợ"
+        },
+        {
+          "order": 3,
+          "application": "Giới hạn hiệu lực tuyên bố đại diện"
+        }
+      ],
+      "reasoning": "Điều 40 bảo toàn quyền, nghĩa vụ với bên thứ ba phát sinh trước chia. Chỉ khi chia nhằm trốn nợ mới thuộc Điều 42; dữ kiện chưa xác định mục đích đó. Đại diện theo Điều 141 không tạo quyền đơn phương sửa nghĩa vụ của chủ nợ.",
+      "contentSha256": "d6b8b04f182bb2568a6172fb555277d371047bf54f73bbad1c9a87c00000467e"
+    },
+    {
+      "id": "HARD26-025",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "HN:41",
+        "HN:31",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra phần đã chia có nhập lại không"
+        },
+        {
+          "order": 2,
+          "application": "Áp điều kiện nhà ở duy nhất"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra quyền đại diện hiện còn"
+        }
+      ],
+      "reasoning": "Điều 41 không tự nhập lại phần đã chia. Nhà riêng là nơi ở duy nhất vẫn chịu Điều 31; K chỉ thực hiện quyền bán trong phạm vi Điều 141.",
+      "contentSha256": "f0a13f4279b40f4904a6dcfb19699455558a4a56a005afefd079eaf96c955d1a"
+    },
+    {
+      "id": "HARD26-026",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "HN:43",
+        "HN:33",
+        "HN:44",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách tài sản gốc khỏi lợi tức"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra điều kiện nguồn sống duy nhất"
+        },
+        {
+          "order": 3,
+          "application": "Giữ điều kiện định đoạt khi ký qua đại diện"
+        }
+      ],
+      "reasoning": "Tài sản gốc riêng theo Điều 43; lợi tức trong hôn nhân xét Điều 33. Khi là nguồn sống duy nhất, Điều 44 yêu cầu đồng ý người kia khi định đoạt. Đại diện không làm mất điều kiện của chủ tài sản.",
+      "contentSha256": "71e1a198ac510d4e3c353d8c759a750cc31da145169e69416770208bfde43e9e"
+    },
+    {
+      "id": "HARD26-027",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "HN:35",
+        "DS:564",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Đọc quyền cả chủ đã cấp"
+        },
+        {
+          "order": 2,
+          "application": "Giới hạn chuỗi ủy quyền lại"
+        },
+        {
+          "order": 3,
+          "application": "Đối chiếu giao dịch bán với quyền cho thuê"
+        }
+      ],
+      "reasoning": "Điều 35 được đáp ứng cho việc ủy quyền cho thuê, không phải bán. Điều 564 giới hạn ủy quyền lại trong phạm vi gốc và đúng hình thức; Điều 141 buộc T theo quyền thực được cấp.",
+      "contentSha256": "cee838c1a44b5dc0ae116489274d322dd55c5c8c9dd50a06e1bbb68fcdbe5bd3"
+    },
+    {
+      "id": "HARD26-028",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:563",
+        "DS:140",
+        "DS:328"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định thời hạn mặc định"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra đại diện còn lúc nhận cọc"
+        },
+        {
+          "order": 3,
+          "application": "Không áp phạt cọc trước khi xác định chủ thể bị ràng buộc"
+        }
+      ],
+      "reasoning": "Điều 563 cho thời hạn mặc định một năm; Điều 140 chấm dứt đại diện khi hết thời hạn. Biện pháp cọc Điều 328 không tự khắc phục việc đại diện đã hết; chưa có căn cứ ràng buộc A theo dữ kiện.",
+      "contentSha256": "21e57c29a6a0f89b25e1c01e546258f6adfb7c3dd89939f4804cccbbb0fef2dd"
+    },
+    {
+      "id": "HARD26-029",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:141",
+        "DS:143",
+        "DS:328"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định phần vượt giá"
+        },
+        {
+          "order": 2,
+          "application": "Áp chấp thuận của chủ"
+        },
+        {
+          "order": 3,
+          "application": "Xử lý hậu quả cọc sau khi xác định bên bị ràng buộc"
+        }
+      ],
+      "reasoning": "Phạm vi Điều 141 ban đầu bị vượt, nhưng Điều 143 cho ràng buộc khi A đồng ý. Sau khi được chấp thuận, bên nhận cọc từ chối thực hiện chịu trả lại cọc và khoản tương đương, trừ thỏa thuận khác.",
+      "contentSha256": "d6db96f87288474a338d173b1fc40bccf27ad977c33e75961c76030952763e08"
+    },
+    {
+      "id": "HARD26-030",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "CC:57",
+        "DS:564",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Hoàn tất hợp đồng gốc tại hai tổ chức"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra điều kiện ủy quyền lại"
+        },
+        {
+          "order": 3,
+          "application": "Giữ phạm vi và hình thức ban đầu"
+        }
+      ],
+      "reasoning": "Điều 57 yêu cầu bản gốc và hoàn thành việc công chứng tại hai tổ chức. Quyền K còn phải được xác lập trước khi xét quyền T; Điều 564 và Điều 141 giới hạn phạm vi, hình thức của ủy quyền lại.",
+      "contentSha256": "5a3636045f0e098ef1dc5fbc3c41e90e10f93ccd9e57cfd63f1f84d71847e55d"
+    },
+    {
+      "id": "HARD26-031",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "HN:35",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra quyền của chủ chung"
+        },
+        {
+          "order": 2,
+          "application": "Phát hiện đại diện cả hai phía"
+        },
+        {
+          "order": 3,
+          "application": "Yêu cầu điều chỉnh người ký trước công chứng"
+        }
+      ],
+      "reasoning": "Điều 35 đáp ứng quyền vợ chồng định đoạt nhưng Điều 141 khoản 3 vẫn không cho K đại diện cả hai bên trong trường hợp không có ngoại lệ. Điều 42 buộc làm rõ và sửa nội dung, cách tham gia trái pháp luật trước công chứng.",
+      "contentSha256": "e3efcd0799cbdc786901427e357ed66ddf077356ea6cc6c8f60b5bb29fba3733"
+    },
+    {
+      "id": "HARD26-032",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:569",
+        "DS:140",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra chấm dứt và nghĩa vụ nội bộ"
+        },
+        {
+          "order": 2,
+          "application": "Đánh giá thông báo người thứ ba"
+        },
+        {
+          "order": 3,
+          "application": "Áp ngoại lệ hiệu lực giao dịch đúng phạm vi cũ"
+        }
+      ],
+      "reasoning": "Điều 569 cho A chấm dứt có thù lao nhưng phải thanh toán và bồi thường; đồng thời thông báo bằng văn bản người thứ ba. Chưa thông báo, B không biết và không phải biết, giao dịch vẫn hiệu lực theo ngoại lệ riêng dù đại diện đã chấm dứt giữa A–K.",
+      "contentSha256": "303fa4c71c856599f280b78ce5d7999847c0f960e860d6110d18a22880e59e56"
+    },
+    {
+      "id": "HARD26-033",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:59",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phát hiện tự giao dịch của đại diện"
+        },
+        {
+          "order": 2,
+          "application": "Áp ngoại lệ quản lý tài sản giám hộ"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra lợi ích và đồng ý trước chứng nhận"
+        }
+      ],
+      "reasoning": "Điều 141 có ngoại lệ nếu luật khác quy định. Điều 59 quy định giao dịch giám hộ với người được giám hộ thường vô hiệu nhưng có ngoại lệ vì lợi ích người được giám hộ và có đồng ý của người giám sát. Điều 42 vẫn đòi làm rõ hồ sơ, không tự suy ra hợp lệ từ giá.",
+      "contentSha256": "3b4b0749c7bfa1f268fc0a795e0bcabda26c53e302d931f45376ed42228d59b6"
+    },
+    {
+      "id": "HARD26-034",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:22",
+        "DS:59",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra chế độ đại diện do mất năng lực"
+        },
+        {
+          "order": 2,
+          "application": "Áp giới hạn tặng tài sản người được giám hộ"
+        },
+        {
+          "order": 3,
+          "application": "Từ chối nội dung trái luật nếu không điều chỉnh"
+        }
+      ],
+      "reasoning": "Điều 22 đặt đại diện qua giám hộ khi quyết định còn hiệu lực. Điều 59 cấm đem tài sản người được giám hộ tặng người khác; đồng ý giám sát dùng cho các trường hợp khác không xóa điều cấm này. Công chứng theo Điều 42 không chứng nhận nội dung không sửa.",
+      "contentSha256": "f97c2b2985e6537fc34a868122229c028edb0bd55e16a4deddb2c0e815adcdc7"
+    },
+    {
+      "id": "HARD26-035",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:21",
+        "HN:77",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định người thực hiện giao dịch của trẻ"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra lợi ích và nguyện vọng con"
+        },
+        {
+          "order": 3,
+          "application": "Xử lý xung đột đại diện bên mua"
+        }
+      ],
+      "reasoning": "Điều 21 đặt cơ chế đại diện cho M. Điều 77 yêu cầu định đoạt vì lợi ích con và xem xét nguyện vọng khi từ đủ 9 tuổi. Điều 141 không cho cha đồng thời đại diện đối tác trong dữ kiện không có ngoại lệ.",
+      "contentSha256": "be8d656abdb3cc9f06c1b0bd0892df4021522898681e19b073de0d1ef987b252"
+    },
+    {
+      "id": "HARD26-036",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:21",
+        "HN:77",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt quản lý với định đoạt"
+        },
+        {
+          "order": 2,
+          "application": "Áp ngoại lệ bất động sản của người 17 tuổi"
+        },
+        {
+          "order": 3,
+          "application": "Không dùng đại diện để vượt điều kiện của chủ thể"
+        }
+      ],
+      "reasoning": "Người 15 đến dưới 18 tuổi được tự giao dịch nhưng bất động sản cần đồng ý người đại diện. Điều 77 cũng đặt điều kiện với bất động sản con từ đủ 15 tuổi. K thực hiện phạm vi quyền của M, không dùng tuổi K để bỏ điều kiện.",
+      "contentSha256": "618af7d012f76fc3510cce0f727e17b82728929cbab9c9a85fc4f4cf380605ea"
+    },
+    {
+      "id": "HARD26-037",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:22",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra quyết định năng lực còn hiệu lực"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt chứng cứ y khoa với quyết định pháp lý"
+        },
+        {
+          "order": 3,
+          "application": "Xác định khả năng cấp ủy quyền trước ký"
+        }
+      ],
+      "reasoning": "Điều 22 đòi Tòa án hủy quyết định khi không còn căn cứ. Điều 141 về phạm vi đại diện không cho dùng giấy bác sĩ làm thay quyết định pháp lý. Công chứng phải làm rõ năng lực.",
+      "contentSha256": "888c79fb414dd8900320822e727fd9a9d54a88f69301bd57de3695f04994d442"
+    },
+    {
+      "id": "HARD26-038",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:124",
+        "DS:132",
+        "DS:117"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt vỏ giả tạo và giao dịch thật"
+        },
+        {
+          "order": 2,
+          "application": "Chọn đúng chế độ thời hiệu"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra độc lập điều kiện giao dịch bị che giấu"
+        }
+      ],
+      "reasoning": "Điều 124 phân biệt giao dịch giả tạo với giao dịch bị che giấu. Điều 132 không hạn chế thời hiệu cho giả tạo. Điều 117 dùng để xét điều kiện độc lập của mua bán; dữ kiện cho đủ nên không tự vô hiệu theo tặng cho.",
+      "contentSha256": "4d0ebc81b66c1af69a08ce02d3062ba81584e5af5e5a11f8ac54b47515f5b3e2"
+    },
+    {
+      "id": "HARD26-039",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:129",
+        "DS:117",
+        "DS:132"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Khoanh loại lỗi hình thức"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra điều kiện nội dung độc lập"
+        },
+        {
+          "order": 3,
+          "application": "Không áp nhầm thời hiệu hai năm"
+        }
+      ],
+      "reasoning": "Điều 129 cho cơ chế công nhận khi lỗi hình thức và đủ mức thực hiện, không phủ nhận điều kiện nội dung Điều 117. Điều 132 phân biệt thời hiệu vi phạm điều cấm; không dùng mốc thực hiện hoặc thời gian để tự hợp thức nội dung cấm.",
+      "contentSha256": "25951d4fedcf36ae06d35654e8dc58c03188a0730c607807759fd9ed8b38e0b4"
+    },
+    {
+      "id": "HARD26-040",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:126",
+        "CC:52",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Đánh giá nhầm lẫn còn làm mục đích thất bại không"
+        },
+        {
+          "order": 2,
+          "application": "Phân loại đổi giá thành nội dung"
+        },
+        {
+          "order": 3,
+          "application": "Áp thủ tục sửa đổi thay vì sửa kỹ thuật"
+        }
+      ],
+      "reasoning": "Điều 126 không cho yêu cầu vô hiệu vì nhầm lẫn khi đã khắc phục và đạt mục đích. Điều 52 chỉ dùng lỗi kỹ thuật không ảnh hưởng quyền nghĩa vụ; thay giá đúng thỏa thuận cũ là sửa nội dung theo Điều 53, cần đồng ý các bên.",
+      "contentSha256": "11b038bb400b9678056a5245ef7435a61e4e5495c86cff35c8a3c23ddd0364df"
+    },
+    {
+      "id": "HARD26-041",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:295",
+        "HN:35",
+        "CC:56"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra điều kiện tài sản bảo đảm"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra đồng ý của chủ chung"
+        },
+        {
+          "order": 3,
+          "application": "Chọn đúng tổ chức công chứng thế chấp tiếp"
+        }
+      ],
+      "reasoning": "Điều 295 xét điều kiện tài sản bảo đảm; Điều 35 xét định đoạt tài sản chung. Điều 56 đặt yêu cầu tổ chức công chứng hợp đồng thế chấp tiếp là nơi đã công chứng trước, còn hoạt động là X.",
+      "contentSha256": "f28986345a0ad9ad5abe1d4f79c9ad697507e322d111083ba07e22b7f90505e6"
+    },
+    {
+      "id": "HARD26-042",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:321",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân loại thuê và tặng riêng"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra thông báo so với đồng ý bên nhận thế chấp"
+        },
+        {
+          "order": 3,
+          "application": "Giữ giới hạn khi chủ ký qua đại diện"
+        }
+      ],
+      "reasoning": "Điều 321 phân biệt cho thuê với bán, trao đổi, tặng tài sản thế chấp loại này. Thông báo đáp ứng nhánh thuê, không thay đồng ý của M đối với tặng; K theo Điều 141 chỉ có quyền thực hiện trong giới hạn luật. Công chứng phải làm rõ điều kiện.",
+      "contentSha256": "97d76f2ca1237a9f6b474132df067d45272ad58316f8a71fcfb776348163df46"
+    },
+    {
+      "id": "HARD26-043",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:336",
+        "DS:339",
+        "DS:293"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Đọc phạm vi loại trừ lãi phạt"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra đã đến hạn và không trả"
+        },
+        {
+          "order": 3,
+          "application": "Lấy nghĩa vụ thực tế trong trần"
+        }
+      ],
+      "reasoning": "Điều 336 cho giới hạn bảo lãnh và thỏa thuận loại khoản phụ. Điều 339 cho yêu cầu khi đến hạn A không thực hiện, không cần mất khả năng nếu không thỏa thuận. Phạm vi bảo đảm Điều 293 không vượt nghĩa vụ gốc thực tế 250 triệu.",
+      "contentSha256": "96941aea500bd702c96a373c97a3774b00cda34ce69229af4ab473b8ab4f70fe"
+    },
+    {
+      "id": "HARD26-044",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:336",
+        "DS:339",
+        "DS:293"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách phạm vi khỏi thời điểm yêu cầu"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra nợ đã đến hạn chưa"
+        },
+        {
+          "order": 3,
+          "application": "Xét khả năng bù trừ theo dữ kiện"
+        }
+      ],
+      "reasoning": "Điều 336 xác định phạm vi chứ không làm nợ đến hạn sớm. Điều 339 cấm đòi G khi nghĩa vụ chưa đến hạn và có ngoại lệ nếu chủ nợ có thể bù trừ với A. Điều 293 giữ phạm vi gắn nghĩa vụ được bảo đảm.",
+      "contentSha256": "5f64562c051e91fb40035d76ef8df9cca98723ef91b55dddcda440f9af83c676"
+    },
+    {
+      "id": "HARD26-045",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:141",
+        "DS:143",
+        "DS:328"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách khoản tiền theo mục đích"
+        },
+        {
+          "order": 2,
+          "application": "Xác định phần đại diện ràng buộc A"
+        },
+        {
+          "order": 3,
+          "application": "Tính hậu quả đúng khoản cọc"
+        }
+      ],
+      "reasoning": "Điều 141 và 143 tách khoản 100 triệu đúng quyền khỏi 200 triệu ngoài quyền mà B biết. Điều 328 chỉ áp hậu quả cọc cho khoản được xác định là cọc, không tự nhân đôi trả trước. Đề chỉ hỏi nghĩa vụ cọc A, không phán quyết mọi tranh chấp K–B.",
+      "contentSha256": "0e859fc47382625abda60215bb55d6fc8815ac7debe5610da84c010f8324dd5c"
+    },
+    {
+      "id": "HARD26-046",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "DS:329",
+        "DS:346",
+        "DS:347"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt mất máy với máy chưa trả"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra điều kiện cầm giữ của xưởng"
+        },
+        {
+          "order": 3,
+          "application": "Không suy quyền bán từ quyền giữ"
+        }
+      ],
+      "reasoning": "Điều 329 chưa chuyển ký cược thành của L khi máy vẫn còn. Điều 346 và 347 cho cầm giữ khi bên có quyền đang nắm giữ hợp pháp đối tượng hợp đồng song vụ và nghĩa vụ đến hạn chưa được thực hiện; không tự có quyền bán.",
+      "contentSha256": "a2e024ea24d718588e5d826ad29c04c164854e9de12e0301ab75af5a7b250e5c"
+    },
+    {
+      "id": "HARD26-047",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:293",
+        "DS:295",
+        "DS:303"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tính nghĩa vụ gồm khoản phụ"
+        },
+        {
+          "order": 2,
+          "application": "Tách giá trị tài sản khỏi số nợ"
+        },
+        {
+          "order": 3,
+          "application": "Chọn phương thức mặc định khi thiếu thỏa thuận"
+        }
+      ],
+      "reasoning": "Điều 293 quy định nghĩa vụ gồm khoản phụ khi không loại trừ; Điều 295 không đồng nhất giá tài sản với nghĩa vụ. Điều 303 mặc định bán đấu giá khi không thỏa thuận phương thức, khác nhận tài sản thay thực hiện nghĩa vụ.",
+      "contentSha256": "d1f1a6b1f7572e5ae80629550c0752eeb37fb3fbef0158ed669c798bdf04cf49"
+    },
+    {
+      "id": "HARD26-048",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:417",
+        "CC:53",
+        "DS:117"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra đồng ý các bên gốc"
+        },
+        {
+          "order": 2,
+          "application": "Xác định người thứ ba đã nhận lợi ích"
+        },
+        {
+          "order": 3,
+          "application": "Áp điều kiện nội dung sửa theo luật dân sự"
+        }
+      ],
+      "reasoning": "Điều 53 yêu cầu đồng ý người đã tham gia nhưng không loại điều kiện riêng của Điều 417. C đã đồng ý hưởng nên dù chưa thực hiện, phải có sự đồng ý C khi sửa giảm. Điều 117 vẫn xét điều kiện hợp pháp của nội dung sửa.",
+      "contentSha256": "42a4e3722c06f4a39868c0689d08d6fb192ca2b0f7975c3c273d0acb49379bc2"
+    },
+    {
+      "id": "HARD26-049",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "CC:52",
+        "CC:53",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt lỗi sao chép với thay đổi giá"
+        },
+        {
+          "order": 2,
+          "application": "Chọn tổ chức giữ hồ sơ sau giải thể"
+        },
+        {
+          "order": 3,
+          "application": "Áp đúng thủ tục cho từng yêu cầu"
+        }
+      ],
+      "reasoning": "Điều 52 giới hạn lỗi kỹ thuật và cho tổ chức lưu hồ sơ xử lý khi X không còn. Điều 53 điều chỉnh thay giá là sửa nội dung. Điều 42 áp dụng quy trình kiểm tra, ký cho văn bản sửa theo yêu cầu luật.",
+      "contentSha256": "51169cee31d8e472d3954802306acb7d40a7333f9d1b2f087e4a10be0112f903"
+    },
+    {
+      "id": "HARD26-050",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:640",
+        "CC:58",
+        "CC:44"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định quyền tự sửa di chúc"
+        },
+        {
+          "order": 2,
+          "application": "Áp ngoại lệ địa hạt di chúc"
+        },
+        {
+          "order": 3,
+          "application": "Thông báo nơi đang lưu giữ bản cũ"
+        }
+      ],
+      "reasoning": "Điều 640 cho A tự sửa; Điều 58 cho công chứng sửa tại bất kỳ tổ chức hành nghề và yêu cầu thông báo nơi giữ bản cũ. Điều 44 loại di chúc khỏi giới hạn địa hạt bất động sản.",
+      "contentSha256": "eca21f55814f1e900cd4ba21bf023835321d74721359fee35da53ba06dcc7556"
+    },
+    {
+      "id": "HARD26-051",
+      "answerKey": [
+        "B"
+      ],
+      "evidenceKeys": [
+        "CC:46",
+        "CC:49",
+        "CC:58"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định căn cứ ngoài trụ sở"
+        },
+        {
+          "order": 2,
+          "application": "Chọn nhân chứng không hưởng lợi"
+        },
+        {
+          "order": 3,
+          "application": "Giữ hành vi lập di chúc của chính A"
+        }
+      ],
+      "reasoning": "Điều 46 cho ngoài trụ sở khi điều trị nội trú. Điều 49 yêu cầu người làm chứng do A không đọc được và loại người có quyền lợi liên quan. Điều 58 yêu cầu chính người lập di chúc, không dùng con làm thay.",
+      "contentSha256": "0b27d0ba09f96aa751135d4aa58b35b68a1c34cd8b70f520b7a5e524b69be490"
+    },
+    {
+      "id": "HARD26-052",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "CC:58",
+        "DS:630",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Áp ngoại lệ thiếu giấy trong khẩn cấp"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra mốc bổ sung sau hồi phục"
+        },
+        {
+          "order": 3,
+          "application": "Xét độc lập hồ sơ và ý chí của văn bản tiếp theo"
+        }
+      ],
+      "reasoning": "Điều 58 cho xử lý khẩn cấp nhưng sau ba tháng còn sống không nguy hiểm phải bổ sung, nếu không văn bản công chứng không có hiệu lực. Điều 630 vẫn yêu cầu minh mẫn, tự nguyện cho việc lập; Điều 42 kiểm tra hồ sơ của việc công chứng tiếp theo. Không suy mọi hình thức di chúc đều vô hiệu.",
+      "contentSha256": "fdf6e21758a1b5791477ef6aca81a72e130b99205196732598f8da7289c5a4fb"
+    },
+    {
+      "id": "HARD26-053",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "CC:61",
+        "DS:640",
+        "CC:58"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt di chúc gửi giữ với hồ sơ chung"
+        },
+        {
+          "order": 2,
+          "application": "Chọn nhánh liên hệ được nhưng không thỏa thuận"
+        },
+        {
+          "order": 3,
+          "application": "Giữ quyền sửa của người lập"
+        }
+      ],
+      "reasoning": "Điều 61 tách di chúc gửi giữ khỏi chuyển hồ sơ chung: liên hệ được nhưng không thống nhất thì trả di chúc và phí. Điều 640 cho người lập sửa; Điều 58 cho tổ chức khác công chứng khi cần.",
+      "contentSha256": "ad3d38d9c33fc97f109226790d579e9858ed7281a40d450da7d2b91da0c9794d"
+    },
+    {
+      "id": "HARD26-054",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:42",
+        "HN:33",
+        "HN:35"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định giấy có thể khai thác thay nộp"
+        },
+        {
+          "order": 2,
+          "application": "Đánh giá nguồn hình thành tài sản"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra người phải đồng ý định đoạt"
+        }
+      ],
+      "reasoning": "Điều 42 cho ngoại lệ một số giấy đã khai thác hợp lệ, vẫn đòi làm rõ quyền. Điều 33 xét nguồn hình thành và suy đoán chung khi không chứng minh riêng; Điều 35 đòi thỏa thuận bằng văn bản đối với bất động sản chung.",
+      "contentSha256": "9343a6129367436f4673fac39b1aa5574b42186336be751f5f62c94b5691b7be"
+    },
+    {
+      "id": "HARD26-055",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "CC:45",
+        "CC:59",
+        "DS:656"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách thời gian nghiệp vụ và thủ tục loại trừ"
+        },
+        {
+          "order": 2,
+          "application": "Áp hạn hồ sơ phức tạp"
+        },
+        {
+          "order": 3,
+          "application": "Giữ điều kiện xác nhận niêm yết trước ký"
+        }
+      ],
+      "reasoning": "Điều 45 tính từ hồ sơ hợp lệ ghi sổ và loại thời gian niêm yết, xác minh. Với phức tạp, 8 ngày nghiệp vụ chưa quá 10; Điều 59 đòi xác nhận hoàn tất niêm yết và không nhận khiếu nại liên quan. Việc đồng ý chia theo Điều 656 không thay thủ tục.",
+      "contentSha256": "d708c83f3b10c6d9dbd3f4ec75182e2b4499cfde6e3200be12a2aa904c2e1538"
+    },
+    {
+      "id": "HARD26-056",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:637",
+        "CC:9",
+        "CC:58"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra quan hệ lợi ích người công chứng"
+        },
+        {
+          "order": 2,
+          "application": "Không dùng nhân chứng thay điều kiện chủ thể"
+        },
+        {
+          "order": 3,
+          "application": "Chọn người công chứng phù hợp cho yêu cầu trực tiếp"
+        }
+      ],
+      "reasoning": "Điều 637 cấm K trong quan hệ con là người thừa kế theo di chúc. Điều 9 về xung đột lợi ích và Điều 58 về trực tiếp lập không thể được thay bằng kỹ thuật chứng kiến, điểm chỉ. A có thể yêu cầu người đủ điều kiện khác.",
+      "contentSha256": "90b8c79fe9924c7ec5213e06eba9c6342fbf7dee97e576ec57b323421df5dd06"
+    },
+    {
+      "id": "HARD26-057",
+      "answerKey": [
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:52",
+        "CC:53",
+        "CC:57"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân loại lỗi và thay quyền"
+        },
+        {
+          "order": 2,
+          "application": "Áp thông báo sửa kỹ thuật cho tổ chức còn lại"
+        },
+        {
+          "order": 3,
+          "application": "Chọn cơ chế công chứng sửa hợp đồng hai nơi"
+        }
+      ],
+      "reasoning": "Điều 52 chỉ áp dụng lỗi không đổi quyền nghĩa vụ. Điều 57 quy định thông báo tổ chức còn lại trong ba ngày làm việc sau sửa lỗi; sửa quyền phải theo Điều 53 và cơ chế hai tổ chức hoặc cùng đến một trong hai theo Điều 57.",
+      "contentSha256": "5063c3d3af5b91125ebe795f6f53b9d612988a54ec1956d5f681ea998c224a81"
+    },
+    {
+      "id": "HARD26-058",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "CC:64",
+        "DS:140",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Chốt thời điểm đại diện còn hay hết"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra người ký đúng phạm vi"
+        },
+        {
+          "order": 3,
+          "application": "Tách mốc chữ ký số khỏi hiệu lực giao dịch đại diện"
+        }
+      ],
+      "reasoning": "Điều 64 xác định điều kiện chữ ký số văn bản công chứng; không thay điều kiện nội dung và người ký. Điều 140,141 cho thấy K không còn quyền lúc 09:00; đủ lớp chữ ký sau đó không tự ràng buộc A.",
+      "contentSha256": "6dda8ddf59e4e465906b120f1446a7a55cd53f20e836d9e5b5f157f74e80b1df"
+    },
+    {
+      "id": "HARD26-059",
+      "answerKey": [
+        "A"
+      ],
+      "evidenceKeys": [
+        "CC:49",
+        "CC:50",
+        "CC:51"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt nhân chứng và người đại diện"
+        },
+        {
+          "order": 2,
+          "application": "Thực hiện chữ ký của chính người tham gia"
+        },
+        {
+          "order": 3,
+          "application": "Áp cả yêu cầu trang và tờ"
+        }
+      ],
+      "reasoning": "Điều 49 yêu cầu người làm chứng nhưng không trao quyền ký thay chủ thể. Điều 50 áp dụng ký trước công chứng viên từng trang theo trường hợp; Điều 51 đặt số trang liên tục và giáp lai hai tờ.",
+      "contentSha256": "a525a0e5e0b08c4c449f68b27d7992729b5f48a09a8e79b67592b060c16fa8d1"
+    },
+    {
+      "id": "HARD26-060",
+      "answerKey": [
+        "C"
+      ],
+      "evidenceKeys": [
+        "CC:59",
+        "CC:54",
+        "DS:662"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra người bị bỏ sót có quyền hưởng"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt yêu cầu Tòa án với tự hủy văn bản"
+        },
+        {
+          "order": 3,
+          "application": "Áp cơ chế người thừa kế mới khi xác định phần"
+        }
+      ],
+      "reasoning": "Điều 59 đặt trách nhiệm kiểm tra người thừa kế; khi có tranh chấp sau đó, Điều 54 cho người liên quan yêu cầu Tòa án tuyên vô hiệu. Điều 662 giải quyết phần người thừa kế mới, không tự chuyển toàn nhà hoặc loại người hưởng trước.",
+      "contentSha256": "5a7f605beb5edb185967e3b3346597cf7ade03529ee579802500ed85507b0b70"
+    },
+    {
+      "id": "HARD26-061",
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "HN:33",
+        "HN:35",
+        "DS:141",
+        "DS:328"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định nhà chung"
+        },
+        {
+          "order": 2,
+          "application": "Xác định quyền đại diện từng chủ"
+        },
+        {
+          "order": 3,
+          "application": "Xác định chủ thể chịu hậu quả cọc"
+        }
+      ],
+      "reasoning": "Điều 33,35 yêu cầu xét tài sản chung và đồng ý định đoạt. Điều 141 không mở rộng quyền A thành quyền W. Điều 328 chỉ được áp sau khi xác định chủ thể của giao dịch cọc.",
+      "contentSha256": "e3843798f2512e366399720160d13609161ca948371241feab0032c5ad565103"
+    },
+    {
+      "id": "HARD26-062",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:46",
+        "HN:42",
+        "DS:141",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định hệ quả nhập chung"
+        },
+        {
+          "order": 2,
+          "application": "Đánh giá mục đích trốn bồi thường"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra quyền bán sau việc chia"
+        }
+      ],
+      "reasoning": "Phải đi theo chuỗi: nhập chung, kiểm tra mục đích chia, rồi quyền định đoạt người nhận phần chia. Không suy công chứng hoặc ủy quyền sau đủ để loại quyền chủ nợ.",
+      "contentSha256": "a9664f6d9629da011e995de8bdb7f84d70cb7f7e359d6f8e8b0d202ebe1b9cb7"
+    },
+    {
+      "id": "HARD26-063",
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:564",
+        "DS:141",
+        "DS:143"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Giới hạn quyền lại theo quyền gốc"
+        },
+        {
+          "order": 2,
+          "application": "Xác định phần không ràng buộc chủ"
+        },
+        {
+          "order": 3,
+          "application": "Áp ảnh hưởng việc người mua biết vượt quyền"
+        }
+      ],
+      "reasoning": "Đọc hợp đồng gốc trước hợp đồng lại. Mức 500 triệu không hợp lệ để mở rộng quyền; B biết vượt nên phải xét cả ngoại lệ trách nhiệm người đại diện, không chỉ việc A chưa bị ràng buộc.",
+      "contentSha256": "d2dc632fe72845f7c3e45fcd2f220692da8fac9aa6ad7f7f11b036e66ea56990"
+    },
+    {
+      "id": "HARD26-064",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:57",
+        "DS:563",
+        "DS:140"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định hợp đồng hai nơi đã hoàn tất"
+        },
+        {
+          "order": 2,
+          "application": "Tính thời hạn mặc định từ ngày xác lập"
+        },
+        {
+          "order": 3,
+          "application": "Phân biệt lưu hồ sơ với còn quyền đại diện"
+        }
+      ],
+      "reasoning": "Hoàn tất công chứng hai nơi là điều kiện văn bản, không làm hợp đồng vô thời hạn. Dùng ngày xác lập đã ghi và Điều 563 để tính hạn; hết hạn làm đại diện chấm dứt theo Điều 140.",
+      "contentSha256": "1452de60de8faf490535ef9e112c656adaea054e41ebe44806160b9e4d9c4d96"
+    },
+    {
+      "id": "HARD26-065",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:59",
+        "DS:328",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra điều kiện định đoạt tài sản lớn"
+        },
+        {
+          "order": 2,
+          "application": "Không dùng cọc thay điều kiện quyền bán"
+        },
+        {
+          "order": 3,
+          "application": "Làm rõ hồ sơ trước chứng nhận"
+        }
+      ],
+      "reasoning": "Phải xét giới hạn đại diện quản lý của G trước việc nhận cọc và công chứng bán. Cọc không tạo quyền định đoạt vượt chế độ giám hộ.",
+      "contentSha256": "fda2456aacc24097c0f204cf499bbf75ee3d9cb42fd8d4473031fa57dedb73a7"
+    },
+    {
+      "id": "HARD26-066",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:21",
+        "HN:77",
+        "DS:141"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân loại tài sản phải đăng ký"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra quyền định đoạt tài sản riêng của con"
+        },
+        {
+          "order": 3,
+          "application": "Giữ điều kiện khi thực hiện qua đại diện"
+        }
+      ],
+      "reasoning": "Tặng là giao dịch định đoạt xe phải đăng ký. Cả năng lực dân sự và quy tắc tài sản con đều đặt điều kiện; chữ ký người được ủy quyền không loại điều kiện.",
+      "contentSha256": "dc0ec13ee0e50a14cd7553af09c0bd6ebecec80f78e1174f22e0e1c8d836c7ea"
+    },
+    {
+      "id": "HARD26-067",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "HN:43",
+        "HN:40",
+        "HN:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định tài sản và lợi tức sau chia"
+        },
+        {
+          "order": 2,
+          "application": "Giữ nghĩa vụ với bên thứ ba có trước"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra căn cứ vô hiệu thay vì suy đoán từ khoản nợ"
+        }
+      ],
+      "reasoning": "Điều 43 xác định phần được chia riêng, Điều 40 xử lý lợi tức và giữ nghĩa vụ cũ. Điều 42 phải xét căn cứ vô hiệu riêng, không suy chỉ từ việc có nợ.",
+      "contentSha256": "809bf99aa90eb8c9d0fe4be6cad6483769f63f7f70e78c1ab9a74d3dc76901ed"
+    },
+    {
+      "id": "HARD26-068",
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "CC:46",
+        "CC:44",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định căn cứ ngoài trụ sở"
+        },
+        {
+          "order": 2,
+          "application": "Phân loại ngoại lệ địa hạt theo giao dịch"
+        },
+        {
+          "order": 3,
+          "application": "Chọn tổ chức có thẩm quyền sửa hợp đồng cũ"
+        }
+      ],
+      "reasoning": "Phân biệt nơi thực hiện, địa hạt và tổ chức xử lý sửa. Ngoài trụ sở do nội trú áp dụng theo căn cứ, nhưng không biến hợp đồng bán thành di chúc hoặc xóa quy tắc nơi cũ.",
+      "contentSha256": "ab842e39d6b3a859a0319c7767852287ab72d1dde81a9897cfd892d699c52778"
+    },
+    {
+      "id": "HARD26-069",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:49",
+        "CC:50",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định lý do cần làm chứng"
+        },
+        {
+          "order": 2,
+          "application": "Loại người chứng có lợi ích"
+        },
+        {
+          "order": 3,
+          "application": "Áp thủ tục và chữ ký khi sửa giá"
+        }
+      ],
+      "reasoning": "Vừa phải kiểm tra điều kiện người làm chứng vừa xác định bản chất sửa giá. Điều 50 giữ chữ ký trực tiếp của người tham gia theo trường hợp, không giao chữ ký cho người hưởng hoa hồng.",
+      "contentSha256": "398ad9dde5c424c8da2f1e6dcd5eaabd81cfec4a413495b7bd38790b3bea7b73"
+    },
+    {
+      "id": "HARD26-070",
+      "answerKey": [
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:339",
+        "DS:336",
+        "DS:293"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra điều kiện mất khả năng"
+        },
+        {
+          "order": 2,
+          "application": "Xác định trần bảo lãnh riêng"
+        },
+        {
+          "order": 3,
+          "application": "Loại lãi ngoài phạm vi thỏa thuận"
+        }
+      ],
+      "reasoning": "Phải kiểm tra điều kiện yêu cầu trước, rồi phạm vi trần và khoản bị loại. Có nợ đến hạn không thực hiện không tự đủ khi các bên đã chọn điều kiện mất khả năng.",
+      "contentSha256": "a1a3960ac877ab2f3e42ea5be017cee89865c120fb8c1582e15236978ede19a3"
+    },
+    {
+      "id": "HARD26-071",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:303",
+        "DS:293",
+        "HN:35",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Đọc phương thức xử lý có thỏa thuận không"
+        },
+        {
+          "order": 2,
+          "application": "Tách phạm vi nợ khỏi giá nhà"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra quyền và nội dung văn bản chuyển"
+        }
+      ],
+      "reasoning": "Đủ quyền thế chấp không đồng nghĩa đã thỏa thuận nhận tài sản thay nghĩa vụ. Phải kiểm tra phương thức, phạm vi nợ và căn cứ văn bản chuyển quyền.",
+      "contentSha256": "06e0eac2e6026260630a9035bc1123b648f57dba3a8b54139737649f05697484"
+    },
+    {
+      "id": "HARD26-072",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:328",
+        "CC:52",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách cọc khỏi trả trước"
+        },
+        {
+          "order": 2,
+          "application": "Phân loại thay mục đích khoản tiền"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra đồng ý sửa nội dung"
+        }
+      ],
+      "reasoning": "Phân loại khoản tiền trước khi tính hậu quả; thay cọc thành trả trước thay nghĩa vụ nên phải theo sửa nội dung và đồng ý các bên.",
+      "contentSha256": "4b57c5e77ab19ab3f2af2bdc024bf6c447cd5a0978a2757e07807850f96de0da"
+    },
+    {
+      "id": "HARD26-073",
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "evidenceKeys": [
+        "DS:329",
+        "DS:346",
+        "DS:347"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra máy có còn để trả"
+        },
+        {
+          "order": 2,
+          "application": "Xác định hợp đồng và phí đến hạn"
+        },
+        {
+          "order": 3,
+          "application": "Giới hạn hậu quả của quyền giữ"
+        }
+      ],
+      "reasoning": "Xác định máy còn hay mất, rồi căn cứ S giữ. Không chuyển nhầm ký cược thành sở hữu hoặc quyền giữ thành quyền bán.",
+      "contentSha256": "db421269fccce1a6b2df723ade094de36ef1daf3a45e611785d0f79532acb223"
+    },
+    {
+      "id": "HARD26-074",
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "evidenceKeys": [
+        "CC:64",
+        "CC:52",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định lớp hiệu lực văn bản điện tử"
+        },
+        {
+          "order": 2,
+          "application": "Phân loại lỗi không đổi quyền"
+        },
+        {
+          "order": 3,
+          "application": "Áp sửa nội dung cho giá mới"
+        }
+      ],
+      "reasoning": "Ba vấn đề độc lập phải phối hợp: điều kiện chữ ký số, lỗi sao chép và thay đổi nội dung. Không dùng tính điện tử để bỏ đồng ý hoặc quy trình sửa.",
+      "contentSha256": "7f6e09e2bb1fc6caac8b920d97a13a95c56eb4e85d4e55b3abc9d0c91de9f928"
+    },
+    {
+      "id": "HARD26-075",
+      "answerKey": [
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:35",
+        "CC:56",
+        "CC:46",
+        "CC:44"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra đồng ý cả chủ chung"
+        },
+        {
+          "order": 2,
+          "application": "Chọn tổ chức công chứng thế chấp tiếp"
+        },
+        {
+          "order": 3,
+          "application": "Áp căn cứ ngoài trụ sở sau khi chọn tổ chức"
+        }
+      ],
+      "reasoning": "Kiểm tra quyền chủ chung, tổ chức có thẩm quyền xử lý tiếp rồi địa điểm ký phù hợp. Cùng địa hạt và nội trú chưa đủ để Y thay X.",
+      "contentSha256": "a1fdf110bd0bff71c5a4121e540bd146586e78b54eba76332c996e52eddaaf0b"
+    },
+    {
+      "id": "HARD26-076",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "CC:54",
+        "CC:52",
+        "CC:53",
+        "CC:42"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định tư cách yêu cầu Tòa án"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt phát hiện cưỡng ép với tự hủy"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra đồng ý khi muốn đổi giá"
+        }
+      ],
+      "reasoning": "Phân biệt quyền yêu cầu Tòa án, nghĩa vụ xác minh dấu hiệu tự nguyện và quyền sửa nội dung. Không dùng người làm chứng thay một bên tham gia.",
+      "contentSha256": "0a8ec17feaf26d8548da8ac8d1a06fd560dda06aab88a1fcd92eb88e446c739e"
+    },
+    {
+      "id": "HARD26-077",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:40",
+        "CC:54",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định tổ chức kế thừa trách nhiệm"
+        },
+        {
+          "order": 2,
+          "application": "Xét hoàn trả của người đã nghỉ"
+        },
+        {
+          "order": 3,
+          "application": "Áp thủ tục sửa giá tại tổ chức lưu hồ sơ"
+        }
+      ],
+      "reasoning": "Tách trách nhiệm với khách khỏi hoàn trả nội bộ. Sáp nhập không xóa trách nhiệm và cũng không tự quyết định hiệu lực văn bản. Y giữ hồ sơ cần áp Điều 53 khi công chứng sửa giá.",
+      "contentSha256": "be1327bf1956b3fd06e3639a3409927b81c1e0d51d298cdd20b055c5d44b81dc"
+    },
+    {
+      "id": "HARD26-078",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:427",
+        "DS:428",
+        "CC:52"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định đúng cơ chế hủy hoặc chấm dứt"
+        },
+        {
+          "order": 2,
+          "application": "Phân biệt hệ quả khoản đã thực hiện"
+        },
+        {
+          "order": 3,
+          "application": "Loại thủ tục sửa lỗi kỹ thuật"
+        }
+      ],
+      "reasoning": "Đầu tiên chọn căn cứ chấm dứt/hủy, sau đó mới hệ quả khoản đã thực hiện và bồi thường. Việc ảnh hưởng hiệu lực không phải lỗi kỹ thuật.",
+      "contentSha256": "4937f27457af9145bf991ecbb8539a88aa826a3565acf88b64b96e4bb1c25faa"
+    },
+    {
+      "id": "HARD26-079",
+      "answerKey": [
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:283",
+        "DS:339",
+        "DS:336"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân biệt người thực hiện hộ và người có nghĩa vụ"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra thực hiện không đúng khi đến hạn"
+        },
+        {
+          "order": 3,
+          "application": "Áp điều kiện bảo lãnh đã thỏa thuận"
+        }
+      ],
+      "reasoning": "Việc T làm hộ không chuyển chủ thể nghĩa vụ A. Đánh giá vi phạm đến hạn của A rồi điều kiện và phạm vi bảo lãnh G.",
+      "contentSha256": "5307e54fecd9ac47d5035dee3c0a4c893cd32763362795b98adb773dc86deb2e"
+    },
+    {
+      "id": "HARD26-080",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:569",
+        "DS:140",
+        "DS:328",
+        "DS:565"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định nghĩa vụ nội bộ khi chấm dứt"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra giao dịch cọc đã ràng buộc chủ"
+        },
+        {
+          "order": 3,
+          "application": "Giữ quan hệ bên ngoài đã phát sinh"
+        }
+      ],
+      "reasoning": "Tách việc chấm dứt đại diện, thanh toán với K và hậu quả giao dịch cọc A–B đã phát sinh. Không xóa quan hệ bên ngoài chỉ bằng xử lý nội bộ.",
+      "contentSha256": "6a5fac666c498e1e33e8cfd6c65040a0aed151068d2b02a98fbcf48757aabfb1"
+    },
+    {
+      "id": "HARD26-081",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:66",
+        "DS:650",
+        "DS:651",
+        "DS:644"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách phần sở hữu W"
+        },
+        {
+          "order": 2,
+          "application": "Chia riêng phần chưa định đoạt"
+        },
+        {
+          "order": 3,
+          "application": "So phần W đã nhận với mức bắt buộc tổng"
+        }
+      ],
+      "reasoning": "Di sản 2 tỷ; phần chưa định đoạt 1 tỷ chia W và B 500 triệu mỗi người. Suất pháp luật giả định toàn di sản 1 tỷ, phần bắt buộc W 666⅔ triệu tổng, thiếu 166⅔ triệu. Phải bảo đảm phần W, không bỏ phần pháp luật hoặc cộng sai toàn mức bắt buộc.",
+      "contentSha256": "bfd91720407a58d9cf99dc0a5100b76bb0d81002640f9852fd9aea214b6201e6"
+    },
+    {
+      "id": "HARD26-082",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:643",
+        "DS:650",
+        "DS:651",
+        "DS:652"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Trừ nghĩa vụ di sản"
+        },
+        {
+          "order": 2,
+          "application": "Xử lý chỉ định người chết trước"
+        },
+        {
+          "order": 3,
+          "application": "Chia ròng theo nhánh thế vị"
+        }
+      ],
+      "reasoning": "Thanh toán nghĩa vụ rồi xác định phần di chúc mất hiệu lực. Toàn phần ròng phải chia pháp luật; B1 thế vị một nhánh chứ không nhận trực tiếp toàn phần cho B.",
+      "contentSha256": "e0492cef76fdc1f5e31a65bef8fa184d8abc4f6374cb747667978c51c47a0735"
+    },
+    {
+      "id": "HARD26-083",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:620",
+        "DS:644",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra mục đích từ chối"
+        },
+        {
+          "order": 2,
+          "application": "Xác định người vẫn phải xét phần bắt buộc"
+        },
+        {
+          "order": 3,
+          "application": "Tính suất trên hàng pháp luật đúng"
+        }
+      ],
+      "reasoning": "Không dùng giấy từ chối sai mục đích để loại người bắt buộc. Xác định hàng pháp luật giả định và bảo đảm W, B theo Điều 644 sau kiểm tra điều kiện.",
+      "contentSha256": "472d52f2e7730f7de0e00f9322afdd04cb7275245a3bc48bcdc368b7b60f4ac5"
+    },
+    {
+      "id": "HARD26-084",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:619",
+        "DS:650",
+        "DS:652",
+        "DS:643"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Loại chuyển thừa kế qua người chết đồng thời"
+        },
+        {
+          "order": 2,
+          "application": "Khoanh phần chia pháp luật"
+        },
+        {
+          "order": 3,
+          "application": "Chia theo nhánh cháu thế vị"
+        }
+      ],
+      "reasoning": "Khoanh phần chưa định đoạt để áp pháp luật, không truyền qua di sản B. Nhánh B có thể được thế vị bởi các cháu, còn phần X giữ nguyên.",
+      "contentSha256": "c570d74e84105aa4a9c549badb247848ad1d1e0d7d910a0e399f8c7c5549a10f"
+    },
+    {
+      "id": "HARD26-085",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:645",
+        "DS:617",
+        "DS:618"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra điều kiện giữ phần thờ cúng"
+        },
+        {
+          "order": 2,
+          "application": "Tách phần chia thừa kế và quản lý mục đích"
+        },
+        {
+          "order": 3,
+          "application": "Giới hạn quyền của người quản lý"
+        }
+      ],
+      "reasoning": "Kiểm tra nghĩa vụ trước rồi tách phần thờ cúng hợp lệ. Tư cách quản lý không làm M thành người hưởng hoặc người được tự bán, chia tài sản.",
+      "contentSha256": "fa9efc61151a3acf18fc9222d92d72dda5b8f1a8fd5a4be104f7fc6d198a5735"
+    },
+    {
+      "id": "HARD26-086",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:613",
+        "DS:660",
+        "CC:59",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra thai đủ điều kiện hưởng"
+        },
+        {
+          "order": 2,
+          "application": "Dành phần theo người cùng hàng"
+        },
+        {
+          "order": 3,
+          "application": "Chờ đủ điều kiện công chứng phân chia"
+        }
+      ],
+      "reasoning": "Xác định quyền người đã thành thai, bảo lưu suất khi chia và kiểm tra thủ tục công chứng; ba việc không thay thế nhau.",
+      "contentSha256": "7d06ddd04e6ac757e4ea1722141a5edffd06d78bcc68c8ae7b7b93a6544b8414"
+    },
+    {
+      "id": "HARD26-087",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:643",
+        "DS:640",
+        "CC:58"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Chốt thời điểm di chúc phát sinh hiệu lực"
+        },
+        {
+          "order": 2,
+          "application": "Xác định bản sau cùng trên cùng nhà"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra quyền tự sửa và thông báo nơi giữ"
+        }
+      ],
+      "reasoning": "Phân biệt thời điểm hưởng với quyền sửa khi còn sống; nơi sửa và thông báo phải đúng nhưng không cần người hưởng cũ cho phép.",
+      "contentSha256": "c65f382e4ffd5e02f2c1ee0ec9b053ffcf321098a0aa5e6cd14ea1206c07e7f2"
+    },
+    {
+      "id": "HARD26-088",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:630",
+        "CC:58",
+        "CC:46"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra văn bản và đồng ý do tuổi"
+        },
+        {
+          "order": 2,
+          "application": "Giữ yêu cầu người lập trực tiếp"
+        },
+        {
+          "order": 3,
+          "application": "Chọn địa điểm phù hợp do nội trú"
+        }
+      ],
+      "reasoning": "Phối hợp điều kiện tuổi, ý chí trực tiếp người lập và địa điểm ngoài trụ sở. Giấy ủy quyền không thay hành vi lập di chúc cá nhân.",
+      "contentSha256": "9bd0c5e4f58a4f11d1336ffe8e64d61cf8550f19fe27f469d3def49a1d8b964d"
+    },
+    {
+      "id": "HARD26-089",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:633",
+        "DS:634",
+        "DS:632",
+        "DS:630"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Phân loại tự viết hay đánh máy"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra số lượng nhân chứng"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra người hưởng có bị loại làm chứng"
+        }
+      ],
+      "reasoning": "Phải chọn đúng hình thức, đủ số người làm chứng và loại người hưởng lợi. Tự đánh máy không đáp ứng yêu cầu tự viết của dạng không có người làm chứng.",
+      "contentSha256": "c04d2977b28cf732a2cee4f849087390ec3c0daf25246c933da63035829dc7ff"
+    },
+    {
+      "id": "HARD26-090",
+      "answerKey": [
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:611",
+        "DS:623",
+        "DS:615"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Chốt thời điểm mở thừa kế"
+        },
+        {
+          "order": 2,
+          "application": "Phân loại tài sản trong yêu cầu chia"
+        },
+        {
+          "order": 3,
+          "application": "Tách mốc yêu cầu nợ và phạm vi trách nhiệm"
+        }
+      ],
+      "reasoning": "Chốt ngày mở thừa kế và phân loại từng yêu cầu. Quyền chia di sản khác yêu cầu nợ; giới hạn trách nhiệm Điều 615 cũng không làm thay mốc ba năm.",
+      "contentSha256": "f66bee20689bfd0cb28643a1f36875dfcf94de0df5acd912509898654784a976"
+    },
+    {
+      "id": "HARD26-091",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:620",
+        "DS:615",
+        "DS:658"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra từ chối còn đúng thời điểm"
+        },
+        {
+          "order": 2,
+          "application": "Áp giới hạn theo phần đã nhận"
+        },
+        {
+          "order": 3,
+          "application": "Không xóa nghĩa vụ do chia trước"
+        }
+      ],
+      "reasoning": "Kiểm tra mốc từ chối trước chia, trách nhiệm trong phần nhận và thứ tự nghĩa vụ. B không phải trả vô hạn nhưng 200 triệu đang nằm trong giới hạn 300 triệu nhận.",
+      "contentSha256": "b05d0f8908facf84a1d943edaf2a4ddfe07a60336e1f85d473c2f6db1efc72e2"
+    },
+    {
+      "id": "HARD26-092",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "HN:43",
+        "HN:33",
+        "HN:66",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách tài sản gốc thừa kế riêng"
+        },
+        {
+          "order": 2,
+          "application": "Xác định lợi tức chung"
+        },
+        {
+          "order": 3,
+          "application": "Chia phần tiền của người chết"
+        }
+      ],
+      "reasoning": "Phải tách gốc thừa kế riêng khỏi lợi tức trong hôn nhân. Nhà không thuộc H; tiền thuê chung tách H 100 triệu, chia pháp luật hai người. W có 100 triệu sở hữu tiền thuê và thêm 50 triệu thừa kế.",
+      "contentSha256": "226169b2384961e9a9146e34112371049707ece3d6847f80e934698194a32f5e"
+    },
+    {
+      "id": "HARD26-093",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "evidenceKeys": [
+        "DS:654",
+        "DS:651",
+        "DS:615"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra quan hệ chăm sóc nuôi dưỡng"
+        },
+        {
+          "order": 2,
+          "application": "Xác định người nhận cùng cơ chế pháp luật"
+        },
+        {
+          "order": 3,
+          "application": "Dùng di sản ròng để chia suất"
+        }
+      ],
+      "reasoning": "Chốt quan hệ nuôi dưỡng đủ điều kiện rồi đưa C vào việc chia. Di sản đã ròng nên không tính thêm quyền sở hữu W hoặc chuyển phần W cho C.",
+      "contentSha256": "88dbfd1dc18cb23a3ab570ac1330bae9df8196eb8c2def46044a55298a761423"
+    },
+    {
+      "id": "HARD26-094",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:66",
+        "DS:611",
+        "DS:661"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Tách phần không phải di sản"
+        },
+        {
+          "order": 2,
+          "application": "Xác định quyết định hạn chế chia"
+        },
+        {
+          "order": 3,
+          "application": "Tính thời hạn và điều kiện gia hạn"
+        }
+      ],
+      "reasoning": "Tách phần W, xác định căn cứ hạn chế bởi Tòa án, rồi tính mốc và điều kiện gia hạn. Quyền sở hữu W và quyền thừa kế của người khác không bị xóa bởi hạn chế.",
+      "contentSha256": "3cc1721507aa96cad9759af2bfb71c5b96c460fb3d8808ebe5bcd091687aed73"
+    },
+    {
+      "id": "HARD26-095",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:662",
+        "DS:651",
+        "CC:52",
+        "CC:53"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định thêm người cùng hàng"
+        },
+        {
+          "order": 2,
+          "application": "Tính hoàn trả theo giá lúc chia"
+        },
+        {
+          "order": 3,
+          "application": "Chọn thủ tục xử lý quyền thay vì lỗi kỹ thuật"
+        }
+      ],
+      "reasoning": "Điều 662 xác định suất và hoàn trả; Điều 52 không được dùng vì đổi quyền. Tổ chức giữ hồ sơ và Điều 53 là quy tắc thủ tục, không tự giải quyết quyền tranh chấp.",
+      "contentSha256": "ba65fb10afba4588bc4a371842648384a31639bd5a62225470fefcae4725685d"
+    },
+    {
+      "id": "HARD26-096",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:617",
+        "DS:141",
+        "DS:328",
+        "DS:616"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Kiểm tra người quản lý có quyền bán"
+        },
+        {
+          "order": 2,
+          "application": "Giới hạn quyền được chuyển cho T"
+        },
+        {
+          "order": 3,
+          "application": "Không dùng cọc thay quyền của các người hưởng"
+        }
+      ],
+      "reasoning": "Đi từ quyền quản lý M tới quyền T và hậu quả cọc, không đi ngược từ cọc để suy quyền bán. Chỉ định quản lý không phải ủy quyền bán vô hạn.",
+      "contentSha256": "0a8bac61f645066ffca06242bd51b65519dc466d49813561f076cef56f132aa5"
+    },
+    {
+      "id": "HARD26-097",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "CC:42",
+        "DS:611",
+        "CC:59",
+        "DS:643"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Xác định phạm vi dữ liệu đã khai thác"
+        },
+        {
+          "order": 2,
+          "application": "Kiểm tra chết và hiệu lực di chúc"
+        },
+        {
+          "order": 3,
+          "application": "Giữ thủ tục một người thừa kế"
+        }
+      ],
+      "reasoning": "Khai thác dữ liệu chỉ thay giấy theo phạm vi Điều 42. Thời điểm mở thừa kế Điều 611 và hồ sơ riêng, niêm yết Điều 59 vẫn cần xác định đầy đủ.",
+      "contentSha256": "ed08422277c8ac918cb8958bda9b3c1ea3552906257cceb3e23356a392f458ef"
+    },
+    {
+      "id": "HARD26-098",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "evidenceKeys": [
+        "HN:40",
+        "HN:43",
+        "DS:643",
+        "DS:651",
+        "DS:644"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Khoanh tài sản riêng từng người"
+        },
+        {
+          "order": 2,
+          "application": "Xác định di sản thật A"
+        },
+        {
+          "order": 3,
+          "application": "Tính mức bắt buộc trên hàng giả định"
+        }
+      ],
+      "reasoning": "Giữ tài sản đã chia riêng, khoanh di sản thực A rồi tính suất giả định để bảo vệ W. Không tính trên cả 3 tỷ và không mở rộng nhóm bắt buộc sang B.",
+      "contentSha256": "1de779360439fcab7e741898b1229c9244e916fe127fa8ac8a9b82c63762391a"
+    },
+    {
+      "id": "HARD26-099",
+      "answerKey": [
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:643",
+        "DS:650",
+        "DS:651"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Đánh giá lỗi có thể tách"
+        },
+        {
+          "order": 2,
+          "application": "Giữ định đoạt hợp pháp còn lại"
+        },
+        {
+          "order": 3,
+          "application": "Chia riêng phần vô hiệu theo pháp luật"
+        }
+      ],
+      "reasoning": "Khoanh phần lỗi có thể tách, giữ phần hợp pháp và chuyển riêng phần lỗi sang pháp luật, chia đều hai người cùng hàng.",
+      "contentSha256": "e9bb1b349fa8f6fb4f04de48ca787ef29ddcd1100ac3a1614a2249b6366e843a"
+    },
+    {
+      "id": "HARD26-100",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "evidenceKeys": [
+        "DS:615",
+        "DS:651",
+        "DS:660",
+        "CC:59"
+      ],
+      "integrationSteps": [
+        {
+          "order": 1,
+          "application": "Trả nghĩa vụ từ tiền di sản"
+        },
+        {
+          "order": 2,
+          "application": "Tính suất và bù nhà nguyên khối"
+        },
+        {
+          "order": 3,
+          "application": "Kiểm tra niêm yết dù đồng ý phân chia"
+        }
+      ],
+      "reasoning": "Thanh toán nợ bằng tiền, chia ròng theo suất, xử lý bù hiện vật và hoàn tất điều kiện công chứng. Không dùng tiền đã trả nợ làm phần C đã nhận.",
+      "contentSha256": "da522b06715a046b6e524be2ce42d63d91a13cb335728a66a07c850b5e9a46cb"
+    }
+  ]
+}

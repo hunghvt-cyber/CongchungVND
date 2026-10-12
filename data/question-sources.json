@@ -295,6 +295,13 @@
       "title": "40 câu chuẩn 61–100 – đối chiếu điều khoản chọn lọc 12/10/2026",
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/calibration-next-40-legal-review-2026-10-12.json",
       "use": "Câu viết mới, giải thích từng lựa chọn, căn cứ theo nhánh; mức khó dự kiến chờ đo thực tế, không chứng nhận lại toàn ngân hàng."
+    },
+    {
+      "id": "HARD100-20261012",
+      "type": "legal-review",
+      "title": "100 tình huống khó phối hợp nhiều quy định – 12/10/2026",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "use": "100 câu mới, căn cứ chọn lọc và lời giải theo bước; độ khó dự kiến chờ làm thử."
     }
   ]
 }

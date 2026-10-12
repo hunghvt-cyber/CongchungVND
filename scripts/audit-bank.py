@@ -9,6 +9,7 @@ FILES += [p.name for p in sorted((ROOT/'data').glob('completion-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('refinement-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('verified-new-*.json'))]
 FILES += [p.name for p in sorted((ROOT/'data').glob('calibration-*.json'))]
+FILES += [p.name for p in sorted((ROOT/'data').glob('hard-integrated-*.json'))]
 PREFIXES = [
  'Hãy vận dụng căn cứ pháp lý để trả lời: ',
  'Chọn đáp án chính xác nhất cho vấn đề pháp lý sau: ',
