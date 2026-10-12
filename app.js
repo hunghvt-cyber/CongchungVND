@@ -1,7 +1,7 @@
 const state = {
   bank: [], feedbackConfig: null, mode: null, part: null, questions: [], current: 0,
   selected: new Set(), answers: {}, results: {}, score: 0, answered: false,
-  examCode: '', duration: 0, remaining: 0, timerId: null, submitted: false, reviewing: false, deadline: 0, startedAt: '', submittedAt: '', learnerName: '', learnerKey: '', attemptId: ''
+  examCode: '', duration: 0, remaining: 0, timerId: null, submitted: false, reviewing: false, deadline: 0, startedAt: '', submittedAt: '', learnerName: '', learnerKey: '', attemptId: '', questionScope: 'all'
 };
 
 const els = {
@@ -98,7 +98,7 @@ function bindShare(root) {
 }
 
 async function loadQuestions() {
-  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json', 'completion-2026.json', 'refinement-2026.json', 'verified-new-2026.json'];
+  const files = ['questions.json', 'derived-questions.json', 'validated-2026.json', 'imported-exams-2026.json', 'imported-deposit-2026.json', 'imported-authorization-2026.json', 'imported-family-2026.json', 'imported-inheritance-2026.json', 'completion-2026.json', 'refinement-2026.json', 'verified-new-2026.json', 'calibration-20-2026.json'];
   const batches = await Promise.all(files.map(async file => {
     const response = await fetch(`./data/${file}`, {cache: 'no-cache'});
     if (!response.ok) throw new Error(`Không thể tải ngân hàng câu hỏi (${file}).`);
@@ -130,6 +130,7 @@ function showSetup(mode) {
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option value="100">100</option></select></label></div>
     <button id="startSetup" class="primary-button">Bắt đầu ôn</button>` : `
     <p class="eyebrow">Thi thử</p><h2>Cấu hình bài thi</h2>${window.ExamProgress?.nameMarkup() || ''}
+    <label class="learner-label">Phạm vi câu hỏi<select id="setupScope"><option value="all">Toàn bộ ngân hàng đang dùng</option><option value="calibration20">Bộ 20 câu chuẩn hiệu chỉnh độ khó</option></select></label><p class="name-note">Bộ 20 câu gồm 12 câu Bài 1 và 8 câu Bài 2, đã có trong ngân hàng thi thử. Chọn phạm vi này và số câu 20 để làm đủ các câu của bài đã chọn. Câu chọn nhiều cần chọn đủ đáp án đúng.</p>
     <div class="setup-grid"><label>Bài<select id="setupPart"><option value="1">Bài 1 · Pháp luật</option><option value="2">Bài 2 · Kỹ năng</option></select></label>
     <label>Số câu<select id="setupCount"><option>5</option><option>10</option><option>20</option><option>50</option><option>100</option></select></label>
     <label>Thời gian<select id="setupDuration"><option value="15">15 phút</option><option value="30">30 phút</option><option value="60">60 phút</option><option value="90">90 phút</option></select></label></div>
@@ -142,6 +143,7 @@ function showSetup(mode) {
     const part = document.querySelector('#setupPart').value;
     const count = Number(document.querySelector('#setupCount').value);
     const duration = mode === 'mock' ? Number(document.querySelector('#setupDuration').value) : 0;
+    state.questionScope=mode==='mock' ? (document.querySelector('#setupScope').value || 'all') : 'all';
     startSession(part === 'all' ? null : Number(part), count, duration);
   });
   if (mode==='mock') document.querySelector('#joinExam').addEventListener('click',async()=>{
@@ -197,7 +199,8 @@ function chooseFreshQuestions(pool, count, part) {
 
 function startSession(part, count, duration, seed = null, indices = null) {
   stopTimer();
-  const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part));
+  const pool = state.bank.filter(q => eligibleQuestion(q) && (part === null || q.part === part) &&
+    !(state.mode==='mock' && seed===null && state.questionScope==='calibration20' && q.batch!=='calibration-20-2026-10-12'));
   if (!pool.length) { alert('Chưa có câu hỏi đủ điều kiện cho bài này.'); return; }
   state.attemptId = crypto.randomUUID();
   state.reviewing = false; state.startedAt = new Date().toISOString(); state.submittedAt = '';
@@ -305,7 +308,8 @@ function reviewMarkup(q, ok) {
   return `<strong>${ok?'✓ Đúng':(state.answers[q.id]?.length?'✗ Chưa chính xác':'— Chưa trả lời')}</strong>
     <p><strong>Bạn chọn:</strong><br>${answerSummary(q, state.answers[q.id] || [])}</p>
     <p><strong>Đáp án đúng:</strong><br>${answerSummary(q, correctIds(q))}</p>
-    <p><strong>Giải thích:</strong> ${escapeHtml(q.explanation || 'Chưa có giải thích.')}</p>${basisMarkup(q)}`;
+    <p><strong>Giải thích:</strong> ${escapeHtml(q.explanation || 'Chưa có giải thích.')}</p>
+    ${q.answers.some(a=>a.explanation)?`<div class="option-explanations"><strong>Giải thích từng phương án</strong>${q.answers.map((a,i)=>`<p><strong>${String.fromCharCode(65+i)}. ${a.correct?'Đúng':'Sai'}</strong> · ${escapeHtml(a.text)}<br>${escapeHtml(a.explanation || '')}</p>`).join('')}</div>`:''}${basisMarkup(q)}`;
 }
 function next() {
   if (checkDeadline()) return;
