@@ -1,0 +1,784 @@
+{
+  "date": "2026-10-12",
+  "scope": "Only the cited provisions and branch-specific conclusions of CAL26-061 through CAL26-100; not a whole-bank legal certification.",
+  "retrievalLimits": "Current official notary/family PDFs read locally. Civil article excerpts reused from repository evidence and cross-checked against indexed official BLDS 2015 text. Fresh signed civil PDF was not fully renderable; no assertion of a fresh full-PDF review.",
+  "questions": [
+    {
+      "id": "CAL26-061",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt trang và tờ; áp dụng đồng thời hai yêu cầu hình thức.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "51",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 51. Việc đánh số trang, đóng dấu giáp lai trong văn bản công chứng\n     1. Văn bản công chứng có từ 02 trang trở lên thì từng trang phải được đánh\nsố thứ tự, bắt đầu từ số 1 tại trang thứ nhất của giao dịch và liên tục cho đến trang\ncuối cùng của lời chứng.\n     2. Văn bản công chứng có từ 02 tờ trở lên phải được đóng dấu giáp lai giữa\ncác tờ.\n     3. Việc đánh số trang, xác nhận tính toàn vẹn của văn bản công chứng điện\ntử thực hiện theo quy định của Chính phủ."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-062",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Nhận diện điều kiện lựa chọn trước, không đồng nhất chỉ định với bắt buộc nhận giám hộ.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "48",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/family-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 48. Người giám hộ\n\n1. Cá nhân, pháp nhân có đủ điều kiện quy định tại Bộ luật này được làm\nngười giám hộ.\n\n2. Trường hợp người có năng lực hành vi đân sự đầy đủ lựa chọn người\ngiám hộ cho mình thì khi họ ở tình trạng cần được giám Ì hộ, cá nhân, pháp nhân\nđược lựa chọn là người giám hộ nếu người này đồng ý. Việc lựa chọn người\ngiám hộ phải được lập thành văn bản có công chứng hoặc chứng thực.\n\n3. Một cá nhân, pháp nhân có thể giám hộ cho nhiều người."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-063",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt nhận lưu giữ với công bố hoặc chuyển di chúc cho người hưởng.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "61",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 61. Gửi giữ di chúc và công bố di chúc được lưu giữ\n     1. Người lập di chúc có thể yêu cầu tổ chức hành nghề công chứng nhận lưu\ngiữ di chúc của mình. Khi nhận lưu giữ di chúc, công chứng viên phải niêm phong\nbản di chúc trước mặt người lập di chúc, ghi giấy nhận lưu giữ và giao cho người\nlập di chúc. Giấy nhận lưu giữ di chúc phải có thông tin về tổ chức hành nghề\ncông chứng nhận lưu giữ di chúc, công chứng viên niêm phong di chúc, người lập\ndi chúc.\n     2. Đối với di chúc đã được tổ chức hành nghề công chứng nhận lưu giữ nhưng\nsau đó tổ chức này chấm dứt hoạt động, chuyển đổi hoặc giải thể thì trước khi\nchấm dứt hoạt động, chuyển đổi hoặc giải thể, tổ chức hành nghề công chứng phải\nthỏa thuận với người lập di chúc về việc chuyển cho tổ chức hành nghề công\nchứng khác lưu giữ di chúc. Trường hợp không có thỏa thuận hoặc không thỏa\nthuận được thì di chúc và phí lưu giữ di chúc phải được trả lại cho người lập di\nchúc. Trường hợp không liên hệ được với người lập di chúc thì di chúc được\nchuyển giao cho tổ chức hành nghề công chứng tiếp nhận hồ sơ của tổ chức hành\nnghề công chứng đã chấm dứt hoạt động, chuyển đổi hoặc giải thể.\n     3. Việc công bố di chúc lưu giữ tại tổ chức hành nghề công chứng được thực\nhiện theo quy định của Chính phủ.\n\f                                       38\n\n                                     Mục 3\n                          CÔNG CHỨNG ĐIỆN TỬ"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-064",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Nhận diện ba yếu tố: trước kết hôn, hình thức và mốc xác lập chế độ.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "47",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 47. Thỏa thuận xác lập chế độ tài sản của vợ chồng\n     Trong trường hợp hai bên kết hôn lựa chọn chế độ tài sản theo thỏa thuận thì\nthỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công\nchứng hoặc chứng thực. Chế độ tài sản của vợ chồng theo thỏa thuận được xác lập\nkể từ ngày đăng ký kết hôn."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-065",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Xác định phạm vi giấy tờ được thay bằng dữ liệu, không mở rộng sang toàn hồ sơ hoặc miễn phí.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "42",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n     1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực\ntuyến, trực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng.\nHồ sơ yêu cầu công chứng bao gồm các giấy tờ sau đây:\n     a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn\ncước hoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu\ncông chứng theo quy định của pháp luật;\n      c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản\nán, quyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm\nquyền về việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với\ntài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong\ntrường hợp giao dịch liên quan đến tài sản đó;\n     d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n     Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy\nđịnh của pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n     2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng,\nnếu hồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường\nhợp từ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có\nnêu rõ lý do cho người yêu cầu công chứng.\n\f                                       28\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng\nhiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý\ncủa việc tham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối\ntượng của giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người\nyêu cầu công chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu\ngiám định theo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu\ncông chứng không làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc\nđã xác minh, giám định nhưng vẫn không làm rõ được thì công chứng viên từ chối\ncông chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch\ncó điều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch\nkhông phù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho\nngười yêu cầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng\nkhông sửa chữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao\ndịch thì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng\ndấu của tổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì\nthực hiện theo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người\nyêu cầu công chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b,\nc và d khoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang\ncủa giao dịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người\nyêu cầu công chứng không có bản chính tại thời điểm công chứng viên ký vào lời\nchứng thì có thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng\nvà lưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định\nkhác của pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-066",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Nhận diện hai căn cứ từ chối độc lập, không dùng điều khoản miễn trách nhiệm để bỏ qua.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "42",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 42. Công chứng giao dịch đã được soạn thảo sẵn\n     1. Người yêu cầu công chứng nộp 01 bộ hồ sơ yêu cầu công chứng trực\ntuyến, trực tiếp hoặc gửi qua đường bưu chính đến tổ chức hành nghề công chứng.\nHồ sơ yêu cầu công chứng bao gồm các giấy tờ sau đây:\n     a) Dự thảo giao dịch;\n    b) Bản sao giấy tờ tùy thân của người yêu cầu công chứng, gồm: thẻ căn\ncước hoặc hộ chiếu hoặc giấy tờ khác để xác định nhân thân của người yêu cầu\ncông chứng theo quy định của pháp luật;\n      c) Bản sao giấy chứng nhận quyền sở hữu, quyền sử dụng tài sản hoặc bản\nán, quyết định của Tòa án hoặc quyết định khác của cơ quan nhà nước có thẩm\nquyền về việc xử lý tài sản hoặc giấy tờ thay thế được pháp luật quy định đối với\ntài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong\ntrường hợp giao dịch liên quan đến tài sản đó;\n     d) Bản sao giấy tờ khác có liên quan đến giao dịch mà pháp luật quy định\nphải có.\n     Trường hợp tổ chức hành nghề công chứng đã khai thác được các thông tin\nquy định tại các điểm b, c và d khoản này trong Cơ sở dữ liệu quốc gia về dân cư,\ncơ sở dữ liệu khác theo quy định của pháp luật thì người yêu cầu công chứng\nkhông phải nộp các giấy tờ này nhưng phải nộp phí khai thác dữ liệu theo quy\nđịnh của pháp luật để tổ chức hành nghề công chứng khai thác dữ liệu.\n     2. Công chứng viên kiểm tra các giấy tờ trong hồ sơ yêu cầu công chứng,\nnếu hồ sơ đủ, phù hợp với quy định của pháp luật thì tiếp nhận giải quyết; trường\nhợp từ chối tiếp nhận thì trực tiếp giải thích rõ lý do hoặc trả lời bằng văn bản có\nnêu rõ lý do cho người yêu cầu công chứng.\n\f                                       28\n\n     3. Công chứng viên hướng dẫn, giải thích cho người yêu cầu công chứng\nhiểu rõ quyền, nghĩa vụ và lợi ích hợp pháp của họ, ý nghĩa và hậu quả pháp lý\ncủa việc tham gia giao dịch.\n     4. Trong trường hợp có căn cứ cho rằng trong hồ sơ yêu cầu công chứng có\nvấn đề chưa rõ, việc tham gia giao dịch có dấu hiệu bị đe dọa, bị cưỡng ép, có sự\nnghi ngờ về năng lực hành vi dân sự của người yêu cầu công chứng hoặc đối\ntượng của giao dịch chưa được mô tả cụ thể thì công chứng viên đề nghị người\nyêu cầu công chứng làm rõ hoặc công chứng viên tiến hành xác minh, yêu cầu\ngiám định theo đề nghị của người yêu cầu công chứng; trường hợp người yêu cầu\ncông chứng không làm rõ được và từ chối việc xác minh, yêu cầu giám định hoặc\nđã xác minh, giám định nhưng vẫn không làm rõ được thì công chứng viên từ chối\ncông chứng.\n     5. Công chứng viên kiểm tra dự thảo giao dịch. Nếu trong dự thảo giao dịch\ncó điều khoản vi phạm pháp luật, trái đạo đức xã hội, đối tượng của giao dịch\nkhông phù hợp với quy định của pháp luật thì công chứng viên phải chỉ rõ cho\nngười yêu cầu công chứng để sửa chữa; trường hợp người yêu cầu công chứng\nkhông sửa chữa thì công chứng viên từ chối công chứng.\n     6. Người yêu cầu công chứng tự đọc lại dự thảo giao dịch hoặc công chứng viên\nđọc cho người yêu cầu công chứng nghe theo đề nghị của người yêu cầu công chứng.\n     7. Người yêu cầu công chứng đồng ý toàn bộ nội dung trong dự thảo giao\ndịch thì ký vào từng trang của giao dịch và ký, ghi đủ họ, tên của cá nhân, đóng\ndấu của tổ chức (nếu có) vào trang cuối của giao dịch; trường hợp điểm chỉ thì\nthực hiện theo quy định tại Điều 50 của Luật này. Công chứng viên yêu cầu người\nyêu cầu công chứng xuất trình bản chính của các giấy tờ quy định tại các điểm b,\nc và d khoản 1 Điều này để đối chiếu trước khi ký vào lời chứng và từng trang\ncủa giao dịch; đối với các giấy tờ quy định tại điểm d khoản 1 Điều này mà người\nyêu cầu công chứng không có bản chính tại thời điểm công chứng viên ký vào lời\nchứng thì có thể xuất trình bản sao từ sổ gốc hoặc bản sao có chứng thực.\n     8. Tổ chức hành nghề công chứng ghi số văn bản công chứng, đóng dấu, giao\nbản gốc văn bản công chứng cho người yêu cầu công chứng, vào sổ công chứng\nvà lưu trữ hồ sơ công chứng theo quy định tại Điều 68 của Luật này và quy định\nkhác của pháp luật có liên quan."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-067",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt quyền yêu cầu, tư cách yêu cầu và thẩm quyền quyết định.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "54",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 54. Người có quyền đề nghị Tòa án tuyên bố văn bản công chứng\nvô hiệu\n     Công chứng viên đã thực hiện việc công chứng, người yêu cầu công chứng,\n\f                                      34\n\nngười làm chứng, người phiên dịch, người có quyền lợi, nghĩa vụ liên quan, cơ\nquan nhà nước có thẩm quyền có quyền đề nghị Tòa án tuyên bố văn bản công\nchứng vô hiệu khi có căn cứ cho rằng việc công chứng có vi phạm pháp luật.\n\n                                    Mục 2\n            THỦ TỤC CÔNG CHỨNG MỘT SỐ GIAO DỊCH,\n                        NHẬN LƯU GIỮ DI CHÚC"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-068",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Kết hợp địa hạt với yêu cầu riêng về tổ chức đã công chứng thế chấp lần đầu.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "56",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 56. Công chứng hợp đồng thế chấp bất động sản\n     1. Thẩm quyền công chứng hợp đồng thế chấp bất động sản được thực hiện\ntheo quy định tại Điều 44 của Luật này.\n     2. Trường hợp bất động sản đã được thế chấp để bảo đảm thực hiện nghĩa vụ\nvà hợp đồng thế chấp đã được công chứng mà sau đó được tiếp tục thế chấp để\nbảo đảm cho nghĩa vụ khác trong phạm vi pháp luật cho phép thì các hợp đồng\nthế chấp tiếp theo phải được công chứng tại tổ chức hành nghề công chứng đã\ncông chứng hợp đồng thế chấp lần đầu. Trường hợp tổ chức hành nghề công chứng\nđã thực hiện việc công chứng lần đầu chấm dứt hoạt động, chuyển đổi hoặc giải\nthể thì công chứng viên của tổ chức hành nghề công chứng đang lưu trữ hồ sơ\ncông chứng thực hiện việc công chứng hợp đồng thế chấp tiếp theo đó. Trường\nhợp tổ chức hành nghề công chứng đã thực hiện việc công chứng lần đầu tạm\nngừng hoạt động thì việc công chứng hợp đồng thế chấp tiếp theo được thực hiện\ntheo quy định tại khoản 4 Điều 32 của Luật này."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-069",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt thay đổi tình trạng y tế và thay đổi tình trạng pháp lý đã được Tòa án xác định.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "22",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/authorization-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 22. MẤt năng lực hành vi dân sự\n\n1. Khi một người do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể\nnhận thức, làm chủ được hành vi thì theo yêu cầu của người có quyên, lợi ích\nliên quan hoặc của cơ ; quan, tổ chức hữu quan, Tòa án ra quyết định tuyên bố\nngười này là người mắt năng lực hành vi dân sự trên cơ sở kết luận giám định\npháp y tâm thần.\n\nKhi không còn căn cứ tuyên bố một người mất năng lực hành vi dân sự thì\ntheo yêu câu của chính người đó hoặc của người có quyền, lợi ích liên quan\nhoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết định huỷ bỏ quyết định\ntuyên bố mắt năng lực hành vi dân sự.\n\n2. Giao dịch dân sự của người mắt năng lực hành vi dân sự phải do người\nđại diện theo pháp luật xác lập, thực hiện."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-070",
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tách giao dịch cần chấp thuận, giao dịch bị cấm và ngoại lệ giao dịch với người giám hộ.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "59",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 59. Quản lý tài sản của người được giám hộ\n\n1. Người giám hộ của người chưa thành niên, người mắt năng lực hành vi\ndân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của\nchính mình; được thực hiện giao địch dân sự liên quan đến tài sản của người\nđược giám hộ vì lợi ích của người được giám hộ.\n\nViệc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm có, thế chấp, đặt cọc\nvà giao dịch dân sự khác đôi với tài sản có giá trị lớn của người được giám hộ\nphải được sự đông ý của người giám sát việc giám hộ.\n\nNgười giám hộ không được đem tài sản của người được giám hộ tặng cho\nngười khác. Các giao dịch dân sự giữa người giám hộ với người được giám hộ\ncó liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp\ngiao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của\nngười giám sát việc giám hộ.\n\n^8\n\n19\n\n2. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành\nvi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án\ntrong phạm vỉ được quy định tại khoản 1 Điều này."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-071",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không áp dụng máy móc toàn bộ cơ chế mất năng lực; đọc phạm vi cụ thể của quyết định.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "23",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 23. Người có khó khăn trong nhận thức, làm chủ hành vi\n\n1. Người thành niên do tình trạng thể chất hoặc tỉnh thần mà không đủ\nkhả năng nhận thức, làm chủ hành vi nhưng chưa đến mức mất năng lực hành vi\ndân sự thì theo yêu cầu của người này, người có quyền, lợi ích liên quan hoặc\ncủa cơ quan, tổ chức hữu quan, trên cơ sở kết luận giám định pháp y tâm thần,\nTòa án ra quyết định tuyên bố người này là người có khó Khăn trong nhận thức,\nlàm chủ hành vi và chỉ định người giám hộ, xác định quyền, nghĩa vụ của người\ngiám hộ.\n\n2. Khi không còn căn cử tuyên bố một người có khó khăn trong nhận\nthức, làm chủ hành vi thì theo yêu cầu của chính người đó hoặc của người có\nquyền, lợi ích liên quan hoặc của cơ quan, tổ chức hữu quan, Tòa án ra quyết\nđịnh huỷ bỏ quyết định tuyên bố người có khó khăn trong nhận thức, làm chủ\nhành vi."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "59",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 59. Quản lý tài sản của người được giám hộ\n\n1. Người giám hộ của người chưa thành niên, người mắt năng lực hành vi\ndân sự có trách nhiệm quản lý tài sản của người được giám hộ như tài sản của\nchính mình; được thực hiện giao địch dân sự liên quan đến tài sản của người\nđược giám hộ vì lợi ích của người được giám hộ.\n\nViệc bán, trao đổi, cho thuê, cho mượn, cho vay, cầm có, thế chấp, đặt cọc\nvà giao dịch dân sự khác đôi với tài sản có giá trị lớn của người được giám hộ\nphải được sự đông ý của người giám sát việc giám hộ.\n\nNgười giám hộ không được đem tài sản của người được giám hộ tặng cho\nngười khác. Các giao dịch dân sự giữa người giám hộ với người được giám hộ\ncó liên quan đến tài sản của người được giám hộ đều vô hiệu, trừ trường hợp\ngiao dịch được thực hiện vì lợi ích của người được giám hộ và có sự đồng ý của\nngười giám sát việc giám hộ.\n\n^8\n\n19\n\n2. Người giám hộ của người có khó khăn trong nhận thức, làm chủ hành\nvi được quản lý tài sản của người được giám hộ theo quyết định của Tòa án\ntrong phạm vỉ được quy định tại khoản 1 Điều này."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-072",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Kiểm tra thời hạn quyền nền trước khi chấp nhận thời hạn quyền bề mặt.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "270",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 270. Thời hạn của quyền bề mặt\n\n1. Thời hạn của quyền bề mặt được xác định theo quy định của luật, theo\nthoả thuận hoặc di chúc nhưng không vượt quá thời hạn của quyên sử dụng đât.\n\n2. Trường hợp thoả thuận hoặc di chúc không xác định thời hạn của quyền\nbề mặt thì mỗi bên có quyền chấm dứt quyền này bất cứ lúc nào nhưng phải\nthông báo bằng văn bản cho bên kia biết trước ít nhất là 06 tháng."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-073",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt chấm dứt quyền hưởng dụng với mất quyền sở hữu tài sản.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "265",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 265. Chấm dứt quyền hưởng dụng\n\nQuyền hưởng dụng chấm dứt trong trường hợp sau đây:\n\n1. Thời hạn của quyền hưởng dụng đã hết;\n\n2. Theo thỏa thuận của các bên;\n\n3. Người hưởng dụng trở thành chủ sở hữu tài sản là đối tượng của quyền\nhưởng dụng;\n\n4. Người hưởng dụng từ bỏ hoặc không thực hiện quyền hưởng dụng trong\nthời hạn do luật quy định;\n\n5. Tài sản là đối tượng của quyền hưởng dụng không còn;\n\n6. Theo quyết định của Tòa án;\n\n7. Căn cứ khác theo quy định của luật."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-074",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tách phạm vi nghĩa vụ khỏi giá trị tài sản bảo đảm, tính các khoản hợp pháp và xét nhánh nghĩa vụ tương lai.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "293",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/completion-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 293. Phạm vi nghĩa vụ được bảo đảm\n\ng mạ min he\n\n1, Nghĩa vụ có thể được bảo đảm một phần hoặc toàn bộ theo thoả thuận\nhoặc theo quy định của pháp luật; nếu không có thoả thuận và pháp luật không\nquy định phạm vi bảo đảm thì nghĩa vụ coi như được bảo đảm toàn bộ, kể cả\nnghĩa vụ trả lãi, tiền phạt và bồi thường thiệt hại.\n\n2. Nghĩa vụ được bảo, đảm có thể là nghĩa vụ hiện tại, nghĩa vụ trong\ntương lai hoặc nghĩa vụ có điều kiện.\n\n3. Trường hợp bảo đảm nghĩa vụ trong tương lai thì nghĩa vụ được hình\nthành trong thời hạn bảo đảm là nghĩa vụ được bảo đảm, trừ trường hợp có thỏa\nthuận khác."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-075",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Áp dụng ngoại lệ của di chúc, không lấy quy tắc sửa hợp đồng để buộc quay lại tổ chức cũ.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "58",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 58. Công chứng di chúc\n     1. Người lập di chúc không được ủy quyền cho người khác mà phải tự mình\nký hoặc ký và điểm chỉ vào bản di chúc được công chứng. Trường hợp người lập\ndi chúc không ký được và không điểm chỉ được thì việc lập di chúc phải có người\nlàm chứng theo quy định tại khoản 2 Điều 49 của Luật này.\n     2. Trường hợp công chứng viên nhận thấy người lập di chúc có dấu hiệu bị\nmất năng lực hành vi dân sự, bị hạn chế năng lực hành vi dân sự, có khó khăn\ntrong nhận thức, làm chủ hành vi hoặc có căn cứ cho rằng việc lập di chúc có dấu\nhiệu bị lừa dối, đe dọa hoặc cưỡng ép thì công chứng viên đề nghị người lập di\nchúc làm rõ, trường hợp không làm rõ được thì công chứng viên từ chối công\nchứng di chúc đó.\n     3. Trường hợp tính mạng người lập di chúc bị cái chết đe dọa thì người lập\ndi chúc không phải xuất trình đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật\nnày nhưng phải ghi rõ trong văn bản công chứng.\n\f                                       36\n\n     Sau 03 tháng kể từ thời điểm lập di chúc theo quy định tại khoản này mà\nngười lập di chúc không còn trong tình trạng nguy hiểm đến tính mạng thì người\nlập di chúc phải nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật này, nếu\nngười lập di chúc không nộp đủ giấy tờ quy định tại khoản 1 Điều 42 của Luật\nnày thì văn bản công chứng di chúc không có hiệu lực.\n     4. Di chúc đã được công chứng nhưng sau đó người lập di chúc muốn sửa\nđổi, bổ sung, thay thế, hủy bỏ một phần hoặc toàn bộ di chúc thì có thể yêu cầu\ncông chứng viên của bất kỳ tổ chức hành nghề công chứng nào công chứng việc\nsửa đổi, bổ sung, thay thế hoặc hủy bỏ đó. Trường hợp di chúc trước đó đang được\nlưu giữ tại 01 tổ chức hành nghề công chứng thì người lập di chúc phải thông báo\ncho tổ chức hành nghề công chứng đang lưu giữ di chúc biết việc sửa đổi, bổ sung,\nthay thế, hủy bỏ một phần hoặc toàn bộ di chúc đó."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-076",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không suy quyền tự định đoạt từ một tên trên giấy; kiểm tra tính chất tài sản và đồng thuận.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "34",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 34. Đăng ký quyền sở hữu, quyền sử dụng đối với tài sản chung\n    1. Trong trường hợp tài sản thuộc sở hữu chung của vợ chồng mà pháp luật\nquy định phải đăng ký quyền sở hữu, quyền sử dụng thì giấy chứng nhận quyền sở\nhữu, giấy chứng nhận quyền sử dụng phải ghi tên cả hai vợ chồng, trừ trường hợp\nvợ chồng có thỏa thuận khác.\n     2. Trong trường hợp giấy chứng nhận quyền sở hữu, giấy chứng nhận quyền sử\ndụng tài sản chỉ ghi tên một bên vợ hoặc chồng thì giao dịch liên quan đến tài sản\nnày được thực hiện theo quy định tại Điều 26 của Luật này; nếu có tranh chấp về\ntài sản đó thì được giải quyết theo quy định tại khoản 3 Điều 33 của Luật này."
+        },
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "35",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 35. Chiếm hữu, sử dụng, định đoạt tài sản chung\n    1. Việc chiếm hữu, sử dụng, định đoạt tài sản chung do vợ chồng thỏa thuận.\n   2. Việc định đoạt tài sản chung phải có sự thỏa thuận bằng văn bản của vợ\nchồng trong những trường hợp sau đây:\n    a) Bất động sản;\n    b) Động sản mà theo quy định của pháp luật phải đăng ký quyền sở hữu;\n    c) Tài sản đang là nguồn tạo ra thu nhập chủ yếu của gia đình."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-077",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Theo dõi căn cứ chia ban đầu, phần đã chia và quan hệ với người thứ ba khi chấm dứt hiệu lực chia.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "41",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 41. Chấm dứt hiệu lực của việc chia tài sản chung trong thời kỳ\nhôn nhân\n    1. Sau khi chia tài sản chung trong thời kỳ hôn nhân, vợ chồng có quyền thỏa\nthuận chấm dứt hiệu lực của việc chia tài sản chung. Hình thức của thỏa thuận\nđược thực hiện theo quy định tại khoản 2 Điều 38 của Luật này.\n    2. Kể từ ngày thỏa thuận của vợ chồng quy định tại khoản 1 Điều này có\nhiệu lực thì việc xác định tài sản chung, tài sản riêng của vợ chồng được thực\nhiện theo quy định tại Điều 33 và Điều 43 của Luật này. Phần tài sản mà vợ,\nchồng đã được chia vẫn thuộc sở hữu riêng của vợ, chồng, trừ trường hợp vợ\nchồng có thỏa thuận khác.\n    3. Quyền, nghĩa vụ về tài sản phát sinh trước thời điểm chấm dứt hiệu lực của\nviệc chia tài sản chung vẫn có hiệu lực, trừ trường hợp các bên có thỏa thuận khác.\n    4. Trong trường hợp việc chia tài sản chung trong thời kỳ hôn nhân được thực\nhiện theo bản án, quyết định có hiệu lực của Tòa án thì thỏa thuận chấm dứt hiệu\nlực của việc chia tài sản chung phải được Tòa án công nhận."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-078",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt phân công trả nợ nội bộ với thay đổi quyền đòi nợ của người thứ ba.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "60",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 60. Giải quyết quyền, nghĩa vụ tài sản của vợ chồng đối với người\nthứ ba khi ly hôn\n    1. Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực\nsau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.\n    2. Trong trường hợp có tranh chấp về quyền, nghĩa vụ tài sản thì áp dụng\nquy định tại các điều 27, 37 và 45 của Luật này và quy định của Bộ luật Dân sự\nđể giải quyết.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                            72"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-079",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tách căn cứ xử lý khỏi quyền chọn phương thức; không suy tự động nhận tài sản.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "303",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/completion-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 303. Phương thức xử lý tài sản cầm cố, thế chấp\n\n1. Bên bảo đám và bên nhận bảo đảm có quyền thỏa thuận một trong các\nphương thức xử lý tài sản cầm có, thế chấp sau đây:\n\na) Bán đầu giá tải sản;\n\nb) Bên nhận bảo đảm tự bán tài sản;\n\ne) Bên nhận bảo đảm nhận chính tài sản để thay thế cho việc thực hiện\nnghĩa vụ của bên bảo đảm;\n\nđ) Phương thức khác.\n\n2. Trường hợp không có thỏa thuận về phương thức xử lý tài sản bảo đảm\ntheo quy định tại khoản 1 Điều nảy thì tài sản được bán đấu giá, trừ trường hợp\nluật có quy định khác."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-080",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Giữ ranh giới quyền sở hữu và điều kiện định đoạt khi tài sản đang bảo đảm nghĩa vụ.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "312",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 312. Quyền của bên cầm cố\n\n1. Yêu cầu bên nhận cầm cố chấm dứt việc sử dụng tài sản cầm cố trong\ntrường hợp quy định tại khoản 3 Điều 314 của Bộ luật này nếu do sử dụng mà\ntài sản cầm cỗ có nguy cơ bị mắt giá trị hoặc giảm sút giá trị.\n\n2. Yêu cầu bên nhận cầm cố trả lại tài sản cằm có cố và giấy tờ liên quan,\nnếu có khi nghĩa vụ được bảo đảm bảng cằm cố chấm dứt.\n\n3. Yêu cầu bên nhận cầm cố bồi thường thiệt hại xảy ra đối với tài sản\ncằm cố.\n\n4. Được. bán, thay thế, trao đổi, tặng cho tài sản cầm cố nếu được bên\nnhận cầm cố đồng ý hoặc theo quy định của luật."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-081",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Kết hợp tuổi, loại tài sản, đồng thuận cha mẹ và mục đích vì lợi ích của con.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "73",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 73. Đại diện cho con\n    1. Cha mẹ là người đại diện theo pháp luật của con chưa thành niên, con đã\nthành niên mất năng lực hành vi dân sự, trừ trường hợp con có người khác làm\ngiám hộ hoặc có người khác đại diện theo pháp luật.\n    2. Cha hoặc mẹ có quyền tự mình thực hiện giao dịch nhằm đáp ứng nhu cầu\nthiết yếu của con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự\nhoặc không có khả năng lao động và không có tài sản để tự nuôi mình.\n    3. Đối với giao dịch liên quan đến tài sản là bất động sản, động sản có đăng\nký quyền sở hữu, quyền sử dụng, tài sản đưa vào kinh doanh của con chưa thành\nniên, con đã thành niên mất năng lực hành vi dân sự thì phải có sự thỏa thuận\ncủa cha mẹ.\n    4. Cha, mẹ phải chịu trách nhiệm liên đới về việc thực hiện giao dịch liên quan\nđến tài sản của con được quy định tại khoản 2 và khoản 3 Điều này và theo quy\nđịnh của Bộ luật Dân sự.\n\f                  CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                         77"
+        },
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "77",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành\nniên mất năng lực hành vi dân sự\n     1. Trường hợp cha mẹ hoặc người giám hộ quản lý tài sản riêng của con dưới\n15 tuổi thì có quyền định đoạt tài sản đó vì lợi ích của con, nếu con từ đủ 09 tuổi\ntrở lên thì phải xem xét nguyện vọng của con.\n\f                 CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                      78\n\n    2. Con từ đủ 15 tuổi đến dưới 18 tuổi có quyền định đoạt tài sản riêng, trừ\ntrường hợp tài sản là bất động sản, động sản có đăng ký quyền sở hữu, quyền sử\ndụng hoặc dùng tài sản để kinh doanh thì phải có sự đồng ý bằng văn bản của cha\nmẹ hoặc người giám hộ.\n    3. Trong trường hợp con đã thành niên mất năng lực hành vi dân sự thì việc\nđịnh đoạt tài sản riêng của con do người giám hộ thực hiện."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-082",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không bỏ sót ngoại lệ dùng tài sản kinh doanh khi người chưa thành niên đã có quyền định đoạt rộng hơn.",
+      "provisions": [
+        {
+          "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
+          "article": "77",
+          "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+          "evidenceOrigin": "official VBHN 121/2025 PDF text",
+          "evidenceExcerpt": "Điều 77. Định đoạt tài sản riêng của con chưa thành niên, con đã thành\nniên mất năng lực hành vi dân sự\n     1. Trường hợp cha mẹ hoặc người giám hộ quản lý tài sản riêng của con dưới\n15 tuổi thì có quyền định đoạt tài sản đó vì lợi ích của con, nếu con từ đủ 09 tuổi\ntrở lên thì phải xem xét nguyện vọng của con.\n\f                 CÔNG BÁO/Số 1299 + 1300/Ngày 11-9-2025                      78\n\n    2. Con từ đủ 15 tuổi đến dưới 18 tuổi có quyền định đoạt tài sản riêng, trừ\ntrường hợp tài sản là bất động sản, động sản có đăng ký quyền sở hữu, quyền sử\ndụng hoặc dùng tài sản để kinh doanh thì phải có sự đồng ý bằng văn bản của cha\nmẹ hoặc người giám hộ.\n    3. Trong trường hợp con đã thành niên mất năng lực hành vi dân sự thì việc\nđịnh đoạt tài sản riêng của con do người giám hộ thực hiện."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-083",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân loại vật đặc định và tách thanh toán giá trị khỏi khoản bồi thường bổ sung.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "356",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 356. Trách nhiệm do không thực hiện nghĩa vụ giao vật\n\n1. Trường hợp nghĩa vụ giao vật đặc định không được thực hiện thì bên bị\nvi phạm có quyền yêu cầu bên vi phạm phải giao đúng vật đó; nếu vật không\ncòn hoặc bị hư hỏng thì phải thanh toán giá trị của vật.\n\n95\n\n%3\n\n2. Trường hợp nghĩa vụ giao vật cùng loại không được thực hiện thì bên\nbị ví phạm có quyển yêu cầu bên vi phạm phải giao vật cùng loại khác; nếu\nkhông có vật cùng loại khác thay thế thì phải thanh toán giá trị của vật.\n\n3. Trường hợp việc vi phạm nghĩa vụ quy định tại khoản 1 và khoản 2.\nĐiều này mà gây thiệt hại cho bên bị vi phạm thì bên vi phạm phải bồi thường\nthiệt hại."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-084",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt hoàn thành nghĩa vụ, miễn phần còn lại và vô hiệu giao dịch.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "373",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 373. Hoàn thành nghĩa vụ\n\nNghĩa vụ được hoàn thành khi bên có nghĩa vụ đã thực hiện toàn bộ. nghĩa\n\nvụi hoặc thực hiện một phần nghĩa vụ nhưng phần còn lại được bên có quyền cho\nmiễn thực hiện."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-085",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Xác định đúng nhánh quản lý tạm thời, không nhầm với quản lý nhà nước hoặc sở hữu.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "616",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 616. Người quản lý di sản\n\n1. Người quản lý đi sản là người được chỉ định trong di chúc hoặc do\nnhững người thừa kê thoả thuận cử ra.\n\n2. Trường hợp di chúc không chỉ định người quản lý đi sản và những\nngười thừa kế chưa cử được người quản lý di sản thì người đang chiếm hữu, sử\ndụng, quản lý di sản tiếp tục quản lý di sản đó cho đến khi những người thừa kế\ncử được người quản lý di sản.\n\n3. Trường hợp chưa xác định được người thừa kế và di sản chưa có người\nquản lý theo quy định tại khoản 1 và khoản 2 Điều này thì di sản do cơ quan nhà\nnước có thẩm quyền quản lý.\n\nÁGÐ\n\n153"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-086",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tách bổ nhiệm quản lý khỏi chấp thuận định đoạt và trách nhiệm bảo quản.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "617",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 617. Nghĩa vụ của người quản lý di sản\n1. Người quản lý di sản quy định tại khoản 1 và khoản 3 Điều 616 của Bộ\nluật này có nghĩa vụ sau đây:\n\na) Lập danh mục đi sản; thu hồi tài sản thuộc di sản của người chết mà\nngười khác đang chiêm hữu, trừ trường hợp pháp luật có quy định khác;\n\nb) Bảo quản đi sản; không được bán, trao đổi, tặng cho, cằm cố, thế chấp\nhoặc định đoạt tài sản bằng hình thức khác, nếu không được những người thừa\nkế đồng ý bằng văn bản;\n\nc) Thông báo về tình trạng di sản cho những người thừa kế;\n\nd) Bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại;\n\nđ) Giao lại di sản theo yêu cầu của người thừa kế.\n\n-% Người đang chiếm hữu, sử dụng, quản lý di sản quy định tại khoản 2\n\nĐiêu 616 của Bộ luật này có nghĩa vụ sau đây:\n\na) Bảo quản đi sản; không được bán, trao đổi, tặng cho, cầm có, thế chấp\nhoặc định đoạt tài sân bằng hình thức khác;\n\nb) Thông báo về di sản cho những người thừa kế;\n\nc) Bồi thường thiệt hại nếu vi phạm nghĩa vụ của mình mà gây thiệt hại;\n\nđ) Giao lại đi sản theo thoả thuận trong hợp đồng với người để lại di sản\nhoặc theo yêu câu của người thừa kê."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-087",
+      "answerKey": [
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không coi thiếu thỏa thuận về mức là miễn thù lao hoặc cho phép tự định mức tùy ý.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "618",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 618. Quyền của người quản lý di sản\n\n1. Người quản lý di sản quy định tại khoản 1 và khoản 3 Điều 616 của Bộ\nluật này có quyền sau đây:\n\n3) Đại diện cho những người thừa kế trong quan hệ với người thứ ba liên\nquan đến di sản thừa kế;\n\nb) Được hưởng thù lao theo thoả thuận với những người thừa kế;\n\n©) Được thanh toán chỉ phí bảo quản di sản.\n\n2. Người đang chiếm hữu, sử dụng, quản lý di sản quy định tại khoản 2\nĐiều 616 của Bộ luật này có quyền sau đây:\n\na) Được tiếp tục sử dụng di sản theo thoả thuận trong hợp đồng với người\nđể lại di sản hoặc được sự đồng ý của những người thừa kế;\n\nb) Được hưởng thù lao theo thoả thuận với những người thừa kế;\n\nc) Được thanh toán chỉ phí bảo quản di sản.\n\n3. Trường hợp không đạt được thỏa thuận với những người thừa kế về\nmức thù lao thì người quản lý di sản được hưởng một khoản thù lao hợp lý.\n\n“£u\n\n1⁄4"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-088",
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt yêu cầu văn bản với yêu cầu công chứng và giới hạn của thỏa thuận họp mặt.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "656",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 656. Họp mặt những người thừa kế\n\n1. Sau khi có thông báo về việc mở thừa kế hoặc di chúc được công bố,\nnhững người thừa kê có thê họp mặt đê thoả thuận những việc sau đây:\n\na) Cử người quản lý di sản, người phân chia di sản, xác định quyền, nghĩa\nvụ của những người này, nếu người để lại di sản không chỉ định trong di chúc;\n\nb) Cách thức phân chia di sản.\n\n2. Mọi thoả thuận của những người thừa kế phải được lập thành văn bản."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-089",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt hình thức không có người làm chứng với mọi loại di chúc bằng văn bản khác.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "633",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 633. Di chúc bằng văn bản không có người làm chứng\n\nNgười lập di chúc phải tự viết và ký vào bản di chúc.\n\nViệc lập di chúc bằng văn bản không có người làm chứng phải tuân theo\nquy định tại Điều 631 của Bộ luật này."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "630",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 630. Di chúc hợp pháp\n\n1. Di chúc hợp pháp phải có đủ các điều kiện sau đây:\n\na) Người lập di chúc minh mẫn, sáng suốt trong khi lập đi chúc; không bị\nlừa dối, đe doạ, cưỡng ép;\n\nb) Nội dung của di chúc không vi phạm điều cấm của luật, không trái đạo\nđức xã hội; hình thức di chúc không trái quy định của luật.\n\n2. Di chúc của người từ đủ mười lăm tuổi đến chưa đủ mười tám tuổi phải\nđược lập thành văn bản và phải được cha, mẹ hoặc người giám hộ đồng ý về\nviệc lập đi chúc.\n\n3. Di chúc của người bị hạn chế về thể chất hoặc của người không biết chữ\nphải được người làm chứng lập thành văn bản và có công chứng hoặc chứng thực.\n\n4.Di chúc bằng văn bản không có công chứng, chứng thực chỉ được coi là\nhợp pháp, nếu có đủ các điều kiện được quy định tại khoản 1 Điều này.\n\n5. Di chúc miệng được coi là hợp pháp nếu người di chúc miệng thể hiện\ný chí cuối cùng của mình trước mặt ít nhất hai người làm chứng và ngay sau khi\nngười di chúc miệng thể hiện ý chí cuối cùng, người làm chứng ghỉ chép lại,\ncùng ký tên hoặc điểm chỉ. Trong thời hạn 05 ngày làm việc, kế từ ngày người di\nchúc miệng thể hiện ý chí cuối cùng thì di chúc phải được công chứng viên hoặc\ncơ quan có thẩm quyền chứng thực xác nhận chữ ký hoặc điểm chỉ của người\nlàm chứng."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-090",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Áp dụng giới hạn do nợ trước, sau đó phân biệt sở hữu, thừa kế và quản lý phần thờ cúng.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "645",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 645. Di sản dùng vào việc thờ cúng\n\n1. Trường hợp người lập di chúc để lại một phần di sản dùng vào việc thờ\ncúng thì phần đi sản đó không được 4 chia thừa kế và được giaO ‹ cho người đã\nđược chỉ định trong di chúc quản lý để thực hiện việc thờ cúng; nếu người được\nchỉ định không thực hiện đúng di chúc hoặc không theo thoả thuận của những\nngười thừa kế thì những người thừa kế có quyền giao phần đi sản dùng vào việc\nthờ cúng cho người khác quản lý để thờ cúng.\n\nTrường hợp người để lại đi sản không chỉ định người quản lý di sản thờ\ncúng thì những người thừa kê cử người quản lý di sản thờ cúng.\n\nTrường hợp tất cả những người thừa kế theo di chúc đều đã chết thì phần\ndị sản dùng để thờ cúng thuộc về ) người đang quản lý hợp pháp di sản đó trong\nsố những người thuộc diện thừa kế theo pháp luật.\n\n2. Trường hợp toàn bộ di sản của người chết không đủ để thanh toán\nnghĩa vụ tài sản của người đó thì không được dành một phân di sản dùng vào\nviệc thờ cúng."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-091",
+      "answerKey": [
+        "A"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không áp dụng tuyệt đối việc miễn nghĩa vụ của người được di tặng; tính thiếu hụt và phần còn lại.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "646",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 646. Di tặng\n\n1, Di tặng là việc người lập di chúc dành một phần đi sản để tặng cho\nngười khác. Việc di tặng phải được ghi rõ trong di chúc.\n\nÑ€⁄⁄\n\n161\n\n2. Người được di tặng là cá nhân phải còn sống vào thời điểm mở thừa kế\nhoặc sinh ra và còn sông sau thời điểm mở thừa kê nhưng đã thành thai trước khi\nngười đê lại di sản chết. Trường hợp người được di tặng không phải là cá nhân\nthì phải tồn tại vào thời điểm mở thừa kế.\n\n3. Người được di tặng không phải thực hiện nghĩa vụ tài sản đối với phần\nđược di tặng, trừ trường hợp toàn bộ di sản không đủ đề thanh toán nghĩa vụ tài\nsản của người lập di chúc thì phân di tặng cũng được dùng để thực hiện phân\nnghĩa vụ còn lại của người này."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "615",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 615. Thực hiện nghĩa vụ tài sản do người chết để lại\n\n1. Những người hưởng thừa kế có trách nhiệm thực hiện nghĩa vụ tài sản\ntrong phạm vi di sản đo người chết để lại, trừ trường hợp có thoả thuận khác.\n\n2. Trường hợp di sản chưa được chia thì nghĩa vụ tài sản do người chết để\nlại được người quản lý di sản thực hiện theo thoả thuận của những người thừa kế\ntrong phạm vì di sản do người chết để lại.\n\n3. Trường hợp di sản đã được chia thì mỗi người thừa kế thực hiện nghĩa\nvụ tài sản do người chết để lại tương ứng nhưng không vượt quá phần tài sản mà\nmình đã nhận, trừ trường hợp có thoả thuận khác.\n\n4. Trường hợp người thừa kế không phải là cá nhân hưởng di sản theo di\nchúc thì cũng phải thực hiện nghĩa vụ tài sản do người chết để lại như người\nthừa kế là cá nhân."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-092",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt chuyển qua di sản người chết sau và thế vị khi không xác định được thứ tự chết.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "619",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 619. Việc thừa kế của những người có quyền thừa kế di sản của\nnhau mà chết cùng thời điểm\n\nTrường hợp những người có quyền thừa kế đi sản của nhau đều chết cùng\nthời điểm hoặc được coi là chết cùng thời điểm do không thể xác định được\nngười nào chết trước (sau đây gọi chung là chêt cùng thời điểm) thì họ không\nđược thừa kế đi sản của nhau và đi sản của mỗi người do người thừa kế của\nngười đó hưởng, trừ trường hợp thừa kế thế vị theo quy định tại Điều 652 của\nBộ luật này."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "652",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 652. Thừa kế thế vị\n\nTrường hợp con của người để lại di sản chết trước hoặc cùng một thời\nđiểm với người để lại đi sản thì cháu được hưởng phần ‹ di sản mà cha hoặc mẹ\ncủa cháu được hưởng nếu còn sống; nếu cháu cũng chết trước hoặc cùng một\n\n4G)\n\n163\n\nthời điểm với người để lại di sản thì chất được hưởng phần di sản mà cha hoặc\nmẹ của chặt được hưởng nêu còn sông."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-093",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Chọn thời điểm định giá và tỷ lệ thanh toán; không chia lại hiện vật hoặc xóa quyền của người mới.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "651",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 651. Người thừa kế theo pháp luật\n1. Những người thừa kế theo pháp luật được quy định theo thứ tự sau đây:\n\n3) Hàng thừa kế thứ nhất gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, mẹ\nnuôi, con đẻ, con nuôi của người chết;\n\nb) Hàng thừa kế thứ hai gồm: ông nội, bà nội, ông ngoại, bà ngoại, Anh\nruột, chị ruột, em ruột của người chết; cháu ruột của người chết mà người chết là\nông nội, bà nội, ông ngoại, bà ngoại;\n\nc) Hàng thừa kế thứ ba gồm: cụ nội, cụ ngoại của người chết; bác uột,\nchú ruột, cậu ruột, cô ruột, đì ruột của người chết; cháu ruột của người chết mà\nngười chết là bác ruột, chú ruột, cậu ruột, cô ruột, dì ruột; chất ruột của người\nchết mà người chết là cụ nội, cụ ngoại.\n\n2. Những người thừa kế cùng hàng được hưởng phần di sản bằng nhau.\n\n3. Những người ở hàng thừa kế sau chỉ được hưởng thừa kế, nếu khôi\ncòn ai ở hàng thừa kế trước do đã chết, không có quyền hưởng di sản, bị truất\nquyền hưởng di sản hoặc từ chối nhận di sản."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "662",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 662. Phân chia di sản trong trường hợp có người thừa kế mới\nhoặc có người thừa kế bị bác bỏ quyền thừa kế\n\n1. Trường hợp đã phân chia di sản mà xuất hiện người thừa kế mới thì\nkhông thực hiện việc phân chia lại di sản bằng hiện vật, nhưng những người\nthừa kế đã nhận di sản phải thanh toán cho người thừa kế mới một khoản tiên\ntương ứng với phân đi sản của người đó tại thời điểm chia thừa kế theo tỷ lệ\ntương ứng với phần di sản đã nhận, trừ trường hợp có thoả thuận khác.\n\n2. Trường hợp đã phân chia di sản mà có người thừa kế bị bác bỏ quyền\nthừa kế thì người đó phải trả lại di sản hoặc thanh toán một khoản tiền tương\nđương ` với giá trị di sản được hưởng tại thời điểm chia thừa kế cho những người\nthừa kế, trừ trường hợp có thoả thuận khác.\n\nPHÀN THỨ NĂM\nPHÁP LUẬT ÁP DỤNG ĐÓI VỚI QUAN HỆ ĐÂN SỰ\nCÓ YẾU TÓ NƯỚC NGOÀI\nCHƯƠNG XXV\nQUY ĐỊNH CHUNG"
+        }
+      ]
+    },
+    {
+      "id": "CAL26-094",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt tư cách bố dượng, con nuôi và điều kiện thực tế về chăm sóc, nuôi dưỡng.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "654",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 654. Quan hệ thừa kế giữa con riêng và bố đượng, mẹ kế\n\nCon riêng và bố dượng, mẹ kế nếu có quan hệ chăm sóc, nuôi dưỡng nhau\nnhư cha con, mẹ con thì được thừa kế di sản của nhau và còn được thừa kê di\nsản theo quy định tại Điêu 652 và Điêu 653 của Bộ luật này."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-095",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tính đúng mốc xuất phát và phân biệt hạn lần đầu với gia hạn có điều kiện.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "611",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 611. Thời điểm, địa điểm mở thừa kế\n\n1. Thời điểm mở thừa kế là thời điểm người có tài sản chết. Trường hợp\n\nTòa án tuyên bố một người là đã chết thì thời điểm mở thừa kế là ngày được xác\nđịnh tại khoản 2 Điêu 71 của Bộ luật này.\n\nZ9\n\n152\n\n2, Địa điểm mở thừa kế là nơi cư trú cuối cùng của người để lại di sản;\nnếu không xác định được nơi cư trú cuối cùng thì địa điểm mở thừa kế là nơi có\ntoàn bộ di sản hoặc nơi có phần lớn di sản."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "661",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/inheritance-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 661. Hạn chế phân chia di sản\n\nTrường hợp theo ý ý chí của người lập di chúc hoặc theo thoả thuận của tất\ncả những người thừa kê, di sản chỉ được phân chia sau một thời hạn nhất định\nthì chỉ khi đã hết thời hạn đó di sản mới được đem chia.\n\nTrường hợp yêu cầu chia di sản thừa kế mà việc chia di sản ảnh hưởng\nnghiêm trọng đến đời sống của bên vợ hoặc chồng còn sống và gia đình thì bên\ncòn sống có quyền yêu cầu Tòa án xác định phần di sản mà những người thừa kế\nđược hưởng nhưng chưa cho chia di sản trong một thời hạn nhất định. Thời hạn\nnày không quá 03 năm, kể từ thời điểm mở thừa kế. Hết thời hạn 03 năm mà bên\ncòn sông chứng minh được việc chia di sản vẫn ảnh hưởng nghiêm trọng đến\nđời sông của gia đình họ thì có quyền yêu cầu Tòa án gia hạn một lần nhưng\nkhông quá 03 năm."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-096",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Không đồng nhất một người nhận với miễn thủ tục; kiểm tra quyền, tư cách và niêm yết.",
+      "provisions": [
+        {
+          "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
+          "article": "59",
+          "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+          "evidenceOrigin": "official VBHN 50/2026 PDF text",
+          "evidenceExcerpt": "Điều 59. Công chứng văn bản phân chia di sản\n    1. Người thừa kế theo pháp luật hoặc theo di chúc có quyền yêu cầu công\nchứng văn bản phân chia di sản.\n      Công chứng viên có trách nhiệm kiểm tra, bảo đảm việc phân chia di sản\nđược thực hiện theo quy định của Bộ luật Dân sự và quy định khác của pháp luật\ncó liên quan.\n     2. Ngoài các giấy tờ quy định tại khoản 1 Điều 42 hoặc khoản 1 Điều 43 của\nLuật này, hồ sơ yêu cầu công chứng văn bản phân chia di sản còn phải có các giấy\ntờ sau đây:\n    a) Giấy chứng tử hoặc giấy tờ khác theo quy định của pháp luật chứng minh\nngười để lại di sản đã chết;\n     b) Di chúc trong trường hợp thừa kế theo di chúc; giấy tờ chứng minh quan\nhệ giữa người để lại di sản và người được hưởng di sản trong trường hợp thừa kế\ntheo pháp luật và trường hợp người thừa kế không phụ thuộc vào nội dung của di\nchúc theo quy định của Bộ luật Dân sự;\n     c) Giấy tờ chứng minh quyền sử dụng đất, quyền sở hữu tài sản của người\nđể lại di sản trong trường hợp di sản là quyền sử dụng đất hoặc tài sản pháp luật\nquy định phải đăng ký quyền sở hữu.\n     3. Công chứng viên kiểm tra để xác định người để lại di sản đúng là người\ncó quyền sử dụng đất, quyền sở hữu tài sản và những người yêu cầu công chứng\nđúng là người được hưởng di sản; nếu thấy chưa rõ thì công chứng viên yêu cầu\nlàm rõ hoặc tiến hành xác minh, yêu cầu giám định theo quy định tại khoản 4 Điều\n42 của Luật này.\n     4. Tổ chức hành nghề công chứng có trách nhiệm niêm yết việc tiếp nhận\ncông chứng văn bản phân chia di sản. Công chứng viên chỉ được công chứng văn\nbản phân chia di sản sau khi có xác nhận về việc đã hoàn thành việc niêm yết và\nkhông nhận được khiếu nại, tố cáo nào liên quan đến việc phân chia đó.\n\f                                      37\n\n     Chính phủ quy định chi tiết thủ tục niêm yết việc tiếp nhận công chứng văn\nbản phân chia di sản quy định tại khoản này.\n     5. Thủ tục công chứng văn bản phân chia di sản theo quy định tại các khoản\n2, 3 và 4 Điều này cũng áp dụng đối với trường hợp thừa kế theo di chúc hoặc\nthừa kế theo pháp luật mà chỉ có 01 người thừa kế.\n     6. Văn bản phân chia di sản đã được công chứng là căn cứ để cơ quan nhà\nnước có thẩm quyền đăng ký việc chuyển quyền sử dụng đất, quyền sở hữu tài\nsản cho người được hưởng di sản."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-097",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Kiểm tra sự đồng ý hưởng của người thứ ba trước khi áp dụng quyền sửa theo thỏa thuận hai bên.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "417",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 417. Không được sửa đổi hoặc huỷ bỏ hợp đồng vì lợi ích của\nngười thứ ba\n\nKhi người thứ ba đã đồng ý ý hưởng lợi ích thì dù hợp đồng chưa được thực\nhiện, các bên giao kết hợp đồng cũng không được sửa đổi hoặc huỷ bỏ hợp\nđồng, trừ trường hợp được người thứ ba đồng ý."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-098",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Tách báo cáo, giao tài sản, thù lao và trách nhiệm giữ bí mật trong ủy quyền.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "565",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/authorization-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 565. Nghĩa vụ của bên được uỷ quyền\n\n1. Thực hiện công việc theo uỷ quyền và báo cho bên uỷ quyền về việc\nthực hiện công việc đó.\n\n2. Báo cho người thứ ba trong quan hệ thực hiện tỷ quyền về thời hạn,\nphạm vỉ uỷ quyền và việc sửa đổi, bỗ sung phạm vỉ uỷ quyền.\n\n4\n\n140\n\n3. Bảo quản, giữ gìn tài liệu và phương tiện được giao để thực hiện việc\nuỷ quyền.\n\n4. Giữ bí mật thông tin mà mình biết được trong khi thực hiện việc uỷ quyền.\n\n5. Giao lại cho bên uỷ quyền tài sản đã nhận và những lợi ích thu được\ntrong khi thực hiện việc uỷ quyển theo thoả thuận hoặc theo quy định của\npháp luật.\n\n6. Bồi thường thiệt hại đo vi phạm nghĩa vụ quy định tại Điều này."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "568",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/authorization-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 568. Quyền của bên uỷ quyền\n\n1. Yêu cầu bên được uÿ quyền thông báo đầy đủ về việc thực hiện công\nviệc uỷ quyền.\n\n2. Yêu cầu bên được uỷ quyền giao lại tài sản, lợi ích thu được từ việc\nthực hiện công việc uỷ quyên, trừ trường hợp có thoả thuận khác.\n\n3. Được bồi thường thiệt hại, nếu bên được uỷ quyền vi phạm nghĩa vụ\nquy định tại Điêu 565 của Bộ luật này."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-099",
+      "answerKey": [
+        "D"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt hoàn chi phí và trả thù lao, không suy miễn toàn bộ chi phí từ ủy quyền không thù lao.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "566",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/authorization-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 566. Quyền của bên được v quyền\n\n1. Yêu cầu bên uỷ quyền cung cấp thông tin, tài liệu và phương tiện cần\nthiết để thực hiện công việc uỷ quyền.\n\n2. Được thanh toán chỉ phí hợp lý mà mình đã bỏ ra để thực hiện công\nviệc uỷ quyền; hưởng thủ lao, nếu có thỏa thuận."
+        },
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "567",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/authorization-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 567. Nghĩa vụ của bên uỷ quyền\n\n1. Cung cấp thông tỉn, tài liệu và phương tiện cần thiết để bên được uỷ\nquyền thực hiện công việc.\n\n2. Chịu trách nhiệm về cam kết do bên được uỷ quyền thực hiện trong\nphạm vi uỷ quyên.\n\n3. Thanh toán chỉ phí hợp lý mà bên được uỷ quyền đã bỏ ra để thực hiện\ncông việc được uỷ quyền; trả thù lao cho bên được uỷ quyền, nếu có thoả thuận\nvệ việc trả thù lao."
+        }
+      ]
+    },
+    {
+      "id": "CAL26-100",
+      "answerKey": [
+        "C"
+      ],
+      "decision": "SELECTED_PROVISIONS_AND_PER_CHOICE_LOGIC_REVIEWED",
+      "reason": "Phân biệt thay người giám hộ với chấm dứt do người được giám hộ chết, theo dõi thời hạn và tài sản.",
+      "provisions": [
+        {
+          "document": "Bộ luật Dân sự số 91/2015/QH13",
+          "article": "61",
+          "url": "https://vanban.chinhphu.vn/?docid=183188&pageid=27160",
+          "evidenceOrigin": "reports/exam-legal-evidence-2026.json",
+          "evidenceExcerpt": "Điều 61. Chuyến giao giám hộ\n\n1. Khi thay đổi người giám hộ thì trong thời hạn 15 ngày, kể từ ngày có\nngười giám hộ mới, người đã thực hiện việc giám hộ phải chuyển giao giám hộ\ncho người thay thề mình.\n\n2. Việc chuyển giao giám hộ phải được lập thành văn bản, trong đó ghi rõ\nlý do chuyên giao và tình trạng tải sản, vấn đề khác có liên quan của người được\ngiám hộ tại thời điểm chuyến giao. Cơ quan cử, chỉ định người giám hộ, người\ngiám sát việc giám hộ chứng kiến việc chuyển giao giám hộ.\n\n3. Trường hợp thay đổi người giám hộ quy định tại khoản 1 Điều 60 của\nBộ luật này thì cơ quan cử, chỉ định người giám hộ lập biên bản, ghi rõ tình\ntrạng tài sản, vấn đề khác có liên quan của người được giám hộ, quyên, nghĩa vụ\nphát sinh trong quá trình thực hiện việc giám hộ để chuyển giao cho người giám\nhộ mới với sự chứng kiến của người giám sát việc giám hộ."
+        }
+      ]
+    }
+  ]
+}

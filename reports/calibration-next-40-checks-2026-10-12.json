@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-12",
+  "questions": 40,
+  "optionExplanations": 160,
+  "partCounts": {
+    "1": 24,
+    "2": 16
+  },
+  "types": {
+    "single": 24,
+    "multiple": 16
+  },
+  "difficulty": {
+    "recognition": 4,
+    "application": 20,
+    "advanced": 16
+  },
+  "singleKeyCounts": {
+    "B": 6,
+    "C": 6,
+    "A": 6,
+    "D": 6
+  },
+  "multipleAnswerSubsetsChecked": 256,
+  "articleEvidenceComplete": true,
+  "arithmeticChecksPassed": true,
+  "scope": "40 new items ready for shared practice/mock bank; difficulty remains estimated pending real attempts."
+}

@@ -281,6 +281,20 @@
       "title": "20 câu chuẩn hiệu chỉnh độ khó – rà soát điều khoản chọn lọc 12/10/2026",
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/calibration-20-legal-review-2026-10-12.json",
       "use": "Câu CAL26-001 đến CAL26-020 có giải thích từng phương án và đối chiếu điều khoản; mức khó dự kiến chờ làm thử, không chứng nhận lại toàn ngân hàng."
+    },
+    {
+      "id": "CALIBRATION40-20261012",
+      "type": "legal-review",
+      "title": "40 câu chuẩn 21–60 – đối chiếu điều khoản chọn lọc 12/10/2026",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/calibration-40-legal-review-2026-10-12.json",
+      "use": "Câu viết mới, giải thích từng lựa chọn, căn cứ theo nhánh; mức khó dự kiến chờ đo thực tế, không chứng nhận lại toàn ngân hàng."
+    },
+    {
+      "id": "CALIBRATIONNEXT40-20261012",
+      "type": "legal-review",
+      "title": "40 câu chuẩn 61–100 – đối chiếu điều khoản chọn lọc 12/10/2026",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/calibration-next-40-legal-review-2026-10-12.json",
+      "use": "Câu viết mới, giải thích từng lựa chọn, căn cứ theo nhánh; mức khó dự kiến chờ đo thực tế, không chứng nhận lại toàn ngân hàng."
     }
   ]
 }

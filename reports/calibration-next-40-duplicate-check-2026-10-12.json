@@ -1,0 +1,245 @@
+{
+  "scope": "Current eligible bank; word overlap is a review aid, not proof of semantic uniqueness.",
+  "questions": [
+    {
+      "id": "CAL26-061",
+      "closestId": "COMP26-QT-001",
+      "wordJaccard": 0.426,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-062",
+      "closestId": "AUTH26-002",
+      "wordJaccard": 0.306,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-063",
+      "closestId": "REFIN26-QT-019",
+      "wordJaccard": 0.242,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-064",
+      "closestId": "VER26-037",
+      "wordJaccard": 0.349,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-065",
+      "closestId": "CC-043",
+      "wordJaccard": 0.291,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-066",
+      "closestId": "VER26-001",
+      "wordJaccard": 0.415,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-067",
+      "closestId": "CC-084",
+      "wordJaccard": 0.333,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-068",
+      "closestId": "FAM26-003",
+      "wordJaccard": 0.309,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-069",
+      "closestId": "CC-025",
+      "wordJaccard": 0.267,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-070",
+      "closestId": "FAM26-023",
+      "wordJaccard": 0.333,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-071",
+      "closestId": "VER26-090",
+      "wordJaccard": 0.333,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-072",
+      "closestId": "VER26-NEW-66",
+      "wordJaccard": 0.25,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-073",
+      "closestId": "IMP-T60-079",
+      "wordJaccard": 0.268,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-074",
+      "closestId": "COMP26-DS-001",
+      "wordJaccard": 0.404,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-075",
+      "closestId": "VER26-080",
+      "wordJaccard": 0.245,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-076",
+      "closestId": "REFIN26-DAT-011",
+      "wordJaccard": 0.404,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-077",
+      "closestId": "VER26-034",
+      "wordJaccard": 0.367,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-078",
+      "closestId": "FAM26-018",
+      "wordJaccard": 0.292,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-079",
+      "closestId": "IMP-SEP24-010",
+      "wordJaccard": 0.386,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-080",
+      "closestId": "IMP-T60-084",
+      "wordJaccard": 0.312,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-081",
+      "closestId": "IMP-T60-031",
+      "wordJaccard": 0.29,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-082",
+      "closestId": "FAM26-010",
+      "wordJaccard": 0.29,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-083",
+      "closestId": "AUTH26-014",
+      "wordJaccard": 0.276,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-084",
+      "closestId": "AUTH26-009",
+      "wordJaccard": 0.279,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-085",
+      "closestId": "INH26-009",
+      "wordJaccard": 0.323,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-086",
+      "closestId": "INH26-008",
+      "wordJaccard": 0.313,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-087",
+      "closestId": "INH26-010",
+      "wordJaccard": 0.421,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-088",
+      "closestId": "COMP26-TK-004",
+      "wordJaccard": 0.271,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-089",
+      "closestId": "IMP-T60-080",
+      "wordJaccard": 0.293,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-090",
+      "closestId": "INH26-024",
+      "wordJaccard": 0.294,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-091",
+      "closestId": "INH26-026",
+      "wordJaccard": 0.329,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-092",
+      "closestId": "INH26-004",
+      "wordJaccard": 0.217,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-093",
+      "closestId": "INH26-019",
+      "wordJaccard": 0.342,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-094",
+      "closestId": "INH26-028",
+      "wordJaccard": 0.39,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-095",
+      "closestId": "COMP26-TK-002",
+      "wordJaccard": 0.373,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-096",
+      "closestId": "VER26-079",
+      "wordJaccard": 0.431,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-097",
+      "closestId": "IMP-SEP24-036",
+      "wordJaccard": 0.3,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-098",
+      "closestId": "AUTH26-013",
+      "wordJaccard": 0.321,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-099",
+      "closestId": "AUTH26-012",
+      "wordJaccard": 0.353,
+      "exactDuplicate": false
+    },
+    {
+      "id": "CAL26-100",
+      "closestId": "IMP-T60-032",
+      "wordJaccard": 0.203,
+      "exactDuplicate": false
+    }
+  ]
+}
