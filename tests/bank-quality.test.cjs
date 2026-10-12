@@ -363,3 +363,33 @@ test('67 guessability repairs have independent law evidence, three reasoning ste
  assert.match(correct('IMP-T60-027'),/1,8 tỷ.*600 triệu/);assert.match(correct('INH26-028'),/2 tỷ.*1,5 tỷ.*500 triệu/);
  assert.match(correct('INH26-021'),/1,5 tỷ.*750 triệu/);assert.match(correct('CC-005'),/08:40/);
 });
+
+test('60 remaining-case reviews have provision evidence, distinct scenarios, stable keys and bounded difficulty claims',()=>{
+ const profile=read('data/scenario-refinements-remaining-2026.json'),legal=read('reports/remaining-60-legal-review-2026-10-13.json');
+ const screening=read('reports/remaining-726-screening-2026-10-13.json'),prior=read('data/scenario-refinements-2026.json');
+ assert.equal(profile.questions.length,60);assert.equal(legal.questions.length,60);assert.equal(screening.rows.length,726);
+ assert.equal(screening.rewritten,60);assert.equal(screening.remainingOutsidePrevious67,666);assert.equal(screening.eligible,793);
+ const oldIds=new Set(prior.questions.map(r=>r.id));let cross=0;
+ for(const r of profile.questions){const q=r.after,d=legal.questions.find(x=>x.id===r.id);
+  assert.ok(!oldIds.has(q.id));assert.deepEqual(q,d.after);assert.equal(q.empiricallyCalibrated,false);
+  assert.equal(q.integrationSteps.length,3);assert.equal(q.question.variants.length,1);assert.match(q.question.variants[0],/^Tháng 10\/2026:/);
+  assert.notEqual(q.question.variants[0],d.before.question.variants[0]);assert.doesNotMatch(q.question.variants[0],/Điều\s+\d|Khoản\s+\d|quy định gì/i);
+  assert.deepEqual(q.answers.map(a=>[a.id,a.correct]),d.before.answers.map(a=>[a.id,a.correct]));assert.deepEqual(q.answerKey,d.answerKey);
+  assert.equal(new Set(q.answers.map(a=>a.text)).size,4);assert.ok(q.answers.every(a=>a.text.length>=40&&a.explanation.length>20));
+  const right=q.answers.find(a=>a.correct).text.length,wrong=q.answers.filter(a=>!a.correct).map(a=>a.text.length);assert.ok(right<=Math.max(...wrong)*1.6,q.id);
+  assert.ok(d.evidenceKeys.length>=3);for(const k of d.evidenceKeys){const p=legal.evidence[k];assert.ok(p?.excerpt.length>60,k);assert.ok(p.reference.url.startsWith('https://'));assert.ok(q.legalBasis.some(b=>JSON.stringify(b)===JSON.stringify(p.reference)));}
+  const groups=new Set(q.legalBasis.map(b=>/Công chứng/.test(b.document)?'CC':/Dân sự/.test(b.document)?'DS':/Hôn nhân/.test(b.document)?'HN':b.document));cross+=groups.size>=2;
+ }
+ assert.equal(cross,53);assert.equal(screening.crossStatuteNewRepairs,cross);
+ assert.equal(new Set(profile.questions.map(r=>r.after.question.variants[0])).size,60);
+ assert.ok(screening.rows.every(r=>r.empiricallyCalibrated===false));assert.equal(screening.trial.status,'pending');
+ const right=id=>profile.questions.find(r=>r.id===id).after.answers.find(a=>a.correct).text;
+ // Independent reference calculations: common-property separation, legal shares and guaranteed obligations.
+ assert.match(right('FAM26-006'),new RegExp(`W tổng ${600/2+(600/2)/3} triệu`));
+ assert.match(right('FAM26-026'),/mỗi người hưởng 1,5 tỷ/);assert.equal(3/2,1.5);
+ assert.match(right('COMP26-DS-001'),new RegExp(`${500+20+5} triệu`));
+ assert.match(right('COMP26-HN-001'),/tổng 2,5 tỷ/);assert.equal(1+(4-1)/2,2.5);
+ assert.match(right('COMP26-TK-003'),new RegExp(`${(1500/2)*2/3} triệu`));
+ assert.match(right('VER26-070'),new RegExp(`mỗi người ${40/2} triệu`));
+ assert.match(right('AUTH26-018'),/30 triệu/);assert.equal(260-200,60);
+});

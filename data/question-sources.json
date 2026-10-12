@@ -309,6 +309,14 @@
       "title": "67 câu nâng cấp phương án nhiễu và phối hợp quy định",
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/guessability-67-legal-review-2026-10-12.json",
       "use": "Tình huống viết lại, có chứng cứ điều khoản và mốc áp dụng; độ khó dự kiến chờ lượt làm."
+    },
+    {
+      "id": "REMAIN60-20261013",
+      "type": "legal-review",
+      "title": "60 tình huống ngoài nhóm 67: rà phương án dễ loại và phối hợp quy định",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/remaining-60-legal-review-2026-10-13.json",
+      "reviewed": "2026-10-13",
+      "note": "Mức khó dự kiến, chưa hiệu chỉnh theo dữ liệu làm thử; không phải chứng nhận độ khó toàn ngân hàng."
     }
   ]
 }
