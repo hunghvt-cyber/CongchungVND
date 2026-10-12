@@ -1,0 +1,42 @@
+{
+  "questions": 20,
+  "choices": 80,
+  "multipleChoiceQuestions": 8,
+  "matrix": {
+    "recognition": 2,
+    "application": 10,
+    "advanced": 8,
+    "single": 12,
+    "multiple": 8,
+    "part1": 12,
+    "part2": 8
+  },
+  "singleAnswerPositionCounts": {
+    "B": 3,
+    "D": 3,
+    "A": 3,
+    "C": 3
+  },
+  "structuralChecks": "PASS",
+  "independentArithmeticChecks": {
+    "Q15": {
+      "estate": 3000000000.0,
+      "legalShare": 750000000.0,
+      "mandatoryShare": 500000000.0,
+      "H": 1500000000
+    },
+    "Q16": {
+      "legalShare": 300000000.0,
+      "mandatorySpouse": 200000000.0,
+      "H": 700000000
+    },
+    "Q6": {
+      "depositAndEquivalent": 400000000
+    },
+    "Q11": {
+      "contractualReturn": 300000000
+    }
+  },
+  "publication": "Staging only; active bank and live question selection unchanged",
+  "difficulty": "Estimated until group trial"
+}
