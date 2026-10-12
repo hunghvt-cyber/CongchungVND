@@ -274,6 +274,13 @@
       "title": "Ứng viên từ bộ 80 câu: Quyền hưởng dụng",
       "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
       "use": "Giữ mã nguồn staging của câu đã nhập ở commit f975085; văn bản pháp luật được dẫn chiếu, không coi ghi chú staging là bằng chứng READY."
+    },
+    {
+      "id": "CALIBRATION20-20261012",
+      "type": "legal-review",
+      "title": "20 câu chuẩn hiệu chỉnh độ khó – rà soát điều khoản chọn lọc 12/10/2026",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/calibration-20-legal-review-2026-10-12.json",
+      "use": "Câu CAL26-001 đến CAL26-020 có giải thích từng phương án và đối chiếu điều khoản; mức khó dự kiến chờ làm thử, không chứng nhận lại toàn ngân hàng."
     }
   ]
 }
