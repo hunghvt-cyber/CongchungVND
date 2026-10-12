@@ -29,7 +29,7 @@
       if(options.method!=='POST')return await r.json();
     }finally{clearTimeout(timeout);}
   }
-  function nameMarkup() {return `<label class="learner-label">Tên người thi<input id="learnerName" maxlength="80" autocomplete="nickname" value="${esc(getName())}" placeholder="Ví dụ: Thúy An – nhóm 1" required /></label><p class="name-note">Dùng cùng một tên mỗi lần thi để theo dõi tiến bộ. Lịch sử được bảo vệ bằng mã riêng tự lưu trên thiết bị. Khi đổi thiết bị, dùng lại tên và mã lịch sử. Không cần tài khoản.</p><p id="nameStatus" role="alert"></p>`;}
+  function nameMarkup() {return `<label class="learner-label">Tên người thi<input id="learnerName" maxlength="80" autocomplete="nickname" value="${esc(getName())}" placeholder="Ví dụ: Thúy An – nhóm 1" required /></label><p class="name-note">Dùng cùng một tên mỗi lần thi để theo dõi tiến bộ. Lịch sử được bảo vệ bằng mã riêng tự lưu trên thiết bị. Khi đổi thiết bị, dùng lại tên và mã lịch sử. Không cần tài khoản.</p><p class="name-note">Sau ít nhất 3 bài thi đã lưu, tên, số lượt thi và điểm tổng hợp sẽ xuất hiện trên bảng xếp hạng chung. Có thể dùng biệt danh.</p><p id="nameStatus" role="alert"></p>`;}
   function captureName(state) {
     const field=document.querySelector('#learnerName'),name=normalizeName(field.value);
     if(!name||name.length>80){document.querySelector('#nameStatus').textContent='Nhập tên người thi (tối đa 80 ký tự).';field.focus();return false;}
@@ -43,6 +43,7 @@
   async function deliver(row) {
     await request('exam_attempts',row.learner_key,{method:'POST',headers:{Prefer:'return=minimal'},body:JSON.stringify(row)});
     try{setQueue(getQueue().filter(x=>x.id!==row.id));}catch{}
+    window.ExamLeaderboard?.refresh();
   }
   async function saveResult(state) {
     if(!state.learnerName)return;

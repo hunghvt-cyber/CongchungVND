@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Ôn thi tập sự hành nghề công chứng 2027" />
   <title>Ôn thi Công chứng 2027</title>
-  <link rel="stylesheet" href="./styles.css?v=guide1" />
+  <link rel="stylesheet" href="./styles.css?v=leaderboard20261012" />
 </head>
 <body>
   <header class="site-header"><div class="container header-inner"><a class="brand" href="./">Ôn thi Công chứng 2027</a><span class="badge">MVP</span></div></header>
@@ -30,6 +30,7 @@
           <p>Mỗi người có đồng hồ và kết quả riêng, tính từ lúc bắt đầu. Nếu mã bị báo không hợp lệ hoặc khác phiên bản ngân hàng, sao chép lại đầy đủ mã, tải lại trang; nếu vẫn lỗi, người tạo hãy tạo mã đề mới cho cả nhóm.</p>
         </section>
         <section id="guide-progress"><h2>4. Xem thống kê và phần kiến thức cần củng cố</h2>
+          <p><strong>Bảng xếp hạng chung</strong> trên trang chính hiển thị tên/biệt danh, số lượt thi, điểm trung bình và cao nhất. Cần ít nhất 3 bài thi thử đã lưu; mỗi bài được quy đổi về thang 10 rồi tính trung bình. Bằng điểm thì ưu tiên nhiều lượt thi hơn. Bấm <strong>Làm mới</strong> để xem kết quả mới nhất. Khi đổi thiết bị, dùng lại mã lịch sử để giữ cùng thành tích; người trùng tên vẫn có lịch sử và hạng riêng.</p>
           <ol><li>Trên trang chính, tìm <strong>Tiến bộ của người thi</strong>.</li><li>Nhập tên đã dùng khi thi rồi bấm <strong>Xem thống kê</strong>. Sau khi nộp bài, cũng có thể bấm <strong>Xem tiến bộ của tôi</strong>.</li><li>Xem số lần thi, điểm trung bình, gần nhất, cao nhất và biểu đồ tối đa 20 lần thi gần nhất. Phần so sánh điểm theo bài cần đủ lần thi để có hai giai đoạn so sánh.</li><li>Ở <strong>Kiến thức cần củng cố</strong>, xem các chủ đề hay sai hoặc bỏ trống trong 5 lần thi gần nhất; bấm <strong>Ôn các câu cần củng cố</strong> để luyện các câu còn trong ngân hàng.</li><li>Mở từng bài trong <strong>Lịch sử thi và đáp án</strong> để xem lại câu hỏi, lựa chọn, đáp án đúng, giải thích và căn cứ tại lúc thi.</li></ol>
           <p>Đề khác nhau có phạm vi và độ khó khác nhau. Điểm tăng là tín hiệu tham khảo; hãy kết hợp với số câu sai theo chủ đề để đánh giá tiến bộ.</p>
         </section>
@@ -55,6 +56,7 @@
       <button id="mockMode" class="mode-card"><span class="mode-icon">📝</span><span class="card-number">CHẾ ĐỘ 2</span><h2>Thi thử</h2><p>Sinh mã đề, giới hạn thời gian và chỉ xem đáp án sau khi nộp bài.</p><span class="card-action">Bắt đầu thi →</span></button>
     </section>
 
+    <section id="sharedLeaderboard" class="setup-panel" aria-label="Bảng xếp hạng chung"></section>
     <section id="learningProgress" class="setup-panel"></section>
     <section id="setup" class="setup-panel hidden"></section>
     <section id="quiz" class="quiz-panel hidden" aria-live="polite">
@@ -67,7 +69,8 @@
     <section id="result" class="result-panel hidden"></section>
   </main>
   <footer class="site-footer"><div class="container">Ngân hàng câu hỏi sẽ được bổ sung và kiểm chứng dần.</div></footer>
-  <script src="./progress.js?v=progress1"></script>
-  <script type="module" src="./app.js?v=bank20261007refinement80"></script>
+  <script src="./leaderboard.js?v=leaderboard20261012"></script>
+  <script src="./progress.js?v=leaderboard20261012"></script>
+  <script type="module" src="./app.js?v=leaderboard20261012"></script>
 </body>
 </html>

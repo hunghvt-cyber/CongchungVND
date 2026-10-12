@@ -111,3 +111,13 @@ Kiểm thử 3 đề liên tiếp ở mỗi bài, với 5/10/20/50/100 câu. 53 
 569 câu chỉ có một biến thể; 14 câu SRC có ba chuỗi nhưng hai chuỗi chỉ thêm câu dẫn. **583 câu vẫn cần biên soạn biến thể thực chất**. Nhóm 11 câu mới có sửa lời dẫn để phù hợp bốn đáp án; không có câu mới được nâng lên active trong lượt này. Chưa chứng nhận READY hoặc kiểm định lại toàn bộ 594 câu.
 
 Xem [báo cáo lượt Work](reports/work-release-2026-10-08.md), [sổ rà soát từng câu](reports/work-review-register-2026-10-08.json) và [đo trùng đề](reports/anti-repeat-tests-2026-10-08.json).
+
+# Bảng xếp hạng chung — 12/10/2026
+
+Trang chính hiển thị điểm trung bình thang 10 của các bài thi thử đã lưu trên Supabase. Mỗi bài có trọng số bằng nhau dù số câu khác nhau. Tối thiểu 3 bài mới được xếp hạng; sắp theo điểm trung bình chưa làm tròn, rồi số lượt thi giảm dần. Nếu cả hai bằng nhau, ID công khai giữ thứ tự ổn định. Điểm hiển thị làm tròn 2 chữ số, nên hai dòng hiển thị cùng điểm vẫn có thể khác điểm thật. Mỗi mã lịch sử là một người riêng; cùng tên không tự gộp. Dùng lại mã lịch sử khi đổi thiết bị. Đây là bảng động viên tự luyện, không phải chứng nhận kết quả thi.
+
+`leaderboard.js` tải 100 người mỗi trang, có Làm mới và trang trước/tiếp. Sau khi lưu hoặc gửi lại bài thi thành công, bảng tự tải lại. Bài chưa gửi thành công chưa được tính. Tên/biệt danh, số lượt thi, điểm trung bình và cao nhất được công khai; biểu mẫu thi thông báo trước khi bắt đầu.
+
+Áp dụng `supabase/leaderboard.sql` sau `supabase/exam-results.sql` một lần. Trigger cập nhật bảng tổng hợp từ bài thi và bổ sung dữ liệu cũ. Mã lịch sử chỉ có trong bảng ánh xạ ở schema `private`; ID công khai là UUID ngẫu nhiên khác. Bảng công khai chỉ cho phép SELECT và RLS lọc tối thiểu 3 bài, không cấp INSERT/UPDATE/DELETE cho trình duyệt. Các hàm definer nằm ở schema riêng với search_path rỗng, bị thu hồi quyền gọi trực tiếp. Không thay đổi RLS của lịch sử thi.
+
+Kiểm thử: `node --test tests/progress.test.cjs tests/leaderboard.test.cjs`. `tests/leaderboard.sql` kiểm tra tính điểm, ngưỡng 3 bài, trùng tên, quyền đọc/ghi và trigger với role anon trong giao dịch ROLLBACK, không giữ dữ liệu thử.

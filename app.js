@@ -116,6 +116,7 @@ async function loadQuestions() {
 
 function showSetup(mode) {
   document.querySelector('#learningProgress')?.classList.remove('hidden');
+  document.querySelector('#sharedLeaderboard')?.classList.remove('hidden');
   stopTimer();
   state.mode = mode;
   els.quiz.classList.add('hidden'); els.result.classList.add('hidden');
@@ -220,6 +221,7 @@ function startSession(part, count, duration, seed = null, indices = null) {
   recordQuestionHistory(state.questions,part);
   state.duration = duration; state.remaining = duration * 60; state.deadline = Date.now() + state.remaining * 1000;
   document.querySelector('#learningProgress')?.classList.add('hidden');
+  document.querySelector('#sharedLeaderboard')?.classList.add('hidden');
   els.setup.classList.add('hidden'); els.result.classList.add('hidden'); els.quiz.classList.remove('hidden');
   if (state.mode === 'mock') startTimer(); else stopTimer();
   els.examShare.classList.toggle('hidden',state.mode!=='mock');
@@ -333,6 +335,7 @@ function bindResultFeedback() {
 }
 function showPracticeResult() {
   document.querySelector('#learningProgress')?.classList.remove('hidden');
+  document.querySelector('#sharedLeaderboard')?.classList.remove('hidden');
   els.quiz.classList.add('hidden'); els.result.classList.remove('hidden');
   const wrong=state.questions.filter(q=>!state.results[q.id]);
   els.result.innerHTML=`<p class="eyebrow">Hoàn thành</p><h2>Kết quả ôn tập</h2><div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng.</p><p>Đúng: ${state.score} · Sai: ${wrong.length}</p>
@@ -345,6 +348,7 @@ function showPracticeResult() {
 }
 function showMockResult(auto) {
   document.querySelector('#learningProgress')?.classList.remove('hidden');
+  document.querySelector('#sharedLeaderboard')?.classList.remove('hidden');
   els.quiz.classList.add('hidden'); els.result.classList.remove('hidden');
   const unanswered=state.questions.filter(q=>!state.answers[q.id]?.length).length;
   els.result.innerHTML=`<p class="eyebrow">${auto?'Hết giờ':'Đã nộp bài'}</p><h2>Kết quả thi thử</h2>${shareMarkup()}<div class="result-score">${state.score}/${state.questions.length}</div><p>${Math.round(state.score/state.questions.length*100)}% câu trả lời đúng · Điểm: ${(state.score/state.questions.length*10).toFixed(2)}/10.</p><p>Đúng: ${state.score} · Sai: ${state.questions.length-state.score-unanswered} · Chưa trả lời: ${unanswered}</p>
