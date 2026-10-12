@@ -24,7 +24,7 @@ function harness() {
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
     crypto:require('node:crypto').webcrypto,TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyApplicationWording,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyApplicationWording,applyScenarioRefinements,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -113,7 +113,7 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
   h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
   h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
   const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8')).length+11+200);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
-  assert.equal(seen.length,16);assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  assert.equal(seen.length,17);assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
   h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
   h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
   h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);
@@ -377,10 +377,11 @@ test('application wording loader removes every retired recall variant from both 
  const profile=JSON.parse(fs.readFileSync('data/application-wording-2026.json','utf8'));
  const review=JSON.parse(fs.readFileSync('reports/application-wording-review-2026-10-12.json','utf8'));
  h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const worded=await h.applyApplicationWording(base,profile);
  const bank=await h.loadQuestions();assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  assert.equal(bank.find(q=>q.id==='CC-082').status,'archived');
  const reachable=new Set(bank.filter(q=>['active','verified'].includes(q.status)).flatMap(q=>q.question.variants));
- for(const d of review.decisions){const effective=bank.find(q=>q.id===d.id);const original=base.find(q=>q.id===d.id);
+ for(const d of review.decisions){const effective=worded.find(q=>q.id===d.id);const original=base.find(q=>q.id===d.id);
   assert.equal(JSON.stringify(effective.answers),JSON.stringify(original.answers));assert.equal(JSON.stringify(effective.legalBasis),JSON.stringify(original.legalBasis));assert.equal(effective.explanation,original.explanation);
   for(const v of d.beforeVariants)if(!d.afterVariants?.includes(v))assert.ok(!reachable.has(v),d.id+' retired wording');
  }
@@ -397,4 +398,23 @@ test('application wording loader removes every retired recall variant from both 
  await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],id:'unknown'}]}),/mã thiếu/);
  await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],variants:[]}]}),/không hợp lệ/);
  await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],status:'verified'}]}),/trạng thái kiểm định/);
+});
+
+test('67 reviewed refinements load after application wording, grade in both modes, and reject stale or altered keys',async()=>{
+ const h=harness();await new Promise(resolve=>setImmediate(resolve));
+ h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=await h.loadQuestions();assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
+ const profile=JSON.parse(fs.readFileSync('data/scenario-refinements-2026.json','utf8'));const ids=new Set(profile.questions.map(r=>r.id));const edited=bank.filter(q=>ids.has(q.id));assert.equal(edited.length,67);
+ for(const row of profile.questions)assert.equal(JSON.stringify(bank.find(q=>q.id===row.id)),JSON.stringify(row.after));
+ for(const mode of ['practice','mock'])for(const part of [1,2]){
+  const t=harness();t.state.bank=edited;t.state.mode=mode;t.startSession(part,100,30);const expected=edited.filter(q=>q.part===part).length;assert.equal(t.state.questions.length,expected);
+  if(mode==='practice'){for(let i=0;i<expected;i++){t.state.current=i;t.renderQuestion();t.state.selected=new Set(t.state.questions[i].answers.filter(a=>a.correct).map(a=>a.id));assert.equal(t.submitPractice(),true);}}
+  else{for(const q of t.state.questions)t.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);const code=t.state.examCode;t.submitMock();const other=harness();other.state.bank=edited;other.startSharedExam(code);assert.equal(JSON.stringify(t.state.questions),JSON.stringify(other.state.questions));}
+  assert.equal(t.state.score,expected);
+ }
+ const baseFiles=fs.readFileSync('app.js','utf8').match(/const files = \[(.*?)\];/s)[1].match(/'([^']+)'/g).map(s=>s.slice(1,-1));const raw=baseFiles.flatMap(f=>JSON.parse(fs.readFileSync('data/'+f,'utf8')));
+ const styled=await h.applyApplicationWording(raw,JSON.parse(fs.readFileSync('data/application-wording-2026.json','utf8')));
+ const bad=JSON.parse(JSON.stringify(profile));bad.questions[0].after.answers[0].correct=!bad.questions[0].after.answers[0].correct;await assert.rejects(h.applyScenarioRefinements(styled,bad),/khóa/);
+ const stale=JSON.parse(JSON.stringify(styled));stale.find(q=>q.id===profile.questions[0].id).question.variants[0]+=' Changed';await assert.rejects(h.applyScenarioRefinements(stale,profile),/Nguồn câu hỏi đã thay đổi/);
+ await assert.rejects(h.applyScenarioRefinements(styled,{...profile,questions:[profile.questions[0],profile.questions[0]]}),/trùng/);
 });

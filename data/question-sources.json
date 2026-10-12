@@ -302,6 +302,13 @@
       "title": "100 tình huống khó phối hợp nhiều quy định – 12/10/2026",
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/hard-integrated-100-legal-review-2026-10-12.json",
       "use": "100 câu mới, căn cứ chọn lọc và lời giải theo bước; độ khó dự kiến chờ làm thử."
+    },
+    {
+      "id": "GUESS67-20261012",
+      "type": "legal-review",
+      "title": "67 câu nâng cấp phương án nhiễu và phối hợp quy định",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/guessability-67-legal-review-2026-10-12.json",
+      "use": "Tình huống viết lại, có chứng cứ điều khoản và mốc áp dụng; độ khó dự kiến chờ lượt làm."
     }
   ]
 }

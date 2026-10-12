@@ -343,3 +343,23 @@ test('100 new integrated cases link every applied provision and avoid answer-len
  assert.match(text(13),/166⅔ triệu/);assert.match(text(43),/250 triệu/);assert.match(text(45),/200 triệu/);assert.match(text(47),/430 triệu/);
  assert.match(text(81),/500 triệu/);assert.match(text(92),/100 triệu.*50 triệu/);assert.match(text(95),/200 triệu/);assert.match(text(100),/900 triệu/);
 });
+
+test('67 guessability repairs have independent law evidence, three reasoning steps, plausible options and correct arithmetic',()=>{
+ const profile=read('data/scenario-refinements-2026.json'),legal=read('reports/guessability-67-legal-review-2026-10-12.json');assert.equal(profile.questions.length,67);assert.equal(legal.questions.length,67);
+ let cross=0;
+ for(const r of profile.questions){const q=r.after,d=legal.questions.find(x=>x.id===r.id);
+  assert.deepEqual(q,d.after);assert.ok(q.integrationSteps.length>=3);assert.equal(q.empiricallyCalibrated,false);
+  assert.notEqual(q.question.variants[0],d.before.question.variants[0]);assert.equal(q.question.variants.length,1);assert.doesNotMatch(q.question.variants[0],/Điều\s+\d|Khoản\s+\d|quy định gì/i);
+  assert.deepEqual(q.answerKey,d.answerKey);assert.deepEqual(q.answers.map(a=>[a.id,a.correct]),d.before.answers.map(a=>[a.id,a.correct]));
+  assert.ok(q.answers.every(a=>a.text.length>40&&a.explanation.length>20));assert.equal(new Set(q.answers.map(a=>a.text)).size,4);
+  const right=q.answers.find(a=>a.correct).text.length,wrong=q.answers.filter(a=>!a.correct).map(a=>a.text.length);assert.ok(right<=Math.max(...wrong)*1.6,r.id);
+  assert.ok(d.evidenceKeys.length>=3);for(const k of d.evidenceKeys){const e=legal.evidence[k];assert.ok(e?.excerpt.length>60,k);assert.ok(q.legalBasis.some(b=>JSON.stringify(b)===JSON.stringify(e.reference)),r.id+' '+k);}
+  const statutes=new Set(q.legalBasis.map(b=>/Công chứng/.test(b.document)?'CC':/Dân sự/.test(b.document)?'DS':/Hôn nhân/.test(b.document)?'HN':b.document));cross+=statutes.size>=2;
+  if(q.legalBasis.some(b=>/04\/2026\/QH16/.test(b.document)))assert.match(q.question.variants[0],/^Từ 01\/01\/2027:/);
+ }
+ assert.equal(cross,64);
+ const correct=id=>profile.questions.find(r=>r.id===id).after.answers.find(a=>a.correct).text;
+ assert.match(correct('COMP26-DS-002'),/520 triệu/);assert.match(correct('IMP-SEP24-014'),/4 tỷ.*3 tỷ.*1 tỷ/);
+ assert.match(correct('IMP-T60-027'),/1,8 tỷ.*600 triệu/);assert.match(correct('INH26-028'),/2 tỷ.*1,5 tỷ.*500 triệu/);
+ assert.match(correct('INH26-021'),/1,5 tỷ.*750 triệu/);assert.match(correct('CC-005'),/08:40/);
+});

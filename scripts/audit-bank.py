@@ -39,6 +39,9 @@ def audit():
   if row:
    if row.get('status')=='archived':q['status']='archived'
    else:q['question']['variants']=row['variants']
+ refined=json.loads((ROOT/'data/scenario-refinements-2026.json').read_text())
+ repairs={r['id']:r['after'] for r in refined['questions']}
+ bank=[repairs.get(q['id'],q) for q in bank]
  source=json.loads((ROOT/'data/question-sources.json').read_text())
  sources={s['id']:s for s in source['sources']}
  for q in bank:

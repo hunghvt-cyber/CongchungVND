@@ -113,7 +113,10 @@ async function loadQuestions() {
   }
   const response = await fetch('./data/application-wording-2026.json', {cache: 'no-cache'});
   if (!response.ok) throw new Error('Không thể tải bản câu hỏi tình huống.');
-  return applyApplicationWording(all, await response.json());
+  const worded = await applyApplicationWording(all, await response.json());
+  const refinements = await fetch('./data/scenario-refinements-2026.json', {cache: 'no-cache'});
+  if (!refinements.ok) throw new Error('Không thể tải tình huống đã rà soát.');
+  return applyScenarioRefinements(worded, await refinements.json());
 }
 
 async function applyApplicationWording(bank, profile) {
@@ -143,6 +146,32 @@ async function applyApplicationWording(bank, profile) {
       {question:{...q.question, variants:row.variants.slice()}}),
       presentationReview:'application-wording-2026-10-12'};
   });
+}
+
+
+async function applyScenarioRefinements(bank, profile) {
+  if (!profile || profile.version !== 1 || !Array.isArray(profile.questions))
+    throw new Error('Bản tình huống đã rà soát không hợp lệ.');
+  const byId = new Map(bank.map(q => [q.id,q]));
+  for (const row of profile.questions) {
+    const old = byId.get(row?.id), q = row?.after;
+    if (!old || !q || q.id !== old.id || q.part !== old.part || q.type !== old.type ||
+        q.status !== old.status || !eligibleQuestion(old) || !Array.isArray(q.answers) || q.answers.length !== 4 ||
+        q.answers.some(a => typeof a.id !== 'string' || typeof a.text !== 'string' || !a.text.trim() ||
+          typeof a.correct !== 'boolean' || typeof a.explanation !== 'string' || !a.explanation.trim()) ||
+        new Set(q.answers.map(a=>a.id)).size !== 4 ||
+        JSON.stringify(q.answers.map(a=>a.id).slice().sort()) !== JSON.stringify(old.answers.map(a=>a.id).slice().sort()) ||
+        JSON.stringify(q.answers.filter(a=>a.correct).map(a=>a.id).sort()) !== JSON.stringify(old.answers.filter(a=>a.correct).map(a=>a.id).sort()) ||
+        !Array.isArray(q.answerKey) || JSON.stringify(q.answerKey.slice().sort()) !== JSON.stringify(q.answers.filter(a=>a.correct).map(a=>a.id).sort()) ||
+        !Array.isArray(q.legalBasis) || !q.legalBasis.length || q.legalBasis.some(r=>!r.document || !r.article || !r.url?.startsWith('https://')))
+      throw new Error('Tình huống không hợp lệ hoặc thay đổi khóa, bài, loại hay trạng thái chưa được phép.');
+  }
+  // Reuse the immutable-source check, including duplicate IDs and valid authored stems.
+  await applyApplicationWording(bank, {version:1,questions:profile.questions.map(r=>({
+    id:r.id, sourceSha256:r.sourceSha256, variants:r.after.question?.variants
+  }))});
+  const revisions = new Map(profile.questions.map(r=>[r.id,r.after]));
+  return bank.map(q=>revisions.has(q.id) ? JSON.parse(JSON.stringify(revisions.get(q.id))) : q);
 }
 
 function showSetup(mode) {
