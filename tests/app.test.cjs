@@ -23,8 +23,8 @@ function harness() {
   const context=vm.createContext({document, window:new Element(), location:{reload(){}},
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
-    crypto:require('node:crypto').webcrypto,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
+    crypto:require('node:crypto').webcrypto,TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyApplicationWording,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -113,7 +113,7 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
   h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
   h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
   const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8')).length+11+200);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
-  assert.equal(seen.length,15);assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  assert.equal(seen.length,16);assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
   h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
   h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
   h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);
@@ -368,4 +368,33 @@ test('all 640 subsets of integrated multi-select questions are scored exactly, i
   const selected=base.answers.filter((a,i)=>mask&(1<<i)).map(a=>a.id);h.state.answers[base.id]=selected;h.submitMock();
   assert.equal(h.state.score,selected.slice().sort().join(',')===base.answerKey.slice().sort().join(',')?1:0,base.id+' subset '+mask);
  }
+});
+
+test('application wording loader removes every retired recall variant from both modes and rejects stale sources',async()=>{
+ const h=harness();await new Promise(resolve=>setImmediate(resolve));
+ const files=fs.readFileSync('app.js','utf8').match(/const files = \[(.*?)\];/s)[1].match(/'([^']+)'/g).map(s=>s.slice(1,-1));
+ const base=files.flatMap(f=>JSON.parse(fs.readFileSync('data/'+f,'utf8')));
+ const profile=JSON.parse(fs.readFileSync('data/application-wording-2026.json','utf8'));
+ const review=JSON.parse(fs.readFileSync('reports/application-wording-review-2026-10-12.json','utf8'));
+ h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=await h.loadQuestions();assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
+ assert.equal(bank.find(q=>q.id==='CC-082').status,'archived');
+ const reachable=new Set(bank.filter(q=>['active','verified'].includes(q.status)).flatMap(q=>q.question.variants));
+ for(const d of review.decisions){const effective=bank.find(q=>q.id===d.id);const original=base.find(q=>q.id===d.id);
+  assert.equal(JSON.stringify(effective.answers),JSON.stringify(original.answers));assert.equal(JSON.stringify(effective.legalBasis),JSON.stringify(original.legalBasis));assert.equal(effective.explanation,original.explanation);
+  for(const v of d.beforeVariants)if(!d.afterVariants?.includes(v))assert.ok(!reachable.has(v),d.id+' retired wording');
+ }
+ assert.ok(![...reachable].some(v=>/Điều nào được quy định|Đọc riêng|Theo định nghĩa tại Điều|Công chứng theo Luật Công chứng là gì/i.test(v)));
+ const focus=bank.filter(q=>['CC-001','CC-007','CC-018','SRC26-001','CC-082'].includes(q.id));
+ for(const mode of ['practice','mock']){
+  const t=harness();t.state.bank=focus;t.state.mode=mode;t.startSession(1,100,15);assert.equal(t.state.questions.length,4);assert.ok(t.state.questions.every(q=>q.id!=='CC-082'));
+  for(const q of t.state.questions)assert.ok(reachable.has(q.variant));
+  if(mode==='mock'){const other=harness();other.state.bank=focus;other.startSharedExam(t.state.examCode);assert.equal(JSON.stringify(other.state.questions),JSON.stringify(t.state.questions));}
+ }
+ const corrupted=JSON.parse(JSON.stringify(base));corrupted.find(q=>q.id==='CC-018').answers[0].text='Changed legal answer';
+ await assert.rejects(h.applyApplicationWording(corrupted,profile),/Nguồn câu hỏi đã thay đổi/);
+ await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[profile.questions[0],profile.questions[0]]}),/trùng/);
+ await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],id:'unknown'}]}),/mã thiếu/);
+ await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],variants:[]}]}),/không hợp lệ/);
+ await assert.rejects(h.applyApplicationWording(base,{...profile,questions:[{...profile.questions[0],status:'verified'}]}),/trạng thái kiểm định/);
 });

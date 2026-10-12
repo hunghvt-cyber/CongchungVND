@@ -32,6 +32,13 @@ def audit():
  bank=[]; counts={}; hashes={}; findings=[]
  for f in FILES:
   p=ROOT/'data'/f; raw=p.read_bytes(); a=json.loads(raw); counts[f]=len(a); hashes[f]=hashlib.sha256(raw).hexdigest(); bank.extend(a)
+ profile=json.loads((ROOT/'data/application-wording-2026.json').read_text())
+ revisions={row['id']:row for row in profile['questions']}
+ for q in bank:
+  row=revisions.get(q['id'])
+  if row:
+   if row.get('status')=='archived':q['status']='archived'
+   else:q['question']['variants']=row['variants']
  source=json.loads((ROOT/'data/question-sources.json').read_text())
  sources={s['id']:s for s in source['sources']}
  for q in bank:

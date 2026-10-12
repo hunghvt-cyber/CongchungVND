@@ -1,0 +1,9 @@
+✔ application wording loader removes every retired recall variant from both modes and rejects stale sources (329.486919ms)
+ℹ tests 1
+ℹ suites 0
+ℹ pass 1
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 503.417653

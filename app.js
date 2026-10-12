@@ -111,7 +111,38 @@ async function loadQuestions() {
     if (!q || typeof q.id !== 'string' || ids.has(q.id)) throw new Error('Ngân hàng có mã câu thiếu hoặc trùng.');
     ids.add(q.id);
   }
-  return all;
+  const response = await fetch('./data/application-wording-2026.json', {cache: 'no-cache'});
+  if (!response.ok) throw new Error('Không thể tải bản câu hỏi tình huống.');
+  return applyApplicationWording(all, await response.json());
+}
+
+async function applyApplicationWording(bank, profile) {
+  if (!profile || profile.version !== 1 || !Array.isArray(profile.questions))
+    throw new Error('Bản câu hỏi tình huống không hợp lệ.');
+  const originals = new Map(bank.map(q => [q.id, q])), revisions = new Map();
+  await Promise.all(profile.questions.map(async row => {
+    const q = originals.get(row?.id);
+    if (!q || revisions.has(row.id) || !/^[a-f0-9]{64}$/.test(row.sourceSha256 || ''))
+      throw new Error('Bản câu hỏi tình huống có mã thiếu, trùng hoặc nguồn không hợp lệ.');
+    if (row.status !== undefined && row.status !== 'archived')
+      throw new Error('Bản câu hỏi tình huống không được tự thay trạng thái kiểm định.');
+    if (row.status !== 'archived' && (!Array.isArray(row.variants) || !row.variants.length ||
+        row.variants.some(v => typeof v !== 'string' || !v.trim()) || new Set(row.variants).size !== row.variants.length))
+      throw new Error('Cách hỏi tình huống không hợp lệ.');
+    revisions.set(row.id, row);
+    const bytes = new TextEncoder().encode(JSON.stringify({question:q.question, answers:q.answers, legalBasis:q.legalBasis}));
+    const digest = await crypto.subtle.digest('SHA-256', bytes);
+    const sha = Array.from(new Uint8Array(digest), b => b.toString(16).padStart(2, '0')).join('');
+    if (sha !== row.sourceSha256)
+      throw new Error('Nguồn câu hỏi đã thay đổi; cần rà soát lại cách hỏi tình huống.');
+  }));
+  return bank.map(q => {
+    const row = revisions.get(q.id);
+    if (!row) return q;
+    return {...q, ...(row.status === 'archived' ? {status:'archived'} :
+      {question:{...q.question, variants:row.variants.slice()}}),
+      presentationReview:'application-wording-2026-10-12'};
+  });
 }
 
 function showSetup(mode) {
