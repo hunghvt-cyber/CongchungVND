@@ -1,0 +1,1218 @@
+{
+  "date": "2026-10-13",
+  "scope": "Rà sâu đúng129 ứng viên, không chỉ dò từ khóa; chỉnh nội dung đã đọc từng câu.",
+  "reviewed": 129,
+  "rewrittenScenarios": 53,
+  "refinedDistractorsAndExplanations": 76,
+  "multipleChoiceQuestions": 5,
+  "crossLawCases": 38,
+  "crossLegalInstrumentGroups": 47,
+  "evidenceArticleRecords": 138,
+  "beforeMetrics": {
+    "short_distractors": 48,
+    "absolute_distractors": 51,
+    "length": 30
+  },
+  "afterMetrics": {
+    "absolute_distractors": 4
+  },
+  "heuristicLimits": "Dấu hiệu văn phong không đo tỷ lệ đoán đúng hoặc khó. Bốn cờ từ tuyệt đối còn lại đã đọc trong ngữ cảnh, không tự coi là lỗi. Mức khó dự kiến, chưa có hiệu chỉnh thực nghiệm.",
+  "remainingScope": "Đã xử lý cả129 trong danh sách ưu tiên lượt trước.537 câu ngoài ba lớp biên tập chưa được chứng nhận đạt mức khó; không mặc định cần viết lại tất cả.",
+  "verification": {
+    "regressionPassed": 80,
+    "regressionFailed": 0,
+    "finalFocusedPassed": 2,
+    "singleSelections": 992,
+    "multipleAnswerSetSelections": 160,
+    "gradingCases": 1152,
+    "sharedCodeReplayBothParts": true,
+    "sourceHashesValidatedByLiveLoaderTests": true,
+    "eligible": 793,
+    "duplicateIds": [],
+    "exactStemGroups": [],
+    "newNearStemCandidates": [],
+    "newNonVariantFindings": []
+  },
+  "trial": {
+    "status": "pending",
+    "centralSyntheticResultsCreated": false,
+    "metrics": [
+      "Tỷ lệ đúng lượt đầu theo câu và phiên bản",
+      "Phân bố lựa chọn nhiễu",
+      "Tỷ lệ bỏ trống",
+      "Thời gian khi dữ liệu thực tế có sẵn"
+    ],
+    "notes": "Tách luyện lại khỏi lượt đầu. Mẫu nhỏ chỉ định hướng. Đợt này không xây thêm mục hoặc phân tích hồ sơ người thi."
+  },
+  "rows": [
+    {
+      "id": "CC-002",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-004",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-007",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-008",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-014",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-016",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-017",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-018",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-019",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-020",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-021",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-022",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-026",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-027",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-028",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [
+        "absolute_distractors"
+      ],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-029",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-034",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-035",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-036",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [
+        "absolute_distractors"
+      ],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-038",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-039",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-043",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-048",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-053",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-058",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-059",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-061",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-067",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-070",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-075",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-076",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-080",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-090",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-091",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-092",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CC-098",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "SRC26-005",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "SRC26-012",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-006",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-046",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-050",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-053",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-054",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-080",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-085",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-025",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-045",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-006",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-007",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-008",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-023",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-043",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-068",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-075",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-039",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-061",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-073",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-077",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-NEW-25",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-NEW-47",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "VER26-NEW-66",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "CAL26-035",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-083",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-040",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-046",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-037",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DN-002",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DN-008",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DN-010",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DN-012",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DN-014",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-005",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-003",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-009",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-010",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-013",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-014",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-019",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-022",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-025",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-029",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-033",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [
+        "absolute_distractors"
+      ],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-CC-035",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-008",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-013",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-004",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-017",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-050",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-063",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-093",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-095",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-SEP24-015",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "IMP-T60-058",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "INH26-022",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "INH26-029",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-002",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-004",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-005",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-007",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "short_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-008",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-011",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-CT-014",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DD-008",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-DD-010",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-TS-005",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-TS-006",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-QT-001",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-QT-007",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "COMP26-HN-002",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-QT-006",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-QT-010",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-QT-016",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-DAT-001",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-DAT-003",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-DAT-011",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "REFIN26-DAT-013",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-016",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-032",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [
+        "absolute_distractors"
+      ],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-033",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-036",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-039",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-052",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-055",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-060",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-066",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-070",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-077",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "length"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-078",
+      "disposition": "application_and_options_rewritten",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    },
+    {
+      "id": "HARD26-090",
+      "disposition": "distractors_and_explanations_refined",
+      "beforeFlags": [
+        "absolute_distractors"
+      ],
+      "afterFlags": [],
+      "empiricallyCalibrated": false
+    }
+  ]
+}

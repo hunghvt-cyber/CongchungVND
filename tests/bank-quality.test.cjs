@@ -393,3 +393,31 @@ test('60 remaining-case reviews have provision evidence, distinct scenarios, sta
  assert.match(right('VER26-070'),new RegExp(`mỗi người ${40/2} triệu`));
  assert.match(right('AUTH26-018'),/30 triệu/);assert.equal(260-200,60);
 });
+
+test('129 priority reviews cover the exact cohort, preserve keys and dates, support arithmetic and do not claim empirical difficulty',()=>{
+ const profile=read('data/scenario-priority-129-2026.json'),review=read('reports/priority-129-legal-review-2026-10-13.json');
+ const target=read('reports/remaining-726-screening-2026-10-13.json').rows.filter(r=>r.disposition==='context_review_candidate').map(r=>r.id).sort();
+ assert.equal(profile.questions.length,129);assert.deepEqual(profile.questions.map(r=>r.id).sort(),target);
+ assert.equal(review.questions.length,129);assert.equal(review.dispositions.application_and_options_rewritten,53);assert.equal(review.dispositions.distractors_and_explanations_refined,76);
+ let multiples=0;
+ for(const r of profile.questions){const q=r.after,d=review.questions.find(d=>d.id===q.id);assert.deepEqual(q,d.after);assert.equal(q.empiricallyCalibrated,false);
+  assert.deepEqual(q.answers.map(a=>[a.id,a.correct]),d.before.answers.map(a=>[a.id,a.correct]));assert.deepEqual(q.answerKey,d.answerKey);
+  assert.equal(q.part,d.before.part);assert.equal(q.type,d.before.type);assert.equal(q.status,d.before.status);multiples+=q.type==='multiple';
+  assert.equal(q.answers.length,4);assert.equal(new Set(q.answers.map(a=>a.text)).size,4);assert.ok(q.answers.every(a=>a.text.trim().length>=20&&a.explanation.length>20));
+  const right=Math.max(...q.answers.filter(a=>a.correct).map(a=>a.text.length)),wrong=Math.max(...q.answers.filter(a=>!a.correct).map(a=>a.text.length));assert.ok(right<=1.6*wrong,q.id);
+  assert.equal(q.integrationSteps.length,3);assert.ok(q.explanation.length>100);
+  for(const k of d.evidenceKeys){const p=review.evidence[k];assert.ok(p?.excerpt.length>60,k);assert.ok(q.legalBasis.some(b=>JSON.stringify(b)===JSON.stringify(p.reference)),q.id+' '+k);assert.ok(p.reference.url.startsWith('https://'));}
+  if(q.legalBasis.some(b=>b.document.includes('04/2026'))){assert.ok(q.question.variants.every(v=>v.startsWith('Từ 01/01/2027:')),q.id);}
+  if(d.disposition==='application_and_options_rewritten'){assert.notDeepEqual(q.question,d.before.question);assert.doesNotMatch(q.question.variants[0],/Điều\s+\d|quy định gì/i);}
+  else{assert.deepEqual(q.question,d.before.question);assert.equal(q.difficulty,d.before.difficulty);}
+  assert.ok(q.answers.some((a,i)=>a.text!==d.before.answers[i].text));
+ }
+ assert.equal(multiples,5);
+ const correct=id=>profile.questions.find(r=>r.id===id).after.answers.filter(a=>a.correct).map(a=>a.text).join(' ');
+ assert.match(correct('HARD26-032'),/không biết và không phải biết/);assert.doesNotMatch(correct('HARD26-032'),/không biết hoặc phải biết/);
+ assert.match(correct('VER26-061'),new RegExp(`mỗi con ${((600+.4*500)-100)/2} triệu`));
+ assert.match(correct('VER26-073'),new RegExp(`${((1200-300)/3)*2/3} triệu`));
+ assert.match(correct('VER26-077'),new RegExp(`mỗi ${((3600/2)/3)/2} triệu`));
+ assert.match(correct('IMP-SEP24-037'),new RegExp(`${3000*.3-150} triệu`));
+ assert.match(correct('CC-028'),/đến đủ 72/);assert.match(correct('HARD26-033'),/Chưa đủ ngoại lệ/);
+});

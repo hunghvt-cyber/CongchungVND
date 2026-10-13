@@ -317,6 +317,14 @@
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/remaining-60-legal-review-2026-10-13.json",
       "reviewed": "2026-10-13",
       "note": "Mức khó dự kiến, chưa hiệu chỉnh theo dữ liệu làm thử; không phải chứng nhận độ khó toàn ngân hàng."
+    },
+    {
+      "id": "PRIORITY129-20261013",
+      "type": "legal-review",
+      "title": "Rà sâu129 câu: hồ sơ áp dụng, nhiễu gần và lời giải có giới hạn",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/priority-129-legal-review-2026-10-13.json",
+      "reviewed": "2026-10-13",
+      "note": "Tách sửa tình huống và sửa nhiễu; mức khó dự kiến, không chứng nhận toàn ngân hàng hoặc hiệu chỉnh thực nghiệm."
     }
   ]
 }

@@ -119,7 +119,10 @@ async function loadQuestions() {
   const reviewed = await applyScenarioRefinements(worded, await refinements.json());
   const remaining = await fetch('./data/scenario-refinements-remaining-2026.json', {cache: 'no-cache'});
   if (!remaining.ok) throw new Error('Không thể tải tình huống bổ sung đã rà soát.');
-  return applyScenarioRefinements(reviewed, await remaining.json());
+  const enhanced = await applyScenarioRefinements(reviewed, await remaining.json());
+  const priority = await fetch('./data/scenario-priority-129-2026.json', {cache: 'no-cache'});
+  if (!priority.ok) throw new Error('Không thể tải nhóm câu hỏi ưu tiên đã rà soát.');
+  return applyScenarioRefinements(enhanced, await priority.json());
 }
 
 async function applyApplicationWording(bank, profile) {
