@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-13",
+  "rewritten": 40,
+  "newDistinctIdsOutsidePrevious256": 40,
+  "previousReviewedIdsRetained": 256,
+  "cumulativeReviewedDistinctIds": 296,
+  "eligible": 793,
+  "otherIdsOutsideThoseCohorts": 497,
+  "parts": {
+    "1": 12,
+    "2": 28
+  },
+  "replacedDistractors": 120,
+  "crossStatuteCases": 17,
+  "legalProvisionsWithEvidence": 67,
+  "variantsPerNewQuestion": 1,
+  "empiricallyCalibrated": false,
+  "verification": {
+    "passed": 81,
+    "failed": 0,
+    "newGradingCases": 840,
+    "previousCohortsByteEquivalentInRuntime": true,
+    "replayBothParts": true,
+    "duplicateIds": [],
+    "exactStemGroups": [],
+    "newNearStemCandidates": [],
+    "newStructuralOrLegalMetadataErrors": []
+  },
+  "editorialSignalsNotDifficultyMeasures": {
+    "before": {
+      "length": 0,
+      "short_distractors": 0,
+      "absolute_words": 0
+    },
+    "after": {
+      "length": 0,
+      "short_distractors": 0,
+      "absolute_words": 0
+    }
+  },
+  "note": "Độ khó dự kiến; không kết luận 497 câu khác đều dễ hay toàn bộ 793 câu đã đạt mức khó."
+}

@@ -325,6 +325,14 @@
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/priority-129-legal-review-2026-10-13.json",
       "reviewed": "2026-10-13",
       "note": "Tách sửa tình huống và sửa nhiễu; mức khó dự kiến, không chứng nhận toàn ngân hàng hoặc hiệu chỉnh thực nghiệm."
+    },
+    {
+      "id": "APPLICATION40-20261013",
+      "type": "legal-review",
+      "title": "40 câu nâng độ khó bằng tình huống và 120 nhiễu có lý do sai riêng",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/application-40-legal-review-2026-10-13.json",
+      "reviewed": "2026-10-13",
+      "note": "Một tình huống được kiểm tra mỗi câu; mức khó dự kiến, chưa hiệu chuẩn thực nghiệm."
     }
   ]
 }
