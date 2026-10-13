@@ -125,7 +125,10 @@ async function loadQuestions() {
   const prioritized = await applyScenarioRefinements(enhanced, await priority.json());
   const application = await fetch('./data/scenario-application-40-2026.json', {cache: 'no-cache'});
   if (!application.ok) throw new Error('Không thể tải nhóm tình huống nâng độ khó.');
-  return applyScenarioRefinements(prioritized, await application.json());
+  const applied = await applyScenarioRefinements(prioritized, await application.json());
+  const continuation = await fetch('./data/scenario-continuation-60-2026.json', {cache: 'no-cache'});
+  if (!continuation.ok) throw new Error('Không thể tải nhóm 60 tình huống nâng độ khó tiếp theo.');
+  return applyScenarioRefinements(applied, await continuation.json());
 }
 
 async function applyApplicationWording(bank, profile) {

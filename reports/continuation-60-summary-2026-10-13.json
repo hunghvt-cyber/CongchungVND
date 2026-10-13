@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-13",
+  "rewritten": 60,
+  "previousReviewedIdsPreserved": 296,
+  "cumulativeReviewedIds": 356,
+  "otherIdsOutsideTheseCohorts": 437,
+  "eligible": 793,
+  "parts": {
+    "1": 9,
+    "2": 51
+  },
+  "replacedDistractors": 180,
+  "crossStatuteCases": 17,
+  "crossInstrumentCases": 25,
+  "evidenceProvisions": 91,
+  "empiricallyCalibrated": false,
+  "variantsPerNewQuestion": 1,
+  "verification": {
+    "passed": 82,
+    "failed": 0,
+    "newGradingCases": 1260,
+    "previousCohortsIdenticalInRuntime": true,
+    "replayBothParts": true,
+    "duplicateIds": [],
+    "exactStemGroups": [],
+    "newNearStemCandidates": [],
+    "newStructuralOrLegalMetadataErrors": []
+  },
+  "note": "Không đánh đồng 437 mã ngoài các nhóm với 437 câu dễ; độ khó dự kiến, chưa hiệu chuẩn thực nghiệm."
+}

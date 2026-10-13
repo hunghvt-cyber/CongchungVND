@@ -333,6 +333,14 @@
       "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/application-40-legal-review-2026-10-13.json",
       "reviewed": "2026-10-13",
       "note": "Một tình huống được kiểm tra mỗi câu; mức khó dự kiến, chưa hiệu chuẩn thực nghiệm."
+    },
+    {
+      "id": "CONTINUATION60-20261013",
+      "type": "legal-review",
+      "title": "60 câu tiếp theo ngoài 296 mã đã rà: tình huống kết hợp và 180 nhiễu có lý do sai",
+      "url": "https://github.com/hunghvt-cyber/CongchungVND/blob/main/reports/continuation-60-legal-review-2026-10-13.json",
+      "reviewed": "2026-10-13",
+      "note": "Giữ khóa độc lập; mức khó dự kiến, một tình huống kiểm tra mỗi câu, chưa hiệu chuẩn thực nghiệm."
     }
   ]
 }
