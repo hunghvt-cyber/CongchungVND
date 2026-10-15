@@ -1,0 +1,10 @@
+{
+  "publishedCommit": "d19332e8b77f0da5c41863983ef94eeabaa3d310",
+  "stored": 813,
+  "active": 793,
+  "archived": 20,
+  "cases": 9690,
+  "scoringMismatches": 0,
+  "failures": [],
+  "method": "Actual app.js loaded through existing DOM harness; each single choice and every multi-select subset in both modes, compared with stored correct flags. Not an independent legal validation or browser test."
+}

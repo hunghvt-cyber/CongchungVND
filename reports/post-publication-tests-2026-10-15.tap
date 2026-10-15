@@ -1,0 +1,1468 @@
+TAP version 13
+# Subtest: all repaired pending questions work in practice and mock; retired duplicates stay excluded
+not ok 1 - all repaired pending questions work in practice and mock; retired duplicates stay excluded
+  ---
+  duration_ms: 12.028553
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:35:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    '<strong>✓ Đúng</strong>\n' +
+      '    <p><strong>Bạn chọn:</strong><br>A. 30 câu để đạt ít nhất 180 câu</p>\n' +
+      '    <p><strong>Đáp án đúng:</strong><br>A. 30 câu để đạt ít nhất 180 câu</p>\n' +
+      '    <p><strong>Giải thích:</strong> Điểm c khoản 3 Điều 29 yêu cầu số câu xây dựng tối thiểu gấp ba số câu theo quy định: 60 × 3 = 180; 150 còn thiếu 30. Đúng định dạng phần mềm là điều kiện khác, không thay ngưỡng số lượng. Dữ kiện 60 là giả định trong bài toán, không tuyên bố mọi đề thi chính thức đều có 60 câu.</p>\n' +
+      '    <div class="legal"><strong>Căn cứ pháp lý</strong><div>Thông tư số 06/2025/TT-BTP · Điều 29 · Khoản 3 · Điểm c · <a href="https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: |-
+    <strong>✓ Đúng</strong>
+        <p><strong>Bạn chọn:</strong><br>A. 30 câu để đạt ít nhất 180 câu</p>
+        <p><strong>Đáp án đúng:</strong><br>A. 30 câu để đạt ít nhất 180 câu</p>
+        <p><strong>Giải thích:</strong> Điểm c khoản 3 Điều 29 yêu cầu số câu xây dựng tối thiểu gấp ba số câu theo quy định: 60 × 3 = 180; 150 còn thiếu 30. Đúng định dạng phần mềm là điều kiện khác, không thay ngưỡng số lượng. Dữ kiện 60 là giả định trong bài toán, không tuyên bố mọi đề thi chính thức đều có 60 câu.</p>
+        <div class="legal"><strong>Căn cứ pháp lý</strong><div>Thông tư số 06/2025/TT-BTP · Điều 29 · Khoản 3 · Điểm c · <a href="https://vbpl.moj.gov.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178542" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:40:206)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.start (node:internal/test_runner/test:1242:17)
+    startSubtestAfterBootstrap (node:internal/test_runner/harness:387:17)
+  ...
+# Subtest: only active/verified questions enter either mode, unavailable part stays in setup
+ok 2 - only active/verified questions enter either mode, unavailable part stays in setup
+  ---
+  duration_ms: 8.437977
+  type: 'test'
+  ...
+# Subtest: question variants and displayed answer order stay fixed on revisit
+ok 3 - question variants and displayed answer order stay fixed on revisit
+  ---
+  duration_ms: 2.84931
+  type: 'test'
+  ...
+# Subtest: incorrect practice answers stay locked on revisit and cannot change score
+ok 4 - incorrect practice answers stay locked on revisit and cannot change score
+  ---
+  duration_ms: 1.838991
+  type: 'test'
+  ...
+# Subtest: multiple choice scoring requires the entire correct set with no extras
+ok 5 - multiple choice scoring requires the entire correct set with no extras
+  ---
+  duration_ms: 3.217585
+  type: 'test'
+  ...
+# Subtest: results include correct, wrong and unanswered questions with explanations/basis/feedback
+ok 6 - results include correct, wrong and unanswered questions with explanations/basis/feedback
+  ---
+  duration_ms: 3.005475
+  type: 'test'
+  ...
+# Subtest: answer labels in review follow shuffled positions instead of original IDs
+ok 7 - answer labels in review follow shuffled positions instead of original IDs
+  ---
+  duration_ms: 1.325945
+  type: 'test'
+  ...
+# Subtest: deadline uses elapsed time, auto-submits once and rejects late selections
+ok 8 - deadline uses elapsed time, auto-submits once and rejects late selections
+  ---
+  duration_ms: 2.628429
+  type: 'test'
+  ...
+# Subtest: deselecting all multiple answers removes answered count, switching mode stops timer
+ok 9 - deselecting all multiple answers removes answered count, switching mode stops timer
+  ---
+  duration_ms: 1.825056
+  type: 'test'
+  ...
+# Subtest: feedback on separate answer cards sends central receipt, validates text and handles offline/local failure
+ok 10 - feedback on separate answer cards sends central receipt, validates text and handles offline/local failure
+  ---
+  duration_ms: 3.161404
+  type: 'test'
+  ...
+# Subtest: real published bank has unique IDs and only reviewed content enters either mode
+ok 11 - real published bank has unique IDs and only reviewed content enters either mode
+  ---
+  duration_ms: 220.16998
+  type: 'test'
+  ...
+# Subtest: loader loads validated bank, rejects corrupt/duplicate data, and leaves stored history intact
+ok 12 - loader loads validated bank, rejects corrupt/duplicate data, and leaves stored history intact
+  ---
+  duration_ms: 103.303741
+  type: 'test'
+  ...
+# Subtest: one shared code reproduces full exam in independent sessions with separate answers/deadlines
+ok 13 - one shared code reproduces full exam in independent sessions with separate answers/deadlines
+  ---
+  duration_ms: 489.293855
+  type: 'test'
+  ...
+# Subtest: sharing records actual capped count and supports both parts and all durations
+ok 14 - sharing records actual capped count and supports both parts and all durations
+  ---
+  duration_ms: 15.356031
+  type: 'test'
+  ...
+# Subtest: bad codes, old codes and changed bank are rejected without starting/resetting an attempt
+ok 15 - bad codes, old codes and changed bank are rejected without starting/resetting an attempt
+  ---
+  duration_ms: 2.902183
+  type: 'test'
+  ...
+# Subtest: changes to pending questions cannot change a shared eligible exam
+ok 16 - changes to pending questions cannot change a shared eligible exam
+  ---
+  duration_ms: 2.378099
+  type: 'test'
+  ...
+# Subtest: offline feedback stays pending; retry uses same UUID and duplicate acknowledgement is accepted
+ok 17 - offline feedback stays pending; retry uses same UUID and duplicate acknowledgement is accepted
+  ---
+  duration_ms: 2.778015
+  type: 'test'
+  ...
+# Subtest: server error does not falsely acknowledge feedback, local storage failure still permits central send
+ok 18 - server error does not falsely acknowledge feedback, local storage failure still permits central send
+  ---
+  duration_ms: 1.875441
+  type: 'test'
+  ...
+# Subtest: imported questions work in both parts, practice explanations and full mock scoring
+ok 19 - imported questions work in both parts, practice explanations and full mock scoring
+  ---
+  duration_ms: 85.264958
+  type: 'test'
+  ...
+# Subtest: deposit bank practices with explanations and grades a complete 18-question mock
+ok 20 - deposit bank practices with explanations and grades a complete 18-question mock
+  ---
+  duration_ms: 14.998563
+  type: 'test'
+  ...
+# Subtest: authorization bank grades all 20 cases and retains explanations in practice and mock
+not ok 21 - authorization bank grades all 20 cases and retains explanations in practice and mock
+  ---
+  duration_ms: 2.983229
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:190:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    '<strong>✓ Đúng</strong>\n' +
+      '    <p><strong>Bạn chọn:</strong><br>A. A vẫn chịu trách nhiệm; nhờ B thực hiện việc trả tiền không làm chuyển nghĩa vụ cấp dưỡng sang B</p>\n' +
+      '    <p><strong>Đáp án đúng:</strong><br>A. A vẫn chịu trách nhiệm; nhờ B thực hiện việc trả tiền không làm chuyển nghĩa vụ cấp dưỡng sang B</p>\n' +
+      '    <p><strong>Giải thích:</strong> Điều 107 cấm chuyển giao nghĩa vụ cấp dưỡng. Điều 283 cho phép thực hiện nghĩa vụ qua người thứ ba khi bên có quyền đồng ý, nhưng bên có nghĩa vụ vẫn chịu trách nhiệm nếu người thứ ba không thực hiện đúng. Dữ kiện phân biệt rõ hỗ trợ thanh toán với thay thế người có nghĩa vụ; không suy rằng A được giải phóng hoặc mọi hỗ trợ trả tiền đều bị cấm.</p>\n' +
+      '    <div class="legal"><strong>Căn cứ pháp lý</strong><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 107 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Bộ luật Dân sự số 91/2015/QH13 · Điều 283 · <a href="https://vanban.chinhphu.vn/?pageid=27160&amp;docid=183188" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: |-
+    <strong>✓ Đúng</strong>
+        <p><strong>Bạn chọn:</strong><br>A. A vẫn chịu trách nhiệm; nhờ B thực hiện việc trả tiền không làm chuyển nghĩa vụ cấp dưỡng sang B</p>
+        <p><strong>Đáp án đúng:</strong><br>A. A vẫn chịu trách nhiệm; nhờ B thực hiện việc trả tiền không làm chuyển nghĩa vụ cấp dưỡng sang B</p>
+        <p><strong>Giải thích:</strong> Điều 107 cấm chuyển giao nghĩa vụ cấp dưỡng. Điều 283 cho phép thực hiện nghĩa vụ qua người thứ ba khi bên có quyền đồng ý, nhưng bên có nghĩa vụ vẫn chịu trách nhiệm nếu người thứ ba không thực hiện đúng. Dữ kiện phân biệt rõ hỗ trợ thanh toán với thay thế người có nghĩa vụ; không suy rằng A được giải phóng hoặc mọi hỗ trợ trả tiền đều bị cấm.</p>
+        <div class="legal"><strong>Căn cứ pháp lý</strong><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 107 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Bộ luật Dân sự số 91/2015/QH13 · Điều 283 · <a href="https://vanban.chinhphu.vn/?pageid=27160&amp;docid=183188" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:193:199)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: family bank grades all 26 cases, explains incorrect answers and preserves saved history
+not ok 22 - family bank grades all 26 cases, explains incorrect answers and preserves saved history
+  ---
+  duration_ms: 3.591774
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:198:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    '<strong>✓ Đúng</strong>\n' +
+      '    <p><strong>Bạn chọn:</strong><br>D. Chia tài sản không xóa nghĩa vụ vợ chồng; không thể ghi điều khoản miễn toàn bộ như đề nghị</p>\n' +
+      '    <p><strong>Đáp án đúng:</strong><br>D. Chia tài sản không xóa nghĩa vụ vợ chồng; không thể ghi điều khoản miễn toàn bộ như đề nghị</p>\n' +
+      '    <p><strong>Giải thích:</strong> Khoản 1 Điều 19 đặt nghĩa vụ quan tâm, chăm sóc, giúp đỡ trong hôn nhân; khoản 1 Điều 107 quy định nghĩa vụ cấp dưỡng không thể thay bằng nghĩa vụ khác hoặc chuyển giao. Điều 115 còn đặt cơ chế cấp dưỡng sau ly hôn khi đủ điều kiện. Chia tài sản không phải căn cứ xóa mọi nghĩa vụ nhân thân. Không suy rằng vợ chồng đang sống chung luôn phải trả tiền cấp dưỡng cho nhau; câu kiểm tra điều khoản miễn toàn bộ trong mọi trường hợp.</p>\n' +
+      '    <div class="legal"><strong>Căn cứ pháp lý</strong><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 19 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 107 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 115 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: |-
+    <strong>✓ Đúng</strong>
+        <p><strong>Bạn chọn:</strong><br>D. Chia tài sản không xóa nghĩa vụ vợ chồng; không thể ghi điều khoản miễn toàn bộ như đề nghị</p>
+        <p><strong>Đáp án đúng:</strong><br>D. Chia tài sản không xóa nghĩa vụ vợ chồng; không thể ghi điều khoản miễn toàn bộ như đề nghị</p>
+        <p><strong>Giải thích:</strong> Khoản 1 Điều 19 đặt nghĩa vụ quan tâm, chăm sóc, giúp đỡ trong hôn nhân; khoản 1 Điều 107 quy định nghĩa vụ cấp dưỡng không thể thay bằng nghĩa vụ khác hoặc chuyển giao. Điều 115 còn đặt cơ chế cấp dưỡng sau ly hôn khi đủ điều kiện. Chia tài sản không phải căn cứ xóa mọi nghĩa vụ nhân thân. Không suy rằng vợ chồng đang sống chung luôn phải trả tiền cấp dưỡng cho nhau; câu kiểm tra điều khoản miễn toàn bộ trong mọi trường hợp.</p>
+        <div class="legal"><strong>Căn cứ pháp lý</strong><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 19 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 107 · Khoản 1 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div><div>Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025) · Điều 115 · <a href="https://congbaocdn.chinhphu.vn/CongBaoCP/VanBan/2025/8/46059/58694-1-20251299-1300121-vbhn-vpqh.pdf" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:201:199)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: inheritance bank grades all 32 cases and explains wrong practice answers without modifying existing keys
+not ok 23 - inheritance bank grades all 32 cases and explains wrong practice answers without modifying existing keys
+  ---
+  duration_ms: 3.813756
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:207:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    '<strong>✓ Đúng</strong>\n' +
+      '    <p><strong>Bạn chọn:</strong><br>A. Chia đều cho cả ba người được chỉ định trong di chúc</p>\n' +
+      '    <p><strong>Đáp án đúng:</strong><br>A. Chia đều cho cả ba người được chỉ định trong di chúc</p>\n' +
+      '    <p><strong>Giải thích:</strong> Khoản 1 Điều 659 đặt quy tắc chia đều giữa những người được chỉ định trong di chúc khi không xác định rõ phần và không có thỏa thuận khác. Không tự thay danh sách này bằng các hàng tại Điều 651. Quan hệ gia đình không làm tăng tỷ lệ trong tình huống đã loại trừ phần bắt buộc.</p>\n' +
+      '    <div class="legal"><strong>Căn cứ pháp lý</strong><div>Bộ luật Dân sự số 91/2015/QH13 · Điều 659 · Khoản 1 · <a href="https://vanban.chinhphu.vn/?pageid=27160&amp;docid=183188" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: |-
+    <strong>✓ Đúng</strong>
+        <p><strong>Bạn chọn:</strong><br>A. Chia đều cho cả ba người được chỉ định trong di chúc</p>
+        <p><strong>Đáp án đúng:</strong><br>A. Chia đều cho cả ba người được chỉ định trong di chúc</p>
+        <p><strong>Giải thích:</strong> Khoản 1 Điều 659 đặt quy tắc chia đều giữa những người được chỉ định trong di chúc khi không xác định rõ phần và không có thỏa thuận khác. Không tự thay danh sách này bằng các hàng tại Điều 651. Quan hệ gia đình không làm tăng tỷ lệ trong tình huống đã loại trừ phần bắt buộc.</p>
+        <div class="legal"><strong>Căn cứ pháp lý</strong><div>Bộ luật Dân sự số 91/2015/QH13 · Điều 659 · Khoản 1 · <a href="https://vanban.chinhphu.vn/?pageid=27160&amp;docid=183188" target="_blank" rel="noopener noreferrer">Xem văn bản</a></div></div>
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:210:199)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: completion cases load in both parts, grade correctly after shuffling, and keep prior snapshots
+ok 24 - completion cases load in both parts, grade correctly after shuffling, and keep prior snapshots
+  ---
+  duration_ms: 72.899385
+  type: 'test'
+  ...
+# Subtest: all refinement cases work in practice, mixed-answer mocks and unchanged previous history
+ok 25 - all refinement cases work in practice, mixed-answer mocks and unchanged previous history
+  ---
+  duration_ms: 67.387696
+  type: 'test'
+  ...
+# Subtest: three successive exams avoid repeats until exhausted, in both actual parts
+ok 26 - three successive exams avoid repeats until exhausted, in both actual parts
+  ---
+  duration_ms: 14886.224431
+  type: 'test'
+  ...
+# Subtest: shared joins record history but do not let history change reproduced exam
+ok 27 - shared joins record history but do not let history change reproduced exam
+  ---
+  duration_ms: 23.941212
+  type: 'test'
+  ...
+# Subtest: learner histories are isolated and all-part practice shares its recent questions with mocks
+ok 28 - learner histories are isolated and all-part practice shares its recent questions with mocks
+  ---
+  duration_ms: 26.416411
+  type: 'test'
+  ...
+# Subtest: legacy anonymous history migrates and storage corruption/unavailability cannot block an exam
+ok 29 - legacy anonymous history migrates and storage corruption/unavailability cannot block an exam
+  ---
+  duration_ms: 12.81377
+  type: 'test'
+  ...
+# Subtest: CC1 compatibility remains exact with the original generator
+ok 30 - CC1 compatibility remains exact with the original generator
+  ---
+  duration_ms: 12.786191
+  type: 'test'
+  ...
+# Subtest: CC2 rejects duplicate/out-of-range positions and wrong counts even with a valid checksum
+ok 31 - CC2 rejects duplicate/out-of-range positions and wrong counts even with a valid checksum
+  ---
+  duration_ms: 3.138161
+  type: 'test'
+  ...
+# Subtest: same legal competence is avoided where alternatives exist; balanced selection includes each topic
+ok 32 - same legal competence is avoided where alternatives exist; balanced selection includes each topic
+  ---
+  duration_ms: 3.948319
+  type: 'test'
+  ...
+# Subtest: new bank includes four answers, substantive variant review metadata and unchanged correct keys
+ok 33 - new bank includes four answers, substantive variant review metadata and unchanged correct keys
+  ---
+  duration_ms: 0.502911
+  type: 'test'
+  ...
+# Subtest: 20 standard questions join both exams, enforce exact multiple sets, preserve shared codes and option explanations
+ok 34 - 20 standard questions join both exams, enforce exact multiple sets, preserve shared codes and option explanations
+  ---
+  duration_ms: 402.96029
+  type: 'test'
+  ...
+# Subtest: all 100 improved questions use the common practice/mock bank without a batch selector
+ok 35 - all 100 improved questions use the common practice/mock bank without a batch selector
+  ---
+  duration_ms: 203.439671
+  type: 'test'
+  ...
+# Subtest: 100 additional integrated scenarios enter both common modes, keep shuffled keys and shared-exam identity
+ok 36 - 100 additional integrated scenarios enter both common modes, keep shuffled keys and shared-exam identity
+  ---
+  duration_ms: 242.500971
+  type: 'test'
+  ...
+# Subtest: all 640 subsets of integrated multi-select questions are scored exactly, including omission and extras
+ok 37 - all 640 subsets of integrated multi-select questions are scored exactly, including omission and extras
+  ---
+  duration_ms: 2035.625318
+  type: 'test'
+  ...
+# Subtest: application wording loader removes every retired recall variant from both modes and rejects stale sources
+not ok 38 - application wording loader removes every retired recall variant from both modes and rejects stale sources
+  ---
+  duration_ms: 187.192524
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:373:1'
+  failureType: 'testCodeFailure'
+  error: 'IMP-SEP24-031 retired wording'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:386:75)
+    async Test.run (node:internal/test_runner/test:1389:7)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: 67 reviewed refinements load after application wording, grade in both modes, and reject stale or altered keys
+ok 39 - 67 reviewed refinements load after application wording, grade in both modes, and reject stale or altered keys
+  ---
+  duration_ms: 340.156339
+  type: 'test'
+  ...
+# Subtest: 60 additional cases preserve 67 repairs, load both modes, grade every option and replay shared codes
+ok 40 - 60 additional cases preserve 67 repairs, load both modes, grade every option and replay shared codes
+  ---
+  duration_ms: 1598.241004
+  type: 'test'
+  ...
+# Subtest: all 129 priority revisions load without replacing previous repairs; every answer set grades in both modes
+ok 41 - all 129 priority revisions load without replacing previous repairs; every answer set grades in both modes
+  ---
+  duration_ms: 5265.296789
+  type: 'test'
+  ...
+# Subtest: 40 application cases preserve prior cohorts, reject stale sources and grade every mock subset
+ok 42 - 40 application cases preserve prior cohorts, reject stale sources and grade every mock subset
+  ---
+  duration_ms: 5853.419015
+  type: 'test'
+  ...
+# Subtest: 60 continuation cases load after all reviewed layers and keep independent keys for both modes
+not ok 43 - 60 continuation cases load after all reviewed layers and keep independent keys for both modes
+  ---
+  duration_ms: 6810.169233
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:527:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /không là cộng tác viên/. Input:
+    
+    'Tháng 10/2026, D tự dịch một giấy tờ để sử dụng cho mục đích cá nhân và đề nghị chứng thực chữ ký người dịch. D không phải cộng tác viên dịch thuật, nhưng đáp ứng điều kiện về giấy tờ, năng lực và ngôn ngữ. D đã ký sẵn tại nhà và muốn người tiếp nhận chỉ đối chiếu ảnh chữ ký; trường hợp này không thuộc ngoại lệ tại khoản 3 Điều 24 và không có chữ ký mẫu của cộng tác viên. Công chứng viên K cho rằng chỉ cơ quan nhà nước mới được chứng thực chữ ký người dịch. Cần xác định thẩm quyền và cách thực hiện việc ký thế nào?'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Tháng 10/2026, D tự dịch một giấy tờ để sử dụng cho mục đích cá nhân và đề nghị chứng thực chữ ký người dịch. D không phải cộng tác viên dịch thuật, nhưng đáp ứng điều kiện về giấy tờ, năng lực và ngôn ngữ. D đã ký sẵn tại nhà và muốn người tiếp nhận chỉ đối chiếu ảnh chữ ký; trường hợp này không thuộc ngoại lệ tại khoản 3 Điều 24 và không có chữ ký mẫu của cộng tác viên. Công chứng viên K cho rằng chỉ cơ quan nhà nước mới được chứng thực chữ ký người dịch. Cần xác định thẩm quyền và cách thực hiện việc ký thế nào?'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/app.test.cjs:566:63)
+    async Test.run (node:internal/test_runner/test:1389:7)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: 100 harder scenarios replace every stem and distractor while preserving independent keys and linked legal evidence
+ok 44 - 100 harder scenarios replace every stem and distractor while preserving independent keys and linked legal evidence
+  ---
+  duration_ms: 27.845699
+  type: 'test'
+  ...
+# Subtest: 60-question refinement batch retains authored variants, individual review and independent evidence keys
+ok 45 - 60-question refinement batch retains authored variants, individual review and independent evidence keys
+  ---
+  duration_ms: 30.77105
+  type: 'test'
+  ...
+# Subtest: 100-question continuation adds exactly 200 authored stems and excludes archived completion
+not ok 46 - 100-question continuation adds exactly 200 authored stems and excludes archived completion
+  ---
+  duration_ms: 37.516898
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:62:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    COMP26-QT-010
+    + actual - expected
+    
+      {
+        answers: [
+          {
+            correct: false,
+            id: 'A',
+    +       text: 'Được hủy bản giấy nếu đã quét mà không cần xét điều kiện hồ sơ điện tử'
+    -       text: 'Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử'
+          },
+          {
+            correct: true,
+            id: 'B',
+    +       text: 'Chưa được hủy; tiếp tục lưu ít nhất 20 năm theo quy định chuyển tiếp'
+    -       text: 'Chưa được hủy; tiếp tục thời hạn lưu trữ ít nhất 20 năm theo Luật Công chứng 2014'
+          },
+          {
+            correct: false,
+            id: 'C',
+    +       text: 'Được hủy vì thời hạn mười năm của luật mới áp ngay cho hồ sơ cũ này'
+    -       text: 'Đã đủ vì 10 năm áp dụng chung mọi giao dịch'
+          },
+          {
+            correct: false,
+            id: 'D',
+    +       text: 'Chỉ tiếp tục lưu đủ 20 năm nếu giao dịch còn đang bị khiếu nại'
+    -       text: 'Đã đủ nếu các bên nói không còn tranh chấp'
+          }
+        ],
+        audit: {
+    +     editorialReviewDate: '2026-10-15',
+    +     editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json',
+          legalReviewReport: 'reports/legal-review-register-2026-10-10.json',
+          legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification',
+          variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json',
+          variantReviewDate: '2026-10-09',
+          variantReviewStatus: 'substantive_editorial_review'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    id: 'COMP26-QT-010'
+    part: 2
+    topic: 'Quy trình, thủ tục và nghiệp vụ công chứng'
+    type: 'single'
+    status: 'active'
+    difficulty: 'understanding'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Hồ sơ công chứng bất động sản được lập và lưu từ tháng 10/2016 theo Luật Công chứng 2014, chưa hết thời hạn lưu trữ tại ngày 01/07/2025. Văn phòng định hủy vì đã lưu mười năm. Áp dụng khoản 12 Điều 76 Luật Công chứng 2024, nhận định nào đúng?'
+        1: 'Tháng 10/2026: Một hồ sơ công chứng bất động sản đã lưu mười năm theo Luật Công chứng 2014 và chưa hết thời hạn lưu tại ngày Luật Công chứng 2024 có hiệu lực. Có thể lấy thời hạn mười năm của nhóm giao dịch khác trong luật mới để hủy hồ sơ cũ này không?'
+        2: 'Tháng 10/2026: Kho muốn hủy hồ sơ bất động sản được công chứng và lưu năm 2016 theo Luật Công chứng 2014. Hồ sơ chưa hết thời hạn lưu vào ngày 01/07/2025; nay đã lưu mười năm. Quy định chuyển tiếp dẫn tới kết luận nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Chưa được hủy; tiếp tục thời hạn lưu trữ ít nhất 20 năm theo Luật Công chứng 2014'
+        correct: true
+      2:
+        id: 'C'
+        text: 'Đã đủ vì 10 năm áp dụng chung mọi giao dịch'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Đã đủ nếu các bên nói không còn tranh chấp'
+        correct: false
+    explanation: 'Khoản 12 Điều 76 Luật Công chứng 2024 giữ thời hạn theo Luật Công chứng 2014 đối với hồ sơ đã lưu theo luật cũ mà chưa hết thời hạn tại ngày 01/07/2025. Khoản 2 Điều 64 Luật Công chứng 2014 quy định ít nhất 20 năm. Hồ sơ năm 2016 mới lưu mười năm nên chưa đủ; không áp tự động mức 30 năm cho bất động sản hoặc 10 năm cho giao dịch khác của Điều 68 luật mới. Quét bản sao hay sự đồng ý của các bên không tự cho phép hủy sớm.'
+    legalBasis:
+      0:
+        document: 'Luật Công chứng số 46/2024/QH15'
+        article: 'Điều 76'
+        clause: 'Khoản 12'
+        url: 'https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf'
+      1:
+        document: 'Luật Công chứng số 53/2014/QH13 (áp dụng thời hạn lưu trữ theo khoản 12 Điều 76 Luật Công chứng 2024)'
+        article: 'Điều 64'
+        clause: 'Khoản 2'
+        url: 'https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm'
+    lastVerified: '2026-10-10'
+    source:
+      type: 'official'
+      id: 'OFFICIAL-CC24'
+      supportingSourceIds:
+      note: 'Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json.'
+    audit:
+      variantReviewDate: '2026-10-09'
+      variantReviewStatus: 'substantive_editorial_review'
+      variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json'
+      legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification'
+      legalReviewReport: 'reports/legal-review-register-2026-10-10.json'
+  actual:
+    id: 'COMP26-QT-010'
+    part: 2
+    topic: 'Quy trình, thủ tục và nghiệp vụ công chứng'
+    type: 'single'
+    status: 'active'
+    difficulty: 'understanding'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Hồ sơ công chứng bất động sản được lập và lưu từ tháng 10/2016 theo Luật Công chứng 2014, chưa hết thời hạn lưu trữ tại ngày 01/07/2025. Văn phòng định hủy vì đã lưu mười năm. Áp dụng khoản 12 Điều 76 Luật Công chứng 2024, nhận định nào đúng?'
+        1: 'Tháng 10/2026: Một hồ sơ công chứng bất động sản đã lưu mười năm theo Luật Công chứng 2014 và chưa hết thời hạn lưu tại ngày Luật Công chứng 2024 có hiệu lực. Có thể lấy thời hạn mười năm của nhóm giao dịch khác trong luật mới để hủy hồ sơ cũ này không?'
+        2: 'Tháng 10/2026: Kho muốn hủy hồ sơ bất động sản được công chứng và lưu năm 2016 theo Luật Công chứng 2014. Hồ sơ chưa hết thời hạn lưu vào ngày 01/07/2025; nay đã lưu mười năm. Quy định chuyển tiếp dẫn tới kết luận nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Được hủy bản giấy nếu đã quét mà không cần xét điều kiện hồ sơ điện tử'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Chưa được hủy; tiếp tục lưu ít nhất 20 năm theo quy định chuyển tiếp'
+        correct: true
+      2:
+        id: 'C'
+        text: 'Được hủy vì thời hạn mười năm của luật mới áp ngay cho hồ sơ cũ này'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Chỉ tiếp tục lưu đủ 20 năm nếu giao dịch còn đang bị khiếu nại'
+        correct: false
+    explanation: 'Khoản 12 Điều 76 Luật Công chứng 2024 giữ thời hạn theo Luật Công chứng 2014 đối với hồ sơ đã lưu theo luật cũ mà chưa hết thời hạn tại ngày 01/07/2025. Khoản 2 Điều 64 Luật Công chứng 2014 quy định ít nhất 20 năm. Hồ sơ năm 2016 mới lưu mười năm nên chưa đủ; không áp tự động mức 30 năm cho bất động sản hoặc 10 năm cho giao dịch khác của Điều 68 luật mới. Quét bản sao hay sự đồng ý của các bên không tự cho phép hủy sớm.'
+    legalBasis:
+      0:
+        document: 'Luật Công chứng số 46/2024/QH15'
+        article: 'Điều 76'
+        clause: 'Khoản 12'
+        url: 'https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf'
+      1:
+        document: 'Luật Công chứng số 53/2014/QH13 (áp dụng thời hạn lưu trữ theo khoản 12 Điều 76 Luật Công chứng 2024)'
+        article: 'Điều 64'
+        clause: 'Khoản 2'
+        url: 'https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm'
+    lastVerified: '2026-10-10'
+    source:
+      type: 'official'
+      id: 'OFFICIAL-CC24'
+      supportingSourceIds:
+      note: 'Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json.'
+    audit:
+      variantReviewDate: '2026-10-09'
+      variantReviewStatus: 'substantive_editorial_review'
+      variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json'
+      legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification'
+      legalReviewReport: 'reports/legal-review-register-2026-10-10.json'
+      editorialReviewDate: '2026-10-15'
+      editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+  operator: 'deepStrictEqual'
+  stack: |-
+    atEditorialReview (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:8:82)
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:78:11)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: next 100-question batch preserves complete original records, independent keys and deferred scope
+not ok 47 - next 100-question batch preserves complete original records, independent keys and deferred scope
+  ---
+  duration_ms: 31.549452
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:96:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    IMP-SEP24-001
+    + actual - expected
+    
+      {
+        answers: [
+          {
+            correct: true,
+            id: 'A',
+    +       text: 'Không; có thể ghi người đại diện theo yêu cầu của các thành viên có quyền chung'
+    -       text: 'Không; có thể ghi người đại diện theo yêu cầu của các thành viên'
+          },
+          {
+            correct: false,
+            id: 'B',
+    +       text: 'Có; chủ hộ là người mặc nhiên đại diện quyền đất của hộ trong hồ sơ cấp giấy'
+    -       text: 'Có; chỉ chủ hộ mới được đại diện'
+          },
+          {
+            correct: false,
+            id: 'C',
+    +       text: 'Có; thành viên khác chỉ được ghi nếu chủ hộ đã từ chối quyền sử dụng đất'
+    -       text: 'Có; trừ khi chủ hộ trên 60 tuổi'
+          },
+          {
+            correct: false,
+            id: 'D',
+    +       text: 'Không được ghi đại diện; mọi trường hợp phải cấp giấy riêng cho từng thành viên'
+    -       text: 'Không được ghi người đại diện trong bất kỳ trường hợp nào'
+          }
+        ],
+    +   audit: {
+    +     editorialReviewDate: '2026-10-15',
+    +     editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+    +   },
+        difficulty: 'application',
+    +   explanation: 'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ.',
+    -   explanation: 'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.',
+        id: 'IMP-SEP24-001',
+        lastVerified: '2026-10-05',
+        legalBasis: [
+          {
+            article: 'Điều 135',
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    id: 'IMP-SEP24-001'
+    part: 2
+    topic: 'Đất đai, nhà ở và kinh doanh bất động sản'
+    type: 'single'
+    status: 'active'
+    difficulty: 'application'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Một hộ gia đình đã có quyền sử dụng đất chung trước khi Luật Đất đai 2024 có hiệu lực. Các thành viên thống nhất yêu cầu giấy chứng nhận ghi người đại diện. Người đại diện có bắt buộc là chủ hộ không?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Không; có thể ghi người đại diện theo yêu cầu của các thành viên'
+        correct: true
+      1:
+        id: 'B'
+        text: 'Có; chỉ chủ hộ mới được đại diện'
+        correct: false
+      2:
+        id: 'C'
+        text: 'Có; trừ khi chủ hộ trên 60 tuổi'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Không được ghi người đại diện trong bất kỳ trường hợp nào'
+        correct: false
+    explanation: 'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.'
+    legalBasis:
+      0:
+        document: 'Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)'
+        article: 'Điều 135'
+        url: 'https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm'
+        clause: 'Khoản 5'
+    lastVerified: '2026-10-05'
+    source:
+      type: 'user-provided'
+      id: 'USER-EXAM-SEP24'
+      questionNumber: '1'
+      supportingIds:
+        0: 'OFFICIAL-DAT-HN26'
+      note: 'Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json.'
+  actual:
+    id: 'IMP-SEP24-001'
+    part: 2
+    topic: 'Đất đai, nhà ở và kinh doanh bất động sản'
+    type: 'single'
+    status: 'active'
+    difficulty: 'application'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Một hộ gia đình đã có quyền sử dụng đất chung trước khi Luật Đất đai 2024 có hiệu lực. Các thành viên thống nhất yêu cầu giấy chứng nhận ghi người đại diện. Người đại diện có bắt buộc là chủ hộ không?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Không; có thể ghi người đại diện theo yêu cầu của các thành viên có quyền chung'
+        correct: true
+      1:
+        id: 'B'
+        text: 'Có; chủ hộ là người mặc nhiên đại diện quyền đất của hộ trong hồ sơ cấp giấy'
+        correct: false
+      2:
+        id: 'C'
+        text: 'Có; thành viên khác chỉ được ghi nếu chủ hộ đã từ chối quyền sử dụng đất'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Không được ghi đại diện; mọi trường hợp phải cấp giấy riêng cho từng thành viên'
+        correct: false
+    explanation: 'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ.'
+    legalBasis:
+      0:
+        document: 'Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)'
+        article: 'Điều 135'
+        url: 'https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm'
+        clause: 'Khoản 5'
+    lastVerified: '2026-10-05'
+    source:
+      type: 'user-provided'
+      id: 'USER-EXAM-SEP24'
+      questionNumber: '1'
+      supportingIds:
+        0: 'OFFICIAL-DAT-HN26'
+      note: 'Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json.'
+    audit:
+      editorialReviewDate: '2026-10-15'
+      editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+  operator: 'deepStrictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:132:10)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: substantive variant migration preserves each reviewed four-answer set and explicit legal certification limits
+not ok 48 - substantive variant migration preserves each reviewed four-answer set and explicit legal certification limits
+  ---
+  duration_ms: 25.434891
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:147:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    SRC26-001
+    + actual - expected
+    
+    + 'Khoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.'
+    - 'Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n' +
+    -   '\n' +
+    -   'Khoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: |-
+    Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.
+    
+    Khoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.
+  actual: 'Khoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:165:16)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: final 40 completes exactly the original variant scope with 80 stems and no bank expansion
+not ok 49 - final 40 completes exactly the original variant scope with 80 stems and no bank expansion
+  ---
+  duration_ms: 31.407587
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:175:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    IMP-SEP24-006
+    + actual - expected
+    ... Skipped lines
+    
+      {
+        answers: [
+          {
+            correct: false,
+            id: 'A',
+    ...
+        ],
+    +   audit: {
+    +     editorialReviewDate: '2026-10-15',
+    +     editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+    +   },
+        difficulty: 'application',
+    +   explanation: 'Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận.',
+    -   explanation: 'Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.',
+        id: 'IMP-SEP24-006',
+        lastVerified: '2026-10-05',
+        legalBasis: [
+          {
+            article: 'Điều 44',
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    id: 'IMP-SEP24-006'
+    part: 2
+    topic: 'Đất đai, nhà ở và kinh doanh bất động sản'
+    type: 'single'
+    status: 'active'
+    difficulty: 'application'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 tặng cho nhà gắn với đất ở cho một người không được sở hữu nhà ở tại Việt Nam. Quyền người nhận được xác định thế nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Được cấp giấy chứng nhận nếu được miễn thuế tặng cho'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Đương nhiên được sở hữu nhà và đất lâu dài vì bên tặng đủ điều kiện'
+        correct: false
+      2:
+        id: 'C'
+        text: 'Chỉ hưởng giá trị nhà gắn với đất, không được cấp giấy chứng nhận quyền đất và tài sản theo trường hợp này'
+        correct: true
+      3:
+        id: 'D'
+        text: 'Được cấp giấy chứng nhận như cá nhân trong nước vì là tặng cho'
+        correct: false
+    explanation: 'Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.'
+    legalBasis:
+      0:
+        document: 'Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)'
+        article: 'Điều 44'
+        url: 'https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm'
+        clause: 'Khoản 2'
+        point: 'Điểm b'
+    lastVerified: '2026-10-05'
+    source:
+      type: 'user-provided'
+      id: 'USER-EXAM-SEP24'
+      questionNumber: '6'
+      supportingIds:
+        0: 'OFFICIAL-DAT-HN26'
+      note: 'Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json.'
+  actual:
+    id: 'IMP-SEP24-006'
+    part: 2
+    topic: 'Đất đai, nhà ở và kinh doanh bất động sản'
+    type: 'single'
+    status: 'active'
+    difficulty: 'application'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Người gốc Việt Nam định cư ở nước ngoài thuộc khoản 1 Điều 44 tặng cho nhà gắn với đất ở cho một người không được sở hữu nhà ở tại Việt Nam. Quyền người nhận được xác định thế nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Được cấp giấy chứng nhận nếu được miễn thuế tặng cho'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Đương nhiên được sở hữu nhà và đất lâu dài vì bên tặng đủ điều kiện'
+        correct: false
+      2:
+        id: 'C'
+        text: 'Chỉ hưởng giá trị nhà gắn với đất, không được cấp giấy chứng nhận quyền đất và tài sản theo trường hợp này'
+        correct: true
+      3:
+        id: 'D'
+        text: 'Được cấp giấy chứng nhận như cá nhân trong nước vì là tặng cho'
+        correct: false
+    explanation: 'Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận.'
+    legalBasis:
+      0:
+        document: 'Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)'
+        article: 'Điều 44'
+        url: 'https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-44-vbhn-vpqh-469129.htm'
+        clause: 'Khoản 2'
+        point: 'Điểm b'
+    lastVerified: '2026-10-05'
+    source:
+      type: 'user-provided'
+      id: 'USER-EXAM-SEP24'
+      questionNumber: '6'
+      supportingIds:
+        0: 'OFFICIAL-DAT-HN26'
+      note: 'Biên tập riêng theo pháp luật tháng 10/2026; số câu và nội dung gốc được lưu trong reports/exam-source-review.json.'
+    audit:
+      editorialReviewDate: '2026-10-15'
+      editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+  operator: 'deepStrictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:209:10)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: exactly five authorized explanation repairs keep independent keys and preserve pre-repair records
+not ok 50 - exactly five authorized explanation repairs keep independent keys and preserve pre-repair records
+  ---
+  duration_ms: 23.580277
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:212:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    IMP-T60-071
+    + actual - expected
+    
+    + 'Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4.'
+    - 'Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4. Gợi ý làm bài: Xác định đúng cá nhân hay tổ chức và đối chiếu từng nhóm chủ thể trong danh mục.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 'Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4. Gợi ý làm bài: Xác định đúng cá nhân hay tổ chức và đối chiếu từng nhóm chủ thể trong danh mục.'
+  actual: 'Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4.'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:222:10)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: every previously pending stored question has a specific editorial decision and linked evidence
+ok 51 - every previously pending stored question has a specific editorial decision and linked evidence
+  ---
+  duration_ms: 2.24808
+  type: 'test'
+  ...
+# Subtest: inheritance cases link specific source branches and verified current provisions
+not ok 52 - inheritance cases link specific source branches and verified current provisions
+  ---
+  duration_ms: 2.820187
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:240:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    'Mẹ còn sống khi Hòa chết nên quyền thừa kế của mẹ đã phát sinh, không chờ công chứng hoặc nhận tiền. Khi mẹ chết, quyền tài sản này thuộc di sản của mẹ. Ở lần mở thừa kế của mẹ, hai nhánh Hòa và Dũng được thế vị: mỗi nhánh 100 triệu; hai con Hòa chia 100 triệu, con Dũng nhận 100 triệu. Không chia đều theo số đầu cháu và không bỏ nhánh Dũng vì nguồn tiền ban đầu từ Hòa.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Mẹ còn sống khi Hòa chết nên quyền thừa kế của mẹ đã phát sinh, không chờ công chứng hoặc nhận tiền. Khi mẹ chết, quyền tài sản này thuộc di sản của mẹ. Ở lần mở thừa kế của mẹ, hai nhánh Hòa và Dũng được thế vị: mỗi nhánh 100 triệu; hai con Hòa chia 100 triệu, con Dũng nhận 100 triệu. Không chia đều theo số đầu cháu và không bỏ nhánh Dũng vì nguồn tiền ban đầu từ Hòa.'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:243:207)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: family cases link reviewed source branches, current article evidence and independent keys
+not ok 53 - family cases link reviewed source branches, current article evidence and independent keys
+  ---
+  duration_ms: 2.744845
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:247:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    'Khoản 7 Điều 42 yêu cầu đối chiếu bản chính các giấy tại điểm b, c, d nhưng cho phép bản sao từ sổ gốc hoặc bản sao chứng thực khi không có bản chính đối với nhóm điểm d. Ngoại lệ này không tự mở rộng sang giấy tùy thân tại điểm b. Câu loại trừ trường hợp đã khai thác được dữ liệu theo khoản 1 để tránh lẫn hai cơ chế.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Khoản 7 Điều 42 yêu cầu đối chiếu bản chính các giấy tại điểm b, c, d nhưng cho phép bản sao từ sổ gốc hoặc bản sao chứng thực khi không có bản chính đối với nhóm điểm d. Ngoại lệ này không tự mở rộng sang giấy tùy thân tại điểm b. Câu loại trừ trường hợp đã khai thác được dữ liệu theo khoản 1 để tránh lẫn hai cơ chế.'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:250:207)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: authorization cases carry precise legal evidence and never duplicate the source appendix
+not ok 54 - authorization cases carry precise legal evidence and never duplicate the source appendix
+  ---
+  duration_ms: 1.354746
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:253:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    'Điều 107 cấm chuyển giao nghĩa vụ cấp dưỡng. Điều 283 cho phép thực hiện nghĩa vụ qua người thứ ba khi bên có quyền đồng ý, nhưng bên có nghĩa vụ vẫn chịu trách nhiệm nếu người thứ ba không thực hiện đúng. Dữ kiện phân biệt rõ hỗ trợ thanh toán với thay thế người có nghĩa vụ; không suy rằng A được giải phóng hoặc mọi hỗ trợ trả tiền đều bị cấm.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Điều 107 cấm chuyển giao nghĩa vụ cấp dưỡng. Điều 283 cho phép thực hiện nghĩa vụ qua người thứ ba khi bên có quyền đồng ý, nhưng bên có nghĩa vụ vẫn chịu trách nhiệm nếu người thứ ba không thực hiện đúng. Dữ kiện phân biệt rõ hỗ trợ thanh toán với thay thế người có nghĩa vụ; không suy rằng A được giải phóng hoặc mọi hỗ trợ trả tiền đều bị cấm.'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:256:165)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: all stored IDs and answer IDs are unique; single questions have exactly one key
+ok 55 - all stored IDs and answer IDs are unique; single questions have exactly one key
+  ---
+  duration_ms: 2.580405
+  type: 'test'
+  ...
+# Subtest: 80 independently authored completion cases have exact keys and linked article evidence
+not ok 56 - 80 independently authored completion cases have exact keys and linked article evidence
+  ---
+  duration_ms: 3.067179
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:261:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    COMP26-QT-010
+    + actual - expected
+    
+      {
+        answers: [
+          {
+            correct: false,
+            id: 'A',
+    +       text: 'Được hủy bản giấy nếu đã quét mà không cần xét điều kiện hồ sơ điện tử'
+    -       text: 'Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử'
+          },
+          {
+            correct: true,
+            id: 'B',
+    +       text: 'Chưa được hủy; tiếp tục lưu ít nhất 20 năm theo quy định chuyển tiếp'
+    -       text: 'Chưa được hủy; tiếp tục thời hạn lưu trữ ít nhất 20 năm theo Luật Công chứng 2014'
+          },
+          {
+            correct: false,
+            id: 'C',
+    +       text: 'Được hủy vì thời hạn mười năm của luật mới áp ngay cho hồ sơ cũ này'
+    -       text: 'Đã đủ vì 10 năm áp dụng chung mọi giao dịch'
+          },
+          {
+            correct: false,
+            id: 'D',
+    +       text: 'Chỉ tiếp tục lưu đủ 20 năm nếu giao dịch còn đang bị khiếu nại'
+    -       text: 'Đã đủ nếu các bên nói không còn tranh chấp'
+          }
+        ],
+        audit: {
+    +     editorialReviewDate: '2026-10-15',
+    +     editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json',
+          legalReviewReport: 'reports/legal-review-register-2026-10-10.json',
+          legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification',
+          variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json',
+          variantReviewDate: '2026-10-09',
+          variantReviewStatus: 'substantive_editorial_review'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    id: 'COMP26-QT-010'
+    part: 2
+    topic: 'Quy trình, thủ tục và nghiệp vụ công chứng'
+    type: 'single'
+    status: 'active'
+    difficulty: 'understanding'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Hồ sơ công chứng bất động sản được lập và lưu từ tháng 10/2016 theo Luật Công chứng 2014, chưa hết thời hạn lưu trữ tại ngày 01/07/2025. Văn phòng định hủy vì đã lưu mười năm. Áp dụng khoản 12 Điều 76 Luật Công chứng 2024, nhận định nào đúng?'
+        1: 'Tháng 10/2026: Một hồ sơ công chứng bất động sản đã lưu mười năm theo Luật Công chứng 2014 và chưa hết thời hạn lưu tại ngày Luật Công chứng 2024 có hiệu lực. Có thể lấy thời hạn mười năm của nhóm giao dịch khác trong luật mới để hủy hồ sơ cũ này không?'
+        2: 'Tháng 10/2026: Kho muốn hủy hồ sơ bất động sản được công chứng và lưu năm 2016 theo Luật Công chứng 2014. Hồ sơ chưa hết thời hạn lưu vào ngày 01/07/2025; nay đã lưu mười năm. Quy định chuyển tiếp dẫn tới kết luận nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Đã đủ nếu đã quét bản sao mà chưa xét quy định lưu hồ sơ điện tử'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Chưa được hủy; tiếp tục thời hạn lưu trữ ít nhất 20 năm theo Luật Công chứng 2014'
+        correct: true
+      2:
+        id: 'C'
+        text: 'Đã đủ vì 10 năm áp dụng chung mọi giao dịch'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Đã đủ nếu các bên nói không còn tranh chấp'
+        correct: false
+    explanation: 'Khoản 12 Điều 76 Luật Công chứng 2024 giữ thời hạn theo Luật Công chứng 2014 đối với hồ sơ đã lưu theo luật cũ mà chưa hết thời hạn tại ngày 01/07/2025. Khoản 2 Điều 64 Luật Công chứng 2014 quy định ít nhất 20 năm. Hồ sơ năm 2016 mới lưu mười năm nên chưa đủ; không áp tự động mức 30 năm cho bất động sản hoặc 10 năm cho giao dịch khác của Điều 68 luật mới. Quét bản sao hay sự đồng ý của các bên không tự cho phép hủy sớm.'
+    legalBasis:
+      0:
+        document: 'Luật Công chứng số 46/2024/QH15'
+        article: 'Điều 76'
+        clause: 'Khoản 12'
+        url: 'https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf'
+      1:
+        document: 'Luật Công chứng số 53/2014/QH13 (áp dụng thời hạn lưu trữ theo khoản 12 Điều 76 Luật Công chứng 2024)'
+        article: 'Điều 64'
+        clause: 'Khoản 2'
+        url: 'https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm'
+    lastVerified: '2026-10-10'
+    source:
+      type: 'official'
+      id: 'OFFICIAL-CC24'
+      supportingSourceIds:
+      note: 'Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json.'
+    audit:
+      variantReviewDate: '2026-10-09'
+      variantReviewStatus: 'substantive_editorial_review'
+      variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json'
+      legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification'
+      legalReviewReport: 'reports/legal-review-register-2026-10-10.json'
+  actual:
+    id: 'COMP26-QT-010'
+    part: 2
+    topic: 'Quy trình, thủ tục và nghiệp vụ công chứng'
+    type: 'single'
+    status: 'active'
+    difficulty: 'understanding'
+    questionForm: 'short_case'
+    question:
+      variants:
+        0: 'Tháng 10/2026: Hồ sơ công chứng bất động sản được lập và lưu từ tháng 10/2016 theo Luật Công chứng 2014, chưa hết thời hạn lưu trữ tại ngày 01/07/2025. Văn phòng định hủy vì đã lưu mười năm. Áp dụng khoản 12 Điều 76 Luật Công chứng 2024, nhận định nào đúng?'
+        1: 'Tháng 10/2026: Một hồ sơ công chứng bất động sản đã lưu mười năm theo Luật Công chứng 2014 và chưa hết thời hạn lưu tại ngày Luật Công chứng 2024 có hiệu lực. Có thể lấy thời hạn mười năm của nhóm giao dịch khác trong luật mới để hủy hồ sơ cũ này không?'
+        2: 'Tháng 10/2026: Kho muốn hủy hồ sơ bất động sản được công chứng và lưu năm 2016 theo Luật Công chứng 2014. Hồ sơ chưa hết thời hạn lưu vào ngày 01/07/2025; nay đã lưu mười năm. Quy định chuyển tiếp dẫn tới kết luận nào?'
+    answers:
+      0:
+        id: 'A'
+        text: 'Được hủy bản giấy nếu đã quét mà không cần xét điều kiện hồ sơ điện tử'
+        correct: false
+      1:
+        id: 'B'
+        text: 'Chưa được hủy; tiếp tục lưu ít nhất 20 năm theo quy định chuyển tiếp'
+        correct: true
+      2:
+        id: 'C'
+        text: 'Được hủy vì thời hạn mười năm của luật mới áp ngay cho hồ sơ cũ này'
+        correct: false
+      3:
+        id: 'D'
+        text: 'Chỉ tiếp tục lưu đủ 20 năm nếu giao dịch còn đang bị khiếu nại'
+        correct: false
+    explanation: 'Khoản 12 Điều 76 Luật Công chứng 2024 giữ thời hạn theo Luật Công chứng 2014 đối với hồ sơ đã lưu theo luật cũ mà chưa hết thời hạn tại ngày 01/07/2025. Khoản 2 Điều 64 Luật Công chứng 2014 quy định ít nhất 20 năm. Hồ sơ năm 2016 mới lưu mười năm nên chưa đủ; không áp tự động mức 30 năm cho bất động sản hoặc 10 năm cho giao dịch khác của Điều 68 luật mới. Quét bản sao hay sự đồng ý của các bên không tự cho phép hủy sớm.'
+    legalBasis:
+      0:
+        document: 'Luật Công chứng số 46/2024/QH15'
+        article: 'Điều 76'
+        clause: 'Khoản 12'
+        url: 'https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/01/luat46.pdf'
+      1:
+        document: 'Luật Công chứng số 53/2014/QH13 (áp dụng thời hạn lưu trữ theo khoản 12 Điều 76 Luật Công chứng 2024)'
+        article: 'Điều 64'
+        clause: 'Khoản 2'
+        url: 'https://congbao.chinhphu.vn/van-ban/luat-so-53-2014-qh13-8751/7345.htm'
+    lastVerified: '2026-10-10'
+    source:
+      type: 'official'
+      id: 'OFFICIAL-CC24'
+      supportingSourceIds:
+      note: 'Tình huống độc lập, biên soạn từng dòng; chứng cứ tại reports/completion-legal-evidence-2026.json.'
+    audit:
+      variantReviewDate: '2026-10-09'
+      variantReviewStatus: 'substantive_editorial_review'
+      variantEvidenceReport: 'reports/substantive-variants-2026-10-09.json'
+      legalReviewStatus: 'referenced_provisions_reviewed_not_global_certification'
+      legalReviewReport: 'reports/legal-review-register-2026-10-10.json'
+      editorialReviewDate: '2026-10-15'
+      editorialReviewReport: 'reports/editorial-review-437-2026-10-15.json'
+  operator: 'deepStrictEqual'
+  stack: |-
+    atEditorialReview (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:8:82)
+    Array.map (<anonymous>)
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:262:52)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: active citations are linked and future rules require an explicit application date
+ok 57 - active citations are linked and future rules require an explicit application date
+  ---
+  duration_ms: 1.952449
+  type: 'test'
+  ...
+# Subtest: 80 refinement cases resolve every reference to statutory evidence and one dated key
+ok 58 - 80 refinement cases resolve every reference to statutory evidence and one dated key
+  ---
+  duration_ms: 5.733469
+  type: 'test'
+  ...
+# Subtest: later duplicate decisions retain IDs and keys while excluding all three from new sessions
+ok 59 - later duplicate decisions retain IDs and keys while excluding all three from new sessions
+  ---
+  duration_ms: 0.414011
+  type: 'test'
+  ...
+# Subtest: eligible questions have distinct stems, explanations, registered sources and dated future law
+not ok 60 - eligible questions have distinct stems, explanations, registered sources and dated future law
+  ---
+  duration_ms: 11.530527
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:288:1'
+  failureType: 'testCodeFailure'
+  error: 'IMP-SEP24-019'
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: true
+  actual: false
+  operator: '=='
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:288:239)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: new cases each carry traceable article evidence and precise references
+ok 61 - new cases each carry traceable article evidence and precise references
+  ---
+  duration_ms: 5.415831
+  type: 'test'
+  ...
+# Subtest: mechanical expansion cannot enter practice or exams
+ok 62 - mechanical expansion cannot enter practice or exams
+  ---
+  duration_ms: 0.487736
+  type: 'test'
+  ...
+# Subtest: deposit cases have article evidence and linked source provenance; appendix stays review
+not ok 63 - deposit cases have article evidence and linked source provenance; appendix stays review
+  ---
+  duration_ms: 2.544091
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:292:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    'Ký cược gắn với việc thuê động sản và bảo đảm trả lại tài sản thuê. Đặt cọc có thể bảo đảm giao kết hoặc thực hiện hợp đồng, kể cả hợp đồng thuê nhà. Không phải mọi khoản tiền trong quan hệ thuê đều là ký cược; ký quỹ còn có cơ chế gửi tiền tại tổ chức tín dụng.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Ký cược gắn với việc thuê động sản và bảo đảm trả lại tài sản thuê. Đặt cọc có thể bảo đảm giao kết hoặc thực hiện hợp đồng, kể cả hợp đồng thuê nhà. Không phải mọi khoản tiền trong quan hệ thuê đều là ký cược; ký quỹ còn có cơ chế gửi tiền tại tổ chức tín dụng.'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:295:156)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: imported exams preserve every source item and certify only linked adapted questions
+not ok 64 - imported exams preserve every source item and certify only linked adapted questions
+  ---
+  duration_ms: 10.494153
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:299:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    The input did not match the regular expression /Gợi ý làm bài:/. Input:
+    
+    'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ.'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+  actual: 'Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ.'
+  operator: 'match'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:302:496)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: October legal audit seals all 594 questions and applies old-certificate, age and archive transitions
+not ok 65 - October legal audit seals all 594 questions and applies old-certificate, age and archive transitions
+  ---
+  duration_ms: 13.920182
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:306:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    COMP26-DN-009
+    + actual - expected
+    
+    + '43a4f5db692759c84a09030c32763355bc26f2474b8063b12d6fffe3666edb10'
+    - 'c06e6b8c36d84c13465dae0604ebc02304f8f02779b039803b232d58b3e41f52'
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected: 'c06e6b8c36d84c13465dae0604ebc02304f8f02779b039803b232d58b3e41f52'
+  actual: '43a4f5db692759c84a09030c32763355bc26f2474b8063b12d6fffe3666edb10'
+  operator: 'strictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:314:97)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: 100 new integrated cases link every applied provision and avoid answer-length and key-position shortcuts
+not ok 66 - 100 new integrated cases link every applied provision and avoid answer-length and key-position shortcuts
+  ---
+  duration_ms: 11.257947
+  type: 'test'
+  location: '/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:321:1'
+  failureType: 'testCodeFailure'
+  error: |-
+    Expected values to be strictly deep-equal:
+    + actual - expected
+    
+      [
+        'DS:295',
+    -   'DS:296',
+        'HN:35',
+        'CC:56'
+      ]
+    
+  code: 'ERR_ASSERTION'
+  name: 'AssertionError'
+  expected:
+    0: 'DS:295'
+    1: 'DS:296'
+    2: 'HN:35'
+    3: 'CC:56'
+  actual:
+    0: 'DS:295'
+    1: 'HN:35'
+    2: 'CC:56'
+  operator: 'deepStrictEqual'
+  stack: |-
+    TestContext.<anonymous> (/workspace/scratch/060c67e9e14c/CongchungVND/tests/bank-quality.test.cjs:333:57)
+    Test.runInAsyncScope (node:async_hooks:227:14)
+    Test.run (node:internal/test_runner/test:1382:25)
+    Test.processPendingSubtests (node:internal/test_runner/test:960:18)
+    Test.postRun (node:internal/test_runner/test:1522:19)
+    Test.run (node:internal/test_runner/test:1447:12)
+    async Test.processPendingSubtests (node:internal/test_runner/test:960:7)
+  ...
+# Subtest: 67 guessability repairs have independent law evidence, three reasoning steps, plausible options and correct arithmetic
+ok 67 - 67 guessability repairs have independent law evidence, three reasoning steps, plausible options and correct arithmetic
+  ---
+  duration_ms: 15.240692
+  type: 'test'
+  ...
+# Subtest: 60 remaining-case reviews have provision evidence, distinct scenarios, stable keys and bounded difficulty claims
+ok 68 - 60 remaining-case reviews have provision evidence, distinct scenarios, stable keys and bounded difficulty claims
+  ---
+  duration_ms: 17.273646
+  type: 'test'
+  ...
+# Subtest: 129 priority reviews cover the exact cohort, preserve keys and dates, support arithmetic and do not claim empirical difficulty
+ok 69 - 129 priority reviews cover the exact cohort, preserve keys and dates, support arithmetic and do not claim empirical difficulty
+  ---
+  duration_ms: 23.69976
+  type: 'test'
+  ...
+# Subtest: leaderboard reads only aggregates without history keys; escapes public names
+ok 70 - leaderboard reads only aggregates without history keys; escapes public names
+  ---
+  duration_ms: 18.864861
+  type: 'test'
+  ...
+# Subtest: pagination fetches next page and keeps global positions
+ok 71 - pagination fetches next page and keeps global positions
+  ---
+  duration_ms: 2.482764
+  type: 'test'
+  ...
+# Subtest: empty board explains minimum submissions and offline refresh preserves last data
+ok 72 - empty board explains minimum submissions and offline refresh preserves last data
+  ---
+  duration_ms: 2.788223
+  type: 'test'
+  ...
+# Subtest: stale response cannot overwrite newer successful refresh
+ok 73 - stale response cannot overwrite newer successful refresh
+  ---
+  duration_ms: 1.873534
+  type: 'test'
+  ...
+# Subtest: names normalize case/spacing but access uses random secret; same name on new device is isolated
+ok 74 - names normalize case/spacing but access uses random secret; same name on new device is isolated
+  ---
+  duration_ms: 4.356244
+  type: 'test'
+  ...
+# Subtest: snapshot preserves exact submitted answers, explanations and elapsed time
+ok 75 - snapshot preserves exact submitted answers, explanations and elapsed time
+  ---
+  duration_ms: 1.7384
+  type: 'test'
+  ...
+# Subtest: offline attempt remains queued with same receipt, retry duplicate ack clears queue
+ok 76 - offline attempt remains queued with same receipt, retry duplicate ack clears queue
+  ---
+  duration_ms: 2.501133
+  type: 'test'
+  ...
+# Subtest: local storage failure does not prevent central acknowledgement
+ok 77 - local storage failure does not prevent central acknowledgement
+  ---
+  duration_ms: 1.137597
+  type: 'test'
+  ...
+# Subtest: weak topics use last five attempts and include unanswered questions; HTML is escaped
+ok 78 - weak topics use last five attempts and include unanswered questions; HTML is escaped
+  ---
+  duration_ms: 19.042701
+  type: 'test'
+  ...
+# Subtest: history pagination handles more than 100 results, phone identifier is sent in every request
+ok 79 - history pagination handles more than 100 results, phone identifier is sent in every request
+  ---
+  duration_ms: 4.08197
+  type: 'test'
+  ...
+# Subtest: phone formatting identifies the same history across devices without authentication
+ok 80 - phone formatting identifies the same history across devices without authentication
+  ---
+  duration_ms: 1.887657
+  type: 'test'
+  ...
+# Subtest: legacy merge preserves receipt IDs, redirects queued attempts and recent question history
+ok 81 - legacy merge preserves receipt IDs, redirects queued attempts and recent question history
+  ---
+  duration_ms: 1.865626
+  type: 'test'
+  ...
+# Subtest: failed legacy merge leaves old queue and identity intact for retry
+ok 82 - failed legacy merge leaves old queue and identity intact for retry
+  ---
+  duration_ms: 1.3945
+  type: 'test'
+  ...
+1..82
+# tests 82
+# suites 0
+# pass 62
+# fail 20
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 39658.098766
