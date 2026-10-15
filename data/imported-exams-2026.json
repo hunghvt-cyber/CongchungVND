@@ -17,26 +17,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Không; có thể ghi người đại diện theo yêu cầu của các thành viên",
+        "text": "Không; có thể ghi người đại diện theo yêu cầu của các thành viên có quyền chung",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Có; chỉ chủ hộ mới được đại diện",
+        "text": "Có; chủ hộ là người mặc nhiên đại diện quyền đất của hộ trong hồ sơ cấp giấy",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có; trừ khi chủ hộ trên 60 tuổi",
+        "text": "Có; thành viên khác chỉ được ghi nếu chủ hộ đã từ chối quyền sử dụng đất",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không được ghi người đại diện trong bất kỳ trường hợp nào",
+        "text": "Không được ghi đại diện; mọi trường hợp phải cấp giấy riêng cho từng thành viên",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Đáp án đúng: Không; có thể ghi người đại diện theo yêu cầu của các thành viên. Có thể ghi tên người đại diện nếu các thành viên có quyền sử dụng đất chung yêu cầu. Ghi tên đại diện không làm biến mất quyền của các thành viên; người đại diện cũng không nhất thiết là chủ hộ.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -59,7 +59,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -225,7 +227,7 @@
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Đại hội đồng cổ đông. Giao dịch bán tài sản với cổ đông sở hữu từ 51% quyền biểu quyết hoặc người liên quan của họ phải được Đại hội đồng cổ đông chấp thuận khi giá trị lớn hơn 10% tổng tài sản theo báo cáo gần nhất. Từ 10% không đồng nghĩa lớn hơn 10%. Gợi ý làm bài: Xác định loại công ty, điều lệ, người đại diện và cơ quan có quyền chấp thuận trước khi ký.",
+    "explanation": "Giao dịch bán tài sản với cổ đông sở hữu từ 51% quyền biểu quyết hoặc người liên quan của họ phải được Đại hội đồng cổ đông chấp thuận khi giá trị lớn hơn 10% tổng tài sản theo báo cáo gần nhất. Từ 10% không đồng nghĩa lớn hơn 10%.",
     "legalBasis": [
       {
         "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
@@ -249,7 +251,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -289,7 +293,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Thông báo việc gửi giữ cho bên thuê vận chuyển hoặc người thứ ba được chỉ định nhận. Khi hàng đến đúng nơi, đúng hạn nhưng không có người nhận, bên vận chuyển được gửi giữ và phải báo ngay cho bên thuê hoặc người thứ ba được chỉ định. Nghĩa vụ giao hoàn thành khi đã gửi giữ và đã thông báo, không chỉ sau khi gửi hàng. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Khi hàng đến đúng nơi, đúng hạn nhưng không có người nhận, bên vận chuyển được gửi giữ và phải báo ngay cho bên thuê hoặc người thứ ba được chỉ định. Nghĩa vụ giao hoàn thành khi đã gửi giữ và đã thông báo, không chỉ sau khi gửi hàng.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -312,7 +316,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -479,7 +485,7 @@
         "correct": true
       }
     ],
-    "explanation": "Điểm l khoản 1 Điều 9 là trường hợp đã được nhắc nhở và yêu cầu sửa chữa bằng văn bản mà vẫn tiếp tục vi phạm. Điểm d khoản 3 áp dụng mốc sau một năm từ ngày quyết định chấm dứt có hiệu lực; đây không phải thời hạn chung cho mọi trường hợp chấm dứt tập sự. Gợi ý làm bài: Phân biệt tạm ngừng, chấm dứt và đăng ký lại; đọc đúng mốc bắt đầu tính thời hạn.",
+    "explanation": "Điểm l khoản 1 Điều 9 là trường hợp đã được nhắc nhở và yêu cầu sửa chữa bằng văn bản mà vẫn tiếp tục vi phạm. Điểm d khoản 3 áp dụng mốc sau một năm từ ngày quyết định chấm dứt có hiệu lực; đây không phải thời hạn chung cho mọi trường hợp chấm dứt tập sự.",
     "legalBasis": [
       {
         "document": "Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng",
@@ -503,7 +509,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -512,38 +520,38 @@
     "topic": "Tập sự và kiểm tra kết quả tập sự",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "Người tập sự H ghi chép công việc đã thực hiện vào sổ nhật ký mỗi ngày. Cuối tuần, H đưa sổ cho công chứng viên hướng dẫn ký xác nhận; đến khi kết thúc tập sự, văn phòng dự định không xác nhận thêm vì cho rằng chữ ký hằng tuần đã đủ. Cách hoàn tất việc xác nhận sổ nào phù hợp?",
-        "Tháng 10/2026: Người tập sự chỉ tự ký nhật ký hàng ngày và dự định xin Sở Tư pháp xác nhận khi kết thúc. Để hoàn thiện việc xác nhận sổ theo TT06/2025, cần những chủ thể và nhịp xác nhận nào?",
-        "Tháng 10/2026: Tổ chức nhận tập sự đang xây quy trình kiểm tra nhật ký từ trong quá trình tập sự đến lúc kết thúc. Chọn cách phân công xác nhận đáp ứng luật thay vì chỉ xin một chữ ký ở ngày bắt đầu."
+        "Tháng 10/2026: H ghi nhật ký tập sự mỗi ngày và được công chứng viên hướng dẫn xác nhận hằng tuần. Khi kết thúc tập sự, tổ chức nhận tập sự cho rằng đã đủ chữ ký nên không cần xác nhận nữa. Phương án nào hoàn tất đúng trách nhiệm xác nhận sổ?",
+        "Tháng 10/2026: Tổ chức nhận tập sự muốn cuối kỳ xác nhận một lần vào sổ nhật ký để thay cho việc công chứng viên hướng dẫn xác nhận trong quá trình tập sự. Hằng ngày người tập sự vẫn ghi đủ công việc. Cách phân công xác nhận nào đúng?",
+        "Tháng 10/2026: H đề nghị người hướng dẫn ký sổ nhật ký vào ngày cuối mỗi tháng và tổ chức xác nhận cuối kỳ. Người hướng dẫn cho rằng nội dung đầy đủ quan trọng hơn nhịp xác nhận. Chọn quy trình xác nhận phù hợp."
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Công chứng viên hướng dẫn xác nhận hằng tuần; tổ chức nhận tập sự xác nhận khi kết thúc",
+        "text": "Người hướng dẫn xác nhận hằng tuần; tổ chức nhận tập sự xác nhận khi kết thúc",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ Sở Tư pháp xác nhận khi cấp thẻ công chứng viên",
+        "text": "Người hướng dẫn xác nhận hằng tháng; tổ chức nhận tập sự xác nhận khi kết thúc",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ người tập sự tự xác nhận mỗi ngày",
+        "text": "Người hướng dẫn chỉ xác nhận cuối kỳ; tổ chức xác nhận cùng thời điểm đó",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Công chứng viên hướng dẫn xác nhận khi bắt đầu, sau đó không cần xác nhận",
+        "text": "Người hướng dẫn xác nhận hằng tuần; tổ chức không cần xác nhận cuối kỳ",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Công chứng viên hướng dẫn xác nhận hằng tuần; tổ chức nhận tập sự xác nhận khi kết thúc. Công chứng viên hướng dẫn xác nhận sổ nhật ký hằng tuần; tổ chức hành nghề công chứng nhận tập sự xác nhận khi kết thúc. Hai trách nhiệm này bổ sung cho nhau, không thể chỉ tự xác nhận hoặc chỉ xin xác nhận của Sở Tư pháp. Gợi ý làm bài: Phân biệt tạm ngừng, chấm dứt và đăng ký lại; đọc đúng mốc bắt đầu tính thời hạn.",
+    "explanation": "Đáp án đúng: Công chứng viên hướng dẫn xác nhận hằng tuần; tổ chức nhận tập sự xác nhận khi kết thúc. Công chứng viên hướng dẫn xác nhận sổ nhật ký hằng tuần; tổ chức hành nghề công chứng nhận tập sự xác nhận khi kết thúc. Hai trách nhiệm này bổ sung cho nhau, không thể chỉ tự xác nhận hoặc chỉ xin xác nhận của Sở Tư pháp.",
     "legalBasis": [
       {
         "document": "Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng",
@@ -566,7 +574,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -606,7 +616,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Từ lúc bên cầm giữ chiếm giữ tài sản. Hiệu lực đối kháng của cầm giữ bắt đầu khi bên cầm giữ chiếm giữ tài sản. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Hiệu lực đối kháng của cầm giữ bắt đầu khi bên cầm giữ chiếm giữ tài sản.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -629,7 +639,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -642,34 +654,34 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Ông M bị Tòa án tuyên mất năng lực hành vi dân sự, không có người giám hộ được chỉ định theo khoản 2 Điều 48 Bộ luật Dân sự. Vợ ông M và người con cả đều có đủ điều kiện làm giám hộ, nhưng người con đề nghị được ưu tiên vì trực tiếp quản lý tài sản. Khi xác định người giám hộ đương nhiên, phải ưu tiên ai?",
-        "Tháng 10/2026: Con cả yêu cầu làm giám hộ đương nhiên cho cha bị Tòa án tuyên mất năng lực vì mình trẻ hơn mẹ. Không có người giám hộ theo khoản 2 Điều 48; mẹ là vợ người mất năng lực và đủ điều kiện giám hộ, con cả cũng đủ điều kiện. Ai được xác định theo thứ tự luật?",
-        "Tháng 10/2026: Gia đình phải chọn giám hộ đương nhiên cho người chồng đã bị tuyên mất năng lực. Không áp người giám hộ theo khoản 2 Điều 48; vợ và con cả đều đủ điều kiện. Có thể bỏ qua vợ để giao ngay cho cha hoặc các con không? Chọn người theo luật."
+        "Tháng 10/2026: Ông M bị Tòa án tuyên mất năng lực, không có người giám hộ theo khoản 2 Điều 48 BLDS. Vợ và con cả đều đủ điều kiện giám hộ; con cả hiện quản lý tài sản nên xin được ưu tiên. Ai là người giám hộ đương nhiên theo dữ kiện?",
+        "Tháng 10/2026: Bà H đủ điều kiện làm giám hộ cho chồng đã bị tuyên mất năng lực. Chồng không lựa chọn người giám hộ trước đó theo khoản 2 Điều 48. Con cả cũng đủ điều kiện và đang chăm sóc cha. Xác định người giám hộ đương nhiên trong trường hợp này.",
+        "Tháng 10/2026: Người chồng bị tuyên mất năng lực, không có người giám hộ theo khoản 2 Điều 48. Cả cha ruột, vợ và con cả đều đủ điều kiện. Gia đình muốn chọn ngay người đang giữ giấy tờ nhà. Thứ tự luật định dẫn đến lựa chọn nào?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Cha của người mất năng lực dù người vợ đủ điều kiện",
+        "text": "Cha ruột vì là người thuộc thế hệ trước của người cần giám hộ",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Các con cùng giám hộ, không xét người vợ",
+        "text": "Các con cùng thực hiện vì đều có nghĩa vụ chăm sóc cha mẹ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Người vợ",
+        "text": "Người vợ vì đáp ứng điều kiện giám hộ đương nhiên trong tình huống này",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Con cả vì là người trẻ hơn",
+        "text": "Con cả vì đang trực tiếp quản lý tài sản của người cần giám hộ",
         "correct": false
       }
     ],
-    "explanation": "Giả định đã loại trừ người giám hộ theo khoản 2 Điều 48. Khi người chồng mất năng lực và vợ đủ điều kiện, người vợ là giám hộ đương nhiên. Không chuyển ngay sang con cả chỉ vì con trẻ hơn; thứ tự con, cha mẹ chỉ áp dụng khi đáp ứng điều kiện chuyển sang các nhóm đó. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Theo dữ kiện không có người giám hộ theo khoản 2 Điều 48, khoản 1 Điều 53 xác định người vợ đủ điều kiện là giám hộ đương nhiên của chồng mất năng lực. Người con đang chăm sóc hoặc quản lý tài sản không vì thế được ưu tiên. Chỉ chuyển sang nhóm tiếp theo khi thỏa các điều kiện luật định.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -698,7 +710,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -738,7 +752,7 @@
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Không được góp vốn bằng quyền sử dụng đất này. Tổ chức được giao đất không thu tiền không được chuyển nhượng, cho thuê, tặng cho, thế chấp hoặc góp vốn bằng quyền sử dụng đất theo khoản 2. Bốn phương án không đưa ra quyền được phép phù hợp; không tạo khóa đúng giả. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Khoản 2 Điều 32 không cho tổ chức trong nước được giao đất không thu tiền sử dụng đất góp vốn bằng chính quyền sử dụng đất đó. Việc cùng ngành nghề, được thành viên đồng ý hoặc không đổi mục đích sử dụng không tạo thêm quyền góp vốn. Phải phân biệt quyền sử dụng đất với tài sản thuộc sở hữu của tổ chức trên đất.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -761,7 +775,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -845,26 +861,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tự chuyển thành hợp đồng mua bán tài sản bảo đảm",
+        "text": "Hợp đồng bảo đảm vẫn tiếp tục để bảo đảm nghĩa vụ theo hợp đồng vô hiệu",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Hợp đồng bảo đảm chấm dứt",
+        "text": "Hợp đồng bảo đảm chấm dứt khi hợp đồng có nghĩa vụ được bảo đảm chưa được thực hiện",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Hợp đồng bảo đảm luôn tiếp tục để bảo đảm toàn bộ lợi nhuận dự kiến",
+        "text": "Hợp đồng bảo đảm tiếp tục cho đến khi hết thời hạn bảo đảm đã ghi",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ chấm dứt khi bên nhận bảo đảm tự nguyện đồng ý",
+        "text": "Hợp đồng bảo đảm chỉ chấm dứt sau khi bên nhận bảo đảm có văn bản đồng ý",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Hợp đồng bảo đảm chấm dứt. Khi hợp đồng có nghĩa vụ được bảo đảm vô hiệu, bị hủy hoặc đơn phương chấm dứt, phải phân biệt đã thực hiện hay chưa thực hiện. Chưa thực hiện thì hợp đồng bảo đảm chấm dứt; đã thực hiện có thể tiếp tục bảo đảm nghĩa vụ hoàn trả theo điều khoản tương ứng. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Hợp đồng bảo đảm chấm dứt. Khi hợp đồng có nghĩa vụ được bảo đảm vô hiệu, bị hủy hoặc đơn phương chấm dứt, phải phân biệt đã thực hiện hay chưa thực hiện. Chưa thực hiện thì hợp đồng bảo đảm chấm dứt; đã thực hiện có thể tiếp tục bảo đảm nghĩa vụ hoàn trả theo điều khoản tương ứng.",
     "legalBasis": [
       {
         "document": "Nghị định số 21/2021/NĐ-CP về bảo đảm thực hiện nghĩa vụ",
@@ -888,7 +904,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -909,26 +927,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tổ chức hành nghề công chứng lập thỏa thuận",
+        "text": "Công chứng viên đã chứng nhận thỏa thuận, căn cứ theo hồ sơ y tế",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Bên nhờ mang thai hộ nếu đã thanh toán đủ chi phí",
+        "text": "Bên nhờ mang thai hộ vì là bên có quyền, nghĩa vụ với trẻ sinh ra",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Bên mang thai hộ",
+        "text": "Bên mang thai hộ theo điều kiện pháp luật về tính mạng, sức khỏe, thai nhi",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Chỉ bên nhờ mang thai hộ",
+        "text": "Cả hai bên phải thống nhất, bên mang thai hộ không được tự quyết trong trường hợp này",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Bên mang thai hộ. Người mang thai hộ quyết định số lượng thai nhi, việc tiếp tục hay không tiếp tục mang thai vì lý do tính mạng, sức khỏe hoặc sự phát triển của thai nhi. Quyền không hoàn toàn tùy ý, không phụ thuộc mọi yếu tố như cách hỏi dễ khiến hiểu nhầm. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Khoản 4 Điều 97 trao cho bên mang thai hộ quyền quyết định về số lượng thai nhi, tiếp tục hoặc không tiếp tục mang thai theo quy định về chăm sóc sức khỏe sinh sản khi có lý do về tính mạng, sức khỏe của mình hoặc sự phát triển của thai nhi. Dữ kiện đã có nguy cơ nghiêm trọng về sức khỏe; sự phản đối của bên nhờ hay việc đã trả chi phí không chuyển quyền quyết định này sang bên nhờ.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
@@ -951,7 +969,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -972,26 +992,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Báo trước ít nhất 30 ngày",
+        "text": "Thông báo bằng văn bản trước ít nhất 30 ngày",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Không cần báo trước vì không có thời hạn",
+        "text": "Thông báo bằng văn bản khi chấm dứt, không cần khoảng báo trước",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ được chấm dứt khi cả hai bên đồng ý, không có quyền đơn phương",
+        "text": "Thông báo trước ít nhất sáu tháng nhưng không bắt buộc bằng văn bản",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Thông báo bằng văn bản cho bên kia trước ít nhất 6 tháng",
+        "text": "Thông báo bằng văn bản cho bên kia trước ít nhất sáu tháng",
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Thông báo bằng văn bản cho bên kia trước ít nhất 6 tháng. Không xác định thời hạn quyền bề mặt thì mỗi bên được chấm dứt, nhưng phải báo bên kia trước ít nhất sáu tháng. Đây là quyền bề mặt, khác thời hạn báo khi đơn phương chấm dứt thuê hay ủy quyền. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Thông báo bằng văn bản cho bên kia trước ít nhất 6 tháng. Không xác định thời hạn quyền bề mặt thì mỗi bên được chấm dứt, nhưng phải báo bên kia trước ít nhất sáu tháng. Đây là quyền bề mặt, khác thời hạn báo khi đơn phương chấm dứt thuê hay ủy quyền.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1014,7 +1034,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1054,7 +1076,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Từ thời điểm con được sinh ra. Quyền, nghĩa vụ của bên nhờ mang thai hộ với con phát sinh từ lúc con được sinh ra. Thời điểm giao nhận con trên thực tế không trì hoãn quan hệ này. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Quyền, nghĩa vụ của bên nhờ mang thai hộ với con phát sinh từ lúc con được sinh ra. Thời điểm giao nhận con trên thực tế không trì hoãn quan hệ này.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
@@ -1077,7 +1099,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1117,7 +1141,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Không được hủy khi chưa có sự đồng ý của người thứ ba. Sau khi người thứ ba đồng ý hưởng lợi, các bên không được sửa hoặc hủy hợp đồng nếu người đó không đồng ý. Chưa thực hiện hay đã thực hiện một phần không tự thay thế sự đồng ý cần thiết. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Sau khi người thứ ba đồng ý hưởng lợi, các bên không được sửa hoặc hủy hợp đồng nếu người đó không đồng ý. Chưa thực hiện hay đã thực hiện một phần không tự thay thế sự đồng ý cần thiết.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1139,7 +1163,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1311,7 +1337,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Văn bản công chứng di chúc không có hiệu lực. Ngoại lệ chỉ áp dụng khi tính mạng người lập di chúc bị cái chết đe dọa: có thể chưa xuất trình đủ giấy tờ nhưng phải ghi rõ trong văn bản công chứng. Già yếu hay muốn làm gấp không tự tạo ngoại lệ. Sau 3 tháng, nếu không còn nguy hiểm thì phải nộp đủ giấy tờ; không nộp thì di chúc công chứng không có hiệu lực. Gợi ý làm bài: Xác định thủ tục công chứng và điều kiện đặc thù; không dùng sự đồng ý của các bên để bỏ điều kiện bắt buộc.",
+    "explanation": "Ngoại lệ chỉ áp dụng khi tính mạng người lập di chúc bị cái chết đe dọa: có thể chưa xuất trình đủ giấy tờ nhưng phải ghi rõ trong văn bản công chứng. Già yếu hay muốn làm gấp không tự tạo ngoại lệ. Sau 3 tháng, nếu không còn nguy hiểm thì phải nộp đủ giấy tờ; không nộp thì di chúc công chứng không có hiệu lực.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -1334,7 +1360,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1437,7 +1465,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Bên thuê được tiếp tục thuê đến hết hạn hợp đồng. Tặng cho nhà đang thuê không tự làm chấm dứt hợp đồng thuê. Chủ sở hữu thông báo bằng văn bản trước ít nhất 30 ngày; bên thuê tiếp tục thuê đến hết hạn, trừ thỏa thuận khác. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Tặng cho nhà đang thuê không tự làm chấm dứt hợp đồng thuê. Chủ sở hữu thông báo bằng văn bản trước ít nhất 30 ngày; bên thuê tiếp tục thuê đến hết hạn, trừ thỏa thuận khác.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -1459,7 +1487,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1472,34 +1502,34 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Ông H cho bà K ở nhờ nhà theo thỏa thuận có thời hạn. Khi ông H qua đời, thời hạn chưa hết, căn nhà vẫn còn và bà K vẫn đang sử dụng đúng thỏa thuận. Người thừa kế cho rằng chỉ riêng việc chủ nhà chết đã làm quyền ở nhờ chấm dứt. Nhận định đó có đúng với căn cứ chấm dứt theo Luật Nhà ở không?",
-        "Tháng 10/2026: Người thừa kế chủ nhà yêu cầu người ở nhờ rời nhà chỉ vì bên cho ở nhờ đã chết. Hợp đồng còn hạn, nhà tồn tại, người ở nhờ sống và không thỏa thuận chấm dứt do chủ chết. Chọn nhận định theo danh mục Điều 180(2).",
-        "Tháng 10/2026: Khi rà căn cứ chấm dứt cho ở nhờ, bên nhận nhà thừa kế cho rằng quy định về cá nhân chết áp dụng cả cho bên cho ở nhờ. Chủ nhà đã chết, người ở nhờ còn sống, nhà còn và hợp đồng chưa hết hạn, không thỏa thuận khác. Nhận định nào đúng?"
+        "Tháng 10/2026: Ông H cho K ở nhờ nhà trong hai năm, không thỏa thuận chấm dứt khi H chết. H chết sau một năm; K còn sống, nhà còn và không có căn cứ chấm dứt khác. Người thừa kế đòi lại nhà chỉ vì H chết. Đánh giá riêng lý do này thế nào?",
+        "Tháng 10/2026: Người thừa kế tiếp nhận căn nhà đang cho ở nhờ còn hạn. Họ viện dẫn căn cứ cá nhân chết trong danh mục chấm dứt cho ở nhờ, nhưng người chết là chủ nhà, người ở nhờ vẫn sống. Không có thỏa thuận hoặc căn cứ khác. Nhận định nào đúng?",
+        "Tháng 10/2026: K nhận thông báo phải rời nhà ở nhờ vì người cho ở nhờ vừa qua đời. Nhà còn, thời hạn chưa hết, K sử dụng đúng thỏa thuận và không có căn cứ chấm dứt khác. Việc thay chủ do thừa kế tự nó có chấm dứt việc ở nhờ không?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Có; mọi hợp đồng cho ở nhờ chấm dứt khi chủ nhà chết",
+        "text": "Có; quyền cho ở nhờ gắn nhân thân chủ nhà nên chấm dứt cùng người này",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Có; trừ khi người ở nhờ là người thừa kế duy nhất",
+        "text": "Có; người thừa kế chỉ tiếp nhận nhà mà không tiếp nhận quan hệ đang tồn tại",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có; nếu chưa công chứng hợp đồng cho ở nhờ",
+        "text": "Có; thỏa thuận phải được người thừa kế xác nhận lại mới tiếp tục có hiệu lực",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không; danh mục nói đến việc bên mượn hoặc ở nhờ chết, không phải bên cho",
+        "text": "Không; căn cứ cá nhân chết trong danh mục nói đến bên mượn hoặc ở nhờ",
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Không; danh mục nói đến việc bên mượn hoặc ở nhờ chết, không phải bên cho. Bên cho mượn chết hoặc mất tích không tự là căn cứ chấm dứt trong danh mục tại khoản 2. Phải xét người mượn, thời hạn, thỏa thuận và tình trạng nhà; không nhầm quy tắc hợp đồng mượn với hợp đồng thuê. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Theo khoản 2 Điều 180, cần phân biệt bên cho với bên mượn, bên ở nhờ. Dữ kiện chỉ có bên cho chết, không có thỏa thuận hoặc căn cứ chấm dứt khác, nên không thể dùng riêng sự kiện đó để kết luận việc ở nhờ đã chấm dứt. Không suy rộng thành quyền ở nhờ vô thời hạn; vẫn phải xét thời hạn và các căn cứ khác của luật.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -1522,7 +1552,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1600,38 +1632,38 @@
     "topic": "Dân sự và giao dịch",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "Trong một hợp đồng, A cam kết giao một chiếc máy cho B; B phải hoàn tất việc lắp đặt, đồng thời không được tiết lộ bí mật công nghệ đã nhận. Khi phân loại đối tượng của các nghĩa vụ dân sự này, phương án nào bao quát đúng cả ba cam kết?",
-        "Tháng 10/2026: Một bảng phân loại ghi tài sản, việc phải làm và việc phải kiêng làm là đối tượng nghĩa vụ, còn thỏa thuận là căn cứ phát sinh. Chọn nhóm đối tượng đầy đủ theo BLDS.",
-        "Tháng 10/2026: Khi thiết kế nghĩa vụ giao tài sản, thực hiện dịch vụ và không thực hiện một hành vi, cần dùng nhóm khái niệm nào cho đối tượng nghĩa vụ thay vì liệt kê nguồn phát sinh như thỏa thuận hay bản án?"
+        "Tháng 10/2026: A giao máy cho B, B phải lắp đặt và giữ bí mật công nghệ đã nhận. Nhân viên xếp nghĩa vụ giữ bí mật ra ngoài nhóm đối tượng nghĩa vụ vì không đòi giao vật hoặc làm công việc. Cách phân loại nào bao quát đúng các cam kết?",
+        "Tháng 10/2026: Hợp đồng yêu cầu giao tài sản, bảo dưỡng máy và không tiết lộ thông tin kỹ thuật. Bảng phân loại chỉ ghi tài sản và công việc phải thực hiện. Chọn nhóm đối tượng nghĩa vụ đầy đủ để sửa bảng.",
+        "Tháng 10/2026: Người soạn hợp đồng đưa thỏa thuận và bản án vào mục đối tượng nghĩa vụ, còn cam kết không cạnh tranh vào mục căn cứ phát sinh. Khi tách đối tượng khỏi căn cứ phát sinh, nhóm khái niệm nào cần dùng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Thỏa thuận, hành vi trái luật và quyết định của Tòa án",
+        "text": "Thỏa thuận giao tài sản, hành vi gây thiệt hại và quyết định của Tòa án",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Tài sản, công việc phải thực hiện hoặc công việc không được thực hiện",
+        "text": "Tài sản, công việc phải thực hiện và công việc không được thực hiện",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Chỉ tài sản và công việc phải thực hiện",
+        "text": "Tài sản và công việc phải thực hiện; cam kết không làm không là đối tượng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ tiền và giấy tờ có giá",
+        "text": "Tài sản và hành vi pháp lý làm phát sinh các nghĩa vụ giữa hai bên",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Tài sản, công việc phải thực hiện hoặc công việc không được thực hiện. Đối tượng nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện. Thỏa thuận là căn cứ xác định nghĩa vụ, không phải một loại đối tượng độc lập; phải phân biệt đối tượng với căn cứ phát sinh. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Tài sản, công việc phải thực hiện hoặc công việc không được thực hiện. Đối tượng nghĩa vụ là tài sản, công việc phải thực hiện hoặc không được thực hiện. Thỏa thuận là căn cứ xác định nghĩa vụ, không phải một loại đối tượng độc lập; phải phân biệt đối tượng với căn cứ phát sinh.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1654,7 +1686,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1864,26 +1898,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Nơi đặt trụ sở tổ chức công chứng hợp đồng",
+        "text": "Trụ sở bên có quyền vì áp dụng quy tắc chung về nơi nhận tài sản",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Nơi có bất động sản",
+        "text": "Nơi có nhà xưởng vì đối tượng nghĩa vụ là bất động sản",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Nơi cư trú của bên có nghĩa vụ trong mọi trường hợp",
+        "text": "Trụ sở bên có nghĩa vụ vì đây là nơi tổ chức việc bàn giao",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Nơi ký hợp đồng",
+        "text": "Nơi ký hợp đồng vì các bên không ghi địa điểm bàn giao riêng",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Nơi có bất động sản. Ưu tiên thỏa thuận; nếu không thỏa thuận, nghĩa vụ liên quan bất động sản thực hiện nơi có bất động sản, nghĩa vụ khác nơi cư trú/trụ sở bên có quyền. Không phải cứ nơi có bất kỳ tài sản nào cũng đúng. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Nơi có bất động sản. Ưu tiên thỏa thuận; nếu không thỏa thuận, nghĩa vụ liên quan bất động sản thực hiện nơi có bất động sản, nghĩa vụ khác nơi cư trú/trụ sở bên có quyền. Không phải cứ nơi có bất kỳ tài sản nào cũng đúng.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1907,7 +1941,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1920,9 +1956,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người lập di chúc hợp lệ để định đoạt tài sản sau khi chết. Nhận định nào đúng về hình thức xác lập giao dịch này?",
-        "Tháng 10/2026: Một di chúc hợp lệ thể hiện ý chí riêng người lập định đoạt tài sản sau chết, không có thỏa thuận ký với người thừa kế. Có thể xem đây là giao dịch dân sự theo loại hành vi nào?",
-        "Tháng 10/2026: Người tư vấn loại di chúc hợp lệ khỏi khái niệm giao dịch vì chỉ người lập thể hiện ý chí, không phải hợp đồng giữa hai bên. Chọn nhận định về phạm vi giao dịch dân sự để đánh giá lập luận này."
+        "Tháng 10/2026: H tự lập di chúc hợp pháp, người được chỉ định hưởng chưa biết nội dung và chưa đồng ý nhận. Nhân viên cho rằng chưa có thỏa thuận hai bên nên chưa thể xem đây là giao dịch dân sự. Cách đánh giá nào đúng?",
+        "Tháng 10/2026: Khi phân loại hồ sơ, một nhân viên chỉ đưa hợp đồng vào nhóm giao dịch dân sự và loại di chúc vì không có người cùng giao kết. Với di chúc được lập hợp lệ, chọn nhận định phù hợp.",
+        "Tháng 10/2026: Người lập di chúc thể hiện ý chí định đoạt sau khi chết mà chưa trao đổi với người được hưởng. Việc thiếu sự chấp thuận của người hưởng có loại hành vi này khỏi khái niệm giao dịch dân sự không?"
       ]
     },
     "answers": [
@@ -1947,7 +1983,7 @@
         "correct": false
       }
     ],
-    "explanation": "BLDS xác định giao dịch dân sự gồm hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự. Di chúc là ví dụ hành vi đơn phương, không cần người thừa kế tham gia thỏa thuận mới thuộc khái niệm giao dịch. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "BLDS xác định giao dịch dân sự gồm hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự. Di chúc là ví dụ hành vi đơn phương, không cần người thừa kế tham gia thỏa thuận mới thuộc khái niệm giao dịch.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1969,7 +2005,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2053,26 +2091,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Thanh toán giá trị của vật; nếu vi phạm gây thiệt hại thì còn phải bồi thường",
+        "text": "Thanh toán giá trị vật; vi phạm gây thiệt hại còn phải bồi thường theo luật",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ bồi thường thiệt hại, không phải thanh toán giá trị của vật",
+        "text": "Chỉ bồi thường thiệt hại khác, không có nghĩa vụ thanh toán giá trị vật",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tự chọn bức tranh khác thay thế mà không cần bên mua đồng ý",
+        "text": "Được giao vật tương đương giá trị thay thế mà không cần bên có quyền đồng ý",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không phải thanh toán gì nếu vẫn giao lại mảnh tranh hỏng",
+        "text": "Chỉ thanh toán giá trị vật, khoản đó thay thế mọi bồi thường do vi phạm",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Thanh toán giá trị của vật; nếu vi phạm gây thiệt hại thì còn phải bồi thường. Vật đặc định không còn hoặc bị hư hỏng thì bên có nghĩa vụ phải thanh toán giá trị của vật. Nếu vi phạm còn gây thiệt hại thì phải bồi thường theo khoản 3. Thanh toán giá trị vật và bồi thường thiệt hại không phải hai khái niệm có thể thay thế tùy ý. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Thanh toán giá trị của vật; nếu vi phạm gây thiệt hại thì còn phải bồi thường. Vật đặc định không còn hoặc bị hư hỏng thì bên có nghĩa vụ phải thanh toán giá trị của vật. Nếu vi phạm còn gây thiệt hại thì phải bồi thường theo khoản 3. Thanh toán giá trị vật và bồi thường thiệt hại không phải hai khái niệm có thể thay thế tùy ý.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -2101,7 +2139,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2141,7 +2181,7 @@
         "correct": false
       }
     ],
-    "explanation": "Quyền sở hữu không cho phép phủ nhận ngay một quyền khác đang tồn tại hợp pháp đối với tài sản. Khoản 2 Điều 166 giới hạn quyền đòi lại từ người đang có quyền khác đó; xuất trình chứng thư sở hữu không tự làm quyền hợp pháp của họ hết hiệu lực. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Quyền sở hữu không cho phép phủ nhận ngay một quyền khác đang tồn tại hợp pháp đối với tài sản. Khoản 2 Điều 166 giới hạn quyền đòi lại từ người đang có quyền khác đó; xuất trình chứng thư sở hữu không tự làm quyền hợp pháp của họ hết hiệu lực.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -2164,7 +2204,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2399,7 +2441,7 @@
         "correct": false
       }
     ],
-    "explanation": "Giới hạn tại khoản 1 Điều 19 tính theo số căn hộ trong từng tòa chung cư đối với các nhóm đối tượng nước ngoài được chỉ định. Không tính bằng số tòa nhà và không được vượt ngưỡng chỉ vì giao dịch thực hiện với chủ đầu tư Việt Nam. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Giới hạn tại khoản 1 Điều 19 tính theo số căn hộ trong từng tòa chung cư đối với các nhóm đối tượng nước ngoài được chỉ định. Không tính bằng số tòa nhà và không được vượt ngưỡng chỉ vì giao dịch thực hiện với chủ đầu tư Việt Nam.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -2422,7 +2464,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2499,9 +2543,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng bằng văn bản vi phạm yêu cầu công chứng, chứng thực. Khi các điều kiện khác của khoản 2 Điều 129 được đáp ứng, ngưỡng thực hiện nghĩa vụ để một bên có thể yêu cầu Tòa án công nhận là gì?",
-        "Tháng 10/2026: Một hợp đồng đã lập bằng văn bản nhưng thiếu công chứng, chứng thực bắt buộc. Để yêu cầu Tòa án công nhận theo Điều 129(2), khi các điều kiện khác đủ, mức thực hiện nghĩa vụ tối thiểu nào cần kiểm tra?",
-        "Tháng 10/2026: Các bên muốn khắc phục vi phạm yêu cầu công chứng, chứng thực của giao dịch bằng văn bản bằng yêu cầu Tòa án công nhận. Khoản đặt cọc bất kỳ hay thực hiện một nửa chưa đương nhiên đủ. Chọn ngưỡng thực hiện nghĩa vụ mà điều luật quy định."
+        "Tháng 10/2026: Hợp đồng thuộc diện phải công chứng đã lập bằng văn bản nhưng chưa công chứng. Một bên đã thực hiện 70% nghĩa vụ trong giao dịch; các điều kiện khác của khoản 2 Điều 129 BLDS được đáp ứng và có yêu cầu Tòa án công nhận. Ngưỡng luật định dùng để xem xét là gì?",
+        "Tháng 10/2026: Bên mua muốn Tòa án xem xét hợp đồng văn bản vi phạm yêu cầu công chứng. Hồ sơ xác định mức thực hiện 70% nghĩa vụ, đáp ứng các điều kiện khác của khoản 2 Điều 129. Bên bán nói phải thực hiện toàn bộ. Chọn ngưỡng pháp luật áp dụng.",
+        "Tháng 10/2026: Hợp đồng văn bản thiếu công chứng bắt buộc đã được một bên thực hiện 70% nghĩa vụ, có yêu cầu Tòa án và đủ các điều kiện khác của khoản 2 Điều 129. Không coi công nhận là tự động; mức thực hiện phải được đối chiếu với ngưỡng nào?"
       ]
     },
     "answers": [
@@ -2526,7 +2570,7 @@
         "correct": true
       }
     ],
-    "explanation": "Ngưỡng là ít nhất hai phần ba nghĩa vụ, không phải một nửa hoặc bắt buộc toàn bộ. Khi đủ điều kiện, một bên hoặc các bên yêu cầu Tòa án ra quyết định công nhận; vượt ngưỡng không tự làm hợp đồng có hiệu lực và công chứng viên không thay Tòa án công nhận. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Ngưỡng là ít nhất hai phần ba nghĩa vụ, không phải một nửa hoặc bắt buộc toàn bộ. Khi đủ điều kiện, một bên hoặc các bên yêu cầu Tòa án ra quyết định công nhận; vượt ngưỡng không tự làm hợp đồng có hiệu lực và công chứng viên không thay Tòa án công nhận.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -2549,7 +2593,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2636,26 +2682,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Một khoản tiền cơ sở tự gửi vào ngân hàng",
+        "text": "Khoản tiền cơ sở sửa chữa tự gửi ngân hàng để bù chi phí sửa máy",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chiếc máy là đối tượng hợp đồng song vụ đang được giữ hợp pháp",
+        "text": "Chiếc máy là đối tượng hợp đồng song vụ đang được cơ sở giữ hợp pháp",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Bất kỳ tài sản khác của chủ máy mà cơ sở tìm thấy",
+        "text": "Tài sản khác của cùng khách hàng được cơ sở nhận từ một hợp đồng độc lập",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Tài sản riêng của chủ cơ sở sửa chữa",
+        "text": "Giấy tờ khách giao để xác nhận nhân thân khi nhận sửa chữa chiếc máy",
         "correct": false
       }
     ],
-    "explanation": "Cầm giữ gắn với tài sản đang được nắm giữ hợp pháp và chính là đối tượng hợp đồng song vụ. Không được mở rộng sang mọi tài sản khác của khách chỉ vì khách có nợ; cần kiểm tra đồng thời việc đến hạn và không thực hiện hoặc thực hiện không đúng nghĩa vụ. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Cầm giữ gắn với tài sản đang được nắm giữ hợp pháp và chính là đối tượng hợp đồng song vụ. Không được mở rộng sang mọi tài sản khác của khách chỉ vì khách có nợ; cần kiểm tra đồng thời việc đến hạn và không thực hiện hoặc thực hiện không đúng nghĩa vụ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -2677,7 +2723,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2809,13 +2857,13 @@
     "topic": "Dân sự và giao dịch",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Việc giám sát giám hộ liên quan đến quản lý tài sản của người được giám hộ. Người giám sát phải đăng ký ở đâu theo BLDS?",
-        "Tháng 10/2026: Một người thân được chọn giám sát giám hộ có liên quan quản lý tài sản người được giám hộ, cho rằng quan hệ thân thích miễn đăng ký. Nếu phải đăng ký theo BLDS, nơi nào có thẩm quyền?",
-        "Tháng 10/2026: Nơi cư trú của người được giám hộ khác nơi người giám sát làm việc và nơi người giám hộ có tài sản. Việc giám sát có liên quan quản lý tài sản. Chọn địa chỉ đăng ký người giám sát theo luật."
+        "Tháng 10/2026: Người được giám hộ cư trú tại xã X, người giám hộ cư trú tại Y, tài sản quản lý ở Z. Việc giám sát giám hộ có liên quan quản lý tài sản. Cơ quan nào là nơi đăng ký người giám sát theo BLDS?",
+        "Tháng 10/2026: Gia đình đã chọn người giám sát việc quản lý tài sản của người được giám hộ. Người giám sát muốn đăng ký tại nơi tài sản tọa lạc dù người được giám hộ cư trú ở nơi khác. Nơi đăng ký đúng được xác định thế nào?",
+        "Tháng 10/2026: Người giám sát là họ hàng và đang làm việc ở tỉnh khác, việc giám sát có liên quan tài sản. Nhân viên đề xuất chỉ xác nhận quan hệ họ hàng để khỏi đăng ký. Phương án nào đúng về nơi đăng ký?"
       ]
     },
     "answers": [
@@ -2826,21 +2874,21 @@
       },
       {
         "id": "B",
-        "text": "Sở Tư pháp nơi người giám sát làm việc",
+        "text": "UBND cấp xã nơi người giám sát cư trú",
         "correct": false
       },
       {
         "id": "C",
-        "text": "UBND cấp xã nơi người giám hộ có bất kỳ tài sản nào",
+        "text": "UBND cấp xã nơi tài sản được giám sát tọa lạc",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không phải đăng ký khi người giám sát là người thân",
+        "text": "UBND cấp xã nơi người giám hộ cư trú",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: UBND cấp xã nơi người được giám hộ cư trú. Giám sát liên quan quản lý tài sản của người được giám hộ thì người giám sát phải đăng ký tại UBND cấp xã nơi người được giám hộ cư trú. Không phải chỉ dựa tuổi hoặc tình trạng mất năng lực là đủ để xác định nghĩa vụ đăng ký này. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Giám sát liên quan quản lý tài sản của người được giám hộ thì người giám sát phải đăng ký tại UBND cấp xã nơi người được giám hộ cư trú. Không phải chỉ dựa tuổi hoặc tình trạng mất năng lực là đủ để xác định nghĩa vụ đăng ký này.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -2863,7 +2911,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3067,13 +3117,13 @@
     "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "Một doanh nghiệp xây dựng ba căn nhà liền kề trên các thửa đất ở riêng biệt và một tòa chung cư có nhiều căn hộ. Khi lập hồ sơ phân loại loại hình nhà ở, doanh nghiệp muốn xếp cả bốn công trình vào nhóm nhà ở riêng lẻ. Công trình nào không thể xếp vào nhóm đó?",
-        "Tháng 10/2026: Một danh mục nhà ở riêng lẻ đưa cả căn hộ chung cư cùng biệt thự, nhà liền kề và nhà độc lập trên thửa đất ở riêng biệt. Loại nào cần loại khỏi danh mục theo Luật Nhà ở?",
-        "Tháng 10/2026: Khi phân loại hồ sơ nhà ở, phải phân biệt một đơn vị trong tòa có phần chung với nhà xây trên thửa đất ở riêng biệt. Trong bốn loại liệt kê, loại nào không thuộc nhà ở riêng lẻ?"
+        "Tháng 10/2026: P lập danh mục gồm biệt thự, nhà liền kề, nhà độc lập trên các thửa đất ở riêng biệt và căn hộ trong tòa chung cư. P định áp cùng nhóm nhà ở riêng lẻ cho tất cả. Mục nào cần tách khỏi nhóm này?",
+        "Tháng 10/2026: Hồ sơ có ba nhà xây trên thửa đất ở riêng biệt và một căn hộ thuộc tòa nhà nhiều căn hộ, dùng chung lối đi, cầu thang. Khi rà phân loại nhà ở riêng lẻ, chọn loại phải loại khỏi danh mục.",
+        "Tháng 10/2026: Nhân viên xếp bất động sản vào nhà ở riêng lẻ chỉ vì người mua sẽ sở hữu riêng chỗ ở. Với bốn lựa chọn, trường hợp nào cho thấy tiêu chí sở hữu riêng đó chưa đủ để phân loại?"
       ]
     },
     "answers": [
@@ -3098,7 +3148,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Căn hộ trong nhà chung cư. Nhà ở riêng lẻ gồm biệt thự, nhà liền kề và nhà độc lập trên đất riêng. Căn hộ chung cư thuộc loại hình nhà chung cư, không phải nhà ở riêng lẻ. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Nhà ở riêng lẻ gồm biệt thự, nhà liền kề và nhà độc lập trên đất riêng. Căn hộ chung cư thuộc loại hình nhà chung cư, không phải nhà ở riêng lẻ.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -3127,7 +3177,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3140,34 +3192,34 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "A ký hợp đồng thế chấp quyền sử dụng đất để bảo đảm khoản vay của B, hợp đồng đã được công chứng và đăng ký theo quy định. B cho rằng ngay từ lúc đăng ký, mình trở thành người sử dụng đất và có thể chuyển nhượng đất như chủ thể có quyền. Nhận định nào phân biệt đúng thế chấp với chuyển quyền sử dụng đất?",
-        "Tháng 10/2026: Người nhận thế chấp cho rằng quyền sử dụng đất đã thuộc mình khi thế chấp được công chứng, dù chưa xử lý tài sản. Chủ đất thế chấp hợp pháp. Chọn nhận định về tác động của thế chấp đến chuyển quyền.",
-        "Tháng 10/2026: Một thế chấp quyền sử dụng đất hợp pháp đã ký và đăng ký. Chưa có việc xử lý hoặc giao dịch chuyển quyền nào khác. Có thể ghi bên nhận thế chấp thành người nhận chuyển quyền chỉ từ thế chấp không?"
+        "Tháng 10/2026: A dùng quyền sử dụng đất của mình thế chấp cho ngân hàng để bảo đảm khoản vay của B. Hợp đồng đã công chứng và đăng ký; chưa xử lý tài sản. Ngân hàng cho rằng đăng ký đã khiến mình có quyền chuyển nhượng đất như người sử dụng đất. Nhận định nào đúng?",
+        "Tháng 10/2026: Ngân hàng giữ giấy chứng nhận và đã đăng ký thế chấp đất của A để bảo đảm nợ B. Khi nợ chưa được xử lý, ngân hàng muốn đứng tên bên chuyển nhượng chỉ dựa vào hợp đồng thế chấp. Việc thế chấp đã chuyển quyền sử dụng đất chưa?",
+        "Tháng 10/2026: B vay tiền, A thế chấp đất bảo đảm. Sau đăng ký, B đề nghị sửa hồ sơ thành đất đã chuyển sang ngân hàng, không cần giao dịch chuyển quyền khác. Phân biệt nào phù hợp giữa hiệu lực bảo đảm và chuyển quyền?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Quyền sử dụng đất chuyển ngay khi đăng ký thế chấp, kể cả chưa xử lý tài sản",
+        "text": "Chuyển sang ngân hàng từ khi đăng ký vì đăng ký xác lập chủ thể sử dụng đất mới",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Thế chấp không tự chuyển quyền sử dụng đất sang bên nhận thế chấp",
+        "text": "Thế chấp không tự chuyển quyền sử dụng đất sang ngân hàng nhận thế chấp",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Quyền sử dụng đất chuyển ngay khi ký thế chấp",
+        "text": "Chuyển sang ngân hàng từ khi các bên ký vì đất đã được dùng bảo đảm",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Quyền sử dụng đất chuyển ngay khi công chứng thế chấp",
+        "text": "Chuyển sang ngân hàng từ khi công chứng vì hợp đồng đã có hiệu lực thi hành",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Thế chấp không tự chuyển quyền sử dụng đất sang bên nhận thế chấp. Thế chấp không chuyển quyền sử dụng đất cho bên nhận thế chấp. Chuyển đổi, chuyển nhượng, thừa kế, tặng cho hoặc góp vốn theo định nghĩa mới cần được phân biệt với biện pháp bảo đảm. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Đáp án đúng: Thế chấp không tự chuyển quyền sử dụng đất sang bên nhận thế chấp. Thế chấp không chuyển quyền sử dụng đất cho bên nhận thế chấp. Chuyển đổi, chuyển nhượng, thừa kế, tặng cho hoặc góp vốn theo định nghĩa mới cần được phân biệt với biện pháp bảo đảm.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -3190,7 +3242,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3336,34 +3390,34 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trong mang thai hộ vì mục đích nhân đạo, bên nhờ có nghĩa vụ gì đối với chi phí chăm sóc sức khỏe sinh sản của bên mang thai hộ?",
-        "Tháng 10/2026: Bên nhờ mang thai hộ nhân đạo cho rằng không phải trả chăm sóc sức khỏe sinh sản vì đây không phải dịch vụ có tiền công. Theo luật, nghĩa vụ chi phí nào vẫn phải thực hiện?",
-        "Tháng 10/2026: Hồ sơ mang thai hộ nhân đạo phát sinh chi phí thực tế bảo đảm sức khỏe sinh sản của bên mang thai hộ theo quy định. Bên nhờ muốn thay bằng khoản tượng trưng mình tự chọn. Chọn nghĩa vụ đúng."
+        "Tháng 10/2026: Thỏa thuận mang thai hộ nhân đạo không trả tiền công. Khi có chi phí chăm sóc sức khỏe sinh sản thực tế thuộc phạm vi quy định, bên nhờ từ chối trả vì cho rằng nhân đạo phải tự nguyện chịu phí. Nghĩa vụ đúng là gì?",
+        "Tháng 10/2026: Bên nhờ mang thai hộ đã thanh toán một số khoản cho cơ sở y tế, nhưng còn chi phí chăm sóc sức khỏe sinh sản thực tế theo quy định. Họ muốn dùng lý do không có tiền công để bác mọi khoản tiếp theo. Chọn nguyên tắc chi trả.",
+        "Tháng 10/2026: Khi rà thỏa thuận mang thai hộ nhân đạo, người soạn thay mục chi phí chăm sóc sức khỏe sinh sản bằng khoản tiền công cố định và miễn mọi chi phí thực tế. Chọn nghĩa vụ cần phản ánh đúng."
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Chi trả chi phí thực tế theo quy định",
+        "text": "Bên nhờ chi trả chi phí thực tế theo quy định về chăm sóc sức khỏe sinh sản",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ trả một khoản tượng trưng do mình tự chọn",
+        "text": "Bên nhờ chỉ trả chi phí phát sinh trước khi ký thỏa thuận mang thai hộ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Không có nghĩa vụ vì mang thai hộ là nhân đạo",
+        "text": "Bên nhờ chỉ trả chi phí đến mức khoán, dù khoản vượt thuộc phạm vi quy định",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Trả tiền công mang thai thay cho mọi chi phí thực tế",
+        "text": "Bên nhờ trả tiền công cố định để thay nghĩa vụ thanh toán chi phí thực tế",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Chi trả chi phí thực tế theo quy định. Bên nhờ mang thai hộ phải chi trả chi phí thực tế bảo đảm chăm sóc sức khỏe sinh sản theo quy định. Không được thỏa thuận chọn giới tính, miễn mọi trách nhiệm hay trao quyền quyết định thai kỳ không có giới hạn pháp luật. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Khoản 1 Điều 98 yêu cầu bên nhờ mang thai hộ chi trả chi phí thực tế để bảo đảm việc chăm sóc sức khỏe sinh sản theo quy định. Mục đích nhân đạo không miễn nghĩa vụ chi phí này và không biến nó thành tiền công mang thai. Không được dùng khoản khoán để loại chi phí thực tế thuộc phạm vi pháp luật quy định.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 (đối chiếu VBHN 121/VBHN-VPQH năm 2025)",
@@ -3386,7 +3440,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3399,9 +3455,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Tổ chức nước ngoài thuộc diện được sở hữu nhà tại Việt Nam, dự án đáp ứng điều kiện. Hình thức nào trong các lựa chọn không tự làm phát sinh quyền sở hữu nhà ở?",
-        "Tháng 10/2026: Tổ chức nước ngoài thuộc diện được sở hữu nhà, dự án đủ điều kiện, đang so sánh mua, thuê mua, tặng cho và thuê. Phương án nào chỉ cho sử dụng theo hợp đồng và không tự chuyển quyền sở hữu?",
-        "Tháng 10/2026: Tổ chức nước ngoài đủ điều kiện chọn thuê nhà thương mại trong dự án rồi cho rằng đó tương đương thuê mua về quyền sở hữu. Trong bốn hình thức liệt kê, chọn hình thức không tự tạo quyền sở hữu."
+        "Tháng 10/2026: Tổ chức nước ngoài đủ điều kiện sở hữu nhà ở tại Việt Nam đang rà các phương thức tiếp cận nhà ở thương mại trong dự án đủ điều kiện. Phương thức nào trong bốn lựa chọn chỉ tạo quan hệ sử dụng nhà, không tự làm phát sinh sở hữu?",
+        "Tháng 10/2026: Một tổ chức nước ngoài đủ điều kiện muốn dùng hợp đồng thuê nhà làm căn cứ ghi nhận mình là chủ sở hữu. Dự án hợp lệ, không có giao dịch chuyển quyền nào khác. Trong các phương thức nêu dưới đây, phương thức nào không tự tạo quyền sở hữu?",
+        "Tháng 10/2026: Nhân viên coi mọi hợp đồng cho tổ chức nước ngoài đủ điều kiện sử dụng nhà trong dự án đều làm phát sinh sở hữu. Khi phân biệt mua, thuê mua, tặng cho và thuê, lựa chọn nào cần được tách ra?"
       ]
     },
     "answers": [
@@ -3426,7 +3482,7 @@
         "correct": false
       }
     ],
-    "explanation": "Mua, thuê mua, nhận tặng cho hoặc thừa kế có thể làm phát sinh sở hữu khi đúng nhóm chủ thể và điều kiện. Thuê chỉ tạo quyền sử dụng theo hợp đồng, không tự chuyển sở hữu. Phải phân biệt rõ thuê và thuê mua dù tên gọi gần nhau. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Mua, thuê mua, nhận tặng cho hoặc thừa kế có thể làm phát sinh sở hữu khi đúng nhóm chủ thể và điều kiện. Thuê chỉ tạo quyền sử dụng theo hợp đồng, không tự chuyển sở hữu. Phải phân biệt rõ thuê và thuê mua dù tên gọi gần nhau.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -3450,7 +3506,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3649,38 +3707,38 @@
     "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "B nhận giữ hộ bản gốc Giấy chứng nhận quyền sử dụng đất của A rồi tuyên bố mình có quyền bán thửa đất vì đang cầm giấy. Khi giải thích giá trị pháp lý của Giấy chứng nhận và quyền của người giữ giấy, nhận định nào chính xác?",
-        "Tháng 10/2026: Người giữ bản giấy chứng nhận cho rằng bản giấy là tài sản riêng giúp mình sở hữu đất, bất kể người có quyền được xác nhận. Để đánh giá, chọn bản chất pháp lý của giấy chứng nhận.",
-        "Tháng 10/2026: Khi giải thích vai trò giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, cần phân biệt xác nhận quyền hợp pháp với quyết định giá hoặc phán quyết tranh chấp. Mô tả nào đúng?"
+        "Tháng 10/2026: B giữ hộ bản gốc giấy chứng nhận đứng tên A, không được A ủy quyền. B muốn ký bán đất vì đang cầm giấy. Khi giải thích vì sao việc giữ giấy chưa tạo quyền bán của B, cần xác định đúng bản chất giấy chứng nhận như thế nào?",
+        "Tháng 10/2026: A giao giấy chứng nhận cho B cất giữ, không có giao dịch chuyển quyền. B đưa giấy đến văn phòng và cho rằng có thể tự nhân danh mình định đoạt đất. Cách hiểu nào đúng về giá trị pháp lý của giấy này?",
+        "Tháng 10/2026: Khi đối chiếu hồ sơ, nhân viên cho rằng cứ xuất trình bản gốc giấy chứng nhận thì người xuất trình có quyền bán, không cần kiểm tra chủ thể đứng tên và đại diện. Nhận định nào sửa đúng nhầm lẫn về bản chất giấy?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Chứng từ duy nhất quyết định giá thị trường của đất",
+        "text": "Giấy tờ định giá làm cơ sở duy nhất để xác định quyền định đoạt đất",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chứng thư pháp lý xác nhận quyền hợp pháp đối với đất và tài sản gắn liền với đất",
+        "text": "Chứng thư pháp lý xác nhận quyền hợp pháp, không trao quyền bán cho người chỉ giữ hộ",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Một loại tài sản độc lập mà ai cầm giữ cũng được sở hữu đất",
+        "text": "Giấy tờ có giá chuyển quyền sử dụng đất cùng với việc giao bản gốc",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Bản án giải quyết mọi tranh chấp đất đai",
+        "text": "Quyết định giải quyết tranh chấp cho phép người xuất trình định đoạt đất",
         "correct": false
       }
     ],
-    "explanation": "Giấy chứng nhận là chứng thư pháp lý xác nhận quyền hợp pháp. Việc cầm giữ bản giấy không làm người cầm trở thành chủ sử dụng đất; giấy chứng nhận cũng không phải bản án giải quyết mọi tranh chấp hoặc văn bản tự quyết định giá thị trường. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Giấy chứng nhận là chứng thư pháp lý xác nhận quyền hợp pháp theo luật đất đai. Giữ bản gốc không đồng nghĩa nhận chuyển quyền hoặc có đại diện; B chỉ giữ hộ nên chưa có quyền bán theo dữ kiện. Vẫn phải kiểm tra chủ thể có quyền, phạm vi đại diện và các điều kiện của giao dịch.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -3703,7 +3761,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3775,29 +3835,29 @@
     "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "A nhận đất do Nhà nước quyết định giao; B thuê đất theo quyết định của cơ quan có thẩm quyền; C được Nhà nước công nhận quyền sử dụng đất đối với thửa đang sử dụng ổn định. D mua đất từ một cá nhân khác. Khi xác định các hình thức Nhà nước trực tiếp trao quyền sử dụng đất, phải chọn nhóm nào?",
-        "Tháng 10/2026: Một bảng ghép giao đất, cho thuê đất, công nhận quyền với chuyển nhượng và tặng cho giữa cá nhân dưới tên Nhà nước trao quyền. Nhóm hình thức nào thực sự thuộc việc Nhà nước trao quyền sử dụng đất?",
-        "Tháng 10/2026: Để phân biệt vai trò đại diện chủ sở hữu đất của Nhà nước với giao dịch của người sử dụng đất, chọn nhóm hoạt động Nhà nước trao quyền thay vì chuyển quyền giữa các cá nhân."
+        "Tháng 10/2026: Bảng thống kê ghi A được giao đất, B được Nhà nước cho thuê đất, C được công nhận quyền sử dụng đất; D mua lại đất của cá nhân. Khi tách các hình thức Nhà nước trực tiếp trao quyền khỏi việc nhận chuyển quyền, chọn nhóm nào?",
+        "Tháng 10/2026: D mua đất từ A rồi đăng ký biến động. Nhân viên coi việc cấp giấy sau mua là một hình thức Nhà nước giao đất, xếp cùng giao đất, thuê đất và công nhận quyền. Nhóm nào nêu đúng các hình thức Nhà nước trao quyền?",
+        "Tháng 10/2026: Một báo cáo dùng lẫn thuật ngữ giao đất, chuyển nhượng, cho thuê đất của Nhà nước và công nhận quyền sử dụng đất. Để phân biệt nguồn quyền từ Nhà nước với giao dịch giữa người sử dụng đất, chọn nhóm đầy đủ đúng."
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Chuyển nhượng đất giữa hai cá nhân",
+        "text": "Giao đất, nhận chuyển nhượng và công nhận quyền sử dụng đất",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Tặng cho đất giữa cha mẹ và con",
+        "text": "Cho thuê đất của Nhà nước, tặng cho và nhận thừa kế quyền sử dụng đất",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Thế chấp đất để vay tiền",
+        "text": "Giao đất, đăng ký thế chấp và đăng ký biến động sau chuyển nhượng",
         "correct": false
       },
       {
@@ -3806,7 +3866,7 @@
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Giao đất, cho thuê đất và công nhận quyền sử dụng đất. Nhà nước trao quyền qua giao đất, cho thuê và công nhận quyền sử dụng đất. Chuyển quyền giữa các chủ thể hoặc bồi thường không phải cùng một hình thức Nhà nước trao quyền theo điều khoản này. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Nhà nước trao quyền qua giao đất, cho thuê và công nhận quyền sử dụng đất. Chuyển quyền giữa các chủ thể hoặc bồi thường không phải cùng một hình thức Nhà nước trao quyền theo điều khoản này.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -3828,7 +3888,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3849,26 +3911,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chưa đáp ứng vì nhà ở góp vốn phải là nhà có sẵn và đáp ứng điều kiện luật định",
+        "text": "Chưa đáp ứng; nhà góp vốn phải là nhà có sẵn và đủ điều kiện luật định",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Được góp vốn vì mọi nhà hình thành tương lai đều được dùng góp vốn theo Điều 179",
+        "text": "Đáp ứng nếu chủ sở hữu cam kết hoàn thành nhà đúng tiến độ góp vốn",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Được góp vốn nếu có bản vẽ nhưng chưa xây",
+        "text": "Đáp ứng nếu thiết kế và giá trị căn nhà đã được các bên chấp thuận",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Được góp vốn nếu người nhận vốn cùng là người thân",
+        "text": "Đáp ứng nếu hợp đồng ghi thời điểm chuyển quyền sau khi nhà xây xong",
         "correct": false
       }
     ],
-    "explanation": "Điểm b khoản 1 Điều 179 đòi hỏi nhà ở góp vốn là nhà có sẵn và đáp ứng điều kiện tại khoản 1 Điều 160. Căn nhà mới ở bản vẽ hoặc sẽ xây không đạt điều kiện này; tư cách chủ sở hữu và quan hệ thân thích không thay thế điều kiện đối tượng giao dịch. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Điểm b khoản 1 Điều 179 đòi hỏi nhà ở góp vốn là nhà có sẵn và đáp ứng điều kiện tại khoản 1 Điều 160. Căn nhà mới ở bản vẽ hoặc sẽ xây không đạt điều kiện này; tư cách chủ sở hữu và quan hệ thân thích không thay thế điều kiện đối tượng giao dịch.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -3892,7 +3954,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4087,13 +4151,13 @@
     "topic": "Đất đai, nhà ở và kinh doanh bất động sản",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "Một doanh nghiệp tư vấn lập danh sách các chủ thể có thể là người sử dụng đất theo Luật Đất đai, gồm cá nhân trong nước, một cá nhân mang quốc tịch nước ngoài, tổ chức nước ngoài có chức năng ngoại giao và tổ chức kinh tế có vốn đầu tư nước ngoài. Đối tượng nào không thuộc danh mục chủ thể người sử dụng đất theo Điều 4?",
-        "Tháng 10/2026: Một danh sách người sử dụng đất đưa cá nhân nước ngoài cùng cá nhân trong nước, tổ chức ngoại giao theo luật và tổ chức kinh tế có vốn đầu tư nước ngoài. Chọn nhóm không có trong danh mục Điều 4 để sửa danh sách.",
-        "Tháng 10/2026: Khi nhận hồ sơ có yếu tố nước ngoài, không thể đồng nhất cá nhân với tổ chức. Trong bốn nhóm chủ thể sau, nhóm nào không được Điều 4 Luật Đất đai liệt kê là người sử dụng đất?"
+        "Tháng 10/2026: Bốn khách hàng có tư cách được nêu dưới đây muốn được xác định là người sử dụng đất theo Điều 4 Luật Đất đai. Hồ sơ của người nào không thể dựa riêng vào tư cách đó để xếp vào danh mục này?",
+        "Tháng 10/2026: Một cá nhân chỉ có quốc tịch nước ngoài viện dẫn việc tổ chức kinh tế có vốn đầu tư nước ngoài được sử dụng đất để xin áp cùng tư cách cho mình. Khi rà danh mục người sử dụng đất, lựa chọn nào nằm ngoài danh mục?",
+        "Tháng 10/2026: Đơn vị tư vấn lập danh sách gồm cá nhân trong nước và các chủ thể nước ngoài, rồi coi mọi chủ thể có liên hệ nước ngoài đều cùng tư cách. Trong bốn lựa chọn, đối tượng nào không thuộc danh mục người sử dụng đất?"
       ]
     },
     "answers": [
@@ -4118,7 +4182,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4. Gợi ý làm bài: Xác định đúng cá nhân hay tổ chức và đối chiếu từng nhóm chủ thể trong danh mục.",
+    "explanation": "Đáp án đúng: A — Cá nhân nước ngoài. Điều 4 không liệt kê cá nhân nước ngoài trong danh mục người sử dụng đất. B là cá nhân trong nước thuộc khoản 3; C là tổ chức nước ngoài có chức năng ngoại giao theo khoản 5; D là tổ chức kinh tế có vốn đầu tư nước ngoài theo khoản 7. Vì vậy không thể loại mọi chủ thể có yếu tố nước ngoài hoặc đồng nhất cá nhân nước ngoài với tổ chức có vốn đầu tư nước ngoài. Quyền sở hữu nhà ở theo pháp luật nhà ở cũng không tự làm cá nhân nước ngoài trở thành một nhóm được liệt kê tại Điều 4.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -4143,7 +4207,9 @@
       "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
       "explanationReviewDate": "2026-10-09",
       "explanationReviewStatus": "dated_referenced_provision_and_current_answer_review",
-      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json"
+      "explanationRepairFile": "editorial/exam-explanation-repairs-final-2026-10-09.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4164,26 +4230,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Được đơn phương chấm dứt nếu có người khác trả giá thuê cao hơn",
+        "text": "Được chấm dứt vì vi phạm đã phát sinh trước cam kết không tái phạm",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Không được đơn phương chấm dứt trong bối cảnh đó",
+        "text": "Không được đơn phương chấm dứt với các điều kiện bảo vệ đã nêu",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Được đơn phương chấm dứt bất cứ lúc nào nếu báo trước 3 ngày",
+        "text": "Được chấm dứt nếu báo trước, dù đủ điều kiện ngoại lệ đã nêu",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Được đơn phương chấm dứt vì nguồn sống của bên thuê không liên quan",
+        "text": "Được chấm dứt vì việc xác định nguồn sống không làm hạn chế quyền bên cho thuê",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Không được đơn phương chấm dứt trong bối cảnh đó. Luật xét trường hợp bên thuê vi phạm nhưng khai thác là nguồn sống duy nhất và việc tiếp tục thuê không ảnh hưởng nghiêm trọng lợi ích bên cho thuê; bên thuê phải cam kết không tiếp tục vi phạm. Không được lược bỏ điều kiện về ảnh hưởng của việc tiếp tục thuê và cam kết. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Không được đơn phương chấm dứt trong bối cảnh đó. Luật xét trường hợp bên thuê vi phạm nhưng khai thác là nguồn sống duy nhất và việc tiếp tục thuê không ảnh hưởng nghiêm trọng lợi ích bên cho thuê; bên thuê phải cam kết không tiếp tục vi phạm. Không được lược bỏ điều kiện về ảnh hưởng của việc tiếp tục thuê và cam kết.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -4206,7 +4272,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4227,26 +4295,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Bên thuê phải mua tài sản mới thay thế",
+        "text": "Phải khôi phục tài sản về trạng thái mới khi bắt đầu thuê",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Bên thuê mất toàn bộ tiền đặt cọc dù không có hư hỏng khác",
+        "text": "Phải bồi hoàn mức giảm giá thị trường do thời gian sử dụng",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Bên thuê không phải chịu trách nhiệm",
+        "text": "Không phải chịu trách nhiệm đối với phần hao mòn tự nhiên do sử dụng bình thường",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Bên thuê luôn phải trả tiền như tài sản bị phá hỏng",
+        "text": "Phải chịu chi phí thay mới phần đã hao mòn dù sử dụng đúng thỏa thuận",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Bên thuê không phải chịu trách nhiệm. Hao mòn tự nhiên, bảo quản trước giao và trả tài sản mượn đúng hạn/mục đích đều có căn cứ riêng. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Khoản 1 Điều 479 yêu cầu bảo quản tài sản thuê nhưng loại trách nhiệm đối với hao mòn tự nhiên. Dữ kiện chỉ có hao mòn do sử dụng bình thường, nên không thể coi đó là hư hỏng do vi phạm để buộc mua mới hoặc bồi hoàn. Các hư hỏng khác, nếu có, phải xét riêng.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -4269,7 +4337,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4341,38 +4411,38 @@
     "topic": "Dân sự và giao dịch",
     "type": "single",
     "status": "active",
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "question": {
       "variants": [
-        "A có quyền hưởng dụng đối với căn nhà của B trong thời hạn đã xác định. Khi rà soát các tình huống có thể làm quyền này chấm dứt, một nhân viên bổ sung phương án 'Sở Tư pháp tự ra quyết định chấm dứt mà không cần căn cứ pháp luật'. Tình huống nào dưới đây không phải căn cứ chấm dứt quyền hưởng dụng?",
-        "Tháng 10/2026: Một bảng căn cứ chấm dứt quyền hưởng dụng gồm hết hạn, tài sản không còn, người hưởng trở thành chủ sở hữu và quyết định tùy ý của Sở Tư pháp không có căn cứ luật. Mục nào không thuộc căn cứ Điều 265?",
-        "Tháng 10/2026: Khi rà các sự kiện có thể kết thúc quyền hưởng dụng, cần phân biệt căn cứ pháp luật với quyết định không có thẩm quyền. Trong các trường hợp sau, chọn trường hợp không được Điều 265 liệt kê."
+        "Tháng 10/2026: A được hưởng dụng nhà của B trong thời hạn còn hiệu lực. B bán nhà cho C đúng luật; A không từ bỏ, nhà còn, không có thỏa thuận chấm dứt hay quyết định Tòa án hoặc căn cứ luật khác. Sự kiện nào trong bốn phương án không tự chấm dứt hưởng dụng?",
+        "Tháng 10/2026: C mua lại nhà đang có quyền hưởng dụng hợp pháp của A và cho rằng đổi chủ là đủ chấm dứt quyền của A. Thời hạn còn, không có căn cứ chấm dứt khác. Chọn sự kiện không thuộc căn cứ tự chấm dứt được nêu.",
+        "Tháng 10/2026: Khi rà điều khoản chấm dứt hưởng dụng, nhân viên bổ sung việc chủ sở hữu bán tài sản cho người khác, dù quyền còn hạn và không có thỏa thuận hay căn cứ luật khác. So với ba sự kiện còn lại, mục nào không tự làm quyền chấm dứt?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Sở Tư pháp tùy ý ra quyết định chấm dứt, không có căn cứ luật",
+        "text": "Chủ sở hữu chuyển nhượng nhà cho C khi quyền hưởng dụng của A vẫn còn hiệu lực",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Hết thời hạn quyền hưởng dụng",
+        "text": "Thời hạn quyền hưởng dụng của A đối với nhà đã hết",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tài sản là đối tượng quyền hưởng dụng không còn",
+        "text": "Căn nhà là đối tượng quyền hưởng dụng không còn",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Người hưởng dụng trở thành chủ sở hữu tài sản",
+        "text": "A trở thành chủ sở hữu chính căn nhà đang được hưởng dụng",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Sở Tư pháp tùy ý ra quyết định chấm dứt, không có căn cứ luật. Sở Tư pháp không có quyền tùy ý ra quyết định chấm dứt quyền hưởng dụng. Cần phân biệt quyết định Tòa án và các căn cứ khác như hết thời hạn, từ bỏ, trở thành chủ sở hữu hoặc tài sản không còn. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Điều 265 nêu hết hạn, tài sản không còn và người hưởng dụng trở thành chủ sở hữu là căn cứ chấm dứt. Chủ sở hữu bán tài sản cho người khác không tự nằm trong các căn cứ đó. Với giả thiết không có thỏa thuận chấm dứt hoặc căn cứ luật khác, việc đổi chủ tự nó chưa chấm dứt quyền hưởng dụng. Không nhầm người hưởng dụng trở thành chủ với một người thứ ba mua tài sản.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -4394,7 +4464,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4561,7 +4633,7 @@
         "correct": true
       }
     ],
-    "explanation": "Đáp án đúng: Chưa; phải chuyển quyền sở hữu hợp pháp sang công ty. Góp vốn được thanh toán xong khi quyền sở hữu hợp pháp tài sản đã chuyển sang công ty. Cấp giấy phần vốn góp hoặc đã nộp hồ sơ chưa thay việc chuyển quyền cần thiết; có ngoại lệ tài sản DNTN theo khoản khác. Gợi ý làm bài: Xác định loại công ty, điều lệ, người đại diện và cơ quan có quyền chấp thuận trước khi ký.",
+    "explanation": "Góp vốn được thanh toán xong khi quyền sở hữu hợp pháp tài sản đã chuyển sang công ty. Cấp giấy phần vốn góp hoặc đã nộp hồ sơ chưa thay việc chuyển quyền cần thiết; có ngoại lệ tài sản DNTN theo khoản khác.",
     "legalBasis": [
       {
         "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
@@ -4584,7 +4656,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4731,26 +4805,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chỉ trưởng chi nhánh trả bằng tài sản riêng trong mọi trường hợp",
+        "text": "Người đứng đầu chi nhánh chịu toàn bộ bằng tài sản riêng vì đã điều hành hoạt động",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Cơ quan đăng ký kinh doanh phải dùng ngân sách trả thay",
+        "text": "Cơ quan đăng ký kinh doanh thanh toán vì đã ghi nhận chấm dứt chi nhánh",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Doanh nghiệp có chi nhánh thực hiện hợp đồng, trả nợ và giải quyết quyền lợi người lao động",
+        "text": "Doanh nghiệp thực hiện hợp đồng, trả nợ và giải quyết quyền lợi người lao động",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Các nghĩa vụ tự mất đi khi chi nhánh chấm dứt",
+        "text": "Các bên phải đợi chi nhánh hoạt động lại mới có chủ thể thực hiện nghĩa vụ",
         "correct": false
       }
     ],
-    "explanation": "Khoản 3 Điều 213 đặt trách nhiệm thực hiện hợp đồng, trả các khoản nợ kể cả nợ thuế và giải quyết quyền lợi người lao động lên doanh nghiệp. Chấm dứt chi nhánh không xóa nghĩa vụ, không mặc nhiên chuyển toàn bộ nợ thành trách nhiệm cá nhân trưởng chi nhánh. Gợi ý làm bài: Xác định loại công ty, điều lệ, người đại diện và cơ quan có quyền chấp thuận trước khi ký.",
+    "explanation": "Khoản 3 Điều 213 đặt trách nhiệm thực hiện hợp đồng, trả các khoản nợ kể cả nợ thuế và giải quyết quyền lợi người lao động lên doanh nghiệp. Chấm dứt chi nhánh không xóa nghĩa vụ, không mặc nhiên chuyển toàn bộ nợ thành trách nhiệm cá nhân trưởng chi nhánh.",
     "legalBasis": [
       {
         "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
@@ -4773,7 +4847,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5067,7 +5143,7 @@
         "correct": true
       }
     ],
-    "explanation": "Quyền đối với bất động sản liền kề phục vụ khai thác bất động sản hưởng quyền. Riêng quyền đi qua không tạo quyền sở hữu hoặc quyền chiếm hữu toàn bộ thửa đất bên cạnh; các căn cứ chiếm hữu hợp pháp tại Điều 165 phải được xét độc lập. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Quyền đối với bất động sản liền kề phục vụ khai thác bất động sản hưởng quyền. Riêng quyền đi qua không tạo quyền sở hữu hoặc quyền chiếm hữu toàn bộ thửa đất bên cạnh; các căn cứ chiếm hữu hợp pháp tại Điều 165 phải được xét độc lập.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -5095,7 +5171,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5233,9 +5311,9 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người lao động không thuộc bất kỳ ngoại lệ được ký nhiều hợp đồng xác định thời hạn. Sau hợp đồng xác định thời hạn đầu tiên, hai bên muốn tiếp tục hợp tác. Theo quy tắc chung, được ký thêm mấy hợp đồng xác định thời hạn?",
-        "Tháng 10/2026: Hợp đồng lao động xác định thời hạn đầu tiên vừa hết hạn; trong thời hạn luật cho ký tiếp, người lao động không thuộc bất kỳ ngoại lệ về ký nhiều hợp đồng xác định thời hạn. Hai bên đồng ý tiếp tục. Theo quy tắc chung, còn được ký thêm bao nhiêu hợp đồng loại này?",
-        "Tháng 10/2026: Người sử dụng lao động muốn lên kế hoạch nhiều lần gia hạn bằng hợp đồng xác định thời hạn sau lần đầu. Người lao động tiếp tục làm việc, không thuộc ngoại lệ và chưa quá hạn luật định để ký hợp đồng mới. Chọn số lần ký thêm được phép theo quy tắc chung."
+        "Tháng 10/2026: Hợp đồng lao động xác định thời hạn đầu tiên của H sắp hết; H và doanh nghiệp muốn tiếp tục ký loại hợp đồng này. H không thuộc ngoại lệ được ký nhiều lần. Theo quy tắc chung, họ còn được ký thêm mấy hợp đồng xác định thời hạn?",
+        "Tháng 10/2026: H đã hoàn tất một hợp đồng lao động xác định thời hạn, không thuộc trường hợp ngoại lệ. Doanh nghiệp muốn ký liên tiếp hai hợp đồng cùng loại nữa trước khi chuyển sang không xác định thời hạn. Giới hạn ký thêm theo quy tắc chung là gì?",
+        "Tháng 10/2026: Doanh nghiệp lập kế hoạch dùng hợp đồng xác định thời hạn cho H qua nhiều đợt. H đã có hợp đồng đầu tiên và không thuộc ngoại lệ. Khi tiếp tục làm việc, quy tắc nào giới hạn số hợp đồng cùng loại được ký thêm?"
       ]
     },
     "answers": [
@@ -5260,7 +5338,7 @@
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Chỉ thêm 1 hợp đồng, sau đó nếu tiếp tục làm việc thì phải ký không xác định thời hạn. Thông thường chỉ ký thêm một hợp đồng xác định thời hạn sau lần đầu, nhưng có ngoại lệ cho nhóm người lao động và trường hợp luật định. Không dùng khẳng định cấm hơn hai lần cho mọi người; cần loại trừ ngoại lệ. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Thông thường chỉ ký thêm một hợp đồng xác định thời hạn sau lần đầu, nhưng có ngoại lệ cho nhóm người lao động và trường hợp luật định. Không dùng khẳng định cấm hơn hai lần cho mọi người; cần loại trừ ngoại lệ.",
     "legalBasis": [
       {
         "document": "Bộ luật Lao động số 45/2019/QH14 (đối chiếu VBHN 18/VBHN-VPQH năm 2026)",
@@ -5284,7 +5362,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5558,26 +5638,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chỉ cần trao đổi miệng trong cuộc họp",
+        "text": "Chỉ cần hạn chế đã được đa số thông qua tại cuộc họp Đại hội đồng cổ đông",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ cần Giám đốc biết, cổ đông không cần được thể hiện trên cổ phiếu",
+        "text": "Chỉ cần hạn chế được ghi trong sổ đăng ký cổ đông của công ty",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ cần người mua cổ phần là người ngoài công ty",
+        "text": "Chỉ cần người nhận chuyển nhượng được thông báo riêng trước khi ký",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Được nêu rõ trong cổ phiếu của cổ phần tương ứng",
+        "text": "Phải nêu rõ hạn chế trong cổ phiếu của cổ phần tương ứng",
         "correct": true
       }
     ],
-    "explanation": "Hạn chế chuyển nhượng trong điều lệ chỉ có hiệu lực khi nêu rõ trong cổ phiếu của cổ phần tương ứng. Không thể thay yêu cầu đó bằng một trao đổi miệng hoặc việc Giám đốc biết; đồng thời còn phải xét ngoại lệ cổ đông sáng lập tại Điều 120 khi phù hợp. Gợi ý làm bài: Xác định loại công ty, điều lệ, người đại diện và cơ quan có quyền chấp thuận trước khi ký.",
+    "explanation": "Hạn chế chuyển nhượng trong điều lệ chỉ có hiệu lực khi nêu rõ trong cổ phiếu của cổ phần tương ứng. Không thể thay yêu cầu đó bằng một trao đổi miệng hoặc việc Giám đốc biết; đồng thời còn phải xét ngoại lệ cổ đông sáng lập tại Điều 120 khi phù hợp.",
     "legalBasis": [
       {
         "document": "Luật Doanh nghiệp số 59/2020/QH14 (đối chiếu VBHN 67/VBHN-VPQH năm 2025)",
@@ -5600,7 +5680,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5613,34 +5695,34 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người bắt được gia súc thất lạc đã nuôi giữ đúng luật; gia súc sinh con và chủ sở hữu nhận lại gia súc. Theo khoản 2 Điều 231, người này được hưởng gì?",
-        "Tháng 10/2026: Gia súc thất lạc được người bắt nuôi giữ đúng luật và sinh con trong thời gian đó. Chủ sở hữu quay lại nhận gia súc, muốn chỉ trả chi phí nuôi mà giữ hết con sinh ra. Riêng quyền đối với số sinh ra của người nuôi giữ là gì?",
-        "Tháng 10/2026: Khi chủ sở hữu nhận lại gia súc bị thất lạc đã được nuôi giữ đúng luật, người bắt yêu cầu hưởng cả con mẹ lẫn số sinh ra trong lúc giữ. Chọn phần được hưởng đối với gia súc theo Điều 231(2), bên cạnh chi phí luật định."
+        "Tháng 10/2026: H bắt được gia súc thất lạc, thông báo và nuôi giữ đúng luật. Trong thời gian giữ, gia súc sinh hai con; chủ đến nhận lại. Riêng quyền lợi của H đối với số sinh ra được xác định thế nào?",
+        "Tháng 10/2026: Chủ gia súc đề nghị nhận lại cả con mẹ và hai con được sinh trong thời gian người khác nuôi giữ đúng luật. Người giữ không đòi sở hữu con mẹ nhưng yêu cầu phần đối với số sinh ra. Nguyên tắc nào áp dụng?",
+        "Tháng 10/2026: Gia súc thất lạc sinh hai con trong thời gian được H nuôi giữ đúng thủ tục. Khi chủ nhận lại, hai bên không thống nhất giao con nào và muốn tính bằng giá trị. Chọn quy tắc về phần H được hưởng."
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra",
+        "text": "Một nửa số sinh ra hoặc 50% giá trị số gia súc sinh ra",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Toàn bộ con mẹ và con sinh ra ngay khi bắt được",
+        "text": "Toàn bộ số sinh ra vì người nuôi giữ đã chăm sóc con mẹ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Một nửa con mẹ nhưng không được hưởng con sinh ra",
+        "text": "Một nửa giá trị cả con mẹ và số sinh ra trong thời gian giữ",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không được hưởng bất kỳ con sinh ra nào",
+        "text": "Chỉ chi phí nuôi giữ, không có phần hưởng từ số sinh ra",
         "correct": false
       }
     ],
-    "explanation": "Đáp án đúng: Một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra. Khi chủ sở hữu nhận lại gia súc thất lạc, người nuôi giữ được hưởng một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra, cùng chi phí theo luật. Không hưởng nửa con mẹ. Trách nhiệm làm chết gia súc tại khoản này gắn lỗi cố ý, không phải chia đôi mọi thiệt hại. Gợi ý làm bài: Xác định đúng loại quan hệ và chủ thể, sau đó đối chiếu điều kiện và ngoại lệ của điều khoản trước khi chọn cách xử lý.",
+    "explanation": "Đáp án đúng: Một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra. Khi chủ sở hữu nhận lại gia súc thất lạc, người nuôi giữ được hưởng một nửa số gia súc sinh ra hoặc 50% giá trị số gia súc sinh ra, cùng chi phí theo luật. Không hưởng nửa con mẹ. Trách nhiệm làm chết gia súc tại khoản này gắn lỗi cố ý, không phải chia đôi mọi thiệt hại.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -5663,7 +5745,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5766,7 +5850,7 @@
         "correct": false
       }
     ],
-    "explanation": "Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Điểm b khoản 2 Điều 44 phân biệt người được sở hữu nhà ở tại Việt Nam với người không thuộc diện đó. Người nhận tặng cho không đủ điều kiện chỉ hưởng giá trị, không được cấp giấy chứng nhận theo trường hợp này; tư cách đủ điều kiện của bên tặng không truyền sang người nhận.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -5790,7 +5874,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5894,7 +5980,7 @@
         "correct": false
       }
     ],
-    "explanation": "Biện pháp xử lý hành chính là căn cứ chấm dứt tập sự tại điểm g khoản 1 Điều 9. Khoản 6 xác định thời gian trước khi chấm dứt không được tính. Không áp cơ chế bảo lưu của tạm ngừng hợp lệ cho trường hợp chấm dứt này. Gợi ý làm bài: Phân biệt tạm ngừng, chấm dứt và đăng ký lại; đọc đúng mốc bắt đầu tính thời hạn.",
+    "explanation": "Biện pháp xử lý hành chính là căn cứ chấm dứt tập sự tại điểm g khoản 1 Điều 9. Khoản 6 xác định thời gian trước khi chấm dứt không được tính. Không áp cơ chế bảo lưu của tạm ngừng hợp lệ cho trường hợp chấm dứt này.",
     "legalBasis": [
       {
         "document": "Thông tư 06/2025/TT-BTP quy định về tập sự hành nghề công chứng",
@@ -5924,7 +6010,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -6028,7 +6116,7 @@
         "correct": false
       }
     ],
-    "explanation": "Điểm a khoản 1 Điều 133 nêu chuyển nhượng dự án có sử dụng đất trong danh mục đăng ký biến động đối với đất đã được cấp giấy chứng nhận. Công chứng giao dịch không tự thay thủ tục đăng ký; đây là hai bước có chức năng khác nhau. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Điểm a khoản 1 Điều 133 nêu chuyển nhượng dự án có sử dụng đất trong danh mục đăng ký biến động đối với đất đã được cấp giấy chứng nhận. Công chứng giao dịch không tự thay thủ tục đăng ký; đây là hai bước có chức năng khác nhau.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -6052,7 +6140,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -6073,26 +6163,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tự động sở hữu đất vĩnh viễn",
+        "text": "Tự động tiếp tục thuê thêm 50 năm mà không cần Nhà nước xem xét",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Tự động tiếp tục thuê thêm 99 năm không cần xem xét",
+        "text": "Được xem xét tiếp tục thuê tối đa 99 năm vì vẫn trực tiếp sản xuất",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Bắt buộc chuyển thành giao đất không thu tiền",
+        "text": "Được chuyển sang giao đất không thu tiền ngay khi hết hạn thuê",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Được Nhà nước xem xét tiếp tục cho thuê nhưng không quá 50 năm",
+        "text": "Được Nhà nước xem xét tiếp tục cho thuê, thời hạn không quá 50 năm",
         "correct": true
       }
     ],
-    "explanation": "Điểm b khoản 1 Điều 172 quy định khi hết hạn thuê đất nông nghiệp, cá nhân có nhu cầu được xem xét tiếp tục cho thuê nhưng không quá 50 năm. Không đồng nhất với cơ chế tiếp tục sử dụng đất nông nghiệp được giao, công nhận tại điểm a hoặc chuyển thành sở hữu đất. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Điểm b khoản 1 Điều 172 quy định khi hết hạn thuê đất nông nghiệp, cá nhân có nhu cầu được xem xét tiếp tục cho thuê nhưng không quá 50 năm. Không đồng nhất với cơ chế tiếp tục sử dụng đất nông nghiệp được giao, công nhận tại điểm a hoặc chuyển thành sở hữu đất.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -6116,7 +6206,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -6156,7 +6248,7 @@
         "correct": false
       }
     ],
-    "explanation": "Khoản 5 Điều 30 duy trì trong 2 năm trách nhiệm liên đới toàn bộ tài sản đối với các khoản nợ phát sinh khi còn là thành viên hợp danh. Nhận tiền chuyển nhượng hoặc không còn tên trên đăng ký không xóa ngay trách nhiệm đó; không chỉ giới hạn ở giá chuyển nhượng. Gợi ý làm bài: Xác định thủ tục công chứng và điều kiện đặc thù; không dùng sự đồng ý của các bên để bỏ điều kiện bắt buộc.",
+    "explanation": "Khoản 5 Điều 30 duy trì trong 2 năm trách nhiệm liên đới toàn bộ tài sản đối với các khoản nợ phát sinh khi còn là thành viên hợp danh. Nhận tiền chuyển nhượng hoặc không còn tên trên đăng ký không xóa ngay trách nhiệm đó; không chỉ giới hạn ở giá chuyển nhượng.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -6179,7 +6271,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -6835,26 +6929,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Hóa đơn mua vật liệu xây nhà",
+        "text": "Hóa đơn mua vật liệu xây công trình trên thửa đất",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Hợp đồng vay tiền có ghi địa chỉ thửa đất",
+        "text": "Hợp đồng thuê đất giữa cá nhân có ghi mục đích sử dụng",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Cam kết đơn phương của người thuê về loại đất",
+        "text": "Cam kết về loại đất do người đang trực tiếp sử dụng lập",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Quyết định giao đất của cơ quan có thẩm quyền",
+        "text": "Quyết định giao đất của cơ quan nhà nước có thẩm quyền",
         "correct": true
       }
     ],
-    "explanation": "Điểm c khoản 1 Điều 10 cho phép căn cứ quyết định giao đất của cơ quan có thẩm quyền khi chưa có giấy chứng nhận. Hóa đơn vật liệu, hợp đồng vay hoặc cam kết của người thuê không thay căn cứ pháp lý xác định loại đất tại điều khoản này. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Điểm c khoản 1 Điều 10 cho phép căn cứ quyết định giao đất của cơ quan có thẩm quyền khi chưa có giấy chứng nhận. Hóa đơn vật liệu, hợp đồng vay hoặc cam kết của người thuê không thay căn cứ pháp lý xác định loại đất tại điều khoản này.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -6877,7 +6971,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7436,7 +7532,7 @@
         "correct": false
       }
     ],
-    "explanation": "Điểm c khoản 1 Điều 28 hiện hành nêu khu công nghiệp, cụm công nghiệp và khu công nghệ cao. Vì vậy không thể loại cụm công nghiệp khỏi danh mục theo danh mục thiếu cụm công nghiệp. Vẫn phải kiểm tra điều kiện giao dịch và khu vực hạn chế tiếp cận đất đai nếu có. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Điểm c khoản 1 Điều 28 nêu cả khu công nghiệp, cụm công nghiệp và khu công nghệ cao. Vì vậy không được loại cụm công nghiệp khỏi danh mục. Hồ sơ vẫn phải đáp ứng điều kiện giao dịch và các hạn chế tiếp cận đất đai có liên quan.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -7460,7 +7556,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7544,26 +7642,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Có; trừ khi hợp đồng thuê chỉ kéo dài một tháng",
+        "text": "Vẫn cần điều kiện thu nhập, chỉ được miễn điều kiện về nhà ở",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Có; chỉ được miễn nếu chuyển sang mua nhà",
+        "text": "Vẫn cần điều kiện nhà ở, chỉ được miễn điều kiện về thu nhập",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Không; trường hợp thuê thuộc khoản 2 không phải đáp ứng hai điều kiện đó",
+        "text": "Không phải đáp ứng hai điều kiện nhà ở và thu nhập áp dụng cho mua, thuê mua",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Có; mọi thuê, mua và thuê mua đều cùng điều kiện khoản 1",
+        "text": "Phải đáp ứng cả hai điều kiện vì người thuê thuộc cùng nhóm đối tượng",
         "correct": false
       }
     ],
-    "explanation": "Khoản 2 Điều 78 quy định các đối tượng được chỉ định, bao gồm khoản 6 Điều 76, nếu thuê nhà ở xã hội thì không phải đáp ứng điều kiện nhà ở và thu nhập khoản 1. Đây không phải miễn điều kiện tư cách đối tượng hoặc mọi thủ tục; không chuyển điều kiện mua, thuê mua sang thuê một cách máy móc. Gợi ý làm bài: Phân biệt thuê, thuê mua và sở hữu; kiểm tra loại nhà, chủ thể và điều kiện của giao dịch.",
+    "explanation": "Khoản 2 Điều 78 quy định các đối tượng được chỉ định, bao gồm khoản 6 Điều 76, nếu thuê nhà ở xã hội thì không phải đáp ứng điều kiện nhà ở và thu nhập khoản 1. Đây không phải miễn điều kiện tư cách đối tượng hoặc mọi thủ tục; không chuyển điều kiện mua, thuê mua sang thuê một cách máy móc.",
     "legalBasis": [
       {
         "document": "Luật Nhà ở số 27/2023/QH15 (đối chiếu VBHN 79/VBHN-VPQH năm 2026)",
@@ -7586,7 +7684,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7676,26 +7776,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Hoạt động được khuyến khích đầu tư vào sử dụng đất đai",
+        "text": "Thuộc hướng được khuyến khích đầu tư vào sử dụng đất đai theo luật",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Hành vi lấn đất bị cấm trong mọi trường hợp",
+        "text": "Chỉ thuộc hướng khuyến khích nếu dự án đồng thời mở rộng diện tích đất sử dụng",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ được khuyến khích nếu chuyển đất nông nghiệp thành đất ở",
+        "text": "Chỉ thuộc hướng khuyến khích nếu phục hồi đất gắn với việc chuyển sang đất ở",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không thuộc hướng khuyến khích vì không làm tăng diện tích đất",
+        "text": "Không thuộc hướng khuyến khích vì dự án không tạo thêm diện tích đất",
         "correct": false
       }
     ],
-    "explanation": "Khoản 2 Điều 8 khuyến khích bảo vệ, cải tạo, làm tăng độ màu mỡ, xử lý ô nhiễm và phục hồi đất thoái hóa. Hoạt động phải đúng luật, nhưng không bắt buộc làm tăng diện tích hoặc chuyển mục đích thành đất ở mới được thuộc hướng khuyến khích. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Khoản 2 Điều 8 khuyến khích bảo vệ, cải tạo, làm tăng độ màu mỡ, xử lý ô nhiễm và phục hồi đất thoái hóa. Hoạt động phải đúng luật, nhưng không bắt buộc làm tăng diện tích hoặc chuyển mục đích thành đất ở mới được thuộc hướng khuyến khích.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -7718,7 +7818,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7809,26 +7911,26 @@
     "answers": [
       {
         "id": "A",
-        "text": "Hợp lệ nếu người nhận đồng ý trả phí cao hơn",
+        "text": "Hợp lệ vì mức do địa phương ban hành được ưu tiên cho giao dịch trong tỉnh",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ vượt trần khi diện tích lớn hơn 100 lần hạn mức",
+        "text": "Hợp lệ vì trần nhận chuyển quyền được tính gộp các loại đất thay vì từng loại",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Vượt trần luật định không quá 15 lần, địa phương phải quy định trong phạm vi luật",
+        "text": "Vượt trần 15 lần của mỗi loại đất; địa phương phải quy định trong giới hạn luật",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Hợp lệ vì địa phương được bỏ mọi trần của luật",
+        "text": "Hợp lệ nếu mức 20 lần được áp dụng chung cho mọi cá nhân trong địa phương",
         "correct": false
       }
     ],
-    "explanation": "Khoản 1 Điều 177 đặt trần không quá 15 lần hạn mức giao của mỗi loại đất được chỉ định. Khoản 3 cho địa phương xác định mức phù hợp trên cơ sở khoản 1 và 2, không cho vượt trần thành 20 lần; việc trả phí cao hơn không khắc phục vi phạm hạn mức. Gợi ý làm bài: Xác định chủ thể, nguồn gốc quyền và hình thức sử dụng đất; không đồng nhất người giữ giấy chứng nhận với người có quyền.",
+    "explanation": "Khoản 1 Điều 177 đặt trần không quá 15 lần hạn mức giao của mỗi loại đất được chỉ định. Khoản 3 cho địa phương xác định mức phù hợp trên cơ sở khoản 1 và 2, không cho vượt trần thành 20 lần; việc trả phí cao hơn không khắc phục vi phạm hạn mức.",
     "legalBasis": [
       {
         "document": "Luật Đất đai số 31/2024/QH15 (đối chiếu VBHN 44/VBHN-VPQH năm 2026)",
@@ -7857,7 +7959,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

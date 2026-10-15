@@ -455,7 +455,7 @@
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
-        "article": "Khoản 1 và khoản 3 Điều 50",
+        "article": "Khoản 1, khoản 3 và khoản 4 Điều 50",
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
       }
     ],
@@ -475,7 +475,9 @@
       "difficultyReview": "hard_scenario_estimated_pending_trial",
       "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
       "previousEvidenceFile": "reports/calibration-40-legal-review-2026-10-12.json",
-      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

@@ -574,7 +574,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm c khoản 1 Điều 9 bao gồm cha nuôi, mẹ nuôi của vợ hoặc chồng. Lệnh cấm không chỉ giới hạn tài sản thuộc sở hữu CCV, người cùng hộ hay trường hợp tranh chấp. Sự tự nguyện và văn bản chấp thuận của khách hàng không tạo ngoại lệ. Cần phân công CCV khác đủ điều kiện và kiểm tra các điều kiện công chứng còn lại.",
+    "explanation": "Điểm c khoản 1 Điều 9 bao gồm cha nuôi, mẹ nuôi của vợ hoặc chồng. Lệnh cấm không chỉ giới hạn tài sản thuộc sở hữu CCV, người cùng hộ hay trường hợp tranh chấp. Sự tự nguyện và văn bản chấp thuận của khách hàng không tạo ngoại lệ. Cần phân công CCV khác đủ điều kiện và kiểm tra các điều kiện công chứng còn lại.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -601,7 +601,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -639,7 +641,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiều 9 cấm đồng thời hành nghề tại từ hai tổ chức; Điều 18 yêu cầu hành nghề tại một tổ chức. Đồng thời ở đây không chỉ là ký hai hồ sơ đúng cùng một giờ. Phân ca hoặc cùng địa bàn không hợp pháp hóa việc duy trì tư cách hành nghề ở cả hai nơi; chuyển nơi hành nghề phải thực hiện thủ tục tương ứng.",
+    "explanation": "Điều 9 cấm đồng thời hành nghề tại từ hai tổ chức; Điều 18 yêu cầu hành nghề tại một tổ chức. Đồng thời ở đây không chỉ là ký hai hồ sơ đúng cùng một giờ. Phân ca hoặc cùng địa bàn không hợp pháp hóa việc duy trì tư cách hành nghề ở cả hai nơi; chuyển nơi hành nghề phải thực hiện thủ tục tương ứng.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -673,7 +675,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -711,7 +715,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm k khoản 1 Điều 9 cấm cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình. Thẻ của người nhận không biến thẻ Nam thành tài liệu có thể cho mượn. Phân công một CCV đủ điều kiện thực hiện hồ sơ bằng tư cách riêng là việc khác với cho dùng thẻ của người nghỉ phép.",
+    "explanation": "Điểm k khoản 1 Điều 9 cấm cho người khác sử dụng quyết định bổ nhiệm hoặc thẻ của mình. Thẻ của người nhận không biến thẻ Nam thành tài liệu có thể cho mượn. Phân công một CCV đủ điều kiện thực hiện hồ sơ bằng tư cách riêng là việc khác với cho dùng thẻ của người nghỉ phép.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -738,7 +742,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2839,7 +2845,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm b khoản 11 Điều 1 sửa khoản 7 Điều 42 ghi riêng ngoại lệ cho công chứng văn bản từ chối nhận di sản. Phạm vi ngoại lệ là đối chiếu bản chính giấy tờ tại điểm c; không miễn mọi thành phần hồ sơ, không giới hạn riêng tiền và không mở rộng sang phân chia di sản. Đây là quy định từ 01/01/2027 theo Điều 2.",
+    "explanation": "Điểm b khoản 11 Điều 1 sửa khoản 7 Điều 42 ghi riêng ngoại lệ cho công chứng văn bản từ chối nhận di sản. Phạm vi ngoại lệ là đối chiếu bản chính giấy tờ tại điểm c; không miễn mọi thành phần hồ sơ, không giới hạn riêng tiền và không mở rộng sang phân chia di sản. Đây là quy định từ 01/01/2027 theo Điều 2.",
     "legalBasis": [
       {
         "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
@@ -2871,7 +2877,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3348,7 +3356,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 13 Điều 1 sửa Điều 44, ghi văn bản ủy quyền liên quan thực hiện quyền về bất động sản trong danh sách ngoại lệ. Việc người đại diện ký không đổi hợp đồng bán nhà thành văn bản ủy quyền. Không lấy khoản 2 về lộ trình toàn quốc để mặc định mọi giao dịch đã được làm toàn quốc; câu chỉ xét ngoại lệ khoản 1, chưa giả định lộ trình đã triển khai.",
+    "explanation": "Khoản 13 Điều 1 sửa Điều 44, ghi văn bản ủy quyền liên quan thực hiện quyền về bất động sản trong danh sách ngoại lệ. Việc người đại diện ký không đổi hợp đồng bán nhà thành văn bản ủy quyền. Không lấy khoản 2 về lộ trình toàn quốc để mặc định mọi giao dịch đã được làm toàn quốc; câu chỉ xét ngoại lệ khoản 1, chưa giả định lộ trình đã triển khai.",
     "legalBasis": [
       {
         "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
@@ -3379,7 +3387,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3390,30 +3400,30 @@
     "status": "active",
     "question": {
       "variants": [
-        "Từ 01/01/2027, điểm chỉ có thể được thực hiện đồng thời với việc ký khi nào?",
-        "Từ 01/01/2027: Người có thể ký vẫn muốn điểm chỉ cùng chữ ký. Luật mới cho phép dựa vào yêu cầu của ai?",
-        "Từ 01/01/2027: Khách đề nghị vừa ký vừa điểm chỉ để bảo đảm nhận diện, dù giao dịch không phải bất động sản. Căn cứ thực hiện đồng thời theo luật mới là gì?"
+        "Từ 01/01/2027, bà H ký được nhưng đề nghị điểm chỉ thêm để tăng khả năng nhận diện. Hồ sơ không thuộc trường hợp điểm chỉ thay ký. Nhân viên nói chỉ công chứng viên mới được yêu cầu việc này. Căn cứ nào phù hợp?",
+        "Từ 01/01/2027, người yêu cầu ký được, muốn đồng thời điểm chỉ trên văn bản. Giao dịch không phải bất động sản. Chọn nhận định đúng về cơ sở thực hiện điểm chỉ bổ sung.",
+        "Từ 01/01/2027, văn phòng chỉ cho điểm chỉ cùng chữ ký khi công chứng viên yêu cầu hoặc hợp đồng có bất động sản. Khách ký được vẫn chủ động đề nghị điểm chỉ. Quy tắc nào cần áp dụng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Theo đề nghị của người yêu cầu công chứng",
+        "text": "Có thể thực hiện đồng thời theo đề nghị của người yêu cầu công chứng",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Chỉ khi công chứng viên yêu cầu",
+        "text": "Chỉ thực hiện đồng thời nếu công chứng viên chủ động yêu cầu",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ khi giao dịch bất động sản",
+        "text": "Chỉ thực hiện đồng thời theo đề nghị khách khi đối tượng là bất động sản",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không bao giờ",
+        "text": "Chỉ được điểm chỉ thay ký, không thực hiện đồng thời khi khách đã ký được",
         "correct": false
       }
     ],
@@ -3437,13 +3447,15 @@
       "id": "OFFICIAL-CC26",
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "audit": {
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3929,7 +3941,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 16 Điều 1 sửa khoản 1 Điều 66 thành bốn nhóm: thông tin CCV/tổ chức/giao dịch; tình trạng giao dịch tài sản; ngăn chặn/cảnh báo; văn bản công chứng và tài liệu hồ sơ. Vì vậy không thể loại cả ba nhóm sau. Quy định nhóm dữ liệu không cho phép công khai tùy ý; khoản 2 vẫn yêu cầu bảo mật, bảo vệ đời sống riêng tư. Mốc áp dụng quy định mới là 01/01/2027.",
+    "explanation": "Khoản 16 Điều 1 sửa khoản 1 Điều 66 thành bốn nhóm: thông tin CCV/tổ chức/giao dịch; tình trạng giao dịch tài sản; ngăn chặn/cảnh báo; văn bản công chứng và tài liệu hồ sơ. Vì vậy không thể loại cả ba nhóm sau. Quy định nhóm dữ liệu không cho phép công khai tùy ý; khoản 2 vẫn yêu cầu bảo mật, bảo vệ đời sống riêng tư. Mốc áp dụng quy định mới là 01/01/2027.",
     "legalBasis": [
       {
         "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
@@ -3960,7 +3972,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5413,30 +5427,30 @@
     "status": "active",
     "question": {
       "variants": [
-        "Tháng 10/2026: Thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng được thực hiện theo thủ tục nào?",
-        "Tháng 10/2026: Điều 53 xác định thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng theo nhóm thủ tục nào?",
-        "Tháng 10/2026: Các bên đã thống nhất văn bản sửa hợp đồng, muốn coi chứng nhận sửa là thủ tục đăng ký doanh nghiệp hoặc tố tụng. Thủ tục công chứng đúng là gì?"
+        "Tháng 10/2026: Hai bên cùng đề nghị sửa hợp đồng đã công chứng và nộp dự thảo thỏa thuận. Nhân viên muốn chỉ đóng dấu xác nhận phụ lục vì hồ sơ gốc đã được kiểm tra. Chọn cách thực hiện thủ tục công chứng lần này.",
+        "Tháng 10/2026: Các bên chấm dứt bằng thỏa thuận một giao dịch đã công chứng, các điều kiện khác đã đủ. Họ cho rằng không cần kiểm tra ý chí và ký theo thủ tục giao dịch vì văn phòng đã giữ hồ sơ cũ. Quy trình nào đúng?",
+        "Tháng 10/2026: Văn phòng tiếp nhận thỏa thuận bổ sung giao dịch đã công chứng. Người yêu cầu muốn dùng thủ tục sửa lỗi kỹ thuật cho thuận tiện dù đang thay nội dung quyền, nghĩa vụ. Chọn quy trình công chứng phù hợp."
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Như thủ tục công chứng giao dịch tại Chương này",
+        "text": "Thực hiện thủ tục công chứng giao dịch theo chương về thủ tục công chứng",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Theo thủ tục hành chính của UBND",
+        "text": "Đóng dấu xác nhận nội dung phụ lục dựa vào hồ sơ công chứng lần đầu",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Theo thủ tục tố tụng",
+        "text": "Sửa trực tiếp vào văn bản gốc như sửa lỗi kỹ thuật rồi giao lại các bên",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Theo thủ tục đăng ký doanh nghiệp",
+        "text": "Chỉ tiếp nhận thỏa thuận đã ký sẵn và lưu cùng hồ sơ gốc, không chứng nhận lại",
         "correct": false
       }
     ],
@@ -5455,13 +5469,15 @@
       "id": "OFFICIAL-CC24",
       "note": "Đối chiếu điều khoản của bản ký chính thức; mốc áp dụng ghi trong câu dẫn."
     },
-    "difficulty": "recognition",
-    "questionForm": "direct",
+    "difficulty": "application",
+    "questionForm": "short_case",
     "audit": {
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -5901,7 +5917,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 3 cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày hiệu lực tiếp tục hành nghề và thực hiện nhiệm vụ chứng thực theo pháp luật được dẫn chiếu. Đây không phải miễn trừ nghĩa vụ hoặc đình chỉ; cũng không đặt điều kiện số hồ sơ giả định trong đáp án nhiễu. Không yêu cầu bổ nhiệm lại chỉ do mốc đổi luật.",
+    "explanation": "Khoản 1 Điều 3 cho người đã được bổ nhiệm, bổ nhiệm lại trước ngày hiệu lực tiếp tục hành nghề và thực hiện nhiệm vụ chứng thực theo pháp luật được dẫn chiếu. Đây không phải miễn trừ nghĩa vụ hoặc đình chỉ; cũng không đặt điều kiện số hồ sơ giả định trong đáp án nhiễu. Không yêu cầu bổ nhiệm lại chỉ do mốc đổi luật.",
     "legalBasis": [
       {
         "document": "Luật số 04/2026/QH16 sửa đổi, bổ sung một số điều của Luật Công chứng",
@@ -5932,7 +5948,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

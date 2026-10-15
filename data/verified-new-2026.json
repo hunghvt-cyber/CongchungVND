@@ -257,22 +257,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Đủ điều kiện nếu có văn bản đồng ý",
+        "text": "Đáp ứng nếu hai vợ chồng cùng chấp thuận việc nhờ mang thai hộ",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Không đủ điều kiện theo yêu cầu xác nhận y tế",
+        "text": "Chưa đáp ứng điều kiện xác nhận y tế về việc người vợ không thể mang thai, sinh con",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Đủ điều kiện nếu người mang thai hộ là người thân",
+        "text": "Đáp ứng nếu người mang thai hộ có quan hệ thân thích theo luật",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Đủ điều kiện nếu đã công chứng thỏa thuận",
+        "text": "Đáp ứng nếu thỏa thuận mang thai hộ đã được công chứng đúng hình thức",
         "correct": false
       }
     ],
@@ -297,7 +297,9 @@
       "variantReviewDate": "2026-10-08",
       "variantReviewStatus": "editorially_checked",
       "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
-      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định.",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -500,22 +502,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Ủy quyền người thứ ba luôn hợp lệ nếu công chứng",
+        "text": "Có giá trị nếu văn bản ủy quyền người thứ ba cũng được công chứng",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Ủy quyền người thứ ba không có giá trị pháp lý",
+        "text": "Không có giá trị pháp lý đối với việc ủy quyền người thứ ba ký thỏa thuận này",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Ủy quyền người thứ ba hợp lệ khi có bác sĩ đồng ý",
+        "text": "Có giá trị nếu luật sư được ủy quyền không đồng thời đại diện bên mang thai hộ",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Ủy quyền người thứ ba hợp lệ khi có hai người làm chứng",
+        "text": "Có giá trị nếu cả hai bên mang thai hộ và nhờ mang thai hộ đồng ý người ký thay",
         "correct": false
       }
     ],
@@ -539,7 +541,9 @@
       "variantReviewDate": "2026-10-08",
       "variantReviewStatus": "editorially_checked",
       "legalReviewStatus": "provisions_checked_pending_full_effectiveness_review",
-      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định."
+      "note": "Đã đọc quy định chính thức và đối chiếu ba lời dẫn với bốn đáp án. Chưa thay thế rà soát đầy đủ sửa đổi và quy định chuyên ngành đến ngày kiểm định.",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

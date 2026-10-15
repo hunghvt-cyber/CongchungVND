@@ -34,7 +34,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.",
+    "explanation": "Khoản 2 Điều 15 trong bản Thông tư đã ban hành quy định một bài viết 180 phút và một bài trắc nghiệm máy vi tính 60 phút. Nguồn Bộ Tư pháp tháng 6–7/2026 về hai bài trắc nghiệm là đề xuất/hồ sơ dự thảo, không tự sửa điều khoản đã ban hành. Câu giới hạn rõ bản văn được hỏi; không dùng câu này để suy ra lịch, hình thức riêng của mọi kỳ kiểm tra sau này.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -60,7 +60,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -98,7 +100,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm c khoản 3 Điều 29 yêu cầu số câu xây dựng tối thiểu gấp ba số câu theo quy định: 60 × 3 = 180; 150 còn thiếu 30. Đúng định dạng phần mềm là điều kiện khác, không thay ngưỡng số lượng. Dữ kiện 60 là giả định trong bài toán, không tuyên bố mọi đề thi chính thức đều có 60 câu.",
+    "explanation": "Điểm c khoản 3 Điều 29 yêu cầu số câu xây dựng tối thiểu gấp ba số câu theo quy định: 60 × 3 = 180; 150 còn thiếu 30. Đúng định dạng phần mềm là điều kiện khác, không thay ngưỡng số lượng. Dữ kiện 60 là giả định trong bài toán, không tuyên bố mọi đề thi chính thức đều có 60 câu.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -125,7 +127,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -163,7 +167,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm b khoản 3 Điều 29 đòi nội dung chính xác, chặt chẽ, rõ ràng và có tính suy luận, phân tích. Giới hạn thao tác chọn một đáp án không biến câu có hai đáp án hợp pháp thành câu có đáp án duy nhất. Cần bổ sung giả thiết hoặc thay phương án sao cho kiểm tra được một kết luận xác định, rồi phản biện lại khóa đáp án.",
+    "explanation": "Điểm b khoản 3 Điều 29 đòi nội dung chính xác, chặt chẽ, rõ ràng và có tính suy luận, phân tích. Giới hạn thao tác chọn một đáp án không biến câu có hai đáp án hợp pháp thành câu có đáp án duy nhất. Cần bổ sung giả thiết hoặc thay phương án sao cho kiểm tra được một kết luận xác định, rồi phản biện lại khóa đáp án.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -190,7 +194,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -228,7 +234,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm a khoản 1 Điều 16 ghi nhóm đã được công nhận hoàn thành, nhưng điểm a khoản 2 loại người có kết quả công nhận bị hủy. Phải đọc cả điều kiện được đăng ký và trường hợp không được đăng ký. Bản sao quyết định cũ hay số tháng tập sự không khôi phục hiệu lực kết quả đã bị hủy.",
+    "explanation": "Điểm a khoản 1 Điều 16 ghi nhóm đã được công nhận hoàn thành, nhưng điểm a khoản 2 loại người có kết quả công nhận bị hủy. Phải đọc cả điều kiện được đăng ký và trường hợp không được đăng ký. Bản sao quyết định cũ hay số tháng tập sự không khôi phục hiệu lực kết quả đã bị hủy.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -262,7 +268,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -372,7 +380,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiểm h khoản 1 Điều 5 ghi tra cứu, áp dụng văn bản, cập nhật/khai thác cơ sở dữ liệu và ứng dụng CNTT. Khoản 2 giao người hướng dẫn trách nhiệm hướng dẫn các nội dung khoản 1. Chép mẫu có thể hỗ trợ một kỹ năng nhưng không thay tất cả nhóm còn lại, đặc biệt cập nhật quy định và kiểm tra dữ liệu.",
+    "explanation": "Điểm h khoản 1 Điều 5 ghi tra cứu, áp dụng văn bản, cập nhật/khai thác cơ sở dữ liệu và ứng dụng CNTT. Khoản 2 giao người hướng dẫn trách nhiệm hướng dẫn các nội dung khoản 1. Chép mẫu có thể hỗ trợ một kỹ năng nhưng không thay tất cả nhóm còn lại, đặc biệt cập nhật quy định và kiểm tra dữ liệu.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -405,7 +413,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -443,7 +453,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nĐiều 44 hiện hành giới hạn giao dịch về bất động sản theo tỉnh nơi tổ chức đặt trụ sở, trừ danh sách ngoại lệ. Hợp đồng chuyển nhượng trong câu không phải ngoại lệ. Sự có mặt, giá trị tài sản hay nơi đăng ký không mở rộng phạm vi địa bàn. Phải lựa chọn cấu trúc giao dịch và tổ chức có thẩm quyền phù hợp; không chứng nhận cả hợp đồng theo đề nghị này.",
+    "explanation": "Điều 44 hiện hành giới hạn giao dịch về bất động sản theo tỉnh nơi tổ chức đặt trụ sở, trừ danh sách ngoại lệ. Hợp đồng chuyển nhượng trong câu không phải ngoại lệ. Sự có mặt, giá trị tài sản hay nơi đăng ký không mở rộng phạm vi địa bàn. Phải lựa chọn cấu trúc giao dịch và tổ chức có thẩm quyền phù hợp; không chứng nhận cả hợp đồng theo đề nghị này.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -468,7 +478,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -506,7 +518,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 2 Điều 45 đặt trần thông thường hai ngày làm việc; hồ sơ phức tạp có thể kéo dài nhưng không quá mười ngày làm việc. Khoản 1 loại thời gian xác minh, giám định, niêm yết khỏi cách tính. Câu đã loại các tình huống đó và lý do thỏa thuận bằng văn bản, nên không lấy trần dành cho hồ sơ phức tạp làm thời hạn chung.",
+    "explanation": "Khoản 2 Điều 45 đặt trần thông thường hai ngày làm việc; hồ sơ phức tạp có thể kéo dài nhưng không quá mười ngày làm việc. Khoản 1 loại thời gian xác minh, giám định, niêm yết khỏi cách tính. Câu đã loại các tình huống đó và lý do thỏa thuận bằng văn bản, nên không lấy trần dành cho hồ sơ phức tạp làm thời hạn chung.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -538,7 +550,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -696,7 +710,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 49 cho tổ chức thực hiện yêu cầu thông qua đại diện theo pháp luật hoặc theo ủy quyền. Phải phân biệt việc chuyển/nộp giấy tờ với quyền nhân danh tổ chức tham gia giao dịch. Không suy từ quan hệ lao động ra quyền đại diện, và cũng không loại đại diện theo ủy quyền mà luật thừa nhận.",
+    "explanation": "Khoản 1 Điều 49 cho tổ chức thực hiện yêu cầu thông qua đại diện theo pháp luật hoặc theo ủy quyền. Phải phân biệt việc chuyển/nộp giấy tờ với quyền nhân danh tổ chức tham gia giao dịch. Không suy từ quan hệ lao động ra quyền đại diện, và cũng không loại đại diện theo ủy quyền mà luật thừa nhận.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -722,7 +736,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -878,7 +894,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 1 Điều 57 hiện hành ghi việc chứng nhận tiếp vào bản gốc và gửi một bản gốc văn bản công chứng hoàn tất cho tổ chức nơi bên ủy quyền công chứng để lưu. Không thay nghĩa vụ gửi bằng bản chụp theo ý chí của Y. Câu hỏi rõ tháng 10/2026; không lấy quy định sửa từ 01/01/2027 để giải thủ tục đang áp dụng.",
+    "explanation": "Khoản 1 Điều 57 hiện hành ghi việc chứng nhận tiếp vào bản gốc và gửi một bản gốc văn bản công chứng hoàn tất cho tổ chức nơi bên ủy quyền công chứng để lưu. Không thay nghĩa vụ gửi bằng bản chụp theo ý chí của Y. Câu hỏi rõ tháng 10/2026; không lấy quy định sửa từ 01/01/2027 để giải thủ tục đang áp dụng.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -904,7 +920,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1100,7 +1118,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 7 Điều 42 quy định người yêu cầu ký từng trang và ký, ghi đủ họ tên tại trang cuối (đóng dấu tổ chức nếu có). Dấu giáp lai phục vụ tính toàn vẹn văn bản không tự là phương thức thay chữ ký cá nhân. Câu đã loại điểm chỉ và ngoại lệ nên cần hoàn thiện đúng cách ký trước khi CCV ký lời chứng.",
+    "explanation": "Khoản 7 Điều 42 quy định người yêu cầu ký từng trang và ký, ghi đủ họ tên tại trang cuối (đóng dấu tổ chức nếu có). Dấu giáp lai phục vụ tính toàn vẹn văn bản không tự là phương thức thay chữ ký cá nhân. Câu đã loại điểm chỉ và ngoại lệ nên cần hoàn thiện đúng cách ký trước khi CCV ký lời chứng.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -1126,7 +1144,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1219,7 +1239,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định đúng mốc thời gian, tư cách chủ thể và phạm vi điều khoản được hỏi.\n\nKhoản 4 Điều 20 giao nhiệm vụ cho Hội đồng. Điểm a khoản 4 Điều 29 quy định Hội đồng chỉ đạo Ban Thư ký đặt hàng; điểm c quy định Ban Đề thi nhận Bộ câu hỏi và rà soát để xây dựng đề. Phân biệt vai trò quyết định/chỉ đạo, đặt hàng giúp việc và rà soát đề; không gộp tất cả thành thẩm quyền riêng của Ban Thư ký hay Ban Đề thi.",
+    "explanation": "Khoản 4 Điều 20 giao nhiệm vụ cho Hội đồng. Điểm a khoản 4 Điều 29 quy định Hội đồng chỉ đạo Ban Thư ký đặt hàng; điểm c quy định Ban Đề thi nhận Bộ câu hỏi và rà soát để xây dựng đề. Phân biệt vai trò quyết định/chỉ đạo, đặt hàng giúp việc và rà soát đề; không gộp tất cả thành thẩm quyền riêng của Ban Thư ký hay Ban Đề thi.",
     "legalBasis": [
       {
         "document": "Thông tư số 06/2025/TT-BTP",
@@ -1259,7 +1279,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   }
 ]

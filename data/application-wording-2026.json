@@ -401,16 +401,17 @@
       "id": "CC-054",
       "sourceSha256": "f727ddb7e1b255237b681f88a448caf5fd31e884c81733e93e9d7598837fa18d",
       "variants": [
-        "Từ 01/01/2027: ngoại lệ địa bàn của văn bản ủy quyền có tự mở rộng sang hợp đồng bán nhà do người được ủy quyền ký không?",
+        "Từ 01/01/2027: Ngoại lệ địa bàn của văn bản ủy quyền có tự mở rộng sang hợp đồng bán nhà do người được ủy quyền ký không?",
         "Từ 01/01/2027: Văn bản ủy quyền quyền đối với nhà tỉnh B được công chứng ở C; bên đại diện muốn bán chính nhà ở C. Hai loại giao dịch có cùng được hưởng ngoại lệ chỉ nhờ đại diện không?"
       ]
     },
     {
       "id": "CC-055",
-      "sourceSha256": "9677a21e1225a911c969ac383f2ee4286cd7713c1c063cef2650d76de92f1b19",
+      "sourceSha256": "25db1e1a38190283e649e070b1e8c145cf9c0a49c9a2ddb150d2a7f9d1c449f8",
       "variants": [
-        "Từ 01/01/2027: Người có thể ký vẫn muốn điểm chỉ cùng chữ ký. Luật mới cho phép dựa vào yêu cầu của ai?",
-        "Từ 01/01/2027: Khách đề nghị vừa ký vừa điểm chỉ để bảo đảm nhận diện, dù giao dịch không phải bất động sản. Căn cứ thực hiện đồng thời theo luật mới là gì?"
+        "Từ 01/01/2027, bà H ký được nhưng đề nghị điểm chỉ thêm để tăng khả năng nhận diện. Hồ sơ không thuộc trường hợp điểm chỉ thay ký. Nhân viên nói chỉ công chứng viên mới được yêu cầu việc này. Căn cứ nào phù hợp?",
+        "Từ 01/01/2027, người yêu cầu ký được, muốn đồng thời điểm chỉ trên văn bản. Giao dịch không phải bất động sản. Chọn nhận định đúng về cơ sở thực hiện điểm chỉ bổ sung.",
+        "Từ 01/01/2027, văn phòng chỉ cho điểm chỉ cùng chữ ký khi công chứng viên yêu cầu hoặc hợp đồng có bất động sản. Khách ký được vẫn chủ động đề nghị điểm chỉ. Quy tắc nào cần áp dụng?"
       ]
     },
     {
@@ -472,7 +473,7 @@
       "sourceSha256": "ce317e0e8be42036661752738c83eb37b21bab3b33f5433fb9e649d18a241156",
       "variants": [
         "Từ 01/01/2027: Chỉ lưu công chứng viên, tổ chức và giao dịch đã công chứng có đủ các nhóm tại khoản 1 Điều 66 mới nếu loại tình trạng tài sản, ngăn chặn, cảnh báo và hồ sơ không?",
-        "Từ 01/01/2027: Đơn vị thiết kế loại cả cảnh báo, tình trạng giao dịch tài sản và tài liệu hồ sơ vì không phải giao dịch đã hoàn tất. thiếu những nhóm nào?"
+        "Từ 01/01/2027: Đơn vị thiết kế loại cả cảnh báo, tình trạng giao dịch tài sản và tài liệu hồ sơ vì không phải giao dịch đã hoàn tất. Thiếu những nhóm nào?"
       ]
     },
     {
@@ -590,7 +591,7 @@
     },
     {
       "id": "CC-082",
-      "sourceSha256": "a36462a92d9f7a023365ab200a304290b34c0da7ce8410678801c8424728f1de",
+      "sourceSha256": "0dbf896db2809ee9e18ca7c351be8ca4ec74b2633073d874d6ff398b29e48d1f",
       "status": "archived",
       "reason": "Các phương án chỉ là số điều luật; không kiểm tra cách xử lý tình huống."
     },
@@ -636,10 +637,11 @@
     },
     {
       "id": "CC-088",
-      "sourceSha256": "b442c1b0dbc8af61f559e8389217ebf7c1de5c125d72048faeac81b16a30b508",
+      "sourceSha256": "53164eaf0e9d005299267045e2fbec5117498d11c73915af5c87051b2afcd101",
       "variants": [
-        "Tháng 10/2026: Điều 53 xác định thủ tục công chứng sửa đổi, bổ sung, chấm dứt, hủy bỏ giao dịch đã công chứng theo nhóm thủ tục nào?",
-        "Tháng 10/2026: Các bên đã thống nhất văn bản sửa hợp đồng, muốn coi chứng nhận sửa là thủ tục đăng ký doanh nghiệp hoặc tố tụng. Thủ tục công chứng đúng là gì?"
+        "Tháng 10/2026: Hai bên cùng đề nghị sửa hợp đồng đã công chứng và nộp dự thảo thỏa thuận. Nhân viên muốn chỉ đóng dấu xác nhận phụ lục vì hồ sơ gốc đã được kiểm tra. Chọn cách thực hiện thủ tục công chứng lần này.",
+        "Tháng 10/2026: Các bên chấm dứt bằng thỏa thuận một giao dịch đã công chứng, các điều kiện khác đã đủ. Họ cho rằng không cần kiểm tra ý chí và ký theo thủ tục giao dịch vì văn phòng đã giữ hồ sơ cũ. Quy trình nào đúng?",
+        "Tháng 10/2026: Văn phòng tiếp nhận thỏa thuận bổ sung giao dịch đã công chứng. Người yêu cầu muốn dùng thủ tục sửa lỗi kỹ thuật cho thuận tiện dù đang thay nội dung quyền, nghĩa vụ. Chọn quy trình công chứng phù hợp."
       ]
     },
     {
@@ -738,7 +740,7 @@
       "variants": [
         "Tháng 10/2026: Một câu single trong đề kiểm tra có bốn phương án, nhưng đối chiếu luật cho thấy hai phương án đều đúng trong toàn bộ giả thiết của câu dẫn. Nhóm soạn đề muốn giữ câu bằng cách chỉ đánh dấu một phương án trên phần mềm. Chỉ xét tiêu chuẩn khoản 3 Điều 29 TT06/2025, đánh giá nào đúng?",
         "Tháng 10/2026: Khi biên soạn câu single phần mềm đặt một khóa nhưng hai phương án đều đúng với giả thiết. Phải xử lý chất lượng nội dung thế nào?",
-        "Tháng 10/2026: Người phản biện chứng minh phương án ngoài khóa cũng đúng trong câu single. Ban soạn đề chỉ định giữ khóa cũ và khóa thao tác chọn một phương án. giải pháp nào phù hợp?"
+        "Tháng 10/2026: Người phản biện chứng minh phương án ngoài khóa cũng đúng trong câu single. Ban soạn đề chỉ định giữ khóa cũ và khóa thao tác chọn một phương án. Giải pháp nào phù hợp?"
       ]
     },
     {
@@ -746,7 +748,7 @@
       "sourceSha256": "244808ea6c24bcaf339afcd1027827dd15547659ca95effc7e8cd87b8db91add",
       "variants": [
         "Tháng 10/2026: A đã được công nhận hoàn thành tập sự nhưng quyết định công nhận sau đó bị hủy bỏ. A dùng bản sao quyết định cũ để đăng ký kiểm tra và nói chỉ cần đã từng hoàn thành tập sự. Chỉ xét tình trạng này, hướng xử lý đúng là gì?",
-        "Tháng 10/2026: người có quyết định công nhận hoàn thành tập sự đã bị hủy bỏ có thể dựa riêng vào kết quả cũ để đăng ký kiểm tra không?",
+        "Tháng 10/2026: Người có quyết định công nhận hoàn thành tập sự đã bị hủy bỏ có thể dựa riêng vào kết quả cũ để đăng ký kiểm tra không?",
         "Tháng 10/2026: B xuất trình bản sao công nhận tập sự còn nguyên dấu, nhưng cơ quan đã hủy quyết định ấy và B chưa có kết quả mới hợp lệ. Chỉ xét điều kiện Điều 16 TT06/2025, chọn kết luận nào?"
       ]
     },
@@ -798,9 +800,9 @@
       "id": "SRC26-014",
       "sourceSha256": "9f924c6d19a1274e6ed1cc777403b6063c42c67b17b33e655aafc7272ef88a42",
       "variants": [
-        "Tháng 10/2026, bên ủy quyền đã được chứng nhận đề nghị ủy quyền ở X; bên được ủy quyền được Y chứng nhận tiếp vào bản gốc để hoàn thành công chứng. Y nói chỉ gửi bản chụp cho X là đủ thủ tục lưu hồ sơ. nhận định nào đúng?",
+        "Tháng 10/2026, bên ủy quyền đã được chứng nhận đề nghị ủy quyền ở X; bên được ủy quyền được Y chứng nhận tiếp vào bản gốc để hoàn thành công chứng. Y nói chỉ gửi bản chụp cho X là đủ thủ tục lưu hồ sơ. Nhận định nào đúng?",
         "Tháng 10/2026: Khi X chứng nhận bên ủy quyền và Y chứng nhận tiếp bên được ủy quyền, khoản 1 Điều 57 yêu cầu Y gửi tài liệu gì cho X để lưu hồ sơ?",
-        "Tháng 10/2026: Y đã hoàn tất hợp đồng ủy quyền được X chứng nhận trước, đề nghị thay việc gửi bản gốc cho X bằng bản quét để tiết kiệm bưu phí. nghĩa vụ của Y là gì?"
+        "Tháng 10/2026: Y đã hoàn tất hợp đồng ủy quyền được X chứng nhận trước, đề nghị thay việc gửi bản gốc cho X bằng bản quét để tiết kiệm bưu phí. Nghĩa vụ của Y là gì?"
       ]
     },
     {
@@ -808,7 +810,7 @@
       "sourceSha256": "ffc9b45425ce30028d08283bc8e80fd31550509be108c342d451737adaf28064",
       "variants": [
         "Tháng 10/2026: Dự thảo giao dịch giấy ba trang đã được người yêu cầu đồng ý đầy đủ. Không áp dụng điểm chỉ hay ngoại lệ chữ ký mẫu. Người yêu cầu muốn chỉ ký trang cuối, cho rằng các trang đầu đã được đóng dấu giáp lai nên khỏi ký. Chỉ xét cách ký của người yêu cầu, xử lý nào đúng?",
-        "Tháng 10/2026: người yêu cầu đã đồng ý dự thảo giấy nhiều trang, không thuộc ngoại lệ ký hoặc điểm chỉ. Dấu giáp lai có thay được việc ký từng trang không?",
+        "Tháng 10/2026: Người yêu cầu đã đồng ý dự thảo giấy nhiều trang, không thuộc ngoại lệ ký hoặc điểm chỉ. Dấu giáp lai có thay được việc ký từng trang không?",
         "Tháng 10/2026: Hợp đồng giấy bốn trang đã đồng ý toàn bộ; người yêu cầu chỉ ký và ghi tên ở trang cuối rồi xin giáp lai thay chữ ký ba trang đầu. Không có ngoại lệ, công chứng viên phải yêu cầu hoàn thiện thế nào?"
       ]
     },
@@ -823,19 +825,19 @@
     },
     {
       "id": "VER26-003",
-      "sourceSha256": "8a965eda780aab287d6c942408da05b2712ba849cf715e51ec12eafc78f36687",
+      "sourceSha256": "a6b2d9addb63c76b250b05ebfd1035514954a828c253e50515c9a77fda8380f6",
       "variants": [
         "Tháng 10/2026: Hồ sơ chưa phù hợp quy định nên công chứng viên từ chối tiếp nhận. Người yêu cầu đề nghị được biết lý do. Công chứng viên phải làm gì?",
-        "Tháng 10/2026: từ chối tiếp nhận hồ sơ không phù hợp pháp luật có kèm nghĩa vụ thông báo lý do không?",
+        "Tháng 10/2026: Từ chối tiếp nhận hồ sơ không phù hợp pháp luật có kèm nghĩa vụ thông báo lý do không?",
         "Tháng 10/2026: Khách hàng chưa được tiếp nhận hồ sơ và chưa nộp phí, nhưng xin biết vì sao bị trả hồ sơ. Nghĩa vụ giải thích của công chứng viên được thực hiện thế nào?"
       ]
     },
     {
       "id": "VER26-010",
-      "sourceSha256": "51878e19afed3c4967cf5c5cab27ecff76e060ef6aeeace8f520173b900bba75",
+      "sourceSha256": "2fbe7d70a8fc7e8eba1d4a35928a03c6582283a1eff50cf33a3faf43f3979f74",
       "variants": [
         "Tháng 10/2026: Người yêu cầu thuộc trường hợp cần người làm chứng nhưng không mời được; công chứng viên cũng không chỉ định được người đủ điều kiện. Xử lý nào đúng?",
-        "Tháng 10/2026: nếu bắt buộc có người làm chứng nhưng cả người yêu cầu và công chứng viên đều không tìm được người đủ điều kiện thì xử lý ra sao?",
+        "Tháng 10/2026: Nếu bắt buộc có người làm chứng nhưng cả người yêu cầu và công chứng viên đều không tìm được người đủ điều kiện thì xử lý ra sao?",
         "Tháng 10/2026: Người không đọc được không mời được người làm chứng; người do văn phòng dự kiến chỉ định cũng không đạt điều kiện và không có người khác. Có thể thay bằng cam đoan để tiếp tục không?"
       ]
     },
@@ -844,13 +846,13 @@
       "sourceSha256": "77ff533291560282144710b0a751462d51ffcc7c4735794ef9338a915040de41",
       "variants": [
         "Tháng 10/2026: Hợp đồng ghi nhầm giá từ 3 tỷ thành 300 triệu; các bên muốn gọi đó là lỗi đánh máy và sửa theo thủ tục lỗi kỹ thuật. Lựa chọn nào phù hợp?",
-        "Tháng 10/2026: nhầm số tiền làm thay đổi nghĩa vụ thanh toán có thể được xử lý như lỗi kỹ thuật không?",
+        "Tháng 10/2026: Nhầm số tiền làm thay đổi nghĩa vụ thanh toán có thể được xử lý như lỗi kỹ thuật không?",
         "Tháng 10/2026: Văn bản công chứng ghi giá 300 triệu thay vì 3 tỷ; dù cả hai bên xác nhận do gõ thiếu số, sửa như vậy ảnh hưởng nghĩa vụ thanh toán. Được dùng thủ tục lỗi kỹ thuật không?"
       ]
     },
     {
       "id": "VER26-014",
-      "sourceSha256": "e61d8918a1c0d46270cbc0ff0f8a7bf0f0118e5469be7c1283ff1c31543fbab5",
+      "sourceSha256": "0c590d97f2d69b640bc445b435c80be12ddf6c07de308a9d92f116ed8478d413",
       "variants": [
         "Tháng 10/2026: Hai bên đã công chứng hợp đồng; sau đó chỉ bên bán yêu cầu công chứng văn bản thỏa thuận chấm dứt, bên mua không đồng ý; không có ngoại lệ luật định. Cách xử lý đúng?",
         "Tháng 10/2026: Không có ngoại lệ luật định, công chứng thỏa thuận chấm dứt hợp đồng đã công chứng cần sự đồng ý của các bên như thế nào?",
@@ -877,10 +879,10 @@
     },
     {
       "id": "VER26-018",
-      "sourceSha256": "7f4298e20117370a2e9144db4e51dd59ffe65e838501b541d7bf4760d4402e6a",
+      "sourceSha256": "8cdddc77d546beffdab3e49a7baf0516a28048a37903f966a0a6e3d1f3882c7c",
       "variants": [
         "Tháng 10/2026: Khách hàng đề nghị ghi thêm giờ, phút công chứng để phân biệt hai giao dịch cùng ngày. Đánh giá nào đúng?",
-        "Tháng 10/2026: yêu cầu ghi thêm giờ, phút có được chấp nhận và có thay phần ngày, tháng, năm không?",
+        "Tháng 10/2026: Yêu cầu ghi thêm giờ, phút có được chấp nhận và có thay phần ngày, tháng, năm không?",
         "Tháng 10/2026: Hai giao dịch được công chứng cùng ngày nên khách hàng muốn ghi giờ, phút để xác định thứ tự. Thời điểm phải được ghi thế nào?"
       ]
     },
@@ -895,10 +897,10 @@
     },
     {
       "id": "VER26-023",
-      "sourceSha256": "6e33337d83b515e44a93b64f496b6ccdf5cbcfdf13dc8388e6bb60edca842ca1",
+      "sourceSha256": "0e17c2eccd77c72b885c08a9498894d95c32b6fdb1bc59cae06d6dba44e18cbb",
       "variants": [
         "Tháng 10/2026: Vợ bán tài sản riêng, dùng toàn bộ tiền đó mua đất; nguồn tiền riêng được chứng minh, không có thỏa thuận nhập chung. Đất mới được xác định thế nào?",
-        "Tháng 10/2026: tài sản mua hoàn toàn từ tài sản riêng có nguồn gốc được chứng minh và chưa nhập chung được xác định thế nào?",
+        "Tháng 10/2026: Tài sản mua hoàn toàn từ tài sản riêng có nguồn gốc được chứng minh và chưa nhập chung được xác định thế nào?",
         "Tháng 10/2026: Vợ bán đất được cho riêng rồi dùng đúng khoản tiền đó mua thửa khác, có đủ chứng từ và không thỏa thuận nhập chung. Mua trong hôn nhân có làm thửa mới thành chung không?"
       ]
     },
@@ -922,10 +924,10 @@
     },
     {
       "id": "VER26-033",
-      "sourceSha256": "2ced8a38bdb60e9c77db1470a3d11192c07778fbb21d43cafa8b3e59ca6fb5da",
+      "sourceSha256": "ca7e84fc105b381ec18e27c2ff8d7ea793d0be39ca80abf6f5ebeb2c2c1cfd6a",
       "variants": [
         "Tháng 10/2026: Sau khi chia tài sản chung hợp pháp, căn hộ được chia riêng cho vợ và phát sinh tiền thuê; không có thỏa thuận khác. Tiền thuê sau chia được xác định thế nào?",
-        "Tháng 10/2026: lợi tức từ tài sản riêng sau chia tài sản chung được xác định thế nào nếu không có thỏa thuận khác?",
+        "Tháng 10/2026: Lợi tức từ tài sản riêng sau chia tài sản chung được xác định thế nào nếu không có thỏa thuận khác?",
         "Tháng 10/2026: Vợ chồng chia chung hợp pháp, căn hộ thành riêng của chồng. Tiền thuê phát sinh sau chia và không có thỏa thuận khác. Còn hôn nhân có khiến tiền thuê mặc nhiên là chung không?"
       ]
     },
@@ -939,10 +941,10 @@
     },
     {
       "id": "VER26-037",
-      "sourceSha256": "c2c6290acfe22282cc653b7c485fc3255a044ec9294450b0a7076d0754f3a599",
+      "sourceSha256": "7c1520905289a7947e797c8cdad1ad405d698696c24b534b68480c52d0def847",
       "variants": [
         "Tháng 10/2026: Hai bên lập thỏa thuận chế độ tài sản có công chứng ngày 01/10, đăng ký kết hôn ngày 20/10. Chế độ theo thỏa thuận được xác lập từ khi nào?",
-        "Tháng 10/2026: Thỏa thuận chế độ tài sản được công chứng ngày 01/10 và đăng ký kết hôn ngày 20/10. chế độ này được xác lập khi nào?",
+        "Tháng 10/2026: Thỏa thuận chế độ tài sản được công chứng ngày 01/10 và đăng ký kết hôn ngày 20/10. Chế độ này được xác lập khi nào?",
         "Tháng 10/2026: Ngày 01/10 hai người hoàn tất công chứng thỏa thuận trước hôn nhân, đến 20/10 mới đăng ký kết hôn. Một bên muốn áp dụng chế độ tài sản ngay từ 01/10. Mốc đúng là gì?"
       ]
     },
@@ -969,7 +971,7 @@
       "sourceSha256": "fec2f6893a4c270f33cc0023f8e93bd55e48daa50205177e6e871e7f70a0232f",
       "variants": [
         "Tháng 10/2026: Đất đang có tranh chấp chưa được cơ quan có thẩm quyền giải quyết; bên bán có giấy chứng nhận và đề nghị công chứng chuyển nhượng, nói bên mua biết tranh chấp. Kết luận nào đúng?",
-        "Tháng 10/2026: đất đang tranh chấp chưa được giải quyết có đáp ứng điều kiện chuyển nhượng chỉ nhờ có giấy chứng nhận không?",
+        "Tháng 10/2026: Đất đang tranh chấp chưa được giải quyết có đáp ứng điều kiện chuyển nhượng chỉ nhờ có giấy chứng nhận không?",
         "Tháng 10/2026: Bên mua nhận giá thấp và biết đất đang tranh chấp chưa được giải quyết, đồng ý tự chịu rủi ro. Có giấy chứng nhận có đủ để khắc phục điều kiện tranh chấp không?"
       ]
     },
@@ -1005,7 +1007,7 @@
       "sourceSha256": "4b7192e394f1a33b9988d3f7015227d1b8eff58057dde6d21b282bc7fe9826d8",
       "variants": [
         "Tháng 10/2026: Đất được giao theo chính sách tại khoản 3 Điều 16; chủ đất là người dân tộc thiểu số muốn bán cho người không thuộc hàng thừa kế. Người mua cũng thuộc hộ nghèo dân tộc thiểu số. Đủ điều kiện Điều 48 chưa?",
-        "Tháng 10/2026: Đối với đất giao người nhận là hộ nghèo dân tộc thiểu số nhưng không thuộc hàng thừa kế của người được giao có đủ điều kiện Điều 48 không?",
+        "Tháng 10/2026: Đối với đất được giao theo khoản 3 Điều 16, người nhận là hộ nghèo dân tộc thiểu số nhưng không thuộc hàng thừa kế của người được giao có đủ điều kiện Điều 48 không?",
         "Tháng 10/2026: Người được giao đất chính sách định bán cho hàng xóm là người dân tộc thiểu số nghèo ở vùng thuộc chính sách, nhưng hàng xóm không thuộc hàng thừa kế. Còn điều kiện nào thiếu?"
       ]
     },
@@ -1098,11 +1100,11 @@
     },
     {
       "id": "VER26-079",
-      "sourceSha256": "b2ccd370b5fa0676755708592c7ca915ca1fc3f9d1701326068a9f1a20eef6a2",
+      "sourceSha256": "7d5d2ef2c62189e4dc35fb9fe7a914a36953f5b6b585426a83384cbdeecbabe2",
       "variants": [
-        "Tháng 10/2026: Hồ sơ thừa kế theo pháp luật chỉ có một người thừa kế. Người đó yêu cầu bỏ niêm yết vì không có ai để chia cùng. xử lý đúng?",
+        "Tháng 10/2026: Hồ sơ thừa kế theo pháp luật chỉ có một người thừa kế. Người đó yêu cầu bỏ niêm yết vì không có ai để chia cùng. Xử lý đúng?",
         "Tháng 10/2026: Theo khoản 4, khoản 5 Điều 59, hồ sơ nhận thừa kế theo pháp luật chỉ có một người có được miễn niêm yết chỉ vì không phải chia với ai không?",
-        "Tháng 10/2026: Người thừa kế duy nhất xin cam đoan không còn ai thay thủ tục niêm yết. Xét riêng lý do chỉ có một người công chứng viên xử lý thế nào?"
+        "Tháng 10/2026: Người thừa kế duy nhất xin cam đoan không còn ai thay thủ tục niêm yết. Xét riêng lý do chỉ có một người, công chứng viên xử lý thế nào?"
       ]
     },
     {
@@ -1178,19 +1180,20 @@
     },
     {
       "id": "IMP-SEP24-017",
-      "sourceSha256": "a6976ca9d59171004b92a6dae2bef694779306a612d55114a98ef2224d39c417",
+      "sourceSha256": "5b0103b36cce2a19a0f96bc989ff6472cea6c7bd353f1e2ae2579c66f9696fcd",
       "variants": [
-        "Tháng 10/2026: Người tập sự chỉ tự ký nhật ký hàng ngày và dự định xin Sở Tư pháp xác nhận khi kết thúc. Để hoàn thiện việc xác nhận sổ theo TT06/2025, cần những chủ thể và nhịp xác nhận nào?",
-        "Tháng 10/2026: Tổ chức nhận tập sự đang xây quy trình kiểm tra nhật ký từ trong quá trình tập sự đến lúc kết thúc. Chọn cách phân công xác nhận đáp ứng luật thay vì chỉ xin một chữ ký ở ngày bắt đầu."
+        "Tháng 10/2026: H ghi nhật ký tập sự mỗi ngày và được công chứng viên hướng dẫn xác nhận hằng tuần. Khi kết thúc tập sự, tổ chức nhận tập sự cho rằng đã đủ chữ ký nên không cần xác nhận nữa. Phương án nào hoàn tất đúng trách nhiệm xác nhận sổ?",
+        "Tháng 10/2026: Tổ chức nhận tập sự muốn cuối kỳ xác nhận một lần vào sổ nhật ký để thay cho việc công chứng viên hướng dẫn xác nhận trong quá trình tập sự. Hằng ngày người tập sự vẫn ghi đủ công việc. Cách phân công xác nhận nào đúng?",
+        "Tháng 10/2026: H đề nghị người hướng dẫn ký sổ nhật ký vào ngày cuối mỗi tháng và tổ chức xác nhận cuối kỳ. Người hướng dẫn cho rằng nội dung đầy đủ quan trọng hơn nhịp xác nhận. Chọn quy trình xác nhận phù hợp."
       ]
     },
     {
       "id": "IMP-SEP24-020",
-      "sourceSha256": "3433b1f1350e8ce0eaa1202dfd8f654f8d5504876d01a954b89cc7530dda6693",
+      "sourceSha256": "69479dadbf5b6091a8a653c244d461ec499ef4493208286a59fe55eae9507a0a",
       "variants": [
-        "Tháng 10/2026: Một người bị Tòa án tuyên mất năng lực hành vi dân sự, không có người giám hộ. Vợ người đó đủ điều kiện làm giám hộ; con cả cũng đủ điều kiện. Ai là giám hộ đương nhiên theo thứ tự luật định?",
-        "Tháng 10/2026: Con cả yêu cầu làm giám hộ đương nhiên cho cha bị Tòa án tuyên mất năng lực vì mình trẻ hơn mẹ. Không có người giám hộ theo khoản 2 Điều 48; mẹ là vợ người mất năng lực và đủ điều kiện giám hộ, con cả cũng đủ điều kiện. Ai được xác định theo thứ tự luật?",
-        "Tháng 10/2026: Gia đình phải chọn giám hộ đương nhiên cho người chồng đã bị tuyên mất năng lực. Không áp người giám hộ theo khoản 2 Điều 48; vợ và con cả đều đủ điều kiện. Có thể bỏ qua vợ để giao ngay cho cha hoặc các con không? Chọn người theo luật."
+        "Tháng 10/2026: Ông M bị Tòa án tuyên mất năng lực, không có người giám hộ theo khoản 2 Điều 48 BLDS. Vợ và con cả đều đủ điều kiện giám hộ; con cả hiện quản lý tài sản nên xin được ưu tiên. Ai là người giám hộ đương nhiên theo dữ kiện?",
+        "Tháng 10/2026: Bà H đủ điều kiện làm giám hộ cho chồng đã bị tuyên mất năng lực. Chồng không lựa chọn người giám hộ trước đó theo khoản 2 Điều 48. Con cả cũng đủ điều kiện và đang chăm sóc cha. Xác định người giám hộ đương nhiên trong trường hợp này.",
+        "Tháng 10/2026: Người chồng bị tuyên mất năng lực, không có người giám hộ theo khoản 2 Điều 48. Cả cha ruột, vợ và con cả đều đủ điều kiện. Gia đình muốn chọn ngay người đang giữ giấy tờ nhà. Thứ tự luật định dẫn đến lựa chọn nào?"
       ]
     },
     {
@@ -1231,10 +1234,11 @@
     },
     {
       "id": "IMP-T60-005",
-      "sourceSha256": "621a20f6a5677a4f70e49be643537651beac9cf1d42a0f712a2acdc65ba17120",
+      "sourceSha256": "7ef86567e029c81478eec0dfa3a2b679cf94596abd012c704cafc13729837155",
       "variants": [
-        "Tháng 10/2026: Một bảng phân loại ghi tài sản, việc phải làm và việc phải kiêng làm là đối tượng nghĩa vụ, còn thỏa thuận là căn cứ phát sinh. Chọn nhóm đối tượng đầy đủ theo BLDS.",
-        "Tháng 10/2026: Khi thiết kế nghĩa vụ giao tài sản, thực hiện dịch vụ và không thực hiện một hành vi, cần dùng nhóm khái niệm nào cho đối tượng nghĩa vụ thay vì liệt kê nguồn phát sinh như thỏa thuận hay bản án?"
+        "Tháng 10/2026: A giao máy cho B, B phải lắp đặt và giữ bí mật công nghệ đã nhận. Nhân viên xếp nghĩa vụ giữ bí mật ra ngoài nhóm đối tượng nghĩa vụ vì không đòi giao vật hoặc làm công việc. Cách phân loại nào bao quát đúng các cam kết?",
+        "Tháng 10/2026: Hợp đồng yêu cầu giao tài sản, bảo dưỡng máy và không tiết lộ thông tin kỹ thuật. Bảng phân loại chỉ ghi tài sản và công việc phải thực hiện. Chọn nhóm đối tượng nghĩa vụ đầy đủ để sửa bảng.",
+        "Tháng 10/2026: Người soạn hợp đồng đưa thỏa thuận và bản án vào mục đối tượng nghĩa vụ, còn cam kết không cạnh tranh vào mục căn cứ phát sinh. Khi tách đối tượng khỏi căn cứ phát sinh, nhóm khái niệm nào cần dùng?"
       ]
     },
     {
@@ -1257,7 +1261,7 @@
       "id": "IMP-T60-013",
       "sourceSha256": "b9dbfb8cad25651fc072cd4999668481ac2b5dfb56023bffb7de9a5f1ebeed0f",
       "variants": [
-        "Tháng 10/2026: Chủ sở hữu yêu cầu lấy lại tài sản từ người đang có quyền khác hợp pháp đối với tài sản đó. nhận định nào đúng?",
+        "Tháng 10/2026: Chủ sở hữu yêu cầu lấy lại tài sản từ người đang có quyền khác hợp pháp đối với tài sản đó. Nhận định nào đúng?",
         "Tháng 10/2026: Một người có quyền hưởng dụng hợp pháp còn hiệu lực đối với tài sản. Chủ sở hữu xuất trình giấy tờ sở hữu để yêu cầu lấy lại ngay, chỉ dựa vào tư cách chủ. Chọn giới hạn quyền đòi lại.",
         "Tháng 10/2026: Chủ sở hữu muốn thu hồi tài sản dù người đang chiếm hữu còn có quyền khác hợp pháp đối với tài sản ấy. Không có sự kiện chấm dứt quyền kia. Việc chủ sở hữu không muốn tiếp tục có đủ cho đòi lại ngay không?"
       ]
@@ -1281,11 +1285,11 @@
     },
     {
       "id": "IMP-T60-021",
-      "sourceSha256": "b44ed0e499befadab2b3ec4af7655cd0689209e653ec5109f4a656a8a416d9f1",
+      "sourceSha256": "951c428e119109642e55b029c971b4a691692e38c41c19e49d0216f98fda741e",
       "variants": [
-        "Tháng 10/2026: Hợp đồng bằng văn bản vi phạm yêu cầu công chứng, chứng thực. Khi các điều kiện khác của khoản 2 Điều 129 được đáp ứng, ngưỡng thực hiện nghĩa vụ để một bên có thể yêu cầu Tòa án công nhận là gì?",
-        "Tháng 10/2026: Một hợp đồng đã lập bằng văn bản nhưng thiếu công chứng, chứng thực bắt buộc. Để yêu cầu Tòa án công nhận khi các điều kiện khác đủ, mức thực hiện nghĩa vụ tối thiểu nào cần kiểm tra?",
-        "Tháng 10/2026: Các bên muốn khắc phục vi phạm yêu cầu công chứng, chứng thực của giao dịch bằng văn bản bằng yêu cầu Tòa án công nhận. Khoản đặt cọc bất kỳ hay thực hiện một nửa chưa đương nhiên đủ. Chọn ngưỡng thực hiện nghĩa vụ mà điều luật quy định."
+        "Tháng 10/2026: Hợp đồng thuộc diện phải công chứng đã lập bằng văn bản nhưng chưa công chứng. Một bên đã thực hiện 70% nghĩa vụ trong giao dịch; các điều kiện khác của khoản 2 Điều 129 BLDS được đáp ứng và có yêu cầu Tòa án công nhận. Ngưỡng luật định dùng để xem xét là gì?",
+        "Tháng 10/2026: Bên mua muốn Tòa án xem xét hợp đồng văn bản vi phạm yêu cầu công chứng. Hồ sơ xác định mức thực hiện 70% nghĩa vụ, đáp ứng các điều kiện khác của khoản 2 Điều 129. Bên bán nói phải thực hiện toàn bộ. Chọn ngưỡng pháp luật áp dụng.",
+        "Tháng 10/2026: Hợp đồng văn bản thiếu công chứng bắt buộc đã được một bên thực hiện 70% nghĩa vụ, có yêu cầu Tòa án và đủ các điều kiện khác của khoản 2 Điều 129. Không coi công nhận là tự động; mức thực hiện phải được đối chiếu với ngưỡng nào?"
       ]
     },
     {
@@ -1298,26 +1302,29 @@
     },
     {
       "id": "IMP-T60-030",
-      "sourceSha256": "849b0c0f85ff39e8666713e382947cadcc7e191cf1d89f712127be3323cf5845",
+      "sourceSha256": "4a6fce2afd7e787d6dfa8d1a99ac68774c8668152e1da6b419049380e86238dc",
       "variants": [
-        "Tháng 10/2026: Một người thân được chọn giám sát giám hộ có liên quan quản lý tài sản người được giám hộ, cho rằng quan hệ thân thích miễn đăng ký. Nếu phải đăng ký theo BLDS, nơi nào có thẩm quyền?",
-        "Tháng 10/2026: Nơi cư trú của người được giám hộ khác nơi người giám sát làm việc và nơi người giám hộ có tài sản. Việc giám sát có liên quan quản lý tài sản. Chọn địa chỉ đăng ký người giám sát theo luật."
+        "Tháng 10/2026: Người được giám hộ cư trú tại xã X, người giám hộ cư trú tại Y, tài sản quản lý ở Z. Việc giám sát giám hộ có liên quan quản lý tài sản. Cơ quan nào là nơi đăng ký người giám sát theo BLDS?",
+        "Tháng 10/2026: Gia đình đã chọn người giám sát việc quản lý tài sản của người được giám hộ. Người giám sát muốn đăng ký tại nơi tài sản tọa lạc dù người được giám hộ cư trú ở nơi khác. Nơi đăng ký đúng được xác định thế nào?",
+        "Tháng 10/2026: Người giám sát là họ hàng và đang làm việc ở tỉnh khác, việc giám sát có liên quan tài sản. Nhân viên đề xuất chỉ xác nhận quan hệ họ hàng để khỏi đăng ký. Phương án nào đúng về nơi đăng ký?"
       ]
     },
     {
       "id": "IMP-T60-036",
-      "sourceSha256": "e459115bb7320e2f08e3cdab9f4f54df4a1a500454a2116f13f43b4a486ba231",
+      "sourceSha256": "51a4e5eba37ed8563d1ece132e86514e475c13b18ba06407b632051df101ed0f",
       "variants": [
-        "Tháng 10/2026: Một danh mục nhà ở riêng lẻ đưa cả căn hộ chung cư cùng biệt thự, nhà liền kề và nhà độc lập trên thửa đất ở riêng biệt. Loại nào cần loại khỏi danh mục theo Luật Nhà ở?",
-        "Tháng 10/2026: Khi phân loại hồ sơ nhà ở, phải phân biệt một đơn vị trong tòa có phần chung với nhà xây trên thửa đất ở riêng biệt. Trong bốn loại liệt kê, loại nào không thuộc nhà ở riêng lẻ?"
+        "Tháng 10/2026: P lập danh mục gồm biệt thự, nhà liền kề, nhà độc lập trên các thửa đất ở riêng biệt và căn hộ trong tòa chung cư. P định áp cùng nhóm nhà ở riêng lẻ cho tất cả. Mục nào cần tách khỏi nhóm này?",
+        "Tháng 10/2026: Hồ sơ có ba nhà xây trên thửa đất ở riêng biệt và một căn hộ thuộc tòa nhà nhiều căn hộ, dùng chung lối đi, cầu thang. Khi rà phân loại nhà ở riêng lẻ, chọn loại phải loại khỏi danh mục.",
+        "Tháng 10/2026: Nhân viên xếp bất động sản vào nhà ở riêng lẻ chỉ vì người mua sẽ sở hữu riêng chỗ ở. Với bốn lựa chọn, trường hợp nào cho thấy tiêu chí sở hữu riêng đó chưa đủ để phân loại?"
       ]
     },
     {
       "id": "IMP-T60-041",
-      "sourceSha256": "cfe6b0807769a95479a2f34252acf3d7067137732d96b37ea440860b5ca27c2e",
+      "sourceSha256": "16db51275128d8554b44962ff68e4f59b5d7c28b0f52a1eb6b34899eb8ac624d",
       "variants": [
-        "Tháng 10/2026: Bên nhờ mang thai hộ nhân đạo cho rằng không phải trả chăm sóc sức khỏe sinh sản vì đây không phải dịch vụ có tiền công. Theo luật, nghĩa vụ chi phí nào vẫn phải thực hiện?",
-        "Tháng 10/2026: Hồ sơ mang thai hộ nhân đạo phát sinh chi phí thực tế bảo đảm sức khỏe sinh sản của bên mang thai hộ theo quy định. Bên nhờ muốn thay bằng khoản tượng trưng mình tự chọn. Chọn nghĩa vụ đúng."
+        "Tháng 10/2026: Thỏa thuận mang thai hộ nhân đạo không trả tiền công. Khi có chi phí chăm sóc sức khỏe sinh sản thực tế thuộc phạm vi quy định, bên nhờ từ chối trả vì cho rằng nhân đạo phải tự nguyện chịu phí. Nghĩa vụ đúng là gì?",
+        "Tháng 10/2026: Bên nhờ mang thai hộ đã thanh toán một số khoản cho cơ sở y tế, nhưng còn chi phí chăm sóc sức khỏe sinh sản thực tế theo quy định. Họ muốn dùng lý do không có tiền công để bác mọi khoản tiếp theo. Chọn nguyên tắc chi trả.",
+        "Tháng 10/2026: Khi rà thỏa thuận mang thai hộ nhân đạo, người soạn thay mục chi phí chăm sóc sức khỏe sinh sản bằng khoản tiền công cố định và miễn mọi chi phí thực tế. Chọn nghĩa vụ cần phản ánh đúng."
       ]
     },
     {
@@ -1338,23 +1345,25 @@
     },
     {
       "id": "IMP-T60-053",
-      "sourceSha256": "a98adc86bc12ad56f9020d4bf161e84a279709a4120cf8409fd75dc305241cac",
+      "sourceSha256": "f78ed4785ba0a62ec70ac18bea3135a6ac5a494e4e8223d5b264d9dda666f416",
       "variants": [
-        "Tháng 10/2026: Người giữ bản giấy chứng nhận cho rằng bản giấy là tài sản riêng giúp mình sở hữu đất, bất kể người có quyền được xác nhận. Để đánh giá, chọn bản chất pháp lý của giấy chứng nhận.",
-        "Tháng 10/2026: Khi giải thích vai trò giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, cần phân biệt xác nhận quyền hợp pháp với quyết định giá hoặc phán quyết tranh chấp. Mô tả nào đúng?"
+        "Tháng 10/2026: B giữ hộ bản gốc giấy chứng nhận đứng tên A, không được A ủy quyền. B muốn ký bán đất vì đang cầm giấy. Khi giải thích vì sao việc giữ giấy chưa tạo quyền bán của B, cần xác định đúng bản chất giấy chứng nhận như thế nào?",
+        "Tháng 10/2026: A giao giấy chứng nhận cho B cất giữ, không có giao dịch chuyển quyền. B đưa giấy đến văn phòng và cho rằng có thể tự nhân danh mình định đoạt đất. Cách hiểu nào đúng về giá trị pháp lý của giấy này?",
+        "Tháng 10/2026: Khi đối chiếu hồ sơ, nhân viên cho rằng cứ xuất trình bản gốc giấy chứng nhận thì người xuất trình có quyền bán, không cần kiểm tra chủ thể đứng tên và đại diện. Nhận định nào sửa đúng nhầm lẫn về bản chất giấy?"
       ]
     },
     {
       "id": "IMP-T60-060",
-      "sourceSha256": "83542957970d05ee8aaa46b96dffbaa64fd169ad3b1b53e632f9a04648f3d3a7",
+      "sourceSha256": "61b5335e1574a73cc05818bbdac13436195941abb295eb46d254b6d8017c22f1",
       "variants": [
-        "Tháng 10/2026: Một bảng ghép giao đất, cho thuê đất, công nhận quyền với chuyển nhượng và tặng cho giữa cá nhân dưới tên Nhà nước trao quyền. Nhóm hình thức nào thực sự thuộc việc Nhà nước trao quyền sử dụng đất?",
-        "Tháng 10/2026: Để phân biệt vai trò đại diện chủ sở hữu đất của Nhà nước với giao dịch của người sử dụng đất, chọn nhóm hoạt động Nhà nước trao quyền thay vì chuyển quyền giữa các cá nhân."
+        "Tháng 10/2026: Bảng thống kê ghi A được giao đất, B được Nhà nước cho thuê đất, C được công nhận quyền sử dụng đất; D mua lại đất của cá nhân. Khi tách các hình thức Nhà nước trực tiếp trao quyền khỏi việc nhận chuyển quyền, chọn nhóm nào?",
+        "Tháng 10/2026: D mua đất từ A rồi đăng ký biến động. Nhân viên coi việc cấp giấy sau mua là một hình thức Nhà nước giao đất, xếp cùng giao đất, thuê đất và công nhận quyền. Nhóm nào nêu đúng các hình thức Nhà nước trao quyền?",
+        "Tháng 10/2026: Một báo cáo dùng lẫn thuật ngữ giao đất, chuyển nhượng, cho thuê đất của Nhà nước và công nhận quyền sử dụng đất. Để phân biệt nguồn quyền từ Nhà nước với giao dịch giữa người sử dụng đất, chọn nhóm đầy đủ đúng."
       ]
     },
     {
       "id": "IMP-T60-062",
-      "sourceSha256": "e0e2953a4488973dcc291fb07205a2c609897c35a393dedf9f55e3d2314e76d0",
+      "sourceSha256": "bf28741b4262b5725efedcf60ca63895145e108a6ab9a38a8ed6f6e55b26dd95",
       "variants": [
         "Tháng 10/2026: Một chủ sở hữu muốn góp vốn bằng căn nhà sẽ xây trong tương lai. Chỉ xét điều kiện nhà ở để góp vốn, nhận định nào đúng?",
         "Tháng 10/2026: Chủ sở hữu trình bản vẽ căn nhà sẽ xây để góp vốn và nói người nhận vốn là thân nhân nên được chấp nhận. Chỉ xét điều kiện đối tượng nhà ở góp vốn, chọn kết luận đúng.",
@@ -1363,27 +1372,29 @@
     },
     {
       "id": "IMP-T60-071",
-      "sourceSha256": "d473760752df19197ee596317b141ba36fb99d91b29ec3bbd1774c51e779266b",
+      "sourceSha256": "91378cf335e39ba44cbbdc8b75b31cf077aed3e13200b0307d91520f3c9690bf",
       "variants": [
-        "Tháng 10/2026: Một danh sách người sử dụng đất đưa cá nhân nước ngoài cùng cá nhân trong nước, tổ chức ngoại giao theo luật và tổ chức kinh tế có vốn đầu tư nước ngoài. Chọn nhóm không có trong danh mục Điều 4 để sửa danh sách.",
-        "Tháng 10/2026: Khi nhận hồ sơ có yếu tố nước ngoài, không thể đồng nhất cá nhân với tổ chức. Trong bốn nhóm chủ thể sau, nhóm nào không được Điều 4 Luật Đất đai liệt kê là người sử dụng đất?"
+        "Tháng 10/2026: Bốn khách hàng có tư cách được nêu dưới đây muốn được xác định là người sử dụng đất theo Điều 4 Luật Đất đai. Hồ sơ của người nào không thể dựa riêng vào tư cách đó để xếp vào danh mục này?",
+        "Tháng 10/2026: Một cá nhân chỉ có quốc tịch nước ngoài viện dẫn việc tổ chức kinh tế có vốn đầu tư nước ngoài được sử dụng đất để xin áp cùng tư cách cho mình. Khi rà danh mục người sử dụng đất, lựa chọn nào nằm ngoài danh mục?",
+        "Tháng 10/2026: Đơn vị tư vấn lập danh sách gồm cá nhân trong nước và các chủ thể nước ngoài, rồi coi mọi chủ thể có liên hệ nước ngoài đều cùng tư cách. Trong bốn lựa chọn, đối tượng nào không thuộc danh mục người sử dụng đất?"
       ]
     },
     {
       "id": "IMP-T60-073",
-      "sourceSha256": "5abe1258f9703a949bdaec6051eb6417c4a2f4e599cf55114d24f3b8725be6f1",
+      "sourceSha256": "bbfe2a3a169f82350a196fdb71563c709384afa27787d4ed806cd6b32d2ebe97",
       "variants": [
         "Tháng 10/2026: Khai thác tài sản thuê khoán là nguồn sống duy nhất của bên thuê; bên thuê đã vi phạm nghĩa vụ nhưng việc tiếp tục thuê khoán không ảnh hưởng nghiêm trọng lợi ích bên cho thuê, và bên thuê cam kết không tiếp tục vi phạm. Bên cho thuê có được đơn phương chấm dứt theo khoản 2 Điều 492 không?",
-        "Tháng 10/2026: Bên cho thuê khoán muốn chấm dứt để cho người khác thuê giá cao hơn sau vi phạm của bên thuê. Khai thác là nguồn sống duy nhất của bên thuê, tiếp tục thuê không ảnh hưởng nghiêm trọng lợi ích bên cho thuê và bên thuê cam kết không tái phạm. chọn kết luận.",
-        "Tháng 10/2026: Hồ sơ thuê khoán đã xác định bên thuê vi phạm nhưng có đủ ba dữ kiện: tài sản khai thác là nguồn sống duy nhất, việc tiếp tục không ảnh hưởng nghiêm trọng lợi ích bên cho thuê, cam kết không tiếp tục vi phạm. Bên cho thuê dự định báo trước ba ngày để đơn phương chấm dứt. Phương án nào đúng?"
+        "Tháng 10/2026: Bên cho thuê khoán muốn chấm dứt để cho người khác thuê giá cao hơn sau vi phạm của bên thuê. Khai thác là nguồn sống duy nhất của bên thuê, tiếp tục thuê không ảnh hưởng nghiêm trọng lợi ích bên cho thuê và bên thuê cam kết không tái phạm. Chọn kết luận.",
+        "Tháng 10/2026: Hồ sơ thuê khoán đã xác định bên thuê vi phạm nhưng có đủ ba dữ kiện: Tài sản khai thác là nguồn sống duy nhất, việc tiếp tục không ảnh hưởng nghiêm trọng lợi ích bên cho thuê, cam kết không tiếp tục vi phạm. Bên cho thuê dự định báo trước ba ngày để đơn phương chấm dứt. Phương án nào đúng?"
       ]
     },
     {
       "id": "IMP-T60-076",
-      "sourceSha256": "3091d5a24786cd412940052d572a1901b8aaf06195282dc5e8cd802da4fbd085",
+      "sourceSha256": "41baf5b3f3feafa59d333e58f2f6948e9d2d2d2c9bfc1d42c0e09df60399285a",
       "variants": [
-        "Tháng 10/2026: Một bảng căn cứ chấm dứt quyền hưởng dụng gồm hết hạn, tài sản không còn, người hưởng trở thành chủ sở hữu và quyết định tùy ý của Sở Tư pháp không có căn cứ luật. Mục nào không thuộc căn cứ Điều 265?",
-        "Tháng 10/2026: Khi rà các sự kiện có thể kết thúc quyền hưởng dụng, cần phân biệt căn cứ pháp luật với quyết định không có thẩm quyền. Trong các trường hợp sau, chọn trường hợp không được Điều 265 liệt kê."
+        "Tháng 10/2026: A được hưởng dụng nhà của B trong thời hạn còn hiệu lực. B bán nhà cho C đúng luật; A không từ bỏ, nhà còn, không có thỏa thuận chấm dứt hay quyết định Tòa án hoặc căn cứ luật khác. Sự kiện nào trong bốn phương án không tự chấm dứt hưởng dụng?",
+        "Tháng 10/2026: C mua lại nhà đang có quyền hưởng dụng hợp pháp của A và cho rằng đổi chủ là đủ chấm dứt quyền của A. Thời hạn còn, không có căn cứ chấm dứt khác. Chọn sự kiện không thuộc căn cứ tự chấm dứt được nêu.",
+        "Tháng 10/2026: Khi rà điều khoản chấm dứt hưởng dụng, nhân viên bổ sung việc chủ sở hữu bán tài sản cho người khác, dù quyền còn hạn và không có thỏa thuận hay căn cứ luật khác. So với ba sự kiện còn lại, mục nào không tự làm quyền chấm dứt?"
       ]
     },
     {
@@ -1458,7 +1469,7 @@
     },
     {
       "id": "IMP-T60-099",
-      "sourceSha256": "1ee783c87c53b31580519f5b5a4c59409008deaed36645dd64096e05b305549e",
+      "sourceSha256": "eb3ce56c88cd2d4c7579b08f9952602e6270323b0e429a5c9db03f1bc5282056",
       "variants": [
         "Tháng 10/2026: Điều lệ công ty cổ phần có hạn chế chuyển nhượng, Giám đốc biết quy định này nhưng cổ phiếu tương ứng chưa thể hiện rõ. Chỉ xét hiệu lực hạn chế do điều lệ điều kiện nào còn cần đáp ứng?",
         "Tháng 10/2026: Công ty muốn áp dụng hạn chế chuyển nhượng ghi trong điều lệ cho một loại cổ phần. Không xét hạn chế riêng của cổ đông sáng lập, chọn yêu cầu thể hiện hạn chế để quy định điều lệ có hiệu lực với cổ phần tương ứng."
@@ -1466,11 +1477,11 @@
     },
     {
       "id": "IMP-T60-100",
-      "sourceSha256": "aed13b397beb7dfa33498c995c235e3a54da269d4a7e814c9311d9cff99fbcd3",
+      "sourceSha256": "a0b29e9dedb4809d6008fb6a16be86d84cbaa872a0feda7ad307cf0778f55e76",
       "variants": [
-        "Tháng 10/2026: Người bắt được gia súc thất lạc đã nuôi giữ đúng luật; gia súc sinh con và chủ sở hữu nhận lại gia súc. người này được hưởng gì?",
-        "Tháng 10/2026: Gia súc thất lạc được người bắt nuôi giữ đúng luật và sinh con trong thời gian đó. Chủ sở hữu quay lại nhận gia súc, muốn chỉ trả chi phí nuôi mà giữ hết con sinh ra. Riêng quyền đối với số sinh ra của người nuôi giữ là gì?",
-        "Tháng 10/2026: Khi chủ sở hữu nhận lại gia súc bị thất lạc đã được nuôi giữ đúng luật, người bắt yêu cầu hưởng cả con mẹ lẫn số sinh ra trong lúc giữ. Chọn phần được hưởng đối với gia súc bên cạnh chi phí luật định."
+        "Tháng 10/2026: H bắt được gia súc thất lạc, thông báo và nuôi giữ đúng luật. Trong thời gian giữ, gia súc sinh hai con; chủ đến nhận lại. Riêng quyền lợi của H đối với số sinh ra được xác định thế nào?",
+        "Tháng 10/2026: Chủ gia súc đề nghị nhận lại cả con mẹ và hai con được sinh trong thời gian người khác nuôi giữ đúng luật. Người giữ không đòi sở hữu con mẹ nhưng yêu cầu phần đối với số sinh ra. Nguyên tắc nào áp dụng?",
+        "Tháng 10/2026: Gia súc thất lạc sinh hai con trong thời gian được H nuôi giữ đúng thủ tục. Khi chủ nhận lại, hai bên không thống nhất giao con nào và muốn tính bằng giá trị. Chọn quy tắc về phần H được hưởng."
       ]
     },
     {
@@ -1479,7 +1490,7 @@
       "variants": [
         "Tháng 10/2026: Người tập sự bị áp dụng biện pháp xử lý hành chính và chấm dứt tập sự. Khi đủ điều kiện đăng ký lại, thời gian tập sự trước khi chấm dứt có được tính không?",
         "Tháng 10/2026: Người tập sự từng bị chấm dứt theo điểm g khoản 1 Điều 9 vì bị áp dụng biện pháp xử lý hành chính, nay đủ điều kiện đăng ký lại. Người hướng dẫn cũ đồng ý bảo lưu thời gian đã làm. Cách tính thời gian trước chấm dứt thế nào?",
-        "Tháng 10/2026: Khi lập tổng thời gian cho một lần tập sự đăng ký lại đủ điều kiện, người tập sự muốn coi đợt bị chấm dứt do biện pháp xử lý hành chính như tạm ngừng để giữ thời gian đã làm. chọn kết quả đúng."
+        "Tháng 10/2026: Khi lập tổng thời gian cho một lần tập sự đăng ký lại đủ điều kiện, người tập sự muốn coi đợt bị chấm dứt do biện pháp xử lý hành chính như tạm ngừng để giữ thời gian đã làm. Chọn kết quả đúng."
       ]
     },
     {
@@ -1495,17 +1506,17 @@
       "id": "IMP-SEP24-018",
       "sourceSha256": "927d1a9878b9932a9000372e4cf2ad33fd15b61733a58a732c04f5031cb3be87",
       "variants": [
-        "Tháng 10/2026: Đất đã được cấp giấy chứng nhận; người sử dụng thực hiện chuyển nhượng dự án có sử dụng đất. Theo danh mục, có thuộc trường hợp đăng ký biến động không?",
+        "Tháng 10/2026: Đất đã được cấp giấy chứng nhận; người sử dụng thực hiện chuyển nhượng dự án có sử dụng đất. Theo quy định về đăng ký biến động, có thuộc trường hợp đăng ký biến động không?",
         "Tháng 10/2026: Đất đã có giấy chứng nhận, người sử dụng chuyển nhượng dự án có sử dụng đất và cho rằng công chứng giao dịch thay được đăng ký biến động. Chọn nhận định về danh mục Điều 133(1a).",
         "Tháng 10/2026: Cơ quan tiếp nhận dự định chỉ yêu cầu đăng ký biến động khi chuyển nhượng đất giữa cá nhân, bỏ hồ sơ chuyển nhượng dự án có sử dụng đất đã cấp giấy chứng nhận. Việc bỏ loại hồ sơ này có phù hợp danh mục luật không?"
       ]
     },
     {
       "id": "IMP-SEP24-031",
-      "sourceSha256": "7ca488c66304a3eb9c95488cd3d5c9dd792c6fbe76fbd9e4d993f62ad42d7aee",
+      "sourceSha256": "9021f39720e6b3314f23bf7ab754a0438b42476f63402cbb2bbb0598cd1153cd",
       "variants": [
-        "Tháng 10/2026: Cá nhân hết thời hạn thuê đất nông nghiệp thuộc điểm b khoản 1 Điều 172 và vẫn có nhu cầu sử dụng. Cách xử lý nào phù hợp?",
-        "Tháng 10/2026: Cá nhân hết hạn thuê đất nông nghiệp vẫn muốn sử dụng và đề nghị tự kéo dài 99 năm. Theo nhánh đất thuê này, cách xử lý tiếp tục sử dụng nào đúng?",
+        "Bà H thuê đất nông nghiệp theo trường hợp quy định tại điểm b khoản 1 Điều 172 Luật Đất đai. Hết thời hạn thuê, bà vẫn trực tiếp sản xuất và nộp đề nghị tiếp tục thuê; một cán bộ nói cứ có nhu cầu thì đương nhiên được thuê thêm 99 năm. Hướng giải quyết nào đúng?",
+        "Tháng 10/2026: Cá nhân hết hạn thuê đất nông nghiệp theo điểm b khoản 1 Điều 172, vẫn muốn sử dụng và đề nghị tự kéo dài 99 năm. Theo nhánh đất thuê này, cách xử lý tiếp tục sử dụng nào đúng?",
         "Tháng 10/2026: Khi rà hồ sơ đất nông nghiệp cá nhân đang thuê theo điểm b khoản 1 Điều 172 đã hết hạn, cần phân biệt với đất được giao được tiếp tục sử dụng. Cá nhân còn nhu cầu. Chọn cơ chế Nhà nước xem xét phù hợp."
       ]
     },
@@ -1573,7 +1584,7 @@
     },
     {
       "id": "IMP-T60-057",
-      "sourceSha256": "5bcc9c3a5dfeba93bc2d9a84fc0886adff95acb129fb56ee549b7af24bf247a4",
+      "sourceSha256": "9d2e6285d47f177fbeff102b6901bb6c3205b43c6d11bec3a927b2fec44ffeb7",
       "variants": [
         "Tháng 10/2026: Đất chưa được cấp giấy chứng nhận. Văn bản nào trong các lựa chọn là một căn cứ xác định loại đất?",
         "Tháng 10/2026: Đất chưa có giấy chứng nhận; người lập hồ sơ muốn dùng hóa đơn xây nhà để xác định loại đất. Trong các giấy tờ dưới đây, văn bản nào là căn cứ pháp lý?",
@@ -1622,7 +1633,7 @@
       "variants": [
         "Tháng 10/2026: Tổ chức kinh tế có vốn đầu tư nước ngoài muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp, đáp ứng các điều kiện khác. Điều 28 có loại trừ khu vực này chỉ vì là cụm công nghiệp không?",
         "Tháng 10/2026: Tổ chức kinh tế có vốn đầu tư nước ngoài đủ các điều kiện khác muốn nhận chuyển nhượng quyền sử dụng đất trong cụm công nghiệp. Cán bộ dùng danh mục chỉ khu công nghiệp và khu công nghệ cao để từ chối. Chọn nhận định về danh mục hiện hành.",
-        "Tháng 10/2026: Một danh sách địa bàn cho tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất loại mọi cụm công nghiệp. Hồ sơ cụ thể đáp ứng điều kiện còn lại. có được từ chối chỉ vì tên cụm công nghiệp không?"
+        "Tháng 10/2026: Một danh sách địa bàn cho tổ chức kinh tế có vốn đầu tư nước ngoài nhận chuyển nhượng quyền sử dụng đất loại mọi cụm công nghiệp. Hồ sơ cụ thể đáp ứng điều kiện còn lại. Có được từ chối chỉ vì tên cụm công nghiệp không?"
       ]
     },
     {
@@ -1636,8 +1647,9 @@
     },
     {
       "id": "IMP-T60-018",
-      "sourceSha256": "995bc97aad8f618cb976cb299a2a1ebe30918056bdc7d11ec30b935972ec446d",
+      "sourceSha256": "946c56762df0be1f3a20fcbc5251797e0bb5fec604e2784042737a310351a146",
       "variants": [
+        "Chị K thuộc nhóm đối tượng quy định tại khoản 6 Điều 76 Luật Nhà ở và chỉ có nhu cầu thuê nhà ở xã hội, không đăng ký mua hoặc thuê mua. Bộ phận tiếp nhận yêu cầu chị phải đáp ứng đầy đủ điều kiện nhà ở và thu nhập như trường hợp mua. Đối với riêng hình thức thuê của chị K, yêu cầu đó có đúng không?",
         "Tháng 10/2026: Người thuộc khoản 6 Điều 76 đăng ký thuê nhà ở xã hội bị yêu cầu chứng minh điều kiện nhà ở và thu nhập như người mua. Riêng hai điều kiện khoản 1 Điều 78 có bắt buộc cho hình thức thuê này không?",
         "Tháng 10/2026: Khi rà hồ sơ hỗ trợ nhà xã hội của người thuộc khoản 6 Điều 76, người này chỉ có nhu cầu thuê. Có thể áp chung hai điều kiện nhà ở, thu nhập của mua và thuê mua cho hồ sơ thuê không? Chọn nhận định đúng."
       ]
@@ -1653,19 +1665,19 @@
     },
     {
       "id": "IMP-T60-056",
-      "sourceSha256": "d8906ab0d8cbcc6a11935b00d7b8e9321fd1adf3c05a5d740a5adbbc65126007",
+      "sourceSha256": "8d61537fcf37616a9b6f78e5fac4f9d60fd1cd5381fd7d5329b472dc2341f794",
       "variants": [
-        "Tháng 10/2026: Một dự án bảo vệ, cải tạo và xử lý đất bị ô nhiễm đúng pháp luật thuộc hướng đầu tư nào của Luật Đất đai?",
-        "Tháng 10/2026: Một dự án đúng luật xử lý ô nhiễm và phục hồi đất bị suy thoái không mở rộng diện tích. Người tư vấn nói vì không tăng diện tích nên không được khuyến khích đầu tư. dự án thuộc hướng nào?",
+        "Doanh nghiệp P đề xuất dự án xử lý ô nhiễm, cải tạo đất và phục hồi khả năng sử dụng theo quy định pháp luật. Một ý kiến phản đối cho rằng dự án không làm tăng diện tích đất nên không thể thuộc hoạt động được khuyến khích đầu tư. Cách đánh giá nào phù hợp với chính sách đất đai?",
+        "Tháng 10/2026: Một dự án đúng luật xử lý ô nhiễm và phục hồi đất bị suy thoái không mở rộng diện tích. Người tư vấn nói vì không tăng diện tích nên không được khuyến khích đầu tư. Theo Điều 8, dự án thuộc hướng nào?",
         "Tháng 10/2026: Kế hoạch cải tạo và bảo vệ đất ô nhiễm đúng pháp luật không chuyển đất nông nghiệp thành đất ở. Có thể chỉ vì không chuyển mục đích mà loại khỏi các hướng khuyến khích đầu tư vào sử dụng đất không?"
       ]
     },
     {
       "id": "IMP-T60-059",
-      "sourceSha256": "657ee1d6007feca5e935daa409b7e63d77c521b3f1d17588a7fb7ec63f2267e1",
+      "sourceSha256": "44f4a47b061eda2d5c56574cb0b6548662bf5709864371d2af4feda4f3e3ddce",
       "variants": [
-        "Tháng 10/2026: Một quy định địa phương dự kiến cho cá nhân nhận chuyển quyền đất nông nghiệp đến 20 lần hạn mức giao mỗi loại đất tại khoản 1, 2, 3 Điều 176. So với trần, nhận định nào đúng?",
-        "Tháng 10/2026: Cấp tỉnh muốn đặt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân bằng 20 lần hạn mức giao từng loại đất tại khoản 1,2,3 Điều 176, viện dẫn điều kiện địa phương. đề xuất này được đánh giá thế nào?",
+        "Tỉnh X dự kiến ban hành quy định cho cá nhân nhận chuyển quyền sử dụng đất nông nghiệp với diện tích tối đa bằng 20 lần hạn mức giao đất tương ứng theo khoản 1, 2 và 3 Điều 176 Luật Đất đai. Trong cuộc họp thẩm định, có ý kiến cho rằng địa phương được tự nâng trần nếu cần thu hút đầu tư. Phương án nào đánh giá đúng giới hạn pháp luật?",
+        "Tháng 10/2026: Cấp tỉnh muốn đặt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân bằng 20 lần hạn mức giao từng loại đất tại khoản 1,2,3 Điều 176, viện dẫn điều kiện địa phương. Theo Điều 177, đề xuất này được đánh giá thế nào?",
         "Tháng 10/2026: Một dự thảo địa phương cho cá nhân nhận chuyển quyền đất nông nghiệp tới 20 lần hạn mức giao các loại tại khoản 1,2,3 Điều 176 nếu trả phí cao hơn. Chọn nhận định về giới hạn thẩm quyền địa phương và trần luật."
       ]
     },
@@ -1683,7 +1695,7 @@
       "sourceSha256": "00b183bde485b54b0646e366286f9016a23176de5d24ab525051a2d728cde9b6",
       "variants": [
         "Tháng 10/2026: Hai giao dịch được đề nghị: A thuê xe và giao tiền cho chủ xe chỉ để bảo đảm trả lại xe; B thuê nhà và giao tiền để bảo đảm giao kết hợp đồng thuê. Cách phân loại phù hợp với mục đích đã nêu là gì?",
-        "Tháng 10/2026: Điều 329, tiền giao trong thuê xe chỉ để bảo đảm trả xe và tiền giao khi thuê nhà để bảo đảm giao kết được phân loại lần lượt thế nào?",
+        "Tháng 10/2026: Tiền giao khi thuê xe chỉ để bảo đảm trả lại xe; tiền giao khi thuê nhà để bảo đảm giao kết hợp đồng. Hai khoản được phân loại lần lượt thế nào?",
         "Tháng 10/2026: Thỏa thuận A ghi khoản tiền thuê xe chỉ bảo đảm trả lại xe; thỏa thuận B ghi khoản tiền thuê nhà bảo đảm ký hợp đồng. Có thể gọi cả hai là ký cược chỉ vì đều có quan hệ thuê không?"
       ]
     },
@@ -1692,7 +1704,7 @@
       "sourceSha256": "8668ead8d27abc2e48ee40d732328a85b7fc2d91d146ae51fb6f1a7df3b4e13d",
       "variants": [
         "Tháng 10/2026: Xe thuê vẫn còn nhưng A không trả khi hết hạn. A đã ký cược 120 triệu đồng. Chủ xe nói nhận luôn khoản tiền này thì không còn quyền đòi xe nữa. Không có thỏa thuận chuyển quyền sở hữu xe, nhận định nào đúng theo quy tắc ký cược?",
-        "Tháng 10/2026: xe thuê vẫn còn nhưng bên thuê không trả có làm mất quyền đòi xe chỉ vì đã nhận ký cược không?",
+        "Tháng 10/2026: Xe thuê vẫn còn nhưng bên thuê không trả có làm mất quyền đòi xe chỉ vì đã nhận ký cược không?",
         "Tháng 10/2026: Người thuê muốn giữ xe và coi 120 triệu ký cược là giá mua, xe vẫn còn và không có thỏa thuận chuyển sở hữu. Quyền đòi lại xe của chủ xe thế nào?"
       ]
     },
@@ -1745,7 +1757,7 @@
       "id": "FAM26-002",
       "sourceSha256": "531f367f0d2b2641304ba79d3130e78263d96c84a5070a279be9b80c85d98c7b",
       "variants": [
-        "Tháng 10/2026: Hồ sơ công chứng thỏa thuận tài sản có bản sao chứng thực căn cước và bản sao chứng thực giấy đăng ký kết hôn; không có bản chính hai giấy này. Tổ chức chưa khai thác được thông tin từ cơ sở dữ liệu. Giấy kết hôn thuộc nhóm giấy tờ liên quan. Phân biệt nào đúng trước khi CCV ký lời chứng?",
+        "Tháng 10/2026: Hồ sơ công chứng thỏa thuận tài sản có bản sao chứng thực căn cước và bản sao chứng thực giấy đăng ký kết hôn; không có bản chính hai giấy này. Tổ chức chưa khai thác được thông tin từ cơ sở dữ liệu. Giấy kết hôn thuộc nhóm giấy tờ liên quan tại điểm d khoản 1 Điều 42. Phân biệt nào đúng trước khi CCV ký lời chứng?",
         "Tháng 10/2026: Trước khi ký lời chứng, CCV phải kiểm tra căn cước thuộc điểm b và giấy đăng ký kết hôn thuộc điểm d khoản 1 Điều 42. Cả hai chỉ có bản sao chứng thực, không có bản chính; dữ liệu tương ứng chưa được khai thác từ cơ sở dữ liệu. Ngoại lệ về đối chiếu bản chính được áp dụng khác nhau thế nào cho hai giấy này?",
         "Tháng 10/2026: Trong hồ sơ vợ chồng mua nhà, người yêu cầu chỉ mang bản sao chứng thực căn cước và giấy kết hôn, cho rằng dấu chứng thực cho phép bỏ đối chiếu bản chính cả hai. Giấy kết hôn là giấy liên quan thuộc điểm d khoản 1 Điều 42; cả hai bản chính đều không có, văn phòng chưa khai thác được dữ liệu. CCV nên phân biệt hai giấy này thế nào trước khi ký lời chứng?"
       ]
@@ -1756,7 +1768,7 @@
       "variants": [
         "Tháng 10/2026: Hai vợ chồng cùng yêu cầu công chứng văn bản chấm dứt thỏa thuận chia tài sản đã công chứng ở Văn phòng A. A vẫn hoạt động bình thường và lưu hồ sơ. Văn phòng B cùng tỉnh thuận tiện hơn. Chỉ xét nơi công chứng việc chấm dứt, hướng dẫn nào đúng?",
         "Tháng 10/2026: Trong các thủ tục đối với giao dịch đã công chứng, quy tắc về nơi thực hiện có áp dụng khi vợ chồng cùng chấm dứt thỏa thuận chia tài sản không? Thỏa thuận gốc do Văn phòng A công chứng; A vẫn hoạt động và giữ hồ sơ, còn B là văn phòng khác cùng tỉnh. Chọn cách hướng dẫn phù hợp.",
-        "Tháng 10/2026: Vợ chồng đã công chứng thỏa thuận nhập tài sản riêng vào tài sản chung tại A, nay cùng muốn công chứng việc chấm dứt thỏa thuận đó tại B cùng tỉnh vì gần nhà. A vẫn hoạt động bình thường và lưu hồ sơ. Chỉ xét nơi thực hiện B nên hướng dẫn thế nào?"
+        "Tháng 10/2026: Vợ chồng đã công chứng thỏa thuận nhập tài sản riêng vào tài sản chung tại A, nay cùng muốn công chứng việc chấm dứt thỏa thuận đó tại B cùng tỉnh vì gần nhà. A vẫn hoạt động bình thường và lưu hồ sơ. Chỉ xét nơi thực hiện, B nên hướng dẫn thế nào?"
       ]
     },
     {
@@ -1808,7 +1820,7 @@
       "id": "INH26-009",
       "sourceSha256": "770b1a69a556e301e053d44c57fdeacdaad1abc34efc52005b1839ee10ae2e3d",
       "variants": [
-        "Tháng 10/2026: Hùng đang thuê nhà của người chết theo hợp đồng còn hạn. Di chúc không chỉ định người quản lý và các người thừa kế chưa cử ai. Hùng tiếp tục quản lý nhà cho rằng như vậy mình có thể bán nhà thay cả nhóm thừa kế. Nhận định nào đúng?",
+        "Tháng 10/2026: Hùng đang thuê nhà của người chết theo hợp đồng còn hạn. Di chúc không chỉ định người quản lý và các người thừa kế chưa cử ai. Hùng tiếp tục quản lý nhà, cho rằng như vậy mình có thể bán nhà thay cả nhóm thừa kế. Nhận định nào đúng?",
         "Tháng 10/2026: Người tiếp tục quản lý di sản theo khoản 2 Điều 616 có thể dựa vào việc đang sử dụng để bán di sản không? Hùng là người thuê nhà theo hợp đồng còn hạn; người cho thuê đã chết, di chúc không chỉ định và các thừa kế chưa cử người quản lý. Hùng không có căn cứ đại diện khác. Chọn nhận định đúng.",
         "Tháng 10/2026: Người mua nhà nhận đề nghị của Hùng, người đang thuê và tiếp tục quản lý căn nhà sau khi chủ nhà chết. Hợp đồng thuê còn hạn, di chúc không chỉ định người quản lý, nhóm thừa kế chưa cử ai; Hùng chỉ viện khoản 2 Điều 616, không có căn cứ đại diện khác. Chỉ xét tư cách này, có thể coi Hùng được bán thay nhóm thừa kế không?"
       ]
@@ -1835,7 +1847,7 @@
       "id": "COMP26-DN-006",
       "sourceSha256": "9adf4844cd4d8bfa3a49b88ae9ea8655efa2d186d095364b8c0fd55d6f4a9c25",
       "variants": [
-        "Tháng 10/2026: Chủ công ty TNHH một thành viên đang trong thời hạn góp vốn; có 20 ngày làm thủ tục hành chính chuyển quyền sở hữu tài sản góp vốn. Chỉ xét cách tính 90 ngày xử lý 20 ngày này thế nào?",
+        "Tháng 10/2026: Chủ công ty TNHH một thành viên đang trong thời hạn góp vốn; có 20 ngày làm thủ tục hành chính chuyển quyền sở hữu tài sản góp vốn. Chỉ xét cách tính 90 ngày, xử lý 20 ngày này thế nào?",
         "Tháng 10/2026: Khi tính hạn góp đủ vốn của công ty TNHH một thành viên, 20 ngày thực hiện thủ tục hành chính chuyển quyền sở hữu tài sản góp vốn có nằm trong 90 ngày không? Không xét một lý do trì hoãn nào khác.",
         "Tháng 10/2026: Chủ sở hữu góp tài sản phải sang tên; hồ sơ chứng minh riêng thủ tục chuyển quyền mất 20 ngày. Người tiếp nhận chỉ đếm 90 ngày lịch từ giấy đăng ký doanh nghiệp rồi kết luận chậm góp. Cần điều chỉnh phép tính theo nguyên tắc nào?"
       ]
@@ -1860,7 +1872,7 @@
     },
     {
       "id": "COMP26-DN-009",
-      "sourceSha256": "14b9ea7f9b4be9ee863150e37b8ad5df1567b8498991b3ba31e99cc854d8c053",
+      "sourceSha256": "fa1b12a7a84e8bea0ba8348116499621d7b99abc77b88a93c368cee6765edc61",
       "variants": [
         "Tháng 10/2026: Công ty TNHH hai thành viên bán một tài sản bằng đúng 50% tổng tài sản trong báo cáo tài chính công bố gần nhất. Điều lệ không đặt ngưỡng thấp hơn. Việc thông qua thuộc thẩm quyền nào?",
         "Tháng 10/2026: Công ty TNHH hai thành viên định bán tài sản trị giá đúng 50% tổng tài sản trong báo cáo tài chính công bố gần nhất; điều lệ không đặt ngưỡng thấp hơn. Cơ quan nào phải thông qua hợp đồng?",
@@ -1878,7 +1890,7 @@
     },
     {
       "id": "COMP26-DN-013",
-      "sourceSha256": "00c576ba87beb7b879a2a6eb6a87031026ed776857f99288fa68a83459890aa3",
+      "sourceSha256": "3d981b6ecd3b8a6336a58d967ca5be50eba892b1eadc87e15881f66b635fa42d",
       "variants": [
         "Tháng 10/2026: Một thành viên Hội đồng quản trị có lợi ích liên quan đến bên trong giao dịch đang xin Hội đồng chấp thuận. Người này đề nghị vẫn biểu quyết vì đã công khai lợi ích. Cách xử lý đúng?",
         "Tháng 10/2026: Một thành viên Hội đồng quản trị đã công khai đầy đủ lợi ích liên quan của mình trong giao dịch đang xin chấp thuận. Việc công khai có cho phép người đó tham gia biểu quyết giao dịch không?",
@@ -1889,8 +1901,8 @@
       "id": "COMP26-DN-015",
       "sourceSha256": "24b22fa72446e9c8d270a6858a27138f756349eac5752ed9cfff595c1bb025d8",
       "variants": [
-        "Tháng 10/2026: A được tặng cho cổ phần hợp lệ nhưng thông tin của A chưa được ghi đầy đủ vào sổ đăng ký cổ đông. Chỉ xét mốc trở thành cổ đông nhận định nào đúng?",
-        "Tháng 10/2026: Người được tặng cho cổ phần đã nhận theo giao dịch hợp lệ, nhưng thông tin tại khoản 2 Điều 122 chưa được ghi đầy đủ vào sổ cổ đông. Nếu chỉ xét mốc trở thành cổ đông mốc nào quyết định?",
+        "Tháng 10/2026: A được tặng cho cổ phần hợp lệ nhưng thông tin của A chưa được ghi đầy đủ vào sổ đăng ký cổ đông. Chỉ xét mốc trở thành cổ đông, nhận định nào đúng?",
+        "Tháng 10/2026: Người được tặng cho cổ phần đã nhận theo giao dịch hợp lệ, nhưng thông tin tại khoản 2 Điều 122 chưa được ghi đầy đủ vào sổ cổ đông. Nếu chỉ xét mốc trở thành cổ đông, mốc nào quyết định?",
         "Tháng 10/2026: Công ty đã biết việc tặng cho cổ phần và nhận hợp đồng, nhưng sổ đăng ký còn thiếu thông tin người nhận. Người nhận cho rằng chỉ cần công ty biết là đã hoàn tất mốc tư cách cổ đông. Nhận định nào đúng?"
       ]
     },
@@ -1961,7 +1973,7 @@
       "id": "COMP26-TS-004",
       "sourceSha256": "8dd7f5b26339a8b1f3593b415edd1c6a88617115d99f5cea62e4632b3c326b64",
       "variants": [
-        "Tháng 10/2026: Người tập sự đã được giao công việc liên quan công chứng nhưng muốn chỉ đến văn phòng một buổi mỗi tuần, dù lịch làm việc đã xác định nhiều ngày. Không có căn cứ điều chỉnh khác. nghĩa vụ đúng?",
+        "Tháng 10/2026: Người tập sự đã được giao công việc liên quan công chứng nhưng muốn chỉ đến văn phòng một buổi mỗi tuần, dù lịch làm việc đã xác định nhiều ngày. Không có căn cứ điều chỉnh khác. Nghĩa vụ đúng?",
         "Tháng 10/2026: Người tập sự muốn chỉ đến làm việc vào cuối tuần, không có điều chỉnh hợp lệ nào về thời gian tập sự. Nghĩa vụ về ngày, giờ làm việc tại tổ chức nhận tập sự được xác định thế nào?",
         "Tháng 10/2026: Một người có đủ tổng số giờ tự ghi trong nhật ký nhưng thường xuyên không đến vào ngày, giờ làm việc của tổ chức nhận tập sự. Không có căn cứ điều chỉnh hợp lệ. Chỉ xét nghĩa vụ thời gian làm việc, nhận định nào đúng?"
       ]
@@ -2043,7 +2055,7 @@
       "sourceSha256": "9e7bac2e82558f9728c3ca8ec05615ad7c794cd7467f70617ee0820417b08e8e",
       "variants": [
         "Tháng 10/2026: Giao dịch thuộc Điều 126 về nhầm lẫn, không thuộc căn cứ vô hiệu nào khác. Đã hết thời hiệu, không có yêu cầu tuyên vô hiệu trong thời hiệu. Một bên nói nhầm lẫn làm giao dịch vĩnh viễn không có hiệu lực. Chỉ xét khoản 2, kết luận đúng?",
-        "Tháng 10/2026: Chỉ có căn cứ nhầm lẫn đã hết thời hiệu yêu cầu tuyên vô hiệu mà không có yêu cầu nào; không có căn cứ vô hiệu độc lập khác. Giao dịch có bị coi mãi mãi vô hiệu không?",
+        "Tháng 10/2026: Chỉ có căn cứ nhầm lẫn; đã hết thời hiệu yêu cầu tuyên vô hiệu mà không có yêu cầu nào; không có căn cứ vô hiệu độc lập khác. Giao dịch có bị coi mãi mãi vô hiệu không?",
         "Tháng 10/2026: Một bên muốn phủ nhận hiệu lực vì nhầm lẫn dù không yêu cầu trong thời hiệu, và không nêu được căn cứ vô hiệu khác. Chỉ xét hậu quả hết thời hiệu ở khoản 2 Điều 132, chọn nhận định đúng."
       ]
     },
@@ -2076,7 +2088,7 @@
     },
     {
       "id": "REFIN26-CC-004",
-      "sourceSha256": "3604576004827f1fabc8f890d400c97a324f5ad5b6792ebc65af46eaefae8e10",
+      "sourceSha256": "e5f53c8548d62f66f34721ace019eee03c4fc58e39c52c3845f855c811fd5342",
       "variants": [
         "Tháng 10/2026: Ai đáp ứng tư cách Trưởng Văn phòng công chứng hợp danh giả sử không có trở ngại khác?",
         "Tháng 10/2026: Khi chọn Trưởng Văn phòng công chứng hợp danh, phải đồng thời xét tư cách trong Văn phòng và thời gian hành nghề. Trong bốn ứng viên dưới đây, ai đạt yêu cầu tại khoản 2 Điều 23 nếu các điều kiện khác đều không có trở ngại?",
@@ -2152,7 +2164,7 @@
       "variants": [
         "Tháng 10/2026: Văn phòng có hai thành viên hợp danh. Một người được cả hai đồng ý bằng văn bản cho rút vốn ngay, việc rút làm Văn phòng chỉ còn một thành viên. Chỉ xét điều kiện rút vốn, được không?",
         "Tháng 10/2026: Sự đồng ý bằng văn bản về việc rút vốn có thay điều kiện số thành viên hợp danh còn lại không? Văn phòng hiện chỉ có hai thành viên, cả hai đều đồng ý một người rút ngay và chưa có người mới. Chọn đánh giá đúng.",
-        "Tháng 10/2026: Phương án rút vốn của một trong hai thành viên dự kiến để người còn lại tiếp tục hoạt động, rồi mới tìm người thay thế. Hai người đã cùng ký chấp thuận rút vốn. Chỉ xét số thành viên tại thời điểm rút việc chấp thuận đủ phiếu đã đủ chưa?"
+        "Tháng 10/2026: Phương án rút vốn của một trong hai thành viên dự kiến để người còn lại tiếp tục hoạt động, rồi mới tìm người thay thế. Hai người đã cùng ký chấp thuận rút vốn. Chỉ xét số thành viên tại thời điểm rút, việc chấp thuận đủ phiếu đã đủ chưa?"
       ]
     },
     {
@@ -2175,7 +2187,7 @@
     },
     {
       "id": "REFIN26-CC-020",
-      "sourceSha256": "72bf2ca6f42107abd2094da9d713816c86d761aa1f4d610111977cd3db2cc992",
+      "sourceSha256": "d47ddb948161a5052cd3156f2fc6f05649733856919af70505f2679939cbb1e9",
       "variants": [
         "Tháng 10/2026: Thành viên hợp danh chết. Giá trị phần vốn của người này là 900 triệu; nghĩa vụ thuộc trách nhiệm của người này đã xác định 200 triệu. Chỉ xét giá trị trả cho thừa kế tính thế nào?",
         "Tháng 10/2026: Khi thành viên hợp danh chết, giá trị vốn trả cho người thừa kế được xử lý quan hệ với nghĩa vụ thuộc trách nhiệm người đó thế nào? Giá trị phần vốn là 900 triệu, nghĩa vụ đã xác định 200 triệu. Chọn số tiền trả.",
@@ -2204,18 +2216,18 @@
       "id": "REFIN26-CC-024",
       "sourceSha256": "c9db3d7cc15dcd5074cec02180b5a3fd37c56757ac1ed1953a8a487cf2a9ea84",
       "variants": [
-        "Tháng 10/2026: Hai Văn phòng hợp danh đặt trụ sở ở hai tỉnh khác nhau, toàn bộ thành viên đồng ý hợp nhất. Riêng điều kiện địa bàn có đủ không?",
+        "Tháng 10/2026: Hai Văn phòng hợp danh đặt trụ sở ở hai tỉnh khác nhau, toàn bộ thành viên đồng ý hợp nhất. Riêng điều kiện địa bàn, có đủ không?",
         "Tháng 10/2026: Sự đồng thuận của tất cả thành viên có thay giới hạn địa bàn khi hợp nhất các Văn phòng công chứng hợp danh không? Các Văn phòng dự kiến hợp nhất đặt trụ sở ở hai tỉnh khác nhau. Chọn nhận định đúng về điều kiện địa bàn.",
-        "Tháng 10/2026: Ba Văn phòng hợp danh trong cùng một vùng kinh tế muốn hợp nhất: hai đặt tại tỉnh A, một đặt tại tỉnh B. Mọi thành viên đều đồng ý và dự kiến chuyển toàn bộ hồ sơ cho Văn phòng mới. Chỉ xét các dữ kiện trên, điều kiện địa bàn đã được đáp ứng chưa?"
+        "Tháng 10/2026: Ba Văn phòng hợp danh trong cùng một vùng kinh tế muốn hợp nhất: Hai đặt tại tỉnh A, một đặt tại tỉnh B. Mọi thành viên đều đồng ý và dự kiến chuyển toàn bộ hồ sơ cho Văn phòng mới. Chỉ xét các dữ kiện trên, điều kiện địa bàn đã được đáp ứng chưa?"
       ]
     },
     {
       "id": "REFIN26-CC-026",
-      "sourceSha256": "27082339e84139b023ee538e74b1b1ab9b0d0b92367368a952855e752fc8203c",
+      "sourceSha256": "9d5d49ae395571585d7b5ce5dd631ec6bce363cd6d8e3df06247054d1a452759",
       "variants": [
-        "Tháng 10/2026: Văn phòng hợp danh muốn chuyển toàn bộ phần vốn của toàn bộ thành viên cho một CCV duy nhất, người này đã hành nghề mười năm. Riêng số người nhận được không?",
+        "Tháng 10/2026: Văn phòng hợp danh muốn chuyển toàn bộ phần vốn của toàn bộ thành viên cho một CCV duy nhất, người này đã hành nghề mười năm. Riêng số người nhận, được không?",
         "Tháng 10/2026: Đối với việc chuyển nhượng toàn bộ phần vốn của toàn bộ thành viên Văn phòng hợp danh, kinh nghiệm lâu năm của người nhận có thay điều kiện số người nhận không? Chỉ có một CCV dự kiến nhận toàn bộ, dù người đó hành nghề mười năm.",
-        "Tháng 10/2026: Hồ sơ chuyển toàn bộ vốn Văn phòng hợp danh ghi duy nhất một CCV nhận chuyển nhượng. CCV này có hơn hai năm kinh nghiệm và dự định thuê thêm nhân viên sau khi nhận. Riêng số CCV nhận phương án đã đủ chưa?"
+        "Tháng 10/2026: Hồ sơ chuyển toàn bộ vốn Văn phòng hợp danh ghi duy nhất một CCV nhận chuyển nhượng. CCV này có hơn hai năm kinh nghiệm và dự định thuê thêm nhân viên sau khi nhận. Riêng số CCV nhận, phương án đã đủ chưa?"
       ]
     },
     {
@@ -2232,7 +2244,7 @@
       "sourceSha256": "03715db5f94e8eff90703131469ac1086ff4dca91608bf6c1006eb134084fbed",
       "variants": [
         "Tháng 10/2026: Toàn bộ hợp đồng chuyển vốn theo Điều 30 đã ký nhưng Sở chưa cấp lại đăng ký hoạt động. Thành viên chuyển nhượng nói tư cách hợp danh đã chấm dứt từ ngày ký. Mốc đúng theo khoản 4 là gì?",
-        "Tháng 10/2026: Trong chuyển nhượng toàn bộ vốn mốc chấm dứt tư cách của các thành viên chuyển nhượng là ký hợp đồng, thanh toán hay thay đổi đăng ký? Hợp đồng đã ký và trả đủ tiền nhưng Sở chưa cấp lại giấy đăng ký hoạt động.",
+        "Tháng 10/2026: Trong chuyển nhượng toàn bộ vốn, mốc chấm dứt tư cách của các thành viên chuyển nhượng là ký hợp đồng, thanh toán hay thay đổi đăng ký? Hợp đồng đã ký và trả đủ tiền nhưng Sở chưa cấp lại giấy đăng ký hoạt động.",
         "Tháng 10/2026: Người nhận đã trả đủ giá chuyển toàn bộ vốn theo Điều 30 và đến làm việc tại trụ sở. Các thành viên chuyển nhượng muốn ghi mình đã hết tư cách hợp danh từ ngày thanh toán, dù Sở chưa cấp lại giấy đăng ký hoạt động. Mốc nào phải được dùng theo khoản 4?"
       ]
     },
@@ -2296,7 +2308,7 @@
       "variants": [
         "Tháng 10/2026: Văn phòng khai thác hợp pháp thông tin dân cư từ cơ sở dữ liệu để giải quyết hồ sơ công chứng giấy. Nhân viên định bỏ qua tài liệu kết quả vì dữ liệu vẫn còn trên hệ thống. Cách lập hồ sơ nào đúng?",
         "Tháng 10/2026: Kết quả khai thác thông tin hợp pháp từ cơ sở dữ liệu để giải quyết công chứng giấy phải được thể hiện thế nào trong hồ sơ? Dữ liệu đã có trên hệ thống nhưng tổ chức đang lập hồ sơ lưu trữ.",
-        "Tháng 10/2026: Khi kiểm tra hồ sơ công chứng giấy, nhân viên chỉ ghi mã truy vấn và tên người tra cứu đối với thông tin dân cư đã khai thác hợp pháp. Kết quả vẫn truy cập được trên cơ sở dữ liệu. cần bổ sung gì vào hồ sơ?"
+        "Tháng 10/2026: Khi kiểm tra hồ sơ công chứng giấy, nhân viên chỉ ghi mã truy vấn và tên người tra cứu đối với thông tin dân cư đã khai thác hợp pháp. Kết quả vẫn truy cập được trên cơ sở dữ liệu. Cần bổ sung gì vào hồ sơ?"
       ]
     },
     {
@@ -2332,7 +2344,7 @@
       "variants": [
         "Tháng 10/2026: Phiên dịch hợp lệ đã dịch giá và tài sản nhưng bỏ phần phạt vi phạm cùng trao đổi về nghĩa vụ thanh toán vì cho rằng quá dài. Công chứng viên nên làm gì trước khi ký?",
         "Tháng 10/2026: Nghĩa vụ dịch có chỉ bao gồm đối tượng và giá trong văn bản hay còn cả nội dung trao đổi về quyền, nghĩa vụ? Người phiên dịch hợp lệ đã bỏ một điều khoản và phần giải thích nghĩa vụ vì quá dài. CCV nên xử lý trước khi ký thế nào?",
-        "Tháng 10/2026: Phiên dịch hợp lệ đã dịch các điều khoản tài sản nhưng bỏ điều khoản về thời hạn giao tài sản và phần CCV giải thích hậu quả chậm thực hiện. Các bên muốn ký ngay, phiên dịch tự nhận trách nhiệm về phần bỏ sót. Chỉ xét tính đầy đủ của việc dịch cần làm gì?"
+        "Tháng 10/2026: Phiên dịch hợp lệ đã dịch các điều khoản tài sản nhưng bỏ điều khoản về thời hạn giao tài sản và phần CCV giải thích hậu quả chậm thực hiện. Các bên muốn ký ngay, phiên dịch tự nhận trách nhiệm về phần bỏ sót. Chỉ xét tính đầy đủ của việc dịch, cần làm gì?"
       ]
     },
     {
@@ -2359,7 +2371,7 @@
       "variants": [
         "Tháng 10/2026: Chủ thể yêu cầu công chứng là cá nhân đã chết. Một người có quyền, nghĩa vụ liên quan nhưng không phải bên giao dịch xin bản sao; toàn bộ người thừa kế đã được xác định đều đồng ý. Cách giải quyết đúng?",
         "Tháng 10/2026: Người liên quan không phải bên giao dịch xin bản sao khi người yêu cầu công chứng là cá nhân đã chết cần xét cơ chế đồng ý nào? Tất cả người thừa kế đã xác định đều đồng ý và yêu cầu được gửi đến nơi lưu bản gốc.",
-        "Tháng 10/2026: Nơi lưu bản gốc nhận đơn của người có quyền, nghĩa vụ liên quan nhưng không phải bên ký giao dịch. Người yêu cầu công chứng đã bị Tòa án tuyên bố là đã chết; toàn bộ người thừa kế đã xác định chấp thuận cấp bản sao. Chỉ xét điều kiện này hướng giải quyết nào đúng?"
+        "Tháng 10/2026: Nơi lưu bản gốc nhận đơn của người có quyền, nghĩa vụ liên quan nhưng không phải bên ký giao dịch. Người yêu cầu công chứng đã bị Tòa án tuyên bố là đã chết; toàn bộ người thừa kế đã xác định chấp thuận cấp bản sao. Chỉ xét điều kiện này, hướng giải quyết nào đúng?"
       ]
     },
     {
@@ -2368,7 +2380,7 @@
       "variants": [
         "Tháng 10/2026: Pháp nhân yêu cầu công chứng đã chấm dứt hoạt động và tổ chức kế thừa quyền, nghĩa vụ đã được xác định. Người liên quan xin bản sao được tổ chức kế thừa đồng ý. Giám đốc cũ phản đối với tư cách cá nhân. Xét điều kiện đồng ý, căn cứ nào quyết định?",
         "Tháng 10/2026: Với pháp nhân yêu cầu công chứng đã chấm dứt hoạt động, sự đồng ý để cấp bản sao cho người liên quan được xác định theo chủ thể nào? Chủ thể kế thừa quyền, nghĩa vụ đã xác định và đồng ý; giám đốc cũ phản đối với tư cách cá nhân.",
-        "Tháng 10/2026: Sau khi pháp nhân ký giao dịch chấm dứt hoạt động, người có quyền, nghĩa vụ liên quan xin bản sao. Chủ thể kế thừa quyền, nghĩa vụ đã được xác định đồng ý, nhưng một người đang giữ dấu cũ phản đối và tự nhận mình được quyết định. Chỉ xét căn cứ đồng ý yếu tố nào quyết định?"
+        "Tháng 10/2026: Sau khi pháp nhân ký giao dịch chấm dứt hoạt động, người có quyền, nghĩa vụ liên quan xin bản sao. Chủ thể kế thừa quyền, nghĩa vụ đã được xác định đồng ý, nhưng một người đang giữ dấu cũ phản đối và tự nhận mình được quyết định. Chỉ xét căn cứ đồng ý, yếu tố nào quyết định?"
       ]
     },
     {
@@ -2386,7 +2398,7 @@
       "variants": [
         "Tháng 10/2026: Văn phòng chấm dứt hoạt động, không thỏa thuận được nơi nhận hồ sơ và không còn khả năng trả kinh phí lưu trữ. Địa phương không có Phòng công chứng. Phương án nào đúng?",
         "Tháng 10/2026: Cơ chế nhận hồ sơ và bảo đảm kinh phí lưu trữ được áp dụng thế nào khi Văn phòng chấm dứt, không thỏa thuận được nơi nhận và mất khả năng trả kinh phí? Địa phương không có Phòng công chứng; chọn phương án đúng.",
-        "Tháng 10/2026: Sở cần xử lý hồ sơ của Văn phòng đã chấm dứt hoạt động: không đạt thỏa thuận với nơi nhận, tổ chức cũ không còn khả năng thanh toán chi phí lưu trữ, trong tỉnh không có Phòng công chứng. Có Văn phòng đủ điều kiện tiếp nhận. Chọn cách chỉ định và xác định nguồn kinh phí phù hợp."
+        "Tháng 10/2026: Sở cần xử lý hồ sơ của Văn phòng đã chấm dứt hoạt động: Không đạt thỏa thuận với nơi nhận, tổ chức cũ không còn khả năng thanh toán chi phí lưu trữ, trong tỉnh không có Phòng công chứng. Có Văn phòng đủ điều kiện tiếp nhận. Chọn cách chỉ định và xác định nguồn kinh phí phù hợp."
       ]
     },
     {
@@ -2395,7 +2407,7 @@
       "variants": [
         "Tháng 10/2026: Tổ chức giữ di chúc sắp chấm dứt hoạt động, đã tìm cách nhưng không liên hệ được với người lập di chúc. Trường hợp này phải xử lý bản di chúc thế nào?",
         "Tháng 10/2026: Đối với di chúc đang được lưu giữ, không liên hệ được người lập trước khi tổ chức giữ chấm dứt hoạt động thì cơ chế chuyển giao nào áp dụng? Không chỉ là trường hợp người lập phản đối nơi lưu mới; chọn cách xử lý bản di chúc.",
-        "Tháng 10/2026: Phòng công chứng nhận lưu giữ một di chúc, nay sắp giải thể. Dù đã tìm cách liên hệ, vẫn không liên hệ được với người lập để thỏa thuận hoặc trả lại. Có tổ chức được tiếp nhận hồ sơ của Phòng. nên xử lý di chúc theo hướng nào?"
+        "Tháng 10/2026: Phòng công chứng nhận lưu giữ một di chúc, nay sắp giải thể. Dù đã tìm cách liên hệ, vẫn không liên hệ được với người lập để thỏa thuận hoặc trả lại. Có tổ chức được tiếp nhận hồ sơ của Phòng. Nên xử lý di chúc theo hướng nào?"
       ]
     },
     {
@@ -2413,7 +2425,7 @@
       "variants": [
         "Tháng 10/2026: Công chứng viên phát hiện giao dịch mình đã công chứng có dấu hiệu vi phạm pháp luật. Muốn xử lý hiệu lực văn bản, công chứng viên có thể tự ra quyết định tuyên vô hiệu thay Tòa án không?",
         "Tháng 10/2026: Sau khi công chứng, CCV phát hiện dấu hiệu văn bản vi phạm pháp luật. CCV có thể tự ra quyết định tuyên vô hiệu hay phải sử dụng cơ chế yêu cầu cơ quan nào?",
-        "Tháng 10/2026: Một bên yêu cầu CCV đóng dấu tuyên văn bản công chứng vô hiệu ngay vì có dấu hiệu vi phạm. Nếu xét quyền của CCV cách xử lý nào phân biệt đúng quyền yêu cầu với quyền phán quyết?"
+        "Tháng 10/2026: Một bên yêu cầu CCV đóng dấu tuyên văn bản công chứng vô hiệu ngay vì có dấu hiệu vi phạm. Nếu xét quyền của CCV, cách xử lý nào phân biệt đúng quyền yêu cầu với quyền phán quyết?"
       ]
     },
     {
@@ -2499,7 +2511,7 @@
     },
     {
       "id": "VER26-NEW-46",
-      "sourceSha256": "dedaedebde3012fbae8e724d0282b4228ce1b52640267920dad7c343d9b5b51f",
+      "sourceSha256": "7d153f381d3531f675fe9a818186a2232a371cff43acc4f87e2b377a07205f78",
       "variants": [
         "Cơ sở y tế xác nhận người vợ vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Vợ chồng có đáp ứng điều kiện nhờ mang thai hộ?",
         "Người vợ có xác nhận y tế rằng vẫn có thể mang thai và sinh con khi áp dụng kỹ thuật hỗ trợ sinh sản. Chỉ xét các dữ kiện trên, vợ chồng có đủ điều kiện nhờ mang thai hộ không?",
@@ -2533,10 +2545,10 @@
     },
     {
       "id": "VER26-NEW-50",
-      "sourceSha256": "a8783dc6ecaac3d1e9891f2a4cfa7de6f406b934bb6ab7b323df0174a8cc2a2b",
+      "sourceSha256": "d2903cba0a3e87bac26055b08adfedd3d39ff588cf1e47db83bacaac5e5ffb17",
       "variants": [
         "Vợ chồng nhờ mang thai hộ ủy quyền cho luật sư là người thứ ba ký thỏa thuận. Hiệu lực việc ủy quyền?",
-        "Vợ chồng bên nhờ mang thai hộ có thể ủy quyền cho nhau, nhưng họ muốn nhờ một người thứ ba ký thay thỏa thuận. kết luận nào đúng về việc ủy quyền cho người thứ ba?",
+        "Vợ chồng bên nhờ mang thai hộ có thể ủy quyền cho nhau, nhưng họ muốn nhờ một người thứ ba ký thay thỏa thuận. Kết luận nào đúng về việc ủy quyền cho người thứ ba?",
         "Bên mang thai hộ lập giấy ủy quyền công chứng cho người ngoài gia đình ký thay thỏa thuận. Nhận định nào đúng?"
       ]
     },

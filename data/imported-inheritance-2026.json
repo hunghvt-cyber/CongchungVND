@@ -36,7 +36,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Vẽ hai thời điểm mở thừa kế rồi chia theo nhánh, không theo số cháu.\n\nMẹ còn sống khi Hòa chết nên quyền thừa kế của mẹ đã phát sinh, không chờ công chứng hoặc nhận tiền. Khi mẹ chết, quyền tài sản này thuộc di sản của mẹ. Ở lần mở thừa kế của mẹ, hai nhánh Hòa và Dũng được thế vị: mỗi nhánh 100 triệu; hai con Hòa chia 100 triệu, con Dũng nhận 100 triệu. Không chia đều theo số đầu cháu và không bỏ nhánh Dũng vì nguồn tiền ban đầu từ Hòa.",
+    "explanation": "Mẹ còn sống khi Hòa chết nên quyền thừa kế của mẹ đã phát sinh, không chờ công chứng hoặc nhận tiền. Khi mẹ chết, quyền tài sản này thuộc di sản của mẹ. Ở lần mở thừa kế của mẹ, hai nhánh Hòa và Dũng được thế vị: mỗi nhánh 100 triệu; hai con Hòa chia 100 triệu, con Dũng nhận 100 triệu. Không chia đều theo số đầu cháu và không bỏ nhánh Dũng vì nguồn tiền ban đầu từ Hòa.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -72,7 +72,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -112,7 +114,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định ai được tính suất trước, rồi ai được bảo vệ 2/3 suất.\n\nChỉ ba người còn sống nêu trong hàng thứ nhất được tính suất theo pháp luật: 900/3 = 300 triệu. Mẹ và con chưa thành niên mỗi người được 2/3 suất, tức 200 triệu. Con thành niên có khả năng lao động không thuộc nhóm bảo vệ tại Điều 644; cha đã chết trước không có suất. Thảo hưởng theo di chúc, không phải dựa vào tư cách vợ. Đây là di sản ròng, không lấy toàn bộ tài sản chung chưa tách phần để tính.",
+    "explanation": "Chỉ ba người còn sống nêu trong hàng thứ nhất được tính suất theo pháp luật: 900/3 = 300 triệu. Mẹ và con chưa thành niên mỗi người được 2/3 suất, tức 200 triệu. Con thành niên có khả năng lao động không thuộc nhóm bảo vệ tại Điều 644; cha đã chết trước không có suất. Thảo hưởng theo di chúc, không phải dựa vào tư cách vợ. Đây là di sản ròng, không lấy toàn bộ tài sản chung chưa tách phần để tính.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -153,7 +155,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -193,7 +197,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Tách quyền trực tiếp nuôi, quyền đại diện và quyền hưởng thừa kế.\n\nQuyết định giao trực tiếp nuôi không chấm dứt quan hệ cha con; Điều 81 vẫn bảo đảm quyền, nghĩa vụ cha mẹ sau ly hôn. Điều 651 đưa con đẻ vào hàng thứ nhất, không phân biệt ở với ai. Liên đã không còn là vợ khi Hòa chết nên không hưởng theo tư cách vợ; quyền đại diện cho con nếu có khác quyền hưởng di sản của chính mình.",
+    "explanation": "Quyết định giao trực tiếp nuôi không chấm dứt quan hệ cha con; Điều 81 vẫn bảo đảm quyền, nghĩa vụ cha mẹ sau ly hôn. Điều 651 đưa con đẻ vào hàng thứ nhất, không phân biệt ở với ai. Liên đã không còn là vợ khi Hòa chết nên không hưởng theo tư cách vợ; quyền đại diện cho con nếu có khác quyền hưởng di sản của chính mình.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -223,7 +227,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -263,7 +269,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định chế độ chia theo pháp luật và số suất có tính thai nhi.\n\nKhoản 1 Điều 660 bắt buộc dành phần bằng suất của người cùng hàng cho người đã thành thai chưa sinh. Ba suất tương ứng mỗi suất 200 triệu; việc còn sống khi sinh ra quyết định hưởng theo Điều 613. Không thể chia hết rồi dùng lời hứa nuôi dưỡng để thay bảo vệ phần tài sản. Câu xét thừa kế theo pháp luật, không nhầm với mức 2/3 suất ở trường hợp di chúc.",
+    "explanation": "Khoản 1 Điều 660 bắt buộc dành phần bằng suất của người cùng hàng cho người đã thành thai chưa sinh. Ba suất tương ứng mỗi suất 200 triệu; việc còn sống khi sinh ra quyết định hưởng theo Điều 613. Không thể chia hết rồi dùng lời hứa nuôi dưỡng để thay bảo vệ phần tài sản. Câu xét thừa kế theo pháp luật, không nhầm với mức 2/3 suất ở trường hợp di chúc.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -296,7 +302,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -336,7 +344,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xếp khoản vào thứ tự ưu tiên trước khi tính số tiền còn lại.\n\nĐiều 658 đặt mai táng hợp lý ở thứ tự 1, bảo quản ở thứ tự 3, nợ thông thường ở thứ tự 8. Vì không có các khoản xen giữa hoặc tài sản bảo đảm, thanh toán lần lượt còn 70 triệu cho nợ vay. Điều 615 giới hạn trách nhiệm trong di sản nếu không thỏa thuận khác. Không lấy ngày lập giấy vay để đảo thứ tự và không áp phép chia tỷ lệ giữa các thứ tự khác nhau.",
+    "explanation": "Điều 658 đặt mai táng hợp lý ở thứ tự 1, bảo quản ở thứ tự 3, nợ thông thường ở thứ tự 8. Vì không có các khoản xen giữa hoặc tài sản bảo đảm, thanh toán lần lượt còn 70 triệu cho nợ vay. Điều 615 giới hạn trách nhiệm trong di sản nếu không thỏa thuận khác. Không lấy ngày lập giấy vay để đảo thứ tự và không áp phép chia tỷ lệ giữa các thứ tự khác nhau.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -376,7 +384,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -496,7 +506,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Đọc điều kiện về cách cử, không thêm điều kiện về suất hưởng.\n\nKhoản 1 Điều 616 cho người được chỉ định trong di chúc hoặc được những người thừa kế thỏa thuận cử quản lý, không bắt buộc họ là người thừa kế. Điều 656 ghi nhận việc họp cử và yêu cầu thỏa thuận bằng văn bản. Vẫn phải kiểm tra điều kiện giao dịch, phạm vi quyền và nghĩa vụ; câu không kết luận mọi văn bản cử bất kỳ ai đều đương nhiên hợp lệ.",
+    "explanation": "Khoản 1 Điều 616 cho người được chỉ định trong di chúc hoặc được những người thừa kế thỏa thuận cử quản lý, không bắt buộc họ là người thừa kế. Điều 656 ghi nhận việc họp cử và yêu cầu thỏa thuận bằng văn bản. Vẫn phải kiểm tra điều kiện giao dịch, phạm vi quyền và nghĩa vụ; câu không kết luận mọi văn bản cử bất kỳ ai đều đương nhiên hợp lệ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -531,7 +541,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -641,7 +653,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định người quản lý thuộc khoản 1 hay khoản 2 Điều 616.\n\nNgười tiếp tục chiếm hữu, sử dụng theo khoản 2 Điều 616 là nhóm khác với người được chỉ định/cử ở khoản 1. Điểm a khoản 2 Điều 618 cho tiếp tục sử dụng theo hợp đồng hoặc sự đồng ý; điểm a khoản 2 Điều 617 cấm tự bán, tặng, thế chấp hay định đoạt. Không lấy việc đang ở trong nhà để suy ra quyền bán thay những người thừa kế.",
+    "explanation": "Người tiếp tục chiếm hữu, sử dụng theo khoản 2 Điều 616 là nhóm khác với người được chỉ định/cử ở khoản 1. Điểm a khoản 2 Điều 618 cho tiếp tục sử dụng theo hợp đồng hoặc sự đồng ý; điểm a khoản 2 Điều 617 cấm tự bán, tặng, thế chấp hay định đoạt. Không lấy việc đang ở trong nhà để suy ra quyền bán thay những người thừa kế.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -677,7 +689,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -786,7 +800,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Lập hai khoản riêng: tiền công quản lý và khoản đã ứng để bảo quản.\n\nĐiều 618 tách quyền hưởng thù lao tại điểm b khỏi quyền thanh toán chi phí bảo quản tại điểm c. Dữ kiện đã xác nhận tính cần thiết, hợp lý và không có thỏa thuận chịu riêng nên không thể dùng điều khoản miễn thù lao để từ chối hoàn 8 triệu. Câu không hợp thức hóa mọi khoản chi sửa chữa tùy ý hoặc chi không được chứng minh.",
+    "explanation": "Điều 618 tách quyền hưởng thù lao tại điểm b khỏi quyền thanh toán chi phí bảo quản tại điểm c. Dữ kiện đã xác nhận tính cần thiết, hợp lý và không có thỏa thuận chịu riêng nên không thể dùng điều khoản miễn thù lao để từ chối hoàn 8 triệu. Câu không hợp thức hóa mọi khoản chi sửa chữa tùy ý hoặc chi không được chứng minh.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -816,7 +830,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -925,7 +941,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Kiểm tra di sản đã chia chưa và có cam kết chịu thêm nghĩa vụ hay không.\n\nKhoản 2 Điều 615 giao người quản lý thực hiện nghĩa vụ tài sản theo thỏa thuận những người thừa kế khi di sản chưa chia và trong phạm vi di sản. Khoản 1 không mặc định dùng tài sản riêng trả vượt di sản khi không thỏa thuận khác. Quản lý không phải việc nhận thay toàn bộ nghĩa vụ cá nhân của người chết; cũng không được chia hết để bỏ qua nghĩa vụ còn phải thanh toán.",
+    "explanation": "Khoản 2 Điều 615 giao người quản lý thực hiện nghĩa vụ tài sản theo thỏa thuận những người thừa kế khi di sản chưa chia và trong phạm vi di sản. Khoản 1 không mặc định dùng tài sản riêng trả vượt di sản khi không thỏa thuận khác. Quản lý không phải việc nhận thay toàn bộ nghĩa vụ cá nhân của người chết; cũng không được chia hết để bỏ qua nghĩa vụ còn phải thanh toán.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -953,7 +969,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -993,7 +1011,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Lấy tỷ lệ phần thực nhận, rồi kiểm tra trần trách nhiệm từng người.\n\nKhoản 3 Điều 615 phân bổ tương ứng phần đã nhận và không vượt phần đó, trừ thỏa thuận khác. Tỷ lệ nhận 300:100 = 3:1 nên khoản 200 triệu phân bổ 150:50, đều nằm trong giới hạn. Số người thừa kế không phải căn cứ chia đều khi phần thực nhận khác nhau; việc một người nhận nhiều không khiến người còn lại hết nghĩa vụ.",
+    "explanation": "Khoản 3 Điều 615 phân bổ tương ứng phần đã nhận và không vượt phần đó, trừ thỏa thuận khác. Tỷ lệ nhận 300:100 = 3:1 nên khoản 200 triệu phân bổ 150:50, đều nằm trong giới hạn. Số người thừa kế không phải căn cứ chia đều khi phần thực nhận khác nhau; việc một người nhận nhiều không khiến người còn lại hết nghĩa vụ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1015,7 +1033,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1055,7 +1075,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Truy nguồn sở hữu, không chỉ nhìn nơi và dịp giao tiền.\n\nDi sản theo Điều 612 là tài sản của người chết, gồm phần của người chết trong tài sản chung. Điều 611 xác định thời điểm mở thừa kế khi chết; khoản tặng riêng cho người vợ sau đó theo dữ kiện không từng thuộc người chết. Điều 457 xác định giao dịch tặng cho. Không khái quát mọi tiền phúng viếng đều thuộc một người; phải xét ý chí người đưa tiền, người nhận và mục đích từng khoản.",
+    "explanation": "Di sản theo Điều 612 là tài sản của người chết, gồm phần của người chết trong tài sản chung. Điều 611 xác định thời điểm mở thừa kế khi chết; khoản tặng riêng cho người vợ sau đó theo dữ kiện không từng thuộc người chết. Điều 457 xác định giao dịch tặng cho. Không khái quát mọi tiền phúng viếng đều thuộc một người; phải xét ý chí người đưa tiền, người nhận và mục đích từng khoản.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1087,7 +1107,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1127,7 +1149,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Phân biệt chia một hiện vật với cho một số tiền cố định.\n\nKhoản 2 Điều 659 gắn hiện vật được chỉ định với hoa lợi, lợi tức thu được từ hiện vật, đồng thời người nhận chịu phần giá trị bị giảm sút đến lúc chia. Giá giảm do thị trường không phải lỗi người khác làm tiêu hủy để đòi bồi thường. Câu đã loại trừ nghĩa vụ và quyền bắt buộc có thể ảnh hưởng phép phân bổ.",
+    "explanation": "Khoản 2 Điều 659 gắn hiện vật được chỉ định với hoa lợi, lợi tức thu được từ hiện vật, đồng thời người nhận chịu phần giá trị bị giảm sút đến lúc chia. Giá giảm do thị trường không phải lỗi người khác làm tiêu hủy để đòi bồi thường. Câu đã loại trừ nghĩa vụ và quyền bắt buộc có thể ảnh hưởng phép phân bổ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1149,7 +1171,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1189,7 +1213,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định di chúc ghi hiện vật, số tiền hay tỷ lệ trước khi chọn mốc định giá.\n\nKhoản 3 Điều 659 quy định tỷ lệ được tính trên giá trị khối di sản đang còn tại thời điểm phân chia. Di chúc không cho khoản tiền cố định 400 triệu và không định đoạt một hiện vật cụ thể, nên không dùng giá ngày chết để cố định phần hưởng. Sự thay đổi giá hợp pháp tự nó không làm di chúc mất hiệu lực.",
+    "explanation": "Khoản 3 Điều 659 quy định tỷ lệ được tính trên giá trị khối di sản đang còn tại thời điểm phân chia. Di chúc không cho khoản tiền cố định 400 triệu và không định đoạt một hiện vật cụ thể, nên không dùng giá ngày chết để cố định phần hưởng. Sự thay đổi giá hợp pháp tự nó không làm di chúc mất hiệu lực.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1211,7 +1235,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1251,7 +1277,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Lấy danh sách người được chỉ định, không thay bằng hàng thừa kế theo pháp luật.\n\nKhoản 1 Điều 659 đặt quy tắc chia đều giữa những người được chỉ định trong di chúc khi không xác định rõ phần và không có thỏa thuận khác. Không tự thay danh sách này bằng các hàng tại Điều 651. Quan hệ gia đình không làm tăng tỷ lệ trong tình huống đã loại trừ phần bắt buộc.",
+    "explanation": "Khoản 1 Điều 659 đặt quy tắc chia đều giữa những người được chỉ định trong di chúc khi không xác định rõ phần và không có thỏa thuận khác. Không tự thay danh sách này bằng các hàng tại Điều 651. Quan hệ gia đình không làm tăng tỷ lệ trong tình huống đã loại trừ phần bắt buộc.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1273,7 +1299,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1375,7 +1403,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Phân biệt trả nợ của người chết với hoàn trả tài sản do bị bác bỏ quyền hưởng.\n\nKhoản 2 Điều 662 điều chỉnh riêng việc người đã nhận bị bác bỏ quyền: trả lại di sản hoặc khoản tiền tương đương giá trị đã hưởng tại thời điểm chia. Đây không phải khoản nợ của người chết được phân bổ theo Điều 615. Việc dùng tiền không tạo quyền giữ phần đã nhận sai; khả năng thi hành thực tế khác với xác định mức nghĩa vụ.",
+    "explanation": "Khoản 2 Điều 662 điều chỉnh riêng việc người đã nhận bị bác bỏ quyền: trả lại di sản hoặc khoản tiền tương đương giá trị đã hưởng tại thời điểm chia. Đây không phải khoản nợ của người chết được phân bổ theo Điều 615. Việc dùng tiền không tạo quyền giữ phần đã nhận sai; khả năng thi hành thực tế khác với xác định mức nghĩa vụ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1397,7 +1425,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1649,7 +1679,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Giải quyết hiệu lực phần di chúc trước, rồi mới xét thế vị trong chia theo pháp luật.\n\nNgười hưởng theo di chúc chết trước làm phần chỉ định đó không có hiệu lực theo Điều 643. Phần này chuyển sang thừa kế theo pháp luật theo điểm c khoản 2 Điều 650; khi đó Điều 652 mới được áp dụng cho nhánh A. B và nhánh A chia hai suất bằng nhau. Không dùng thế vị để tự thay tên người hưởng trong một di chúc vẫn có hiệu lực cho A.",
+    "explanation": "Người hưởng theo di chúc chết trước làm phần chỉ định đó không có hiệu lực theo Điều 643. Phần này chuyển sang thừa kế theo pháp luật theo điểm c khoản 2 Điều 650; khi đó Điều 652 mới được áp dụng cho nhánh A. B và nhánh A chia hai suất bằng nhau. Không dùng thế vị để tự thay tên người hưởng trong một di chúc vẫn có hiệu lực cho A.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1690,7 +1720,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1730,7 +1762,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Kiểm tra khả năng thanh toán nghĩa vụ trước khi tách phần thờ cúng.\n\nKhoản 2 Điều 645 không cho dành một phần di sản dùng vào thờ cúng khi toàn bộ di sản không đủ thanh toán nghĩa vụ tài sản. Ý chí thờ cúng không vượt điều kiện này. Điều 615 không tự buộc con lấy tài sản riêng trả vượt di sản khi không thỏa thuận khác. Câu đã xác định nghĩa vụ và tổng giá trị, không tranh luận về chứng minh nợ.",
+    "explanation": "Khoản 2 Điều 645 không cho dành một phần di sản dùng vào thờ cúng khi toàn bộ di sản không đủ thanh toán nghĩa vụ tài sản. Ý chí thờ cúng không vượt điều kiện này. Điều 615 không tự buộc con lấy tài sản riêng trả vượt di sản khi không thỏa thuận khác. Câu đã xác định nghĩa vụ và tổng giá trị, không tranh luận về chứng minh nợ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1758,7 +1790,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1798,7 +1832,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Đọc ngoại lệ của quy tắc di tặng không phải thực hiện nghĩa vụ.\n\nKhoản 3 Điều 646 cho người được di tặng không thực hiện nghĩa vụ với phần di tặng, nhưng có ngoại lệ khi toàn bộ di sản không đủ thanh toán nghĩa vụ: dùng phần di tặng thực hiện phần còn lại. Tổng 300 triệu không đủ trả 350 triệu nên phần di tặng 100 triệu cũng được sử dụng sau 200 triệu, vẫn còn thiếu 50 triệu. Không mở rộng thành trách nhiệm toàn bộ bằng tài sản riêng và không dùng khẩu hiệu miễn nợ để bỏ ngoại lệ.",
+    "explanation": "Khoản 3 Điều 646 cho người được di tặng không thực hiện nghĩa vụ với phần di tặng, nhưng có ngoại lệ khi toàn bộ di sản không đủ thanh toán nghĩa vụ: dùng phần di tặng thực hiện phần còn lại. Tổng 300 triệu không đủ trả 350 triệu nên phần di tặng 100 triệu cũng được sử dụng sau 200 triệu, vẫn còn thiếu 50 triệu. Không mở rộng thành trách nhiệm toàn bộ bằng tài sản riêng và không dùng khẩu hiệu miễn nợ để bỏ ngoại lệ.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1820,7 +1854,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1860,7 +1896,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Tách xác định phần quyền với thời điểm được chia hiện vật.\n\nĐiều 661 cho bên vợ/chồng còn sống yêu cầu Tòa án xác định phần mà người thừa kế hưởng nhưng chưa chia nếu chia ảnh hưởng nghiêm trọng đời sống. Điều 66 khoản 3 Luật HNGĐ dẫn cơ chế hạn chế này. Không đồng nhất chưa chia với tước quyền hưởng hoặc quyền tự hoãn vô thời hạn; thời hạn và việc gia hạn vẫn theo điều kiện luật định.",
+    "explanation": "Điều 661 cho bên vợ/chồng còn sống yêu cầu Tòa án xác định phần mà người thừa kế hưởng nhưng chưa chia nếu chia ảnh hưởng nghiêm trọng đời sống. Điều 66 khoản 3 Luật HNGĐ dẫn cơ chế hạn chế này. Không đồng nhất chưa chia với tước quyền hưởng hoặc quyền tự hoãn vô thời hạn; thời hạn và việc gia hạn vẫn theo điều kiện luật định.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -1888,7 +1924,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2058,7 +2096,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định khiếu nại đến trước hay sau thời điểm công chứng, không chỉ ngày hết niêm yết.\n\nKhoản 4 Điều 59 chỉ cho công chứng sau xác nhận hoàn thành niêm yết và không nhận khiếu nại, tố cáo liên quan. Khoản 6 Điều 44 NĐ104 dự liệu khiếu nại sau xác nhận nhưng trước công chứng: phải tạm dừng để xử lý thông tin. Xác nhận thủ tục không chứng minh danh sách tuyệt đối đúng; CCV không thay Tòa án phán quyết ngay khi quyền còn tranh chấp.",
+    "explanation": "Khoản 4 Điều 59 chỉ cho công chứng sau xác nhận hoàn thành niêm yết và không nhận khiếu nại, tố cáo liên quan. Khoản 6 Điều 44 NĐ104 dự liệu khiếu nại sau xác nhận nhưng trước công chứng: phải tạm dừng để xử lý thông tin. Xác nhận thủ tục không chứng minh danh sách tuyệt đối đúng; CCV không thay Tòa án phán quyết ngay khi quyền còn tranh chấp.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -2087,7 +2125,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2203,7 +2243,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Tách nơi cư trú cuối cùng, nơi có bất động sản và nơi ngân hàng giữ tiền.\n\nKhoản 2 Điều 44 xác định nơi thường trú cuối cùng; khoản 3 thêm UBND cấp xã nơi có bất động sản khi di sản có bất động sản, kể cả cùng động sản. Vì vậy cần A và B. Quy định không tự yêu cầu thêm xã đặt chi nhánh ngân hàng chỉ vì có tiền gửi; câu đã xác định thường trú và các xã khác nhau, không xét trường hợp không xác định nơi cư trú hoặc ở nước ngoài.",
+    "explanation": "Khoản 2 Điều 44 xác định nơi thường trú cuối cùng; khoản 3 thêm UBND cấp xã nơi có bất động sản khi di sản có bất động sản, kể cả cùng động sản. Vì vậy cần A và B. Quy định không tự yêu cầu thêm xã đặt chi nhánh ngân hàng chỉ vì có tiền gửi; câu đã xác định thường trú và các xã khác nhau, không xét trường hợp không xác định nơi cư trú hoặc ở nước ngoài.",
     "legalBasis": [
       {
         "document": "Nghị định số 104/2025/NĐ-CP",
@@ -2231,7 +2271,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   }
 ]

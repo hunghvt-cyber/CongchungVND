@@ -640,7 +640,7 @@
     "answers": [
       {
         "id": "A",
-        "text": "Việc bán tài sản có giá trị lớn phải được người giám sát việc giám hộ đồng ý.",
+        "text": "Việc cho thuê tài sản có giá trị lớn phải được người giám sát việc giám hộ đồng ý.",
         "correct": true,
         "explanation": "Yêu cầu đồng ý áp dụng với giao dịch về tài sản có giá trị lớn."
       },
@@ -686,7 +686,9 @@
       "difficultyReview": "hard_scenario_estimated_pending_trial",
       "evidenceFile": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
       "previousEvidenceFile": "reports/calibration-next-40-legal-review-2026-10-12.json",
-      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json"
+      "difficultyUpgradeReport": "reports/difficulty-upgrade-100-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

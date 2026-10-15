@@ -137,12 +137,12 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chỉ trả hồ sơ mà không cần giải thích vì chưa tiếp nhận",
+        "text": "Trả hồ sơ và chỉ giải thích nếu người yêu cầu khiếu nại về việc từ chối",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ giải thích sau khi người yêu cầu nộp đủ phí công chứng",
+        "text": "Giải thích lý do sau khi người yêu cầu thanh toán khoản phí tiếp nhận hồ sơ",
         "correct": false
       },
       {
@@ -152,7 +152,7 @@
       },
       {
         "id": "D",
-        "text": "Yêu cầu người nộp tự tra cứu lý do trên website",
+        "text": "Niêm yết danh sách lý do chung thay cho việc giải thích trường hợp cụ thể",
         "correct": false
       }
     ],
@@ -176,7 +176,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -263,22 +265,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Không tính thời gian xác minh vào thời hạn công chứng",
+        "text": "Loại thời gian xác minh ra khỏi thời hạn công chứng theo luật",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Tính toàn bộ thời gian xác minh vào giới hạn hai ngày",
+        "text": "Tính thời gian xác minh vào thời hạn nhưng áp trần mười ngày cho hồ sơ này",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tính thời gian xác minh nhưng nhân đôi giới hạn hai ngày",
+        "text": "Tính thời gian xác minh từ ngày tiếp nhận, chỉ loại thời gian chờ trả kết quả",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ không tính nếu người yêu cầu ký miễn trách nhiệm cho văn phòng",
+        "text": "Chỉ loại thời gian xác minh nếu có thỏa thuận kéo dài bằng văn bản",
         "correct": false
       }
     ],
@@ -302,7 +304,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -383,22 +387,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chỉ được công chứng nếu người đó đủ 80 tuổi",
+        "text": "Chỉ được đến bệnh viện nếu người yêu cầu còn đáp ứng điều kiện tuổi cao",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Phải đưa người đó đến trụ sở dù đang điều trị nội trú",
+        "text": "Chỉ được đến bệnh viện khi chứng minh người nội trú không thể đi lại",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Có căn cứ công chứng ngoài trụ sở và phải thể hiện lý do trong lời chứng",
+        "text": "Có căn cứ ngoài trụ sở; phải thể hiện lý do công chứng ngoài trụ sở trong lời chứng",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Có thể ra bệnh viện nhưng không cần ghi địa điểm thực tế",
+        "text": "Có thể đến bệnh viện nhưng ghi địa điểm công chứng là trụ sở văn phòng",
         "correct": false
       }
     ],
@@ -430,7 +434,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -511,22 +517,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Không bắt buộc người làm chứng chỉ vì không ký được trong tình huống này",
+        "text": "Không bắt buộc có người làm chứng chỉ từ việc không ký được trong dữ kiện này",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Bắt buộc hai người làm chứng trong mọi trường hợp điểm chỉ",
+        "text": "Phải có người làm chứng vì mọi trường hợp điểm chỉ đều cần người xác nhận",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Không được công chứng nếu không ký được dù điểm chỉ được",
+        "text": "Phải có người làm chứng vì việc đọc được không thay được khả năng ký tên",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Phải để công chứng viên ký thay người yêu cầu",
+        "text": "Phải có người làm chứng nếu văn bản có nhiều trang dù vẫn điểm chỉ được",
         "correct": false
       }
     ],
@@ -550,7 +556,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -571,22 +579,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Công chứng và ghi không tìm được người làm chứng",
+        "text": "Tiếp tục nếu ghi rõ không tìm được người làm chứng trong lời chứng",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Từ chối công chứng",
+        "text": "Từ chối khi không chỉ định được người làm chứng đủ điều kiện bắt buộc",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Công chứng nếu có nhân viên văn phòng đứng ngoài quan sát",
+        "text": "Tiếp tục nếu thu hẹp người làm chứng thành người chỉ xác nhận chữ ký",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Thay người làm chứng bằng cam đoan của người yêu cầu",
+        "text": "Tiếp tục sau khi người yêu cầu cam kết tự chịu rủi ro do thiếu người làm chứng",
         "correct": false
       }
     ],
@@ -610,7 +618,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -631,22 +641,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chấp nhận người bán vì biết hai ngôn ngữ",
+        "text": "Nhận người bán phiên dịch nếu chứng minh thông thạo cả hai ngôn ngữ",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chấp nhận nếu người mua ký miễn trách nhiệm phiên dịch",
+        "text": "Nhận người bán phiên dịch nếu bên mua đồng ý bằng văn bản trước khi ký",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Yêu cầu người phiên dịch đủ điều kiện và không có quyền, lợi ích, nghĩa vụ liên quan",
+        "text": "Yêu cầu người phiên dịch đủ điều kiện, không có quyền, lợi ích, nghĩa vụ liên quan",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Chỉ cần dịch trang cuối chứa chữ ký",
+        "text": "Nhận người bán phiên dịch nếu bổ sung một người làm chứng độc lập",
         "correct": false
       }
     ],
@@ -670,7 +680,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -691,22 +703,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Được nếu khách hàng ký cam kết tự chịu trách nhiệm",
+        "text": "Được ghi nếu tách rõ trách nhiệm của khách về dự thảo họ tự soạn",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Được vì công chứng viên chỉ chứng nhận chữ ký trong mọi giao dịch",
+        "text": "Được ghi nếu lời chứng vẫn xác nhận đúng chữ ký và ý chí tự nguyện",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Được nếu tổ chức hành nghề đồng ý",
+        "text": "Được ghi nếu các bên cùng cam kết không yêu cầu công chứng viên bồi thường",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Không được đưa điều khoản loại trừ trách nhiệm như vậy vào lời chứng",
+        "text": "Không được đưa nội dung trốn tránh, loại trừ trách nhiệm đó vào lời chứng",
         "correct": true
       }
     ],
@@ -730,7 +742,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -811,22 +825,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Công chứng vì bên bán là chủ sở hữu ban đầu",
+        "text": "Đủ điều kiện vì bên bán là người khởi xướng giao dịch trước đây",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chưa đủ điều kiện công chứng thỏa thuận chấm dứt hợp đồng",
+        "text": "Chưa đủ điều kiện công chứng thỏa thuận chấm dứt chỉ từ yêu cầu của bên bán",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Công chứng nếu bên bán trả lại phí công chứng",
+        "text": "Đủ điều kiện nếu bên bán có giấy tờ chứng minh đã hoàn trả tài sản nhận được",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Công chứng rồi gửi thông báo để thay sự đồng ý của bên mua",
+        "text": "Đủ điều kiện nếu gửi thông báo cho bên mua sau khi công chứng văn bản",
         "correct": false
       }
     ],
@@ -850,7 +864,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -931,22 +947,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Được tự chọn Y vì cùng tỉnh",
+        "text": "Có thể chọn Y vì quy tắc cùng tỉnh đã đáp ứng thẩm quyền bất động sản",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ ngân hàng nhận thế chấp lần hai quyết định nơi công chứng",
+        "text": "Có thể chọn Y nếu ngân hàng lần hai chấp thuận bằng văn bản",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Không được thế chấp lần hai trong bất kỳ trường hợp nào",
+        "text": "Có thể chọn Y nếu gửi bản gốc hợp đồng lần hai về X để lưu hồ sơ",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Về nguyên tắc phải công chứng tại X",
+        "text": "Phải thực hiện tại X theo quy tắc công chứng thế chấp tiếp khi X vẫn hoạt động",
         "correct": true
       }
     ],
@@ -970,7 +986,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1050,22 +1068,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Không được ghi giờ, phút vì luật chỉ cho ghi ngày",
+        "text": "Không ghi thêm giờ, phút khi cả hai giao dịch cùng ngày công chứng",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Có thể ghi giờ, phút theo đề nghị; vẫn phải ghi ngày, tháng, năm",
+        "text": "Có thể ghi thêm giờ, phút theo đề nghị; vẫn phải ghi ngày, tháng, năm",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Phải thay ngày, tháng, năm bằng giờ, phút",
+        "text": "Có thể chỉ ghi giờ, phút nếu ngày đã thể hiện trong sổ công chứng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ được ghi giờ, phút khi có quyết định của Tòa án",
+        "text": "Chỉ ghi giờ, phút nếu cả hai bên cùng yêu cầu và công chứng viên chấp thuận",
         "correct": false
       }
     ],
@@ -1089,7 +1107,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1378,22 +1398,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Luôn là tài sản chung vì mua sau kết hôn",
+        "text": "Tài sản chung vì được mua bằng một giao dịch phát sinh sau kết hôn",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chung nếu chồng biết việc mua",
+        "text": "Tài sản chung nếu người chồng biết và không phản đối việc mua",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tài sản riêng hình thành từ tài sản riêng",
+        "text": "Tài sản riêng vì được hình thành hoàn toàn từ nguồn riêng đã chứng minh",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Phải chia đôi vì tài sản cũ đã được bán",
+        "text": "Tài sản chung vì tiền đã qua tài khoản sử dụng trong thời kỳ hôn nhân",
         "correct": false
       }
     ],
@@ -1423,7 +1443,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1444,22 +1466,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tài sản riêng vì căn hộ là riêng",
+        "text": "Tài sản riêng vì lợi tức đi theo nguồn sở hữu riêng của căn hộ",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Tự động thuộc người trực tiếp thu tiền",
+        "text": "Tài sản riêng của người trực tiếp đứng tên hợp đồng và thu tiền thuê",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ là tài sản chung nếu chồng góp chi phí sửa chữa",
+        "text": "Chỉ là tài sản chung khi có chứng cứ hai người cùng quản lý việc cho thuê",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Tài sản chung của vợ chồng",
+        "text": "Tài sản chung theo quy tắc lợi tức phát sinh trong hôn nhân, với dữ kiện đã cho",
         "correct": true
       }
     ],
@@ -1489,7 +1511,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2002,22 +2026,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tài sản riêng của vợ theo ngoại lệ sau chia chung",
+        "text": "Tài sản riêng theo quy tắc về lợi tức sau khi chia tài sản chung hợp pháp",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Luôn là chung vì vẫn đang trong hôn nhân",
+        "text": "Tài sản chung vì hôn nhân vẫn tồn tại tại thời điểm phát sinh tiền thuê",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Thuộc riêng chồng vì là nguồn kinh doanh",
+        "text": "Tài sản chung vì chỉ có căn hộ được chia, không ghi riêng tiền thuê tương lai",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Phải có Tòa án chia lần nữa mới xác định được",
+        "text": "Chưa thể là riêng nếu chưa có thỏa thuận riêng về lợi tức sau khi chia",
         "correct": false
       }
     ],
@@ -2041,7 +2065,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2247,22 +2273,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Ngày đăng ký kết hôn 20/10",
+        "text": "Từ ngày đăng ký kết hôn 20/10",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Ngay khi công chứng 01/10 trong mọi trường hợp",
+        "text": "Từ ngày văn bản thỏa thuận được công chứng 01/10",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Ngày hai bên cùng chuyển về sống chung",
+        "text": "Từ ngày hai người bắt đầu cùng sử dụng tài sản theo thỏa thuận",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Ngày trả phí công chứng",
+        "text": "Từ ngày hình thành tài sản đầu tiên thuộc chế độ đã thỏa thuận",
         "correct": false
       }
     ],
@@ -2285,7 +2311,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2426,22 +2454,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Quản lý trong sáu tháng làm toàn bộ tài sản thành riêng của vợ",
+        "text": "Quản lý làm người vợ được ưu tiên nhận toàn bộ trước khi xét quyền thừa kế khác",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Vợ không có quyền quản lý tài sản chung trong mọi trường hợp",
+        "text": "Người vợ phải chờ chia di sản xong mới có quyền quản lý tài sản chung",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tất cả di sản phải chia ngay dù ảnh hưởng nghiêm trọng đời sống gia đình",
+        "text": "Người vợ được tự ấn định thời hạn không chia nếu gia đình còn cần chỗ ở",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Quyền quản lý không đồng nghĩa hưởng toàn bộ; có thể yêu cầu Tòa án hạn chế chia nếu đủ điều kiện",
+        "text": "Quản lý không đồng nghĩa hưởng toàn bộ; hạn chế chia phải theo cơ chế luật định",
         "correct": true
       }
     ],
@@ -2471,7 +2499,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -2675,22 +2705,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Chỉ thiếu văn bản ghi giá trị tặng cho",
+        "text": "Chỉ thiếu sự đồng ý của người nhận về việc tiếp nhận rủi ro ngăn chặn",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ thiếu cam kết không tranh chấp của người nhận",
+        "text": "Chỉ thiếu cam kết bên tặng sẽ đề nghị hủy biện pháp sau khi ký",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Không thiếu vì tặng cho không phải chuyển nhượng có tiền",
+        "text": "Không thiếu điều kiện này vì tặng cho không phát sinh khoản tiền chuyển nhượng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời",
+        "text": "Chưa đáp ứng điều kiện quyền sử dụng đất không bị áp dụng biện pháp khẩn cấp tạm thời",
         "correct": true
       }
     ],
@@ -2715,7 +2745,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4121,30 +4153,30 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Ông H lập di chúc để lại một phần di sản cho người con K. Trước khi lập di chúc, ông H đã biết rõ K từng thực hiện hành vi thuộc trường hợp không được quyền hưởng di sản theo khoản 1 Điều 621 Bộ luật Dân sự, nhưng vẫn thể hiện rõ ý chí cho K hưởng phần tài sản đó. Khi ông H qua đời, những người thừa kế khác yêu cầu loại K khỏi di chúc. Cách giải quyết nào phù hợp?",
-        "Tháng 10/2026: Khoản 2 Điều 621 đặt ngoại lệ gì cho người không có quyền hưởng nhưng người lập di chúc biết rõ hành vi và vẫn cho họ hưởng?",
-        "Tháng 10/2026: Cha biết hành vi của con thuộc khoản 1 Điều 621 nhưng vẫn lập di chúc hợp pháp cho con phần tài sản. Có thể loại phần hưởng theo di chúc chỉ vì hành vi ấy không?"
+        "Tháng 10/2026: Ông H biết rõ con K đã có hành vi thuộc khoản 1 Điều 621 BLDS nhưng vẫn lập di chúc hợp pháp cho K một phần di sản. Khi H chết, các con khác phản đối vì cho rằng không thể khôi phục quyền hưởng của K. Riêng phần đã cho K trong di chúc được giải quyết thế nào?",
+        "Tháng 10/2026: K có hành vi khiến mình không được quyền hưởng di sản theo khoản 1 Điều 621. Di chúc hợp pháp ghi người cha đã biết hành vi ấy và vẫn cho K hưởng căn nhà. Các đồng thừa kế không đồng ý giao nhà. Ý chí nào quyết định việc K được hưởng theo di chúc trong trường hợp này?",
+        "Tháng 10/2026: Gia đình đề nghị loại K khỏi di chúc dù đã chứng minh người lập biết rõ hành vi thuộc khoản 1 Điều 621 của K và vẫn cho K hưởng. Họ đề xuất chỉ khôi phục phần hưởng nếu mọi đồng thừa kế chấp thuận. Cách xử lý nào đúng?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Người con bị loại tuyệt đối dù người lập biết và vẫn cho hưởng",
+        "text": "Loại phần của K vì hành vi thuộc khoản 1 làm mất cả quyền hưởng theo di chúc sau đó",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ được hưởng theo pháp luật, không được theo di chúc",
+        "text": "Chuyển phần cho K sang chia theo pháp luật để K nhận cùng hàng thừa kế",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Người con vẫn được hưởng theo di chúc trong trường hợp này",
+        "text": "Cho K hưởng phần được định đoạt trong di chúc theo ngoại lệ người lập biết hành vi",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Phải có các đồng thừa kế bỏ phiếu đồng ý mới được hưởng",
+        "text": "Chỉ cho K nhận phần trong di chúc sau khi các đồng thừa kế cùng chấp thuận",
         "correct": false
       }
     ],
@@ -4168,7 +4200,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4255,22 +4289,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Mặc nhiên bị hủy bỏ",
+        "text": "Di chúc miệng mặc nhiên bị hủy bỏ theo điều kiện đã nêu",
         "correct": true
       },
       {
         "id": "B",
-        "text": "Tiếp tục có hiệu lực vĩnh viễn nếu người làm chứng còn sống",
+        "text": "Di chúc miệng tiếp tục nếu những người làm chứng xác nhận lại nội dung",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chỉ bị hủy khi công chứng viên ra quyết định",
+        "text": "Di chúc miệng chỉ bị hủy khi người lập thể hiện ý chí hủy bằng văn bản",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Tự chuyển thành di chúc bằng văn bản",
+        "text": "Di chúc miệng tiếp tục cho đến khi người lập có một di chúc thay thế",
         "correct": false
       }
     ],
@@ -4294,7 +4328,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4432,30 +4468,30 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Bà M để lại di chúc gồm các phần định đoạt độc lập đối với ba tài sản. Sau khi bà qua đời, một phần định đoạt được xác định không hợp pháp, nhưng sai sót này không ảnh hưởng đến hai phần còn lại. Một người thừa kế yêu cầu tuyên toàn bộ di chúc vô hiệu. Phạm vi phần di chúc không có hiệu lực được xác định thế nào?",
-        "Tháng 10/2026: Khoản 4 Điều 643 quy định phạm vi không có hiệu lực khi chỉ một phần di chúc không hợp pháp và không ảnh hưởng các phần khác?",
-        "Tháng 10/2026: Di chúc có hai phần độc lập; một phần không hợp pháp, phần còn lại hợp pháp và không bị ảnh hưởng. Có phải đưa toàn bộ di chúc vào diện không có hiệu lực không?"
+        "Tháng 10/2026: Bà M lập di chúc chia ba tài sản thành ba phần độc lập. Một phần được xác định không hợp pháp, không ảnh hưởng hai phần còn lại. Người nhận phần đó yêu cầu bỏ toàn bộ di chúc để chia theo pháp luật. Phạm vi không có hiệu lực được xác định ra sao?",
+        "Tháng 10/2026: Di chúc của H có phần cho X căn nhà và phần cho Y khoản tiền, hai phần độc lập. Chỉ định đoạt khoản tiền không hợp pháp, phần nhà vẫn hợp pháp và không bị ảnh hưởng. Có thể lấy lỗi của phần tiền để loại cả phần nhà không?",
+        "Tháng 10/2026: Khi giải quyết di sản, chỉ một định đoạt trong di chúc không hợp pháp và có thể tách riêng. Người thừa kế muốn tự điều chỉnh định đoạt ấy theo ý mình rồi thực hiện cả bản. Phương án nào phù hợp quy tắc hiệu lực từng phần?"
       ]
     },
     "answers": [
       {
         "id": "A",
-        "text": "Toàn bộ di chúc đương nhiên không có hiệu lực",
+        "text": "Toàn bộ di chúc mất hiệu lực vì được lập trong cùng một văn bản",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Phần sai được tự sửa theo mong muốn người thừa kế",
+        "text": "Phần sai được thay bằng phương án do đa số người thừa kế lựa chọn",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Tất cả tài sản phải chia theo pháp luật dù phần còn lại độc lập",
+        "text": "Phần còn lại cũng chia theo pháp luật vì không thể thực hiện trọn bản di chúc",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Chỉ phần không hợp pháp không có hiệu lực",
+        "text": "Chỉ phần không hợp pháp không có hiệu lực; các phần độc lập còn lại được giữ",
         "correct": true
       }
     ],
@@ -4479,7 +4515,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4573,22 +4611,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Có, mọi con thành niên đều hưởng hai phần ba suất",
+        "text": "Có, vì cùng hàng thừa kế nên có cùng quyền hưởng phần bắt buộc",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Không, con thành niên phải không có khả năng lao động mới thuộc nhóm này",
+        "text": "Không, tư cách con thành niên phải kèm điều kiện không có khả năng lao động",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Có nếu không được di chúc nhắc tên",
+        "text": "Có, vì di chúc không ghi truất quyền nên quyền theo pháp luật được bảo lưu",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Có nếu là con cả",
+        "text": "Có, vì không được cho tài sản trong di chúc chính là điều kiện phát sinh phần bắt buộc",
         "correct": false
       }
     ],
@@ -4613,7 +4651,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4634,22 +4674,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tự động thuộc người được nhận căn nhà",
+        "text": "Thuộc người nhận nhà vì đó là người duy nhất được chỉ định trong di chúc",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Di chúc vô hiệu toàn bộ vì thiếu khoản tiền",
+        "text": "Chia toàn bộ theo pháp luật vì di chúc không bao quát hết tài sản",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Chia theo pháp luật đối với phần không được định đoạt",
+        "text": "Chia theo pháp luật riêng phần tiền chưa được định đoạt",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Tự động thuộc người đang giữ tiền",
+        "text": "Giao người quản lý di sản quyết định người nhận khoản tiền bỏ sót",
         "correct": false
       }
     ],
@@ -4674,7 +4714,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4827,22 +4869,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Luôn thế vị mọi trường hợp cha mẹ không nhận",
+        "text": "Có thế vị vì B không nhận nên suất của B được chuyển xuống con",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Không phát sinh thế vị chỉ từ việc B từ chối khi B còn sống",
+        "text": "Không phát sinh thế vị chỉ từ việc B còn sống và từ chối hợp lệ",
         "correct": true
       },
       {
         "id": "C",
-        "text": "Thế vị nếu các đồng thừa kế đồng ý miệng",
+        "text": "Có thế vị nếu việc B từ chối đã được lập thành văn bản công chứng",
         "correct": false
       },
       {
         "id": "D",
-        "text": "Thế vị nếu cháu đủ 18 tuổi",
+        "text": "Có thế vị nếu người cháu thuộc hàng thừa kế thứ hai của người chết",
         "correct": false
       }
     ],
@@ -4865,7 +4907,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -4886,22 +4930,22 @@
     "answers": [
       {
         "id": "A",
-        "text": "Bỏ niêm yết vì chỉ có một người",
+        "text": "Được miễn niêm yết vì không có việc chia giữa nhiều người",
         "correct": false
       },
       {
         "id": "B",
-        "text": "Chỉ niêm yết khi giá trị di sản trên một tỷ",
+        "text": "Được miễn niêm yết nếu người nhận có giấy tờ quan hệ thừa kế đầy đủ",
         "correct": false
       },
       {
         "id": "C",
-        "text": "Vẫn áp dụng thủ tục niêm yết theo quy định",
+        "text": "Vẫn thực hiện niêm yết theo thủ tục áp dụng cho trường hợp một người thừa kế",
         "correct": true
       },
       {
         "id": "D",
-        "text": "Chỉ cần người đó cam đoan không còn người thừa kế khác",
+        "text": "Được miễn niêm yết nếu có cam đoan bằng văn bản về việc không còn người khác",
         "correct": false
       }
     ],
@@ -4931,7 +4975,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

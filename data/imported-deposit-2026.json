@@ -36,7 +36,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định động sản hay nhà ở và nghĩa vụ mà khoản tiền bảo đảm.\n\nKý cược gắn với việc thuê động sản và bảo đảm trả lại tài sản thuê. Đặt cọc có thể bảo đảm giao kết hoặc thực hiện hợp đồng, kể cả hợp đồng thuê nhà. Không phải mọi khoản tiền trong quan hệ thuê đều là ký cược; ký quỹ còn có cơ chế gửi tiền tại tổ chức tín dụng.",
+    "explanation": "Ký cược gắn với việc thuê động sản và bảo đảm trả lại tài sản thuê. Đặt cọc có thể bảo đảm giao kết hoặc thực hiện hợp đồng, kể cả hợp đồng thuê nhà. Không phải mọi khoản tiền trong quan hệ thuê đều là ký cược; ký quỹ còn có cơ chế gửi tiền tại tổ chức tín dụng.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -64,7 +64,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -104,7 +106,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Phân biệt không chịu trả xe với xe không còn để trả.\n\nĐiều 329 khoản 2 xử lý riêng trường hợp tài sản thuê không còn để trả lại: tài sản ký cược thuộc về bên cho thuê. Quy tắc trả cọc và khoản tương đương khi bên nhận cọc từ chối không phải quy tắc ký cược. Câu hỏi chỉ xét khoản ký cược, không kết luận khoản này đã giải quyết hết mọi nghĩa vụ khác.",
+    "explanation": "Điều 329 khoản 2 xử lý riêng trường hợp tài sản thuê không còn để trả lại: tài sản ký cược thuộc về bên cho thuê. Quy tắc trả cọc và khoản tương đương khi bên nhận cọc từ chối không phải quy tắc ký cược. Câu hỏi chỉ xét khoản ký cược, không kết luận khoản này đã giải quyết hết mọi nghĩa vụ khác.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -126,7 +128,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -166,7 +170,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Tìm điều kiện xử lý gắn với tình trạng thực tế của tài sản thuê.\n\nĐiều 329 khoản 2 cho bên cho thuê quyền đòi lại tài sản khi bên thuê không trả. Chỉ việc tài sản không còn để trả mới là căn cứ được nêu cho tài sản ký cược thuộc về bên cho thuê. Không thể suy từ một biện pháp bảo đảm sang việc mua bán hoặc chuyển sở hữu xe.",
+    "explanation": "Điều 329 khoản 2 cho bên cho thuê quyền đòi lại tài sản khi bên thuê không trả. Chỉ việc tài sản không còn để trả mới là căn cứ được nêu cho tài sản ký cược thuộc về bên cho thuê. Không thể suy từ một biện pháp bảo đảm sang việc mua bán hoặc chuyển sở hữu xe.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -188,7 +192,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -290,7 +296,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Tách tiền hoàn lại với khoản trả thêm; sau đó mới cộng.\n\nBên nhận cọc từ chối phải trả lại tài sản đặt cọc và một khoản tương đương giá trị tài sản đặt cọc. Tổng là 600 triệu, trong đó khoản trả thêm là 300 triệu. Không nhầm tổng tiền trả với riêng phần chế tài, cũng không tự thêm mức gấp ba khi chưa thỏa thuận.",
+    "explanation": "Bên nhận cọc từ chối phải trả lại tài sản đặt cọc và một khoản tương đương giá trị tài sản đặt cọc. Tổng là 600 triệu, trong đó khoản trả thêm là 300 triệu. Không nhầm tổng tiền trả với riêng phần chế tài, cũng không tự thêm mức gấp ba khi chưa thỏa thuận.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -312,7 +318,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -352,7 +360,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Kiểm tra điều khoản có nói rõ khoản trả thêm hay tổng số tiền không.\n\nKhoản 2 Điều 328 dành ngoại lệ cho thỏa thuận khác. Câu đã tách rõ tiền hoàn và tiền trả thêm nên tổng là 1,2 tỷ. Không tự áp quy tắc mặc định thay điều khoản rõ ràng, cũng không đưa trần phạt của một chế độ pháp luật khác thành trần chung cho mọi giao dịch dân sự.",
+    "explanation": "Khoản 2 Điều 328 dành ngoại lệ cho thỏa thuận khác. Câu đã tách rõ tiền hoàn và tiền trả thêm nên tổng là 1,2 tỷ. Không tự áp quy tắc mặc định thay điều khoản rõ ràng, cũng không đưa trần phạt của một chế độ pháp luật khác thành trần chung cho mọi giao dịch dân sự.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -374,7 +382,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -414,7 +424,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Phân loại khoản tiền trước khi chọn chế tài.\n\nĐiều 37 Nghị định 21/2021 quy định khoản tiền không được xác định rõ là cọc hay trả trước được coi là trả trước. Thời điểm giao sớm không đủ biến khoản tiền thành cọc. Không được dùng riêng cơ chế mất cọc khi chưa xác định được bản chất bảo đảm.",
+    "explanation": "Điều 37 Nghị định 21/2021 quy định khoản tiền không được xác định rõ là cọc hay trả trước được coi là trả trước. Thời điểm giao sớm không đủ biến khoản tiền thành cọc. Không được dùng riêng cơ chế mất cọc khi chưa xác định được bản chất bảo đảm.",
     "legalBasis": [
       {
         "document": "Nghị định số 21/2021/NĐ-CP",
@@ -435,7 +445,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -475,7 +487,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: So sánh phạm vi bảo đảm, không chỉ so hai con số thời hạn.\n\nĐiều 293 khoản 1 cho phép bảo đảm một phần nghĩa vụ, còn Điều 328 xác định đặt cọc trong một thời hạn. Dữ kiện đã làm rõ phạm vi 24 tháng đầu, nên không thể chỉ lấy thời hạn thuê 36 tháng để bắt buộc kéo dài cọc. Phải ghi rõ nghĩa vụ nào còn được bảo đảm sau mốc hoàn cọc.",
+    "explanation": "Điều 293 khoản 1 cho phép bảo đảm một phần nghĩa vụ, còn Điều 328 xác định đặt cọc trong một thời hạn. Dữ kiện đã làm rõ phạm vi 24 tháng đầu, nên không thể chỉ lấy thời hạn thuê 36 tháng để bắt buộc kéo dài cọc. Phải ghi rõ nghĩa vụ nào còn được bảo đảm sau mốc hoàn cọc.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -503,7 +515,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -543,7 +557,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Đối chiếu sự kiện cần bảo đảm với sự kiện được mẫu dùng để hoàn cọc.\n\nĐặt cọc có thể bảo đảm giao kết hoặc thực hiện. Yêu cầu đang nhắm tới nghĩa vụ thực hiện sau khi giao kết, nhưng mẫu chỉ nhắm một sự kiện đã xảy ra và hoàn cọc ngay ở sự kiện đó. Giữ mẫu này sẽ không thể hiện đúng thỏa thuận cần công chứng; phải sửa nội dung bảo đảm và điều kiện hoàn cọc, không chỉ sửa tiêu đề.",
+    "explanation": "Đặt cọc có thể bảo đảm giao kết hoặc thực hiện. Yêu cầu đang nhắm tới nghĩa vụ thực hiện sau khi giao kết, nhưng mẫu chỉ nhắm một sự kiện đã xảy ra và hoàn cọc ngay ở sự kiện đó. Giữ mẫu này sẽ không thể hiện đúng thỏa thuận cần công chứng; phải sửa nội dung bảo đảm và điều kiện hoàn cọc, không chỉ sửa tiêu đề.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -565,7 +579,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -678,7 +694,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Tìm sự đồng ý của đúng bên đối với đúng tài sản cọc.\n\nĐiểm d khoản 2 Điều 38 Nghị định 21/2021 cấm bên nhận cọc xác lập giao dịch dân sự, khai thác, sử dụng tài sản cọc khi chưa có sự đồng ý của bên đặt. Lời hứa hoàn vật khác hay mục đích kiếm lợi không thay thế sự đồng ý; nhận giữ cọc chưa tự tạo quyền định đoạt vô hạn.",
+    "explanation": "Điểm d khoản 2 Điều 38 Nghị định 21/2021 cấm bên nhận cọc xác lập giao dịch dân sự, khai thác, sử dụng tài sản cọc khi chưa có sự đồng ý của bên đặt. Lời hứa hoàn vật khác hay mục đích kiếm lợi không thay thế sự đồng ý; nhận giữ cọc chưa tự tạo quyền định đoạt vô hạn.",
     "legalBasis": [
       {
         "document": "Nghị định số 21/2021/NĐ-CP",
@@ -701,7 +717,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -741,7 +759,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Phân biệt thay tài sản cọc với thay tài sản sẽ được mua.\n\nĐiểm b khoản 1 Điều 38 cho bên đặt cọc trao đổi, thay thế tài sản cọc khi bên nhận cọc đồng ý. Điều kiện tương đương giá trị không thay thế sự đồng ý ấy. Đây là thay chính tài sản bảo đảm, khác với việc thương lượng mua một căn nhà khác.",
+    "explanation": "Điểm b khoản 1 Điều 38 cho bên đặt cọc trao đổi, thay thế tài sản cọc khi bên nhận cọc đồng ý. Điều kiện tương đương giá trị không thay thế sự đồng ý ấy. Đây là thay chính tài sản bảo đảm, khác với việc thương lượng mua một căn nhà khác.",
     "legalBasis": [
       {
         "document": "Nghị định số 21/2021/NĐ-CP",
@@ -764,7 +782,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -872,7 +892,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Kiểm tra ai bị ràng buộc trong dự thảo và chứng cứ về ý chí/đại diện của họ.\n\nVấn đề là dự thảo đang ghi nhận cam kết của một người chưa chứng minh tham gia hoặc được đại diện. Điều 35 Luật HNGĐ yêu cầu thỏa thuận vợ chồng khi định đoạt tài sản chung và thỏa thuận bằng văn bản đối với bất động sản. Điều 42 khoản 4 LCC yêu cầu làm rõ khi hồ sơ có vấn đề chưa rõ, từ chối nếu không làm rõ được. Không được giả định vợ đồng ý, cũng không suy thành mọi giao dịch cọc một người ký đều đương nhiên vô hiệu.",
+    "explanation": "Vấn đề là dự thảo đang ghi nhận cam kết của một người chưa chứng minh tham gia hoặc được đại diện. Điều 35 Luật HNGĐ yêu cầu thỏa thuận vợ chồng khi định đoạt tài sản chung và thỏa thuận bằng văn bản đối với bất động sản. Điều 42 khoản 4 LCC yêu cầu làm rõ khi hồ sơ có vấn đề chưa rõ, từ chối nếu không làm rõ được. Không được giả định vợ đồng ý, cũng không suy thành mọi giao dịch cọc một người ký đều đương nhiên vô hiệu.",
     "legalBasis": [
       {
         "document": "Luật Công chứng số 46/2024/QH15",
@@ -908,7 +928,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -948,7 +970,7 @@
         "correct": false
       }
     ],
-    "explanation": "Gợi ý làm bài: Xác định thời điểm phát sinh và đến hạn nghĩa vụ hoàn tiền, không chỉ tên khoản tiền ban đầu.\n\nĐiều 357 áp dụng trách nhiệm chậm thực hiện nghĩa vụ trả tiền, không giới hạn ở hợp đồng vay. Khi nghĩa vụ hoàn tiền đã đến hạn và bị chậm, phải xem lãi chậm trả, thời gian chậm và lãi suất theo khoản 2. Điều này không đồng nghĩa mọi khoản cọc tự sinh lãi trong toàn bộ thời hạn đặt cọc.",
+    "explanation": "Điều 357 áp dụng trách nhiệm chậm thực hiện nghĩa vụ trả tiền, không giới hạn ở hợp đồng vay. Khi nghĩa vụ hoàn tiền đã đến hạn và bị chậm, phải xem lãi chậm trả, thời gian chậm và lãi suất theo khoản 2. Điều này không đồng nghĩa mọi khoản cọc tự sinh lãi trong toàn bộ thời hạn đặt cọc.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -976,7 +998,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -1016,7 +1040,7 @@
         "correct": true
       }
     ],
-    "explanation": "Gợi ý làm bài: Kiểm tra chủ thể và loại bất động sản để chọn luật chuyên ngành trước tính tỷ lệ.\n\nKhoản 5 Điều 23 Luật KDBĐS đặt quy tắc riêng cho chủ đầu tư ở nhóm giao dịch này: chỉ thu cọc không quá 5% giá bán và phải đủ điều kiện kinh doanh. 5% của 4 tỷ là 200 triệu; 300 triệu vượt trần. Trần thanh toán lần đầu là một quy tắc khác, không thay trần cọc. Không áp trần 5% máy móc cho mọi mua bán nhà có sẵn giữa cá nhân.",
+    "explanation": "Khoản 5 Điều 23 Luật KDBĐS đặt quy tắc riêng cho chủ đầu tư ở nhóm giao dịch này: chỉ thu cọc không quá 5% giá bán và phải đủ điều kiện kinh doanh. 5% của 4 tỷ là 200 triệu; 300 triệu vượt trần. Trần thanh toán lần đầu là một quy tắc khác, không thay trần cọc. Không áp trần 5% máy móc cho mọi mua bán nhà có sẵn giữa cá nhân.",
     "legalBasis": [
       {
         "document": "Luật Kinh doanh bất động sản số 29/2023/QH15 (đối chiếu VBHN 06/VBHN-VPQH năm 2025)",
@@ -1038,7 +1062,9 @@
       "variantReviewDate": "2026-10-09",
       "variantReviewStatus": "substantive_editorial_review",
       "variantEvidenceReport": "reports/substantive-variants-2026-10-09.json",
-      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification"
+      "legalReviewStatus": "referenced_provisions_reviewed_not_global_certification",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {

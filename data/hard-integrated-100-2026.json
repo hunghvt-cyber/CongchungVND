@@ -2250,7 +2250,7 @@
         "id": "A",
         "text": "Quyền chủ nợ có trước được giữ; K không tự miễn nghĩa vụ W.",
         "correct": true,
-        "explanation": "Điều 40 bảo toàn quyền, nghĩa vụ với bên thứ ba phát sinh trước chia. Chỉ khi chia nhằm trốn nợ mới thuộc Điều 42; dữ kiện chưa xác định mục đích đó. Đại diện theo Điều 141 không tạo quyền đơn phương sửa nghĩa vụ của chủ nợ."
+        "explanation": "Điều 40 bảo toàn quyền, nghĩa vụ với người thứ ba phát sinh trước khi chia. Có khoản nợ không tự làm việc chia vô hiệu; phải kiểm tra các căn cứ tại Điều 42, trong đó có mục đích trốn nghĩa vụ. Dữ kiện xác định việc chia hợp lệ, chưa có chấp thuận của chủ nợ để thay nghĩa vụ W. Văn bản ủy quyền cho K không tạo quyền đơn phương miễn nghĩa vụ này."
       },
       {
         "id": "B",
@@ -2274,7 +2274,7 @@
     "answerKey": [
       "A"
     ],
-    "explanation": "Điều 40 bảo toàn quyền, nghĩa vụ với bên thứ ba phát sinh trước chia. Chỉ khi chia nhằm trốn nợ mới thuộc Điều 42; dữ kiện chưa xác định mục đích đó. Đại diện theo Điều 141 không tạo quyền đơn phương sửa nghĩa vụ của chủ nợ.",
+    "explanation": "Điều 40 bảo toàn quyền, nghĩa vụ với người thứ ba phát sinh trước khi chia. Có khoản nợ không tự làm việc chia vô hiệu; phải kiểm tra các căn cứ tại Điều 42, trong đó có mục đích trốn nghĩa vụ. Dữ kiện xác định việc chia hợp lệ, chưa có chấp thuận của chủ nợ để thay nghĩa vụ W. Văn bản ủy quyền cho K không tạo quyền đơn phương miễn nghĩa vụ này.",
     "legalBasis": [
       {
         "document": "Luật Hôn nhân và gia đình số 52/2014/QH13 đối chiếu VBHN 121/VBHN-VPQH năm 2025",
@@ -2324,7 +2324,9 @@
     "audit": {
       "legalReview": "selected_provisions_checked",
       "difficultyReview": "integrated_hard_estimated_pending_trial",
-      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -3889,13 +3891,13 @@
         "id": "D",
         "text": "Thế chấp tiếp có thể được xét; công chứng phải tại X đang hoạt động.",
         "correct": true,
-        "explanation": "Điều 295 xét điều kiện tài sản bảo đảm; Điều 35 xét định đoạt tài sản chung. Điều 56 đặt yêu cầu tổ chức công chứng hợp đồng thế chấp tiếp là nơi đã công chứng trước, còn hoạt động là X."
+        "explanation": "Điều 295 xét tài sản bảo đảm; Điều 296 cho một tài sản bảo đảm nhiều nghĩa vụ theo các điều kiện luật định. Điều 35 yêu cầu kiểm tra ý chí của vợ chồng đối với nhà chung. Riêng nơi công chứng thế chấp tiếp, Điều 56 yêu cầu thực hiện tại X đã công chứng lần đầu và vẫn hoạt động."
       }
     ],
     "answerKey": [
       "D"
     ],
-    "explanation": "Điều 295 xét điều kiện tài sản bảo đảm; Điều 35 xét định đoạt tài sản chung. Điều 56 đặt yêu cầu tổ chức công chứng hợp đồng thế chấp tiếp là nơi đã công chứng trước, còn hoạt động là X.",
+    "explanation": "Điều 295 xét tài sản bảo đảm; Điều 296 cho một tài sản bảo đảm nhiều nghĩa vụ theo các điều kiện luật định. Điều 35 yêu cầu kiểm tra ý chí của vợ chồng đối với nhà chung. Riêng nơi công chứng thế chấp tiếp, Điều 56 yêu cầu thực hiện tại X đã công chứng lần đầu và vẫn hoạt động.",
     "legalBasis": [
       {
         "document": "Bộ luật Dân sự số 91/2015/QH13",
@@ -3911,10 +3913,16 @@
         "document": "Luật Công chứng số 46/2024/QH15 đối chiếu VBHN 50/VBHN-VPQH ngày 17/03/2026",
         "article": "56",
         "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf"
+      },
+      {
+        "document": "Bộ luật Dân sự số 91/2015/QH13",
+        "article": "296",
+        "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf"
       }
     ],
     "rulesApplied": [
       "DS:295",
+      "DS:296",
       "HN:35",
       "CC:56"
     ],
@@ -3945,7 +3953,9 @@
     "audit": {
       "legalReview": "selected_provisions_checked",
       "difficultyReview": "integrated_hard_estimated_pending_trial",
-      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7040,7 +7050,7 @@
     "answers": [
       {
         "id": "A",
-        "text": "Tăng giá đúng thỏa thuận cũ là sửa nội dung, phải theo Điều 53.",
+        "text": "Đổi mức giá đã ghi đúng thành mức giá mới là sửa nội dung, phải theo Điều 53.",
         "correct": true,
         "explanation": "Quyền nghĩa vụ về giá bị đổi."
       },
@@ -7117,7 +7127,9 @@
     "audit": {
       "legalReview": "selected_provisions_checked",
       "difficultyReview": "integrated_hard_estimated_pending_trial",
-      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -7730,7 +7742,7 @@
     "answers": [
       {
         "id": "A",
-        "text": "Phần 1 tỷ chưa định đoạt chia pháp luật cho W và B mỗi người 500 triệu.",
+        "text": "Phần 1 tỷ chưa định đoạt chia theo pháp luật: B 500 triệu, W 500 triệu trước khi bổ sung phần bắt buộc.",
         "correct": true,
         "explanation": "Điều 650,651 áp dụng riêng phần chưa định đoạt."
       },
@@ -7813,7 +7825,9 @@
     "audit": {
       "legalReview": "selected_provisions_checked",
       "difficultyReview": "integrated_hard_estimated_pending_trial",
-      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
@@ -9217,7 +9231,7 @@
     "type": "multiple",
     "question": {
       "variants": [
-        "Áp dụng pháp luật tại tháng 10/2026. A chỉ định M quản lý nhà di sản cho B,C. M dự định bán nhà và muốn giao T làm thay bằng hợp đồng ủy quyền; B đồng ý bằng văn bản, C chưa đồng ý. T đưa tiền cọc người mua, cho rằng có giấy ủy quyền từ quản lý đủ bán. Chọn nhận định đúng."
+        "Áp dụng pháp luật tại tháng 10/2026. A chỉ định M quản lý nhà di sản cho B,C. M dự định bán nhà và muốn giao T làm thay bằng hợp đồng ủy quyền; B đồng ý bằng văn bản, C chưa đồng ý. T đã nhận tiền cọc của người mua và xuất trình giấy ủy quyền của M, cho rằng như vậy đã đủ quyền bán. Chọn nhận định đúng."
       ]
     },
     "answers": [
@@ -9307,7 +9321,9 @@
     "audit": {
       "legalReview": "selected_provisions_checked",
       "difficultyReview": "integrated_hard_estimated_pending_trial",
-      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json"
+      "evidenceFile": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "editorialReviewDate": "2026-10-15",
+      "editorialReviewReport": "reports/editorial-review-437-2026-10-15.json"
     }
   },
   {
