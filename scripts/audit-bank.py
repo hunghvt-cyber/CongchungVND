@@ -54,6 +54,9 @@ def audit():
  continuation=json.loads((ROOT/'data/scenario-continuation-60-2026.json').read_text())
  continuation_repairs={r['id']:r['after'] for r in continuation['questions']}
  bank=[continuation_repairs.get(q['id'],q) for q in bank]
+ polish=json.loads((ROOT/'data/editorial-polish-2026.json').read_text())
+ polished={r['id']:r['after'] for r in polish['questions']}
+ bank=[polished.get(q['id'],q) for q in bank]
  source=json.loads((ROOT/'data/question-sources.json').read_text())
  sources={s['id']:s for s in source['sources']}
  for q in bank:

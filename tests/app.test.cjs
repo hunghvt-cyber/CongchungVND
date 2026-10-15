@@ -2,6 +2,7 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
+const {profile:polishProfile,sha:polishHash,polishedExpected,unpolishedVersion}=require('./helpers/editorial-polish.cjs');
 
 // Minimal DOM surface for logic/HTML regression tests. No browser dependency.
 class Element {
@@ -26,7 +27,7 @@ function harness(seed=20261015) {
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
     Math:math,crypto:{randomUUID:require('node:crypto').randomUUID,subtle:require('node:crypto').webcrypto.subtle,getRandomValues:a=>{for(let i=0;i<a.length;i++)a[i]=Math.floor(random()*4294967296);return a;}},TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
-  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyApplicationWording,applyScenarioRefinements,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
+  vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyEditorialPolish,applyApplicationWording,applyScenarioRefinements,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -39,6 +40,49 @@ function assertExplanation(html,q){
   assert.ok(html.includes(escaped),q.id+' full explanation rendered');
   assert.match(html,/Giải thích:/);assert.match(html,/Căn cứ pháp lý/);
 }
+
+test('40 editorial revisions load exactly, preserve all legal metadata and leave the other 773 records untouched',async()=>{
+ const {effectiveBank}=require('../scripts/lib/effective-bank.cjs');
+ const before=effectiveBank(),h=harness();
+ h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=await h.loadQuestions(),rows=new Map(polishProfile.questions.map(r=>[r.id,r]));
+ assert.equal(rows.size,40);assert.equal(bank.length,813);
+ assert.equal(bank.filter(q=>q.status==='active').length,793);
+ const metadata=q=>{const x=JSON.parse(JSON.stringify(q));for(const k of ['question','answers','explanation','answerKey'])delete x[k];return x;};
+ for(const old of before){
+  const current=bank.find(q=>q.id===old.id),r=rows.get(old.id);
+  if(!r){assert.equal(JSON.stringify(current),JSON.stringify(old),old.id+' untouched');continue;}
+  assert.equal(polishHash(old),r.beforeSha256,old.id);
+  assert.equal(polishHash(current),r.afterSha256,old.id);
+  assert.equal(JSON.stringify(current),JSON.stringify(r.after),old.id);
+  assert.equal(JSON.stringify(metadata(current)),JSON.stringify(metadata(old)),old.id+' legal/verification metadata');
+  assert.equal(current.question.variants.length,old.question.variants.length);
+  assert.equal(JSON.stringify(current.answers.map(a=>[a.id,a.correct])),JSON.stringify(old.answers.map(a=>[a.id,a.correct])),old.id+' key');
+  assert.ok(current.answers.every(a=>a.explanation.length>=12));
+ }
+ const get=id=>bank.find(q=>q.id===id);
+ assert.ok(get('CC-010').question.variants.every(v=>v.includes('Lan')));
+ assert.ok(get('CC-046').question.variants.every(v=>v.includes('01/01/2027')));
+ assert.ok(get('DEP26-016').question.variants.every(v=>!v.includes('5%')));
+ assert.ok(get('CAL26-015').question.variants.every(v=>!v.includes('tách khối')&&!v.includes('bảo vệ người')));
+ assert.ok(get('HARD26-013').answers.every(a=>/^\d.*triệu đồng\.$/.test(a.text)));
+});
+
+test('editorial loader rejects stale sources, changed law/verification metadata, changed keys and unreviewed text',async()=>{
+ const {effectiveBank}=require('../scripts/lib/effective-bank.cjs'),before=effectiveBank(),h=harness();
+ const first=polishProfile.questions[0];
+ const stale=structuredClone(before);stale.find(q=>q.id===first.id).explanation+=' changed';
+ await assert.rejects(h.applyEditorialPolish(stale,polishProfile),/phiên bản/);
+ for(const mutate of [q=>q.legalBasis[0].article='invalid',q=>q.lastVerified='2099-01-01',q=>q.source.id='unreviewed',q=>q.answers[0].correct=!q.answers[0].correct,q=>q.status='archived',q=>q.question.variants.push('Extra authored variant')]){
+  const bad=structuredClone(polishProfile);mutate(bad.questions[0].after);
+  bad.questions[0].afterSha256=polishHash(bad.questions[0].after);
+  await assert.rejects(h.applyEditorialPolish(before,bad),/khóa|căn cứ|biến thể/);
+ }
+ const tampered=structuredClone(polishProfile);tampered.questions[0].after.answers[0].text+=' unreviewed';
+ await assert.rejects(h.applyEditorialPolish(before,tampered),/phiên bản/);
+ const offline=harness();offline.context.fetch=async url=>url.includes('editorial-polish')?{ok:false}:{ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};
+ await assert.rejects(offline.loadQuestions(),/Không thể tải bản biên tập/);
+});
 
 test('seeded question and answer selection is reproducible and multiple seeds exercise different orders',()=>{
  const bank=Array.from({length:12},(_,i)=>question(String(i)));
@@ -159,7 +203,7 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
   h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
   h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
   const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8')).length+11+200);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
-  assert.equal(seen.length,21);assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  assert.equal(seen.length,22);assert.equal(new Set(seen).size,22);assert.ok(seen.includes('./data/editorial-polish-2026.json'));assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
   h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
   h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
   h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);
@@ -451,7 +495,7 @@ test('67 reviewed refinements load after application wording, grade in both mode
  h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
  const bank=await h.loadQuestions();assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  const profile=JSON.parse(fs.readFileSync('data/scenario-refinements-2026.json','utf8'));const ids=new Set(profile.questions.map(r=>r.id));const edited=bank.filter(q=>ids.has(q.id));assert.equal(edited.length,67);
- for(const row of profile.questions)assert.equal(JSON.stringify(bank.find(q=>q.id===row.id)),JSON.stringify(row.after));
+ for(const row of profile.questions)assert.equal(JSON.stringify(bank.find(q=>q.id===row.id)),JSON.stringify(polishedExpected(row.after)));
  for(const mode of ['practice','mock'])for(const part of [1,2]){
   const t=harness();t.state.bank=edited;t.state.mode=mode;t.startSession(part,100,30);const expected=edited.filter(q=>q.part===part).length;assert.equal(t.state.questions.length,expected);
   if(mode==='practice'){for(let i=0;i<expected;i++){t.state.current=i;t.renderQuestion();t.state.selected=new Set(t.state.questions[i].answers.filter(a=>a.correct).map(a=>a.id));assert.equal(t.submitPractice(),true);}}
@@ -473,10 +517,10 @@ test('60 additional cases preserve 67 repairs, load both modes, grade every opti
  const prior=JSON.parse(fs.readFileSync('data/scenario-refinements-2026.json','utf8'));
  assert.equal(extra.questions.length,60);assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  const ids=new Set(extra.questions.map(r=>r.id));assert.ok(prior.questions.every(r=>!ids.has(r.id)));
- for(const r of prior.questions)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(r.after));
+ for(const r of prior.questions)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(polishedExpected(r.after)));
  for(const r of extra.questions){
   const q=bank.find(q=>q.id===r.id),key=legal.questions.find(d=>d.id===r.id).answerKey;
-  assert.equal(JSON.stringify(q),JSON.stringify(r.after));
+  assert.equal(JSON.stringify(q),JSON.stringify(polishedExpected(r.after)));
   for(const mode of ['practice','mock'])for(const option of q.answers){
    const t=harness();t.state.bank=[q];t.state.mode=mode;t.startSession(q.part,1,15);
    const expected=key.includes(option.id)?1:0;
@@ -508,10 +552,10 @@ test('all 129 priority revisions load without replacing previous repairs; every 
  const review=JSON.parse(fs.readFileSync('reports/priority-129-legal-review-2026-10-13.json','utf8'));
  assert.equal(profile.questions.length,129);assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  const prior=['data/scenario-refinements-2026.json','data/scenario-refinements-remaining-2026.json'].flatMap(p=>JSON.parse(fs.readFileSync(p,'utf8')).questions);
- for(const r of prior)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(r.after));
+ for(const r of prior)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(polishedExpected(r.after)));
  let gradingCases=0;
  for(const r of profile.questions){const q=bank.find(q=>q.id===r.id),key=review.questions.find(d=>d.id===q.id).answerKey.slice().sort();
-  assert.equal(JSON.stringify(q),JSON.stringify(r.after));
+  assert.equal(JSON.stringify(q),JSON.stringify(polishedExpected(r.after)));
   const selections=q.type==='single'?q.answers.map(a=>[a.id]):Array.from({length:16},(_,mask)=>q.answers.filter((_,i)=>mask&(1<<i)).map(a=>a.id));
   for(const mode of ['practice','mock'])for(const selected of selections){
    const t=harness();t.state.bank=[q];t.state.mode=mode;t.startSession(q.part,1,15);
@@ -540,16 +584,16 @@ test('40 application cases preserve prior cohorts, reject stale sources and grad
  assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  assert.equal(new Set(profile.questions.map(r=>r.id)).size,40);
  for(const f of ['scenario-refinements-2026','scenario-refinements-remaining-2026','scenario-priority-129-2026']){
-  for(const r of JSON.parse(fs.readFileSync(`data/${f}.json`,'utf8')).questions)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(r.after));
+  for(const r of JSON.parse(fs.readFileSync(`data/${f}.json`,'utf8')).questions)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(polishedExpected(r.after)));
  }
  let cases=0;
  for(const row of profile.questions){
   const q=bank.find(q=>q.id===row.id),d=review.questions.find(r=>r.id===q.id),key=d.answerKey.slice().sort();
-  assert.equal(JSON.stringify(q),JSON.stringify(row.after));assert.equal(q.empiricallyCalibrated,false);
+  assert.equal(JSON.stringify(q),JSON.stringify(polishedExpected(row.after)));assert.equal(q.empiricallyCalibrated,false);
   assert.equal(q.type,'single');assert.equal(q.question.variants.length,1);
   assert.notEqual(q.question.variants[0],d.before.question.variants[0]);
   assert.ok(d.evidenceKeys.every(k=>review.evidence[k]?.excerpt&&review.evidence[k]?.reference.url.startsWith('https://')));
-  for(const a of q.answers)if(!a.correct){assert.notEqual(a.text,d.before.answers.find(b=>b.id===a.id).text);assert.equal(a.explanation,d.distractorRationale[a.id]);}
+  for(const a of q.answers)if(!a.correct){assert.notEqual(a.text,d.before.answers.find(b=>b.id===a.id).text);assert.equal(unpolishedVersion(q).answers.find(old=>old.id===a.id).explanation,d.distractorRationale[a.id]);}
   for(const selected of [[],...q.answers.map(a=>[a.id])]){
    const t=harness();t.state.bank=[q];t.state.mode='practice';t.startSession(q.part,1,15);
    for(const id of selected)t.toggleAnswer(id);t.submitPractice();
@@ -580,16 +624,16 @@ test('60 continuation cases load after all reviewed layers and keep independent 
  assert.equal(bank.filter(q=>['active','verified'].includes(q.status)).length,793);
  const oldRows=['scenario-refinements-2026','scenario-refinements-remaining-2026','scenario-priority-129-2026','scenario-application-40-2026'].flatMap(name=>JSON.parse(fs.readFileSync(`data/${name}.json`,'utf8')).questions);
  assert.equal(oldRows.length,296);
- for(const r of oldRows)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(r.after));
+ for(const r of oldRows)assert.equal(JSON.stringify(bank.find(q=>q.id===r.id)),JSON.stringify(polishedExpected(r.after)));
  let cases=0;
  for(const row of profile.questions){
   const q=bank.find(q=>q.id===row.id),d=review.questions.find(r=>r.id===q.id),key=d.answerKey.slice().sort();
-  assert.equal(JSON.stringify(q),JSON.stringify(row.after));assert.equal(q.empiricallyCalibrated,false);
+  assert.equal(JSON.stringify(q),JSON.stringify(polishedExpected(row.after)));assert.equal(q.empiricallyCalibrated,false);
   assert.equal(q.type,'single');assert.equal(q.question.variants.length,1);
   assert.equal(JSON.stringify(key),JSON.stringify(d.before.answers.filter(a=>a.correct).map(a=>a.id).sort()));
   assert.notEqual(q.question.variants[0],d.before.question.variants[0]);
   assert.ok(d.evidenceKeys.every(k=>review.evidence[k]?.excerpt&&review.evidence[k]?.reference.url.startsWith('https://')));
-  for(const a of q.answers)if(!a.correct){assert.notEqual(a.text,d.before.answers.find(b=>b.id===a.id).text);assert.equal(a.explanation,d.distractorRationale[a.id]);}
+  for(const a of q.answers)if(!a.correct){assert.notEqual(a.text,d.before.answers.find(b=>b.id===a.id).text);assert.equal(unpolishedVersion(q).answers.find(old=>old.id===a.id).explanation,d.distractorRationale[a.id]);}
   for(const selected of [[],...q.answers.map(a=>[a.id])]){
    const t=harness();t.state.bank=[q];t.state.mode='practice';t.startSession(q.part,1,15);for(const id of selected)t.toggleAnswer(id);t.submitPractice();
    assert.equal(t.state.score,JSON.stringify(selected)===JSON.stringify(key)?1:0,q.id+' practice');cases++;

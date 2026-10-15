@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-15",
+  "inventoriedActive": 793,
+  "manuallyEdited": 40,
+  "unchangedActive": 753,
+  "screeningIsNotFullSemanticCertification": true,
+  "notEmpiricallyCalibrated": true,
+  "editedVariants": 80,
+  "beforeIndicators": {
+    "cueCandidates": 156,
+    "over550": 1
+  },
+  "afterIndicators": {
+    "cueCandidates": 126,
+    "over550": 0
+  },
+  "indicatorsAreNotQualityScores": true,
+  "decisions": [
+    {
+      "id": "CC-010",
+      "beforeSha256": "dede6347b3eeb497258becf42fb014308b795e96c7e50476c43bf9562d4adcbe",
+      "afterSha256": "c00e963c4be69aa42927512de0b736fd728635d091caed6416e0d91385797041",
+      "editorialReason": "Giới thiệu Lan nhất quán; bỏ lời dẫn về danh sách thân thích; nhiễu dựa vào hiểu sai phạm vi xung đột lợi ích."
+    },
+    {
+      "id": "CC-046",
+      "beforeSha256": "90f6a70de9dced2cda6461e9a2db08d97083f8ca51fb8182b2b13a1e096023e7",
+      "afterSha256": "438c822b707d682aae03a99b4376425bb00d3eab04028ba8c670a0653a4b38df",
+      "editorialReason": "Giữ rõ mốc 2027; chuyển câu hỏi về hồ sơ thực tế, bỏ cách gọi sẵn ngoại lệ."
+    },
+    {
+      "id": "IMP-SEP24-031",
+      "beforeSha256": "ac9dae072824c3e5ec257cd52fd322c8b24fc92db2fd04bb25a298adfa70f632",
+      "afterSha256": "01d6ca32d1e84491310a39a103f723f607e3cad093ccb076409a26db2737e2d7",
+      "editorialReason": "Bỏ lời nhắc so sánh đất giao với đất thuê; nhiễu cùng xoay quanh thủ tục và thời hạn thuê tiếp."
+    },
+    {
+      "id": "FAM26-002",
+      "beforeSha256": "38d5c6cd5f7feee694de95ba32350d75f19d5f340909db0fab7d8cb3d9c3f60a",
+      "afterSha256": "1f79ab3d2cb16a17e69a9a845ec48ad0f655916873973673949762f769ff2860",
+      "editorialReason": "Bỏ câu hỏi gợi sẵn sự khác nhau giữa hai nhóm giấy; giữ giả thiết điểm d và chưa khai thác dữ liệu."
+    },
+    {
+      "id": "CAL26-015",
+      "beforeSha256": "979a1c3c83bcf52b273f1e936933c82b98cbc340c4e52d838060014d5d9345ae",
+      "afterSha256": "68c4d131cd1e152da970f6032376399a32d338bdbf00a04ef7003c2bcadd53b2",
+      "editorialReason": "Bỏ hướng dẫn tách tài sản và nhận diện người thừa kế bắt buộc khỏi câu dẫn; sửa nhiễu thành phép tính sai hợp lý."
+    },
+    {
+      "id": "CAL26-021",
+      "beforeSha256": "c2dc623829baf757dcef35d68af2283380c69864cf5a13cba6ac46bc99224775",
+      "afterSha256": "731258eea0b05989e7c2a0f5b293124cf844573aa6cb4e26389fe4e0d94896d4",
+      "editorialReason": "Giữ tình huống có hai việc cần xử lý, dùng câu hỏi mở về thủ tục thay cho chỉ dẫn phân loại."
+    },
+    {
+      "id": "CAL26-027",
+      "beforeSha256": "3bd891bc5162ff435ac3aab70ecd534c00de58bf10521bd240bb6b62aa958a1d",
+      "afterSha256": "d8ba72fc842b75ea0c0c3a8bf30f3b4889aca3ad2f3ebdfe641348d802791111",
+      "editorialReason": "Viết liền mạch hai tình huống ký; giảm nhiễu gồm hai mệnh đề vô lý cùng lúc."
+    },
+    {
+      "id": "CAL26-047",
+      "beforeSha256": "0460013b48b20fef74f6e4f5cda057d320106b1e43c58207e7cea2be47916387",
+      "afterSha256": "8d0cedcd8f6874db9195e4bda727c199959cc645a9fc5f26e2a1dddc09c25888",
+      "editorialReason": "Bỏ gợi ý trần trách nhiệm; để người làm tự xác định cách xử lý khoản nợ sau chia."
+    },
+    {
+      "id": "HARD26-041",
+      "beforeSha256": "beb0a4d08677413442fb26a8754f0590cabf3a6d647f247782e62119cafffc3b",
+      "afterSha256": "57fe1c1f6c58da5f12e3d0f6a9414de0678b8e3f47836eae48de9af0410bd10a",
+      "editorialReason": "Giữ câu hỏi về thế chấp tiếp; thay nhiễu cấm tuyệt đối và ký thiếu vợ bằng nhầm lẫn thủ tục có thể xảy ra."
+    },
+    {
+      "id": "HARD26-013",
+      "beforeSha256": "6140b78de8afc8169518f00950455dc098dd519ebffb5ce894fd74bb1968af1a",
+      "afterSha256": "514e326b122451e61c94c13a9e958d4be286caa373cd4cf2713d73bc1cd3194f",
+      "editorialReason": "Cân đối cách trình bày bốn con số để người làm phải tính, không nhận ra đáp án từ kiểu diễn đạt."
+    },
+    {
+      "id": "COMP26-CT-013",
+      "beforeSha256": "2df4245436d9cc22a11bf798aca91530937c9271dc5d08ba590c41185ea96365",
+      "afterSha256": "944147fa26460f7ebd684b368d848cce11d10d408b8e1e2234bd3b8070efe713",
+      "editorialReason": "Tách câu dài; giữ ngoại lệ đã loại trừ trong đề nhưng bỏ yêu cầu tự phân tích theo các bước gợi trước."
+    },
+    {
+      "id": "INH26-015",
+      "beforeSha256": "9befd43b77cb51f0fc6359127dd5527563e4ac0585d1a4e1b8c78b9672335aea",
+      "afterSha256": "3fa39aade4221e0d74ff19cd88376335595a249ecef2f52480132cff1b74041b",
+      "editorialReason": "Bỏ câu dẫn chỉ cách phân biệt; giữ rõ người nhận, thời điểm và ý chí tặng để tránh khái quát tiền phúng viếng."
+    },
+    {
+      "id": "REFIN26-CC-013",
+      "beforeSha256": "75c6448bd05f647a4885020375bc92914fdf0f6258be0c89facc88fe0d32b60f",
+      "afterSha256": "ee019d7fbe4fcf85fcb550b785ff59bcb63569ecc16c052056f6fc6dff274589",
+      "editorialReason": "Bỏ chỉ dẫn phân biệt cấp lại với bổ nhiệm; thay nhiễu sửa tay bằng cách xử lý hồ sơ dễ nhầm."
+    },
+    {
+      "id": "AUTH26-016",
+      "beforeSha256": "b57f2309a441bd0e93c56e35b2a8b15b7b0486798f16c7b44fbb9cbeec1c870b",
+      "afterSha256": "f5762bdafce03271c9bab96fa5357d6dbebac5c562c5d868c84d4d2203191972",
+      "editorialReason": "Bỏ trích sẵn điều luật; thay nhiễu biến giấy thành di chúc bằng nhầm lẫn thời điểm chấm dứt đại diện."
+    },
+    {
+      "id": "COMP26-DN-016",
+      "beforeSha256": "d74a3f41fcd825f9c781057a421b854161b6bdec4db30ca63332b60324148bbb",
+      "afterSha256": "93f58597ca45d11aa2322b892bb347b066e30a234dc62f3dbadd4e162045a168",
+      "editorialReason": "Đổi câu hỏi có/không sang lựa chọn cách xác định trách nhiệm, cân đối bốn phương án."
+    },
+    {
+      "id": "COMP26-DD-010",
+      "beforeSha256": "58f75710a033862ac8372c8f4222c6639c2aaaac0230eabb4c3c107a921056ae",
+      "afterSha256": "86eee8618103654633903e9fe01533115a5e24eb43412635a9bb7c334fc1bde6",
+      "editorialReason": "Bỏ nhắc tên nhánh luật; dùng nhầm lẫn giữa bồi thường trực tiếp, hoàn trả và việc nghỉ việc."
+    },
+    {
+      "id": "COMP26-QT-001",
+      "beforeSha256": "1fc5d6e95a96c377ba9f81e631c5800f6109e12ba969b3f676ada77552b1f01c",
+      "afterSha256": "a3174b1a1e76df072cf83a0b63ac7657f5ac6121241a8782298204ccb3d2f611",
+      "editorialReason": "Bỏ lời nhắc phân biệt trang và tờ; tạo bốn phương án song song về đánh số và giáp lai."
+    },
+    {
+      "id": "FAM26-003",
+      "beforeSha256": "2169854892d3d8080e724f9a1c74a0ac198a802b4c50a5d5ac2b64a55ccb9c19",
+      "afterSha256": "113059718c4f77f7032f29f869785c24ba5bce67864c1eb5f5eb05a43cd45a46",
+      "editorialReason": "Bỏ gọi sẵn quy tắc nơi thực hiện; nhiễu dựa vào sao lưu hồ sơ, cùng tỉnh và thỏa thuận lựa chọn."
+    },
+    {
+      "id": "COMP26-DN-008",
+      "beforeSha256": "77d009e1edda26e27a926c4c579900441d727c9623f2c85f608f3ba2f9a92901",
+      "afterSha256": "39d8ec2f969d1f7bf7278635f188e57171cdeeb30b2c266c22b905acec2bbbda",
+      "editorialReason": "Nêu mốc thời gian trong hồ sơ thay câu nhắc kiểm tra quy tắc; bỏ nhiễu dựa vào chủ nợ biết đăng ký."
+    },
+    {
+      "id": "AUTH26-020",
+      "beforeSha256": "d46ee48541fd3b3b65fdd4520ca460db75de95d18a30f265dd24b84f61780bee",
+      "afterSha256": "7b2b2158e4229adf18079be27b615ad16531dd7723d296379226c3a9d677b00e",
+      "editorialReason": "Giữ tình trạng tay và quyền đại diện; thay nhiễu giả điểm chỉ bằng nhầm lẫn cần người làm chứng hoặc ủy quyền."
+    },
+    {
+      "id": "FAM26-024",
+      "beforeSha256": "c5c9992ec633b81da08358e3a1108bb33d2a6088133a89faa9c05f078ecfcd47",
+      "afterSha256": "058f73b655d8bb22e670c36da5524c0e403924d82f76ab5142c3138c889fa747",
+      "editorialReason": "Giữ giới hạn về tặng cho; thay lý do tùy tiện bằng nhầm lẫn về giám sát và mục đích sử dụng tài sản."
+    },
+    {
+      "id": "DEP26-016",
+      "beforeSha256": "da8ef719f950708c92bdbc7ca09b996aa0f9d7834b9fe1351489a1c1ed5cddc9",
+      "afterSha256": "ae23ff70a9d53629eb51b03de6b40162b419d889861d1770cbdf36f139378d4f",
+      "editorialReason": "Bỏ nêu sẵn trần 5% ở một biến thể; giữ đủ giá và điều kiện kinh doanh để tự chọn quy tắc."
+    },
+    {
+      "id": "DEP26-006",
+      "beforeSha256": "742b255a5c5c52b71dd9b78f53073c84707f7d071a85620c7c17cc6eaa5c3181",
+      "afterSha256": "e7c293c6d082f20febaea653f026d861cb8f2f68733d14ecf906b593189d8b0c",
+      "editorialReason": "Giữ điều khoản số tiền rõ ràng; nhiễu thể hiện nhầm tiền hoàn, tiền trả thêm và quy tắc mặc định."
+    },
+    {
+      "id": "SRC26-002",
+      "beforeSha256": "46484a00933d12651a7eafd5f732573a7f678cd809b800da26ee912e148e9e94",
+      "afterSha256": "a55dcbe7cfa26c3c560dd9dae59b431cac933e3100429f97fc76340f2ffd2828",
+      "editorialReason": "Không nêu sẵn hệ số ba lần trong biến thể; nhiễu là các mốc số lượng thay vì lập luận phi lý."
+    },
+    {
+      "id": "REFIN26-CC-005",
+      "beforeSha256": "49bc8ad5dabc230bbe4d29247a0634f4cdccd75912a283ee3bae4e8119ddb9bd",
+      "afterSha256": "f47374f91d5575c8eab580652a1b126b17933afff160cf8ade62413feb236ede",
+      "editorialReason": "Bỏ yêu cầu phân biệt đã gợi giải; tăng nhiễu về việc thuê hỗ trợ so với thuê điều hành."
+    },
+    {
+      "id": "REFIN26-DAT-001",
+      "beforeSha256": "b1b4ab60ba6651ff8ddcc361c4cf8c6edb114c199cbb7d0e0fcf5e355674189e",
+      "afterSha256": "84b66c2833bc3cd2527c749624d275065b66dfed232bb5b0d9a8cae59c567651",
+      "editorialReason": "Bỏ gợi ý tách hai đối tượng; các nhiễu đều dựa vào nhầm chế độ thuê đất và sở hữu nhà xưởng."
+    },
+    {
+      "id": "IMP-T60-095",
+      "beforeSha256": "9d95e32c5feb3caa37216ac9737208b8cecfd6cd50104ad85488db89488e7744",
+      "afterSha256": "d9b1d0661522a28ac7be74923e433c4d5a344b1233639e95b4b4012708ddd62c",
+      "editorialReason": "Giới thiệu tên M nhất quán, bỏ trích khoản và lời nhắc giới hạn sẵn; giữ câu hỏi về sự đồng ý của đại diện."
+    },
+    {
+      "id": "VER26-099",
+      "beforeSha256": "d0073e7745cbb5e23214108d7ee3d87e7d5a48c35b53a1400a4943070eab38b0",
+      "afterSha256": "2a918ea642791dd4f522f5b1f9515af24b118958edff96ca108b80f5d0e3f469",
+      "editorialReason": "Rút gọn câu dẫn, thay nhiễu cấm mọi ủy quyền bằng nhầm lẫn giữa nghị quyết, nộp hồ sơ và ký."
+    },
+    {
+      "id": "CC-035",
+      "beforeSha256": "c2126f694bbf4b3ad8e1ccc94110c4194cacfdbe8e1ef8e91ab574cd57bc28a0",
+      "afterSha256": "159328a3355006612b54d10c2625bab64803e7cf77a5f825e8ba9ff20d7df7b4",
+      "editorialReason": "Bỏ câu hỏi yêu cầu tự phân biệt chủ thể; nhiễu tập trung vào tư cách luật sư và công chứng viên."
+    },
+    {
+      "id": "IMP-T60-069",
+      "beforeSha256": "a6984869fd06fbf43b7b9f39e299f1f90806167e7e1d5c3c1f80b8a2fcff2c71",
+      "afterSha256": "3e1403f83a182962013f7e535d297acbae416d2b24f599df6c0ea808f74a785e",
+      "editorialReason": "Giảm câu dẫn 571 ký tự, bỏ câu nhắc phân biệt quyền đại diện và phê duyệt; giữ đủ hai tỷ lệ và ngưỡng điều lệ."
+    },
+    {
+      "id": "INH26-003",
+      "beforeSha256": "1694ab880634ffca864a415253a8bc3c0655b065b416421e6742ed7439cafb2d",
+      "afterSha256": "4473d0e75496a61308db1451caf022a135926cc3f82952ccfdb5804f1b9198fc",
+      "editorialReason": "Bỏ câu hỏi tự gọi tên quan hệ cha con; giữ phạm vi ba người để tránh suy diễn tỷ lệ chia."
+    },
+    {
+      "id": "SRC26-007",
+      "beforeSha256": "cef2260f92ea0cee16479030dc5d14d47b3f269a5d8c286e5a5f79cb6b55d8e8",
+      "afterSha256": "5620c6f0e751a28d79752d260349ab8859e239cb79544a2e4c8033e8ef59e178",
+      "editorialReason": "Bỏ câu hỏi nhắc trước giới hạn địa bàn; phương án sai dùng các thủ tục người làm hồ sơ có thể nhầm."
+    },
+    {
+      "id": "REFIN26-CC-030",
+      "beforeSha256": "71e392157a92b4ed52c997466babd2349f7f6d9056604f59e7b42c33eac85acc",
+      "afterSha256": "f24f4b4600dd306bc1ccffd761c0b8e61214e5d09c051101e2566d0b078ccf98",
+      "editorialReason": "Rút diễn giải, bỏ nhận định sai lộ liễu ở câu dẫn; giữ đủ hai điều kiện còn thiếu."
+    },
+    {
+      "id": "VER26-034",
+      "beforeSha256": "fc0fbe8f2d45585f55b111aa5327a7a18a045d0deba191130529bcfdacec5d72",
+      "afterSha256": "26b5e7f7143a3197b8ecefead3395638f1e1cfe83abd22f5c4411e682cf8ffc0",
+      "editorialReason": "Giảm mệnh đề và lời nhân vật chỉ ra đáp án; nhiễu là ba tổ hợp tài sản riêng/chung có thể nhầm."
+    },
+    {
+      "id": "VER26-084",
+      "beforeSha256": "2eaa635d78ec434252e78166d24677c4eb4365e2c6a92b7079fdfa4f3cae7f92",
+      "afterSha256": "d2ce6f29a49909bf7ff0501f40cc5d131e196107085a34d820e49c08c4fc0e8f",
+      "editorialReason": "Rút câu dẫn; nhiễu dựa vào nhầm giữa năng lực, sự đồng ý và hình thức công chứng."
+    },
+    {
+      "id": "CAL26-057",
+      "beforeSha256": "644aee7ec4e0de98d275ca6b8787aa07dd57534a326b22ee2e68d1a1099b95eb",
+      "afterSha256": "25ba8c8c5cf7c13aaaa6770763902213da96aea65fc799560b9a1b23d55d380d",
+      "editorialReason": "Giữ giới hạn kết luận để tránh biến ngoại lệ thành miễn mọi trách nhiệm; viết lại các dữ kiện phủ định cho dễ đọc."
+    },
+    {
+      "id": "CAL26-062",
+      "beforeSha256": "05ef17b6640f7d7923e03e1ec81e41bb6781414c2c02bf58ba2e876ae581bb6e",
+      "afterSha256": "b37b1cb98a5ba5e6c5abc2d7875cfece80982bf668241cd4b93679444cc53a13",
+      "editorialReason": "Tách rõ hai hồ sơ, giữ giới hạn cơ chế lựa chọn trước nhưng không nhắc sẵn hai điều kiện cần kiểm tra."
+    },
+    {
+      "id": "CAL26-065",
+      "beforeSha256": "fc1863ce5a86bcf42d48fb6f4e17b41f5837beb9f1cf38039542167dc13b597c",
+      "afterSha256": "29d4845fc968d6d5e66db95dd008c613327fef8373b8653ee31a3a34d811f7b3",
+      "editorialReason": "Diễn đạt cụ thể giấy tờ, bỏ câu nhắc ngoại lệ; giữ hai trạng thái đã khai thác và mới có khả năng truy cập."
+    },
+    {
+      "id": "CAL26-081",
+      "beforeSha256": "f0b4682b33a900f394bdfd2133b287896e2828bc123afeb6ce1f46825d991680",
+      "afterSha256": "1f90929818f5caaae89af3afb054e890a2848e3e42afa2a37eda715a3630afe6",
+      "editorialReason": "Bỏ lời nhắc đồng thời các bước; để lựa chọn thể hiện ba nhầm lẫn về lợi ích, quyền quyết định và độ tuổi."
+    },
+    {
+      "id": "CAL26-084",
+      "beforeSha256": "f7ab5a4683cdcace4e2f8b585c183e97cc8f96fe4200fdb8c912445afe5dfe06",
+      "afterSha256": "a78ca7ba478f31ba21186121fc381f2dcb78a667400c0f475b4c37ff32897521",
+      "editorialReason": "Bỏ lời nhắc giới hạn đã miễn có hiệu lực khỏi câu hỏi nhưng giữ làm dữ kiện; nhiễu không còn vô hiệu toàn giao dịch."
+    }
+  ],
+  "optionLengthBefore": {
+    "singleQuestions": 38,
+    "correctStrictlyLongest": 24
+  },
+  "optionLengthAfter": {
+    "singleQuestions": 38,
+    "correctStrictlyLongest": 10
+  }
+}

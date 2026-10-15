@@ -1,0 +1,32 @@
+const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),{createHash}=require('node:crypto');
+const {root,effectiveBank}=require('./lib/effective-bank.cjs');
+const drafts=require('../editorial/natural-language-polish-2026-10-15.cjs');
+const sha=q=>createHash('sha256').update(JSON.stringify(q)).digest('hex');
+const source=q=>sha({question:q.question,answers:q.answers,legalBasis:q.legalBasis});
+const before=effectiveBank(),byId=new Map(before.map(q=>[q.id,q]));
+const stable=q=>{const x=structuredClone(q);for(const k of ['question','answers','explanation','answerKey'])delete x[k];return x;};
+const questions=Object.entries(drafts).map(([id,d])=>{
+ const q=byId.get(id);assert.ok(q&&q.status==='active',id);
+ const after=structuredClone(q);after.question.variants=d.variants;
+ assert.equal(d.variants.length,q.question.variants.length,id+' retain authored variant count');
+ after.answers=q.answers.map(a=>{
+  const edit=d.options[a.id];
+  const explanation=edit?.[1]||a.explanation||(a.correct?(d.explanation||q.explanation):null);
+  assert.ok(explanation?.length>=12,id+' '+a.id+' specific option explanation');
+  return {...a,text:edit?.[0]||a.text,explanation};
+ });
+ after.explanation=d.explanation||q.explanation;
+ after.answerKey=q.answers.filter(a=>a.correct).map(a=>a.id);
+ assert.deepEqual(stable(after),stable(q),id+' immutable metadata and legal basis');
+ assert.deepEqual(after.answers.map(a=>[a.id,a.correct]),q.answers.map(a=>[a.id,a.correct]),id+' key');
+ return {id,sourceSha256:source(q),beforeSha256:sha(q),afterSha256:sha(after),editorialReason:d.reason,after};
+});
+const profile={version:1,date:'2026-10-15',scope:'Biên tập câu văn, giảm gợi lời giải và sửa phương án nhiễu; giữ vấn đề pháp lý và khóa. Không phải tái kiểm định pháp lý hoặc đo độ khó thực nghiệm.',questions};
+const after=before.map(q=>questions.find(r=>r.id===q.id)?.after||q);
+const cue=/tách khối|bảo vệ người bắt buộc|theo nhánh|cần phân biệt|đừng|không nhầm|tách .*với|chỉ xét|đối chiếu.*quy tắc|phân biệt .*với/i;
+const counts=bank=>({cueCandidates:bank.filter(q=>q.question.variants.some(v=>cue.test(v))).length,over550:bank.filter(q=>q.question.variants.some(v=>v.length>550)).length});
+const editedSingles=bank=>{const qs=bank.filter(q=>drafts[q.id]&&q.type==='single');return {singleQuestions:qs.length,correctStrictlyLongest:qs.filter(q=>q.answers.find(a=>a.correct).text.length>Math.max(...q.answers.filter(a=>!a.correct).map(a=>a.text.length))).length};};
+const report={date:'2026-10-15',inventoriedActive:before.filter(q=>q.status==='active').length,manuallyEdited:questions.length,unchangedActive:before.filter(q=>q.status==='active').length-questions.length,screeningIsNotFullSemanticCertification:true,notEmpiricallyCalibrated:true,editedVariants:questions.reduce((n,r)=>n+r.after.question.variants.length,0),beforeIndicators:counts(before.filter(q=>q.status==='active')),afterIndicators:counts(after.filter(q=>q.status==='active')),indicatorsAreNotQualityScores:true,decisions:questions.map(({id,beforeSha256,afterSha256,editorialReason})=>({id,beforeSha256,afterSha256,editorialReason}))};
+report.optionLengthBefore=editedSingles(before);report.optionLengthAfter=editedSingles(after);
+for(const [file,value] of [['data/editorial-polish-2026.json',profile],['reports/natural-language-polish-2026-10-15.json',report]])fs.writeFileSync(path.join(root,file),JSON.stringify(value,null,2)+'\n');
+console.log(JSON.stringify({...report,decisions:undefined}));

@@ -128,7 +128,10 @@ async function loadQuestions() {
   const applied = await applyScenarioRefinements(prioritized, await application.json());
   const continuation = await fetch('./data/scenario-continuation-60-2026.json', {cache: 'no-cache'});
   if (!continuation.ok) throw new Error('Không thể tải nhóm 60 tình huống nâng độ khó tiếp theo.');
-  return applyScenarioRefinements(applied, await continuation.json());
+  const continued = await applyScenarioRefinements(applied, await continuation.json());
+  const polish = await fetch('./data/editorial-polish-2026.json', {cache:'no-cache'});
+  if (!polish.ok) throw new Error('Không thể tải bản biên tập câu hỏi.');
+  return applyEditorialPolish(continued, await polish.json());
 }
 
 async function applyApplicationWording(bank, profile) {
@@ -184,6 +187,27 @@ async function applyScenarioRefinements(bank, profile) {
   }))});
   const revisions = new Map(profile.questions.map(r=>[r.id,r.after]));
   return bank.map(q=>revisions.has(q.id) ? JSON.parse(JSON.stringify(revisions.get(q.id))) : q);
+}
+
+async function applyEditorialPolish(bank, profile) {
+  const result = await applyScenarioRefinements(bank, profile);
+  const originals = new Map(bank.map(q=>[q.id,q]));
+  const metadata = q => {
+    const {question,answers,explanation,answerKey,...rest}=q;
+    const {variants,...questionRest}=question;
+    return {...rest,question:questionRest,answers:answers.map(({text,explanation,...a})=>a)};
+  };
+  const sha = async q => Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',
+    new TextEncoder().encode(JSON.stringify(q)))),b=>b.toString(16).padStart(2,'0')).join('');
+  await Promise.all(profile.questions.map(async row=>{
+    const old=originals.get(row.id);
+    if (JSON.stringify(metadata(old))!==JSON.stringify(metadata(row.after)) ||
+        old.question.variants.length!==row.after.question.variants.length)
+      throw new Error('Bản biên tập không được thay căn cứ, dữ kiện quản lý hoặc số biến thể.');
+    if (await sha(old)!==row.beforeSha256 || await sha(row.after)!==row.afterSha256)
+      throw new Error('Nội dung biên tập không khớp phiên bản đã rà soát.');
+  }));
+  return result;
 }
 
 function showSetup(mode) {
