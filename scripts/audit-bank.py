@@ -57,6 +57,9 @@ def audit():
  polish=json.loads((ROOT/'data/editorial-polish-2026.json').read_text())
  polished={r['id']:r['after'] for r in polish['questions']}
  bank=[polished.get(q['id'],q) for q in bank]
+ answers=json.loads((ROOT/'data/answer-review-2026.json').read_text())
+ revised_answers={r['id']:r['answers'] for r in answers['questions']}
+ bank=[dict(q,answers=revised_answers[q['id']]) if q['id'] in revised_answers else q for q in bank]
  source=json.loads((ROOT/'data/question-sources.json').read_text())
  sources={s['id']:s for s in source['sources']}
  for q in bank:

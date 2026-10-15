@@ -1,3 +1,9 @@
+## Biên tập toàn bộ phương án — 15/10/2026
+
+Đã rà 3.172 phương án của đủ 793 câu đang dùng. Lượt này viết lại có chủ đích 262 phương án thuộc 211 câu, chuẩn hóa cách viết 953 phương án khác; tổng thay đổi 465 câu, giữ nguyên 328 câu đã đạt yêu cầu. Các thay đổi chỉ nằm ở văn bản phương án và giải thích riêng, giữ nguyên câu dẫn, khóa đáp án, căn cứ và dữ kiện quản lý. Xem [báo cáo](reports/answer-review-2026-10-15.md) và [hồ sơ từng câu](reports/answer-review-2026-10-15.json).
+
+`data/answer-review-2026.json` được áp sau bản biên tập 80 câu trước đó, có hàm băm toàn bản ghi trước/sau. App hiện tải 23 tệp dữ liệu, gồm 813 bản ghi: 793 câu đang dùng và 20 câu giữ để rà soát. Chạy `node scripts/build-answer-review-2026-10-15.cjs` để tạo lại bản biên tập và báo cáo. **Chưa chạy lại kiểm thử theo yêu cầu**; đã cập nhật các kỳ vọng kiểm thử để chạy ở lượt sau. Số liệu kiểm thử trong các mục lịch sử dưới đây không xác nhận phiên bản này đã được kiểm thử.
+
 ## Lịch sử theo số điện thoại — cập nhật 12/10/2026
 
 Luồng hiện hành dùng tên/biệt danh để hiển thị và số điện thoại Việt Nam 10–11 chữ số làm mã lịch sử. Dạng 0..., +84..., 84... và 0084... được chuẩn hóa về cùng số 0.... Tra cứu chỉ cần số điện thoại; dùng lại số trên thiết bị khác để tiếp tục cùng lịch sử/xếp hạng. Theo lựa chọn rõ ràng của chủ nhóm, không xác thực: ai biết số đều có thể xem và bổ sung bài thi. Số không hiển thị trên bảng xếp hạng. Các mô tả dùng UUID riêng ở các báo cáo cũ là hành vi trước cập nhật này.

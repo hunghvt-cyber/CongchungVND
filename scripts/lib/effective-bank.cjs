@@ -3,7 +3,8 @@ const fs=require('node:fs'),path=require('node:path');
 const root=path.resolve(__dirname,'../..');
 const read=p=>JSON.parse(fs.readFileSync(path.join(root,p),'utf8'));
 const layers=['scenario-refinements-2026','scenario-refinements-remaining-2026','scenario-priority-129-2026','scenario-application-40-2026','scenario-continuation-60-2026'];
-function effectiveBank({polish=false}={}){
+function effectiveBank({polish=false,answers=false}={}){
+ if(answers&&!polish)throw Error('Answer review requires the editorial-polish layer.');
  const files=fs.readFileSync(path.join(root,'app.js'),'utf8').match(/const files = \[(.*?)\];/s)[1].match(/'([^']+)'/g).map(s=>s.slice(1,-1));
  let bank=files.flatMap(f=>read('data/'+f));
  const wording=new Map(read('data/application-wording-2026.json').questions.map(r=>[r.id,r]));
@@ -11,6 +12,10 @@ function effectiveBank({polish=false}={}){
  for(const name of [...layers,...(polish?['editorial-polish-2026']:[])]){
   const revisions=new Map(read('data/'+name+'.json').questions.map(r=>[r.id,r.after]));
   bank=bank.map(q=>revisions.get(q.id)||q);
+ }
+ if(answers){
+  const revisions=new Map(read('data/answer-review-2026.json').questions.map(r=>[r.id,r.answers]));
+  bank=bank.map(q=>revisions.has(q.id)?{...q,answers:revisions.get(q.id)}:q);
  }
  return structuredClone(bank);
 }

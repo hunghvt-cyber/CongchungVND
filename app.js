@@ -131,7 +131,10 @@ async function loadQuestions() {
   const continued = await applyScenarioRefinements(applied, await continuation.json());
   const polish = await fetch('./data/editorial-polish-2026.json', {cache:'no-cache'});
   if (!polish.ok) throw new Error('Không thể tải bản biên tập câu hỏi.');
-  return applyEditorialPolish(continued, await polish.json());
+  const polished = await applyEditorialPolish(continued, await polish.json());
+  const answers = await fetch('./data/answer-review-2026.json', {cache:'no-cache'});
+  if (!answers.ok) throw new Error('Không thể tải bản biên tập phương án trả lời.');
+  return applyAnswerReview(polished, await answers.json());
 }
 
 async function applyApplicationWording(bank, profile) {
@@ -208,6 +211,30 @@ async function applyEditorialPolish(bank, profile) {
       throw new Error('Nội dung biên tập không khớp phiên bản đã rà soát.');
   }));
   return result;
+}
+
+async function applyAnswerReview(bank, profile) {
+  if (!profile || profile.version !== 1 || !Array.isArray(profile.questions))
+    throw new Error('Bản biên tập phương án trả lời không hợp lệ.');
+  const originals = new Map(bank.map(q=>[q.id,q])), revisions = new Map();
+  const sha = async q => Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',
+    new TextEncoder().encode(JSON.stringify(q)))),b=>b.toString(16).padStart(2,'0')).join('');
+  const protectedAnswer = ({text,explanation,...rest})=>rest;
+  await Promise.all(profile.questions.map(async row=>{
+    const old=originals.get(row?.id), answers=row?.answers;
+    if (!old || revisions.has(row.id) || !eligibleQuestion(old) || !Array.isArray(answers) || answers.length!==4 ||
+        answers.some((a,i)=>!a || typeof a.text!=='string' || !a.text.trim() ||
+          JSON.stringify(protectedAnswer(a))!==JSON.stringify(protectedAnswer(old.answers[i])) ||
+          (a.explanation!==undefined && (typeof a.explanation!=='string' || !a.explanation.trim())) ||
+          (old.answers[i].explanation!==undefined && a.explanation===undefined)) ||
+        new Set(answers.map(a=>a.text.trim().toLocaleLowerCase('vi'))).size!==4)
+      throw new Error('Phương án không hợp lệ hoặc thay đổi mã, thứ tự, khóa đáp án.');
+    // Reserve before awaiting so duplicate rows cannot race through validation.
+    revisions.set(row.id,{...old,answers:JSON.parse(JSON.stringify(answers))});
+    if (await sha(old)!==row.beforeSha256 || await sha(revisions.get(row.id))!==row.afterSha256)
+      throw new Error('Phương án trả lời không khớp phiên bản đã biên tập.');
+  }));
+  return bank.map(q=>revisions.get(q.id)||q);
 }
 
 function showSetup(mode) {
