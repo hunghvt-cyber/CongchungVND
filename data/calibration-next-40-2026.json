@@ -49,7 +49,7 @@
       }
     ],
     "difficultyRationale": "Xử lý hai cấu hình in, phân biệt tiêu chí trang với tờ; không áp cùng một yêu cầu cho cả hai.",
-    "explanation": "Xử lý hai cấu hình in, phân biệt tiêu chí trang với tờ; không áp cùng một yêu cầu cho cả hai.",
+    "explanation": "Khoản 1 Điều 51 Luật Công chứng dùng tiêu chí số trang: cả hai hồ sơ đều phải đánh số liên tục qua lời chứng. Khoản 2 dùng tiêu chí số tờ: hồ sơ I có hai tờ nên phải giáp lai giữa các tờ; hồ sơ II in hai mặt của một tờ không thuộc trường hợp giáp lai giữa nhiều tờ. Không đồng nhất trang với tờ giấy.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -117,7 +117,7 @@
       }
     ],
     "difficultyRationale": "Đánh giá hai hồ sơ: hình thức lựa chọn và sự đồng ý khi phát sinh giám hộ là điều kiện độc lập.",
-    "explanation": "Đánh giá hai hồ sơ: hình thức lựa chọn và sự đồng ý khi phát sinh giám hộ là điều kiện độc lập.",
+    "explanation": "Khoản 2 Điều 48 BLDS yêu cầu lựa chọn trước người giám hộ bằng văn bản có công chứng hoặc chứng thực và khi cần giám hộ phải có sự đồng ý của người được chọn. B không đồng ý nên không thể bị buộc nhận chỉ vì giấy đã công chứng; giấy chọn C lại thiếu hình thức. Kết luận này không loại việc xem xét cơ chế cử hoặc chỉ định theo căn cứ khác.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -258,7 +258,7 @@
       }
     ],
     "difficultyRationale": "Tách thời điểm lập văn bản và xác lập chế độ; không lẫn xác lập ban đầu với sửa thỏa thuận về sau.",
-    "explanation": "Tách thời điểm lập văn bản và xác lập chế độ; không lẫn xác lập ban đầu với sửa thỏa thuận về sau.",
+    "explanation": "Điều 47 Luật Hôn nhân và gia đình yêu cầu thỏa thuận xác lập chế độ tài sản được lập trước khi kết hôn, bằng văn bản công chứng hoặc chứng thực; chế độ được xác lập từ ngày đăng ký kết hôn. Vì vậy A,B không áp dụng chế độ vợ chồng ngay từ ngày ký. C,D không thể coi văn bản lập sau đăng ký là thỏa thuận xác lập ban đầu đã lập trước hôn nhân.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -326,7 +326,7 @@
       }
     ],
     "difficultyRationale": "Phân biệt quyền truy cập và kết quả khai thác; giữ đúng phạm vi ngoại lệ hồ sơ và phí.",
-    "explanation": "Phân biệt quyền truy cập và kết quả khai thác; giữ đúng phạm vi ngoại lệ hồ sơ và phí.",
+    "explanation": "Khoản 1 Điều 42 Luật Công chứng gắn ngoại lệ không nộp lại giấy tờ với việc tổ chức đã khai thác được thông tin tương ứng, không chỉ có tài khoản truy cập. Hồ sơ A đáp ứng điều kiện đối với các giấy đã khai thác và chịu phí theo luật; hồ sơ B chưa đáp ứng. Ngoại lệ đó không tự miễn dự thảo giao dịch hoặc toàn bộ phí.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -533,7 +533,7 @@
       }
     ],
     "difficultyRationale": "Kết hợp địa hạt và quy tắc nơi lần đầu; không dùng lưu hồ sơ hoặc quy trình ủy quyền tạo ngoại lệ.",
-    "explanation": "Kết hợp địa hạt và quy tắc nơi lần đầu; không dùng lưu hồ sơ hoặc quy trình ủy quyền tạo ngoại lệ.",
+    "explanation": "Khoản 2 Điều 56 Luật Công chứng yêu cầu công chứng hợp đồng thế chấp tiếp tại tổ chức đã công chứng lần đầu khi nơi đó vẫn hoạt động. Vì vậy M là nơi thực hiện theo dữ kiện. N cùng tỉnh, có bản gốc và được chủ nợ đồng ý vẫn chưa thay quy tắc riêng này; không áp cơ chế gửi bản gốc của ủy quyền hai nơi sang thế chấp tiếp.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -601,7 +601,7 @@
       }
     ],
     "difficultyRationale": "Tách chứng cứ hồi phục, sự đồng ý đại diện và quyết định làm thay đổi tình trạng pháp lý.",
-    "explanation": "Tách chứng cứ hồi phục, sự đồng ý đại diện và quyết định làm thay đổi tình trạng pháp lý.",
+    "explanation": "Theo Điều 22 BLDS, khi không còn căn cứ tuyên mất năng lực, phải yêu cầu Tòa án hủy quyết định đã tuyên theo cơ chế luật định. Giấy bác sĩ là tài liệu về tình trạng sức khỏe, không tự thay quyết định hủy của Tòa án. Sự đồng ý của người đại diện hoặc ngày ra viện cũng không tự làm quyết định cũ hết hiệu lực.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -1641,7 +1641,7 @@
       }
     ],
     "difficultyRationale": "Đọc bản chất và hiệu lực miễn thay vì số trên biên nhận; phân biệt hoàn thành, hoãn và vô hiệu.",
-    "explanation": "Đọc bản chất và hiệu lực miễn thay vì số trên biên nhận; phân biệt hoàn thành, hoãn và vô hiệu.",
+    "explanation": "Điều 373 BLDS cho nghĩa vụ được hoàn thành khi bên có nghĩa vụ thực hiện một phần và phần còn lại được bên có quyền miễn. A đã trả 70 triệu và B đã miễn hợp pháp 30 triệu còn lại, nên biên nhận chỉ ghi 70 triệu không duy trì khoản nợ đã được miễn. Không nhầm miễn với tạm hoãn hoặc vô hiệu toàn bộ giao dịch.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -2396,7 +2396,7 @@
       }
     ],
     "difficultyRationale": "Tách mốc mở thừa kế, ngày yêu cầu, ngày quyết định và giai đoạn gia hạn có điều kiện.",
-    "explanation": "Tách mốc mở thừa kế, ngày yêu cầu, ngày quyết định và giai đoạn gia hạn có điều kiện.",
+    "explanation": "Theo Điều 611 và Điều 661 BLDS, giới hạn lần đầu ba năm tính từ thời điểm mở thừa kế, không tính lại từ ngày vợ yêu cầu hoặc ngày Tòa quyết định. P chết ngày 12/10/2025 nên mốc trần lần đầu là 12/10/2028. Gia hạn không được cộng sẵn mà phải được Tòa xem xét khi đáp ứng điều kiện riêng của luật.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -2466,7 +2466,7 @@
       }
     ],
     "difficultyRationale": "Không đồng nhất hồ sơ đủ, ít người hưởng và chưa có khiếu nại với đã hoàn thành niêm yết.",
-    "explanation": "Không đồng nhất hồ sơ đủ, ít người hưởng và chưa có khiếu nại với đã hoàn thành niêm yết.",
+    "explanation": "Khoản 5 Điều 59 Luật Công chứng áp dụng thủ tục tại các khoản 2, 3, 4 cả khi chỉ có một người thừa kế. Vẫn phải kiểm tra quyền tài sản của người chết, tư cách người hưởng và hoàn tất niêm yết theo luật. Bộ giấy tờ đầy đủ hoặc việc hiện chưa ghi nhận khiếu nại không thay xác nhận đã hoàn thành niêm yết.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",

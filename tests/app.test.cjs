@@ -16,14 +16,16 @@ class Element {
   scrollIntoView() {}
   insertAdjacentHTML(position, html) { this.innerHTML+=html; }
 }
-function harness() {
+function harness(seed=20261015) {
   const document=new Element();
   const memory=new Map();
   let now=1000000;
+  const random=()=>{seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296;};
+  const math=Object.create(Math);math.random=random;
   const context=vm.createContext({document, window:new Element(), location:{reload(){}},
     localStorage:{getItem:k=>memory.get(k)??null,setItem:(k,v)=>memory.set(k,v)},
     fetch:async()=>({ok:true,json:async()=>[]}), alert:msg=>{context.alertMessage=msg;},
-    crypto:require('node:crypto').webcrypto,TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
+    Math:math,crypto:{randomUUID:require('node:crypto').randomUUID,subtle:require('node:crypto').webcrypto.subtle,getRandomValues:a=>{for(let i=0;i<a.length;i++)a[i]=Math.floor(random()*4294967296);return a;}},TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
   vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyApplicationWording,applyScenarioRefinements,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
@@ -31,13 +33,57 @@ function question(id, status='active', type='single') {
   return {id,status,part:1,topic:'Kiểm tra <an toàn>',type,question:{variants:['Cách hỏi 1 '+id,'Cách hỏi 2 '+id]},answers:[{id:'A',text:'Đúng <A>',correct:true},{id:'B',text:'Sai B',correct:false},{id:'C',text:'Đúng C',correct:type==='multiple'}],explanation:'Giải thích <nội dung>',legalBasis:[{document:'Luật Công chứng số 46/2024/QH15',article:'Điều 2',url:'https://chinhphu.vn/?docid=212474&pageid=27160'}]};
 }
 function start(h, mode, questions, count=questions.length) {h.state.bank=questions;h.state.mode=mode;h.startSession(1,count,15);}
+function assertExplanation(html,q){
+  const escaped=q.explanation.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  assert.ok(q.explanation.length>=100,q.id+' substantive explanation');
+  assert.ok(html.includes(escaped),q.id+' full explanation rendered');
+  assert.match(html,/Giải thích:/);assert.match(html,/Căn cứ pháp lý/);
+}
+
+test('seeded question and answer selection is reproducible and multiple seeds exercise different orders',()=>{
+ const bank=Array.from({length:12},(_,i)=>question(String(i)));
+ const snapshot=seed=>{const h=harness(seed);start(h,'mock',bank,10);return JSON.stringify(h.state.questions);};
+ assert.equal(snapshot(42),snapshot(42));assert.notEqual(snapshot(42),snapshot(43));
+});
+
+test('all 793 effective questions score every single selection, blank and all multiple subsets in both modes',async t=>{
+ const loader=harness();loader.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=(await loader.loadQuestions()).filter(q=>['active','verified'].includes(q.status));
+ assert.equal(bank.length,793);assert.ok(!bank.some(q=>q.id==='CC-082'));
+ let cases=0;
+ for(const mode of ['practice','mock']){
+  const h=harness(mode==='practice'?101:202);
+  for(const q of bank){
+   assert.ok(q.explanation.length>=100,q.id);
+   const correct=q.answers.filter(a=>a.correct).map(a=>a.id).sort();
+   const choices=q.type==='multiple'
+    ?Array.from({length:2**q.answers.length},(_,mask)=>q.answers.filter((a,i)=>mask&(1<<i)).map(a=>a.id))
+    :[[],...q.answers.map(a=>[a.id])];
+   for(const chosen of choices){
+    h.state.bank=[q];h.state.mode=mode;h.startSession(q.part,1,15);for(const id of chosen)h.toggleAnswer(id);
+    if(mode==='practice'&&!chosen.length){
+     assert.equal(h.submitPractice(),false,q.id+' empty practice cannot submit');
+     assert.equal(h.state.results[q.id],undefined);assert.equal(h.state.score,0);assert.equal(h.state.answered,false);
+     assert.match(h.els.questionArea.innerHTML,/<div id="explanation" class="explanation hidden"><\/div>/);cases++;continue;
+    }
+    const expected=JSON.stringify(chosen.slice().sort())===JSON.stringify(correct);
+    if(mode==='practice')h.submitPractice();else h.submitMock();
+    assert.equal(h.state.results[q.id],expected,`${mode} ${q.id} ${chosen}`);
+    assert.equal(h.state.score,Number(expected),`${mode} ${q.id} score`);
+    assertExplanation(mode==='practice'?h.document.querySelector('#explanation').innerHTML:h.els.result.innerHTML,q);
+    cases++;
+   }
+  }
+ }
+ assert.equal(cases,9690);t.diagnostic(`793 effective questions; ${cases} answer/scoring cases including blank-practice rejection; zero mismatches against stored keys (not legal recertification).`);
+});
 
 test('all repaired pending questions work in practice and mock; retired duplicates stay excluded',()=>{
  const decisions=JSON.parse(fs.readFileSync('reports/pending-review-decisions-2026.json','utf8')).decisions;
  const ids=new Set(decisions.map(d=>d.id));const bank=['questions','derived-questions'].flatMap(n=>JSON.parse(fs.readFileSync(`data/${n}.json`,'utf8'))).filter(q=>ids.has(q.id));
  for(const part of [1,2]){const expected=bank.filter(q=>q.part===part&&q.status==='active').length;
   const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,100,15);assert.equal(practice.state.questions.length,expected);
-  for(let i=0;i<expected;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}assert.equal(practice.state.score,expected);
+  for(let i=0;i<expected;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}assert.equal(practice.state.score,expected);
   const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,15);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,expected);assert.ok(mock.state.questions.every(q=>q.status==='active'));
  }
 });
@@ -176,21 +222,21 @@ test('server error does not falsely acknowledge feedback, local storage failure 
 test('imported questions work in both parts, practice explanations and full mock scoring',()=>{
  const bank=JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8'));
  for(const part of [1,2]){
-  const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,5,15);const first=practice.state.questions[0];practice.toggleAnswer(first.answers.find(a=>a.correct).id);practice.submitPractice();assert.equal(practice.state.score,1);assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);
-  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,15);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,mock.state.questions.length);assert.ok(mock.state.questions.every(q=>q.status==='active'&&q.source.type==='user-provided'));assert.match(mock.els.result.innerHTML,/Gợi ý làm bài:/);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);
+  const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(part,5,15);const first=practice.state.questions[0];practice.toggleAnswer(first.answers.find(a=>a.correct).id);practice.submitPractice();assert.equal(practice.state.score,1);assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);
+  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(part,100,15);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,mock.state.questions.length);assert.ok(mock.state.questions.every(q=>q.status==='active'&&q.source.type==='user-provided'));mock.state.questions.forEach(q=>assertExplanation(mock.els.result.innerHTML,q));assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);
  }
 });
 
 test('deposit bank practices with explanations and grades a complete 18-question mock',()=>{
  const bank=JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8'));
- const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(2,18,30);const first=practice.state.questions[0];practice.toggleAnswer(first.answers.find(a=>a.correct).id);practice.submitPractice();assert.equal(practice.state.score,1);assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);
+ const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(2,18,30);const first=practice.state.questions[0];practice.toggleAnswer(first.answers.find(a=>a.correct).id);practice.submitPractice();assert.equal(practice.state.score,1);assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);
  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(2,18,30);assert.equal(mock.state.questions.length,18);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,18);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);assert.match(mock.els.result.innerHTML,/Nghị định số 21/);
 });
 
 test('authorization bank grades all 20 cases and retains explanations in practice and mock',()=>{
  const bank=JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8'));
  const practice=harness();practice.state.bank=bank;practice.state.mode='practice';practice.startSession(2,20,30);
- for(let i=0;i<20;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);}
+ for(let i=0;i<20;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);}
  assert.equal(practice.state.score,20);
  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(2,20,30);assert.equal(mock.state.questions.length,20);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,20);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);assert.match(mock.els.result.innerHTML,/Luật Công chứng số 46/);
 });
@@ -198,7 +244,7 @@ test('authorization bank grades all 20 cases and retains explanations in practic
 test('family bank grades all 26 cases, explains incorrect answers and preserves saved history',()=>{
  const bank=JSON.parse(fs.readFileSync('data/imported-family-2026.json','utf8'));
  const practice=harness();practice.memory.set('existing-history','unchanged');practice.state.bank=bank;practice.state.mode='practice';practice.startSession(2,26,45);
- for(let i=0;i<26;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}
+ for(let i=0;i<26;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}
  assert.equal(practice.state.score,26);assert.equal(practice.memory.get('existing-history'),'unchanged');
  const wrong=harness();wrong.state.bank=[bank[0]];wrong.state.mode='practice';wrong.startSession(2,1,45);wrong.toggleAnswer(wrong.state.questions[0].answers.find(a=>!a.correct).id);wrong.submitPractice();assert.equal(wrong.state.score,0);assert.match(wrong.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);
  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(2,26,45);assert.equal(mock.state.questions.length,26);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,26);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);assert.match(mock.els.result.innerHTML,/Hôn nhân và gia đình/);
@@ -207,7 +253,7 @@ test('family bank grades all 26 cases, explains incorrect answers and preserves 
 test('inheritance bank grades all 32 cases and explains wrong practice answers without modifying existing keys',()=>{
  const bank=JSON.parse(fs.readFileSync('data/imported-inheritance-2026.json','utf8'));
  const practice=harness();practice.memory.set('exam-history-proof','existing snapshot');practice.state.bank=bank;practice.state.mode='practice';practice.startSession(2,32,60);
- for(let i=0;i<32;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assert.match(practice.document.querySelector('#explanation').innerHTML,/Gợi ý làm bài:/);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}
+ for(let i=0;i<32;i++){const q=practice.state.questions[i];practice.state.current=i;practice.renderQuestion();practice.toggleAnswer(q.answers.find(a=>a.correct).id);practice.submitPractice();assertExplanation(practice.document.querySelector('#explanation').innerHTML,practice.state.questions[practice.state.current]);assert.match(practice.document.querySelector('#explanation').innerHTML,/Điều/);}
  assert.equal(practice.state.score,32);assert.equal(practice.memory.get('exam-history-proof'),'existing snapshot');
  const wrong=harness();wrong.state.bank=[bank[0]];wrong.state.mode='practice';wrong.startSession(2,1,60);wrong.toggleAnswer(wrong.state.questions[0].answers.find(a=>!a.correct).id);wrong.submitPractice();assert.equal(wrong.state.score,0);assert.match(wrong.document.querySelector('#explanation').innerHTML,/Đáp án đúng/);
  const mock=harness();mock.state.bank=bank;mock.state.mode='mock';mock.startSession(2,32,60);assert.equal(mock.state.questions.length,32);for(const q of mock.state.questions)mock.state.answers[q.id]=q.answers.filter(a=>a.correct).map(a=>a.id);mock.submitMock();assert.equal(mock.state.score,32);assert.match(mock.els.result.innerHTML,/Căn cứ pháp lý/);assert.match(mock.els.result.innerHTML,/Bộ luật Dân sự/);
@@ -563,7 +609,7 @@ test('60 continuation cases load after all reviewed layers and keep independent 
  assert.match(right('COMP26-QT-008'),/10:05/);
  assert.match(right('IMP-T60-094'),/không cho K ủy quyền lại/);
  const labor=bank.find(q=>q.id==='IMP-T60-092');assert.ok(labor.legalBasis.some(b=>b.article==='Điều 14'));
- const translator=bank.find(q=>q.id==='COMP26-CT-013');assert.match(translator.question.variants[0],/không là cộng tác viên/);
+ const translator=bank.find(q=>q.id==='COMP26-CT-013');assert.match(translator.question.variants[0],/không (?:là|phải) cộng tác viên/);
  const stage=bank.map(q=>review.questions.find(d=>d.id===q.id)?.before||q),stale=JSON.parse(JSON.stringify(stage));
  stale.find(q=>q.id===profile.questions[0].id).legalBasis[0].article+=' changed';
  await assert.rejects(h.applyScenarioRefinements(stale,profile),/Nguồn câu hỏi đã thay đổi/);

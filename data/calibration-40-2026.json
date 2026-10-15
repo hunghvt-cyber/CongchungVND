@@ -49,7 +49,7 @@
       }
     ],
     "difficultyRationale": "Phân loại đồng thời hai nội dung; tránh dùng cùng một thủ tục cho sửa ý chí và sửa ghi chép.",
-    "explanation": "Phân loại đồng thời hai nội dung; tránh dùng cùng một thủ tục cho sửa ý chí và sửa ghi chép.",
+    "explanation": "Giá 2 tỷ phản ánh đúng ý chí khi ký; giảm xuống 1,8 tỷ là thay đổi nghĩa vụ nên phải công chứng sửa đổi theo Điều 53 Luật Công chứng. Lỗi tên đường đã được xác định không ảnh hưởng quyền, nghĩa vụ có thể xử lý theo Điều 52. Hai bên đồng ý không biến thay đổi giá thành lỗi kỹ thuật và không cho sửa cả hai theo cùng một thủ tục.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -185,7 +185,7 @@
       }
     ],
     "difficultyRationale": "Chọn đúng mốc xác lập, loại mốc chứng nhận/giao nhận và không suy kéo dài từ việc còn bản gốc.",
-    "explanation": "Chọn đúng mốc xác lập, loại mốc chứng nhận/giao nhận và không suy kéo dài từ việc còn bản gốc.",
+    "explanation": "Điều 563 BLDS quy định thời hạn mặc định một năm kể từ ngày xác lập việc ủy quyền khi không có thỏa thuận thời hạn và pháp luật không quy định khác. Hồ sơ xác lập trước rồi công chứng sau, nên không tự tính lại một năm từ ngày công chứng hoặc nhận bản gốc. Việc chưa thu hồi giấy và công việc chưa xong không tự kéo dài thời hạn đã hết.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -1424,7 +1424,7 @@
       }
     ],
     "difficultyRationale": "Phân biệt sự đồng ý về cách thực hiện và thay chủ thể nghĩa vụ; giữ trách nhiệm với bên có quyền.",
-    "explanation": "Phân biệt sự đồng ý về cách thực hiện và thay chủ thể nghĩa vụ; giữ trách nhiệm với bên có quyền.",
+    "explanation": "Theo Điều 283 BLDS, B đồng ý để C giao hàng không đồng nghĩa đồng ý chuyển nghĩa vụ từ A sang C. Khi C giao không đúng, A vẫn chịu trách nhiệm thực hiện với B. Việc A trả phí cho C hoặc B biết người giao thay không tự miễn trách nhiệm của A; quan hệ A–C cần được xử lý riêng.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",
@@ -1841,7 +1841,7 @@
       }
     ],
     "difficultyRationale": "Kết hợp tương ứng theo tỷ lệ và trần trách nhiệm; không dùng tỷ lệ để mở sang tài sản riêng.",
-    "explanation": "Kết hợp tương ứng theo tỷ lệ và trần trách nhiệm; không dùng tỷ lệ để mở sang tài sản riêng.",
+    "explanation": "Khoản 1 và khoản 3 Điều 615 BLDS giới hạn trách nhiệm của người thừa kế trong phần di sản đã nhận, trừ thỏa thuận khác. Dù phân bổ khoản nợ 900 triệu theo tỷ lệ 2:1 cho ra 600 và 300 triệu, trần của A vẫn là 400 triệu, B là 200 triệu. Không có cam kết trả vượt nên không tự buộc họ bù phần thiếu bằng tài sản riêng.",
     "reviewStatus": "HARD_SCENARIO_REVIEWED_ESTIMATED",
     "empiricallyCalibrated": false,
     "lastVerified": "2026-10-12",

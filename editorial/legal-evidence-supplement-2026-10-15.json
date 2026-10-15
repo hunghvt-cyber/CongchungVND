@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-15",
+  "scope": "Bổ sung căn cứ đã thay đổi khi biên tập; không thay thế hoặc xác nhận lại toàn bộ hồ sơ pháp lý lịch sử.",
+  "historicalDossiersUnchanged": true,
+  "evidence": {
+    "DS:296": {
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "article": "296",
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "checkedSource": "https://vbpl.vn/FileData/TW/Lists/vbpq/Attachments/95942/VanBanGoc_91.2015.QH13.P1.pdf",
+      "excerptType": "editorial paraphrase, not a verbatim quotation",
+      "excerpt": "Một tài sản có thể bảo đảm nhiều nghĩa vụ nếu giá trị tại thời điểm xác lập lớn hơn tổng nghĩa vụ, trừ thỏa thuận hoặc luật khác. Bên bảo đảm phải thông báo cho bên nhận bảo đảm sau về việc đã bảo đảm nghĩa vụ khác; mỗi lần bảo đảm lập thành văn bản. Khi xử lý tài sản cho nghĩa vụ đến hạn, luật còn quy định cơ chế xử lý các nghĩa vụ còn lại và khả năng thỏa thuận dùng tài sản khác."
+    }
+  },
+  "questions": [
+    {
+      "id": "HARD26-041",
+      "historicalReport": "reports/hard-integrated-100-legal-review-2026-10-12.json",
+      "historicalEvidenceKeys": ["DS:295", "HN:35", "CC:56"],
+      "evidenceKeys": ["DS:295", "DS:296", "HN:35", "CC:56"],
+      "answerKey": ["D"],
+      "reason": "Bổ sung quy tắc một tài sản bảo đảm nhiều nghĩa vụ. Đáp án chỉ kết luận có thể xem xét thế chấp tiếp và xác định nơi công chứng; không xác nhận đã hoàn thành mọi điều kiện. Việc thông báo M trong đề không thay nghĩa vụ thông báo cho bên nhận bảo đảm sau là N."
+    },
+    {
+      "id": "CAL26-027",
+      "historicalReport": "reports/difficulty-upgrade-100-legal-review-2026-10-12.json",
+      "evidenceKeys": ["CC:50"],
+      "answerKey": ["B", "C", "D"],
+      "reason": "Chỉ rõ khoản 4 cùng khoản 1 và khoản 3 Điều 50 cho trường hợp ký kèm điểm chỉ; chứng cứ CC:50 của hồ sơ cũ đã chứa đủ khoản 1–4. Không sửa ngày lastVerified hoặc khóa đáp án."
+    }
+  ]
+}
