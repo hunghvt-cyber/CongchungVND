@@ -402,7 +402,7 @@
         "type": "single",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, B sở hữu một ngôi nhà theo quyền bề mặt hợp pháp trên đất C. B cho A hưởng dụng riêng ngôi nhà sáu năm; sau hai năm A mua hợp pháp quyền sử dụng đất của C, không mua nhà B. Các quyền đang xét vẫn hợp lệ. A nói mua đất làm chấm dứt hưởng dụng nhà và A trở thành chủ nhà; B muốn thu nhà ngay. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, B sở hữu căn nhà được xây dựng hợp pháp theo quyền bề mặt trên đất của C và cho A hưởng dụng căn nhà trong sáu năm. Hai năm sau, A mua quyền sử dụng đất của C nhưng không mua căn nhà của B. Các quyền liên quan đều còn hiệu lực. A cho rằng từ khi đứng tên quyền sử dụng đất, mình đương nhiên sở hữu cả nhà và quyền hưởng dụng chấm dứt; B lại yêu cầu nhận nhà ngay. Quyền của A và B được xác định thế nào?"
           ]
         },
         "answerKey": [
@@ -778,7 +778,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A sở hữu máy đang cầm cố cho B, nghĩa vụ chưa chấm dứt; A muốn tự lựa chọn bán đấu giá máy. Không có luật riêng cho phép định đoạt không cần B chấp thuận. B chưa đồng ý, người đang giữ máy đề nghị tự ký thay A vì sẽ dùng tiền trả nợ. Cách đánh giá nào phù hợp?"
+            "Tháng 10/2026, A muốn bán đấu giá chiếc máy thuộc sở hữu của mình để lấy tiền trả nợ. Chiếc máy đang được cầm cố cho B và nghĩa vụ bảo đảm chưa chấm dứt. B chưa đồng ý việc bán; cũng không có quy định riêng cho phép A định đoạt mà không cần sự đồng ý đó. Người đang giữ máy đề nghị tự ký hợp đồng bán thay A vì tiền thu được sẽ dùng trả nợ. Việc định đoạt và ký bán chiếc máy cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -1066,7 +1066,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A là chủ công ty TNHH một thành viên, đăng ký 5 tỷ nhưng không góp đủ đúng hạn. Công ty đăng ký giảm vốn đúng thủ tục sau đó. Một khoản nghĩa vụ tài chính phát sinh trước ngày đăng ký thay đổi; thiệt hại 700 triệu do không góp đủ vốn đã được chứng minh riêng. A đề nghị chỉ chịu trong vốn thực góp và miễn thiệt hại sau giảm vốn. Nhận định nào phù hợp?"
+            "Tháng 10/2026, A là chủ sở hữu công ty trách nhiệm hữu hạn một thành viên có vốn điều lệ đăng ký 5 tỷ đồng nhưng đã không góp đủ trong thời hạn luật định. Sau đó, công ty thực hiện thủ tục đăng ký giảm vốn. Trước ngày đăng ký thay đổi, công ty đã phát sinh một nghĩa vụ tài chính; đồng thời có khoản thiệt hại riêng 700 triệu đồng được chứng minh là do việc không góp đủ vốn. A cho rằng sau khi giảm vốn, mình chỉ chịu trách nhiệm trong số vốn thực góp và không phải bồi thường thiệt hại. Nhận định nào phù hợp?"
           ]
         },
         "answers": [
@@ -1152,7 +1152,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, B nợ A 300 triệu, đã trả 100 triệu. K chỉ được A ủy quyền thu tiền, không có quyền miễn nợ; K tự ghi miễn 200 triệu còn lại, B biết giới hạn đó, A không đồng ý và không có lỗi trong việc này. Sau đó A trực tiếp miễn hợp lệ toàn bộ 200 triệu. Trong phạm vi trước và sau việc miễn của A, nhận định nào phù hợp?"
+            "Tháng 10/2026, B còn nợ A 200 triệu đồng sau khi đã trả 100 triệu trong khoản vay 300 triệu. A chỉ ủy quyền cho K thu nợ, không cho phép miễn nợ. Dù biết giới hạn này, B vẫn nhận giấy do K tự lập để miễn toàn bộ số nợ còn lại; A không đồng ý và không có lỗi trong việc K vượt quyền. Sau đó, chính A tuyên bố miễn hợp lệ khoản 200 triệu đồng. Hiệu lực của việc miễn nợ cần được xác định ra sao ở từng thời điểm?"
           ]
         },
         "answers": [
@@ -1248,7 +1248,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A, B, C có quyền sử dụng đất chung không phân chia được theo phần; mỗi người được cấp giấy thể hiện quyền chung, không có tách thửa. Chỉ A ủy quyền K bán toàn bộ thửa. B, C không đồng ý, không có lỗi trong việc này; bên mua biết K chỉ đại diện A. K nói mỗi người có giấy riêng nên đủ quyền bán. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, A, B và C cùng có quyền sử dụng một thửa đất chưa được phân chia theo phần hoặc tách thửa. Mỗi người có giấy chứng nhận thể hiện quyền chung đối với thửa đất. Chỉ A ủy quyền cho K bán toàn bộ thửa đất, còn B và C không đồng ý và không có lỗi. Bên mua biết rõ K chỉ đại diện cho A. K cho rằng việc mỗi người có một giấy chứng nhận đồng nghĩa A có thể tự định đoạt cả thửa. Giao dịch dự kiến cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -1433,7 +1433,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A chết, có 600 triệu tài sản riêng và nợ hợp pháp 100 triệu được thanh toán từ di sản; không có nghĩa vụ, chi phí khác. Không di chúc, cha mẹ A đã chết; hàng thừa kế thứ nhất chỉ có vợ W và con C. C đã thành thai trước A chết, sinh còn sống một tháng sau. Không ai từ chối hoặc bị loại. Sau khi thanh toán khoản nợ, phần di sản của W và C được xác định thế nào?"
+            "Tháng 10/2026, gia đình làm thủ tục phân chia di sản của A. A chết không để lại di chúc, có 600 triệu đồng tài sản riêng và khoản nợ hợp pháp 100 triệu đồng phải thanh toán từ di sản; không phát sinh chi phí hoặc nghĩa vụ nào khác. Cha mẹ A đều đã mất, hàng thừa kế thứ nhất chỉ còn vợ W và con C. C đã thành thai trước khi A chết và sinh ra còn sống một tháng sau đó; không ai từ chối hoặc bị loại khỏi quyền hưởng di sản. Sau khi trả nợ, W và C được hưởng bao nhiêu?"
           ]
         },
         "answers": [
@@ -1528,7 +1528,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A góp máy không đăng ký quyền sở hữu và quyền sử dụng đất phải đăng ký vào công ty. Mọi điều kiện định đoạt, hình thức hợp đồng và giá góp vốn đã hợp lệ. Máy đã giao nhận kèm biên bản đúng nội dung; đất mới ghi vào sổ vốn, chưa làm thủ tục chuyển quyền tại cơ quan có thẩm quyền. Trong phạm vi chuyển tài sản góp vốn, nhận định đúng?"
+            "Tháng 10/2026, A góp vào công ty hai loại tài sản: một chiếc máy không thuộc diện đăng ký quyền sở hữu và quyền sử dụng một thửa đất phải đăng ký. Các điều kiện về quyền định đoạt, hình thức và giá trị góp vốn đều đã được đáp ứng. Công ty đã nhận máy kèm biên bản giao nhận hợp lệ, nhưng đối với đất mới chỉ ghi nhận trong sổ góp vốn, chưa thực hiện thủ tục chuyển quyền tại cơ quan có thẩm quyền. Thời điểm hoàn tất việc góp vốn bằng từng tài sản được xác định thế nào?"
           ]
         },
         "answers": [
@@ -1618,7 +1618,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Văn bản ghi sai một chữ số giấy tờ nhân thân do lỗi ghi chép; đối chiếu hồ sơ gốc xác định đúng người, sửa không làm thay đổi quyền, nghĩa vụ. Bên lề trang không đủ chỗ. Đồng thời, các bên mới muốn tăng giá giao dịch từ 4 lên 5 tỷ. Hồ sơ thuộc tổ chức đang lưu trữ hợp lệ. Cách xử lý cả hai đúng?"
+            "Tháng 10/2026, tổ chức đang lưu trữ một văn bản công chứng có sai sót một chữ số trong giấy tờ nhân thân. Hồ sơ gốc xác định đúng người và việc sửa lỗi không làm thay đổi quyền, nghĩa vụ, nhưng phần lề trang không còn đủ chỗ ghi sửa. Cùng lúc, các bên đề nghị tăng giá giao dịch từ 4 tỷ lên 5 tỷ đồng. Tổ chức cần phân biệt và xử lý yêu cầu sửa lỗi kỹ thuật với yêu cầu thay đổi nội dung giao dịch thế nào?"
           ]
         },
         "answers": [
@@ -1708,7 +1708,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, C 14 tuổi thừa kế nhà riêng. Cha P và mẹ M là người đại diện theo pháp luật, không có giám hộ hoặc đại diện khác. P muốn ký bên bán nhân danh C và đồng thời đứng bên mua cho chính P; M đồng ý bằng văn bản. Không có ngoại lệ luật cho P giao dịch với chính mình. Trong phạm vi đại diện, cách xử lý nào phù hợp?"
+            "Tháng 10/2026, C, 14 tuổi, được thừa kế riêng một căn nhà. Cha P và mẹ M là những người đại diện theo pháp luật của C, không có người đại diện hoặc giám hộ nào khác. P dự định nhân danh C ký hợp đồng bán nhà, đồng thời chính P đứng tên bên mua. M đã đồng ý bằng văn bản, nhưng không có ngoại lệ luật định cho phép P giao dịch với chính mình trong trường hợp này. Việc đại diện ký kết phải được xử lý ra sao?"
           ]
         },
         "answers": [
@@ -1809,7 +1809,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A ủy quyền K 17 tuổi mua một vật thông thường với giá tối đa 500 nghìn; loại giao dịch không đòi người đại diện từ đủ 18 tuổi. K lại ký mua một vật giá 900 nghìn. B biết giới hạn, A không đồng ý và không có lỗi trong việc này; không thể tách giao dịch thành phần giá 500 nghìn độc lập. Trong phạm vi tuổi và phạm vi, nhận định nào phù hợp?"
+            "Tháng 10/2026, A ủy quyền cho K, 17 tuổi, mua một món đồ thông thường với giá tối đa 500.000 đồng. Loại giao dịch này không bắt buộc người đại diện phải đủ 18 tuổi. K lại ký mua món đồ trị giá 900.000 đồng; bên bán B biết rõ giới hạn được ủy quyền. A không chấp thuận phần vượt quyền, không có lỗi, và giao dịch không thể tách thành phần mua độc lập trị giá 500.000 đồng. Hiệu lực giao dịch cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -1904,7 +1904,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A không đọc được, yêu cầu công chứng di chúc. công chứng viên K chính là người hưởng di sản; công chứng viên L không có quan hệ hoặc lợi ích liên quan. A chọn X, một người khác cũng hưởng theo di chúc, làm người làm chứng; X có năng lực đầy đủ. A đồng ý với cả hai lợi ích. Phương án nào phù hợp về người chứng nhận và người làm chứng?"
+            "Tháng 10/2026, A không đọc được và muốn lập di chúc có công chứng. Công chứng viên K được đề nghị chứng nhận nhưng chính K là người được hưởng di sản theo di chúc; công chứng viên L không có quyền lợi hoặc quan hệ liên quan. A còn chọn X làm người làm chứng, dù X cũng được hưởng di sản và có đầy đủ năng lực hành vi. A tuyên bố đồng ý với cả hai trường hợp có lợi ích liên quan. Ai có thể chứng nhận di chúc và ai có thể làm chứng?"
           ]
         },
         "answers": [
@@ -1999,7 +1999,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hai cá nhân mua bán nhà có sẵn phù hợp quy định pháp luật, không thuộc giao dịch chủ đầu tư. Giá 2,4 tỷ; cọc 100 triệu được thỏa thuận khấu trừ vào giá, bên mua trả trước thêm 1 tỷ. Nhà đã bàn giao nhưng chưa thanh toán tiếp; không thỏa thuận khác về xác lập sở hữu. Trong phạm vi số tiền còn thiếu và mốc sở hữu, nhận định nào phù hợp?"
+            "Tháng 10/2026, hai cá nhân ký hợp đồng mua bán căn nhà có sẵn với giá 2,4 tỷ đồng; đây không phải giao dịch mua bán với chủ đầu tư. Bên mua đặt cọc 100 triệu đồng, được thỏa thuận khấu trừ vào giá, rồi thanh toán thêm 1 tỷ đồng. Bên bán đã bàn giao nhà nhưng bên mua chưa trả thêm khoản nào; các bên không thỏa thuận riêng về thời điểm xác lập quyền sở hữu. Số tiền còn phải thanh toán và thời điểm xác lập quyền sở hữu được xác định thế nào?"
           ]
         },
         "answers": [
@@ -2090,7 +2090,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Cơ quan có thẩm quyền cử M thay S làm giám hộ. Khi bàn giao tài sản và quyền, nghĩa vụ, S mời công chứng viên N chứng kiến nhưng không mời cơ quan cử hoặc người giám sát G. S nói N là người có chuyên môn nên đủ thay cả hai. G sau đó gửi giấy xác nhận đã đọc bản chụp, không trực tiếp chứng kiến chuyển giao. Cách đánh giá nào phù hợp?"
+            "Tháng 10/2026, cơ quan có thẩm quyền cử M thay S làm người giám hộ. Khi bàn giao tài sản cùng quyền, nghĩa vụ liên quan, S chỉ mời công chứng viên N chứng kiến, không mời cơ quan đã cử người giám hộ hoặc người giám sát G. S cho rằng chuyên môn của N có thể thay thế sự tham gia của cả hai chủ thể. Sau đó G chỉ xác nhận đã đọc bản chụp biên bản, không trực tiếp chứng kiến bàn giao. Thủ tục chuyển giao này cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -2175,7 +2175,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A ủy quyền K bán xe với giá không dưới 300 triệu, văn bản đã công chứng. A đồng ý cho K ủy quyền lại M nhưng không cho thay giới hạn giá. K ủy quyền lại cùng hình thức, cho M bán 270 triệu; M ký bán đúng 270 triệu cho B. B biết cả giới hạn ban đầu, A không đồng ý và không có lỗi trong việc này. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, A lập văn bản công chứng ủy quyền cho K bán xe với giá không thấp hơn 300 triệu đồng. A đồng ý để K ủy quyền lại cho M nhưng không cho phép thay đổi giới hạn giá. K lập văn bản ủy quyền lại đúng hình thức, song cho M bán với giá 270 triệu đồng. M ký bán đúng giá này cho B; B biết giới hạn ban đầu, còn A không chấp thuận và không có lỗi. Giao dịch do M xác lập ràng buộc A đến mức nào?"
           ]
         },
         "answers": [
@@ -2270,7 +2270,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A sở hữu nhà, B đang có quyền hưởng dụng hợp pháp nhà đó. C gây hư hại xâm phạm quyền A và B. Thiệt hại riêng A là 300 triệu sửa nhà, riêng B là 80 triệu lợi ích sử dụng bị mất, đều đã được chứng minh, có quan hệ nhân quả và không trùng nhau. C chỉ muốn bồi thường người đứng tên nhà. Trong phạm vi tư cách yêu cầu và tránh tính trùng, nhận định đúng?"
+            "Tháng 10/2026, C gây hư hỏng căn nhà thuộc sở hữu của A mà B đang có quyền hưởng dụng hợp pháp. Thiệt hại sửa chữa nhà của A là 300 triệu đồng; B mất lợi ích sử dụng riêng trị giá 80 triệu đồng. Cả hai khoản đã được chứng minh, có quan hệ nhân quả và không trùng lặp. C cho rằng chỉ A, người đứng tên nhà, mới có quyền yêu cầu bồi thường. Ai có quyền yêu cầu và thiệt hại được xác định thế nào?"
           ]
         },
         "answers": [
@@ -2361,7 +2361,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Di sản đã chia: A nhận 800 triệu, B nhận 400 triệu tính tại lúc chia. Sau đó C là người thừa kế bị bỏ sót được xác định có phần đáng hưởng 300 triệu tại thời điểm chia. Nay tài sản A tăng giá gấp đôi, B vẫn giá cũ; các bên không có thỏa thuận khác về xử lý. C yêu cầu lấy nhà A để chia lại. Phương án mặc định đúng?"
+            "Tháng 10/2026, C được xác định là người thừa kế đã bị bỏ sót trong lần phân chia di sản trước đó. Tại thời điểm chia, A đã nhận tài sản trị giá 800 triệu đồng, B nhận 400 triệu đồng, còn phần C đáng được hưởng là 300 triệu đồng. Đến nay, tài sản A tăng giá gấp đôi, tài sản B giữ nguyên giá trị. Không có thỏa thuận riêng về cách xử lý, C yêu cầu lấy lại căn nhà A đã nhận để chia từ đầu. Phương án giải quyết mặc định nào phù hợp?"
           ]
         },
         "answers": [
@@ -2446,7 +2446,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K đã được ghi nhận hành nghề hợp pháp theo hợp đồng lao động tại P, không phải là thành viên hợp danh. K muốn làm thêm công chứng viên tại Q theo hợp đồng buổi tối, không chấm dứt ở P, cho rằng không góp vốn nên không bị cấm đồng thời. Trong phạm vi hình thức và số nơi hành nghề, nhận định nào phù hợp?"
+            "Tháng 10/2026, K đang hành nghề công chứng hợp pháp theo hợp đồng lao động tại văn phòng P và không phải thành viên hợp danh. K muốn ký thêm hợp đồng làm công chứng viên tại văn phòng Q vào buổi tối, trong khi vẫn tiếp tục hành nghề tại P. K cho rằng quy định hạn chế hành nghề đồng thời chỉ áp dụng với người góp vốn hoặc thành viên hợp danh. Dự định của K có phù hợp với quy định về nơi hành nghề không?"
           ]
         },
         "answers": [
@@ -2536,7 +2536,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Giấy đăng ký hoạt động P bị hỏng. Đồng thời P thay Trưởng Văn phòng hợp pháp, nội dung này chưa được đăng ký thay đổi. Không có thu hồi hoặc chấm dứt tổ chức. P muốn xin cấp lại nguyên nội dung cũ rồi chỉ thông báo tên trưởng mới cho khách. Trong phạm vi giấy và nội dung đăng ký, phương án phù hợp?"
+            "Tháng 10/2026, giấy đăng ký hoạt động của văn phòng công chứng P bị hư hỏng. Cùng thời điểm, P đã thay Trưởng văn phòng hợp pháp nhưng chưa đăng ký thay đổi thông tin này. P muốn xin cấp lại giấy với nguyên nội dung cũ và chỉ thông báo tên Trưởng văn phòng mới cho khách hàng. Văn phòng không thuộc trường hợp bị thu hồi giấy hoặc chấm dứt hoạt động. Hai thay đổi này phải được thực hiện theo thủ tục nào?"
           ]
         },
         "answers": [
@@ -2622,7 +2622,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A bán xe với tư cách cá nhân, đã ký sẵn ở nhà. A không thuộc trường hợp đăng ký chữ ký mẫu của tổ chức. Khi đến văn phòng, A đọc hiểu và đề nghị thêm điểm chỉ cạnh chữ ký, cho rằng điểm chỉ trước công chứng viên thay được yêu cầu ký trước công chứng viên. Không có căn cứ miễn khác. Cách xử lý nào phù hợp?"
+            "Tháng 10/2026, A mang đến văn phòng công chứng hợp đồng bán xe mà mình đã ký sẵn tại nhà. A giao dịch với tư cách cá nhân, không thuộc trường hợp đã đăng ký chữ ký mẫu của tổ chức. Tại văn phòng, A đọc hiểu văn bản và đề nghị điểm chỉ thêm trước mặt công chứng viên, cho rằng như vậy có thể thay việc ký trước mặt công chứng viên. Không có căn cứ miễn trừ nào khác. Công chứng viên cần xử lý yêu cầu ký và điểm chỉ ra sao?"
           ]
         },
         "answers": [
@@ -2712,7 +2712,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hồ sơ đất I chỉ có cảnh báo rủi ro cũ chưa rõ nguồn, chưa có quyết định ngăn chặn và chưa xác minh hiện trạng. Hồ sơ II có quyết định áp dụng biện pháp khẩn cấp tạm thời cấm chuyển dịch quyền đối với đất, đã kiểm tra còn hiệu lực. Hai bên đều cam kết chịu trách nhiệm. Cách xử lý cả hai phù hợp?"
+            "Tháng 10/2026, công chứng viên tiếp nhận hai hồ sơ chuyển nhượng đất. Hồ sơ thứ nhất chỉ có thông tin cảnh báo rủi ro cũ, chưa rõ nguồn; chưa xác minh tình trạng thực tế và không có quyết định ngăn chặn. Hồ sơ thứ hai có quyết định áp dụng biện pháp khẩn cấp tạm thời cấm chuyển dịch quyền sử dụng đất, đã được kiểm tra và còn hiệu lực. Các bên trong cả hai hồ sơ đều cam kết tự chịu trách nhiệm. Công chứng viên cần xử lý từng hồ sơ thế nào?"
           ]
         },
         "answers": [
@@ -2807,7 +2807,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Người bán không đọc được cần người làm chứng cho hợp đồng bán xe, không phải di chúc. Có ba người đều đọc, nghe, ký và trực tiếp chứng kiến được: I là cậu, có năng lực đầy đủ nhưng được hưởng 1% giá bán nếu giao dịch hoàn tất; II là người ngoài 17 tuổi chưa có năng lực đầy đủ; III là cậu khác có năng lực đầy đủ, không quyền, lợi ích, nghĩa vụ liên quan. Chọn người đáp ứng điều kiện đã nêu?"
+            "Tháng 10/2026, người bán xe không đọc được nên cần người làm chứng khi công chứng hợp đồng, không phải di chúc. Ba người được đề xuất đều có thể nghe, đọc, ký và trực tiếp chứng kiến: I là cậu của người bán, có đầy đủ năng lực nhưng được hưởng 1% giá bán nếu giao dịch thành công; II là người ngoài gia đình, 17 tuổi, chưa có đầy đủ năng lực; III cũng là cậu của người bán, có đầy đủ năng lực và không có quyền, lợi ích hay nghĩa vụ liên quan. Ai đáp ứng điều kiện làm chứng?"
           ]
         },
         "answers": [
@@ -2897,7 +2897,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A và W có nhà chung đã xác định, giấy chỉ tên A. Dự thảo bán toàn nhà do A tự ký ghi không cần sự đồng ý W vì A đứng tên. W không đồng ý bằng văn bản, không đại diện hoặc căn cứ khác cho A định đoạt toàn bộ. công chứng viên chỉ rõ thiếu sót, A từ chối sửa và chỉ thêm câu tự chịu trách nhiệm. Cách xử lý nào phù hợp?"
+            "Tháng 10/2026, A mang đến văn phòng công chứng dự thảo hợp đồng bán toàn bộ căn nhà là tài sản chung của A và W, dù giấy chứng nhận chỉ ghi tên A. W không đồng ý bán và cũng không có ủy quyền hoặc căn cứ khác cho A định đoạt toàn bộ. Khi công chứng viên yêu cầu làm rõ, A từ chối sửa dự thảo, chỉ muốn thêm câu tự chịu trách nhiệm vì mình đứng tên giấy. Công chứng viên phải xử lý hồ sơ thế nào?"
           ]
         },
         "answers": [
@@ -2997,7 +2997,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hợp đồng giữa A và công ty F từng công chứng ở P; P đã giải thể, X đang lưu trữ hợp lệ hồ sơ. A và F muốn sửa hợp đồng bằng văn bản; K đại diện F ở lần đầu nhưng quyền K đã chấm dứt trước lần sửa, các bên biết và F không cấp quyền mới. K đề nghị ký tại X vì X giữ hồ sơ nên không cần chứng minh đại diện nữa. Nhận định nào phù hợp?"
+            "Tháng 10/2026, A và công ty F muốn sửa đổi hợp đồng đã công chứng trước đây tại văn phòng P. P đã giải thể và hồ sơ hiện được tổ chức X lưu trữ hợp lệ. K từng đại diện F ký hợp đồng ban đầu, nhưng quyền đại diện của K đã chấm dứt trước lần sửa đổi; các bên đều biết và F không cấp quyền mới. K cho rằng X đang giữ hồ sơ nên mình không cần chứng minh thẩm quyền đại diện nữa. Việc sửa đổi hợp đồng cần được xử lý thế nào?"
           ]
         },
         "answers": [
@@ -3093,7 +3093,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, công chứng viên K có hai hồ sơ hợp lệ khác: I bán nhà riêng của cha đẻ vợ K; II bán xe riêng của cậu K. K không có tài sản, lợi ích hoặc nghĩa vụ trong II, cậu không thuộc quan hệ nào khác trong danh sách cấm; không có vướng mắc pháp lý khác. Khách cả hai đồng ý K thực hiện. Trong phạm vi quan hệ thân thích luật định, phân công phù hợp?"
+            "Tháng 10/2026, công chứng viên K được đề nghị xử lý hai hồ sơ riêng biệt: bán căn nhà thuộc sở hữu riêng của cha vợ K và bán chiếc xe thuộc sở hữu riêng của cậu K. Đối với hồ sơ bán xe, K không có quyền, lợi ích hoặc nghĩa vụ liên quan; người cậu cũng không thuộc quan hệ cấm nào khác. Khách hàng của cả hai giao dịch đều đồng ý để K thực hiện. Xét quan hệ thân thích theo luật, K có thể nhận hồ sơ nào?"
           ]
         },
         "answers": [
@@ -3178,7 +3178,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Nhà trị giá 1,2 tỷ đang tranh chấp tính chất tài sản giữa A và W; không có căn cứ chứng minh riêng, không chế độ thỏa thuận khác. Sau đó W chết không di chúc, không nợ; cha mẹ W đã chết, hàng thứ nhất chỉ A và con C thành niên. Không ai từ chối hoặc bị loại. A muốn bán cả nhà chỉ vì giấy đứng tên A. Trong phạm vi phần quyền, nhận định nào phù hợp?"
+            "Tháng 10/2026, A muốn bán toàn bộ căn nhà trị giá 1,2 tỷ đồng vì giấy chứng nhận chỉ ghi tên mình. Trước đó, A và vợ W có tranh chấp về tính chất tài sản; không có chứng cứ xác định nhà là tài sản riêng và không có thỏa thuận chế độ tài sản khác. W sau đó chết không để lại di chúc, không có nợ; cha mẹ W đã mất, hàng thừa kế thứ nhất chỉ có A và con C đã thành niên. Không ai từ chối hoặc bị loại khỏi quyền hưởng di sản. A có quyền định đoạt phần nào của căn nhà?"
           ]
         },
         "answers": [
@@ -3283,7 +3283,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, W và A thỏa thuận bằng văn bản cho A đưa tài sản chung vào kinh doanh, giao dịch A ký thuộc phạm vi đó. Sau đó có khoản nợ ngân hàng được xác định hợp pháp là nghĩa vụ chung cả hai. A–W ký nội bộ chuyển toàn nghĩa vụ sang A, ngân hàng không đồng ý chuyển và không có ngoại lệ luật. W nói từ đầu A tự ký nên mình hết nghĩa vụ. Nhận định nào phù hợp?"
+            "Tháng 10/2026, vợ chồng A và W từng lập văn bản đồng ý cho A sử dụng tài sản chung vào hoạt động kinh doanh, và giao dịch do A ký nằm trong phạm vi này. Sau đó, ngân hàng phát sinh khoản nợ được xác định hợp pháp là nghĩa vụ chung của cả hai. A và W tự ký giấy chuyển toàn bộ nghĩa vụ sang A nhưng ngân hàng không đồng ý và không có ngoại lệ luật định. W cho rằng vì chỉ A trực tiếp ký giao dịch nên mình không còn trách nhiệm. Nhận định nào phù hợp?"
           ]
         },
         "answers": [
@@ -3373,7 +3373,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A–W lập bản lựa chọn chế độ tài sản trước kết hôn nhưng không công chứng, chứng thực; chưa có quyết định Tòa công nhận hoặc khắc phục hình thức. Sau kết hôn, họ muốn công chứng một văn bản chia tài sản chung cụ thể và ghi rằng việc này chứng minh bản đầu đã đủ hình thức ngay từ trước cưới. Trong phạm vi hai cơ chế pháp lý, hướng xử lý nào phù hợp?"
+            "Tháng 10/2026, A và W đề nghị công chứng văn bản chia một tài sản chung cụ thể sau khi đã kết hôn. Họ đồng thời xuất trình bản lựa chọn chế độ tài sản lập trước khi cưới nhưng chưa từng được công chứng hoặc chứng thực, cũng chưa có căn cứ khắc phục thiếu sót hình thức. Hai người muốn ghi trong văn bản mới rằng thỏa thuận trước hôn nhân đã hợp lệ ngay từ đầu. Cần phân biệt hiệu lực của hai cơ chế này thế nào?"
           ]
         },
         "answers": [
@@ -3464,7 +3464,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, C 17 tuổi có đất riêng được thừa kế, muốn tự ký chuyển nhượng cho một cá nhân; giao dịch không thuộc trường hợp ngoại lệ kinh doanh bất động sản, mọi điều kiện đất khác đều đạt. Cha mẹ là đại diện theo pháp luật không đồng ý, không có căn cứ thay thế khác. C chọn chứng thực thay công chứng vì cho rằng người 17 tuổi tự giao dịch được. Trong phạm vi tuổi và hình thức, nhận định đúng?"
+            "Tháng 10/2026, C, 17 tuổi, được thừa kế riêng một thửa đất và muốn tự ký hợp đồng chuyển nhượng cho người khác. Các điều kiện liên quan đến thửa đất đều được đáp ứng; giao dịch không thuộc ngoại lệ về kinh doanh bất động sản. Cha mẹ là người đại diện theo pháp luật không đồng ý và không có căn cứ đại diện thay thế. C đề nghị chứng thực hợp đồng thay vì công chứng vì cho rằng đủ 17 tuổi có thể tự định đoạt. Yêu cầu này cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -3555,7 +3555,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Giao dịch ký tháng 3/2023 do bên thứ ba cố ý làm A hiểu sai đối tượng, dẫn đến A xác lập giao dịch; hành vi và quan hệ nhân quả đã đã có chứng cứ. A chỉ biết hoặc phải biết lừa dối từ tháng 3/2026, yêu cầu Tòa tuyên vô hiệu tháng 10/2026; không có căn cứ thời hiệu khác. B nói mình không lừa và đã hơn hai năm từ ký nên A hết quyền. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, A yêu cầu Tòa án tuyên vô hiệu giao dịch đã ký tháng 3/2023 vì bị một người thứ ba cố ý làm hiểu sai đối tượng giao dịch. Hành vi lừa dối và quan hệ nhân quả đã có chứng cứ; A chỉ biết hoặc phải biết sự lừa dối từ tháng 3/2026. Không có căn cứ thời hiệu khác. B phản đối vì chính B không lừa dối và đã quá hai năm kể từ ngày ký. Cần xác định quyền yêu cầu và thời hiệu thế nào?"
           ]
         },
         "answers": [
@@ -3646,7 +3646,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Năm 2022, A–B lập giao dịch mua bán giả tạo để che giấu tặng cho; giao dịch tặng cho được xác định độc lập đáp ứng đầy đủ điều kiện có hiệu lực, không nhằm trốn tránh nghĩa vụ với bên thứ ba. Năm 2026 có yêu cầu Tòa xem xét vô hiệu mua bán giả tạo. Trong phạm vi thời hiệu và giao dịch bị che giấu, nhận định đúng?"
+            "Tháng 10/2026, Tòa án được yêu cầu xem xét giao dịch mua bán do A và B lập năm 2022. Các bên thừa nhận việc mua bán chỉ là giả tạo nhằm che giấu một giao dịch tặng cho. Giao dịch tặng cho được xác định độc lập là đáp ứng đầy đủ điều kiện có hiệu lực và không nhằm trốn tránh nghĩa vụ với người thứ ba. Xét thời hiệu yêu cầu và số phận giao dịch bị che giấu, nhận định nào phù hợp?"
           ]
         },
         "answers": [
