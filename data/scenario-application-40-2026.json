@@ -16,7 +16,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Đất được xác định là tài sản chung A–W, giấy chứng nhận chỉ ghi A. Khi thu hồi, phương án đã được phê duyệt trả 700 triệu giá trị quyền sử dụng đất và 200 triệu cho công trình được xác định là tài sản riêng A. A đề nghị công chứng thỏa thuận xác nhận cả 900 triệu là bồi thường về đất và riêng A vì A đứng tên giấy. Xét bản chất các khoản bồi thường và lý do A đưa ra, nhận định nào phù hợp?"
+            "Tháng 10/2026, A đề nghị công chứng văn bản xác nhận toàn bộ 900 triệu đồng bồi thường khi thu hồi đất thuộc riêng mình. Tuy nhiên, hồ sơ thể hiện quyền sử dụng đất là tài sản chung của A và W, dù giấy chứng nhận chỉ ghi tên A. Phương án bồi thường đã được phê duyệt phân định 700 triệu đồng cho quyền sử dụng đất và 200 triệu đồng cho công trình là tài sản riêng của A. A cho rằng việc đứng tên giấy chứng nhận đủ để coi cả hai khoản là bồi thường về đất thuộc riêng mình. Nhận định nào phù hợp với tính chất từng khoản tiền?"
           ]
         },
         "answers": [
@@ -115,7 +115,7 @@
         "status": "active",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A ủy quyền hợp lệ cho K ký hợp đồng bán xe đúng phạm vi; K chưa được bổ nhiệm công chứng viên. công chứng viên L đủ điều kiện nhưng K đề nghị tự ký cả phần bên bán và lời chứng, L chỉ đóng dấu. Hồ sơ, ý chí và giao dịch không có vướng mắc pháp lý khác. Cách phân công nào phù hợp?"
+            "Tháng 10/2026, A ủy quyền hợp lệ cho K ký hợp đồng bán xe. Khi đến tổ chức hành nghề công chứng, K đề nghị được ký cả phần đại diện bên bán lẫn lời chứng, còn công chứng viên L chỉ cần đóng dấu. K chưa được bổ nhiệm làm công chứng viên; L đủ điều kiện hành nghề. Phạm vi ủy quyền, hồ sơ và ý chí giao dịch đều hợp lệ. Việc ký hợp đồng và ký lời chứng phải được phân công thế nào?"
           ]
         },
         "answers": [
@@ -220,7 +220,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hai doanh nghiệp giao dịch không thuộc quan hệ tiêu dùng, không có luật chuyên ngành khác. X đưa mẫu thuê máy miễn trách nhiệm X khi giao máy hỏng; Y các bên không có thỏa thuận khác về miễn trách nhiệm. Điều khoản này tách được, không ảnh hưởng đến phần còn lại hợp đồng. X nói Y đã ký nên hoặc giữ miễn trách nhiệm hoặc hủy toàn bộ hợp đồng. Cách đánh giá nào phù hợp?"
+            "Tháng 10/2026, doanh nghiệp X đưa cho doanh nghiệp Y một hợp đồng thuê máy theo mẫu, trong đó X được miễn trách nhiệm ngay cả khi giao máy bị hỏng. Đây không phải giao dịch tiêu dùng; không có quy định chuyên ngành hoặc thỏa thuận riêng khác về miễn trách nhiệm. Điều khoản này có thể tách khỏi phần còn lại của hợp đồng. Khi Y phản đối, X cho rằng vì Y đã ký nên phải chấp nhận điều khoản, nếu không thì toàn bộ hợp đồng bị hủy. Cách đánh giá nào phù hợp?"
           ]
         },
         "answers": [
@@ -311,7 +311,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Quy tắc Hiệp hội cho công chứng viên công chứng giao dịch của mẹ mình nếu các bên đồng ý. Quy tắc đã được xác định trái Luật Công chứng; Bộ Tư pháp chưa có quyết định đình chỉ. K được giao chứng nhận nhà riêng mẹ K theo quy tắc đó. Phương án nào phù hợp đồng thời về hồ sơ và xử lý quy tắc?"
+            "Tháng 10/2026, công chứng viên K được phân công công chứng giao dịch liên quan đến căn nhà thuộc sở hữu riêng của mẹ mình. K viện dẫn quy tắc của Hiệp hội cho phép thực hiện nếu các bên đồng ý. Quy tắc này đã được xác định là trái Luật Công chứng, nhưng Bộ Tư pháp chưa có quyết định đình chỉ. Cần xử lý hồ sơ của K và quy tắc của Hiệp hội như thế nào?"
           ]
         },
         "answers": [
@@ -498,7 +498,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Văn phòng có công chứng viên A đang chịu quyết định tạm đình chỉ còn hiệu lực, công chứng viên B đang hành nghề bình thường. Hồ sơ bán nhà riêng của mẹ B được phân cho A vì B có quan hệ thân thích. Khách đề nghị đổi lại cho B để tránh người bị đình chỉ và chấp thuận quan hệ mẹ–con. Cách bố trí nào phù hợp?"
+            "Tháng 10/2026, một văn phòng công chứng nhận hồ sơ bán căn nhà thuộc sở hữu riêng của mẹ công chứng viên B. Văn phòng giao hồ sơ cho công chứng viên A vì B có quan hệ thân thích với người bán. Tuy nhiên, A đang bị tạm đình chỉ hành nghề theo quyết định còn hiệu lực. Khách hàng đề nghị để B thực hiện và đồng ý với quan hệ mẹ con. Văn phòng cần bố trí người thực hiện ra sao?"
           ]
         },
         "answers": [
@@ -588,7 +588,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A góp máy là tài sản chung A–W để lập công ty, W đã đồng ý bằng văn bản, việc chuyển tài sản phù hợp quy định pháp luật. Các sáng lập viên cố ý thống nhất giá 6 tỷ trong khi giá thực 4 tỷ, gây thiệt hại 300 triệu đã được chứng minh. A nói chấp thuận W và biên bản giao máy làm mọi trách nhiệm dừng ở vốn 4 tỷ. Trong phạm vi định giá và thiệt hại, xử lý đúng?"
+            "Tháng 10/2026, A dùng chiếc máy là tài sản chung của A và W để góp vốn thành lập công ty. W đã đồng ý bằng văn bản và thủ tục chuyển tài sản được thực hiện hợp lệ. Dù giá trị thực của máy là 4 tỷ đồng, các thành viên sáng lập cố ý định giá 6 tỷ đồng, gây thiệt hại 300 triệu đồng đã được chứng minh. A cho rằng sự đồng ý của W và biên bản giao máy khiến trách nhiệm của mình chỉ giới hạn ở giá trị thực góp. Xét việc định giá và bồi thường thiệt hại, nhận định nào phù hợp?"
           ]
         },
         "answers": [
@@ -683,7 +683,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A còn sống, đã gửi giữ di chúc hợp pháp cho nhà và xe tại P. A lập di chúc mới hợp pháp chỉ cho chính ngôi nhà đó, không sửa nội dung về xe, rồi yêu cầu P lưu giữ. P định niêm phong sau khi A về và cho rằng bản mới được gửi giữ sẽ làm cả nội dung xe ở bản cũ hết hiệu lực. Phương án nào phù hợp?"
+            "Tháng 10/2026, A đã gửi lưu giữ tại tổ chức P một di chúc hợp pháp định đoạt cả nhà và xe. Khi còn sống, A lập di chúc mới hợp pháp, chỉ thay đổi việc định đoạt chính căn nhà đó, rồi mang đến P yêu cầu lưu giữ. P dự định chờ A ra về mới niêm phong bản mới và cho rằng bản này đương nhiên làm mất hiệu lực cả phần định đoạt xe trong di chúc cũ. P cần xử lý việc lưu giữ và hiệu lực của hai di chúc như thế nào?"
           ]
         },
         "answers": [
@@ -874,7 +874,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A có quyết định Tòa án tuyên mất năng lực hành vi còn hiệu lực. A mang giấy bác sĩ ghi đã hồi phục và hồ sơ nhà đầy đủ để tự ký bán; người giám hộ không tham gia, chưa có quyết định Tòa hủy tuyên bố mất năng lực. A trao đổi mạch lạc và cam kết tự chịu trách nhiệm. Cách xử lý nào phù hợp?"
+            "Tháng 10/2026, A đến văn phòng công chứng để tự ký hợp đồng bán nhà. A trình giấy xác nhận của bác sĩ rằng tình trạng sức khỏe đã hồi phục, giao tiếp rõ ràng và cam kết tự chịu trách nhiệm. Tuy nhiên, quyết định của Tòa án tuyên A mất năng lực hành vi dân sự vẫn còn hiệu lực; chưa có quyết định hủy bỏ và người giám hộ không tham gia. Công chứng viên cần xử lý yêu cầu này thế nào?"
           ]
         },
         "answers": [
@@ -975,7 +975,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hợp đồng lao động I được giao kết đúng thẩm quyền; một điều khoản trái quy định pháp luật nhưng tách được và không ảnh hưởng đến phần còn lại. Hợp đồng II được giao kết bởi người không đúng thẩm quyền; tình trạng này chưa được khắc phục, nội dung công việc hợp pháp. Dựa trên các căn cứ vô hiệu đã nêu, hai hợp đồng cần được phân loại thế nào?"
+            "Tháng 10/2026, doanh nghiệp đề nghị đánh giá hiệu lực của hai hợp đồng lao động. Hợp đồng thứ nhất được ký đúng thẩm quyền nhưng có một điều khoản trái pháp luật, có thể tách riêng mà không ảnh hưởng phần còn lại. Hợp đồng thứ hai có nội dung công việc hợp pháp nhưng được ký bởi người không có thẩm quyền và thiếu sót này chưa được khắc phục. Căn cứ các khiếm khuyết nêu trên, hai hợp đồng được phân loại thế nào?"
           ]
         },
         "answers": [
@@ -1343,7 +1343,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A không ký được nhưng đọc, nghe và hiểu giao dịch, có năng lực phù hợp. Cả hai ngón trỏ không lấy được vân tay; ngón giữa trái vẫn điểm chỉ được. Không có căn cứ khác bắt buộc làm chứng hoặc phiên dịch. Nhân viên yêu cầu người thân ký thay vì thiếu hai ngón trỏ. Cách xử lý nào phù hợp?"
+            "Tháng 10/2026, A đến công chứng một giao dịch nhưng không thể ký tên. A vẫn có năng lực phù hợp, đọc, nghe và hiểu rõ nội dung. Cả hai ngón trỏ đều không thể lấy dấu vân tay, trong khi ngón giữa bàn tay trái vẫn có thể điểm chỉ. Không có căn cứ khác buộc phải có người làm chứng hoặc phiên dịch. Nhân viên đề nghị người thân ký thay A. Công chứng viên cần xử lý thế nào?"
           ]
         },
         "answers": [
