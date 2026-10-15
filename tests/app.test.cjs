@@ -41,12 +41,12 @@ function assertExplanation(html,q){
   assert.match(html,/Giải thích:/);assert.match(html,/Căn cứ pháp lý/);
 }
 
-test('40 editorial revisions load exactly, preserve all legal metadata and leave the other 773 records untouched',async()=>{
+test('80 editorial revisions load exactly, preserve all legal metadata and leave the other 733 records untouched',async()=>{
  const {effectiveBank}=require('../scripts/lib/effective-bank.cjs');
  const before=effectiveBank(),h=harness();
  h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
  const bank=await h.loadQuestions(),rows=new Map(polishProfile.questions.map(r=>[r.id,r]));
- assert.equal(rows.size,40);assert.equal(bank.length,813);
+ assert.equal(rows.size,80);assert.equal(bank.length,813);
  assert.equal(bank.filter(q=>q.status==='active').length,793);
  const metadata=q=>{const x=JSON.parse(JSON.stringify(q));for(const k of ['question','answers','explanation','answerKey'])delete x[k];return x;};
  for(const old of before){
@@ -82,6 +82,25 @@ test('editorial loader rejects stale sources, changed law/verification metadata,
  await assert.rejects(h.applyEditorialPolish(before,tampered),/phiên bản/);
  const offline=harness();offline.context.fetch=async url=>url.includes('editorial-polish')?{ok:false}:{ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};
  await assert.rejects(offline.loadQuestions(),/Không thể tải bản biên tập/);
+});
+
+test('second editorial batch adds forty disjoint cases and retains every approved first-batch hash',async()=>{
+ const initial=JSON.parse(fs.readFileSync('reports/natural-language-polish-2026-10-15.json','utf8'));
+ const report=JSON.parse(fs.readFileSync('reports/natural-language-polish-next-2026-10-15.json','utf8'));
+ const rows=new Map(polishProfile.questions.map(r=>[r.id,r]));
+ assert.equal(initial.decisions.length,40);assert.equal(report.thisBatchEdited,40);
+ assert.equal(report.thisBatchIds.length,40);assert.equal(new Set(report.thisBatchIds).size,40);
+ assert.ok(report.thisBatchIds.every(id=>!initial.decisions.some(d=>d.id===id)));
+ for(const d of initial.decisions){const r=rows.get(d.id);assert.equal(r.beforeSha256,d.beforeSha256,d.id);assert.equal(r.afterSha256,d.afterSha256,d.id);}
+ const h=harness();h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=await h.loadQuestions(),next=bank.filter(q=>report.thisBatchIds.includes(q.id));
+ assert.equal(next.length,40);assert.equal(next.reduce((n,q)=>n+q.question.variants.length,0),104);
+ assert.ok(next.every(q=>q.question.variants.every(v=>!v.includes('cần phân biệt')&&!v.includes('theo nhánh'))));
+ for(const id of ['CC-033','CC-099'])assert.ok(bank.find(q=>q.id===id).question.variants.every(v=>v.includes('01/01/2027')));
+ const firstPayment=bank.find(q=>q.id==='IMP-SEP24-037');
+ const millions=3000*0.3-150;assert.equal(millions,750);
+ assert.equal(firstPayment.answers.find(a=>a.correct).text,`${millions} triệu đồng.`);
+ assert.ok(firstPayment.answers.every(a=>/^\d[\d.]* triệu đồng\.$/.test(a.text)));
 });
 
 test('seeded question and answer selection is reproducible and multiple seeds exercise different orders',()=>{

@@ -1,6 +1,9 @@
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict'),{createHash}=require('node:crypto');
 const {root,effectiveBank}=require('./lib/effective-bank.cjs');
-const drafts=require('../editorial/natural-language-polish-2026-10-15.cjs');
+const previousDrafts=require('../editorial/natural-language-polish-2026-10-15.cjs');
+const nextDrafts=require('../editorial/natural-language-polish-next-2026-10-15.cjs');
+assert.ok(Object.keys(nextDrafts).every(id=>!previousDrafts[id]),'new batch must not rewrite earlier forty');
+const drafts={...previousDrafts,...nextDrafts};
 const sha=q=>createHash('sha256').update(JSON.stringify(q)).digest('hex');
 const source=q=>sha({question:q.question,answers:q.answers,legalBasis:q.legalBasis});
 const before=effectiveBank(),byId=new Map(before.map(q=>[q.id,q]));
@@ -15,6 +18,7 @@ const questions=Object.entries(drafts).map(([id,d])=>{
   assert.ok(explanation?.length>=12,id+' '+a.id+' specific option explanation');
   return {...a,text:edit?.[0]||a.text,explanation};
  });
+ assert.equal(new Set(after.answers.map(a=>a.text)).size,4,id+' distinct options');
  after.explanation=d.explanation||q.explanation;
  after.answerKey=q.answers.filter(a=>a.correct).map(a=>a.id);
  assert.deepEqual(stable(after),stable(q),id+' immutable metadata and legal basis');
@@ -27,6 +31,12 @@ const cue=/tách khối|bảo vệ người bắt buộc|theo nhánh|cần phân
 const counts=bank=>({cueCandidates:bank.filter(q=>q.question.variants.some(v=>cue.test(v))).length,over550:bank.filter(q=>q.question.variants.some(v=>v.length>550)).length});
 const editedSingles=bank=>{const qs=bank.filter(q=>drafts[q.id]&&q.type==='single');return {singleQuestions:qs.length,correctStrictlyLongest:qs.filter(q=>q.answers.find(a=>a.correct).text.length>Math.max(...q.answers.filter(a=>!a.correct).map(a=>a.text.length))).length};};
 const report={date:'2026-10-15',inventoriedActive:before.filter(q=>q.status==='active').length,manuallyEdited:questions.length,unchangedActive:before.filter(q=>q.status==='active').length-questions.length,screeningIsNotFullSemanticCertification:true,notEmpiricallyCalibrated:true,editedVariants:questions.reduce((n,r)=>n+r.after.question.variants.length,0),beforeIndicators:counts(before.filter(q=>q.status==='active')),afterIndicators:counts(after.filter(q=>q.status==='active')),indicatorsAreNotQualityScores:true,decisions:questions.map(({id,beforeSha256,afterSha256,editorialReason})=>({id,beforeSha256,afterSha256,editorialReason}))};
+report.previouslyEdited=Object.keys(previousDrafts).length;
+report.thisBatchEdited=Object.keys(nextDrafts).length;
+report.thisBatchVariants=questions.filter(r=>nextDrafts[r.id]).reduce((n,r)=>n+r.after.question.variants.length,0);
+report.thisBatchIds=Object.keys(nextDrafts);
+const historical=JSON.parse(fs.readFileSync(path.join(root,'reports/natural-language-polish-2026-10-15.json'),'utf8'));
+for(const old of historical.decisions){const row=questions.find(r=>r.id===old.id);assert.equal(row.afterSha256,old.afterSha256,old.id+' prior editorial record unchanged');}
 report.optionLengthBefore=editedSingles(before);report.optionLengthAfter=editedSingles(after);
-for(const [file,value] of [['data/editorial-polish-2026.json',profile],['reports/natural-language-polish-2026-10-15.json',report]])fs.writeFileSync(path.join(root,file),JSON.stringify(value,null,2)+'\n');
+for(const [file,value] of [['data/editorial-polish-2026.json',profile],['reports/natural-language-polish-next-2026-10-15.json',report]])fs.writeFileSync(path.join(root,file),JSON.stringify(value,null,2)+'\n');
 console.log(JSON.stringify({...report,decisions:undefined}));
