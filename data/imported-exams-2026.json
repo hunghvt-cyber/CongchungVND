@@ -516,7 +516,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Ai phải xác nhận sổ nhật ký tập sự theo TT06/2025?",
+        "Người tập sự H ghi chép công việc đã thực hiện vào sổ nhật ký mỗi ngày. Cuối tuần, H đưa sổ cho công chứng viên hướng dẫn ký xác nhận; đến khi kết thúc tập sự, văn phòng dự định không xác nhận thêm vì cho rằng chữ ký hằng tuần đã đủ. Cách hoàn tất việc xác nhận sổ nào phù hợp?",
         "Tháng 10/2026: Người tập sự chỉ tự ký nhật ký hàng ngày và dự định xin Sở Tư pháp xác nhận khi kết thúc. Để hoàn thiện việc xác nhận sổ theo TT06/2025, cần những chủ thể và nhịp xác nhận nào?",
         "Tháng 10/2026: Tổ chức nhận tập sự đang xây quy trình kiểm tra nhật ký từ trong quá trình tập sự đến lúc kết thúc. Chọn cách phân công xác nhận đáp ứng luật thay vì chỉ xin một chữ ký ở ngày bắt đầu."
       ]
@@ -642,7 +642,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người bị Tòa án tuyên mất năng lực hành vi dân sự, không có người giám hộ theo khoản 2 Điều 48 BLDS. Vợ người đó đủ điều kiện làm giám hộ; con cả cũng đủ điều kiện. Ai là giám hộ đương nhiên theo thứ tự luật định?",
+        "Ông M bị Tòa án tuyên mất năng lực hành vi dân sự, không có người giám hộ được chỉ định theo khoản 2 Điều 48 Bộ luật Dân sự. Vợ ông M và người con cả đều có đủ điều kiện làm giám hộ, nhưng người con đề nghị được ưu tiên vì trực tiếp quản lý tài sản. Khi xác định người giám hộ đương nhiên, phải ưu tiên ai?",
         "Tháng 10/2026: Con cả yêu cầu làm giám hộ đương nhiên cho cha bị Tòa án tuyên mất năng lực vì mình trẻ hơn mẹ. Không có người giám hộ theo khoản 2 Điều 48; mẹ là vợ người mất năng lực và đủ điều kiện giám hộ, con cả cũng đủ điều kiện. Ai được xác định theo thứ tự luật?",
         "Tháng 10/2026: Gia đình phải chọn giám hộ đương nhiên cho người chồng đã bị tuyên mất năng lực. Không áp người giám hộ theo khoản 2 Điều 48; vợ và con cả đều đủ điều kiện. Có thể bỏ qua vợ để giao ngay cho cha hoặc các con không? Chọn người theo luật."
       ]
@@ -1472,7 +1472,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Hợp đồng cho ở nhờ còn hạn; nhà vẫn tồn tại, người ở nhờ còn sống và không có thỏa thuận chấm dứt do chủ nhà chết. Chủ nhà chết có tự thuộc danh mục căn cứ chấm dứt tại khoản 2 Điều 180 không?",
+        "Ông H cho bà K ở nhờ nhà theo thỏa thuận có thời hạn. Khi ông H qua đời, thời hạn chưa hết, căn nhà vẫn còn và bà K vẫn đang sử dụng đúng thỏa thuận. Người thừa kế cho rằng chỉ riêng việc chủ nhà chết đã làm quyền ở nhờ chấm dứt. Nhận định đó có đúng với căn cứ chấm dứt theo Luật Nhà ở không?",
         "Tháng 10/2026: Người thừa kế chủ nhà yêu cầu người ở nhờ rời nhà chỉ vì bên cho ở nhờ đã chết. Hợp đồng còn hạn, nhà tồn tại, người ở nhờ sống và không thỏa thuận chấm dứt do chủ chết. Chọn nhận định theo danh mục Điều 180(2).",
         "Tháng 10/2026: Khi rà căn cứ chấm dứt cho ở nhờ, bên nhận nhà thừa kế cho rằng quy định về cá nhân chết áp dụng cả cho bên cho ở nhờ. Chủ nhà đã chết, người ở nhờ còn sống, nhà còn và hợp đồng chưa hết hạn, không thỏa thuận khác. Nhận định nào đúng?"
       ]
@@ -1604,7 +1604,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đâu là nhóm đối tượng của nghĩa vụ dân sự theo BLDS?",
+        "Trong một hợp đồng, A cam kết giao một chiếc máy cho B; B phải hoàn tất việc lắp đặt, đồng thời không được tiết lộ bí mật công nghệ đã nhận. Khi phân loại đối tượng của các nghĩa vụ dân sự này, phương án nào bao quát đúng cả ba cam kết?",
         "Tháng 10/2026: Một bảng phân loại ghi tài sản, việc phải làm và việc phải kiêng làm là đối tượng nghĩa vụ, còn thỏa thuận là căn cứ phát sinh. Chọn nhóm đối tượng đầy đủ theo BLDS.",
         "Tháng 10/2026: Khi thiết kế nghĩa vụ giao tài sản, thực hiện dịch vụ và không thực hiện một hành vi, cần dùng nhóm khái niệm nào cho đối tượng nghĩa vụ thay vì liệt kê nguồn phát sinh như thỏa thuận hay bản án?"
       ]
@@ -1856,7 +1856,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Không có thỏa thuận về địa điểm thực hiện nghĩa vụ; đối tượng là một bất động sản. Địa điểm luật định là đâu?",
+        "A có nghĩa vụ bàn giao một nhà xưởng cho B theo hợp đồng nhưng hai bên không ghi địa điểm thực hiện. A đề nghị B đến trụ sở của mình nhận bàn giao vì hợp đồng được ký tại đó; B yêu cầu thực hiện tại nhà xưởng. Nếu không có thỏa thuận khác, địa điểm thực hiện nghĩa vụ được xác định thế nào?",
         "Tháng 10/2026: Nghĩa vụ có đối tượng là căn nhà, các bên chưa thỏa thuận địa điểm thực hiện. Bên có nghĩa vụ muốn chọn nơi mình cư trú dù khác nơi có nhà. Theo quy tắc mặc định, địa điểm nào áp dụng?",
         "Tháng 10/2026: Hồ sơ ghi nơi ký hợp đồng và trụ sở tổ chức công chứng ở địa phương khác với bất động sản là đối tượng nghĩa vụ. Không có thỏa thuận địa điểm thực hiện. Chọn địa điểm luật định thay cho các địa chỉ thủ tục ấy."
       ]
@@ -3071,7 +3071,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trong các loại nhà sau, loại nào không thuộc nhà ở riêng lẻ theo Luật Nhà ở?",
+        "Một doanh nghiệp xây dựng ba căn nhà liền kề trên các thửa đất ở riêng biệt và một tòa chung cư có nhiều căn hộ. Khi lập hồ sơ phân loại loại hình nhà ở, doanh nghiệp muốn xếp cả bốn công trình vào nhóm nhà ở riêng lẻ. Công trình nào không thể xếp vào nhóm đó?",
         "Tháng 10/2026: Một danh mục nhà ở riêng lẻ đưa cả căn hộ chung cư cùng biệt thự, nhà liền kề và nhà độc lập trên thửa đất ở riêng biệt. Loại nào cần loại khỏi danh mục theo Luật Nhà ở?",
         "Tháng 10/2026: Khi phân loại hồ sơ nhà ở, phải phân biệt một đơn vị trong tòa có phần chung với nhà xây trên thửa đất ở riêng biệt. Trong bốn loại liệt kê, loại nào không thuộc nhà ở riêng lẻ?"
       ]
@@ -3140,7 +3140,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một người thế chấp quyền sử dụng đất hợp pháp. Nhận định nào đúng về việc chuyển quyền sử dụng đất?",
+        "A ký hợp đồng thế chấp quyền sử dụng đất để bảo đảm khoản vay của B, hợp đồng đã được công chứng và đăng ký theo quy định. B cho rằng ngay từ lúc đăng ký, mình trở thành người sử dụng đất và có thể chuyển nhượng đất như chủ thể có quyền. Nhận định nào phân biệt đúng thế chấp với chuyển quyền sử dụng đất?",
         "Tháng 10/2026: Người nhận thế chấp cho rằng quyền sử dụng đất đã thuộc mình khi thế chấp được công chứng, dù chưa xử lý tài sản. Chủ đất thế chấp hợp pháp. Chọn nhận định về tác động của thế chấp đến chuyển quyền.",
         "Tháng 10/2026: Một thế chấp quyền sử dụng đất hợp pháp đã ký và đăng ký. Chưa có việc xử lý hoặc giao dịch chuyển quyền nào khác. Có thể ghi bên nhận thế chấp thành người nhận chuyển quyền chỉ từ thế chấp không?"
       ]
@@ -3653,7 +3653,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất có bản chất pháp lý nào?",
+        "B nhận giữ hộ bản gốc Giấy chứng nhận quyền sử dụng đất của A rồi tuyên bố mình có quyền bán thửa đất vì đang cầm giấy. Khi giải thích giá trị pháp lý của Giấy chứng nhận và quyền của người giữ giấy, nhận định nào chính xác?",
         "Tháng 10/2026: Người giữ bản giấy chứng nhận cho rằng bản giấy là tài sản riêng giúp mình sở hữu đất, bất kể người có quyền được xác nhận. Để đánh giá, chọn bản chất pháp lý của giấy chứng nhận.",
         "Tháng 10/2026: Khi giải thích vai trò giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, cần phân biệt xác nhận quyền hợp pháp với quyết định giá hoặc phán quyết tranh chấp. Mô tả nào đúng?"
       ]
@@ -3779,7 +3779,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Đâu là hình thức Nhà nước trao quyền sử dụng đất theo Luật Đất đai?",
+        "A nhận đất do Nhà nước quyết định giao; B thuê đất theo quyết định của cơ quan có thẩm quyền; C được Nhà nước công nhận quyền sử dụng đất đối với thửa đang sử dụng ổn định. D mua đất từ một cá nhân khác. Khi xác định các hình thức Nhà nước trực tiếp trao quyền sử dụng đất, phải chọn nhóm nào?",
         "Tháng 10/2026: Một bảng ghép giao đất, cho thuê đất, công nhận quyền với chuyển nhượng và tặng cho giữa cá nhân dưới tên Nhà nước trao quyền. Nhóm hình thức nào thực sự thuộc việc Nhà nước trao quyền sử dụng đất?",
         "Tháng 10/2026: Để phân biệt vai trò đại diện chủ sở hữu đất của Nhà nước với giao dịch của người sử dụng đất, chọn nhóm hoạt động Nhà nước trao quyền thay vì chuyển quyền giữa các cá nhân."
       ]
@@ -4091,7 +4091,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Chủ thể nào sau đây không thuộc danh mục người sử dụng đất theo Điều 4 Luật Đất đai?",
+        "Một doanh nghiệp tư vấn lập danh sách các chủ thể có thể là người sử dụng đất theo Luật Đất đai, gồm cá nhân trong nước, một cá nhân mang quốc tịch nước ngoài, tổ chức nước ngoài có chức năng ngoại giao và tổ chức kinh tế có vốn đầu tư nước ngoài. Đối tượng nào không thuộc danh mục chủ thể người sử dụng đất theo Điều 4?",
         "Tháng 10/2026: Một danh sách người sử dụng đất đưa cá nhân nước ngoài cùng cá nhân trong nước, tổ chức ngoại giao theo luật và tổ chức kinh tế có vốn đầu tư nước ngoài. Chọn nhóm không có trong danh mục Điều 4 để sửa danh sách.",
         "Tháng 10/2026: Khi nhận hồ sơ có yếu tố nước ngoài, không thể đồng nhất cá nhân với tổ chức. Trong bốn nhóm chủ thể sau, nhóm nào không được Điều 4 Luật Đất đai liệt kê là người sử dụng đất?"
       ]
@@ -4345,7 +4345,7 @@
     "questionForm": "direct",
     "question": {
       "variants": [
-        "Tháng 10/2026: Trường hợp nào không thuộc căn cứ chấm dứt quyền hưởng dụng được liệt kê tại Điều 265?",
+        "A có quyền hưởng dụng đối với căn nhà của B trong thời hạn đã xác định. Khi rà soát các tình huống có thể làm quyền này chấm dứt, một nhân viên bổ sung phương án 'Sở Tư pháp tự ra quyết định chấm dứt mà không cần căn cứ pháp luật'. Tình huống nào dưới đây không phải căn cứ chấm dứt quyền hưởng dụng?",
         "Tháng 10/2026: Một bảng căn cứ chấm dứt quyền hưởng dụng gồm hết hạn, tài sản không còn, người hưởng trở thành chủ sở hữu và quyết định tùy ý của Sở Tư pháp không có căn cứ luật. Mục nào không thuộc căn cứ Điều 265?",
         "Tháng 10/2026: Khi rà các sự kiện có thể kết thúc quyền hưởng dụng, cần phân biệt căn cứ pháp luật với quyết định không có thẩm quyền. Trong các trường hợp sau, chọn trường hợp không được Điều 265 liệt kê."
       ]
@@ -6065,7 +6065,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Cá nhân hết thời hạn thuê đất nông nghiệp thuộc điểm b khoản 1 Điều 172 và vẫn có nhu cầu sử dụng. Cách xử lý nào phù hợp?",
+        "Bà H thuê đất nông nghiệp theo trường hợp quy định tại điểm b khoản 1 Điều 172 Luật Đất đai. Hết thời hạn thuê, bà vẫn trực tiếp sản xuất và nộp đề nghị tiếp tục thuê; một cán bộ nói cứ có nhu cầu thì đương nhiên được thuê thêm 99 năm. Hướng giải quyết nào đúng?",
         "Tháng 10/2026: Cá nhân hết hạn thuê đất nông nghiệp theo điểm b khoản 1 Điều 172, vẫn muốn sử dụng và đề nghị tự kéo dài 99 năm. Theo nhánh đất thuê này, cách xử lý tiếp tục sử dụng nào đúng?",
         "Tháng 10/2026: Khi rà hồ sơ đất nông nghiệp cá nhân đang thuê theo điểm b khoản 1 Điều 172 đã hết hạn, cần phân biệt với đất được giao được tiếp tục sử dụng. Cá nhân còn nhu cầu. Chọn cơ chế Nhà nước xem xét phù hợp."
       ]
@@ -7536,7 +7536,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Người thuộc khoản 6 Điều 76 có nhu cầu thuê nhà ở xã hội. Riêng điều kiện nhà ở và thu nhập tại khoản 1 Điều 78 có bắt buộc với hình thức thuê này không?",
+        "Chị K thuộc nhóm đối tượng quy định tại khoản 6 Điều 76 Luật Nhà ở và chỉ có nhu cầu thuê nhà ở xã hội, không đăng ký mua hoặc thuê mua. Bộ phận tiếp nhận yêu cầu chị phải đáp ứng đầy đủ điều kiện nhà ở và thu nhập như trường hợp mua. Đối với riêng hình thức thuê của chị K, yêu cầu đó có đúng không?",
         "Tháng 10/2026: Người thuộc khoản 6 Điều 76 đăng ký thuê nhà ở xã hội bị yêu cầu chứng minh điều kiện nhà ở và thu nhập như người mua. Riêng hai điều kiện khoản 1 Điều 78 có bắt buộc cho hình thức thuê này không?",
         "Tháng 10/2026: Khi rà hồ sơ hỗ trợ nhà xã hội của người thuộc khoản 6 Điều 76, người này chỉ có nhu cầu thuê. Có thể áp chung hai điều kiện nhà ở, thu nhập của mua và thuê mua cho hồ sơ thuê không? Chọn nhận định đúng."
       ]
@@ -7668,7 +7668,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một dự án bảo vệ, cải tạo và xử lý đất bị ô nhiễm đúng pháp luật thuộc hướng đầu tư nào của Luật Đất đai?",
+        "Doanh nghiệp P đề xuất dự án xử lý ô nhiễm, cải tạo đất và phục hồi khả năng sử dụng theo quy định pháp luật. Một ý kiến phản đối cho rằng dự án không làm tăng diện tích đất nên không thể thuộc hoạt động được khuyến khích đầu tư. Cách đánh giá nào phù hợp với chính sách đất đai?",
         "Tháng 10/2026: Một dự án đúng luật xử lý ô nhiễm và phục hồi đất bị suy thoái không mở rộng diện tích. Người tư vấn nói vì không tăng diện tích nên không được khuyến khích đầu tư. Theo Điều 8, dự án thuộc hướng nào?",
         "Tháng 10/2026: Kế hoạch cải tạo và bảo vệ đất ô nhiễm đúng pháp luật không chuyển đất nông nghiệp thành đất ở. Có thể chỉ vì không chuyển mục đích mà loại khỏi các hướng khuyến khích đầu tư vào sử dụng đất không?"
       ]
@@ -7801,7 +7801,7 @@
     "questionForm": "short_case",
     "question": {
       "variants": [
-        "Tháng 10/2026: Một quy định địa phương dự kiến cho cá nhân nhận chuyển quyền đất nông nghiệp đến 20 lần hạn mức giao mỗi loại đất tại khoản 1, 2, 3 Điều 176. So với trần tại Điều 177, nhận định nào đúng?",
+        "Tỉnh X dự kiến ban hành quy định cho cá nhân nhận chuyển quyền sử dụng đất nông nghiệp với diện tích tối đa bằng 20 lần hạn mức giao đất tương ứng theo khoản 1, 2 và 3 Điều 176 Luật Đất đai. Trong cuộc họp thẩm định, có ý kiến cho rằng địa phương được tự nâng trần nếu cần thu hút đầu tư. Phương án nào đánh giá đúng giới hạn pháp luật?",
         "Tháng 10/2026: Cấp tỉnh muốn đặt hạn mức nhận chuyển quyền sử dụng đất nông nghiệp của cá nhân bằng 20 lần hạn mức giao từng loại đất tại khoản 1,2,3 Điều 176, viện dẫn điều kiện địa phương. Theo Điều 177, đề xuất này được đánh giá thế nào?",
         "Tháng 10/2026: Một dự thảo địa phương cho cá nhân nhận chuyển quyền đất nông nghiệp tới 20 lần hạn mức giao các loại tại khoản 1,2,3 Điều 176 nếu trả phí cao hơn. Chọn nhận định về giới hạn thẩm quyền địa phương và trần luật."
       ]
