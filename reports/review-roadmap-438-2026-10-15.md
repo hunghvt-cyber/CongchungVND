@@ -27,3 +27,12 @@ CC-082; VER26-067; VER26-072; IMP-SEP24-017; IMP-SEP24-020; IMP-SEP24-050; IMP-T
 
 ## Nhật ký
 - 2026-10-15: Lập kế hoạch và ưu tiên, ghi yêu cầu không kiểm thử trước khi hoàn thành P4.
+
+## Giai đoạn 1 — Nhật ký thực hiện (15/10/2026)
+- **18/27 ứng viên ưu tiên đã được biên tập câu dẫn biến thể đầu tiên** theo hướng tình huống thực tế; **9 ứng viên còn lại chưa chốt ID/biên tập**.
+- 15 câu trong `data/imported-exams-2026.json`: commit `0cf36368f782c00ba9c39634625579d982b55e0b`.
+- 1 câu `CC-082` trong `data/questions.json`: commit `77ee92e34ca7fb01e754c139c28584fe46547cf9`.
+- 2 câu `VER26-067`, `VER26-072` trong `data/validated-2026.json`: commit `d0946519e0dd0998de32c42b9b5dce0d7a5a8e64`.
+- **Chưa chỉnh ba đáp án nhiễu và các biến thể còn lại của 18 câu**; cần rà tiếp trước khi đánh dấu P1 hoàn tất. Không thay đáp án đúng, giải thích hay căn cứ pháp lý trong các commit trên.
+- **Chưa kiểm thử**, theo yêu cầu đợi đến sau giai đoạn 4.
+- Việc phân loại cần đối chiếu lại sau khi câu gốc thay đổi; không chạy lại bộ lọc trên dữ liệu đã sửa để suy ngược danh sách P1 ban đầu.
