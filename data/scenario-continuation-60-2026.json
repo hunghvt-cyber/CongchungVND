@@ -1393,7 +1393,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A chỉ ủy quyền K cho thuê nhà còn thời hạn; K ký bán cho B, B biết giới hạn. Ban đầu A chưa đồng ý; sau đó A được thông tin đầy đủ, ký chấp thuận toàn bộ việc bán đúng hợp đồng. Không có lỗi hình thức, nội dung hoặc điều kiện khác. Trong phạm vi phạm vi đại diện trước và sau chấp thuận, nhận định nào phù hợp?"
+            "Tháng 10/2026, K ký hợp đồng bán nhà của A cho B dù giấy ủy quyền của K chỉ cho phép cho thuê nhà và vẫn còn thời hạn. B biết rõ giới hạn này. Ban đầu A không đồng ý việc bán, nhưng sau khi được cung cấp đầy đủ thông tin, A ký văn bản chấp thuận toàn bộ giao dịch đúng như hợp đồng K đã ký. Hình thức và nội dung giao dịch không có khiếm khuyết khác. Việc bán nhà ràng buộc A như thế nào trước và sau khi chấp thuận?"
           ]
         },
         "answers": [
@@ -1483,7 +1483,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A ủy quyền K phát sinh quyền ngày 1/9/2025, không gắn giao dịch cụ thể, không xác định thời hạn theo văn bản hoặc luật. K lần đầu dùng giấy tại văn phòng tháng 4/2026, nay muốn ký tháng 10/2026. Không có gia hạn, quyền mới hay căn cứ ràng buộc khác. Trong phạm vi thời hạn mặc định và mốc tính, nhận định đúng?"
+            "Tháng 10/2026, K mang giấy ủy quyền của A đến văn phòng để ký giao dịch. Quyền đại diện phát sinh từ ngày 1/9/2025; giấy không gắn với một giao dịch cụ thể và không ghi thời hạn, pháp luật cũng không ấn định thời hạn riêng. K cho rằng thời hạn phải tính từ tháng 4/2026, khi lần đầu sử dụng giấy tại văn phòng. Không có gia hạn hay ủy quyền mới. Cần xác định thời hạn đại diện và mốc bắt đầu tính thế nào?"
           ]
         },
         "answers": [
@@ -1573,7 +1573,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A nộp bản sao đã chứng thực cho thủ tục chấp nhận loại này. Cơ quan phát hiện dấu hiệu cụ thể bản sao bị sửa sau chứng thực, yêu cầu bản chính đối chiếu. A không cung cấp và muốn nộp bản photocopy của bản sao chứng thực thay thế, nói con dấu miễn mọi kiểm tra. Trong phạm vi yêu cầu đối chiếu và loại bản nộp, nhận định nào phù hợp?"
+            "Tháng 10/2026, A nộp bản sao có chứng thực trong một thủ tục cho phép sử dụng loại giấy tờ này. Cơ quan tiếp nhận phát hiện dấu hiệu cụ thể cho thấy bản sao đã bị sửa sau khi chứng thực nên yêu cầu xuất trình bản chính để đối chiếu. A không cung cấp bản chính, chỉ đề nghị thay bằng bản photocopy của chính bản sao đã chứng thực và cho rằng có dấu chứng thực thì không được kiểm tra thêm. Cơ quan có thể yêu cầu đối chiếu và xử lý giấy tờ thay thế ra sao?"
           ]
         },
         "answers": [
@@ -1664,7 +1664,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A cam kết vốn 5 tỷ cho công ty TNHH một thành viên; đã góp 3 tỷ. Máy 2 tỷ còn đang vận chuyển, thời gian vận chuyển được pháp luật loại trừ đã xác định còn hiệu lực, nên thời hạn góp đủ thực tế chưa hết. Sau khi hết cả thời gian hợp lệ mà vẫn chỉ có 3 tỷ, A định giữ đăng ký 5 tỷ chờ lợi nhuận. Trong phạm vi hai giai đoạn, nhận định đúng?"
+            "Tháng 10/2026, A đăng ký góp 5 tỷ đồng vào công ty trách nhiệm hữu hạn một thành viên, đã góp 3 tỷ đồng; chiếc máy trị giá 2 tỷ đồng còn đang vận chuyển. Thời gian vận chuyển được pháp luật loại trừ khỏi thời hạn góp vốn và hiện vẫn còn hiệu lực, nên trước mắt A chưa quá hạn. Tuy nhiên, sau khi hết toàn bộ thời gian hợp lệ, A vẫn chỉ góp được 3 tỷ đồng và muốn giữ vốn điều lệ 5 tỷ đồng để chờ lợi nhuận bù vào. Nghĩa vụ của A ở hai thời điểm được xác định thế nào?"
           ]
         },
         "answers": [
@@ -1750,7 +1750,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Khi lập công ty, một tổ chức thẩm định giá định máy góp vốn 6 tỷ; đúng 50% thành viên sáng lập chấp thuận. Giá thực 4 tỷ, những người sáng lập cố ý dùng giá cao và thiệt hại riêng đã được chứng minh. A nói có tổ chức thẩm định và nửa số thành viên nên đủ giá trị, không phải góp thêm. Cách đánh giá?"
+            "Tháng 10/2026, các thành viên sáng lập công ty nhận một chiếc máy làm tài sản góp vốn. Tổ chức thẩm định giá đưa ra mức 6 tỷ đồng, nhưng chỉ đúng một nửa số thành viên sáng lập chấp thuận. Giá trị thực của máy là 4 tỷ đồng; những người sáng lập cố ý sử dụng mức giá cao và đã gây thiệt hại riêng được chứng minh. A cho rằng có chứng thư thẩm định và 50% thành viên đồng ý thì không ai phải góp thêm. Nhận định nào phù hợp về việc định giá và trách nhiệm phát sinh?"
           ]
         },
         "answers": [
@@ -1835,7 +1835,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Một cộng đồng sử dụng đất Nhà nước giao không thu tiền. Toàn thể thống nhất để phần đất ấy cho con người đại diện khi người đại diện chết, dự kiến lập di chúc công chứng; nếu không được, họ đổi thành tặng cho ngay. Trong phạm vi chủ thể sử dụng đất và hai loại giao dịch, nhận định nào phù hợp?"
+            "Tháng 10/2026, một cộng đồng đang sử dụng đất do Nhà nước giao không thu tiền sử dụng đất. Các thành viên thống nhất rằng sau khi người đại diện cộng đồng qua đời, phần đất này sẽ để lại cho con của người đó bằng di chúc có công chứng. Nếu không thể lập di chúc, họ dự định chuyển sang tặng cho ngay. Cần đánh giá quyền định đoạt của cộng đồng đối với cả hai phương án thế nào?"
           ]
         },
         "answers": [
@@ -1926,7 +1926,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Đã đủ căn cứ xử lý tài sản thế chấp; hợp đồng không thỏa thuận phương thức, không có luật chuyên ngành khác. Ngân hàng muốn tự nhận tài sản thay nợ vì đang giữ bản gốc giấy tờ, rồi tự định giá thấp hơn khoản nợ và yêu cầu bên thế chấp trả chênh lệch. Chưa có thỏa thuận nhận tài sản thay nghĩa vụ. Trước hết phải xử lý thế nào?"
+            "Tháng 10/2026, ngân hàng đã có đủ căn cứ xử lý tài sản thế chấp để thu hồi nợ, nhưng hợp đồng không thỏa thuận phương thức xử lý và không có quy định chuyên ngành khác. Vì đang giữ bản gốc giấy tờ, ngân hàng muốn tự nhận tài sản thay cho khoản nợ, tự định giá thấp hơn số nợ rồi yêu cầu bên thế chấp trả phần chênh lệch. Các bên chưa thỏa thuận việc nhận tài sản để thay thế nghĩa vụ. Ngân hàng phải xác định phương thức xử lý thế nào trước khi thực hiện?"
           ]
         },
         "answers": [
@@ -2021,7 +2021,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K nộp đúng hạn đề nghị công nhận hoàn thành tập sự, báo cáo và nhật ký là bản sao có chứng thực. Nội dung hai bản không thống nhất về thời gian, cần xác minh; sau đó K bổ sung theo yêu cầu. K muốn tính hạn giải quyết từ ngày nộp đầu và cơ quan muốn bác chỉ vì không có bản chính. Nhận định đúng?"
+            "Tháng 10/2026, K nộp hồ sơ đề nghị công nhận hoàn thành tập sự đúng hạn, trong đó báo cáo và nhật ký tập sự đều là bản sao có chứng thực. Hai tài liệu lại ghi không thống nhất về thời gian tập sự nên cơ quan giải quyết yêu cầu xác minh, bổ sung; K đã bổ sung sau đó. K muốn tính thời hạn giải quyết từ ngày nộp ban đầu, còn cơ quan dự định bác hồ sơ chỉ vì không nộp bản chính. Việc tiếp nhận và tính thời hạn giải quyết cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -2106,7 +2106,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K không phải là Trưởng, rút vốn hợp pháp khỏi P: đã thông báo trước đúng hạn, đủ chấp thuận, còn đủ thành viên và hoàn thành tài chính ngày 30/9. Sở ghi nhận thay đổi ngày 10/10. P cho rằng K tự thông báo hoàn thành là đủ và đã hết tư cách từ 30/9. Trong phạm vi trách nhiệm thông báo sau rút và mốc tư cách, nhận định đúng?"
+            "Tháng 10/2026, K hoàn tất thủ tục rút vốn khỏi văn phòng công chứng P: đã báo trước đúng hạn, được chấp thuận, thực hiện xong nghĩa vụ tài chính ngày 30/9 và P vẫn đủ thành viên. K không phải Trưởng văn phòng. Ngày 10/10, Sở Tư pháp ghi nhận thay đổi. P cho rằng chỉ cần K tự thông báo hoàn tất việc rút vốn là đủ và tư cách thành viên đã chấm dứt từ ngày 30/9. Nghĩa vụ thông báo và thời điểm chấm dứt tư cách được xác định thế nào?"
           ]
         },
         "answers": [
@@ -2192,7 +2192,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K đã tập sự hợp lệ bốn tháng, tạm ngừng đúng thủ tục hai tháng vì sức khỏe rồi quay lại và tập sự thêm năm tháng. Không thuộc trường hợp phải đăng ký lại, không có thời gian khác được tính. K muốn công nhận đủ 11 tháng và rút ngắn một tháng còn lại; P lại muốn xóa bốn tháng trước nghỉ. Trong phạm vi thời gian cần đạt 12 tháng, kết quả đúng?"
+            "Tháng 10/2026, K đề nghị công nhận đủ thời gian tập sự. Trước đó K tập sự hợp lệ bốn tháng, tạm ngừng hai tháng vì sức khỏe theo đúng thủ tục, rồi tiếp tục tập sự thêm năm tháng. K không thuộc diện phải đăng ký tập sự lại và không có khoảng thời gian nào khác được tính. K muốn cộng cả thời gian tạm ngừng để đủ 11 tháng rồi xin rút ngắn tháng cuối; văn phòng P lại muốn bỏ cả bốn tháng trước khi nghỉ. Với yêu cầu đủ 12 tháng, thời gian của K được tính thế nào?"
           ]
         },
         "answers": [
@@ -2288,7 +2288,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A có hợp đồng mua căn hộ thương mại hình thành trong tương lai, B có hợp đồng mua nhà ở xã hội. Cả hai muốn chuyển nhượng hợp đồng theo Mục 2 Chương VI Luật Kinh doanh bất động sản; điều kiện khác của A đủ. B đã trả 60%, cho rằng tỷ lệ này cao hơn A nên được dùng cùng cơ chế. Trong phạm vi phạm vi cơ chế, nhận định nào phù hợp?"
+            "Tháng 10/2026, A muốn chuyển nhượng hợp đồng mua căn hộ thương mại hình thành trong tương lai, còn B muốn chuyển nhượng hợp đồng mua nhà ở xã hội. Cả hai đề nghị áp dụng cùng cơ chế chuyển nhượng hợp đồng tại Mục 2 Chương VI Luật Kinh doanh bất động sản. A đáp ứng các điều kiện khác; B đã thanh toán 60% và cho rằng tỷ lệ thanh toán cao giúp mình được áp dụng cơ chế tương tự. Phạm vi áp dụng cơ chế này đối với từng hợp đồng được xác định thế nào?"
           ]
         },
         "answers": [
@@ -2378,7 +2378,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A muốn thế chấp 100 bao gạo thuộc sở hữu mình, mô tả đủ xác định và không có hạn chế đặc thù. A còn muốn đưa 50 bao gạo của B vào cùng bảo đảm; B không đồng ý, không có căn cứ pháp lý khác cho A dùng gạo B. A nói hàng tiêu hao không cần xét chủ sở hữu như tài sản đặc định. Trong phạm vi loại tài sản và quyền, nhận định nào phù hợp?"
+            "Tháng 10/2026, A đề nghị thế chấp 150 bao gạo để bảo đảm khoản vay. Trong đó, 100 bao thuộc sở hữu của A, được mô tả đủ để xác định và không có hạn chế đặc thù; 50 bao còn lại thuộc B, người không đồng ý dùng gạo của mình để bảo đảm và cũng không có căn cứ cho A định đoạt thay. A cho rằng vì gạo là tài sản tiêu hao nên không cần xét quyền sở hữu như đối với tài sản đặc định. Ngân hàng có thể nhận bảo đảm đối với từng nhóm gạo thế nào?"
           ]
         },
         "answers": [
@@ -2468,7 +2468,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hợp đồng thuê mua nhà có giá 2 tỷ, đề nghị trả trước 1,2 tỷ, số còn lại trả hằng tháng đến năm 2030. Bên thuê mua đã có khả năng trả 60% và nhận nhà năm 2026 nên muốn ghi sở hữu từ đó; không có thỏa thuận hoặc luật riêng tạo mốc khác. Trong phạm vi giới hạn trả trước và cơ chế sở hữu thuê mua, phương án phù hợp?"
+            "Tháng 10/2026, các bên dự thảo hợp đồng thuê mua nhà có giá trị 2 tỷ đồng. Bên thuê mua đề nghị trả trước 1,2 tỷ đồng và trả phần còn lại hằng tháng đến năm 2030. Vì có khả năng trả ngay 60% và dự kiến nhận nhà từ năm 2026, bên thuê mua muốn được ghi nhận quyền sở hữu ngay khi bàn giao. Không có thỏa thuận hoặc quy định riêng làm thay đổi mốc xác lập quyền. Cần đánh giá mức trả trước và thời điểm sở hữu thế nào?"
           ]
         },
         "answers": [
@@ -2561,7 +2561,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, N là cá nhân nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam, đủ điều kiện mua nhà có sẵn của một cá nhân, không giao dịch với chủ đầu tư. Hợp đồng mua nhà đã có hiệu lực nhưng N chưa trả đủ và chưa nhận bàn giao; không thỏa thuận khác về mốc sở hữu. N muốn ghi chỉ sở hữu 50 năm từ đặt cọc, hoặc coi đã sở hữu ngay vì cơ chế như công dân Việt Nam. Trong phạm vi cơ chế và mốc, nhận định nào phù hợp?"
+            "Tháng 10/2026, N là người nước ngoài kết hôn với công dân Việt Nam đang sinh sống tại Việt Nam và đủ điều kiện mua nhà có sẵn từ một cá nhân, không phải chủ đầu tư. Hợp đồng đã có hiệu lực nhưng N chưa thanh toán đủ tiền và chưa nhận bàn giao; các bên không thỏa thuận khác về mốc sở hữu. N muốn ghi thời hạn sở hữu chỉ 50 năm tính từ ngày đặt cọc, đồng thời cho rằng mình đã sở hữu nhà ngay khi hợp đồng có hiệu lực. Hai nhận định của N cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -2654,7 +2654,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Hồ sơ đất hình thành trước khi Luật Đất đai hiện hành có hiệu lực xác định A, W và con C có quyền sử dụng chung của hộ theo đúng điều kiện luật. D mới nhập cùng hộ năm 2026, không nhận chuyển quyền; C nay chuyển nơi thường trú. A muốn loại C và thêm D chỉ theo danh sách cư trú hiện tại. Trong phạm vi xác định người có quyền, nhận định nào phù hợp?"
+            "Tháng 10/2026, A đề nghị điều chỉnh danh sách người có quyền sử dụng một thửa đất vốn được xác lập cho hộ gia đình trước khi Luật Đất đai hiện hành có hiệu lực. Hồ sơ xác định A, W và con C cùng có quyền theo đúng điều kiện pháp luật tại thời điểm xác lập. Năm 2026, D mới nhập hộ nhưng không nhận chuyển quyền, còn C chuyển nơi thường trú. A muốn xóa tên C và thêm D chỉ dựa vào danh sách cư trú mới. Những người có quyền sử dụng đất phải được xác định theo căn cứ nào?"
           ]
         },
         "answers": [
@@ -2744,7 +2744,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, P là Văn phòng hợp danh có K làm Trưởng hợp pháp. K thuê M không phải công chứng viên: hợp đồng I chỉ hỗ trợ lưu trữ, hành chính dưới điều hành K; hợp đồng II giao M toàn quyền điều hành P, K chỉ ký lời chứng, M còn dùng thẻ K để ký chứng nhận khi K vắng. Trong phạm vi ranh giới hỗ trợ, điều hành và chứng nhận, nhận định nào phù hợp?"
+            "Tháng 10/2026, văn phòng công chứng hợp danh P do công chứng viên K làm Trưởng ký hai hợp đồng với M, người không phải công chứng viên. Hợp đồng thứ nhất giao M hỗ trợ lưu trữ và hành chính dưới sự điều hành của K. Hợp đồng thứ hai lại giao M toàn quyền điều hành văn phòng, K chỉ ký lời chứng, còn M được dùng thẻ của K để ký chứng nhận khi K vắng mặt. Cần phân biệt phần việc hỗ trợ hợp pháp với việc điều hành và chứng nhận ra sao?"
           ]
         },
         "answers": [
@@ -2835,7 +2835,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, P hợp danh có hai thành viên; một người chết ngày 1/6, chỉ còn K. Ngày 1/10, P chưa bổ sung hợp danh nhưng thuê một công chứng viên đủ điều kiện theo hợp đồng lao động, cho rằng đã có hai công chứng viên nên hết nghĩa vụ bổ sung. Không có căn cứ thu hồi khác. Trong phạm vi nhánh giảm thành viên do chết và loại người bổ sung, nhận định đúng?"
+            "Tháng 10/2026, văn phòng công chứng hợp danh P chỉ còn K là thành viên hợp danh sau khi thành viên còn lại chết ngày 1/6. Đến ngày 1/10, P vẫn chưa bổ sung thành viên hợp danh, nhưng đã tuyển một công chứng viên đủ điều kiện làm việc theo hợp đồng lao động. P cho rằng như vậy đã có hai công chứng viên nên không cần bổ sung thành viên hợp danh nữa. Việc duy trì tổ chức và nghĩa vụ bổ sung thành viên cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -2926,7 +2926,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K đang hành nghề hợp pháp tại tỉnh A, là hội viên Hội A. K muốn chuyển hành nghề sang B và chỉ giữ thẻ Hội A để khỏi gia nhập Hội B; chưa hoàn thành thay đổi đăng ký hành nghề. K nói mọi Hội đều thuộc tổ chức toàn quốc nên thẻ nào cũng đủ. Trong phạm vi hội viên và nơi hành nghề, cách nhận định nào phù hợp?"
+            "Tháng 10/2026, công chứng viên K đang hành nghề hợp pháp và là hội viên Hội công chứng viên tỉnh A. K dự định chuyển địa điểm hành nghề sang tỉnh B nhưng chưa hoàn tất thủ tục thay đổi đăng ký. K muốn tiếp tục dùng tư cách hội viên tại A thay vì gia nhập Hội ở B, vì cho rằng các Hội đều thuộc cùng tổ chức nghề nghiệp toàn quốc. Nghĩa vụ về đăng ký hành nghề và hội viên của K được xác định thế nào?"
           ]
         },
         "answers": [
@@ -3022,7 +3022,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Người sử dụng đất A được đổi tên hợp pháp thành K; chính người này và thửa đất không đổi. Giấy đất còn tên A, giao dịch chuyển nhượng mới dự kiến ký tên K; hồ sơ có quyết định đổi tên và đối chiếu nhân thân phù hợp. K muốn bỏ cập nhật đăng ký, hoặc coi đổi tên là chuyển đất sang người mới để đăng ký lần đầu. Hướng xử lý phù hợp?"
+            "Tháng 10/2026, một người sử dụng đất đã đổi tên hợp pháp từ A thành K; nhân thân người này và thửa đất đều không thay đổi. Giấy chứng nhận vẫn ghi tên A, trong khi hợp đồng chuyển nhượng dự kiến sẽ ghi tên K. Hồ sơ có quyết định đổi tên và tài liệu đối chiếu nhân thân phù hợp. K cho rằng có thể bỏ qua cập nhật đăng ký, hoặc coi việc đổi tên là chuyển quyền sang một người mới để đăng ký lần đầu. Cần xử lý thay đổi tên trên hồ sơ đất đai thế nào?"
           ]
         },
         "answers": [
@@ -3113,7 +3113,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A đang điều trị nội trú, không đi lại được, không thông thạo tiếng Việt. Văn phòng đủ điều kiện nhận hồ sơ ngoài trụ sở, đã bố trí người phiên dịch không lợi ích liên quan và người làm chứng đúng căn cứ, đầy đáp ứng các điều kiện khác. Dự thảo lời chứng chỉ ghi địa chỉ bệnh viện, còn lý do và thông tin phiên dịch, làm chứng ghi ở biên bản riêng. Cần hoàn thiện hồ sơ như thế nào?"
+            "Tháng 10/2026, A đang điều trị nội trú, không thể đi lại và không thông thạo tiếng Việt nên đề nghị công chứng ngoài trụ sở. Văn phòng đủ điều kiện thực hiện, đã bố trí người phiên dịch không có lợi ích liên quan và người làm chứng đáp ứng điều kiện; các yêu cầu khác đều được bảo đảm. Tuy nhiên, dự thảo lời chứng chỉ ghi địa chỉ bệnh viện, còn lý do công chứng ngoài trụ sở và thông tin người phiên dịch, người làm chứng được để trong biên bản riêng. Lời chứng cần được hoàn thiện thế nào?"
           ]
         },
         "answers": [
@@ -3209,7 +3209,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, W được tặng cho riêng đất trong hôn nhân, có hồ sơ đủ chứng minh, chưa nhập chung. A là chồng chỉ được W ủy quyền cho thuê đến cuối năm, lại muốn ký bán đất cho B. B biết phạm vi, W không đồng ý và không có lỗi trong việc này; không ngoại lệ khác về định đoạt. A nói là chồng và giữ giấy nên được bán. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, W muốn bán thửa đất đã được tặng cho riêng trong thời kỳ hôn nhân, có đầy đủ hồ sơ chứng minh và chưa nhập vào tài sản chung. Chồng W là A chỉ được ủy quyền cho thuê đất đến cuối năm nhưng lại ký hợp đồng bán cho B. B biết giới hạn ủy quyền, W không đồng ý và không có lỗi; không có ngoại lệ khác về quyền định đoạt. A cho rằng mình là chồng và đang giữ giấy chứng nhận nên có quyền bán. Giao dịch do A ký cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -3315,7 +3315,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, Đất I từng tranh chấp nhưng đã có bản án giải quyết có hiệu lực; thời hạn sử dụng còn, có giấy, không kê biên hoặc biện pháp cấm khác. Đất II cũng có bản án giải quyết tranh chấp có hiệu lực nhưng đang bị áp dụng biện pháp khẩn cấp tạm thời cấm chuyển dịch còn hiệu lực. Trong phạm vi các trở ngại nêu, cách xử lý nào phù hợp?"
+            "Tháng 10/2026, công chứng viên tiếp nhận hai hồ sơ chuyển nhượng đất từng có tranh chấp. Đối với thửa thứ nhất, tranh chấp đã được giải quyết bằng bản án có hiệu lực, đất còn thời hạn sử dụng, có giấy chứng nhận và không bị kê biên hay cấm chuyển dịch. Thửa thứ hai cũng đã có bản án giải quyết tranh chấp, nhưng đang chịu biện pháp khẩn cấp tạm thời cấm chuyển dịch còn hiệu lực. Hai hồ sơ phải được xử lý khác nhau thế nào?"
           ]
         },
         "answers": [
@@ -3405,7 +3405,7 @@
         "questionForm": "scenario",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, A có khó khăn trong nhận thức; Tòa chỉ định K giám hộ và xác định K chỉ đại diện cho A quản lý một khoản tiền, không đại diện bán nhà. K muốn ký bán nhà A, kèm giấy bác sĩ cho rằng tình trạng tốt hơn; chưa có quyết định thay phạm vi của Tòa, A không tự xác lập hợp lệ việc bán, không căn cứ khác. Nhận định nào phù hợp với tình huống này?"
+            "Tháng 10/2026, K được Tòa án chỉ định làm người giám hộ của A, người có khó khăn trong nhận thức. Quyết định của Tòa chỉ giao K đại diện quản lý một khoản tiền, không cho phép đại diện bán nhà. K vẫn muốn ký bán căn nhà của A và xuất trình giấy bác sĩ nhận xét tình trạng A đã tốt hơn. Tòa chưa thay đổi phạm vi đại diện, A không tự xác lập hợp lệ giao dịch bán nhà và không có căn cứ khác. Yêu cầu của K cần được xử lý thế nào?"
           ]
         },
         "answers": [
@@ -3498,7 +3498,7 @@
         "status": "active",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K đủ tiêu chuẩn chung xin bổ nhiệm lần đầu, đang bị truy cứu trách nhiệm hình sự, chưa có bản án kết tội. Hồ sơ không thuộc căn cứ loại khác. K viện dẫn suy đoán vô tội và đề nghị bổ nhiệm rồi sẽ miễn nhiệm nếu có tội. P còn đề nghị cho K ký lời chứng trong lúc chờ. Cách xử lý nào phù hợp?"
+            "Tháng 10/2026, K nộp hồ sơ xin bổ nhiệm công chứng viên lần đầu. K đáp ứng các tiêu chuẩn chung khác nhưng đang bị truy cứu trách nhiệm hình sự, chưa có bản án kết tội. K viện dẫn nguyên tắc suy đoán vô tội, đề nghị cứ bổ nhiệm rồi miễn nhiệm nếu sau này bị kết án. Văn phòng P còn muốn K ký lời chứng trong thời gian chờ quyết định bổ nhiệm. Hai đề nghị này cần được đánh giá thế nào?"
           ]
         },
         "answers": [
@@ -3596,7 +3596,7 @@
         "status": "active",
         "question": {
           "variants": [
-            "Trong tình huống phát sinh vào tháng 10/2026, K bị Tòa tuyên hạn chế năng lực bằng quyết định còn hiệu lực. Người đại diện đồng ý bằng văn bản cho K tự ký một giao dịch tài sản không phải sinh hoạt hằng ngày, điều kiện khác đủ. K suy ra sự đồng ý ấy cũng chữa trở ngại xin bổ nhiệm công chứng viên, vì mọi lời chứng sẽ có đại diện ký cùng. Trong phạm vi hai việc, nhận định đúng?"
+            "Tháng 10/2026, K đang chịu quyết định có hiệu lực của Tòa án tuyên hạn chế năng lực hành vi dân sự. Người đại diện đồng ý bằng văn bản cho K tự ký một giao dịch tài sản không thuộc sinh hoạt hằng ngày; các điều kiện khác của giao dịch được đáp ứng. K cho rằng sự đồng ý đó cũng đủ để khắc phục trở ngại khi xin bổ nhiệm công chứng viên, vì người đại diện có thể ký cùng mọi lời chứng. Cần phân biệt điều kiện của giao dịch dân sự và điều kiện bổ nhiệm thế nào?"
           ]
         },
         "answers": [
