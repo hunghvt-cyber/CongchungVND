@@ -1,3 +1,9 @@
+## Chốt kiểm thử và rà pháp lý — 16/10/2026
+
+Đã đạt **92/92 kiểm thử Node**, gồm **9.690 ca chấm điểm trên 793 câu**. [TAP đầy đủ](reports/full-verification-2026-10-16.tap), [báo cáo](reports/legal-checkpoint-2026-10-16.md) và [hồ sơ 30 câu pháp lý](reports/legal-checkpoint-2026-10-16.json). Chưa chạy trình duyệt thật hoặc SQL trên cơ sở dữ liệu; không coi kiểm thử chức năng là chứng nhận pháp lý toàn ngân hàng.
+
+Rà pháp lý phát hiện **DEP26-006 cần đối chiếu khẩn bản gốc Nghị quyết 03/2026/NQ-HĐTP và thời điểm áp dụng**; chưa thay dữ liệu/khóa từ bài giới thiệu. CC-015 và CC-023 cần làm rõ thuật ngữ/tên giấy. Chi tiết và hàng đợi câu liên quan đặt cọc nằm trong hồ sơ trên.
+
 ## Biên tập toàn bộ phương án — 15/10/2026
 
 Đã rà 3.172 phương án của đủ 793 câu đang dùng. Lượt này viết lại có chủ đích 262 phương án thuộc 211 câu, chuẩn hóa cách viết 953 phương án khác; tổng thay đổi 465 câu, giữ nguyên 328 câu đã đạt yêu cầu. Các thay đổi chỉ nằm ở văn bản phương án và giải thích riêng, giữ nguyên câu dẫn, khóa đáp án, căn cứ và dữ kiện quản lý. Xem [báo cáo](reports/answer-review-2026-10-15.md) và [hồ sơ từng câu](reports/answer-review-2026-10-15.json).

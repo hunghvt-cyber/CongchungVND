@@ -1,0 +1,679 @@
+{
+  "version": 1,
+  "date": "2026-10-16",
+  "timezone": "Asia/Ho_Chi_Minh",
+  "baselineMain": "f9a9d46d811b12eaf8c22146b1515748873675b3",
+  "baselineTree": "bbed46dc190192c48c82ffa2fe40ff4548f04689",
+  "bankSha256": "ab332d2eb57b7d4184f0854edf6fca03fc61b909d3c3f4b824cabc6ddd15e97c",
+  "sources": {
+    "CC": {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/50-vbhn-vpqh.pdf",
+      "mode": "official_consolidated_pdf_text",
+      "document": "Luật Công chứng, VBHN 50/VBHN-VPQH ngày 17/03/2026",
+      "scope": "Các điều được ghi riêng tại từng câu; không áp sửa đổi hiệu lực 01/01/2027 cho tình huống tháng 10/2026."
+    },
+    "DS": {
+      "url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2016/01/91.signed.pdf",
+      "mode": "official_pdf_and_indexed_official_reproductions",
+      "document": "Bộ luật Dân sự số 91/2015/QH13",
+      "limitations": "PDF gốc không có lớp văn bản trích xuất trong công cụ; dùng các đoạn điều luật được lập chỉ mục từ các cổng cơ quan nhà nước. Không coi mở trang thất bại là đã đọc toàn văn.",
+      "checkedMirrors": [
+        "https://congan.gialai.gov.vn/vi/news/cac-dao-luat-quan-trong/bo-luat-dan-su-2015-773.html",
+        "https://btllang.mod.gov.vn/van-ban/vbpq-do-nha-nuoc-ban-hanh/5001-bo-luat-dan-su-2015.html",
+        "https://vbpl.vn/bokehoachvadautu/Pages/ivbpq-toanvan.aspx?ItemID=95942",
+        "https://vbpl.moj.gov.vn/dongthap/Pages/vbpq-toanvan.aspx?ItemID=95942",
+        "https://vbpl.moj.gov.vn/bokhoahoccongnghe/Pages/vbpq-print.aspx?ItemID=95942",
+        "https://vbpl.moj.gov.vn/daknong/Pages/vbpq-toanvan.aspx?ItemID=95942&Keyword="
+      ]
+    },
+    "HN": {
+      "url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-121-vbhn-vpqh-46059.htm",
+      "mode": "official_listing_and_indexed_statutory_text",
+      "document": "Luật Hôn nhân và gia đình số 52/2014/QH13; VBHN 121/VBHN-VPQH năm 2025",
+      "checkedMirrors": [
+        "https://vbpl.vn/boyte/Pages/vbpq-toanvan.aspx?ItemID=36870",
+        "https://vbpl.moj.gov.vn/Toaannhandantoicao/Pages/vbpq-print.aspx?ItemID=36870",
+        "https://moj.gov.vn/vbpq/Lists/Vn%20bn%20php%20lut/Attachments/29058/VanBanGoc_52.2014.QH13.pdf"
+      ],
+      "limitations": "Đường dẫn tải PDF hợp nhất từ Công báo lỗi khi truy xuất; chỉ đối chiếu các điều được nêu, không xác nhận đã đọc trọn bản hợp nhất."
+    },
+    "NQ03": {
+      "url": "https://www.tapchitoaan.vn/nghi-quyet-cua-hoi-dong-tham-phan-tandtc-huong-dan-ap-dung-phap-luat-trong-giai-quyet-tranh-chap-ve-dat-coc16557.html",
+      "mode": "issuing_court_journal_digest_not_signed_original",
+      "document": "Thông tin về Nghị quyết 03/2026/NQ-HĐTP",
+      "effectiveFrom": "2026-10-15",
+      "publishedAt": "2026-10-15",
+      "scope": "Nguồn phát hiện rủi ro và xếp hàng đối chiếu, chưa dùng thay bản gốc để sửa khóa.",
+      "finding": "Bài của cơ quan TANDTC nêu hướng dẫn về giới hạn mức phạt cọc theo giá trị hợp đồng. Cần kiểm tra bản gốc và phạm vi áp dụng trước khi cập nhật câu thiếu dữ kiện."
+    }
+  },
+  "verification": {
+    "command": "node --test --test-reporter=tap tests/*.test.cjs",
+    "tests": 92,
+    "passed": 92,
+    "failed": 0,
+    "questionsExercised": 793,
+    "scoringCases": 9690,
+    "tap": "reports/full-verification-2026-10-16.tap",
+    "tapSha256": "680f8f8587c8bf1a724ca476b3bce2414fd47d3f31dc288f88f0017c37b8c655",
+    "scope": "All Node test files, DOM harness and mocked network/storage; not a live browser or production database test.",
+    "notRun": [
+      "live browser end-to-end",
+      "SQL integration scripts against a database",
+      "production network/API mutations"
+    ]
+  },
+  "audit": {
+    "file": "reports/answer-review-full-audit-2026-10-16.json",
+    "eligible": 793,
+    "duplicateIds": 0,
+    "remainingHeuristic": "490 câu bị nhắc về số biến thể; đây là tiêu chí biên tập, không phải 490 đáp án sai hay 490 kiểm thử thất bại."
+  },
+  "legalScope": {
+    "reviewedQuestions": 30,
+    "retainedKeys": 30,
+    "terminologyClarifications": 2,
+    "legalCertificationOfWholeBank": false,
+    "dataOrKeysChanged": false,
+    "limitations": "Đối chiếu các điều và dữ kiện nêu trong hồ sơ, không chứng nhận mọi điều luật hoặc toàn bộ 793 câu. Nguồn lập chỉ mục được phân biệt với văn bản đã mở toàn văn."
+  },
+  "decisions": [
+    {
+      "id": "CC-014",
+      "questionSha256": "e4fae028c69221612ba914a7a9470a3623ed78144b335d92c9d63aff66363920",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:10",
+        "CC:12"
+      ],
+      "decision": "retain_key",
+      "note": "Không quá 70 tuổi khác với bị loại ngay khi đủ 70; đạt kiểm tra tập sự vẫn là điều kiện độc lập.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-015",
+      "questionSha256": "eacfd632de9bff20fbf6bd1d3c3e01dd66d1cd34262a9375801664e29c98b783",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:10",
+        "CC:14",
+        "DS:22"
+      ],
+      "decision": "clarify_terminology",
+      "note": "Bằng thạc sĩ luật thuộc nhóm được xét; giấy bác sĩ không thay quyết định của Tòa. Nên thay cách nói năng lực pháp lý bằng năng lực hành vi dân sự.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-016",
+      "questionSha256": "268aee49852a856f8fdf496bce13644e15954dc2850efb8822d981193a137032",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:10"
+      ],
+      "decision": "retain_key",
+      "note": "Chỉ hai năm sáu tháng sau bằng chưa đủ ba năm công tác theo dữ kiện; học nghề không tự bù thời gian công tác.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-017",
+      "questionSha256": "4d70784b843f31ba019f20b8ad12b87440a94750f0015bf173438ef41208019d",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:11"
+      ],
+      "decision": "retain_key",
+      "note": "Không thuộc nhóm được rút ngắn thì học 12 tháng; kinh nghiệm pháp chế thông thường không tự tạo nhóm sáu tháng.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-018",
+      "questionSha256": "0fe8e306c6e58d3adf86baac6d6f87e72ddac7b6060116967bfa4dec7f2b3b12",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:11",
+        "CC:12"
+      ],
+      "decision": "retain_key",
+      "note": "Chưa đủ năm năm hành nghề ở thời điểm xét; rút ngắn đào tạo không đồng nghĩa rút thời gian tập sự.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-022",
+      "questionSha256": "07555e07d081a1a4d9b6b316d3f902083d996f4ce3f039783457359d06a9fd12",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:12.3"
+      ],
+      "decision": "retain_key",
+      "note": "Giới hạn hai người tính cùng một thời điểm; chia lịch có mặt không tạo suất thứ ba khi quan hệ tập sự chưa kết thúc.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-023",
+      "questionSha256": "72ba9ac92a9dc2ad74fe0fff9ff7cc2eea3e0efadff346f6a4359591245aba4d",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:12.5",
+        "CC:14",
+        "DS:22"
+      ],
+      "decision": "clarify_certificate_type",
+      "note": "Mốc năm năm là của giấy chứng nhận kết quả kiểm tra tập sự; cần ghi đủ tên giấy trong câu dẫn, không để nhầm với giấy tốt nghiệp đào tạo. Khóa hiện tại không đổi.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-026",
+      "questionSha256": "5d654b69959c787915babf49de84588ccb35559a1043aeba778ec8f708a1740d",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:15.2",
+        "CC:16.2.e"
+      ],
+      "decision": "retain_key",
+      "note": "Không gia hạn tạm đình chỉ vượt 12 tháng; hết hạn mà lý do còn là căn cứ miễn nhiệm, không tự hành nghề lại.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-029",
+      "questionSha256": "ef11d3f9e1c4b7551ea2c8fc02edb8cbe048c6f89b754f42301c1857527c821f",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:16.2.đ"
+      ],
+      "decision": "retain_key",
+      "note": "Tách trường hợp chưa hành nghề sau bổ nhiệm và ngoại lệ không hành nghề do tạm đình chỉ.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-074",
+      "questionSha256": "36b9ff75f2e0fbe019c178c58776f14f6c10d84f411bc6b3e343854dca4205ea",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:47.2",
+        "DS:140",
+        "DS:141",
+        "DS:142"
+      ],
+      "decision": "retain_key",
+      "note": "Giờ phút không bắt buộc cho mọi văn bản. Tuy nhiên bỏ hoặc ghi lùi giờ không khôi phục quyền đã hết theo dữ kiện.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-075",
+      "questionSha256": "bc062803ebade5fe87f284eb2cc328084df74285260bedd87467798de08c17fd",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:48.1"
+      ],
+      "decision": "retain_key",
+      "note": "Thông tin việc làm chứng, phiên dịch và lý do ngoài trụ sở thuộc lời chứng; chữ ký không thay nội dung phải ghi.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-076",
+      "questionSha256": "8cdf754d3c19edf243c8b5356e23e85f34c7c24134347a6d15eca2c9ae65049e",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:6.1",
+        "CC:48.2"
+      ],
+      "decision": "retain_key",
+      "note": "Dấu tổ chức hoặc chữ ký người quản lý không thay chữ ký công chứng viên thực hiện chứng nhận.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-079",
+      "questionSha256": "db0dfe94ccdd7d6dd6e9560e85501e61785de8afac3efd08826cf53ed543e0d5",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:46",
+        "CC:49.2",
+        "CC:58.1",
+        "DS:632"
+      ],
+      "decision": "retain_key",
+      "note": "Không ký và không điểm chỉ được không đồng nghĩa chỉ còn di chúc miệng; phải dùng cơ chế người làm chứng đủ điều kiện, không để người hưởng lập thay.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-080",
+      "questionSha256": "ecb76187b1ac3e633c7d9e3e987cc22132f2df8487b9dbc3d2ccf845047a65ab",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:58.1",
+        "CC:58.2"
+      ],
+      "decision": "retain_key",
+      "note": "Dấu hiệu đe dọa chưa làm rõ không được khắc phục bằng giấy đồng ý hoặc ủy quyền người khác ký.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CC-089",
+      "questionSha256": "5bd1e1173130a3ca662f4788cb8881035cb14185ba29108e52079bdf178b18b3",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:58.1",
+        "DS:625.2",
+        "DS:630.2"
+      ],
+      "decision": "retain_key",
+      "note": "Người 17 tuổi có thể lập di chúc bằng văn bản với sự đồng ý luật định, nhưng không được ủy quyền lập thay.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-005",
+      "questionSha256": "9e42a56c54529cc181a4250860b361b4a9c24e535845779554297316f8bb8d0d",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "CC:64.2"
+      ],
+      "decision": "retain_key",
+      "note": "Đến 09:20 mới đủ chữ ký số của cả công chứng viên và tổ chức; gửi tệp sau đó không phải mốc khởi đầu hiệu lực.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-006",
+      "questionSha256": "f565a2b4c8ec349c7506f4f8b754d18f57f0dde564137e37f7e24cde5b70ef75",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "C"
+      ],
+      "provisions": [
+        "DS:328"
+      ],
+      "decision": "retain_key",
+      "note": "200 triệu vẫn là cọc bảo đảm thực hiện; cơ chế mặc định riêng cọc là 400 triệu, không cộng 300 triệu trả trước. Đã có giá hợp đồng 1 tỷ; không thấy mâu thuẫn với rủi ro trần phạt nêu trong nguồn NQ03.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-011",
+      "questionSha256": "5f31673c8da109e7a261c0d2a329493592e7b11bc0cf63c8389e0da15c04e8be",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A"
+      ],
+      "provisions": [
+        "DS:328"
+      ],
+      "decision": "retain_key",
+      "note": "Dữ kiện đã xác nhận thỏa thuận thay mức mặc định là hợp pháp. Tổng phát sinh 300 triệu, không phải số dư 250 triệu; không xác nhận chung mọi mức thỏa thuận đều hợp pháp.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-026",
+      "questionSha256": "f5724f3b5322802e110b67e50102b60cfab0dca299bef4724f8bdc222d76ce04",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "provisions": [
+        "CC:49.2"
+      ],
+      "decision": "retain_key",
+      "note": "Không đọc được là căn cứ có người làm chứng; quyền đòi tiền liên quan cũng loại tư cách. Chỉ định không bỏ điều kiện độc lập.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-048",
+      "questionSha256": "c8c0415af309031e44ae8655686d6acc08fc374e6465e26a2e52b07628414c4a",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "B",
+        "C"
+      ],
+      "provisions": [
+        "DS:637"
+      ],
+      "decision": "retain_key",
+      "note": "Con công chứng viên hưởng thừa kế là căn cứ không được chứng nhận; đồng nghiệp đọc hồ sơ hoặc người lập chấp thuận không tạo ngoại lệ.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-067",
+      "questionSha256": "8c78d2dc10df9bc01cd37c402a3fd663abf499f5b83f787017683959a675e46d",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "B",
+        "D"
+      ],
+      "provisions": [
+        "CC:54"
+      ],
+      "decision": "retain_key",
+      "note": "Chỉ công chứng viên đã thực hiện việc công chứng thuộc tư cách nghề được liệt kê; người làm chứng và người liên quan có quyền đề nghị riêng, không cần ủy quyền người ký.",
+      "sourceIds": [
+        "CC"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-082",
+      "questionSha256": "9316a12ba07564a33b3833610a68ea0c0309142b96eacdd64379d80ad05c282b",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "C",
+        "D"
+      ],
+      "provisions": [
+        "HN:77.2"
+      ],
+      "decision": "retain_key",
+      "note": "Cả định đoạt động sản có đăng ký và dùng tài sản để kinh doanh đều thuộc nhóm cần sự đồng ý bằng văn bản; tiền riêng không làm mất ngoại lệ kinh doanh.",
+      "sourceIds": [
+        "HN"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-029",
+      "questionSha256": "802c635f1a6bd08be09b471aeb15f7131c0cdfdd82a21e44d757daa78dca34e7",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "D"
+      ],
+      "provisions": [
+        "DS:141",
+        "DS:143",
+        "DS:328"
+      ],
+      "decision": "retain_key",
+      "note": "A chấp thuận sau khi đọc đầy đủ hợp đồng tạo căn cứ ràng buộc phần vượt; không dùng vượt quyền ban đầu để loại hậu quả cọc.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-058",
+      "questionSha256": "09a9046ceed2be9a7a2419fbea82b5733378b79197a54105f594523b0719da4d",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "C"
+      ],
+      "provisions": [
+        "CC:64.2",
+        "DS:140",
+        "DS:141",
+        "DS:142"
+      ],
+      "decision": "retain_key",
+      "note": "Đủ chữ ký số không chữa quyền đại diện hết trước lúc K ký. Điều 142 là căn cứ bổ sung nên đưa vào hồ sơ nếu sửa tiếp.",
+      "sourceIds": [
+        "CC",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-061",
+      "questionSha256": "c1b67cc5a1d211294bb483c2c117b9f7705e6aef67a63d1f0041eb9ce079e429",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "B",
+        "C"
+      ],
+      "provisions": [
+        "HN:33",
+        "HN:34",
+        "HN:35",
+        "DS:141",
+        "DS:142",
+        "DS:328"
+      ],
+      "decision": "retain_key",
+      "note": "K tự nhân danh W không tự tạo quyền nhận cọc cho W. Khi giảng giải phải giữ các ngoại lệ công nhận, biết không phản đối hợp lý hoặc lỗi ở Điều 142; không khẳng định cứ thiếu văn bản ủy quyền là luôn không ràng buộc.",
+      "sourceIds": [
+        "HN",
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-063",
+      "questionSha256": "3cb5b5f6adde1b8c628602d26d77c827c0f6535d4d83ad89ce3aa1e6de7c275b",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "B"
+      ],
+      "provisions": [
+        "DS:564",
+        "DS:141",
+        "DS:143"
+      ],
+      "decision": "retain_key",
+      "note": "Quyền cấp lại không được hạ giới hạn gốc. B biết vượt quyền thì phải áp cả ngoại lệ về trách nhiệm người đại diện; không chỉ xét A chưa đồng ý.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-086",
+      "questionSha256": "a5bd9aff29443890077d19cde41ceb918985fd2149177d0348f456d5e3e45bcb",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "B",
+        "C",
+        "D"
+      ],
+      "provisions": [
+        "DS:617.1"
+      ],
+      "decision": "retain_key",
+      "note": "Được cử quản lý không tự có quyền bán; thông báo và cam kết bồi thường không thay chấp thuận định đoạt bằng văn bản.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-093",
+      "questionSha256": "61c1346e94df9d0b4b03581a4e702f12c855f8b3cbb94ba0656dec58847a7a50",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "C"
+      ],
+      "provisions": [
+        "DS:654",
+        "DS:651"
+      ],
+      "decision": "retain_key",
+      "note": "Đã xác định chăm sóc như cha con thì không đặt thêm điều kiện nhận nuôi; với khối di sản ròng và số người đã cho, mỗi người 300 triệu.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "CAL26-054",
+      "questionSha256": "8a78777cda82a7f1453414c06a3fc1ddd7919310976c383d49a128c199f99022",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "B",
+        "D"
+      ],
+      "provisions": [
+        "DS:621.2",
+        "DS:630"
+      ],
+      "decision": "retain_key",
+      "note": "Biết hành vi mà vẫn cho hưởng theo di chúc là ngoại lệ có phạm vi; không tự khôi phục mọi phần theo pháp luật.",
+      "sourceIds": [
+        "DS"
+      ],
+      "dataChanged": false
+    },
+    {
+      "id": "HARD26-081",
+      "questionSha256": "b5703b9fb537ffd8abf89a64edf10e6bcea151b38bf205b7ff124c56bca55a4b",
+      "applicableAt": "2026-10-12",
+      "answerKey": [
+        "A",
+        "D"
+      ],
+      "provisions": [
+        "HN:66",
+        "DS:644",
+        "DS:650",
+        "DS:651"
+      ],
+      "decision": "retain_key",
+      "note": "Tách di sản 2 tỷ; phần chưa định đoạt chia W và B mỗi người 500 triệu trước bổ sung. Mức bắt buộc W là tổng 666⅔ triệu, chỉ thiếu 166⅔ triệu, không cộng lại cả mức.",
+      "sourceIds": [
+        "HN",
+        "DS"
+      ],
+      "dataChanged": false
+    }
+  ],
+  "urgentFinding": {
+    "id": "DEP26-006",
+    "questionSha256": "aaff476b55208dfde3abb19691c5dd5d16b9774a7716295123ac416eefa0d366",
+    "decision": "pending_signed_resolution_and_temporal_scope",
+    "priority": "high",
+    "currentKey": [
+      "B"
+    ],
+    "note": "Câu ghi chung tháng 10/2026, không cho giá trị hợp đồng được bảo đảm, nhưng kết luận chắc tổng hoàn và phạt là 1,2 tỷ. Nguồn từ cơ quan TANDTC về NQ03 mới hiệu lực nêu giới hạn phạt theo giá trị hợp đồng. Vì thiếu dữ kiện, cần kiểm tra bản gốc, mốc xét xử và phạm vi áp dụng trước khi giữ hoặc sửa kết luận. Chưa xác định khóa hiện tại sai trong mọi trường hợp; chưa đổi nội dung hay trạng thái active.",
+    "nextAction": "Lấy bản gốc nghị quyết; chốt thời điểm pháp luật áp dụng và giá trị hợp đồng trong tình huống; rà giải thích/nhiễu rồi mới cập nhật dữ liệu và kiểm thử lại."
+  },
+  "nextQueue": {
+    "reason": "Rà tác động NQ03; danh sách tìm theo chủ đề/căn cứ chỉ là ứng viên, không đồng nghĩa tất cả bị ảnh hưởng hoặc đã sai.",
+    "candidateIds": [
+      "IMP-T60-020",
+      "IMP-T60-028",
+      "IMP-T60-070",
+      "IMP-SEP24-037",
+      "DEP26-001",
+      "DEP26-004",
+      "DEP26-005",
+      "DEP26-006",
+      "DEP26-008",
+      "DEP26-009",
+      "DEP26-010",
+      "DEP26-013",
+      "DEP26-017",
+      "DEP26-018",
+      "VER26-NEW-25",
+      "CAL26-006",
+      "CAL26-011",
+      "HARD26-028",
+      "HARD26-029",
+      "HARD26-045",
+      "HARD26-061",
+      "HARD26-065",
+      "HARD26-072",
+      "HARD26-080",
+      "HARD26-096"
+    ],
+    "alsoCheck": [
+      "CC-015: dùng đúng thuật ngữ năng lực hành vi dân sự",
+      "CC-023: ghi đầy đủ tên giấy chứng nhận kết quả kiểm tra tập sự",
+      "HARD26-058/HARD26-061: bổ sung căn cứ Điều 142 vào hồ sơ khi biên tập tiếp"
+    ]
+  }
+}
