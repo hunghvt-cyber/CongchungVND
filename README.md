@@ -1,3 +1,9 @@
+## Thống kê ôn tập — 18/10/2026
+
+Ôn tập nay lưu từng câu ngay sau khi chấm bằng cùng tên/số điện thoại. Vào **Thống kê ôn tập và thi thử → Ôn tập → Xem thống kê** để xem chủ đề hay sai, tỷ lệ sai, tổng lượt và số câu khác nhau; bấm **Ôn lại các câu từng sai** để luyện đúng nhóm. Xem lại không cộng lượt, ôn lại là lượt mới. Dữ liệu bắt đầu từ bản cập nhật này, không phục dựng buổi cũ chưa lưu. Điểm thi và bảng xếp hạng không cộng kết quả ôn.
+
+Đã áp SQL lưu riêng trên hệ thống, kiểm thử ROLLBACK quyền dữ liệu đạt, **100/100 kiểm thử Node đạt**. [Báo cáo triển khai](reports/practice-statistics-2026-10-18.md), [TAP](reports/practice-statistics-tests-2026-10-18.tap), [SQL](supabase/practice-history.sql), [kiểm thử SQL](tests/practice-history.sql). Mô hình số điện thoại không xác thực, ai biết số có thể xem/thêm lịch sử, được chủ dự án xác nhận tiếp tục sử dụng. Không cấp sửa/xóa lịch sử. Giao diện có hàng chờ offline và gửi lại; dùng cùng số trên thiết bị khác sau đồng bộ.
+
 ## Chốt kiểm thử và rà pháp lý — 16/10/2026
 
 Đã đạt **92/92 kiểm thử Node**, gồm **9.690 ca chấm điểm trên 793 câu**. [TAP đầy đủ](reports/full-verification-2026-10-16.tap), [báo cáo](reports/legal-checkpoint-2026-10-16.md) và [hồ sơ 30 câu pháp lý](reports/legal-checkpoint-2026-10-16.json). Chưa chạy trình duyệt thật hoặc SQL trên cơ sở dữ liệu; không coi kiểm thử chức năng là chứng nhận pháp lý toàn ngân hàng.
