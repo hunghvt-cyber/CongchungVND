@@ -2,7 +2,7 @@ const {test} = require('node:test');
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const vm = require('node:vm');
-const {profile:polishProfile,answerProfile,sha:polishHash,polishedExpected,unpolishedVersion,beforeAnswerVersion}=require('./helpers/editorial-polish.cjs');
+const {profile:polishProfile,answerProfile,stemProfile,sha:polishHash,polishedExpected,unpolishedVersion,beforeAnswerVersion,beforeStemVersion}=require('./helpers/editorial-polish.cjs');
 
 // Minimal DOM surface for logic/HTML regression tests. No browser dependency.
 class Element {
@@ -29,6 +29,7 @@ function harness(seed=20261015) {
     Math:math,crypto:{randomUUID:require('node:crypto').randomUUID,subtle:require('node:crypto').webcrypto.subtle,getRandomValues:a=>{for(let i=0;i<a.length;i++)a[i]=Math.floor(random()*4294967296);return a;}},TextEncoder,AbortController,setTimeout,clearTimeout,Date:class extends Date {static now(){return now;}}, setInterval:()=>1,clearInterval(){},console});
   vm.runInContext(fs.readFileSync('app.js','utf8')+'\n globalThis.app={state,els,loadQuestions,applyEditorialPolish,applyApplicationWording,applyScenarioRefinements,showSetup,startSession,createSharedExam,createSelectedExam,fingerprint,chooseFreshQuestions,parseExamCode,startSharedExam,renderQuestion,toggleAnswer,submitPractice,next,submitMock,showMockResult,showPracticeResult,reviewQuestion,checkDeadline,showFeedback,postFeedback,localFeedback,saveLocalFeedback,answerSummary};',context);
   context.app.applyAnswerReview=vm.runInContext('applyAnswerReview',context);
+  context.app.applyStemFluency=vm.runInContext('applyStemFluency',context);
   return {...context.app, context, document, memory, advance:ms=>{now+=ms;}};
 }
 function question(id, status='active', type='single') {
@@ -77,7 +78,7 @@ test('answer review loads exact snapshots and preserves every question field and
  assert.equal(rows.size,465);assert.equal(bank.length,813);
  const protectedAnswer=({text,explanation,...rest})=>rest;
  for(const old of before){
-  const q=bank.find(q=>q.id===old.id),r=rows.get(q.id);
+  const q=beforeStemVersion(bank.find(q=>q.id===old.id)),r=rows.get(q.id);
   if(!r){assert.equal(JSON.stringify(q),JSON.stringify(old),q.id+' retained');continue;}
   assert.equal(polishHash(old),r.beforeSha256,q.id);
   assert.equal(polishHash(q),r.afterSha256,q.id);
@@ -90,8 +91,58 @@ test('answer review loads exact snapshots and preserves every question field and
  assert.equal(report.summary.reviewedOptions,3172);
  for(const d of report.decisions){
   assert.equal(d.beforeSha256,polishHash(before.find(q=>q.id===d.id)),d.id);
-  assert.equal(d.afterSha256,polishHash(bank.find(q=>q.id===d.id)),d.id);
+  assert.equal(d.afterSha256,polishHash(beforeStemVersion(bank.find(q=>q.id===d.id))),d.id);
  }
+});
+
+test('stem fluency covers every active variant and preserves answers, facts and metadata',async()=>{
+ const {effectiveBank}=require('../scripts/lib/effective-bank.cjs');
+ const before=effectiveBank({polish:true,answers:true}),h=harness();
+ h.context.fetch=async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))});
+ const bank=await h.loadQuestions(),report=JSON.parse(fs.readFileSync('reports/stem-fluency-2026-10-18.json','utf8'));
+ assert.equal(bank.length,813);assert.equal(report.decisions.length,793);
+ assert.equal(new Set(report.decisions.map(d=>d.id)).size,793);
+ assert.equal(report.decisions.reduce((n,d)=>n+d.variants.length,0),1411);
+ const rows=new Map(stemProfile.questions.map(r=>[r.id,r]));
+ const numbers=s=>s.match(/\d+(?:[.,:/]\d+)*/g)||[];
+ const actors=s=>[...new Set(s.match(/(?<![\p{L}\p{N}])[A-Z][0-9]?(?![\p{L}\p{N}])/gu)||[])].sort();
+ for(const old of before){
+  const q=bank.find(q=>q.id===old.id),r=rows.get(q.id),d=report.decisions.find(d=>d.id===q.id);
+  assert.equal(JSON.stringify({...q,question:old.question}),JSON.stringify(old),q.id+' all non-stem fields');
+  assert.equal(JSON.stringify({...q.question,variants:[]}),JSON.stringify({...old.question,variants:[]}),q.id+' question metadata');
+  assert.equal(q.question.variants.length,old.question.variants.length,q.id);
+  if(!d){assert.equal(JSON.stringify(q),JSON.stringify(old),q.id+' archived');continue;}
+  assert.equal(polishHash(old),d.beforeSha256,q.id);assert.equal(polishHash(q),d.afterSha256,q.id);
+  assert.equal(JSON.stringify(q.question.variants),JSON.stringify(d.variants.map(v=>v.after)),q.id+' ledger');
+  for(let i=0;i<q.question.variants.length;i++){
+   assert.deepEqual(numbers(q.question.variants[i]),numbers(old.question.variants[i]),q.id+'/'+i+' numeric facts');
+   assert.deepEqual(actors(q.question.variants[i]),actors(old.question.variants[i]),q.id+'/'+i+' actors');
+   assert.doesNotMatch(q.question.variants[i],/cách cách xử lý|hàng thừa kế thừa kế|không có có/u,q.id+' repeated editorial words');
+   if(!d.variants[i].operations.includes('authored_clause_repair'))for(const word of ['không','chưa','trừ','nếu','ít nhất','tối đa','tối thiểu','duy nhất']){
+    const re=new RegExp('(?<![\\p{L}\\p{N}])'+word+'(?![\\p{L}\\p{N}])','giu');
+    assert.ok([...q.question.variants[i].matchAll(re)].length>=[...old.question.variants[i].matchAll(re)].length,q.id+' retains condition '+word);
+   }
+  }
+  if(r)assert.equal(polishHash(q),r.afterSha256,q.id+' published snapshot');
+ }
+ assert.equal(rows.size,report.summary.changedQuestions);
+ assert.equal(JSON.stringify(bank),JSON.stringify(effectiveBank({polish:true,answers:true,stems:true})));
+});
+
+test('stem loader rejects stale, duplicate, tampered, missing and malformed revisions',async()=>{
+ const {effectiveBank}=require('../scripts/lib/effective-bank.cjs'),before=effectiveBank({polish:true,answers:true}),h=harness();
+ const first=stemProfile.questions[0],stale=structuredClone(before);
+ stale.find(q=>q.id===first.id).answers[0].text+=' changed';
+ await assert.rejects(h.applyStemFluency(stale,stemProfile),/phiên bản/);
+ for(const mutate of [p=>p.questions.push(p.questions[0]),p=>p.questions[0].variants.push('Extra'),
+  p=>p.questions[0].variants[0]=' ',p=>p.questions[0].variants[0]+=' tampered',
+  p=>p.questions[0].id='unknown',p=>p.scope='answers']){
+  const bad=structuredClone(stemProfile);mutate(bad);
+  await assert.rejects(h.applyStemFluency(before,bad),/không hợp lệ|biến thể|phiên bản/);
+ }
+ const original=JSON.stringify(before);await h.applyStemFluency(before,stemProfile);assert.equal(JSON.stringify(before),original,'no input mutation');
+ h.context.fetch=async url=>url.includes('stem-fluency')?{ok:false}:{ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};
+ await assert.rejects(h.loadQuestions(),/Không thể tải bản biên tập câu dẫn/);
 });
 
 test('answer review rejects stale, duplicate, tampered, missing and key-changing revisions',async()=>{
@@ -262,7 +313,7 @@ test('loader loads validated bank, rejects corrupt/duplicate data, and leaves st
   h.memory.set('exam-history-proof','saved snapshot'); const seen=[];
   h.context.fetch=async url=>{seen.push(url);return {ok:true,json:async()=>JSON.parse(fs.readFileSync(url.replace('./',''),'utf8'))};};
   const all=await h.loadQuestions();assert.equal(all.length,220+JSON.parse(fs.readFileSync('data/imported-exams-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-deposit-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/imported-authorization-2026.json','utf8')).length+26+32+JSON.parse(fs.readFileSync('data/completion-2026.json','utf8')).length+JSON.parse(fs.readFileSync('data/refinement-2026.json','utf8')).length+11+200);assert.ok(all.some(q=>q.id==='FAM26-026'));assert.ok(all.some(q=>q.id==='VER26-100'));
-  assert.equal(seen.length,23);assert.equal(new Set(seen).size,23);assert.ok(seen.includes('./data/editorial-polish-2026.json'));assert.ok(seen.includes('./data/answer-review-2026.json'));assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
+  assert.equal(seen.length,24);assert.equal(new Set(seen).size,24);assert.ok(seen.includes('./data/stem-fluency-2026.json'));assert.ok(seen.includes('./data/editorial-polish-2026.json'));assert.ok(seen.includes('./data/answer-review-2026.json'));assert.ok(seen.includes('./data/calibration-20-2026.json'));assert.ok(seen.includes('./data/verified-new-2026.json'));assert.ok(seen.includes('./data/completion-2026.json'));assert.ok(seen.includes('./data/refinement-2026.json'));assert.ok(seen.includes('./data/imported-inheritance-2026.json'));assert.ok(all.some(q=>q.id==='INH26-032'));assert.ok(seen.includes('./data/imported-family-2026.json'));assert.ok(seen.includes('./data/imported-authorization-2026.json'));assert.ok(seen.every(url=>!url.includes('expansion')));assert.equal(h.memory.get('exam-history-proof'),'saved snapshot');
   h.context.fetch=async()=>({ok:true,json:async()=>[question('duplicate')]});await assert.rejects(h.loadQuestions(),/trùng/);
   h.context.fetch=async()=>({ok:true,json:async()=>({questions:[]})});await assert.rejects(h.loadQuestions(),/không hợp lệ/);
   h.context.fetch=async()=>({ok:false});await assert.rejects(h.loadQuestions(),/Không thể tải/);

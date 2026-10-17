@@ -4,14 +4,28 @@ const profile=read('data/editorial-polish-2026.json'),rows=new Map(profile.quest
 const before=new Map(effectiveBank().map(q=>[q.id,q]));
 const answerProfile=read('data/answer-review-2026.json'),answerRows=new Map(answerProfile.questions.map(r=>[r.id,r]));
 const beforeAnswers=new Map(effectiveBank({polish:true}).map(q=>[q.id,q]));
+const stemProfile=read('data/stem-fluency-2026.json'),stemRows=new Map(stemProfile.questions.map(r=>[r.id,r]));
+const beforeStems=new Map(effectiveBank({polish:true,answers:true}).map(q=>[q.id,q]));
 const sha=q=>createHash('sha256').update(JSON.stringify(q)).digest('hex');
+function stemsExpected(q){
+ const r=stemRows.get(q.id);if(!r)return q;
+ assert.equal(sha(q),r.beforeSha256,q.id+' exact pre-stem snapshot');
+ const after={...q,question:{...q.question,variants:r.variants}};
+ assert.equal(sha(after),r.afterSha256,q.id+' exact post-stem snapshot');return after;
+}
+function beforeStemVersion(q){
+ const r=stemRows.get(q.id);if(!r)return q;
+ assert.equal(sha(q),r.afterSha256,q.id+' current stem snapshot');
+ const old=beforeStems.get(q.id);assert.equal(sha(old),r.beforeSha256,q.id);return old;
+}
 function answersExpected(q){
- const r=answerRows.get(q.id);if(!r)return q;
+ const r=answerRows.get(q.id);if(!r)return stemsExpected(q);
  assert.equal(sha(q),r.beforeSha256,q.id+' exact pre-answer snapshot');
  const after={...q,answers:r.answers};assert.equal(sha(after),r.afterSha256,q.id+' exact post-answer snapshot');
- return after;
+ return stemsExpected(after);
 }
 function beforeAnswerVersion(q){
+ q=beforeStemVersion(q);
  const r=answerRows.get(q.id);if(!r)return q;
  assert.equal(sha(q),r.afterSha256,q.id+' current answer snapshot');
  const old=beforeAnswers.get(q.id);assert.equal(sha(old),r.beforeSha256,q.id);
@@ -30,4 +44,4 @@ function unpolishedVersion(q){
  const old=before.get(q.id);assert.equal(sha(old),r.beforeSha256,q.id);
  return old;
 }
-module.exports={profile,answerProfile,sha,polishedExpected,unpolishedVersion,answersExpected,beforeAnswerVersion};
+module.exports={profile,answerProfile,stemProfile,sha,polishedExpected,unpolishedVersion,answersExpected,beforeAnswerVersion,beforeStemVersion,stemsExpected};

@@ -60,6 +60,9 @@ def audit():
  answers=json.loads((ROOT/'data/answer-review-2026.json').read_text())
  revised_answers={r['id']:r['answers'] for r in answers['questions']}
  bank=[dict(q,answers=revised_answers[q['id']]) if q['id'] in revised_answers else q for q in bank]
+ stems=json.loads((ROOT/'data/stem-fluency-2026.json').read_text())
+ revised_stems={r['id']:r['variants'] for r in stems['questions']}
+ bank=[dict(q,question=dict(q['question'],variants=revised_stems[q['id']])) if q['id'] in revised_stems else q for q in bank]
  source=json.loads((ROOT/'data/question-sources.json').read_text())
  sources={s['id']:s for s in source['sources']}
  for q in bank:

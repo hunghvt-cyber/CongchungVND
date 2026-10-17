@@ -1,3 +1,9 @@
+## Biên tập câu dẫn và toàn bộ biến thể — 18/10/2026
+
+Đã áp dụng lượt biên tập trên đủ **793 câu / 1.411 câu dẫn và biến thể**: sửa **1.096 bản thuộc 587 câu**, giữ nguyên 315 bản. Có 117 câu được sửa bằng các đoạn viết riêng theo tình huống; phần còn lại qua quy tắc ngôn ngữ có giới hạn hoặc giữ nguyên. Bổ sung chủ ngữ, làm rõ từ viết tắt, tách ý và hoàn chỉnh câu hỏi cuối; giữ nguyên toàn bộ 3.172 lựa chọn, khóa, số liệu, mốc thời gian và căn cứ pháp luật. Không thêm biến thể và không thay trạng thái câu hỏi.
+
+**102/102 kiểm thử Node đạt**, gồm 9.690 trường hợp chấm điểm trên 793 câu. [Báo cáo](reports/stem-fluency-2026-10-18.md), [đối chiếu từng biến thể](reports/stem-fluency-2026-10-18.json), [TAP](reports/stem-fluency-tests-2026-10-18.tap). Lớp `data/stem-fluency-2026.json` áp dụng sau biên tập phương án, chỉ thay `question.variants` và kiểm tra SHA-256 trước/sau. Tạo lại bằng `node scripts/build-stem-fluency-2026-10-18.cjs`. App tải 24 tệp dữ liệu, vẫn gồm 813 bản ghi, 793 câu đang dùng và 20 câu giữ để rà soát. Lượt này không chứng nhận pháp lý lại toàn ngân hàng; hàng đợi pháp lý DEP26-006 vẫn còn.
+
 ## Thống kê ôn tập — 18/10/2026
 
 Ôn tập nay lưu từng câu ngay sau khi chấm bằng cùng tên/số điện thoại. Vào **Thống kê ôn tập và thi thử → Ôn tập → Xem thống kê** để xem chủ đề hay sai, tỷ lệ sai, tổng lượt và số câu khác nhau; bấm **Ôn lại các câu từng sai** để luyện đúng nhóm. Xem lại không cộng lượt, ôn lại là lượt mới. Dữ liệu bắt đầu từ bản cập nhật này, không phục dựng buổi cũ chưa lưu. Điểm thi và bảng xếp hạng không cộng kết quả ôn.

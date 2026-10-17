@@ -134,7 +134,10 @@ async function loadQuestions() {
   const polished = await applyEditorialPolish(continued, await polish.json());
   const answers = await fetch('./data/answer-review-2026.json', {cache:'no-cache'});
   if (!answers.ok) throw new Error('Không thể tải bản biên tập phương án trả lời.');
-  return applyAnswerReview(polished, await answers.json());
+  const answered = await applyAnswerReview(polished, await answers.json());
+  const stems = await fetch('./data/stem-fluency-2026.json', {cache:'no-cache'});
+  if (!stems.ok) throw new Error('Không thể tải bản biên tập câu dẫn.');
+  return applyStemFluency(answered, await stems.json());
 }
 
 async function applyApplicationWording(bank, profile) {
@@ -233,6 +236,26 @@ async function applyAnswerReview(bank, profile) {
     revisions.set(row.id,{...old,answers:JSON.parse(JSON.stringify(answers))});
     if (await sha(old)!==row.beforeSha256 || await sha(revisions.get(row.id))!==row.afterSha256)
       throw new Error('Phương án trả lời không khớp phiên bản đã biên tập.');
+  }));
+  return bank.map(q=>revisions.get(q.id)||q);
+}
+
+async function applyStemFluency(bank, profile) {
+  if (!profile || profile.version !== 1 || profile.scope !== 'question-variants-only' || !Array.isArray(profile.questions))
+    throw new Error('Bản biên tập câu dẫn không hợp lệ.');
+  const originals = new Map(bank.map(q=>[q.id,q])), revisions = new Map();
+  const sha = async q => Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',
+    new TextEncoder().encode(JSON.stringify(q)))),b=>b.toString(16).padStart(2,'0')).join('');
+  await Promise.all(profile.questions.map(async row=>{
+    const old=originals.get(row?.id), variants=row?.variants;
+    if (!old || revisions.has(row.id) || !eligibleQuestion(old) || !Array.isArray(variants) ||
+        variants.length!==old.question.variants.length || variants.some(v=>typeof v!=='string'||!v.trim()) ||
+        new Set(variants).size!==variants.length)
+      throw new Error('Câu dẫn không hợp lệ hoặc thay đổi số biến thể.');
+    // Only the stems can be replaced; answers and all other fields come from old.
+    revisions.set(row.id,{...old,question:{...old.question,variants:variants.slice()}});
+    if (await sha(old)!==row.beforeSha256 || await sha(revisions.get(row.id))!==row.afterSha256)
+      throw new Error('Câu dẫn không khớp phiên bản đã biên tập.');
   }));
   return bank.map(q=>revisions.get(q.id)||q);
 }
